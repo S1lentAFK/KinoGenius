@@ -47,7 +47,7 @@ def login():
     password = entry_password.get()
 
 
-    response = requests.post("http://13.53.101.41/login", json={"username": username, "password": password})
+    response = requests.post("http://16.170.246.163/login", json={"username": username, "password": password})
 
     if response.status_code == 200:
         try:
@@ -74,7 +74,7 @@ def poslogin():
     password = entry_password2.get()
 
 
-    response = requests.post("http://13.53.101.41/login", json={"username": username, "password": password})
+    response = requests.post("http://16.170.246.163/login", json={"username": username, "password": password})
 
     if response.status_code == 200:
         try:
@@ -114,7 +114,7 @@ def register():
     save_user_info(username, password, selected_genres)
 
 
-    response = requests.post("http://13.53.101.41/register", json={"username": username, "password": password, "genres": selected_genres})
+    response = requests.post("http://16.170.246.163/register", json={"username": username, "password": password, "genres": selected_genres})
 
     if response.status_code == 200:
         messagebox.showinfo("Registration Successful", "You can now login.")
@@ -187,8 +187,16 @@ class MovieRecommendationsWidget(customtkinter.CTkFrame):
             json_label = customtkinter.CTkLabel(toplevel, text=movie_json, wraplength=400, justify="left", anchor="w")
             json_label.pack(pady=5, padx=10, anchor="w")
 
+        selected_genre = selected_genres[0] if selected_genres else ""
 
-        button = customtkinter.CTkButton(self, image=tk_image, text=movie_name, compound=tk.TOP, command=show_details)
+        # Check if the movie's genre matches the user-selected genre
+        if selected_genre in movie['genre']:
+            # Display the recommended genre as the text of the button
+            button_text = f"{movie_name}\nRecommended: {selected_genre}"
+        else:
+            button_text = movie_name
+
+        button = customtkinter.CTkButton(self, text=button_text, image=tk_image, compound=tk.TOP, command=show_details)
         button.configure(width=button_width, height=button_height)
         button.grid(row=row, column=col, padx=10, pady=5)
 
@@ -291,7 +299,7 @@ def show_movie_details(movie):
 
 
 def select_and_send_genres(user_id, genres):
-    response = requests.post("http://13.53.101.41/update_genres", json={"user_id": user_id, "genres": genres})
+    response = requests.post("http://16.170.246.163/update_genres", json={"user_id": user_id, "genres": genres})
 
     try:
         response_data = response.json()
@@ -530,7 +538,7 @@ def create_button_for_json(file_path, column):
 def login_with_credentials(username, password):
 
     root2.withdraw()
-    response = requests.post("http://13.53.101.41/login", json={"username": username, "password": password})
+    response = requests.post("http://16.170.246.163/login", json={"username": username, "password": password})
 
     if response.status_code == 200:
         try:
