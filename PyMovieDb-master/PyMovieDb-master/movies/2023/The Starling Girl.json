@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "The Starling Girl",
+  "url": "https://www.imdb.com/tt21156390/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTQyOTgzOWEtZjM0OS00YzBlLThlMDUtMWY1YWVhNmNhYTkxXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+  "description": "17-year-old Jem Starling struggles with her place within her Christian fundamentalist community. But everything changes when her magnetic youth pastor Owen returns to their church.",
+  "review": {
+    "author": "zampino-359-446228",
+    "dateCreated": "2023-02-28",
+    "inLanguage": "English",
+    "heading": "Brilliant, do not miss.",
+    "reviewBody": "Taking place in beautiful green Kentucky in a Christian fundamentalist community The Starling Girl pulls you in from the jump. It is nothing like what you might expect. Eliza Scanlan and Lewis Pullman are the the stars in first time writer/director Laurel Pamet&apos;s first feature film and it is a brilliant debut. A coming of age film, that becomes a tight psychological thriller, that becomes a meditation on life and God and a woman&apos;s place in the world. This film hits all the marks from costumes and production design, to stunning cinematography, to great music and masterful editing. There is nothing about this film that is ordinary or mundane. This is a a do not miss movie that will surely become a classic.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 1869,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2023-07-11",
+  "keywords": "christian fundamentalism,coming of age,youth pastor,youth group,sexual awakening",
+  "duration": "PT1H57M",
+  "actor": [
+    {
+      "name": "Eliza Scanlen",
+      "url": "https://www.imdb.com/name/nm7340546/"
+    },
+    {
+      "name": "Lewis Pullman",
+      "url": "https://www.imdb.com/name/nm5730649/"
+    },
+    {
+      "name": "Jimmi Simpson",
+      "url": "https://www.imdb.com/name/nm0801051/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Laurel Parmet",
+      "url": "https://www.imdb.com/name/nm2137998/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Laurel Parmet",
+      "url": "https://www.imdb.com/name/nm2137998/"
+    }
+  ]
+}

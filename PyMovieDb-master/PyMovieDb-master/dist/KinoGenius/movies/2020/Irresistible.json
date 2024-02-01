@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Irresistible",
+  "url": "https://www.imdb.com/tt9076562/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTVhMDIwOGEtMTY1Zi00YzU1LTk0NTEtMWJhODhmM2EyM2VkXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+  "description": "A Democratic strategist helps a retired veteran run for mayor in a small, conservative Midwest town.",
+  "review": {
+    "author": "Gordon-11",
+    "dateCreated": "2020-06-28",
+    "inLanguage": "English",
+    "heading": "Enjoyable",
+    "reviewBody": "This is a very interesting film about the behind the scenes of American politics. It is engaging, funny and witty all at the same time. I enjoyed it.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 23147,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2020-06-26",
+  "keywords": "political satire,american politics,election campaign,political campaign,wisconsin",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Steve Carell",
+      "url": "https://www.imdb.com/name/nm0136797/"
+    },
+    {
+      "name": "Rose Byrne",
+      "url": "https://www.imdb.com/name/nm0126284/"
+    },
+    {
+      "name": "Chris Cooper",
+      "url": "https://www.imdb.com/name/nm0177933/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jon Stewart",
+      "url": "https://www.imdb.com/name/nm0829537/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jon Stewart",
+      "url": "https://www.imdb.com/name/nm0829537/"
+    }
+  ]
+}

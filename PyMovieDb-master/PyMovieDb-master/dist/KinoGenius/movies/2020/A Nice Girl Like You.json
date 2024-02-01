@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "A Nice Girl Like You",
+  "url": "https://www.imdb.com/tt3278540/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGVlZjkyMGItMWJiMC00MzFkLWIyYTMtZTU3Yjg3OTM3M2QwXkEyXkFqcGdeQXVyODQ2ODY5MQ@@._V1_.jpg",
+  "description": "After being accused of being too inhibited by her ex-boyfriend, a violinist creates a rather wild to-do list that sends her on a whirlwind journey of self-discovery.",
+  "review": {
+    "author": "jillbobaggins-07337",
+    "dateCreated": "2020-09-20",
+    "inLanguage": "English",
+    "heading": "Never getting this time back...",
+    "reviewBody": "I obviously wasn&apos;t expecting a huge amount from this film but thought a light hearted comedy on a Sunday arvo would be perfect. It&apos;s terrible... ZERO CHEMISTRY between the leads. Adhir is the best thing about this film to be fair. Honestly, so bad and cringy... don&apos;t bother guys..",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 2
+    }
+  },
+  "rating": {
+    "ratingCount": 7052,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2020-07-17",
+  "keywords": "sex talk,caught watching pornography,woman wears a bathrobe,music audition,acupuncture",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Lucy Hale",
+      "url": "https://www.imdb.com/name/nm1423955/"
+    },
+    {
+      "name": "Leonidas Gulaptis",
+      "url": "https://www.imdb.com/name/nm3402680/"
+    },
+    {
+      "name": "Mindy Cohn",
+      "url": "https://www.imdb.com/name/nm0169934/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chris Riedell",
+      "url": "https://www.imdb.com/name/nm4801201/"
+    },
+    {
+      "name": "Nick Riedell",
+      "url": "https://www.imdb.com/name/nm5485262/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ayn Carrillo Gailey",
+      "url": "https://www.imdb.com/name/nm3072662/"
+    },
+    {
+      "name": "Andrea Marcellus",
+      "url": "https://www.imdb.com/name/nm0545243/"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Run",
+  "url": "https://www.imdb.com/tt8633478/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjdmZDlkMzItNTg0OS00MjAxLWE0ZTQtZjdhOWM1MTJkOTc0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "description": "A homeschooled teenager begins to suspect her mother is keeping a dark secret from her.",
+  "review": {
+    "author": "paulclaassen",
+    "dateCreated": "2021-01-21",
+    "inLanguage": "English",
+    "heading": "Suspenseful and creepy on a different level.",
+    "reviewBody": "&apos;Run&apos; is a well crafted, tense thriller that hits you with shocking twist upon shocking twist.\n\nWhat happens when you suddenly don&apos;t trust your mom anymore, after she has lovingly taken care of you for 17 years? &apos;Run&apos; explores this - with nail-biting suspense! This was creepy on a completely different level. The film&apos;s protagonist is Chloe, a paraplegic (excellently portrayed by real-life wheelchair bound actress Kiera Allen). Whenever a thriller features a character with a disability (or pregnant woman) the suspense is automatically elevated. &apos;Run&apos; became more intense and suspenseful with every scene.\n\nOnce the characters are set up, it doesn&apos;t take long before events take a turn for the worse, and Chloe realizes she&apos;s a prisoner within the confines of her own home. I don&apos;t want to do any spoilers, so I&apos;m not going to delve too deep into the story. This is one of those movies where the ending couldn&apos;t come soon enough. Not because I didn&apos;t like it, but because it was so nerve wrecking that I could hardly contain my curiosity to see how it would end. Amazingly, the film simply never loses momentum. This is a rather disturbing psychological thriller, and one of the must-see films of 2020 (if you&apos;re into thrillers).\n\nKiera Allan brilliantly carries the film, and Sarah Paulsen is superb as the mother, Diane. I thought &apos;Run&apos; was excellent.\n\nWould I watch it again? Yes.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 93073,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2021-04-02",
+  "keywords": "revenge,kidnapping,child abduction,mother daughter relationship,munchausen syndrome by proxy",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Sarah Paulson",
+      "url": "https://www.imdb.com/name/nm0005299/"
+    },
+    {
+      "name": "Kiera Allen",
+      "url": "https://www.imdb.com/name/nm6266674/"
+    },
+    {
+      "name": "Sara Sohn",
+      "url": "https://www.imdb.com/name/nm3337639/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Aneesh Chaganty",
+      "url": "https://www.imdb.com/name/nm3792134/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Aneesh Chaganty",
+      "url": "https://www.imdb.com/name/nm3792134/"
+    },
+    {
+      "name": "Sev Ohanian",
+      "url": "https://www.imdb.com/name/nm3539578/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Spenser Confidential",
+  "url": "https://www.imdb.com/tt8629748/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTdkOTEwYjMtNDA1YS00YzVlLTg0NWUtMmQzNDZhYWUxZmIyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "When two Boston police officers are murdered, ex-cop Spenser teams up with his no-nonsense roommate Hawk to take down criminals.",
+  "review": {
+    "author": "mandorallen-the-lion",
+    "dateCreated": "2020-03-06",
+    "inLanguage": "English",
+    "heading": "Good flick",
+    "reviewBody": "If you&apos;re taking this more seriously than that you weren&apos;t paying attention. There&apos;s not a moment in this movie where they submitted any requests for you to think higher of this than a fun flick. Try judging it on that.\n\nIt was fun. For fans of die hard and such. Was it dark and depressing like many crime drama&apos;s? no. Was it stupid like most comedy crime dramas? no. Was it boring like most everything else? no.\n\nFun characters, with great people acting them, obviously. Alan arkin for god&apos;s sake. (but she stole the cake if we&apos;re honest) Plot was never slow. Setting is always engaging. Boston is just fun . . .",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 96068,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2020-03-06",
+  "keywords": "based on series of novels,based on tv series,innocent cop framed,ex cop,police corruption",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Mark Wahlberg",
+      "url": "https://www.imdb.com/name/nm0000242/"
+    },
+    {
+      "name": "Winston Duke",
+      "url": "https://www.imdb.com/name/nm6328300/"
+    },
+    {
+      "name": "Alan Arkin",
+      "url": "https://www.imdb.com/name/nm0000273/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Berg",
+      "url": "https://www.imdb.com/name/nm0000916/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sean O&apos;Keefe",
+      "url": "https://www.imdb.com/name/nm1259610/"
+    },
+    {
+      "name": "Brian Helgeland",
+      "url": "https://www.imdb.com/name/nm0001338/"
+    },
+    {
+      "name": "Robert B. Parker",
+      "url": "https://www.imdb.com/name/nm0662582/"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Friendsgiving",
+  "url": "https://www.imdb.com/tt8431078/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmYwMzBlZTUtNzZhMS00MmQ1LTg0ZWYtYzAyZmI4OTRmNGM2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+  "description": "Molly and Abbey, along with their crew of close friends and acquaintances, host a dysfunctional, comical and chaotic Thanksgiving dinner.",
+  "review": {
+    "author": "Connor73642",
+    "dateCreated": "2021-02-14",
+    "inLanguage": "English",
+    "heading": "Don&apos;t. Just stop watching now.",
+    "reviewBody": "I&apos;m not even so sure they had a script for it. Bad. Like, really really bad.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 3678,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2020-10-23",
+  "keywords": "male rear nudity,dominatrix costume,thanksgiving,los angeles california,california",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Malin Akerman",
+      "url": "https://www.imdb.com/name/nm0015196/"
+    },
+    {
+      "name": "Kat Dennings",
+      "url": "https://www.imdb.com/name/nm0993507/"
+    },
+    {
+      "name": "Jack Donnelly",
+      "url": "https://www.imdb.com/name/nm3214649/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Nicol Paone",
+      "url": "https://www.imdb.com/name/nm0660098/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nicol Paone",
+      "url": "https://www.imdb.com/name/nm0660098/"
+    }
+  ]
+}

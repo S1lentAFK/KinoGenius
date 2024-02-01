@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Witches",
+  "url": "https://www.imdb.com/tt0805647/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjRkYjlhMjEtYzIwOC00ZWYzLTgyMmQtYjI5M2UzNDJkNTU2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "A young boy and his grandmother have a run-in with a coven of witches and their leader.",
+  "review": {
+    "author": "Sleepin_Dragon",
+    "dateCreated": "2020-11-09",
+    "inLanguage": "English",
+    "heading": "Please make these awful remakes stop.",
+    "reviewBody": "Oh Dear,\n\nThis should have been good, it needed to be good, sadly it just isn&apos;t. It&apos;s one of those films where a remake didn&apos;t seem to be necessary, but as someone that loved Roald Dahl as a child my interest was peaked.\n\nIt&apos;s inconsistent throughout, did they perhaps rush it because of Covid? The special effects look decent in parts, and woeful in others, Anne Hathaway displays personality it&apos;s fair to say, but her accent..... If anyone remembers Rentaghost, think Miss Popov, she spans countries from Ireland to Russia, it had me chuckling.\n\nOnce again, please, please try and give us something new and original, stop taking things that have already been made, and making them ten times worse. An extra point for casting the wonderful Josette Simon.\n\nIt made me want to watch Anjelica Huston.\n\nI paid to download it, that money could have gone on something less awful, like a Donny Osmond cd.\n\nNaff, 3/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 45711,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2020-10-26",
+  "keywords": "witch,based on novel,coven,witchcraft,taking off shoes",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Anne Hathaway",
+      "url": "https://www.imdb.com/name/nm0004266/"
+    },
+    {
+      "name": "Octavia Spencer",
+      "url": "https://www.imdb.com/name/nm0818055/"
+    },
+    {
+      "name": "Stanley Tucci",
+      "url": "https://www.imdb.com/name/nm0001804/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Zemeckis",
+      "url": "https://www.imdb.com/name/nm0000709/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Zemeckis",
+      "url": "https://www.imdb.com/name/nm0000709/"
+    },
+    {
+      "name": "Kenya Barris",
+      "url": "https://www.imdb.com/name/nm1244069/"
+    },
+    {
+      "name": "Guillermo del Toro",
+      "url": "https://www.imdb.com/name/nm0868219/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "Movie",
+  "name": "Puzzle",
+  "url": "https://www.imdb.com/tt6933454/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2VjM2QyYjItODk1ZC00OTliLTllZjktZDc3NjA4NTE4YjViXkEyXkFqcGdeQXVyODcyODY1Mzg@._V1_.jpg",
+  "description": "Agnes, taken for granted as a suburban mother, discovers a passion for solving jigsaw puzzles which unexpectedly draws her into a new world - where her life unfolds in ways she could never have imagined.",
+  "review": {
+    "author": "torrascotia",
+    "dateCreated": "2018-06-21",
+    "inLanguage": "English",
+    "heading": "Little Miss Jigsaw",
+    "reviewBody": "I managed to attend the European premier of this at the opening night gala of the Edinburgh Film Festival. In the past some of the movies chosen to open the Edinburgh festival have been poor quality and chosen due to their links with Scotland. However in this case they managed to pick a movie which may just be one of the best on show this year. The story is about a mother of two who seems more of less content with her family life but on her birthday is presented with a jigsaw puzzle. Her life is so predictable she knows what her husband will say before he does. Completing this puzzle seems to give her a sense of achievement which she doesn&apos;t seem to be able to find anywhere else in her life. This sets her off on a mission to find more puzzles to complete and opens up a new life for her...possibly. The tone of the movie is somewhat offbeat, quite a few times there were members of the audience laughing at what seemed inappropriate times. You also have to suspend your disbelief for the story to work. It takes a while before you notice the movie is set in the present day. The main character is somewhat strange as well, its unclear if her quirky behaviour is supposed to be due to a sheltered life or something like Aspergers/OCD. The reason I think its like an old fashioned fairy tale, up to a point is there is a handsome rich stranger who comes into her life via her interest in puzzles, who has the potential to whisk her away from a life of domestic drudgery. Its very much a story told from a female perspective at the expense of her husbands&apos; there is more a little bit of selfishness in the main character which to me makes her less sympathetic. Its an interesting film and worth the watch although how you respond will largely be down to whether you find this a movie about someone who is blinkered and selfish or someone escaping from a humdrum life of family responsibility. You decide.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 8416,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2018-09-07",
+  "keywords": "jigsaw puzzle,housewife,broken plate,competition,commuter train",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Kelly Macdonald",
+      "url": "https://www.imdb.com/name/nm0531808/"
+    },
+    {
+      "name": "Irrfan Khan",
+      "url": "https://www.imdb.com/name/nm0451234/"
+    },
+    {
+      "name": "David Denman",
+      "url": "https://www.imdb.com/name/nm0219292/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Marc Turtletaub",
+      "url": "https://www.imdb.com/name/nm1196755/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Polly Mann",
+      "url": "https://www.imdb.com/name/nm9985761/"
+    },
+    {
+      "name": "Oren Moverman",
+      "url": "https://www.imdb.com/name/nm0610219/"
+    },
+    {
+      "name": "Natalia Smirnoff",
+      "url": "https://www.imdb.com/name/nm0807023/"
+    }
+  ]
+}

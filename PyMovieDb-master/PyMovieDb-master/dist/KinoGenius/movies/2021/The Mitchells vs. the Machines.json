@@ -1,0 +1,72 @@
+{
+  "type": "Movie",
+  "name": "The Mitchells vs the Machines",
+  "url": "https://www.imdb.com/tt7979580/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjdkZjNjNDItYzc4MC00NTkxLTk1MWEtY2UyZjY5MjUwNDNkXkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_.jpg",
+  "description": "A quirky, dysfunctional family&apos;s road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity&apos;s unlikeliest last hope.",
+  "review": {
+    "author": "pugpool10",
+    "dateCreated": "2021-04-30",
+    "inLanguage": "English",
+    "heading": "Puts almost every other recent animated film to shame in ambition and execution",
+    "reviewBody": "No amount of behind-the-scenes cinematic team-ups in recent years can compare to the overwhelming power that the guys behind Gravity Falls (Michael Rianda and Jeff Rowe) and Spider-Verse (Phil Lord and Chris Miller) have when you put their creative minds together on a singular project.\n\nThis is an amazingly fun movie from start to finish, benefited by some brilliantly stylized CGI that continues the trend that Spider-Verse started but taken a few steps further with some added medium blending that very much blew my mind. It also helps that 92% of the jokes land right on target. Did I mention that it also has a disarmingly astute emotional core?\n\nHonestly, at this rate Sony Pictures Animation may be beating Disney and Pixar at their own game.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 123612,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2021-04-30",
+  "keywords": "robot,road trip,dog,furby,family road trip",
+  "duration": "PT1H54M",
+  "actor": [
+    {
+      "name": "Abbi Jacobson",
+      "url": "https://www.imdb.com/name/nm3434305/"
+    },
+    {
+      "name": "Danny McBride",
+      "url": "https://www.imdb.com/name/nm1144419/"
+    },
+    {
+      "name": "Maya Rudolph",
+      "url": "https://www.imdb.com/name/nm0748973/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Rianda",
+      "url": "https://www.imdb.com/name/nm5106831/"
+    },
+    {
+      "name": "Jeff Rowe",
+      "url": "https://www.imdb.com/name/nm6676487/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Rianda",
+      "url": "https://www.imdb.com/name/nm5106831/"
+    },
+    {
+      "name": "Jeff Rowe",
+      "url": "https://www.imdb.com/name/nm6676487/"
+    },
+    {
+      "name": "Peter Szilagyi",
+      "url": "https://www.imdb.com/name/nm1667980/"
+    }
+  ]
+}

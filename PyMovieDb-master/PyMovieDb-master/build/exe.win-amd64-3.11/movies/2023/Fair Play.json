@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Fair Play",
+  "url": "https://www.imdb.com/tt16304446/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTkyNGViMmQtODgxZS00MDg3LWI2YWUtNzQ3YWNlYTFiMWMyXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+  "description": "An unexpected promotion at a cutthroat hedge fund pushes a young couple&apos;s relationship to the brink, threatening to unravel far more than their recent engagement.",
+  "review": {
+    "author": "itsahoverboard",
+    "dateCreated": "2023-10-08",
+    "inLanguage": "English",
+    "heading": "The first Gen Z corporate cosplay film?",
+    "reviewBody": "This movie was like a cheap fan fiction novel come to life. Nothing about it felt realistic. The stock market jargon took up half the movie, made no sense, and was so boring. The couple&apos;s relationship didn&apos;t unfold naturally, and in fact almost nothing happens between them until the last twenty minutes. The actors are talented and clearly did their best, but were constantly enunciating their bad dialogue lines, at half speed, for some god-awful reason. The final scene was so cringe and felt like a different movie all of a sudden. The movie had a super low budget and it showed. I can&apos;t believe Netflix paid $20 million for this, but I&apos;m even more shocked that the movie actually got semi-decent reviews from critics. It was just laughably bad the whole way through, and unpleasantly stomach churning for the last ten minutes, then laughably bad again in the final shot.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 32340,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "18",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2023-10-06",
+  "keywords": "finance,jealousy,secret,hedge fund,psychological",
+  "duration": "PT1H53M",
+  "actor": [
+    {
+      "name": "Phoebe Dynevor",
+      "url": "https://www.imdb.com/name/nm3697443/"
+    },
+    {
+      "name": "Alden Ehrenreich",
+      "url": "https://www.imdb.com/name/nm2403277/"
+    },
+    {
+      "name": "Eddie Marsan",
+      "url": "https://www.imdb.com/name/nm0550371/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chloe Domont",
+      "url": "https://www.imdb.com/name/nm2132542/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Chloe Domont",
+      "url": "https://www.imdb.com/name/nm2132542/"
+    }
+  ]
+}

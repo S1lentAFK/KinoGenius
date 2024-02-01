@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "House of Gucci",
+  "url": "https://www.imdb.com/tt11214590/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzdlMTMyZWQtZWNmMC00MTJiLWIyMWMtM2ZlZDdlYzZhNTc0XkEyXkFqcGdeQXVyMTMzNDE5NDM2._V1_.jpg",
+  "description": "When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel their legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately...murder.",
+  "review": {
+    "author": "severindringel",
+    "dateCreated": "2021-11-26",
+    "inLanguage": "English",
+    "heading": "When Americans pretend to be Italian...",
+    "reviewBody": "The second Ridley Scott film of this year is here! After his medieval epic The Last Duel flopped brilliantly at the box office, he can expect more in this respect with House of Gucci. Not only is Gucci one of the most famous and prestigious fashion brands, Lady Gaga is also in the lead role. I guess the strong fanbase of the singer will not be asked a second time. In the film, she suddenly finds herself part of the Gucci dynasty and becomes the protagonist of a toxic power struggle.\n\nYet Gaga is still a relative unknown in Hollywood-speak. She made her big breakthrough in the 2018 music film A Star is Born. Scott, as he did in The Last Duel, has assembled an incomparable star ensemble. Adam Driver, who seems to be establishing himself as the director&apos;s new darling, evergreens Al Pacino and Jeremy Irons and an unrecognisable Jared Leto embody the key roles in the Gucci clan. In addition, Salma Hayek emerges as a kind of mentor for Gaga&apos;s character. But who is Gaga playing anyway? She is the young and rebellious Patrizia Reggiani. An extroverted perennial who worms her way into the millionaire family with charm and fascination. She is courted by the ambitious Maurizio Gucci, played by Driver, who actually wants to leave the intrigues and sometimes shabby business dealings of his predecessors behind. Once he falls in love with Patrizia and marries her, he is left with no choice but to get involved again. Driver and Gaga share a very passionate chemistry in the first act, which you fully buy into with little dialogue and through pure body language. While Driver plays rather reserved and shy, this quality emanates especially from Gaga, who doesn&apos;t hold back in any of her intimate scenes. At least the two characters are able to unfold their own approaches here. But when Al Pacino&apos;s character Aldo Gucci, Maurizio&apos;s uncle, insists on his nephew&apos;s re-entry into the family business, the two lose all closeness to each other. Rather, it is only an extremely manipulative relationship that both actors have to show in a few scenes. All the more Aldo and his son Paolo Gucci, portrayed by Leto, come to the fore. From this point on, the film lapses into a few minutes of megalomania, largely due to Leto&apos;s performance. He is exclusively eccentric and desperate and all in all a tragic figure. Whether you find this Super Mario caricature brilliant or miserable is a matter of interpretation.\n\nHouse of Gucci begins extremely quietly and shows the rise of the lovers in well-done visual sequences. The performances are generally fitting and although the film seems anti-Italian, I love it when Adam Driver cruises through Milan on his Vespa. But as interesting as the pecking order and hierarchy within the Gucci family is, from the second act onwards the film devolves into an overplayed and hyperactive tragedy that, despite the craziness of its scenes and actors, actually manages to be long-winded. Fashion, creativity and the business idea are not a theme at all, which in no way brings us closer to this brand that is so present. In the end we have a family epic (the film lasts 2 ½ hours), with exclusively unsympathetic characters. One more request to Ridley Scott: just let your actors speak English and don&apos;t embarrass them with Italian stereotypes with accents.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 155742,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2021-11-26",
+  "keywords": "fashion,based on true story,italy,fashion house,1990s",
+  "duration": "PT2H38M",
+  "actor": [
+    {
+      "name": "Lady Gaga",
+      "url": "https://www.imdb.com/name/nm3078932/"
+    },
+    {
+      "name": "Adam Driver",
+      "url": "https://www.imdb.com/name/nm3485845/"
+    },
+    {
+      "name": "Al Pacino",
+      "url": "https://www.imdb.com/name/nm0000199/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ridley Scott",
+      "url": "https://www.imdb.com/name/nm0000631/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Becky Johnston",
+      "url": "https://www.imdb.com/name/nm0426539/"
+    },
+    {
+      "name": "Roberto Bentivegna",
+      "url": "https://www.imdb.com/name/nm1894782/"
+    },
+    {
+      "name": "Sara Gay Forden",
+      "url": "https://www.imdb.com/name/nm11099905/"
+    }
+  ]
+}

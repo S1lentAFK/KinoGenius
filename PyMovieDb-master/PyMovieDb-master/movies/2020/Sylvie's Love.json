@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Sylvie&apos;s Love",
+  "url": "https://www.imdb.com/tt9827834/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTI2ODkyODEtM2EzNy00OWE1LWIwODUtM2JhYzg0NTZkMDY4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "movieed1",
+    "dateCreated": "2020-12-30",
+    "inLanguage": "English",
+    "heading": "FINALLY",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 6358,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "12",
+  "genre": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "datePublished": "2020-12-23",
+  "keywords": "african american,1950s,1960s,black american,saxophone",
+  "duration": "PT1H54M",
+  "actor": [
+    {
+      "name": "Tessa Thompson",
+      "url": "https://www.imdb.com/name/nm1935086/"
+    },
+    {
+      "name": "Nnamdi Asomugha",
+      "url": "https://www.imdb.com/name/nm3060479/"
+    },
+    {
+      "name": "Eva Longoria",
+      "url": "https://www.imdb.com/name/nm0519456/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Eugene Ashe",
+      "url": "https://www.imdb.com/name/nm0038811/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Eugene Ashe",
+      "url": "https://www.imdb.com/name/nm0038811/"
+    }
+  ]
+}

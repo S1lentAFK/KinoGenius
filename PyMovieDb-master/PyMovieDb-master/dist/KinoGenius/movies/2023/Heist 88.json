@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Heist 88",
+  "url": "https://www.imdb.com/tt7718100/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTBhOTE1YmYtMzIxYy00YmQwLThjZDAtN2JiYWM5ZGZiN2FkXkEyXkFqcGdeQXVyMTUyMTgzNjY4._V1_.jpg",
+  "description": "A criminal mastermind recruits a group of young bank employees to steal 80 million dollars in one of the largest bank heists in US history.",
+  "review": {
+    "author": "frederico_r",
+    "dateCreated": "2023-10-01",
+    "inLanguage": "English",
+    "heading": "This movie is worth watching, dont be fooled by its rating!",
+    "reviewBody": "Heist 88, has managed to keep me interested and its fair to say, the rating for this movie at 4.6/10 is misleading. Focused on the banking industry back in the 80&apos;s, the movie guides you through the gap in technology and security measures in relation to wire transfers. Most importantly it also highlights the struggle on African-Americans who although have the knowledge and experience and work in high risk security positions, still make minimum wage and have challenges in their lives due to low income. In the final scenes however, a powerful message that showcased how the thought of greed and wealth is no match against high moral values, integrity & loyalty in certain people.\n\nGreat movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 1233,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": null,
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2023-09-29",
+  "keywords": "wire transfer,house music,heist,criminal mastermind,bank heist",
+  "duration": "PT1H23M",
+  "actor": [
+    {
+      "name": "Courtney B. Vance",
+      "url": "https://www.imdb.com/name/nm0005524/"
+    },
+    {
+      "name": "Dwayne Johnson-Cochran",
+      "url": "https://www.imdb.com/name/nm0426461/"
+    },
+    {
+      "name": "Bentley Green",
+      "url": "https://www.imdb.com/name/nm2646459/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Menhaj Huda",
+      "url": "https://www.imdb.com/name/nm0399630/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dwayne Johnson-Cochran",
+      "url": "https://www.imdb.com/name/nm0426461/"
+    }
+  ]
+}

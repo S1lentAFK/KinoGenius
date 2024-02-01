@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Spy Who Dumped Me",
+  "url": "https://www.imdb.com/tt6663582/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDY1MTA0NjgyN15BMl5BanBnXkFtZTgwMTEzNDQ4NTM@._V1_.jpg",
+  "description": "Best friends Audrey and Morgan unwittingly become entangled in an international conspiracy when one of them discovers that the boyfriend who dumped her was actually a spy.",
+  "review": {
+    "author": "jordan2240",
+    "dateCreated": "2019-08-29",
+    "inLanguage": "English",
+    "heading": "Relatively entertaining, but too long",
+    "reviewBody": "I like Mila Kunis, and find her performances generally entertaining. This film was no exception. There was plenty of over-the-top action, but I found it lacking in the comedy department (a few chuckles, but nothing more). My main criticism is that it dragged on too long, and I finally turned it off with about 20 minutes left, not caring how everything finally resolved. It needed to be funnier for me to recommend it, but as it stands, if someone asked me if it was worth the time, I&apos;d tell them &apos;no.&apos;",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 82084,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2018-08-22",
+  "keywords": "shootout,spy,title directed by female,male nudity,male rear nudity",
+  "duration": "PT1H57M",
+  "actor": [
+    {
+      "name": "Justin Theroux",
+      "url": "https://www.imdb.com/name/nm0857620/"
+    },
+    {
+      "name": "Kate McKinnon",
+      "url": "https://www.imdb.com/name/nm0571952/"
+    },
+    {
+      "name": "Blanka Györfi-Tóth",
+      "url": "https://www.imdb.com/name/nm7529030/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Susanna Fogel",
+      "url": "https://www.imdb.com/name/nm2573005/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Susanna Fogel",
+      "url": "https://www.imdb.com/name/nm2573005/"
+    },
+    {
+      "name": "David Iserson",
+      "url": "https://www.imdb.com/name/nm1503347/"
+    }
+  ]
+}

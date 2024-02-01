@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Sea Beast",
+  "url": "https://www.imdb.com/tt9288046/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTE2NDAyNDItYmVlYy00ZjliLWI1ZmQtMTQ1YTBiZDU5N2M3XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+  "description": "When a young girl stows away on the ship of a legendary sea monster hunter, they launch an epic journey into uncharted waters - and make history to boot.",
+  "review": {
+    "author": "CinemaClown",
+    "dateCreated": "2022-07-29",
+    "inLanguage": "English",
+    "heading": "Pirates Of The Caribbean Meets How To Train Your Dragon",
+    "reviewBody": "Pirates of the Caribbean meets How To Train Your Dragon in this simple, sweet & sumptuously animated sea voyage that&apos;s crafted with sincerity & rendered with finesse. The Sea Beast is a fascinating story about fantastic beasts & sailors who venture to find them and makes for one surprisingly delightful adventure-fantasy that packs no shortage of heart, heroics & humanity.\n\nCo-written & directed by Chris Williams, the story takes its inspiration from several well-known sources and mashes them together to come up with its amusing premise. What makes it worth viewing & investing into however are the colourful set of characters who are scripted with care, bestowed with proper arcs & exhibit strong personalities. And it&apos;s their relationships that drives the plot forward.\n\nThe animation is rich in detail & gorgeous to look at and also gets much of the oceanic physics right. Add to that, the picture is breezily paced and its moments of action also carry that sense of awe & wonder that its vibrant score complements beautifully. Still, it fails to stick the landing as its simplistic themes & easily resolved conflicts only hurt its emotional impact and prevent it from realising its true potential.\n\nOverall, The Sea Beast is a thoroughly fun, consistently entertaining & mostly satisfying offering that promises an enjoyable time to its viewers & delivers it effectively. Despite the familiar beats, there is a freshness to it but its last act also needed extra polish as there was more up for grabs than what the story eventually settles for. Nevertheless, the positives outweigh the negatives by a big margin and it scores better marks than anticipated.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 56476,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2022-07-08",
+  "keywords": "sea,sea monster,monster,beast,ship",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Karl Urban",
+      "url": "https://www.imdb.com/name/nm0881631/"
+    },
+    {
+      "name": "Zaris-Angel Hator",
+      "url": "https://www.imdb.com/name/nm9485683/"
+    },
+    {
+      "name": "Jared Harris",
+      "url": "https://www.imdb.com/name/nm0364813/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chris Williams",
+      "url": "https://www.imdb.com/name/nm0930261/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Chris Williams",
+      "url": "https://www.imdb.com/name/nm0930261/"
+    },
+    {
+      "name": "Nell Benjamin",
+      "url": "https://www.imdb.com/name/nm2803507/"
+    },
+    {
+      "name": "Sam Stratton",
+      "url": "https://www.imdb.com/name/nm8311902/"
+    }
+  ]
+}

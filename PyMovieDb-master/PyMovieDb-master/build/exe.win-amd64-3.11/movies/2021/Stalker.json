@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "Stalker",
+  "url": "https://www.imdb.com/tt0079944/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNThiZjM1NDEtZDdiNi00MTU5LTgwNjQtMTFlZTczZjhkYmZiXkEyXkFqcGdeQXVyMzEyMjE2NzA@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Alexandar",
+    "dateCreated": "2005-01-11",
+    "inLanguage": "English",
+    "heading": "Mesmerizing, intelligent and haunting yet overlong and inconsistent",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 142459,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.1
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "datePublished": null,
+  "keywords": "dog,jeep,guide,writer,professor",
+  "duration": "PT2H42M",
+  "actor": [
+    {
+      "name": "Alisa Freyndlikh",
+      "url": "https://www.imdb.com/name/nm0293981/"
+    },
+    {
+      "name": "Aleksandr Kaydanovskiy",
+      "url": "https://www.imdb.com/name/nm0435289/"
+    },
+    {
+      "name": "Anatoliy Solonitsyn",
+      "url": "https://www.imdb.com/name/nm0813463/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrei Tarkovsky",
+      "url": "https://www.imdb.com/name/nm0001789/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Arkadiy Strugatskiy",
+      "url": "https://www.imdb.com/name/nm0835297/"
+    },
+    {
+      "name": "Boris Strugatskiy",
+      "url": "https://www.imdb.com/name/nm0835298/"
+    },
+    {
+      "name": "Andrei Tarkovsky",
+      "url": "https://www.imdb.com/name/nm0001789/"
+    }
+  ]
+}

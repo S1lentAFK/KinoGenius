@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Final Portrait",
+  "url": "https://www.imdb.com/tt4494718/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUwMDc0NTU1MV5BMl5BanBnXkFtZTgwMTcxOTk3MjI@._V1_.jpg",
+  "description": "The story of Swiss painter and sculptor Alberto Giacometti.",
+  "review": {
+    "author": "CineMuseFilms",
+    "dateCreated": "2017-10-09",
+    "inLanguage": "English",
+    "heading": "If you enjoy watching paint dry this is your film",
+    "reviewBody": "If you enjoy watching paint dry this is your film. Imagine an artist who is unable to finish a painting without needing to start againand again. That is the basic premise of Final Portrait (2017). It&apos;s a bio-pic that looks into the idiosyncratic mind of renown Swiss artist Alberto Giacometti (Geoffrey Rush) in a story so lacking in forward narrative that many will be left wondering why they watched it at all.\n\nBased on real events, Final Portrait is an adaptation of a memoir by American writer James Lord (Armie Hammer) who is flattered when asked to pose for a portrait by Giacometti. Believing it may be a single session, it turns out to take almost three weeks of daily sittings. The artist lives amidst chaotic mess with a long-suffering wife who tolerates his obsession with a prostitute girlfriend. He hates banks; prefers to hide cash under his studio rubble; has few social filters; and is liked by all despite a tendency insult others. The portrait sessions are constantly interrupted by long walks, drinks at nearby bars, and frequent outbursts due to chronic perfectionism that ensures his works are never finished. He is unable to walk past his clay sculptures without making a change and some are so altered that they are reduced to stick figures. Lord&apos;s amused and bewildered fascination with the life of a creative genius keeps him cancelling his return flight to America just to see his final portrait.\n\nThe nineteen-day timeframe feels like the same event repeated nineteen times (mercifully, with some time compressions). Along the way, we watch the deeply etched face of the cantankerous Giacometti as he grimaces in self-rebuke, lusts after his girlfriend, and gazes deeply into the gaze of James Lord to search not for the look but the inner soul of another human being. If you can forgive Geoffrey Rush&apos;s Aussie-Swiss accent, there is much to admire in his characterisation of an angst-ridden artist. But it is also wearingly repetitive. Lord is the master&apos;s foil as the suited slick- back straight guy. Initially adrift in the world of an erratic painter, he is conservative and upright yet his vanity is drawn like a moth to the flame of genius, eager to understand Giacometti&apos;s creativity. While both play their part brilliantly, it is Geoffrey Rush who dominates the screen. The studio set is cluttered and claustrophobic, like the artist&apos;s mind, and the cinematography employs the shallow depth-of-field effect to dwell on detail, allowing sharply focused faces to peer between blurred works of art as if to say these are but points in time that will never find their final form.\n\nThere are clever ironies in watching a painter who studies his subject, while the subject studies the painter. It&apos;s a three-way mirror between audience, Rush and Lord. But such existential twists are not enough to elevate this film to a level of great meaning. Viewers enthralled by this field of art might enjoy the story but most others may struggle. It&apos;s like a moment in time that lasts nineteen weeks, then compressed into ninety minutes. There is little to look forward to as the ending has no more meaning than the beginning but is far more welcomed.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 5989,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2017-08-18",
+  "keywords": "comet,sculptor,painter,brother brother relationship,painting a portrait",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Geoffrey Rush",
+      "url": "https://www.imdb.com/name/nm0001691/"
+    },
+    {
+      "name": "Armie Hammer",
+      "url": "https://www.imdb.com/name/nm2309517/"
+    },
+    {
+      "name": "Tony Shalhoub",
+      "url": "https://www.imdb.com/name/nm0001724/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Stanley Tucci",
+      "url": "https://www.imdb.com/name/nm0001804/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stanley Tucci",
+      "url": "https://www.imdb.com/name/nm0001804/"
+    },
+    {
+      "name": "James Lord",
+      "url": "https://www.imdb.com/name/nm0520438/"
+    }
+  ]
+}

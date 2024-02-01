@@ -1,0 +1,72 @@
+{
+  "type": "Movie",
+  "name": "Klaus",
+  "url": "https://www.imdb.com/tt4729430/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "arcticerika",
+    "dateCreated": "2019-11-17",
+    "inLanguage": "English",
+    "heading": "Wholesome and Original",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 184476,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.2
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2019-11-15",
+  "keywords": "christmas,santa,friendship,forest,snow adventure",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Jason Schwartzman",
+      "url": "https://www.imdb.com/name/nm0005403/"
+    },
+    {
+      "name": "J.K. Simmons",
+      "url": "https://www.imdb.com/name/nm0799777/"
+    },
+    {
+      "name": "Rashida Jones",
+      "url": "https://www.imdb.com/name/nm0429069/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sergio Pablos",
+      "url": "https://www.imdb.com/name/nm0655053/"
+    },
+    {
+      "name": "Carlos Martínez López",
+      "url": "https://www.imdb.com/name/nm3582089/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sergio Pablos",
+      "url": "https://www.imdb.com/name/nm0655053/"
+    },
+    {
+      "name": "Jim Mahoney",
+      "url": "https://www.imdb.com/name/nm2700235/"
+    },
+    {
+      "name": "Zach Lewis",
+      "url": "https://www.imdb.com/name/nm2082813/"
+    }
+  ]
+}

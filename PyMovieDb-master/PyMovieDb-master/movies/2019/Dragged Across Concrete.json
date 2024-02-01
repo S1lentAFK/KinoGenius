@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Dragged Across Concrete",
+  "url": "https://www.imdb.com/tt6491178/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MTk5NDQ5Ml5BMl5BanBnXkFtZTgwODUxNzg0NzM@._V1_.jpg",
+  "description": "Once two overzealous cops get suspended from the force, they must delve into the criminal underworld to get their proper compensation.",
+  "review": {
+    "author": "ivanmessimilos",
+    "dateCreated": "2023-03-29",
+    "inLanguage": "English",
+    "heading": "Another brutal Zahler movie",
+    "reviewBody": "Another brutal film by director Zahler. He made a film again in his own style and with his own signature. It&apos;s also a great movie. At first, the film lasts too long and it seems to me that some scenes could have been shorter or cut out of the film, especially in the first hour or so. However, everything will be paid later. The story is not at all simple, there are a lot of characters and most of them have a good background and developed characteristics so that we can understand their choices. The film has several unexpected decisions, and I like that when the film is not predictable. Some really brutal and tense scenes in the last third of the movie. I can&apos;t understand the various criticisms of this film, the film follows some well-known rules, it looks very fresh and original. In addition, I have to praise Mel Gibson, one of his better roles, especially lately.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 53894,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2019-04-19",
+  "keywords": "heist,disgraced police officer,robbery,shootout,criminal",
+  "duration": "PT2H38M",
+  "actor": [
+    {
+      "name": "Mel Gibson",
+      "url": "https://www.imdb.com/name/nm0000154/"
+    },
+    {
+      "name": "Vince Vaughn",
+      "url": "https://www.imdb.com/name/nm0000681/"
+    },
+    {
+      "name": "Tory Kittles",
+      "url": "https://www.imdb.com/name/nm0457796/"
+    }
+  ],
+  "director": [
+    {
+      "name": "S. Craig Zahler",
+      "url": "https://www.imdb.com/name/nm0951975/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "S. Craig Zahler",
+      "url": "https://www.imdb.com/name/nm0951975/"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "When You Finish Saving the World",
+  "url": "https://www.imdb.com/tt12121582/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWZiMTc0NjMtOTNhNi00NTMzLTlmYmEtMTVlYzQzOWVlMmFkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "description": "Evelyn and her oblivious son Ziggy seek out replacements for each other as Evelyn desperately tries to parent an unassuming teenager at her shelter, while Ziggy fumbles through his pursuit of a brilliant young woman at school.",
+  "review": {
+    "author": "ranaajlan_",
+    "dateCreated": "2023-01-28",
+    "inLanguage": "English",
+    "heading": "Good. Could have been so much better.",
+    "reviewBody": "Hesitated between a 4-6 rating. Some stops of the film convey the gist of the story. Some are muddled, expected, and very naïve. Moore&apos;s pursuit of improving Kyle&apos;s life brushes off as a consequence to chasing off a romantic interest at some parts. Also, her performance is visibly dry at a lot of scenes. Glad to see how Finn has been shying away from Stranger Things shelter. However, his real-life personality has been shining through his acting since 2019 which requires a bit of improvement. A great performance from his end nonetheless. Maybe a bit of coherence to characters&apos; purpose would have been better.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 3759,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2023-07-31",
+  "keywords": "political protest,mother son relationship,recording studio,womens shelter,reference to the marshall islands",
+  "duration": "PT1H28M",
+  "actor": [
+    {
+      "name": "Julianne Moore",
+      "url": "https://www.imdb.com/name/nm0000194/"
+    },
+    {
+      "name": "Finn Wolfhard",
+      "url": "https://www.imdb.com/name/nm6016511/"
+    },
+    {
+      "name": "Billy Bryk",
+      "url": "https://www.imdb.com/name/nm10656677/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jesse Eisenberg",
+      "url": "https://www.imdb.com/name/nm0251986/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jesse Eisenberg",
+      "url": "https://www.imdb.com/name/nm0251986/"
+    }
+  ]
+}

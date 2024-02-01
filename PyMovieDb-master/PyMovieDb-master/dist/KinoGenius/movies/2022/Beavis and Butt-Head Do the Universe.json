@@ -1,0 +1,72 @@
+{
+  "type": "Movie",
+  "name": "Beavis and Butt-Head Do the Universe",
+  "url": "https://www.imdb.com/tt14145426/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTc5ZmNiYjItMjE3Mi00NTQ4LThjYjctZDBhZDNjYzBkNWI5XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "cfauteux",
+    "dateCreated": "2022-06-23",
+    "inLanguage": "English",
+    "heading": "Return to form",
+    "reviewBody": "While I appreciated the short lived reboot from about a decade ago, this bests it in every way. Great ridiculous story with some classic Beavis and Butthead scenarios. Mike Judge has outdone himself.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 12932,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "datePublished": "2022-06-29",
+  "keywords": "for grown ups animation,mature animation,adult cartoon,raunchy humor,buddy comedy",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Mike Judge",
+      "url": "https://www.imdb.com/name/nm0431918/"
+    },
+    {
+      "name": "Gary Cole",
+      "url": "https://www.imdb.com/name/nm0170550/"
+    },
+    {
+      "name": "Nat Faxon",
+      "url": "https://www.imdb.com/name/nm0269542/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Albert Calleros",
+      "url": "https://www.imdb.com/name/nm1401737/"
+    },
+    {
+      "name": "John Rice",
+      "url": "https://www.imdb.com/name/nm0723470/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mike Judge",
+      "url": "https://www.imdb.com/name/nm0431918/"
+    },
+    {
+      "name": "Lew Morton",
+      "url": "https://www.imdb.com/name/nm0608034/"
+    },
+    {
+      "name": "Guy Maxtone-Graham",
+      "url": "https://www.imdb.com/name/nm0561630/"
+    }
+  ]
+}

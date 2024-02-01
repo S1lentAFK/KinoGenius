@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Sonic the Hedgehog 3",
+  "url": "https://www.imdb.com/tt18259086/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmY4MzYyMmUtYTFlMC00N2RkLTk5NWQtMzE5YTc3NTBhMzc0XkEyXkFqcGdeQXVyMTY4OTIzNTEy._V1_.jpg",
+  "description": "Plot under wraps",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": null,
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2024-12-20",
+  "keywords": "sequel,sonic the hedgehog character,third part,based on video game,animal in title",
+  "duration": null,
+  "actor": [
+    {
+      "name": "Idris Elba",
+      "url": "https://www.imdb.com/name/nm0252961/"
+    },
+    {
+      "name": "James Marsden",
+      "url": "https://www.imdb.com/name/nm0005188/"
+    },
+    {
+      "name": "Ben Schwartz",
+      "url": "https://www.imdb.com/name/nm2355635/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeff Fowler",
+      "url": "https://www.imdb.com/name/nm1733778/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Pat Casey",
+      "url": "https://www.imdb.com/name/nm1352459/"
+    },
+    {
+      "name": "Josh Miller",
+      "url": "https://www.imdb.com/name/nm1351254/"
+    }
+  ]
+}

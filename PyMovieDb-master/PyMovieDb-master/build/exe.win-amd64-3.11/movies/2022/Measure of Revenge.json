@@ -1,0 +1,66 @@
+{
+  "type": "Movie",
+  "name": "Measure of Revenge",
+  "url": "https://www.imdb.com/tt9075388/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjRkN2E2MzktODQwMS00YTgyLTlkNzktOGQxMjEyOGUyZjk3XkEyXkFqcGdeQXVyNDY1NzI4NDc@._V1_.jpg",
+  "description": "The story follows theater actress Lillian Cooper (Leo) whose son (Weary) dies mysteriously. When the investigating officer rules the cause of death an accidental overdose, Lillian conducts her own investigation which leads her to ...",
+  "review": {
+    "author": "britcross",
+    "dateCreated": "2022-08-09",
+    "inLanguage": "English",
+    "heading": "I&apos;m Still Watching",
+    "reviewBody": "These reviews may represent climax and ending, but not too fast or too slow. I actually find it very intriguing so far and acting and writing not horrible. I&apos;ll provide an updated review because the low rating seems not well deserved so far....",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 524,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Thriller"
+  ],
+  "datePublished": "2022-08-26",
+  "keywords": "theater actress,accident,night,rain,guitar",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Sonnie Brown",
+      "url": "https://www.imdb.com/name/nm2259988/"
+    },
+    {
+      "name": "Jasmine Carmichael",
+      "url": "https://www.imdb.com/name/nm4927095/"
+    },
+    {
+      "name": "Keith Ramone Charles",
+      "url": "https://www.imdb.com/name/nm13535568/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peyfa",
+      "url": "https://www.imdb.com/name/nm12060844/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Shirley Heng",
+      "url": "https://www.imdb.com/name/nm13497389/"
+    },
+    {
+      "name": "Julian Lee",
+      "url": "https://www.imdb.com/name/nm13497390/"
+    },
+    {
+      "name": "Kenny Walakandou",
+      "url": "https://www.imdb.com/name/nm9266557/"
+    }
+  ]
+}

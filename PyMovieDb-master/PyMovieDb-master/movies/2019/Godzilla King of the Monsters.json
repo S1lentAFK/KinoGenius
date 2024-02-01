@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Godzilla: King of the Monsters",
+  "url": "https://www.imdb.com/tt3741700/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGFjYWNkMTMtMTg1ZC00Y2I4LTg0ZTYtN2ZlMzI4MGQwNzg4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.",
+  "review": {
+    "author": "kbayless-1",
+    "dateCreated": "2019-06-05",
+    "inLanguage": "English",
+    "heading": "Writers ruin what could have been a fantastic movie",
+    "reviewBody": "Ever since the perfection of CGI, Hollywood has come to the conclusion that if the special effects are good, then then movie is good. Thus, my 5 star rating. Half of the movie involved the monster battles and that gets 10 stars. The half of the movie where there is no monster presence gets 0. That averages out to a 5. Perhaps some day Hollywood will re-discover the lost art of screen writing and combine it with CGI to create a truly fantastic movie. But don&apos;t look for it to change soon. A lot of people came out of the theater visually dazzled by the special effects knowing that the story was awful but still thought it was a great movie. So they will continue make a lot of money creating these kind of movies and save on time & expense by not having to pay top dollar for a writer.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 200113,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "2019-05-29",
+  "keywords": "monster,terrorism,destruction,showdown,kidnapping",
+  "duration": "PT2H12M",
+  "actor": [
+    {
+      "name": "Kyle Chandler",
+      "url": "https://www.imdb.com/name/nm0151419/"
+    },
+    {
+      "name": "Vera Farmiga",
+      "url": "https://www.imdb.com/name/nm0267812/"
+    },
+    {
+      "name": "Millie Bobby Brown",
+      "url": "https://www.imdb.com/name/nm5611121/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Dougherty",
+      "url": "https://www.imdb.com/name/nm1002424/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Dougherty",
+      "url": "https://www.imdb.com/name/nm1002424/"
+    },
+    {
+      "name": "Zach Shields",
+      "url": "https://www.imdb.com/name/nm1296461/"
+    },
+    {
+      "name": "Max Borenstein",
+      "url": "https://www.imdb.com/name/nm1440919/"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "The Kill Room",
+  "url": "https://www.imdb.com/tt11908172/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODIxY2YzMjEtYjIzYS00MmE3LTkwYjQtZGUzYjY1M2IyMzZmXkEyXkFqcGdeQXVyMTQ4MzYwMTY5._V1_.jpg",
+  "description": "A hitman, his boss, an art dealer and a money-laundering scheme that accidentally turns the assassin into an overnight avant-garde sensation, one that forces her to play the art world against the underworld.",
+  "review": {
+    "author": "joker-4",
+    "dateCreated": "2023-09-28",
+    "inLanguage": "English",
+    "heading": "Entertaining enough",
+    "reviewBody": "The Kill Room is a crime satire set for slaying in the modern art world. Catering to an audience that might not be hip to those in jokes, director Nicol Paone wisely fills her canvas with the witty Samuel L. Jackson, the sexy Uma Thurman, and the chiseled Joe Manganiello. Although hung on stories seen before, The Kill Room is an entertaining enough piece worth a 98-minute glance in any cinematic gallery.\n\nScripted by Jonathan Jacobson, The Kill Room is amusing crime fiction wrapped in a comedic body bag as Reggie&apos;s murders eventually transform into avant-garde art. Reggie becomes known as the Bagman whose art, naturally, becomes more of a success than the laundering biz. The Kill Room itself then dips into a slight case of thievery as the plot follows Woody Allen&apos;s Small Time Crooks, which also features a cover business that becomes more of a success than the actual crime. As life imitates art, so too does art imitate art.\n\nThe Kill Room, like the art being satirized within, has clever subtext but lacks that deep impression. The movie successfully captures the transitory nature of art styles noting such as an allegory of movies as they exist within modern streaming services. The Kill Room itself might not present a shocking spectacle like the Bagman but when paired with a proper wine and cheese, could nicely kill off a Friday night.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 3999,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Thriller"
+  ],
+  "datePublished": "2023-09-29",
+  "keywords": "art",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Alexis Linkletter",
+      "url": "https://www.imdb.com/name/nm7641961/"
+    },
+    {
+      "name": "Joe Manganiello",
+      "url": "https://www.imdb.com/name/nm0542133/"
+    },
+    {
+      "name": "Danny Plaza",
+      "url": "https://www.imdb.com/name/nm5700531/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Nicol Paone",
+      "url": "https://www.imdb.com/name/nm0660098/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jonathan Jacobson",
+      "url": "https://www.imdb.com/name/nm0414871/"
+    }
+  ]
+}

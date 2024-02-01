@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Unsane",
+  "url": "https://www.imdb.com/tt7153766/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTYzMDYzMzA1MV5BMl5BanBnXkFtZTgwODUzODg2NDM@._V1_.jpg",
+  "description": "A young woman is involuntarily committed to a mental institution, where she is confronted by her greatest fear - but is it real or a product of her delusion?",
+  "review": {
+    "author": "Jared_Andrews",
+    "dateCreated": "2018-03-31",
+    "inLanguage": "English",
+    "heading": "Plenty of Promise, but is ultimately a bit Unsatisfying",
+    "reviewBody": "With most of Steven Soderberg&apos;s movies, he tells stories in a way that makes viewers unsure of what exactly is going on. Unsane is like that. The title indicates that the main character might be insane but also might not be insane. \n\n Well, it turns out the this movie has an excellent title because that&apos;s pretty accurate summation of the movie. A bit longer summation goes like this: the main character might be insane but also might not be insane but some people think she is insane but she makes some erratic choices so she cannot convince everyone that she&apos;s not insane but maybe she does that because she actually is insane. \n\n Sawyer Valentini (a strikingly unhinged Claire Foy) seems normal enough at first glance. She works a steady financial analyst job at a bank. She has a loving relationship with her mother. She goes on Tinder dates. But she&apos;s troubled by someone from her past, a man who has been stalking her for the past two years. She has difficulty dealing with the stress, so she turns to medication and therapy to cope. \n\n In her conversation with a therapist, she casually mentions that she&apos;s had suicidal thoughts in the past. The therapist exploits this casual mention and tricks Sawyer into signing a waiver voluntarily committing herself to 24 hours of observation at the clinic. \n\n Once inside, things become increasingly frustrating for Sawyer and even more so for viewers. She lashes out violently multiple times and ignores the advice of one helpful patient recovering from an opioid addiction, Nate, (Jay Pharoah showing off impressive dramatic acting chops), which subsequently gives the staff reason to extend her stay an additional week. Her inability to control her temper makes viewers wonder if she really does belong there.\n\nThat&apos;s as much as I can reveal without introducing spoilers. I can say that movie is a bit of a slow burn early on. Then the action picks up in a big way. \n\nThe story veers in a different direction, which causes some problems because we miss backstory that would have tied the story together in a neater, more affecting way. As it stands, the movie has a lot going on, but no part feels fully developed. Foy&apos;s lead performance and Soderberg&apos;s filmmaking keeps the film watchable throughout, but ultimately, it all feels a little unsatisfying.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 49362,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2018-03-23",
+  "keywords": "psychiatric ward,stalking,stalker,insurance scam,stabbed in the eye",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Claire Foy",
+      "url": "https://www.imdb.com/name/nm2946516/"
+    },
+    {
+      "name": "Joshua Leonard",
+      "url": "https://www.imdb.com/name/nm0502671/"
+    },
+    {
+      "name": "Jay Pharoah",
+      "url": "https://www.imdb.com/name/nm3982894/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven Soderbergh",
+      "url": "https://www.imdb.com/name/nm0001752/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jonathan Bernstein",
+      "url": "https://www.imdb.com/name/nm0077080/"
+    },
+    {
+      "name": "James Greer",
+      "url": "https://www.imdb.com/name/nm0007079/"
+    }
+  ]
+}

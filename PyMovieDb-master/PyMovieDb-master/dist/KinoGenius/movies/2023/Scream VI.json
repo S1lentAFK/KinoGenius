@@ -1,0 +1,72 @@
+{
+  "type": "Movie",
+  "name": "Scream VI",
+  "url": "https://www.imdb.com/tt17663992/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODBjM2M4YTQtNmJlMS00MGU2LWI4ZGYtZTA1MzdmZDAyMjFkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "description": "In the next installment, the survivors of the Ghostface killings leave Woodsboro behind and start a fresh chapter in New York City.",
+  "review": {
+    "author": "sharliep",
+    "dateCreated": "2023-03-14",
+    "inLanguage": "English",
+    "heading": "So many plot holes but still entertaining",
+    "reviewBody": "As someone who grew up with the original, I pretty much watch all of these whether I want to or not. I will say this was wasn&apos;t as cheesy as the last few have been. It just always cracks me up when a character gets stabbed on their side and in the stomach and don&apos;t have to go to the hospital or anything.\n\nThe killer was a cool twist. I had guessed it partially but was actually thrown off with the entire reveal of it, so that was cool, and the entire cast was enjoyable.\n\nIt&apos;s a decent movie, but I do hope they actually stop after this one. The same plot pretty much every movie tends to get a little boring.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 114161,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "18",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2023-03-10",
+  "keywords": "new york city,stabbed in the eye,telephone terror,overprotective sister,characters killed one by one",
+  "duration": "PT2H2M",
+  "actor": [
+    {
+      "name": "Courteney Cox",
+      "url": "https://www.imdb.com/name/nm0001073/"
+    },
+    {
+      "name": "Melissa Barrera",
+      "url": "https://www.imdb.com/name/nm4574440/"
+    },
+    {
+      "name": "Jenna Ortega",
+      "url": "https://www.imdb.com/name/nm4911194/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Matt Bettinelli-Olpin",
+      "url": "https://www.imdb.com/name/nm2366012/"
+    },
+    {
+      "name": "Tyler Gillett",
+      "url": "https://www.imdb.com/name/nm2419470/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Vanderbilt",
+      "url": "https://www.imdb.com/name/nm0888743/"
+    },
+    {
+      "name": "Guy Busick",
+      "url": "https://www.imdb.com/name/nm2361509/"
+    },
+    {
+      "name": "Kevin Williamson",
+      "url": "https://www.imdb.com/name/nm0932078/"
+    }
+  ]
+}

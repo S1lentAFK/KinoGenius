@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Scoob!",
+  "url": "https://www.imdb.com/tt3152592/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzA5M2NjNzMtZGFkMC00MTg4LThlODktN2YyZWVkZGY3OTVjXkEyXkFqcGdeQXVyODU2MDg1NzU@._V1_.jpg",
+  "description": "Scooby and the gang face their most challenging mystery ever: a plot to unleash the ghost dog Cerberus upon the world. As they race to stop this dogpocalypse, the gang discovers that Scooby has an epic destiny greater than anyone ...",
+  "review": {
+    "author": "mrturk182",
+    "dateCreated": "2020-05-15",
+    "inLanguage": "English",
+    "heading": "Solid Entertainment for Today&apos;s Meddling Kids... and Then Some",
+    "reviewBody": "This will probably be the entry in the Scooby-Doo franchise that is going to equally divide its audience, with each side giving its own valid reasons. Some viewers are going to appreciate the modernization of the story, while others will wish it had stayed in the late 1960s. Some are going to get a kick out of the pop culture references, while others will ask themselves why they are in a Scooby-Doo movie. Some will appreciate the superhero theme, while others will forget that Blue Falcon and Dynomutt have existed in the past. Some will recoil at the childish crude humor, while others may giggle at it. Some longtime Hanna-Barbara fanatics are going to love the tie-in with other characters, while others are going to call it a forced attempt to kick-start a shared universe. It&apos;ll be very interesting to see how the overall consensus falls, and it&apos;ll also be up to the individual to form its own opinion. At the end of the day, it&apos;s a kids&apos; film. That&apos;s the best anyone can say about it. It does what it can to introduce this franchise to a younger generation through those quirks and contemporary computer animation, while at the same time, it does have enough weight in the story and aims closer to the source material than more recent attempts, even when it doesn&apos;t always digest easy. It&apos;ll be up to you to decide where this lands. Obviously, it&apos;s more focused at entertaining today&apos;s kids than being a great entry in the Scooby-Doo canon. However, if it connects with the long-time meddling kids that grew up with the characters for over half a century, then it has definitely earned its extra Scooby Snack points.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 29564,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2020-07-10",
+  "keywords": "animal as human,shared universe,scooby doo character,great dane,cartoon dog",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Will Forte",
+      "url": "https://www.imdb.com/name/nm0287182/"
+    },
+    {
+      "name": "Mark Wahlberg",
+      "url": "https://www.imdb.com/name/nm0000242/"
+    },
+    {
+      "name": "Jason Isaacs",
+      "url": "https://www.imdb.com/name/nm0005042/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tony Cervone",
+      "url": "https://www.imdb.com/name/nm0148999/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Adam Sztykiel",
+      "url": "https://www.imdb.com/name/nm1186373/"
+    },
+    {
+      "name": "Jack C. Donaldson",
+      "url": "https://www.imdb.com/name/nm3242555/"
+    },
+    {
+      "name": "Derek Elliott",
+      "url": "https://www.imdb.com/name/nm5440708/"
+    }
+  ]
+}

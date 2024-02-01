@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Mainstream",
+  "url": "https://www.imdb.com/tt9224288/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmJjNGUxYjAtMTI0MS00ZTNlLWJmYTAtYzczOGM4NWRkMDBlXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+  "description": "In this cautionary tale, three people struggle to preserve their identities as they form an eccentric love triangle within the fast-moving internet age.",
+  "review": {
+    "author": "darioz-99232",
+    "dateCreated": "2020-11-01",
+    "inLanguage": "English",
+    "heading": "Brilliant acting but a story full of clichés",
+    "reviewBody": "First I gotta say Andrew Garfield is marvelous in this movie. His mimic and his movements are crazy and you&apos;re buying every part of his character. Maya Hawk is also good and Jason Schwartzman is solid as always. But now to the movie: the first 30 minutes started off great and I had very high expectations for the rest of the movie. It was funny, interesting and most importantly kind of making fun of influencers and social media. But then, the movie turned in another direction and was only filled with stereotypes like a 2000s high school movie. Suddenly there was only love and jealousy on the one hand, and on the other heartlessness and making big bucks. The movie could&apos;ve definitely turned out better, but Andrew Garfield safed the day with his acting!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 5207,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2021-05-07",
+  "keywords": "love triangle,fake penis,bartender,mouse costume,cockroach costume",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Andrew Garfield",
+      "url": "https://www.imdb.com/name/nm1940449/"
+    },
+    {
+      "name": "Maya Hawke",
+      "url": "https://www.imdb.com/name/nm1638321/"
+    },
+    {
+      "name": "Nat Wolff",
+      "url": "https://www.imdb.com/name/nm1822659/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gia Coppola",
+      "url": "https://www.imdb.com/name/nm0178886/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tom Stuart",
+      "url": "https://www.imdb.com/name/nm1814341/"
+    },
+    {
+      "name": "Gia Coppola",
+      "url": "https://www.imdb.com/name/nm0178886/"
+    }
+  ]
+}

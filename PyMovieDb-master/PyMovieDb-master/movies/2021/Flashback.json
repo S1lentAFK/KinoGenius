@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "The Education of Fredrick Fitzell",
+  "url": "https://www.imdb.com/tt8372094/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWZjNWFjODUtMTRhZi00MDBkLWJkYjctYmNjNmI0NWQ0NjRkXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg",
+  "description": "After a chance encounter with a man forgotten from his youth, Fred literally and metaphorically journeys into his past.",
+  "review": {
+    "author": "kay_rock",
+    "dateCreated": "2021-12-03",
+    "inLanguage": "English",
+    "heading": "I didn&apos;t realize how good it was until it was over",
+    "reviewBody": "I was really only half paying attention to this film until it absolutely stopped making sense, at which point I rewound a little bit and watched until the end.\n\nThey do a pretty good job of revealing the intent and meaning of the film - spoon-feeding it, really, at about the 3/4 mark, and then the rest settles into place even though it remains disjointed and non-linear (which is, actually, the whole point).\n\nIt wasn&apos;t until the credits rolled that I wanted to do that slow golf clap.\n\nAnd then I immediately restarted it and watched every moment, learning that there was important information in every scene and every line that made it much more logical, once you understand why those things are important.\n\nI highly recommend watching it twice. Brilliant job. I hope to see more from MacBride.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 6947,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2021-06-04",
+  "keywords": "journey,begins with a dream,overhead camera shot,job interview,boyfriend girlfriend relationship",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Dylan O&apos;Brien",
+      "url": "https://www.imdb.com/name/nm3729721/"
+    },
+    {
+      "name": "Liisa Repo-Martell",
+      "url": "https://www.imdb.com/name/nm0720082/"
+    },
+    {
+      "name": "Maika Monroe",
+      "url": "https://www.imdb.com/name/nm2140860/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Christopher MacBride",
+      "url": "https://www.imdb.com/name/nm2804532/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Christopher MacBride",
+      "url": "https://www.imdb.com/name/nm2804532/"
+    }
+  ]
+}

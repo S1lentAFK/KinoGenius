@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Fear Street: 1994",
+  "url": "https://www.imdb.com/tt6566576/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzQzYjIyZDQtMjBhZS00MzU3LTk0MTQtNTVmMDI3ZWY0ZWU3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "A circle of teenage friends accidentally encounter the ancient evil responsible for a series of brutal murders that have plagued their town for over 300 years. Welcome to Shadyside.",
+  "review": {
+    "author": "pawanpunjabithewriter",
+    "dateCreated": "2021-07-02",
+    "inLanguage": "English",
+    "heading": "Another Slasher?",
+    "reviewBody": "You&apos;ve gotta be kidding me.\n\nThis movie has fun, a little surprises, however, I would suggest not to exceed your expectations before watching this movie. I&apos;d been waiting to watch it for some time since it was announced by Netflix. It is, yet another, dark horrifying slasher. Haven&apos;t we watched the same again and again? This movie does have good fun though, you could enjoy it to some extent. Above Average. That&apos;s What a very good slasher movie can ho upto.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 92154,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "18",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2021-07-02",
+  "keywords": "lesbian character,witch,year 1994,ex girlfriend ex girlfriend relationship,murder",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Kiana Madeira",
+      "url": "https://www.imdb.com/name/nm2854112/"
+    },
+    {
+      "name": "Olivia Scott Welch",
+      "url": "https://www.imdb.com/name/nm7326511/"
+    },
+    {
+      "name": "Benjamin Flores Jr.",
+      "url": "https://www.imdb.com/name/nm4652001/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Leigh Janiak",
+      "url": "https://www.imdb.com/name/nm4074404/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "R.L. Stine",
+      "url": "https://www.imdb.com/name/nm0830419/"
+    },
+    {
+      "name": "Kyle Killen",
+      "url": "https://www.imdb.com/name/nm3189831/"
+    },
+    {
+      "name": "Phil Graziadei",
+      "url": "https://www.imdb.com/name/nm5177682/"
+    }
+  ]
+}

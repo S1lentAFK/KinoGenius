@@ -1,0 +1,66 @@
+{
+  "type": "Movie",
+  "name": "Booksmart",
+  "url": "https://www.imdb.com/tt1489887/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMjcxNjA2Nl5BMl5BanBnXkFtZTgwMjAxMDM2NzM@._V1_.jpg",
+  "description": "On the eve of their high-school graduation, two academic superstars and best friends realize they should have worked less and played more. Determined not to fall short of their peers, the girls try to cram four years of fun into o...",
+  "review": {
+    "author": "truemythmedia",
+    "dateCreated": "2019-07-11",
+    "inLanguage": "English",
+    "heading": "A Bit Overhyped, But Still A Blast",
+    "reviewBody": "Overall, this is an incredibly enjoyable, incredibly well executed film that is getting just a bit overhyped. I would absolutely recommend this movie; I think Olivia Wilde, Kaityln Dever, and Beanie Feldstein all have some promising careers ahead of them, and I can&apos;t wait to see what comes next from all of them. For our full review of Booksmart and hundreds of other reviews, articles, and podcast episodes visit True Myth Media!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 128999,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2019-05-27",
+  "keywords": "awkward flirting,last day of school,female high school student,teen movie,teen comedy",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Kaitlyn Dever",
+      "url": "https://www.imdb.com/name/nm3239803/"
+    },
+    {
+      "name": "Beanie Feldstein",
+      "url": "https://www.imdb.com/name/nm2788156/"
+    },
+    {
+      "name": "Jessica Williams",
+      "url": "https://www.imdb.com/name/nm1790970/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Olivia Wilde",
+      "url": "https://www.imdb.com/name/nm1312575/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Emily Halpern",
+      "url": "https://www.imdb.com/name/nm1054604/"
+    },
+    {
+      "name": "Sarah Haskins",
+      "url": "https://www.imdb.com/name/nm2873539/"
+    },
+    {
+      "name": "Susanna Fogel",
+      "url": "https://www.imdb.com/name/nm2573005/"
+    }
+  ]
+}

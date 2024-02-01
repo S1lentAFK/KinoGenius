@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Long Weekend",
+  "url": "https://www.imdb.com/tt0079482/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTEyYmM2Y2YtOTJmYS00MDI2LWJmNzgtYTEyNjI4OWFlYmQ2XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_.jpg",
+  "description": "When a suburban couple go camping for the weekend at a remote beach, they discover that nature isn&apos;t in an accommodating mood.",
+  "review": {
+    "author": "Muldwych",
+    "dateCreated": "2007-11-15",
+    "inLanguage": "English",
+    "heading": "You&apos;ll never leave!",
+    "reviewBody": "&apos;Long Weekend&apos; is a textbook definition of a forgotten classic. It&apos;s a horror/thriller without many of the traditional horror elements. It&apos;ll give you a sense of dread and wonder, and stick in your memory forever more. The only reason it dwells in obscurity is because it was a low-budget film made in Australia in 1978, whereas if it were some feeble US B-grade schlock, it would be in every rental store and listed in Netflix. Fortunately, it has at last made it to DVD. When you get yourself a copy, you&apos;ll see a truly claustrophobic two-hander that uses the wilds of the Australian bush and a lonely-looking coastline to spectacular effect.\n\nAt no point does the shoestring budget hamper the storytelling even when it occasionally becomes apparent. A well-crafted script that only lets the plot out in bite-size pieces across the duration ensures you&apos;re too busy wondering just what is going on between the film&apos;s two characters, and the bizarre situation they find themselves in. John Hargreaves and Briony Behets play Peter and Marcia, a married couple who are clearly a gnat&apos;s wing away from divorce, for reasons not immediately given. The tension between them is as thick as the strange and chilling atmosphere of the lonely beach Peter takes them to in a last-ditch attempt to recover what they&apos;ve lost. Something there seems determined to destroy not only their chances of reconciliation, but also prevent them from ever leaving. What is the horrible wailing they keep hearing? Will what happened to the people who stayed there before them happen to them as well? Did they bring it upon themselves? \n\nThe excellent natural locations, coupled with some excellent camera work and the odd well-placed sound effect prove no dazzling visual wizardry is needed to make a scary film. Naturally, you also need conviction from your performers, which Hargreaves and Behets give most convincingly. Together, these elements ensure that no more than two characters are needed to provide a provoking character drama and an uneasy thriller - the two levels juxtaposing in ways that tellingly feed off each other, surely making &apos;Long Weekend&apos; the memorable experience it is for those fortunate enough to have seen it. I was a little disappointed at one element of predictability near the end - one part of the climax I could see coming a mile off. Maybe that was just me. Nonetheless this should not deter you from pursuing &apos;Long Weekend&apos; - a study in humanity, and a telling point in horror film-making.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 5990,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "AA",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "1979-03-29",
+  "keywords": "topless woman,camping,ozploitation,killing an animal,nature takes revenge",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "John Hargreaves",
+      "url": "https://www.imdb.com/name/nm0362970/"
+    },
+    {
+      "name": "Briony Behets",
+      "url": "https://www.imdb.com/name/nm0066909/"
+    },
+    {
+      "name": "Mike McEwen",
+      "url": "https://www.imdb.com/name/nm0568639/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Colin Eggleston",
+      "url": "https://www.imdb.com/name/nm0250986/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Everett De Roche",
+      "url": "https://www.imdb.com/name/nm0211193/"
+    }
+  ]
+}

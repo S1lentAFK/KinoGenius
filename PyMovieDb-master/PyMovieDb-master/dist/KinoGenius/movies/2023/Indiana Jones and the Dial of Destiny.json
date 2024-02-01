@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Indiana Jones and the Dial of Destiny",
+  "url": "https://www.imdb.com/tt1462764/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2M0ZGEwMGQtNzMxOC00OTU2LWExZmUtMTA5N2RhMDZlY2JiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "description": "Archaeologist Indiana Jones races against time to retrieve a legendary artifact that can change the course of history.",
+  "review": {
+    "author": "bforrest-14878",
+    "dateCreated": "2023-06-30",
+    "inLanguage": "English",
+    "heading": "Indiana Jones and the dial of disappointment",
+    "reviewBody": "Harrison Ford is a legend, and his enormous talent is called upon to carry this reboot of the character he single handedly made iconic. Once again, he dawns the patented hat and whip with charisma and force. But even our hero Indy can&apos;t rescue this coffee house script, that may have not gone through a rewrite. The female lead is unwatchable, and I found myself wishing she&apos;d go away, and take her unnecessary side kick with her. She looks like a WNBA star drafted to play a character in a movie. Her character is arrogant, and self absorbed. For some reason, she seems to have animosity towards Indy, but it&apos;s unexplainable why. There are a lot of classic chases, and different adventures, that are nostalgic for the original films. I saw Raiders of the lost Ark when I was 5, and I can still remember where I was when I saw it, it was that good and memorable. Harrison Ford recaptures the magic of young Indy. This film is not memorable or even very good, otherwise. The end plays like a sequel to Bill and Ted&apos;s Excellent Adventure. Hello Ancient dudes! I left the theater realizing that the years of monumental film making are over, and these plastic, lifeless imitations are all we will get. Harrison Ford you&apos;re one of the greats, thank you for all of the incredible memories. But this one I&apos;m going to try to forget.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 177852,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2023-06-28",
+  "keywords": "sequel,indiana jones character,time travel,fifth part,character name in title",
+  "duration": "PT2H34M",
+  "actor": [
+    {
+      "name": "Harrison Ford",
+      "url": "https://www.imdb.com/name/nm0000148/"
+    },
+    {
+      "name": "Phoebe Waller-Bridge",
+      "url": "https://www.imdb.com/name/nm3564817/"
+    },
+    {
+      "name": "Antonio Banderas",
+      "url": "https://www.imdb.com/name/nm0000104/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Mangold",
+      "url": "https://www.imdb.com/name/nm0003506/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jez Butterworth",
+      "url": "https://www.imdb.com/name/nm0125336/"
+    },
+    {
+      "name": "John-Henry Butterworth",
+      "url": "https://www.imdb.com/name/nm3890871/"
+    },
+    {
+      "name": "David Koepp",
+      "url": "https://www.imdb.com/name/nm0462895/"
+    }
+  ]
+}

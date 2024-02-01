@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Down a Dark Hall",
+  "url": "https://www.imdb.com/tt2372251/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY4ODg5MjMwNl5BMl5BanBnXkFtZTgwMDgyNzY1NTM@._V1_.jpg",
+  "description": "A troubled teen named Kit Gordy is forced to join the exclusive Blackwood Boarding School, just to find herself trapped by dark forces around its mysterious headmistress, Madame Duret.",
+  "review": {
+    "author": "jfgibson73",
+    "dateCreated": "2021-07-18",
+    "inLanguage": "English",
+    "heading": "Forgettable girl&apos;s school horror",
+    "reviewBody": "Well I like the idea of spooky stuff going on in an old boarding school. I just didn&apos;t think this movie did it very memorably. Uma being miscast was distracting, although I thought Anna was likeable. The ending did have some level of satisfaction, but nothing that will stay with you. Just a cheaply made disposable horror that no one will find scary.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 14798,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5
+  },
+  "contentRating": "18",
+  "genre": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+  ],
+  "datePublished": "2018-08-03",
+  "keywords": "troubled teen,private school,schoolgirl,piano playing,teacher student relationship",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "AnnaSophia Robb",
+      "url": "https://www.imdb.com/name/nm1455681/"
+    },
+    {
+      "name": "Uma Thurman",
+      "url": "https://www.imdb.com/name/nm0000235/"
+    },
+    {
+      "name": "Isabelle Fuhrman",
+      "url": "https://www.imdb.com/name/nm2265157/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rodrigo Cortés",
+      "url": "https://www.imdb.com/name/nm0181579/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Goldbach",
+      "url": "https://www.imdb.com/name/nm1492832/"
+    },
+    {
+      "name": "Chris Sparling",
+      "url": "https://www.imdb.com/name/nm2133655/"
+    },
+    {
+      "name": "Lois Duncan",
+      "url": "https://www.imdb.com/name/nm0242028/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Avatar: The Way of Water",
+  "url": "https://www.imdb.com/tt1630029/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_.jpg",
+  "description": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na&apos;vi race to protect their home.",
+  "review": {
+    "author": "LonelyGhost",
+    "dateCreated": "2022-12-14",
+    "inLanguage": "English",
+    "heading": "Not his best shot",
+    "reviewBody": "The visual effects are amazing. But Cameron should be better than this.\n\nI&apos;m a big fan of Mr Cameron. Not only for his directing skills, but also for his screenwriting skills. But this time he seemed to have missed the goal. I know he rarely does sequels. But is this the best he could do? The story has not changed anything compared to the previous episode. Repeated crises, repeated enemies, repeated conflicts,and wait a minute,WHAT? Even repeated Titanic. Are you serious?\n\nAs a director, he also did not reach his previous level. For a long time, the pace of the film felt too slow. Yes, the underwater scenes are phenomenal. But this is not the Blue Planet, this is a sci-fi action movie. At least it&apos;s what most audiences expect from the film, isn&apos;t it?",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 477419,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "2022-12-16",
+  "keywords": "underwater,ocean,jungle,water,second part",
+  "duration": "PT3H12M",
+  "actor": [
+    {
+      "name": "Sam Worthington",
+      "url": "https://www.imdb.com/name/nm0941777/"
+    },
+    {
+      "name": "Zoe Saldana",
+      "url": "https://www.imdb.com/name/nm0757855/"
+    },
+    {
+      "name": "Sigourney Weaver",
+      "url": "https://www.imdb.com/name/nm0000244/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Cameron",
+      "url": "https://www.imdb.com/name/nm0000116/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Cameron",
+      "url": "https://www.imdb.com/name/nm0000116/"
+    },
+    {
+      "name": "Rick Jaffa",
+      "url": "https://www.imdb.com/name/nm0415425/"
+    },
+    {
+      "name": "Amanda Silver",
+      "url": "https://www.imdb.com/name/nm0798646/"
+    }
+  ]
+}

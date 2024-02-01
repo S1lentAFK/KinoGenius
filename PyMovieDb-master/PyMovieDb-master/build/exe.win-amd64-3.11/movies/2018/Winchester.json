@@ -1,0 +1,72 @@
+{
+  "type": "Movie",
+  "name": "Winchester",
+  "url": "https://www.imdb.com/tt1072748/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI2OWE5OGItMTE4Yi00ZmIzLThjZDctNTU1OTMxMTc3Yjg4XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg",
+  "description": "Ensconced in her sprawling San Jose, California mansion, eccentric firearm heiress Sarah Winchester (Dame Helen Mirren) believes she is haunted by the souls of people killed by the Winchester repeating rifle.",
+  "review": {
+    "author": "Kirpianuscus",
+    "dateCreated": "2018-06-08",
+    "inLanguage": "English",
+    "heading": "a film",
+    "reviewBody": "Two virtues define this film - Hellen Mirren. and the house. and , sure, the atmosphere, costumes, drops of fear and reasonable sketches of tension. the basic sin - it is one of many haunting house films. not a bad one, not a modest one, but one who has not the science to convince. not a bad fact but one who could not be so easy ignored . if you do not ignore the potential of story, the actors and the landscape. something missing is the ordinary conclusion after its end. what ? maybe the courage to say, in right manner, the right story. the science to propose a better script to good actors. and to explore the art of Hellen Mirren.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 36359,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Fantasy"
+  ],
+  "datePublished": "2018-02-02",
+  "keywords": "ghost,winchester house,widower,gothic horror,haunted house",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Helen Mirren",
+      "url": "https://www.imdb.com/name/nm0000545/"
+    },
+    {
+      "name": "Sarah Snook",
+      "url": "https://www.imdb.com/name/nm3512758/"
+    },
+    {
+      "name": "Finn Scicluna-O&apos;Prey",
+      "url": "https://www.imdb.com/name/nm7073477/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Spierig",
+      "url": "https://www.imdb.com/name/nm1294961/"
+    },
+    {
+      "name": "Peter Spierig",
+      "url": "https://www.imdb.com/name/nm1294962/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tom Vaughan",
+      "url": "https://www.imdb.com/name/nm1129343/"
+    },
+    {
+      "name": "Michael Spierig",
+      "url": "https://www.imdb.com/name/nm1294961/"
+    },
+    {
+      "name": "Peter Spierig",
+      "url": "https://www.imdb.com/name/nm1294962/"
+    }
+  ]
+}

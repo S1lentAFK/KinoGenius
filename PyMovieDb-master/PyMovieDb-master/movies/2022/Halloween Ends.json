@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Halloween Ends",
+  "url": "https://www.imdb.com/tt10665342/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTg1Y2Q3MzctMDlkOS00OGE1LWE4MjUtNmJjNDNkZmM2YmVkXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_.jpg",
+  "description": "The saga of Michael Myers and Laurie Strode comes to a spine-chilling climax in the final installment of this trilogy.",
+  "review": {
+    "author": "jpkaramanolis",
+    "dateCreated": "2022-10-14",
+    "inLanguage": "English",
+    "heading": "Did I watch the wrong movie?",
+    "reviewBody": "Another failed sequel of a classic horror flick. There was no Micheal Myers anywhere for most of the movie! That shouldn&apos;t be the final movie of a legendary horror movie character. We focused way too much on side characters, wasting so much time of the movie and taking away screen time from Michael for no reason. Laurie was once again the best in the movie. The actress played her role really well and I enjoyed seeing her probably for the last time. Her granddaughter as a character was annoying, like those straight to VHS Disney movies where the kid wod turn against their parents for stupid reasons, that was her in the entire movie... It was disappointing but I&apos;m glad I watched it because it ends a huge franchise I&apos;ve been watching since middle school. It was a pop corn movie and nothing more, but still an okay pop corn movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 69566,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5
+  },
+  "contentRating": "18",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2022-10-14",
+  "keywords": "babysitter,fictional town,sequel,michael myers character,slasher killer",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Jamie Lee Curtis",
+      "url": "https://www.imdb.com/name/nm0000130/"
+    },
+    {
+      "name": "Andi Matichak",
+      "url": "https://www.imdb.com/name/nm5506858/"
+    },
+    {
+      "name": "James Jude Courtney",
+      "url": "https://www.imdb.com/name/nm0183921/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Gordon Green",
+      "url": "https://www.imdb.com/name/nm0337773/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Carpenter",
+      "url": "https://www.imdb.com/name/nm0000118/"
+    },
+    {
+      "name": "Debra Hill",
+      "url": "https://www.imdb.com/name/nm0384185/"
+    },
+    {
+      "name": "Paul Brad Logan",
+      "url": "https://www.imdb.com/name/nm5147161/"
+    }
+  ]
+}

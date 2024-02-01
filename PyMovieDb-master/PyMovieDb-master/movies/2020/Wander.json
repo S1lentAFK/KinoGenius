@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "Wander",
+  "url": "https://www.imdb.com/tt9689696/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM5MjI5N2YtNTRjOS00Mzk1LTlmODAtZTJmZjQ5NzNhODNkXkEyXkFqcGdeQXVyNTIwMDQ0NA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "itsbobr",
+    "dateCreated": "2021-01-25",
+    "inLanguage": "English",
+    "heading": "Most Confusing Movie I have ever watched",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 9493,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Thriller"
+  ],
+  "datePublished": "2020-12-04",
+  "keywords": "conspiracy theorist,implanted computer chip,conspiracy theory,biological microchip,conspiracy",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Aaron Eckhart",
+      "url": "https://www.imdb.com/name/nm0001173/"
+    },
+    {
+      "name": "Tommy Lee Jones",
+      "url": "https://www.imdb.com/name/nm0000169/"
+    },
+    {
+      "name": "Katheryn Winnick",
+      "url": "https://www.imdb.com/name/nm0935395/"
+    }
+  ],
+  "director": [
+    {
+      "name": "April Mullen",
+      "url": "https://www.imdb.com/name/nm0611983/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tim Doiron",
+      "url": "https://www.imdb.com/name/nm1915955/"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Princess Switch 3: Romancing the Star",
+  "url": "https://www.imdb.com/tt14731142/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTRhYzQ1MTEtYjRhZS00NmJkLWE5NzMtNWQ2YzlmMzlmNDI5XkEyXkFqcGdeQXVyNjEwMDM4NTQ@._V1_.jpg",
+  "description": "When a priceless relic is stolen, Queen Margaret and Princess Stacy enlist the help of Margaret&apos;s cousin Fiona teams with a man from her past to retrieve it, with romance and resulting in a very unexpected switch.",
+  "review": {
+    "author": "shelovestravel73",
+    "dateCreated": "2021-11-24",
+    "inLanguage": "English",
+    "heading": "Love it",
+    "reviewBody": "I was pleasantly surprised by it. It was funny, intriguing. I honestly though would have wanted to see the mystery had been &apos;bigger&apos;. And hey - if we get a fourth maybe we can get a murder mystery :D.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 7454,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2021-11-18",
+  "keywords": "christmas,sequel,third part,princess,holiday",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Vanessa Hudgens",
+      "url": "https://www.imdb.com/name/nm1227814/"
+    },
+    {
+      "name": "Remy Hii",
+      "url": "https://www.imdb.com/name/nm3600780/"
+    },
+    {
+      "name": "Sam Palladio",
+      "url": "https://www.imdb.com/name/nm4112253/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mike Rohl",
+      "url": "https://www.imdb.com/name/nm0737517/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robin Bernheim",
+      "url": "https://www.imdb.com/name/nm0076820/"
+    },
+    {
+      "name": "Megan Metzger",
+      "url": "https://www.imdb.com/name/nm2997602/"
+    }
+  ]
+}

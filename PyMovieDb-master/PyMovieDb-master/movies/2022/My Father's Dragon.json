@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "My Father&apos;s Dragon",
+  "url": "https://www.imdb.com/tt9288748/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTA1YWEyNTYtN2EzNC00YWM3LThmOWUtY2I3YTA0YjkyZmZjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+  "description": "Elmer Elevator searches for a captive Dragon on Wild Island and finds much more than he could ever have anticipated.",
+  "review": {
+    "author": "carkid-79165",
+    "dateCreated": "2023-08-05",
+    "inLanguage": "English",
+    "heading": "Fantastic, magical, real life problems",
+    "reviewBody": "A boy in a struggling household gets in a fight with hit single mother and runs away. He ends up exploring a magical world that transforms his perspective on things. An island that keeps sinking needs the boys help. His struggle to save the island helps him become an adult. A very artistic way of representing the boys real life problems and the benefits he&apos;ll receive from his current real life struggles. The visuals are great. I was impressed by this story line. Addresses real life family issues. Very magical and lots of fun. Great messaging and plenty of excitement to keep a young person interested I absolutely recommend watching this with the family.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 3377,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2022-11-11",
+  "keywords": "captive,baby dragon,dragon,baby,young boy",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Ian McShane",
+      "url": "https://www.imdb.com/name/nm0574534/"
+    },
+    {
+      "name": "Leighton Meester",
+      "url": "https://www.imdb.com/name/nm1015262/"
+    },
+    {
+      "name": "Golshifteh Farahani",
+      "url": "https://www.imdb.com/name/nm0267042/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Nora Twomey",
+      "url": "https://www.imdb.com/name/nm1316072/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Meg LeFauve",
+      "url": "https://www.imdb.com/name/nm0498834/"
+    },
+    {
+      "name": "John Michael Morgan",
+      "url": "https://www.imdb.com/name/nm1352706/"
+    },
+    {
+      "name": "Ruth Stiles Gannett",
+      "url": "https://www.imdb.com/name/nm4790708/"
+    }
+  ]
+}

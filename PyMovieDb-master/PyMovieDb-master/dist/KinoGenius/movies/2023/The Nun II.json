@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Nun II",
+  "url": "https://www.imdb.com/tt10160976/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmE5MmM2ZGEtNTVlNC00M2Q3LTliMjMtMzg5YjUyMjliZWIzXkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_.jpg",
+  "description": "1956 - France. A priest is murdered. An evil is spreading. The sequel to the worldwide smash hit follows Sister Irene as she once again comes face-to-face with Valak, the demon nun.",
+  "review": {
+    "author": "BA_Harrison",
+    "dateCreated": "2023-09-08",
+    "inLanguage": "English",
+    "heading": "An improvement over the first film, but it takes a long while to get going.",
+    "reviewBody": "My dedication to the horror genre leads me to seeing a lot of films at the cinema that I fully expect to be rubbish. Like the Nun II, which I had very little real interest in watching since I couldn&apos;t remember much about the first one, other than the fact that I didn&apos;t like it. And for a long time, the film is just as bland and generic as I had imagined it would be, director Michael Chaves taking matters far too seriously, with a dreary pace, gloomy cinematography and all of the religious horror clichés he can cram in.\n\nThen, just as I was about to give up all hope of being entertained, Chaves seems to remember that, hey, horror films can be fun! After the introduction of a demonic goat (Satan himself?), the film really picks up, with action, excitement, and a few well-crafted scares (I think I actually jumped a couple of times, but that was probably down to the extremely loud noises that accompany the jumpy bits). If only there had been some of this liveliness during the earlier parts of the film - The Nun II could have been really good instead of just okay.\n\nMy rating: 6/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 52991,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2023-09-08",
+  "keywords": "the conjuring universe,nun,jump scare,goat demon,shared universe",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Taissa Farmiga",
+      "url": "https://www.imdb.com/name/nm3920288/"
+    },
+    {
+      "name": "Jonas Bloquet",
+      "url": "https://www.imdb.com/name/nm2997552/"
+    },
+    {
+      "name": "Storm Reid",
+      "url": "https://www.imdb.com/name/nm4977564/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Chaves",
+      "url": "https://www.imdb.com/name/nm1980431/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ian Goldberg",
+      "url": "https://www.imdb.com/name/nm1968372/"
+    },
+    {
+      "name": "Richard Naing",
+      "url": "https://www.imdb.com/name/nm3915456/"
+    },
+    {
+      "name": "Akela Cooper",
+      "url": "https://www.imdb.com/name/nm4868455/"
+    }
+  ]
+}

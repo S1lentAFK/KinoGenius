@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "The Starling Girl",
+  "url": "https://www.imdb.com/tt21156390/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTQyOTgzOWEtZjM0OS00YzBlLThlMDUtMWY1YWVhNmNhYTkxXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+  "description": "17-year-old Jem Starling struggles with her place within her Christian fundamentalist community. But everything changes when her magnetic youth pastor Owen returns to their church.",
+  "review": {
+    "author": "masonfisk",
+    "dateCreated": "2023-12-10",
+    "inLanguage": "English",
+    "heading": "HEAP PRAISES UPON SCANLEN...!",
+    "reviewBody": "From earlier this year comes this account of a fundamentalist girl&apos;s, played by Little Women&apos;s Eliza Scanlen, struggle to maintain her faith. Opening up on a dance performance in front of their congregation, Scanlen&apos;s immediately reprimanded for having her bra showing through her dance top. We then go into her family life where her brethren are many & her parents, For All Mankind Wren Schmidt & Jimmi Simpson, rule the roost w/iron fists. Into this dynamic comes a new visitor in the form of the pastor&apos;s, Homicide&apos;s Kyle Secor, son, Lewis Pullman, which raises Scanlen&apos;s ardor even though he&apos;s already married & his wife is pregnant. Simpson, who used to be in a &apos;regular&apos; band, falls off the wagon due to his own pressures which when the reveal comes about Pullman & Scanlen&apos;s clutch prompts the parents to force her to quit the dance troupe which puts the couple in panic mode (Pullman declares his separation from his wife) & running off happily into the sunset or will they? Writer/director Laurel Parmet captures a potent tale of the flyover states where maybe the standard trajectory of one&apos;s community may not be for all w/Scanlen, who continues to impress in her performances (check her out in the HBO limited series Sharp Objects), who carries the weight of the narrative on her ample shoulders abetted by strong support from the other players.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 1869,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2023-07-11",
+  "keywords": "christian fundamentalism,coming of age,youth pastor,youth group,sexual awakening",
+  "duration": "PT1H57M",
+  "actor": [
+    {
+      "name": "Eliza Scanlen",
+      "url": "https://www.imdb.com/name/nm7340546/"
+    },
+    {
+      "name": "Lewis Pullman",
+      "url": "https://www.imdb.com/name/nm5730649/"
+    },
+    {
+      "name": "Jimmi Simpson",
+      "url": "https://www.imdb.com/name/nm0801051/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Laurel Parmet",
+      "url": "https://www.imdb.com/name/nm2137998/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Laurel Parmet",
+      "url": "https://www.imdb.com/name/nm2137998/"
+    }
+  ]
+}

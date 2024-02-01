@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Firestarter",
+  "url": "https://www.imdb.com/tt1798632/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWIzNzA4MmUtYTIzNy00Y2Q5LWIyM2YtZGRiYzM0ZWQzOTU2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "A young girl tries to understand how she mysteriously gained the power to set things on fire with her mind.",
+  "review": {
+    "author": "STEVE24BUS",
+    "dateCreated": "2022-05-13",
+    "inLanguage": "English",
+    "heading": "An insult to the original",
+    "reviewBody": "Very poor, poor effects, poor story, cheesy, so disappointed with this. If you are going to remake a cult classic, then have a look at what made it a classic to start. This is just a lifeless boring sham. If you loved the original film, give this a miss, if you haven&apos;t seen the original, then it might just about keep you awake.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 20736,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "datePublished": "2022-05-13",
+  "keywords": "combustion,fire,supernatural power,one word title,remake",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Zac Efron",
+      "url": "https://www.imdb.com/name/nm1374980/"
+    },
+    {
+      "name": "Ryan Kiera Armstrong",
+      "url": "https://www.imdb.com/name/nm8740834/"
+    },
+    {
+      "name": "Sydney Lemmon",
+      "url": "https://www.imdb.com/name/nm5517526/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Keith Thomas",
+      "url": "https://www.imdb.com/name/nm8928699/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stephen King",
+      "url": "https://www.imdb.com/name/nm0000175/"
+    },
+    {
+      "name": "Scott Teems",
+      "url": "https://www.imdb.com/name/nm1802374/"
+    }
+  ]
+}

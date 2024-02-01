@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "Camp Hideout",
+  "url": "https://www.imdb.com/tt14051976/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODc0ODBjZWYtMTE3Yy00MmI1LWJlMDMtZDhjNWU5Y2YzMjUwXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg",
+  "description": "After a troubled teen steals an important item from two big-city goons, he hides in a church summer camp and must protect his newfound friends at all cost when the goons track him down.",
+  "review": {
+    "author": "kylebarrera",
+    "dateCreated": "2023-10-13",
+    "inLanguage": "English",
+    "heading": "Stupid, Just stupid",
+    "reviewBody": "Don&apos;t watch this. This absolute mess is boring and the complete opposite of funny. It&apos;s filled with cringe and embarrassing fourth wall breaks, unfunny remarks, and a very thin plot, if it even had one. Its a shameless rip off of home alone but a summer camp version. None of the story makes sense and its very confusing. I have no idea what on earth Christopher Lloyd was thinking when he decided to star in this film. He must have regretted it. Don&apos;t watch this movie in the theaters, Don&apos;t ever watch this movie. Not even when it becomes free on streaming. Just stay at least 10 feet away from this movie. You will thank me.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 727,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2023-11-30",
+  "keywords": "friend,city,teenager",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Corbin Bleu",
+      "url": "https://www.imdb.com/name/nm0088298/"
+    },
+    {
+      "name": "Ethan Drew",
+      "url": "https://www.imdb.com/name/nm8532770/"
+    },
+    {
+      "name": "Amanda Leighton",
+      "url": "https://www.imdb.com/name/nm3112508/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sean Olson",
+      "url": "https://www.imdb.com/name/nm1235963/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kat Olson",
+      "url": "https://www.imdb.com/name/nm3551565/"
+    },
+    {
+      "name": "C. Neil Davenport",
+      "url": "https://www.imdb.com/name/nm7465781/"
+    },
+    {
+      "name": "Dave DeBorde",
+      "url": "https://www.imdb.com/name/nm1279059/"
+    }
+  ]
+}

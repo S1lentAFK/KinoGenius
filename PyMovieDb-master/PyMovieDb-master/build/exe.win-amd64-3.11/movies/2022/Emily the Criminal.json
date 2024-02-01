@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Emily the Criminal",
+  "url": "https://www.imdb.com/tt15255876/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGI4ODQwYjUtZTA4Mi00YTljLWE4MzItM2M4OGJiNTFkZjIyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "MovieCriticOnline",
+    "dateCreated": "2022-12-27",
+    "inLanguage": "English",
+    "heading": "Holy moly what a surprising gem...",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 50749,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2022-08-12",
+  "keywords": "criminal record,credit card fraud,selling stolen goods,text message,dummy shopper",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Aubrey Plaza",
+      "url": "https://www.imdb.com/name/nm2201555/"
+    },
+    {
+      "name": "Theo Rossi",
+      "url": "https://www.imdb.com/name/nm0744331/"
+    },
+    {
+      "name": "Bernardo Badillo",
+      "url": "https://www.imdb.com/name/nm2224519/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Patton Ford",
+      "url": "https://www.imdb.com/name/nm3621304/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Patton Ford",
+      "url": "https://www.imdb.com/name/nm3621304/"
+    }
+  ]
+}

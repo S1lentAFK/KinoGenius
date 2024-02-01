@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Spree",
+  "url": "https://www.imdb.com/tt11394332/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWM5ZGU3ZjctY2U4NS00ZGE0LWI1OGYtYmZkYzk2NzAyNWJjXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "mfnmbvp",
+    "dateCreated": "2022-01-20",
+    "inLanguage": "English",
+    "heading": "&apos;Spree&apos; (2020)",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 16162,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Horror"
+  ],
+  "datePublished": "2020-08-14",
+  "keywords": "ride share,ride share driver,selfie,reckless driving,gun",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Joe Keery",
+      "url": "https://www.imdb.com/name/nm6564737/"
+    },
+    {
+      "name": "Sasheer Zamata",
+      "url": "https://www.imdb.com/name/nm3550886/"
+    },
+    {
+      "name": "David Arquette",
+      "url": "https://www.imdb.com/name/nm0000274/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Eugene Kotlyarenko",
+      "url": "https://www.imdb.com/name/nm2671096/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Eugene Kotlyarenko",
+      "url": "https://www.imdb.com/name/nm2671096/"
+    },
+    {
+      "name": "Gene McHugh",
+      "url": "https://www.imdb.com/name/nm3888568/"
+    }
+  ]
+}

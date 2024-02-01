@@ -1,0 +1,51 @@
+{
+  "type": "Movie",
+  "name": "Chappaquiddick, JFK and RFK according to Nostradamus",
+  "url": "https://www.imdb.com/tt8286102/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWIwY2JkMDItMjYzNC00ZjdhLWE0MzQtY2M0ZTU0YjRjMDI3XkEyXkFqcGdeQXVyNjkyNzY0ODI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": null,
+  "genre": [
+    "Short",
+    "History"
+  ],
+  "datePublished": "2018-04-07",
+  "keywords": null,
+  "duration": "PT14M",
+  "actor": [
+    {
+      "name": "Ken Peters",
+      "url": "https://www.imdb.com/name/nm8515145/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Shihyun Wang",
+      "url": "https://www.imdb.com/name/nm6235717/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Shihyun Wang",
+      "url": "https://www.imdb.com/name/nm6235717/"
+    }
+  ]
+}

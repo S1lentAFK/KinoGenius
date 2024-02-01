@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Dog Days",
+  "url": "https://www.imdb.com/tt7365604/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg2ZDY0YWUtOWZkYS00MmUwLWFjMmEtNjIzNmNiZDFkNTYzXkEyXkFqcGdeQXVyNzYzMjUxODY@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "palepalmito",
+    "dateCreated": "2018-08-08",
+    "inLanguage": "English",
+    "heading": "A heartwarming celebration to our canine friends!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 5431,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2018-08-10",
+  "keywords": "dog,los angeles california,five stories,female newscaster,fictional tv show",
+  "duration": "PT1H53M",
+  "actor": [
+    {
+      "name": "Nina Dobrev",
+      "url": "https://www.imdb.com/name/nm2400045/"
+    },
+    {
+      "name": "Vanessa Hudgens",
+      "url": "https://www.imdb.com/name/nm1227814/"
+    },
+    {
+      "name": "Adam Pally",
+      "url": "https://www.imdb.com/name/nm1269723/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ken Marino",
+      "url": "https://www.imdb.com/name/nm0547800/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Elissa Matsueda",
+      "url": "https://www.imdb.com/name/nm5990921/"
+    },
+    {
+      "name": "Erica Oyama",
+      "url": "https://www.imdb.com/name/nm2288614/"
+    }
+  ]
+}

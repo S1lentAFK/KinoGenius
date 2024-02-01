@@ -1,0 +1,76 @@
+{
+  "type": "Movie",
+  "name": "Lady and the Tramp",
+  "url": "https://www.imdb.com/tt0048280/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTI1ZDc1OTItM2EzNS00ODMxLWIxYzctOTc5YWNiYzI3NGZiXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "moonspinner55",
+    "dateCreated": "2002-06-02",
+    "inLanguage": "English",
+    "heading": "Simple and often lovely",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 146135,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "1956-01-03",
+  "keywords": "dog,aunt,baby,cat,siamese cat",
+  "duration": "PT1H16M",
+  "actor": [
+    {
+      "name": "Barbara Luddy",
+      "url": "https://www.imdb.com/name/nm0524853/"
+    },
+    {
+      "name": "Larry Roberts",
+      "url": "https://www.imdb.com/name/nm0731333/"
+    },
+    {
+      "name": "Peggy Lee",
+      "url": "https://www.imdb.com/name/nm0498007/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Clyde Geronimi",
+      "url": "https://www.imdb.com/name/nm0314671/"
+    },
+    {
+      "name": "Wilfred Jackson",
+      "url": "https://www.imdb.com/name/nm0414144/"
+    },
+    {
+      "name": "Hamilton Luske",
+      "url": "https://www.imdb.com/name/nm0527217/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ward Greene",
+      "url": "https://www.imdb.com/name/nm0338950/"
+    },
+    {
+      "name": "Erdman Penner",
+      "url": "https://www.imdb.com/name/nm0672093/"
+    },
+    {
+      "name": "Joe Rinaldi",
+      "url": "https://www.imdb.com/name/nm0727370/"
+    }
+  ]
+}

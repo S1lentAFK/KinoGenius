@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Gwen",
+  "url": "https://www.imdb.com/tt5149490/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzE4NjRjOWYtMWMyYy00ZjEwLTljYTctM2I0MDdhYThiOWM2XkEyXkFqcGdeQXVyMjI4NzUwNzg@._V1_.jpg",
+  "description": "A folk tale set in the hills of Wales during the industrial revolution.",
+  "review": {
+    "author": "ops-52535",
+    "dateCreated": "2019-08-06",
+    "inLanguage": "English",
+    "heading": "welsh snowdonian 19th century realism",
+    "reviewBody": "Its a slow paced , icecold, windy, grey, black and heartwrenching story from the welsh countryside, with lots of sickness and death that digs into you as the plot developes. there are absolutely no fun in this flick, nor horror or thrills, just a dreary folktale about the men with power and the people without.\n\nwhat impresses me most is the beautiful and overwhelmingly made filmography, that tells the story as well as the actors do. its complete from start to end i cant find many flaws.\n\nso why do the grumpy old man give just a 6. the film does not thrill or entertain, and that is not the actors fault, its just the darkness of the story that doesnt appeal to me, even though its recommendable enough",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 5710,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "History",
+    "Horror"
+  ],
+  "datePublished": "2019-07-19",
+  "keywords": "gothic,industrial revolution,welsh,mountain,psychotronic film",
+  "duration": "PT1H24M",
+  "actor": [
+    {
+      "name": "Eleanor Worthington-Cox",
+      "url": "https://www.imdb.com/name/nm5732956/"
+    },
+    {
+      "name": "Jodie Innes",
+      "url": "https://www.imdb.com/name/nm9560788/"
+    },
+    {
+      "name": "Kobna Holdbrook-Smith",
+      "url": "https://www.imdb.com/name/nm1506183/"
+    }
+  ],
+  "director": [
+    {
+      "name": "William McGregor",
+      "url": "https://www.imdb.com/name/nm3295899/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William McGregor",
+      "url": "https://www.imdb.com/name/nm3295899/"
+    }
+  ]
+}

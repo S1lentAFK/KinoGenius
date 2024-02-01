@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Informer",
+  "url": "https://www.imdb.com/tt1833116/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTlkNWZhZGQtNjIxNC00OWU5LTg5NjEtY2EyMDY2NmQ2NGRhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+  "description": "An ex-convict working undercover intentionally gets himself incarcerated again in order to infiltrate the mob at a maximum security prison.",
+  "review": {
+    "author": "jeff-1794",
+    "dateCreated": "2019-09-01",
+    "inLanguage": "English",
+    "heading": "Strong crime thriller / drama",
+    "reviewBody": "If you go into this expecting a $100 million action blockbuster you will be dissapointed. What this film delivers is a solid crime drama with some gritty and tense action scenes. A strong lead performance by Joel Kinnaman holds the story together and the film moves swiftly at a pace that never drags. If you want a film that gives you actual story over mindless hollywood CGI action, then give this one a chance.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 41280,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2019-08-30",
+  "keywords": "tied up while barefoot,ex convict,undercover,maximum security prison,bound and gagged",
+  "duration": "PT1H53M",
+  "actor": [
+    {
+      "name": "Joel Kinnaman",
+      "url": "https://www.imdb.com/name/nm1172478/"
+    },
+    {
+      "name": "Rosamund Pike",
+      "url": "https://www.imdb.com/name/nm0683253/"
+    },
+    {
+      "name": "Common",
+      "url": "https://www.imdb.com/name/nm0996669/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrea Di Stefano",
+      "url": "https://www.imdb.com/name/nm0224331/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Matt Cook",
+      "url": "https://www.imdb.com/name/nm3208946/"
+    },
+    {
+      "name": "Rowan Joffe",
+      "url": "https://www.imdb.com/name/nm0423626/"
+    },
+    {
+      "name": "Andrea Di Stefano",
+      "url": "https://www.imdb.com/name/nm0224331/"
+    }
+  ]
+}

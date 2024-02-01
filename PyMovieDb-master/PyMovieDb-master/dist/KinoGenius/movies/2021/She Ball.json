@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "She Ball",
+  "url": "https://www.imdb.com/tt7768784/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjMyYzRjNjEtZTZjNi00ZmMyLWE0Y2YtYTM3M2Y0ZTllYTFmXkEyXkFqcGdeQXVyOTA3NDI5NA@@._V1_.jpg",
+  "description": "She Ball follows the love of the game through the struggles of Avery Watts, who enlists the baddest women&apos;s streetball league in the city to help him save the embattled Inglewood Community Center, which he manages, all while tryin...",
+  "review": {
+    "author": "bingolong",
+    "dateCreated": "2021-08-09",
+    "inLanguage": "English",
+    "heading": "You can tell by the headlines of the other reviews this movie wasn&apos;t marketed to them LOL",
+    "reviewBody": "First off this movie wasn&apos;t marketed to the people that have already given it negative reviews. It will please the market it was made for. Not too low brow but just about the right amount of eye candy, comedy, and message.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 463,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.5
+  },
+  "contentRating": "R",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2022-05-09",
+  "keywords": null,
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Rosa Acosta",
+      "url": "https://www.imdb.com/name/nm3637114/"
+    },
+    {
+      "name": "K.D. Aubert",
+      "url": "https://www.imdb.com/name/nm1147702/"
+    },
+    {
+      "name": "Delpha Baxter",
+      "url": "https://www.imdb.com/name/nm5639852/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Nick Cannon",
+      "url": "https://www.imdb.com/name/nm0134244/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nick Cannon",
+      "url": "https://www.imdb.com/name/nm0134244/"
+    }
+  ]
+}

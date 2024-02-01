@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Barbarian",
+  "url": "https://www.imdb.com/tt15791034/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2M3Y2NhMGYtYjUxOS00M2UwLTlmMGUtYzY4MzFlNjZkYzY2XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+  "description": "A woman staying at an Airbnb discovers that the house she has rented is not what it seems.",
+  "review": {
+    "author": "benjaminskylerhill",
+    "dateCreated": "2022-09-09",
+    "inLanguage": "English",
+    "heading": "Truly scary. Like an average day in Detroit.",
+    "reviewBody": "A lot of great things can and should be said about Barbarian. It&apos;s a masterfully directed film; Creggor always shows us just enough in each shot that we&apos;re left wondering about what&apos;s lurking in the empty space on the frame.\n\nThe first two-thirds of the film are tense when it&apos;s quiet and shocking when it&apos;s loud. It kept me on my toes for nearly the entire time, which is refreshing for my desensitised eyes.\n\nEfficient work is made of the character introductions. Cregor&apos;s script doesn&apos;t waste time at the beginning of each character&apos;s story. We get to know exactly what we need to know about each of them as a person before they get thrust into the metaphorical depths of hell. It makes the eventual carnage all the more nerve-shredding because no character is disposable.\n\nSo, yes, the film is good. But it&apos;s not all good.\n\nThe film&apos;s narrative and pacing are not nearly as compelling and tight, respectively, as they should be due to the fact that it tells the stories of three separate sets of characters (one after the other) before getting to the finale.\n\nAlso, the film&apos;s last act really took a dive into campy and I found it to be a betrayal of the rest of the story&apos;s bleak tone.\n\nThe final set piece is so out-of-left-field and ridiculous that it became unintentionally hilarious for me.\n\nThis may seem like a minor complaint, but when the ending of the movie leaves a bad taste in my mouth, it kind of sours the whole experience.\n\nI wanted this to be better than it was. But it&apos;s still so tense throughout its majority and the many twists are so satisfying that I do heartily recommend this subversive horror flick.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 171415,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "18",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2022-10-28",
+  "keywords": "airbnb rental,basement,stranger danger,hidden basement,awakened in middle of night",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Georgina Campbell",
+      "url": "https://www.imdb.com/name/nm3569284/"
+    },
+    {
+      "name": "Bill Skarsgård",
+      "url": "https://www.imdb.com/name/nm0803889/"
+    },
+    {
+      "name": "Justin Long",
+      "url": "https://www.imdb.com/name/nm0519043/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Zach Cregger",
+      "url": "https://www.imdb.com/name/nm1199107/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Zach Cregger",
+      "url": "https://www.imdb.com/name/nm1199107/"
+    }
+  ]
+}

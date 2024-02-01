@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Moonage Daydream",
+  "url": "https://www.imdb.com/tt9883832/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzU1YjhlNGQtYjViMC00OTZjLTgyYjMtODhmMTIwNGQ4MTQ0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "A cinematic odyssey exploring David Bowie&apos;s creative and musical journey. From visionary filmmaker Brett Morgen, and sanctioned by the Bowie estate.",
+  "review": {
+    "author": "aksoyduru",
+    "dateCreated": "2022-08-04",
+    "inLanguage": "English",
+    "heading": "Incredible..",
+    "reviewBody": "Saw this movie on Cannes Film Festival. It was more than beautiful. Bowie was such a legend. Seeing all those scenes and songs made me feel like I was a teenager again. Although this film was nearly two hours and a half long, it wasn&apos;t boring at all. Definetly consider watching it when it comes to cinemas on 16th of September. David&apos;s face is literally so gorgerous and I recommend watching Man Who Fell To Earth (1976). It isn&apos;t great as this movie/documentary, But definetly worth watching.\n\nXoxo Diana.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 13657,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Documentary",
+    "Biography",
+    "History"
+  ],
+  "datePublished": "2022-09-23",
+  "keywords": "biographical documentary,musical journey,creative,cinematic,book",
+  "duration": "PT2H15M",
+  "actor": [
+    {
+      "name": "David Bowie",
+      "url": "https://www.imdb.com/name/nm0000309/"
+    },
+    {
+      "name": "Trevor Bolder",
+      "url": "https://www.imdb.com/name/nm0092783/"
+    },
+    {
+      "name": "Ken Fordham",
+      "url": "https://www.imdb.com/name/nm5123954/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brett Morgen",
+      "url": "https://www.imdb.com/name/nm0605137/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brett Morgen",
+      "url": "https://www.imdb.com/name/nm0605137/"
+    }
+  ]
+}

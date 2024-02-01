@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Pokémon: Detective Pikachu",
+  "url": "https://www.imdb.com/tt5884052/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQzNDIwNTA0MF5BMl5BanBnXkFtZTgwNzQ0MDQ3NjM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "mossow92",
+    "dateCreated": "2019-06-16",
+    "inLanguage": "English",
+    "heading": "Cute and funny, but no real substance.",
+    "reviewBody": "While I like Pokemon, I&apos;ve never been a collector of cards or watcher of the cartoons. Still, the characters are cute and I like the idea of the competitive fights. From the trailer, the movie looked funny and cute, so I wanted to see it. And that&apos;s basically what you get from the film. Ryan Reynolds is funny and charming as the title character. The Pokemon are cute and the CGI is well done. Yet, underneath the surface, the plot is nearly nonexistent and the acting is subpar at best. So, is it worth watching? Yes. It&apos;s cute and funny. You&apos;ll laugh and be visually entertained. But once it&apos;s over, you realize you really gained nothing from the time spent watching.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 180025,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2019-05-10",
+  "keywords": "pokemon,based on video game,pikachu,live action cgi hybrid,cinematic universe",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Ryan Reynolds",
+      "url": "https://www.imdb.com/name/nm0005351/"
+    },
+    {
+      "name": "Justice Smith",
+      "url": "https://www.imdb.com/name/nm6819854/"
+    },
+    {
+      "name": "Kathryn Newton",
+      "url": "https://www.imdb.com/name/nm1105980/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rob Letterman",
+      "url": "https://www.imdb.com/name/nm1224299/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dan Hernandez",
+      "url": "https://www.imdb.com/name/nm2021624/"
+    },
+    {
+      "name": "Benji Samit",
+      "url": "https://www.imdb.com/name/nm1658012/"
+    },
+    {
+      "name": "Rob Letterman",
+      "url": "https://www.imdb.com/name/nm1224299/"
+    }
+  ]
+}

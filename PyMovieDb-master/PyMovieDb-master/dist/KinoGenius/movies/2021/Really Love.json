@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "Really Love",
+  "url": "https://www.imdb.com/tt8722624/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2FkODZkYTktZjNjZC00NjQ3LTk3NDAtMTA3ZDJlMTM4ZTE2XkEyXkFqcGdeQXVyMjgwNDU2OTE@._V1_.jpg",
+  "description": "Set in contemporary Washington D.C., a rising black painter strives to break into the competitive art world, while balancing a bittersweet romance he never expected.",
+  "review": {
+    "author": "wonderstone_entertainment",
+    "dateCreated": "2021-08-30",
+    "inLanguage": "English",
+    "heading": "It&apos;s nearly 5:30 am. I&apos;m tired, and this is what I&apos;m doing.",
+    "reviewBody": "The ticking clock on my wall, and the demanding job waiting for me in a few hours, couldn&apos;t keep me away from this moment. I believe that staying up to watch this film, and now to give it a review, when time is not on my side, is likely to reveal my sentiments toward the experience more than any word that I write hereafter. Regardless, let me be clear that I enjoyed the film but more so appreciated it.\n\nMy appreciation stems from my belief that the film is more than a love story between couples but a love story of self, of family, of friends, of community, and of culture. These are all things I treasure and respect. Although, what nearly brought me to applause was the creator&apos;s presence of mind to not make this film a fairytale but instead to paint a portrait of ambitious, every day people, who weren&apos;t born on stacks of cash, yet never saw themselves as unworthy of the highest level of success. The creator went further to color our eyes with a truth that revealed that most dreams are powered by work, and that the work may open a window of opportunity that allows fate to sneak in and take people wherever it sees fit. Such truth, most creators conveniently leave out of screenplays, or allow to become scraps on the editor&apos;s room floor, and all because those details don&apos;t summon cheers. How brave the creator must be to go against the grain.\n\nAs for the cast, they were top-notch, and seeing Suzzanne Douglas being her talented self was a pleasant surprise.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 1079,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2021-08-25",
+  "keywords": "art,african american,painter,washington d.c.,artist",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Kofi Siriboe",
+      "url": "https://www.imdb.com/name/nm2492243/"
+    },
+    {
+      "name": "Yootha Wong-Loi-Sing",
+      "url": "https://www.imdb.com/name/nm5493937/"
+    },
+    {
+      "name": "Uzo Aduba",
+      "url": "https://www.imdb.com/name/nm2499064/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Angel Kristi Williams",
+      "url": "https://www.imdb.com/name/nm2029443/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sanford Grimes",
+      "url": "https://www.imdb.com/name/nm4956911/"
+    },
+    {
+      "name": "Felicia Pride",
+      "url": "https://www.imdb.com/name/nm6285266/"
+    },
+    {
+      "name": "Angel Kristi Williams",
+      "url": "https://www.imdb.com/name/nm2029443/"
+    }
+  ]
+}

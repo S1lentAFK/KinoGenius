@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Night House",
+  "url": "https://www.imdb.com/tt9731534/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmIwNjJhOGYtNDcyNi00Yjc4LThiNTktMDM2ZjFhM2YxMTljXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+  "description": "A widow begins to uncover her recently deceased husband&apos;s disturbing secrets.",
+  "review": {
+    "author": "FeastMode",
+    "dateCreated": "2022-02-08",
+    "inLanguage": "English",
+    "heading": "Scream 5 would call this elevated horror",
+    "reviewBody": "Well-made psychological horror flick with a great performance by Rebecca Hall. It can be considered a slow burn but I was fully invested and never bored. Very atmospheric. Lots of beautiful shots. Some effective scares. Great movie overall and I would definitely watch it again. (1 viewing, 2/7/2022)",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 65128,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2021-08-20",
+  "keywords": "suicide,female protagonist,deal with the devil,widow,young widow",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Rebecca Hall",
+      "url": "https://www.imdb.com/name/nm0356017/"
+    },
+    {
+      "name": "Sarah Goldberg",
+      "url": "https://www.imdb.com/name/nm3057022/"
+    },
+    {
+      "name": "Vondie Curtis-Hall",
+      "url": "https://www.imdb.com/name/nm0193554/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Bruckner",
+      "url": "https://www.imdb.com/name/nm1410159/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ben Collins",
+      "url": "https://www.imdb.com/name/nm2049126/"
+    },
+    {
+      "name": "Luke Piotrowski",
+      "url": "https://www.imdb.com/name/nm2431095/"
+    }
+  ]
+}

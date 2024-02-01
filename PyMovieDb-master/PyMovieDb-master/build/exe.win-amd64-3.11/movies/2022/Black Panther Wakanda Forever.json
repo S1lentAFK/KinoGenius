@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Black Panther: Wakanda Forever",
+  "url": "https://www.imdb.com/tt9114286/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+  "description": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T&apos;Challa.",
+  "review": {
+    "author": "Chanandler-Bong",
+    "dateCreated": "2022-11-19",
+    "inLanguage": "English",
+    "heading": "Overall, weak",
+    "reviewBody": "This film had some great stuff in it, there&apos;s no doubt of that, but I felt it was overall weak. I can&apos;t imagine how hard it was for everyone in the film to come back without a lead, and most importantly, their friend. Chadwick&apos;s passing is unbelievably sad but it did leave a gap for Marcel to fill, and they could have done it so well. But they didn&apos;t.\n\nFirstly, the good. All the emotional scenes were well-scripted and well-acted, and I have to commend Angela Bassett and Letita Wright for their fantastic acting. I never cry in the cinema but this film really had me going because it felt from the heart in some scenes, and I am sure it was.\n\nI also enjoyed the costumes - wow were they beautiful. The only one I didn&apos;t like was the Midnight Angels (or whatever they were called). They didn&apos;t feel like they fit. Some of the fighting was great as per.\n\nThe rest of the film felt slow, boring almost. I&apos;ve just come from the cinema and I am struggling to remember much of it.\n\nThe story was gaping with holes and so much was skipped over with little explanation. The beginning when T&apos;Challa dies felt cold and rushed. That should have been the pivotal moment for the story, but it was brushed over. However, maybe it was too hard for the cast and crew to linger on.\n\nThe Talokan/Atlantis story was odd to me and felt so disconnected from Wakanda. I didn&apos;t enjoy that storyline. They could have made it so much better.\n\nAnyway, it was enjoyable and I&apos;ll maybe watch it again. But I won&apos;t rush to do that.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 295664,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "datePublished": "2022-11-11",
+  "keywords": "sequel,wakanda,maya civilization,superhero,marvel cinematic universe",
+  "duration": "PT2H41M",
+  "actor": [
+    {
+      "name": "Letitia Wright",
+      "url": "https://www.imdb.com/name/nm4004793/"
+    },
+    {
+      "name": "Lupita Nyong&apos;o",
+      "url": "https://www.imdb.com/name/nm2143282/"
+    },
+    {
+      "name": "Danai Gurira",
+      "url": "https://www.imdb.com/name/nm1775091/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ryan Coogler",
+      "url": "https://www.imdb.com/name/nm3363032/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ryan Coogler",
+      "url": "https://www.imdb.com/name/nm3363032/"
+    },
+    {
+      "name": "Joe Robert Cole",
+      "url": "https://www.imdb.com/name/nm1963288/"
+    },
+    {
+      "name": "Stan Lee",
+      "url": "https://www.imdb.com/name/nm0498278/"
+    }
+  ]
+}

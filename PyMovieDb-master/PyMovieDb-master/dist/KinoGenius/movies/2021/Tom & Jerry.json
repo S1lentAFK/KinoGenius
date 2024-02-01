@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Tom and Jerry",
+  "url": "https://www.imdb.com/tt1361336/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDIzMzE4YjAtZjk0Ni00NzEzLThkMzYtNWExYTRhM2U4OTliXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+  "description": "A chaotic battle ensues between Jerry Mouse, who has taken refuge in the Royal Gate Hotel, and Tom Cat, who is hired to drive him away before the day of a big wedding arrives.",
+  "review": {
+    "author": "oleqda",
+    "dateCreated": "2021-03-03",
+    "inLanguage": "English",
+    "heading": "An interesting film, but with some drawbacks",
+    "reviewBody": "A good movie for the whole family, but the conversations of the people should have been less. More animations.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 39061,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2021-03-25",
+  "keywords": "jerry the mouse character,slapstick comedy,tom the cat character,hotel,new york city",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Chloë Grace Moretz",
+      "url": "https://www.imdb.com/name/nm1631269/"
+    },
+    {
+      "name": "Michael Peña",
+      "url": "https://www.imdb.com/name/nm0671567/"
+    },
+    {
+      "name": "Colin Jost",
+      "url": "https://www.imdb.com/name/nm1906042/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tim Story",
+      "url": "https://www.imdb.com/name/nm1103162/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William Hanna",
+      "url": "https://www.imdb.com/name/nm0360253/"
+    },
+    {
+      "name": "Joseph Barbera",
+      "url": "https://www.imdb.com/name/nm0053484/"
+    },
+    {
+      "name": "Kevin Costello",
+      "url": "https://www.imdb.com/name/nm8213708/"
+    }
+  ]
+}

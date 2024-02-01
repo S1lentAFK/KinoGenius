@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Someone Great",
+  "url": "https://www.imdb.com/tt8075260/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI5MzQ0NjA5Ml5BMl5BanBnXkFtZTgwNjA1MTg1NzM@._V1_.jpg",
+  "description": "After a devastating break up on the eve of her cross-country move, Jenny enjoys one last NYC adventure with her two best pals. Someone Great is a romantic comedy about love, loss, growth and the everlasting bond of female friendship.",
+  "review": {
+    "author": "megmarquis-39874",
+    "dateCreated": "2019-04-22",
+    "inLanguage": "English",
+    "heading": "It&apos;s beautiful",
+    "reviewBody": "I am confused by all the negative ratings. I think anyone who has experienced true heart break can appreciate this movie. This film showcased a beautiful love, the ups and downs, the hardships and choices that happen when two people share their love together, and then ultimately, the end. No it isn&apos;t your typically happy ending film, but the love between these two was special, and the relationship between these three girls, well it&apos;s what we all want. People in our corner, who support us, and hold us up when we need it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 24795,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2019-04-19",
+  "keywords": "f word,no opening credits,no title at beginning,new york city,reference to barbra streisand",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Gina Rodriguez",
+      "url": "https://www.imdb.com/name/nm1752221/"
+    },
+    {
+      "name": "LaKeith Stanfield",
+      "url": "https://www.imdb.com/name/nm3147751/"
+    },
+    {
+      "name": "Brittany Snow",
+      "url": "https://www.imdb.com/name/nm0811242/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jennifer Kaytin Robinson",
+      "url": "https://www.imdb.com/name/nm3066492/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jennifer Kaytin Robinson",
+      "url": "https://www.imdb.com/name/nm3066492/"
+    }
+  ]
+}

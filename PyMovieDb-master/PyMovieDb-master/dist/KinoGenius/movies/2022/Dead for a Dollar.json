@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Dead for a Dollar",
+  "url": "https://www.imdb.com/tt14895206/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTAyMmM4ZmYtZGZhMi00YmY3LTgyOWMtMjA0NGVkODMwNzA5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+  "description": "A famed bounty hunter runs into his sworn enemy, a professional gambler and outlaw that he had sent to prison years before.",
+  "review": {
+    "author": "imseeg",
+    "dateCreated": "2022-09-30",
+    "inLanguage": "English",
+    "heading": "I had high expectations for this movie. What a disappointment.",
+    "reviewBody": "Terrific director, with a star cast of actors, I was really waiting for this movie to be released and my expectations were pretty high. What a disappointment...\n\nThe bad: the first thing I noticed was that the photography was average (at best). Almost tv quality (low level). THAT I am not used to when watching Walter Hill movies which usually have got terrific technical details. Not this time around. Even the sound score sounded average. Bummer.\n\nBut even worse the acting performances by Cristophter Waltz and Willem Dafoe were bland. As if they were speed reading their lines without any real gusto.\n\nThis looks pretty much like a Corona era movie that has been recently released and has suffered from production and money problems, because I really get the feel this movie was somehow rushed. Bummer.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 5995,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "contentRating": "R",
+  "genre": [
+    "Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2022-09-30",
+  "keywords": "year 1897,prison,prisoner,chihuahua mexico,interracial relationship",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Christoph Waltz",
+      "url": "https://www.imdb.com/name/nm0910607/"
+    },
+    {
+      "name": "Willem Dafoe",
+      "url": "https://www.imdb.com/name/nm0000353/"
+    },
+    {
+      "name": "Rachel Brosnahan",
+      "url": "https://www.imdb.com/name/nm3014031/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Walter Hill",
+      "url": "https://www.imdb.com/name/nm0001353/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Walter Hill",
+      "url": "https://www.imdb.com/name/nm0001353/"
+    },
+    {
+      "name": "Matt Harris",
+      "url": "https://www.imdb.com/name/nm1358798/"
+    }
+  ]
+}

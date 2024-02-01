@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "End of the Road",
+  "url": "https://www.imdb.com/tt13655328/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODE5YTA2YzMtNTY5MC00NmM4LTk5ZGYtZWE0N2ViNWJiZDMzXkEyXkFqcGdeQXVyMTAxNDE3MTE5._V1_.jpg",
+  "description": "In this high-octane action thriller, a cross-country road trip becomes a highway to hell for Brenda and her family. Alone in the New Mexico desert, they have to fight for their lives when they become the targets of a mysterious ki...",
+  "review": {
+    "author": "rcwmfwvh",
+    "dateCreated": "2022-09-13",
+    "inLanguage": "English",
+    "heading": "Just not good",
+    "reviewBody": "I love Queen Latifah and have followed her for years. She was brilliant in Chicago! I&apos;m just not understanding why any form of racism is ok.\n\nI would have hoped in todays times she would have been better and held herself to a higher standard.\n\nIf I was from Arizona I would definitely be offended, no matter what my color is!! Lol\n\nI&apos;ve been through Arizona many times and have yet to run across the people portrayed. The acting was below par and the story line was way too ridiculous for me.\n\nThe creepy housekeeper watching her go upstairs with the bag..omg! Who wrote that part of the script 🤔 If I was a housekeeper at a hotel I would definitely be offended!! 😂\n\nEveryone can complain about the obvious racism in the movie, but that still doesn&apos;t change that it just was not a good movie. Very disappointing.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 8595,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2022-09-09",
+  "keywords": "killer,murder,cross country,driver,escape",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Queen Latifah",
+      "url": "https://www.imdb.com/name/nm0001451/"
+    },
+    {
+      "name": "Ludacris",
+      "url": "https://www.imdb.com/name/nm0524839/"
+    },
+    {
+      "name": "Mychala Lee",
+      "url": "https://www.imdb.com/name/nm5144873/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Millicent Shelton",
+      "url": "https://www.imdb.com/name/nm0791381/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Christopher J. Moore",
+      "url": "https://www.imdb.com/name/nm2709022/"
+    },
+    {
+      "name": "David Loughery",
+      "url": "https://www.imdb.com/name/nm0521739/"
+    }
+  ]
+}

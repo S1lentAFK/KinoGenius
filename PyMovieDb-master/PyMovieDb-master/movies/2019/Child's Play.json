@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "Child&apos;s Play",
+  "url": "https://www.imdb.com/tt0094862/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGU1MjNiYWYtNGQ5MS00MTgzLTlkYjItZDhhNTdlMTkxZGVlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": "A struggling single mother unknowingly gifts her son a doll imbued with a serial killer&apos;s consciousness.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2013-10-04",
+    "inLanguage": "English",
+    "heading": "Good original thrilling horror",
+    "reviewBody": "Serial killer Charles Lee Ray (Brad Dourif) gets shot by detective Norris (Chris Sarandon). As he struggles with his last breath, he transfers his soul into a Good Guys doll. Meanwhile Karen Barclay (Catherine Hicks) is a cash strapped single mom. Her kid is desperate for the doll, and she could only afford one from a shady homeless guy. It turns out that the doll has Charles Lee Ray&apos;s soul in it, and he wants to transfer to the kid.\n\nThis is a well made horror. The general idea of a killer doll may be an old one. But this is done with some fun freshness. Director Tom Holland is definitely a good study of horror. He&apos;s able to inject a lot of good old fashion scares into this film. He hides Chucky in the act of killing until late in the movie. This allows the tension to build. And the reveal is great. The whole thing works. The only thing holding it back is a little bit of unintentionally camp. The F/X needs improvements. These are all forgivable. Catherine Hicks and Chris Sarandon are both good character actors. At its core, this is a good film.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 114788,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "1989-06-02",
+  "keywords": "andy barclay character,spell,animatronic,chucky character,gift",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Catherine Hicks",
+      "url": "https://www.imdb.com/name/nm0382819/"
+    },
+    {
+      "name": "Chris Sarandon",
+      "url": "https://www.imdb.com/name/nm0001697/"
+    },
+    {
+      "name": "Alex Vincent",
+      "url": "https://www.imdb.com/name/nm0898571/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tom Holland",
+      "url": "https://www.imdb.com/name/nm0276169/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Don Mancini",
+      "url": "https://www.imdb.com/name/nm0238841/"
+    },
+    {
+      "name": "John Lafia",
+      "url": "https://www.imdb.com/name/nm0480843/"
+    },
+    {
+      "name": "Tom Holland",
+      "url": "https://www.imdb.com/name/nm0276169/"
+    }
+  ]
+}

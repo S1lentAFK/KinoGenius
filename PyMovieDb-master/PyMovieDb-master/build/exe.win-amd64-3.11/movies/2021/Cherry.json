@@ -1,0 +1,62 @@
+{
+  "type": "Movie",
+  "name": "About Cherry",
+  "url": "https://www.imdb.com/tt1945062/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM4MTA3MTk0MF5BMl5BanBnXkFtZTcwNDI0NjAyOA@@._V1_.jpg",
+  "description": "A troubled young woman moves to San Francisco, where she becomes involved in pornography and aligns herself with a cocaine-addicted lawyer.",
+  "review": {
+    "author": "dissident320",
+    "dateCreated": "2017-09-07",
+    "inLanguage": "English",
+    "heading": "Barely a story, barely any acting",
+    "reviewBody": "This is bad without being hilarious. There are some decent actors in this such as Dev Patel, Lily Taylor and perhaps even James Franco. But you&apos;re not seeing any good performances from them. It all feels like rehearsals or one take. There&apos;s a scene at the bar with the lead Ashley Winshaw and James Franco where I&apos;m pretty sure she breaks and starts laughing but they just leave it in. I really doubt there was a script on this because scenes just play out they have an outline and just fill in the words. There&apos;s no subtlety whatsoever in how characters react or what happens. You feel very aware that it&apos;s just a checklist of story beats to get you to the end.\n\nI will say there were a couple of moments where I saw a what a good movie about this subject could be. Her being in porn and dating outside of that would be a difficult thing to discuss and work through. Instead characters mostly react with disgust and there&apos;s no depth to the subject matter. \n\nPerhaps a shame that there there are flashes of the director trying to convey a message of sorts. But this is certainly not the female version of Boogie Nights. It&apos;s just a goofy movie about a girl who wants to be in porn for no particular reason.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 10886,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  },
+  "contentRating": "18",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2013-09-02",
+  "keywords": "porn industry,dysfunctional family,photo shoot,rough lesbian sex,lesbian sex",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Ashley Hinshaw",
+      "url": "https://www.imdb.com/name/nm3358233/"
+    },
+    {
+      "name": "James Franco",
+      "url": "https://www.imdb.com/name/nm0290556/"
+    },
+    {
+      "name": "Heather Graham",
+      "url": "https://www.imdb.com/name/nm0001287/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Stephen Elliott",
+      "url": "https://www.imdb.com/name/nm4107260/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stephen Elliott",
+      "url": "https://www.imdb.com/name/nm4107260/"
+    },
+    {
+      "name": "Lorelei Lee",
+      "url": "https://www.imdb.com/name/nm2439425/"
+    }
+  ]
+}

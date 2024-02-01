@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "After Yang",
+  "url": "https://www.imdb.com/tt8633464/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjkzYmFjZGItMDYwMy00YTljLWE0YWYtOWNmNzdkZDdlYmI5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+  "description": "In a near future, a family reckons with questions of love, connection, and loss after their A.I. helper unexpectedly breaks down.",
+  "review": {
+    "author": "masonfisk",
+    "dateCreated": "2022-06-07",
+    "inLanguage": "English",
+    "heading": "SHORT FILM EMBIGGENED TO UNNECESSARY LONGER LENGTH...!",
+    "reviewBody": "An indie film set in the future from last year. Colin Farrell & Jodie Turner-Smith are raising their daughter w/the help of a robot which they bought refurbished. The parents begin to worry when Yang, Justin H. Min, starts to malfunction & what his potential absence will have on their daughter which prompts Farrell to venture out into the world to find out his background which includes visions of a girl, played by Haley Lu Richardson, who meant enough to him she&apos;s still in his memory banks. Taking a page out of other scifi outliers like Blade Runner, A. I. & even to some extent the Will Smith actioner I, Robot, this film&apos;s message of a robot achieving its own consciousness is lost in its fey, flowery delivery as it feels (which reading the head credits this film was based on a short...probably the best format for this), even at its short running time of 90 or so minutes, bloated by unnecessary visual deviations & flourishes making this at best a beautiful ad for a B & B & at worst a waste of my time. Also starring Sarita Choudhury & Ritchie Coster as robot merchants w/Clifton Collins as Farrell&apos;s neighbor.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 21893,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "datePublished": "2022-03-04",
+  "keywords": "husband wife relationship,android,futuristic,advanced technology,adopted child",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Colin Farrell",
+      "url": "https://www.imdb.com/name/nm0268199/"
+    },
+    {
+      "name": "Jodie Turner-Smith",
+      "url": "https://www.imdb.com/name/nm3853652/"
+    },
+    {
+      "name": "Malea Emma Tjandrawidjaja",
+      "url": "https://www.imdb.com/name/nm9317294/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kogonada",
+      "url": "https://www.imdb.com/name/nm3226379/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Alexander Weinstein",
+      "url": "https://www.imdb.com/name/nm9984203/"
+    },
+    {
+      "name": "Kogonada",
+      "url": "https://www.imdb.com/name/nm3226379/"
+    }
+  ]
+}

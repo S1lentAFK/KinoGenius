@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Our Friend",
+  "url": "https://www.imdb.com/tt9608818/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjQxOTY2MzYtZjhhNy00Y2ExLWJiMWYtYTNkMzA2ZTk5MDU4XkEyXkFqcGdeQXVyNTU5Mzk0NjE@._V1_.jpg",
+  "description": "After receiving life-altering news, a couple finds unexpected support from their best friend, who puts his own life on hold and moves into their family home, bringing an impact much greater and more profound than anyone could have...",
+  "review": {
+    "author": "henriquemmd",
+    "dateCreated": "2021-01-22",
+    "inLanguage": "English",
+    "heading": "This one heats you in the feelings",
+    "reviewBody": "This movie was amazing and the fact that the story was true brings me pure joy. It is in fact a painfull movie beacause the story is so relatable and real. The friendshipp the this trio is present in every scene and the way they lean on each other until the end makes you believe that you can rely on your best friend in your darkest times.\n\nTo the cast, i give an great performance. i have to guive a shout out to Jason Segel for is performance. normally i see him in great comedies but is always good to see him go in other directions .\n\nThe director was great and the screenpaly was well writen.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 14798,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2021-01-29",
+  "keywords": "singing in a car,best friend,friend,friendship,based on magazine article",
+  "duration": "PT2H4M",
+  "actor": [
+    {
+      "name": "Jason Segel",
+      "url": "https://www.imdb.com/name/nm0781981/"
+    },
+    {
+      "name": "Isabella Kai",
+      "url": "https://www.imdb.com/name/nm6038328/"
+    },
+    {
+      "name": "Violet McGraw",
+      "url": "https://www.imdb.com/name/nm8627157/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gabriela Cowperthwaite",
+      "url": "https://www.imdb.com/name/nm1363250/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brad Ingelsby",
+      "url": "https://www.imdb.com/name/nm2145487/"
+    },
+    {
+      "name": "Matthew Teague",
+      "url": "https://www.imdb.com/name/nm2258798/"
+    }
+  ]
+}

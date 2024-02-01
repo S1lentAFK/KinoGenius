@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Assassin",
+  "url": "https://www.imdb.com/tt14555174/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjZhN2QxZmUtMThjMS00ZGQzLWJiNjUtNjZmMjBkMTVlNTBhXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg",
+  "description": "A man dies as part of an experimental military program. A former black-ops soldier takes his place to find who killed him.",
+  "review": {
+    "author": "FridayElmStreet",
+    "dateCreated": "2023-05-28",
+    "inLanguage": "English",
+    "heading": "The Last Bruce Willis movie.",
+    "reviewBody": "Assassin is the last Bruce Willis movie sadly due to his aphasia and dementia. A sad way to end his career. This is a confused, sloppy and poorly directed film about private operation led by Bruce Willis that puts bug like microchips in people and by using an assassin host (Nomzamo Mbatha) she can poses that person and perform a murder. Her target is Dominic Purcell. Bruce Willis is fine here though hes not given much to do. He mainly just gives order but he does get to shoot a lady in one scene so theres that. Best to remember Bruce for the Die Hard films, Pulp Fiction or The Sixth Sense and not his later career.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 2
+    }
+  },
+  "rating": {
+    "ratingCount": 1306,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "2023-04-03",
+  "keywords": "soldier,man",
+  "duration": "PT1H28M",
+  "actor": [
+    {
+      "name": "Andy Allo",
+      "url": "https://www.imdb.com/name/nm3698103/"
+    },
+    {
+      "name": "Nomzamo Mbatha",
+      "url": "https://www.imdb.com/name/nm7580248/"
+    },
+    {
+      "name": "Bruce Willis",
+      "url": "https://www.imdb.com/name/nm0000246/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jesse Atlas",
+      "url": "https://www.imdb.com/name/nm1897760/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jesse Atlas",
+      "url": "https://www.imdb.com/name/nm1897760/"
+    },
+    {
+      "name": "Aaron Wolfe",
+      "url": "https://www.imdb.com/name/nm3261569/"
+    }
+  ]
+}

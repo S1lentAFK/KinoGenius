@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Where the Crawdads Sing",
+  "url": "https://www.imdb.com/tt9411972/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTJmNGJmYTgtYjAxNy00YmMzLTk2YTYtMGIzMmUwNDMyMTY1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+  "description": "A woman who raised herself in the marshes of the Deep South becomes a suspect in the murder of a man with whom she was once involved.",
+  "review": {
+    "author": "JohnRayPeterson",
+    "dateCreated": "2022-11-15",
+    "inLanguage": "English",
+    "heading": "A Classic - murder mystery, romance and natural beauty of the wild",
+    "reviewBody": "What classic murder mysteries inevitably must have is a &apos;who-done-it&apos; which you will not guess. This story will have you ponder to be sure and when you&apos;re certain you have figured it out you are surprised not once but twice. It is the reason I call it a classic.\n\nNot only is it a murder mystery, it is a romance drama worthy of awards. The Novel on which it is based, by Dalia Owens, was at the very top of the New York Times best sellers in 2019 and in 2020, after which it remained on the list to date. It sold over 15 million copies; that&apos;s saying something. I certainly found it very moving. The main character, Kya Clark, played oh so well by Daisy Edgar-Jones (and earlier as a child by Jojo Regina), is a unique character, much like the character Nell from the 1994 Oscar winning movie, was a unique character. Kya however is a highly developed survivalist, with so many great qualities for you to discover and like, not the least of which is her love of nature. That in itself lended the movie to great cinematographic opportunities, and it is not lacking in that; in fact it made me love the movie even more.\n\nYou may not get much from reading the IMDb storyline, but why would you want to spoil the experience; so, I&apos;m avoiding those here. The complexities of human behaviour is explored, exposed and certainly exploited to our benefit with refreshing subtleties. Would I recommend this movie? Oh yes, absolutely.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 114321,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "datePublished": "2022-07-22",
+  "keywords": "boat,1960s,marsh,feral child,domestic abuse",
+  "duration": "PT2H5M",
+  "actor": [
+    {
+      "name": "Daisy Edgar-Jones",
+      "url": "https://www.imdb.com/name/nm8402992/"
+    },
+    {
+      "name": "Taylor John Smith",
+      "url": "https://www.imdb.com/name/nm4973896/"
+    },
+    {
+      "name": "Harris Dickinson",
+      "url": "https://www.imdb.com/name/nm6170168/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Olivia Newman",
+      "url": "https://www.imdb.com/name/nm3229507/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Delia Owens",
+      "url": "https://www.imdb.com/name/nm3380457/"
+    },
+    {
+      "name": "Lucy Alibar",
+      "url": "https://www.imdb.com/name/nm3599054/"
+    }
+  ]
+}

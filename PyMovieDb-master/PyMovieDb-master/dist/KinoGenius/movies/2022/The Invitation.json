@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "The Invitation",
+  "url": "https://www.imdb.com/tt12873562/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTk3YWEwOTYtYTFiOS00NjJiLWJiOTAtMTRkZDY1Y2M1MDIyXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+  "description": "A young woman is courted and swept off her feet, only to realize a gothic conspiracy is afoot.",
+  "review": {
+    "author": "nolanroshto",
+    "dateCreated": "2022-08-25",
+    "inLanguage": "English",
+    "heading": "I sure did watch this",
+    "reviewBody": "That&apos;s about the most I can say about this. It was in fact something I watched.\n\nIt fails at being a horror It fails at being a romance It could&apos;ve been a passable mystery, but the trailer spoiled it.\n\nIt wasn&apos;t bombastic enough to be fun, but it wasn&apos;t well-written enough to justify its dullness.\n\nAt best it&apos;s a way to spend an evening. Although, personally, if it wasn&apos;t for the fact that I got to watch it for free (I work at a movie theater), then I would&apos;ve been dissatisfied with my purchase.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 29744,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2022-08-26",
+  "keywords": "vampire,gothic,feminism,suicide,suicide by hanging",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Nathalie Emmanuel",
+      "url": "https://www.imdb.com/name/nm2812026/"
+    },
+    {
+      "name": "Thomas Doherty",
+      "url": "https://www.imdb.com/name/nm6015235/"
+    },
+    {
+      "name": "Sean Pertwee",
+      "url": "https://www.imdb.com/name/nm0675730/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jessica M. Thompson",
+      "url": "https://www.imdb.com/name/nm3701612/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Blair Butler",
+      "url": "https://www.imdb.com/name/nm1397455/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Space Oddity",
+  "url": "https://www.imdb.com/tt6317762/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzM3NWRhNWItN2VmMC00YmU3LWEyYmItNjk0YzA1YTE1MzE4XkEyXkFqcGdeQXVyMzM3NjAwNQ@@._V1_.jpg",
+  "description": "A man seeks the help from an insurance company to plan a one-way trip to Mars.",
+  "review": {
+    "author": "blackmelo",
+    "dateCreated": "2023-05-09",
+    "inLanguage": "English",
+    "heading": "beautiful film",
+    "reviewBody": "I didn&apos;t expect this to be so good but this film is really down to earth. It&apos;s about a kid called alexander who takes us along on his decision to be the first person to travel to mars. Although you&apos;d think it would be all about travelling to mars and it is that is more the backdrop and premise to this film introducing us to his decision, his life, what he&apos;d be leaving behind and it all just resonated with me. Alexander is very critical of how finite life is due to a tragedy he has experienced which he is grieving and makes him have a very bleak view of life which I can relate to but this film is great in that it shows what life is all about. Family, friends, sports, hobbies and most importantly plants. Plants are a big part of life. Without plants there would be no life so alexander has to figure out how to get them to grow on mars too. It&apos;s all very philosophical and normally I&apos;m not into those kind of films, being a sci-fi nerd myself but this film was beautiful, really well made. I loved every moment of it and the ending was excellent too. The moral of the story is to enjoy life and it is not easy to convince me but this film did a really good job at it. It is a story I thought was beautifully told. It was real, didn&apos;t feel fake, was emotional at times and I can recommend this film to anyone. My favorite film of the year hands down.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 1077,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "datePublished": "2023-03-31",
+  "keywords": "plan,overalls,outer space,mission to mars,scam",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Kyle Allen",
+      "url": "https://www.imdb.com/name/nm6563873/"
+    },
+    {
+      "name": "Alexandra Shipp",
+      "url": "https://www.imdb.com/name/nm3381295/"
+    },
+    {
+      "name": "Madeline Brewer",
+      "url": "https://www.imdb.com/name/nm5483400/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kyra Sedgwick",
+      "url": "https://www.imdb.com/name/nm0001718/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Rebecca Banner",
+      "url": "https://www.imdb.com/name/nm3713026/"
+    }
+  ]
+}

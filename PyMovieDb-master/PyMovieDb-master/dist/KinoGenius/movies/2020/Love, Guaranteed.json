@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Love Guaranteed",
+  "url": "https://www.imdb.com/tt11100856/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDE1MmE4MTktNzU0OS00YjdmLWEyNzYtY2JhNWE4ZWVlYmY5XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+  "description": "To save her small law firm, earnest lawyer Susan takes a high-paying case from Nick, a charming new client who wants to sue a dating website that guarantees love. But as the case heats up, so do Susan and Nick&apos;s feelings for each ...",
+  "review": {
+    "author": "capobanda007",
+    "dateCreated": "2020-09-04",
+    "inLanguage": "English",
+    "heading": "Good, Clean and Cute Love Story",
+    "reviewBody": "You just don&apos;t find love stories like this. Finally a cute love story I can watch with my family that is not animated. Thanks Netflix!!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 18774,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2020-09-03",
+  "keywords": "lawyer,love,pro bono,dating website,media",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Rachael Leigh Cook",
+      "url": "https://www.imdb.com/name/nm0000337/"
+    },
+    {
+      "name": "Damon Wayans Jr.",
+      "url": "https://www.imdb.com/name/nm0915458/"
+    },
+    {
+      "name": "Heather Graham",
+      "url": "https://www.imdb.com/name/nm0001287/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mark Steven Johnson",
+      "url": "https://www.imdb.com/name/nm0425756/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Elizabeth Hackett",
+      "url": "https://www.imdb.com/name/nm4306620/"
+    },
+    {
+      "name": "Hilary Galanoy",
+      "url": "https://www.imdb.com/name/nm1194570/"
+    }
+  ]
+}

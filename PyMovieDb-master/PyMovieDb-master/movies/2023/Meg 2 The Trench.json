@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Meg 2: The Trench",
+  "url": "https://www.imdb.com/tt9224104/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM2NTU1ZTktNjc4YS00NjNhLWE4NmYtOTM2YjFjOGUzNmYzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "description": "A research team encounters multiple threats while exploring the depths of the ocean, including a malevolent mining operation.",
+  "review": {
+    "author": "dextermorgan-91603",
+    "dateCreated": "2023-08-03",
+    "inLanguage": "English",
+    "heading": "Excellent Movie, if you are a 5 year old kid",
+    "reviewBody": "Pros: None that i can even remotely think of.\n\nCons: Where to begin?\n\nMildly interesting twist revealed way too early, not enough megalodon action, laughable CGI which is absolutely unacceptable for a 2023 movie, supporting cast is just like puppets, awful script, asinine direction, blatantly differs from source material and insults the source.\n\nFemale lead of previous movie is missing who had slight chemistry with male lead. John Turtletaub may not have made a magnum opus with the first movie but it&apos;s definitely fun and enjoyable unlike this vapid waste of resource Verdict: Avoid at all costs, not worth pirating also, just read the novels.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 70720,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Horror"
+  ],
+  "datePublished": "2023-08-04",
+  "keywords": "creature feature,giant octopus,megalodon,shark,disaster",
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Jason Statham",
+      "url": "https://www.imdb.com/name/nm0005458/"
+    },
+    {
+      "name": "Jing Wu",
+      "url": "https://www.imdb.com/name/nm0943104/"
+    },
+    {
+      "name": "Shuya Sophia Cai",
+      "url": "https://www.imdb.com/name/nm8528988/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ben Wheatley",
+      "url": "https://www.imdb.com/name/nm1296554/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jon Hoeber",
+      "url": "https://www.imdb.com/name/nm0388377/"
+    },
+    {
+      "name": "Erich Hoeber",
+      "url": "https://www.imdb.com/name/nm0388375/"
+    },
+    {
+      "name": "Dean Georgaris",
+      "url": "https://www.imdb.com/name/nm1212988/"
+    }
+  ]
+}

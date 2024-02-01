@@ -1,0 +1,66 @@
+{
+  "type": "Movie",
+  "name": "Oracle",
+  "url": "https://www.imdb.com/tt13515258/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmJkZjE1ZTItZTJhYS00ZDZiLTk3ZjEtODNjYTkyNWVlZjg1XkEyXkFqcGdeQXVyNjAwNDIxODk@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "jmichaelmorgan",
+    "dateCreated": "2023-11-14",
+    "inLanguage": "English",
+    "heading": "I expected a lot more",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 725,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  },
+  "contentRating": "R",
+  "genre": [
+    "Horror"
+  ],
+  "datePublished": "2023-10-01",
+  "keywords": "streaming service,woman,young,evil,job",
+  "duration": "PT1H25M",
+  "actor": [
+    {
+      "name": "Ryan Destiny",
+      "url": "https://www.imdb.com/name/nm3629113/"
+    },
+    {
+      "name": "Heather Graham",
+      "url": "https://www.imdb.com/name/nm0001287/"
+    },
+    {
+      "name": "Ariel Martin",
+      "url": "https://www.imdb.com/name/nm6304812/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Daniel di Grado",
+      "url": "https://www.imdb.com/name/nm0223919/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Corey Harrell",
+      "url": "https://www.imdb.com/name/nm2696174/"
+    },
+    {
+      "name": "Michael Arlen Ross",
+      "url": "https://www.imdb.com/name/nm0743683/"
+    },
+    {
+      "name": "Jaime Primak Sullivan",
+      "url": "https://www.imdb.com/name/nm4003337/"
+    }
+  ]
+}

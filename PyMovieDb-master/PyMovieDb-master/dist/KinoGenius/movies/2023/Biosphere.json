@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Biosphere",
+  "url": "https://www.imdb.com/tt15301000/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzdjOGYzNmQtMjgyMC00MWE3LWE1NmUtZmNiYzg1YWQ5N2E5XkEyXkFqcGdeQXVyMTE1MzI2NzIz._V1_.jpg",
+  "description": "In the not-too-distant future, the last two men on earth must adapt and evolve to save humanity.",
+  "review": {
+    "author": "ebeckstr-1",
+    "dateCreated": "2023-07-27",
+    "inLanguage": "English",
+    "heading": ".",
+    "reviewBody": "Biosphere combines romcom and message movie elements with a science fiction plot, with the latter pulling those elements from the genre which serve to support the message by putting characters in a particular situation, as distinguished from scifi that&apos;s more rooted in the popular entertainment aspects of the genre. This kind of science fiction drama will appeal to a certain audience if it&apos;s well-written from beginning to end. It&apos;s relatively uncommon for me to find something that I think is wildly overrated on Letterboxd. Biosphere is an audacious but ultimately unsuccessful film.\n\nThe movie is funny in parts, and the acting is very good. It falls short for me in a couple of key areas. First, it&apos;s too long for what it&apos;s trying to achieve. If it&apos;d been condensed to an hour, it could have been more impactfull. Instead, it delivers exposition too slowly via scenes that are too similar to be anything but repetitive; lingering shots that are supposed to have emotional resonance, but somehow don&apos;t; and other scenes that are just longer than necessary.\n\nI also found the score annoying, distracting, and too cute by half, though I&apos;m sure some people will find it quaint or amusing. This shortcoming extends to the film&apos;s conclusion, which is like the lame punchline to a joke that took too long to tell.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 1806,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "datePublished": "2023-07-07",
+  "keywords": "friendship,male male relationship,male bonding,biosphere,bio dome",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Sterling K. Brown",
+      "url": "https://www.imdb.com/name/nm1250791/"
+    },
+    {
+      "name": "Mark Duplass",
+      "url": "https://www.imdb.com/name/nm0243233/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mel Eslyn",
+      "url": "https://www.imdb.com/name/nm2400555/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mel Eslyn",
+      "url": "https://www.imdb.com/name/nm2400555/"
+    },
+    {
+      "name": "Mark Duplass",
+      "url": "https://www.imdb.com/name/nm0243233/"
+    }
+  ]
+}

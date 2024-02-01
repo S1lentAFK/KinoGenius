@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Napoleon",
+  "url": "https://www.imdb.com/tt13287846/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTNmMGM3NzctYWJmZi00YTgwLWJjY2QtYjdjN2Q5NzgzNGFhXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_.jpg",
+  "description": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+  "review": {
+    "author": "gcarpiceci",
+    "dateCreated": "2023-11-22",
+    "inLanguage": "English",
+    "heading": "History is an undesired guest in Mr Scott&apos;s movie",
+    "reviewBody": "History is an undesired guest taking the backseat in Mr Scott&apos;s sprawling epic on Napoleon&apos;s life.\n\nMr Scott&apos;s craftsmanship is such that it&apos;s undoubtedly able to offer the viewer some unique experiences. But stunning battle visuals and great performances by the lead actors don&apos;t make up for gross historical approximation.\n\nI have no doubt whatsoever that Mr Scott knows his history and, if he didn&apos;t, he surely has a fat staff of assistants to tell it to him; so what he does here (as he did already in Gladiator) is a very deliberate and blatant choice to bend historical reality to the purposes of his own art, which looks like an act of unforgivable artistic hubris.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 76569,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Biography"
+  ],
+  "datePublished": "2023-11-22",
+  "keywords": "napoleon bonaparte character,epic,french empire,soldier,year 1796",
+  "duration": "PT2H38M",
+  "actor": [
+    {
+      "name": "Joaquin Phoenix",
+      "url": "https://www.imdb.com/name/nm0001618/"
+    },
+    {
+      "name": "Vanessa Kirby",
+      "url": "https://www.imdb.com/name/nm3948952/"
+    },
+    {
+      "name": "Tahar Rahim",
+      "url": "https://www.imdb.com/name/nm2588665/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ridley Scott",
+      "url": "https://www.imdb.com/name/nm0000631/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Scarpa",
+      "url": "https://www.imdb.com/name/nm0769227/"
+    }
+  ]
+}

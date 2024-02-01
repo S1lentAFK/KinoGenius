@@ -1,0 +1,76 @@
+{
+  "type": "Movie",
+  "name": "Raya and the Last Dragon",
+  "url": "https://www.imdb.com/tt5109280/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWNiOTc4NGItNGY4YS00ZGNkLThkOWEtMDE2ODcxODEwNjkwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "In a realm known as Kumandra, a re-imagined Earth inhabited by an ancient civilization, a warrior named Raya is determined to find the last dragon.",
+  "review": {
+    "author": "CinemaClown",
+    "dateCreated": "2021-03-06",
+    "inLanguage": "English",
+    "heading": "Visually Spellbinding But Has No Original Voice Of Its Own",
+    "reviewBody": "Taking the usual Disney story template, applying the same rinse n repeat formula to it, then slapping the added representation tag on the package just for the sake of it, and marketing it as something fresh when it&apos;s not, Raya and the Last Dragon marks the arrival of a new princess in the Disney kingdom, and is truly astounding to look at but the film as a whole has no original voice of its own.\n\nDirected by Don Hall & Carlos López Estrada, the story hurries us through its own mythology and doesn&apos;t spend enough time to strengthen the foundations before the main plot surfaces. Add to that, it expects the viewers to be invested in Raya&apos;s journey without putting in the effort that would compel us to do the same. There are familiar beats & predictable subplots here, plus it plays safe instead of risking anything.\n\nWhile some characters are interesting, others are annoying. Humour also falls flat, for the film tries too hard. The emotional moments pack a punch but isn&apos;t allowed to stay afloat for long enough to deliver the goods. The animation is breathtaking for sure. Its richness, colour depth, lighting & rendering is almost immaculate. The background score by James Newton Howard is also a plus. And the voice cast play their roles responsibly as well.\n\nOverall, Raya and the Last Dragon is enjoyable & entertaining, and will manage to satisfy most but there isn&apos;t anything new or different about it. Visually it may look richer & resonant but the underlying flavours are all the same. From a storytelling perspective, it is formulaic. From a creative standpoint, only its animation is worth noting. Nonetheless, despite the conventional treatment, there is a sense of fun & lighthearted quality to it that makes the ride pleasant enough.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 167823,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2021-03-05",
+  "keywords": "dragon,warrior,cgi animation,female warrior,asia",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Kelly Marie Tran",
+      "url": "https://www.imdb.com/name/nm4511652/"
+    },
+    {
+      "name": "Awkwafina",
+      "url": "https://www.imdb.com/name/nm5377144/"
+    },
+    {
+      "name": "Gemma Chan",
+      "url": "https://www.imdb.com/name/nm2110418/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Don Hall",
+      "url": "https://www.imdb.com/name/nm2320658/"
+    },
+    {
+      "name": "Carlos López Estrada",
+      "url": "https://www.imdb.com/name/nm2788015/"
+    },
+    {
+      "name": "Paul Briggs",
+      "url": "https://www.imdb.com/name/nm2128363/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Qui Nguyen",
+      "url": "https://www.imdb.com/name/nm5945690/"
+    },
+    {
+      "name": "Adele Lim",
+      "url": "https://www.imdb.com/name/nm1004604/"
+    },
+    {
+      "name": "Paul Briggs",
+      "url": "https://www.imdb.com/name/nm2128363/"
+    }
+  ]
+}

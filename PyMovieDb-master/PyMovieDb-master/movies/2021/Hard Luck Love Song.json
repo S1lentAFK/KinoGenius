@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "Hard Luck Love Song",
+  "url": "https://www.imdb.com/tt8709338/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTgyNzRmNWYtZTNhYi00ZmIzLTk0YTMtYjg5NzBiZTVmMzAyXkEyXkFqcGdeQXVyNDg5MTY2Ng@@._V1_.jpg",
+  "description": "A gritty love story about a charismatic but down-on-his-luck troubadour living out of cheap motels and making bad decisions.",
+  "review": {
+    "author": "cyprianfrancis",
+    "dateCreated": "2021-10-06",
+    "inLanguage": "English",
+    "heading": "A Classic Indie Film",
+    "reviewBody": "Loved this film! Great performances by Michael Dorman and Sophia Bush. Really made me miss home. Wonderful cinema, music, story.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 524,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "R",
+  "genre": [
+    "Romance",
+    "Thriller"
+  ],
+  "datePublished": "2023-03-21",
+  "keywords": "feature film directorial debut,based on a song,writer producer director,police officer,troubadour",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Michael Dorman",
+      "url": "https://www.imdb.com/name/nm1168915/"
+    },
+    {
+      "name": "Sophia Bush",
+      "url": "https://www.imdb.com/name/nm0124208/"
+    },
+    {
+      "name": "Dermot Mulroney",
+      "url": "https://www.imdb.com/name/nm0000551/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Justin Corsbie",
+      "url": "https://www.imdb.com/name/nm2594946/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Justin Corsbie",
+      "url": "https://www.imdb.com/name/nm2594946/"
+    },
+    {
+      "name": "Todd Snider",
+      "url": "https://www.imdb.com/name/nm1546910/"
+    },
+    {
+      "name": "Craig Ugoretz",
+      "url": "https://www.imdb.com/name/nm9981951/"
+    }
+  ]
+}

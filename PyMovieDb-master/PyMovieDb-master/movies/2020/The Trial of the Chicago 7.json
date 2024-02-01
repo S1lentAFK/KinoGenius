@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "The Trial of the Chicago 7",
+  "url": "https://www.imdb.com/tt1070874/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjYzOGE1MjUtODgyMy00ZDAxLTljYTgtNzk0Njg2YWQwMTZhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "khurramladhani",
+    "dateCreated": "2020-10-17",
+    "inLanguage": "English",
+    "heading": "Watch this movie for writing and performance",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 190465,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "datePublished": "2020-10-16",
+  "keywords": "riot,protesting vietnam war,protest march,political protest,based on true story",
+  "duration": "PT2H9M",
+  "actor": [
+    {
+      "name": "Eddie Redmayne",
+      "url": "https://www.imdb.com/name/nm1519666/"
+    },
+    {
+      "name": "Alex Sharp",
+      "url": "https://www.imdb.com/name/nm5189784/"
+    },
+    {
+      "name": "Sacha Baron Cohen",
+      "url": "https://www.imdb.com/name/nm0056187/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Aaron Sorkin",
+      "url": "https://www.imdb.com/name/nm0815070/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Aaron Sorkin",
+      "url": "https://www.imdb.com/name/nm0815070/"
+    }
+  ]
+}

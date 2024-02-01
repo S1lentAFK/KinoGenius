@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Barb and Star Go to Vista Del Mar",
+  "url": "https://www.imdb.com/tt3797512/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTQ2OGU1OTgtYmVhYi00MGIxLTg4MzQtYWFlZjIxYTViOTc4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+  "description": "Lifelong friends Barb and Star embark on the adventure of a lifetime when they decide to leave their small Midwestern town for the first time - ever.",
+  "review": {
+    "author": "Wikkid_Gamez",
+    "dateCreated": "2021-06-06",
+    "inLanguage": "English",
+    "heading": "One of the most rediculous movies I have seen lately...",
+    "reviewBody": "... and I absolutely LOVED it! I couldn&apos;t stop laughing! It was just what is needed with everything going on. Its fun, colorful, cheery and completely rediculous (in a good way). One of those movies you can watch again and again, good background while going things around the house. The music numbers are really well done and funny, the acting was great. It&apos;s like a toss up of those cheesy movies like Romy and Michelle&apos;s High School Reunion crossed with the even more rediculous ones like Airplane with a touch of Austin Powers type bad guys and a little bit of musical thrown in. Definitely worth a watch if you enjoy stuff like that.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 19689,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "datePublished": "2021-02-12",
+  "keywords": "female friendship,location in title,midwestern accent,florida,fantasy sequence",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Kristen Wiig",
+      "url": "https://www.imdb.com/name/nm1325419/"
+    },
+    {
+      "name": "Annie Mumolo",
+      "url": "https://www.imdb.com/name/nm1754239/"
+    },
+    {
+      "name": "Jamie Dornan",
+      "url": "https://www.imdb.com/name/nm1946193/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Josh Greenbaum",
+      "url": "https://www.imdb.com/name/nm2307949/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Annie Mumolo",
+      "url": "https://www.imdb.com/name/nm1754239/"
+    },
+    {
+      "name": "Kristen Wiig",
+      "url": "https://www.imdb.com/name/nm1325419/"
+    }
+  ]
+}

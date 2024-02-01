@@ -1,0 +1,54 @@
+{
+  "type": "Movie",
+  "name": "Taylor Swift: The Eras Tour",
+  "url": "https://www.imdb.com/tt28814949/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmE1ZTc1YjQtNDIzMi00ZTBjLThmYmUtMTUyYTc1NjRlOWI4XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_.jpg",
+  "description": "Experience the Eras Tour concert, performed by the one and only Taylor Swift.",
+  "review": {
+    "author": "ryanpersaud-59415",
+    "dateCreated": "2023-10-17",
+    "inLanguage": "English",
+    "heading": "Kind of hard to review this one, but yeah, I see the hype",
+    "reviewBody": "My wife is an ENORMOUS Taylor Swift fan and we&apos;ve been trying to get tickets to see this concert for months. Suffice to say, when tens of millions of people across Canada are also trying, it&apos;s not very easy. Taking her to see this was a treat, even if our theatre was kind of quiet and lame. We genuinely expected more of a concert vibe, but unfortunately, even the amazing staff at our cinema, who tried their hardest to hype people up, couldn&apos;t do it.\n\nTo say that this concert really fits the cinematic experience would be an understatement. You don&apos;t have to love TS (although, 17 years of making music, there has to be a couple songs you know...admit it), but this concert does a phenomenal job of showcasing what makes her special. The sets, the outfits, the distinct visual and sonic style of the Eras...let&apos;s just say, the whole room shimmers.\n\nTaylor is an incredible performer and has amazing stage presence. She simultaneously feels like a a girl sitting on the bleachers and trouble as soon as she walks in. Her outfits gleam in the Los Angeles night and she commands the room in a way few artists do. For the film specifically, the cinematography is honestly fantastic and not only makes you feel as it you&apos;re on stage with her, but allows you take in the enormity of the moment too\n\nDon&apos;t what else to say, if you&apos;re a Swifty, you belong in a theatre watching this thing. If you&apos;re not, you&apos;ll be enchanted to meet her.\n\n(And yes, this concert did what all great concerts do. Make you appreciate the artist even more. I&apos;m a soft Swifty now.)",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 15954,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.2
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Documentary",
+    "Music"
+  ],
+  "datePublished": "2023-10-13",
+  "keywords": "concert music,inglewood california,california,united states of america,music documentary",
+  "duration": "PT2H49M",
+  "actor": [
+    {
+      "name": "Taylor Swift",
+      "url": "https://www.imdb.com/name/nm2357847/"
+    },
+    {
+      "name": "Mike Meadows",
+      "url": "https://www.imdb.com/name/nm11593352/"
+    },
+    {
+      "name": "Max Bernstein",
+      "url": "https://www.imdb.com/name/nm0077103/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sam Wrench",
+      "url": "https://www.imdb.com/name/nm3532802/"
+    }
+  ],
+  "creator": []
+}

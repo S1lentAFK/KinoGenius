@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Chemical Hearts",
+  "url": "https://www.imdb.com/tt5843876/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGFkMDJkOWMtNGI4MS00ZTQ0LWJkMjktYTM2YTQ1MTA3NTRiXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg",
+  "description": "A teenage boy falls in love with a troubled girl who transfers to his high school.",
+  "review": {
+    "author": "anabiaq",
+    "dateCreated": "2020-08-21",
+    "inLanguage": "English",
+    "heading": "Young Love.",
+    "reviewBody": "It jumps ahead from the typical teenager romance and explores the reality of young love and heartbreak. I could relate so much on how they portrayed the confusion about being in love and about being someone that you aren&apos;t ready to be yet. If you are someone that easily cries watching movies, you should totally bring a tissue with you. Lili Reinhart&apos;s acting is flawless and the way she embraced the role of grace town is totally out of this world.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 15922,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2020-08-21",
+  "keywords": "school,high school,knee injury,car accident,school newspaper",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Lili Reinhart",
+      "url": "https://www.imdb.com/name/nm3929887/"
+    },
+    {
+      "name": "Austin Abrams",
+      "url": "https://www.imdb.com/name/nm3641002/"
+    },
+    {
+      "name": "Sarah Jones",
+      "url": "https://www.imdb.com/name/nm1967673/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Richard Tanne",
+      "url": "https://www.imdb.com/name/nm1973681/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Richard Tanne",
+      "url": "https://www.imdb.com/name/nm1973681/"
+    },
+    {
+      "name": "Krystal Sutherland",
+      "url": "https://www.imdb.com/name/nm8250940/"
+    }
+  ]
+}

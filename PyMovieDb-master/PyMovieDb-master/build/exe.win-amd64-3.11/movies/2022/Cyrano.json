@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Cyrano",
+  "url": "https://www.imdb.com/tt12889404/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDhhYjU4ZDMtYjI5OC00N2RkLTg5MGItZTNkM2Q5MzE5NjQxXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_.jpg",
+  "description": "Too self-conscious to woo Roxanne himself, wordsmith Cyrano de Bergerac helps young Christian nab her heart through love letters.",
+  "review": {
+    "author": "bowieec",
+    "dateCreated": "2022-01-13",
+    "inLanguage": "English",
+    "heading": "I really wanted to like this",
+    "reviewBody": "I&apos;m a big fan of both Peter Dinklage and Ben Mendelssohn. Peter Dinklage simply cannot sing. Unfortunately, that fact plays prominently into a musical when the person who cannot sing is the lead. It took away my attention from pretty much anything else on the screen whenever he would sing. Haley Bennett as Roxanne was charming in the role and has a beautiful singing voice. Also, strangely, at a meandering 2 hours, the ending still felt rushed. I watched it on an industry streaming screener. Perhaps on the big screen it plays better.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 14470,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Musical",
+    "Romance"
+  ],
+  "datePublished": "2022-02-25",
+  "keywords": "based on stage musical,poetry,little person,period drama,based on play",
+  "duration": "PT2H3M",
+  "actor": [
+    {
+      "name": "Peter Dinklage",
+      "url": "https://www.imdb.com/name/nm0227759/"
+    },
+    {
+      "name": "Haley Bennett",
+      "url": "https://www.imdb.com/name/nm2247245/"
+    },
+    {
+      "name": "Kelvin Harrison Jr.",
+      "url": "https://www.imdb.com/name/nm5123156/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joe Wright",
+      "url": "https://www.imdb.com/name/nm0942504/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Erica Schmidt",
+      "url": "https://www.imdb.com/name/nm1765584/"
+    },
+    {
+      "name": "Edmond Rostand",
+      "url": "https://www.imdb.com/name/nm0744562/"
+    }
+  ]
+}

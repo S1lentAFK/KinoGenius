@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Friend of the World",
+  "url": "https://www.imdb.com/tt6074542/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmUzYzUzMTktYjkwZi00ZjVmLWI4NzQtYjMxMWU4NGFmZjg2XkEyXkFqcGdeQXVyNDczNzQ0ODQ@._V1_.jpg",
+  "description": "After a catastrophic war, an eccentric general guides a filmmaker through a ravaged bunker.",
+  "review": {
+    "author": "jburquist-639-757678",
+    "dateCreated": "2022-12-14",
+    "inLanguage": "English",
+    "heading": "Does not go the way you think",
+    "reviewBody": "Friend of the World was a surprisingly good low budget indie film. I watched the film on TUBI which is becoming a pretty damn good streaming service. It&apos;s sort of a horror film with some meta and darkly comedic elements mixed in.\n\nProduction design is fairly basic, but you can tell they constructed a set or two which is pretty cool. Special FX are pretty good as well. Nick Young brings the fun and comedy while Alexandra Slade.\n\nI would recommend this film for horror fans or just people who are interested in a project that lines multiple genres. Friend of the World&apos;s indie roots are punk rock. You will not see a film like this coming from Hollywood.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 79,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Comedy",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "datePublished": "2021-06-14",
+  "keywords": "blood,post apocalypse,end of the world,two hander,body horror",
+  "duration": "PT50M",
+  "actor": [
+    {
+      "name": "Nick Young",
+      "url": "https://www.imdb.com/name/nm0949923/"
+    },
+    {
+      "name": "Alexandra Slade",
+      "url": "https://www.imdb.com/name/nm8997361/"
+    },
+    {
+      "name": "Michael C. Burgess",
+      "url": "https://www.imdb.com/name/nm4812322/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brian Patrick Butler",
+      "url": "https://www.imdb.com/name/nm6021232/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brian Patrick Butler",
+      "url": "https://www.imdb.com/name/nm6021232/"
+    }
+  ]
+}

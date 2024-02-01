@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "The Hating Game",
+  "url": "https://www.imdb.com/tt8718158/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDI2MDQzZDAtZmVlZS00MWU1LThkNzUtNjZmZmY3ZDljYjk2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+  "description": "Resolving to achieve professional success without compromising her ethics, Lucy embarks on a ruthless game of one-upmanship against cold and efficient nemesis Joshua, a rivalry that is complicated by her growing attraction to him.",
+  "review": {
+    "author": "cgvsluis",
+    "dateCreated": "2022-01-01",
+    "inLanguage": "English",
+    "heading": "Shortcake, you&apos;re going to love this hate to love story!",
+    "reviewBody": "This is a film adaptation of the romantic comedy book by the same title The Hating Game. The general plot is one about two executive assistants (Lucy and Josh) for the two co-directors of the merged organization of two fundamentally different publishing companies who now work together sharing the same small office...and who hate each other.\n\nThis film takes place right before Thanksgiving and going into the holiday season, allowing for Christmas decor without being in your face about the holidays. It also starts with Lucy, played by the actress Lucy Hale, giving us a little run down on why she hates Josh and some of the games they play with each other. A new promotional position is announced that both Lucy and Josh want...and it is game on.\n\nGreat banter...wonderful hate to love romance that has some pride and prejudice vibes to it. Wonderful chemistry between our two main characters.\n\nThis film made me realize how much I love the hate to love trope!\n\nSweet, funny, biting dialogue...I highly recommend and will watch it again!\n\nThe only scene I did wholeheartedly enjoy was the paintball scene, but that was because it was a little hard to keep track of who was who and what was happening...but it was brief and lead to some very sweet scenes between Lucy, Josh and Patrick (Josh&apos;s brother).\n\nI loved Josh&apos;s nickname of shortcake for Lucy...and the green paint...just melt my heart. Loved it!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 24613,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2022-02-11",
+  "keywords": "rivalry,love hate relationship,job promotion,elevator ride,pantyhose legs",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Lucy Hale",
+      "url": "https://www.imdb.com/name/nm1423955/"
+    },
+    {
+      "name": "Austin Stowell",
+      "url": "https://www.imdb.com/name/nm3271473/"
+    },
+    {
+      "name": "Damon Daunno",
+      "url": "https://www.imdb.com/name/nm3093026/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Hutchings",
+      "url": "https://www.imdb.com/name/nm4050491/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Christina Mengert",
+      "url": "https://www.imdb.com/name/nm3898253/"
+    },
+    {
+      "name": "Sally Thorne",
+      "url": "https://www.imdb.com/name/nm9982294/"
+    }
+  ]
+}

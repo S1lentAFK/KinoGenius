@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Rampage",
+  "url": "https://www.imdb.com/tt2231461/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDA1NjA3ODU3OV5BMl5BanBnXkFtZTgwOTg3MTIwNTM@._V1_.jpg",
+  "description": "When three different animals become infected with a dangerous pathogen, a primatologist and a geneticist team up to stop them from destroying Chicago.",
+  "review": {
+    "author": "Prismark10",
+    "dateCreated": "2018-06-18",
+    "inLanguage": "English",
+    "heading": "The wolf can fly",
+    "reviewBody": "Rampage is an unpretentious fun popcorn film. It is worth it just to see a three way fight between a DNA altered Gorilla, Wolf (who can fly) and an Alligator.\n\nDwayne Johnson is primatologist Davis Okoye. He is also ex special forces and he once saved an albino silverback gorilla George when it was a baby out in the wild as its mother was slaughtered by game hunters.\n\nWhen some highly sensitive and dangerous samples that are experimented up in space land on earth, the infected animals grow in size and mutate.\n\nGeorge mutates, he grows in size and strength and heads for Chicago with the others because of a single transmitted by the corporate villains who are conducting the illegal experiments. Davis helped by a genetic engineer Dr Kate Caldwell (Naomie Harris) need to track down an antidote to control George and stop the rampage which is destroying Chicago.\n\nThe film has shades of King Kong and Godzilla. The villains who are siblings are rather cartoonish but Malin Akerman seems to be having fun. \n\nIt is not a deep film, the script is not great but it is a mindless, cheesy and enjoyable film with plenty of mayhem.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 182186,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2018-04-11",
+  "keywords": "based on video game,giant gorilla,giant wolf,destruction,genetic experiment",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Dwayne Johnson",
+      "url": "https://www.imdb.com/name/nm0425005/"
+    },
+    {
+      "name": "Naomie Harris",
+      "url": "https://www.imdb.com/name/nm0365140/"
+    },
+    {
+      "name": "Malin Akerman",
+      "url": "https://www.imdb.com/name/nm0015196/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brad Peyton",
+      "url": "https://www.imdb.com/name/nm0679031/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ryan Engle",
+      "url": "https://www.imdb.com/name/nm0257513/"
+    },
+    {
+      "name": "Carlton Cuse",
+      "url": "https://www.imdb.com/name/nm0193681/"
+    },
+    {
+      "name": "Ryan J. Condal",
+      "url": "https://www.imdb.com/name/nm2952284/"
+    }
+  ]
+}

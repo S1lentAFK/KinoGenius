@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Monday",
+  "url": "https://www.imdb.com/tt8884906/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTg4NWQ4ODEtMmQ3Zi00N2JlLTgzNDEtMDMzYjNkODUzODE5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "A spark on a Friday can lead to a sizzling weekend fling (Sebastian Stan and Denise Gough as Mickey and Chloe), but what happens when you get to the inevitable Monday?",
+  "review": {
+    "author": "audreytherris",
+    "dateCreated": "2021-04-19",
+    "inLanguage": "English",
+    "heading": "Nice movie but need more backstory",
+    "reviewBody": "Shoutout to Sebastian Stan and Denise Gough for their amazing potrayal of such complex character. It is a nice movie but it is hard to understand. You can easily understand Mickey characters by his behaviour and stuff but it is opposite with Chloe. We know so little about her, her struggle, why was she broke up with Christos? Why was she attended the first party in the first place if she didnt know Argyris? I have a lot of question and it is hard to understand just by seeing her with Mickey. I know the concept of this movie is great and wild weekend and then Monday reality hit you again. But throughout the movie the Fridays are far more highlighted than the Mondays and the Mondays should have potrayed more explosive and emotionaly draining.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 5526,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "R",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2021-04-16",
+  "keywords": "male frontal nudity,male nudity,male pubic hair,female frontal nudity,female full frontal nudity",
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Denise Gough",
+      "url": "https://www.imdb.com/name/nm1740112/"
+    },
+    {
+      "name": "Sebastian Stan",
+      "url": "https://www.imdb.com/name/nm1659221/"
+    },
+    {
+      "name": "Yorgos Pirpassopoulos",
+      "url": "https://www.imdb.com/name/nm0701566/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Argyris Papadimitropoulos",
+      "url": "https://www.imdb.com/name/nm3030296/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Rob Hayes",
+      "url": "https://www.imdb.com/name/nm3304186/"
+    },
+    {
+      "name": "Argyris Papadimitropoulos",
+      "url": "https://www.imdb.com/name/nm3030296/"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "The Children Act",
+  "url": "https://www.imdb.com/tt6040662/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODUwOTk1MzI3NF5BMl5BanBnXkFtZTgwNTI4NDE3NTM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "ravitchn",
+    "dateCreated": "2019-03-11",
+    "inLanguage": "English",
+    "heading": "Real life vs. the law",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 14555,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2018-08-24",
+  "keywords": "teenager,jehovah&apos;s witness,female judge,judge,courtroom",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Emma Thompson",
+      "url": "https://www.imdb.com/name/nm0000668/"
+    },
+    {
+      "name": "Stanley Tucci",
+      "url": "https://www.imdb.com/name/nm0001804/"
+    },
+    {
+      "name": "Reena Lalbihari",
+      "url": "https://www.imdb.com/name/nm2775342/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Richard Eyre",
+      "url": "https://www.imdb.com/name/nm0264236/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ian McEwan",
+      "url": "https://www.imdb.com/name/nm0568605/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Mighty Oak",
+  "url": "https://www.imdb.com/tt8385384/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDZmM2NlODMtNzU4ZS00ZDFmLTgwNDAtMjVjYzVkYjdmNTVkXkEyXkFqcGdeQXVyMTAxNTIwMzIz._V1_.jpg",
+  "description": "In the ensuing years from losing her vocalist brother in a car crash, a young guitar prodigy comes into play - which is left to speculation that he could be a reincarnation of her late brother.",
+  "review": {
+    "author": "Exsosus2",
+    "dateCreated": "2020-12-30",
+    "inLanguage": "English",
+    "heading": "A perfect 10",
+    "reviewBody": "Rarely does a movie recieve a 10 by me, but I watched this with my girlfriend, and son and we were blown away. Its rare a film has all three rules of a 10/10 combined well within it: Love story, Plot, and lastly but most important, quality ending.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 673,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Musical"
+  ],
+  "datePublished": "2020-07-20",
+  "keywords": "death,fat legs,guitar,backwards baseball cap,pop music",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Janel Parrish",
+      "url": "https://www.imdb.com/name/nm0663546/"
+    },
+    {
+      "name": "Tommy Ragen",
+      "url": "https://www.imdb.com/name/nm9764169/"
+    },
+    {
+      "name": "Carlos PenaVega",
+      "url": "https://www.imdb.com/name/nm1821327/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sean McNamara",
+      "url": "https://www.imdb.com/name/nm0573732/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Matt Allen",
+      "url": "https://www.imdb.com/name/nm0020820/"
+    },
+    {
+      "name": "Jailyn Osborne",
+      "url": "https://www.imdb.com/name/nm6139277/"
+    },
+    {
+      "name": "Frank Ragen",
+      "url": "https://www.imdb.com/name/nm8786342/"
+    }
+  ]
+}

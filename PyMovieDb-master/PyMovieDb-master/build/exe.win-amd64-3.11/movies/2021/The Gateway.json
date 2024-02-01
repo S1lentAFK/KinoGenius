@@ -1,0 +1,66 @@
+{
+  "type": "Movie",
+  "name": "The Gateway",
+  "url": "https://www.imdb.com/tt10207710/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGFhMTk0MDktMTg0ZS00MTRmLTlmNDEtMTU1NDQ3YWIyYTZkXkEyXkFqcGdeQXVyNjQ2MjQ4MzQ@._V1_.jpg",
+  "description": "A social worker assigned to the care of the daughter of a single mother intervenes when the dad returns from prison and lures them into a life of crime.",
+  "review": {
+    "author": "cbenmedia",
+    "dateCreated": "2022-08-23",
+    "inLanguage": "English",
+    "heading": "Passable entertainment for the truly desperate",
+    "reviewBody": "Was it a good movie? No.\n\nWas it a bad movie? Yes.\n\nDid I run out of everything else to watch? Yup.\n\nDid I already see it once and totally forgot? Seems likely.\n\nI just watched it for the name brand actors hoping it wasn&apos;t terrible. I would normally can a movie like this right after the first fishbowl shot but I dragged my ass through it and was entertained by all the trashyness.\n\nNot going to win any friends with this butt-salad.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 1198,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Thriller"
+  ],
+  "datePublished": "2021-09-03",
+  "keywords": "prison,social worker,single mother,punk,father son relationship",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Shea Whigham",
+      "url": "https://www.imdb.com/name/nm0924154/"
+    },
+    {
+      "name": "Olivia Munn",
+      "url": "https://www.imdb.com/name/nm1601397/"
+    },
+    {
+      "name": "Zach Avery",
+      "url": "https://www.imdb.com/name/nm4878976/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michele Civetta",
+      "url": "https://www.imdb.com/name/nm1869948/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Alex Felix Bendaña",
+      "url": "https://www.imdb.com/name/nm6177862/"
+    },
+    {
+      "name": "Andrew Levitas",
+      "url": "https://www.imdb.com/name/nm0506165/"
+    },
+    {
+      "name": "Michele Civetta",
+      "url": "https://www.imdb.com/name/nm1869948/"
+    }
+  ]
+}

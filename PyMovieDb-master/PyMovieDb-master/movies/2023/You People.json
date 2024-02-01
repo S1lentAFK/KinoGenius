@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "You People",
+  "url": "https://www.imdb.com/tt14826022/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGM2NTQ2MGUtYmVjZS00YTNjLTkxMjUtOWQ2ZjRiMDQyNmVlXkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_.jpg",
+  "description": "Follows a new couple and their families, who find themselves examining modern love and family dynamics amidst clashing cultures, societal expectations and generational differences.",
+  "review": {
+    "author": "cardsrock",
+    "dateCreated": "2023-02-09",
+    "inLanguage": "English",
+    "heading": "Astonishingly annoying",
+    "reviewBody": "It&apos;s been some time that I&apos;ve been so bewildered and frustrated watching a film.\n\nThis very talented cast is absolutely wasted on a terrible script filled with inane and outdated jokes. It&apos;s 2023, I think we&apos;ve moved beyond the ridiculous viewpoints and stereotypes displayed in this film. The characters behave in such ridiculous ways. Eddie Murphy suddenly just decides to stop being a racist piece of crap and Julia Louis-Dreyfus has an awakening about how to speak to black people normally. It&apos;s all just so freaking annoying to watch.\n\nHill and London also have net zero chemistry between them, which funny enough, really tends to tank a romantic comedy.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 61427,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2023-01-27",
+  "keywords": "racial tension,black american,couple,love,life",
+  "duration": "PT1H57M",
+  "actor": [
+    {
+      "name": "Jonah Hill",
+      "url": "https://www.imdb.com/name/nm1706767/"
+    },
+    {
+      "name": "Lauren London",
+      "url": "https://www.imdb.com/name/nm1988575/"
+    },
+    {
+      "name": "Eddie Murphy",
+      "url": "https://www.imdb.com/name/nm0000552/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kenya Barris",
+      "url": "https://www.imdb.com/name/nm1244069/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jonah Hill",
+      "url": "https://www.imdb.com/name/nm1706767/"
+    },
+    {
+      "name": "Kenya Barris",
+      "url": "https://www.imdb.com/name/nm1244069/"
+    }
+  ]
+}

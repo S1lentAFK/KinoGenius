@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Magician&apos;s Elephant",
+  "url": "https://www.imdb.com/tt2560092/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGNkNWY3NmMtMDQ3NS00NWUzLWExYTMtMzFmZDg1ZWNiMTg0XkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "IonicBreezeMachine",
+    "dateCreated": "2023-03-18",
+    "inLanguage": "English",
+    "heading": "Filled with imagination, wonder, and charm, The Magician&apos;s Elephant is a charming animated fairy tale",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 5466,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2023-03-17",
+  "keywords": "magician,elephant,cloud,journey,magic",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Noah Jupe",
+      "url": "https://www.imdb.com/name/nm7415871/"
+    },
+    {
+      "name": "Mandy Patinkin",
+      "url": "https://www.imdb.com/name/nm0001597/"
+    },
+    {
+      "name": "Brian Tyree Henry",
+      "url": "https://www.imdb.com/name/nm3109964/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Wendy Rogers",
+      "url": "https://www.imdb.com/name/nm0737258/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Martin Hynes",
+      "url": "https://www.imdb.com/name/nm0405271/"
+    },
+    {
+      "name": "Kate DiCamillo",
+      "url": "https://www.imdb.com/name/nm1164216/"
+    }
+  ]
+}

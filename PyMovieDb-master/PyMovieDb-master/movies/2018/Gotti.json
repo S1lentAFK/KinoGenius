@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Gotti",
+  "url": "https://www.imdb.com/tt1801552/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAyODI1NDMxOV5BMl5BanBnXkFtZTgwNDg0Njg0NTM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "ma-cortes",
+    "dateCreated": "2021-09-26",
+    "inLanguage": "English",
+    "heading": "John Gotti&apos;s biography who became the head of the Gambino family and the most well-known mafia boss in America.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 16837,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2018-06-14",
+  "keywords": "based on true story,terminal illness,funeral,death of protagonist,murder",
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "John Travolta",
+      "url": "https://www.imdb.com/name/nm0000237/"
+    },
+    {
+      "name": "Spencer Rocco Lofranco",
+      "url": "https://www.imdb.com/name/nm4901642/"
+    },
+    {
+      "name": "Kelly Preston",
+      "url": "https://www.imdb.com/name/nm0000593/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kevin Connolly",
+      "url": "https://www.imdb.com/name/nm0175305/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Leo Rossi",
+      "url": "https://www.imdb.com/name/nm0744235/"
+    },
+    {
+      "name": "Lem Dobbs",
+      "url": "https://www.imdb.com/name/nm0229644/"
+    }
+  ]
+}

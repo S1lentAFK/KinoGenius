@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Do Revenge",
+  "url": "https://www.imdb.com/tt13327038/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTVjZDE3NWItN2Q4NS00YjYyLTkwYTUtODU3NDUzNTU2NDYxXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_.jpg",
+  "description": "Drea and Eleanor agree to go after one another&apos;s bullies.",
+  "review": {
+    "author": "AfricanBro",
+    "dateCreated": "2022-09-29",
+    "inLanguage": "English",
+    "heading": "Pretty good watch if you aren&apos;t expecting it to be",
+    "reviewBody": "So I wasn&apos;t expecting to watch this but apparently it was a really good Gen Z movie so I was curious. There were scenes that weren&apos;t meant to be funny that I laughed at a lot. Also, not a groundbreaking concept discovery but different generations really aren&apos;t so different, just use different language and gadgets because about an hour in it stops being a Gen z movie and just a gaudy high school movie. At some point thought the movie was over but there was still a chunk of time left and it only got better with the twists, the last one not so much but it needed a happy ended. This may not start out as a movie for everyone but it is way better than I expected. It&apos;s a pretty good watch especially if you&apos;re expecting it not to be, reminds me of late 90&apos;s early 2000&apos;s teen movies.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 48273,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Romance",
+    "Thriller"
+  ],
+  "datePublished": "2022-09-16",
+  "keywords": "makeover,leaked sex tape,reference to greta thunberg,17 year old girl,revenge plot",
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Camila Mendes",
+      "url": "https://www.imdb.com/name/nm6161516/"
+    },
+    {
+      "name": "Maya Hawke",
+      "url": "https://www.imdb.com/name/nm1638321/"
+    },
+    {
+      "name": "Austin Abrams",
+      "url": "https://www.imdb.com/name/nm3641002/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jennifer Kaytin Robinson",
+      "url": "https://www.imdb.com/name/nm3066492/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Celeste Ballard",
+      "url": "https://www.imdb.com/name/nm4916283/"
+    },
+    {
+      "name": "Jennifer Kaytin Robinson",
+      "url": "https://www.imdb.com/name/nm3066492/"
+    }
+  ]
+}

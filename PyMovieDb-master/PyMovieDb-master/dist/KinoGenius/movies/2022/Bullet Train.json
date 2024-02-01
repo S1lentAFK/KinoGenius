@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Bullet Train",
+  "url": "https://www.imdb.com/tt12593682/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDU2ZmM2OTYtNzIxYy00NjM5LTliNGQtN2JmOWQzYTBmZWUzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "Five assassins aboard a swiftly-moving bullet train find out that their missions have something in common.",
+  "review": {
+    "author": "FeastMode",
+    "dateCreated": "2022-08-03",
+    "inLanguage": "English",
+    "heading": "Fun, funny and wild",
+    "reviewBody": "This is a highly entertaining action-comedy that oozes style. It&apos;s extremely fun and a bit on the outrageous side, not meant to be taken too seriously. It&apos;s filled with funny and memorable moments. The action is awesome, well-shot and clear, which is no surprise coming from the guy who directed John Wick, Atomic Blonde and Deadpool 2.\n\nThere are a ton of characters and I like them all. The cast does such a great job, especially Brian Tyree Henry and Aaron Taylor-Johnson. I remember first seeing Brian Tyree Henry in Atlanta and really enjoying that role. Since then, he has taken on vastly different roles and killed all of them. And I already thought Aaron Taylor-Johnson is a great actor, but the way he completely transforms into his character is remarkable. To the point where you don&apos;t see Aaron Taylor-Johnson. Literally. I didn&apos;t realize it was him until the credits rolled.\n\nIf I had to come up with negatives, I would say it&apos;s a bit hectic at times, but not enough to take me out of it. And the story borders on being convoluted, but I was able to follow it all so I&apos;ll call it intricate instead.\n\nIn the end I had a great time with this movie and would definitely watch it again, although I&apos;ll be turning on subtitles since some dialogue was hard to understand in a Snatch kind of way.\n\nEDIT: On second viewing, my negatives disappeared. And a couple things that stood out even more: The music is beastly and Brad Pitt&apos;s facial expressions in the reaction shots are priceless. (2 viewings, early screening UltraScreen 8/2/2022, UltraScreen 8/17/2022)",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 403508,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Thriller"
+  ],
+  "datePublished": "2022-08-03",
+  "keywords": "fight on a train,bullet train,train,assassin,japan",
+  "duration": "PT2H7M",
+  "actor": [
+    {
+      "name": "Brad Pitt",
+      "url": "https://www.imdb.com/name/nm0000093/"
+    },
+    {
+      "name": "Joey King",
+      "url": "https://www.imdb.com/name/nm1428821/"
+    },
+    {
+      "name": "Aaron Taylor-Johnson",
+      "url": "https://www.imdb.com/name/nm1093951/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Leitch",
+      "url": "https://www.imdb.com/name/nm0500610/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Zak Olkewicz",
+      "url": "https://www.imdb.com/name/nm5599654/"
+    },
+    {
+      "name": "Kôtarô Isaka",
+      "url": "https://www.imdb.com/name/nm2157655/"
+    }
+  ]
+}

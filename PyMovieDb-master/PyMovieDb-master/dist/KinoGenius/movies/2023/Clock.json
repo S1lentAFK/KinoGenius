@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Clock",
+  "url": "https://www.imdb.com/tt17219484/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzk5NTQwYTQtODkyMi00N2I2LTkyZTktZjFiNTU1YWEwNjY3XkEyXkFqcGdeQXVyMjg0NDI1MjU@._V1_.jpg",
+  "description": "A woman enrolls in a clinical trial to try and fix her seemingly broken biological clock after friends, family, and society pressures her to have children.",
+  "review": {
+    "author": "isaacmizrahii",
+    "dateCreated": "2023-05-01",
+    "inLanguage": "English",
+    "heading": "actually...you SHOULDn&apos;t see it,",
+    "reviewBody": "Despite what some of the reviewers say...yes. There are some very insightful things that are addressed in the story. But it doesn&apos;t pay off in the end, in my opinion. It&apos;s a bit confused, i think...part of it a commentary on child bearing/rearing and part of it a horror story. But i don&apos;t feel the two blended well...maybe in two or three rewrites, but it felt like it was still a work in progress and found itself needing an ending which wasn&apos;t at all satisfying. Just a &apos;let&apos;s do this and get it over with&apos; type last act...the first two acts were enjoyable, though. And endings are difficult. But important.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 5506,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5
+  },
+  "contentRating": "18",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2023-04-28",
+  "keywords": "male full frontal nudity,title directed by female,female rear nudity,psychological thriller,psychological horror",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Dianna Agron",
+      "url": "https://www.imdb.com/name/nm1872698/"
+    },
+    {
+      "name": "Melora Hardin",
+      "url": "https://www.imdb.com/name/nm0002124/"
+    },
+    {
+      "name": "Jay Ali",
+      "url": "https://www.imdb.com/name/nm3045245/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Alexis Jacknow",
+      "url": "https://www.imdb.com/name/nm3237056/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Alexis Jacknow",
+      "url": "https://www.imdb.com/name/nm3237056/"
+    }
+  ]
+}

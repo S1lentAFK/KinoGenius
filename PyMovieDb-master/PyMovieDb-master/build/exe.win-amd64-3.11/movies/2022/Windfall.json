@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Windfall",
+  "url": "https://www.imdb.com/tt15033192/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjlhNzM4NjItMWRkNi00MWRmLWIzZmEtMmVlNGMwNzU3MmUzXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "arungeorge13",
+    "dateCreated": "2022-03-18",
+    "inLanguage": "English",
+    "heading": "Not what I expected, but I still liked it! [+60%]",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 26250,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2022-03-18",
+  "keywords": "vacation,criminal,thief,young,money",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Jason Segel",
+      "url": "https://www.imdb.com/name/nm0781981/"
+    },
+    {
+      "name": "Lily Collins",
+      "url": "https://www.imdb.com/name/nm2934314/"
+    },
+    {
+      "name": "Jesse Plemons",
+      "url": "https://www.imdb.com/name/nm0687146/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Charlie McDowell",
+      "url": "https://www.imdb.com/name/nm1660595/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Charlie McDowell",
+      "url": "https://www.imdb.com/name/nm1660595/"
+    },
+    {
+      "name": "Jason Segel",
+      "url": "https://www.imdb.com/name/nm0781981/"
+    },
+    {
+      "name": "Justin Lader",
+      "url": "https://www.imdb.com/name/nm1645301/"
+    }
+  ]
+}

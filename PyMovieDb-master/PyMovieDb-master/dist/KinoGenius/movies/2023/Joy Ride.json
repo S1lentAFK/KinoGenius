@@ -1,0 +1,66 @@
+{
+  "type": "Movie",
+  "name": "Joy Ride",
+  "url": "https://www.imdb.com/tt15268244/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjc3OTJhMzQtMjA0OC00YWViLThmMGUtMjcwOTFiYzRlMTA2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+  "description": "Follows four Asian American friends as they bond and discover the truth of what it means to know and love who you are, while they travel through China in search of one of their birth mothers.",
+  "review": {
+    "author": "PennyReviews",
+    "dateCreated": "2023-08-03",
+    "inLanguage": "English",
+    "heading": "Good Enough",
+    "reviewBody": "Joy Ride is a comedy about four girls who take an unplanned trip.\n\nThe movie has a solid plot that doesn&apos;t rely on just the comedy to get things going. Rather, it offers a lot of bonding moments between the girls, some moving and emotional moments when it came to finding the main lead&apos;s biological mother, and a nice character development for the lead. The individual storylines were interesting and entertaining as well.\n\nAlso, the girls did a great job with their characters and their chemistry was undeniable.\n\nHowever, the comedy part was so so, often using the shocking factor to impress and some of the jokes were even over the top. But, overall, it was a fun ride.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 19600,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2023-08-04",
+  "keywords": "female protagonist,female frontal nudity,asian american,vagina,female full frontal nudity",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Ashley Park",
+      "url": "https://www.imdb.com/name/nm3594940/"
+    },
+    {
+      "name": "Sherry Cola",
+      "url": "https://www.imdb.com/name/nm8781499/"
+    },
+    {
+      "name": "Stephanie Hsu",
+      "url": "https://www.imdb.com/name/nm3513533/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Adele Lim",
+      "url": "https://www.imdb.com/name/nm1004604/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Cherry Chevapravatdumrong",
+      "url": "https://www.imdb.com/name/nm2213739/"
+    },
+    {
+      "name": "Teresa Hsiao",
+      "url": "https://www.imdb.com/name/nm4183757/"
+    },
+    {
+      "name": "Adele Lim",
+      "url": "https://www.imdb.com/name/nm1004604/"
+    }
+  ]
+}

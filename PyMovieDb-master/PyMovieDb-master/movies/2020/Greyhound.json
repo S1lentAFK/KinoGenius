@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Greyhound",
+  "url": "https://www.imdb.com/tt6048922/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTFkZjYxNWItZmE2MC00MGE4LWIxYTgtZmIzOWM1YmI2YWEzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+  "description": "Several months after the U.S. entry into World War II, an inexperienced U.S. Navy commander must lead an Allied convoy being stalked by a German submarine wolf pack.",
+  "review": {
+    "author": "charleski2000",
+    "dateCreated": "2020-07-10",
+    "inLanguage": "English",
+    "heading": "A great procedural movie, and a great tribute",
+    "reviewBody": "This is a movie about the procedure of command. This is an innately more complex task than the more common episodic approach that buries the procedural reality under a mask of plot and character. But this film pulls it off, largely by not shying away from the task.\n\nGuess what? Naval warfare, especially the sort of highly asymmetric warfare shown here, doesn&apos;t really revolve around the captain demanding more speed while the engineer says she canna take it. If you&apos;re looking for a movie that&apos;s truly respectful of the labours and sacrifices made in the Battle of the Atlantic, then this is a fitting tribute.\n\nDon&apos;t expect a character movie, don&apos;t expect to spend time below decks exploring the usual stereotypes. This movie is seen through the eyes of the captain, and the captain alone. I can think of very few other films that dare to depict the loneliness of command quite so clearly. There&apos;s little time for thought, there&apos;s no time to process or even truly grasp the horrors that they encounter (something which forms one of the roots of PTSD). What there is is the fight.\n\nThe fight is relentless and deeply technical. We&apos;ve become used to fight scenes carrying a few bits of technical gibberish followed by some visceral and personalised action. There&apos;s no gibberish in this film, and the latter consists of the captain cutting his feet on broken glass. The movie, like the mind of the captain, is consumed with the intricate technical and personal demands required to hunt down a submarine at that time. That was clearly the aim here, and the movie has succeeded admirably at showing that particular aspect of this type of warfare. This is not a common way to stage a war movie, but it&apos;s worth doing well on a few occasions, and this movie achieves its goal.\n\nThe reviews show that many come looking for something more conventional, and end up missing the point, which is a shame.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 110362,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "12",
+  "genre": [
+    "Action",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2020-07-10",
+  "keywords": "war at sea,world war two,u boat,naval convoy,battle of the atlantic",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Tom Hanks",
+      "url": "https://www.imdb.com/name/nm0000158/"
+    },
+    {
+      "name": "Elisabeth Shue",
+      "url": "https://www.imdb.com/name/nm0000223/"
+    },
+    {
+      "name": "Stephen Graham",
+      "url": "https://www.imdb.com/name/nm0334318/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Aaron Schneider",
+      "url": "https://www.imdb.com/name/nm0773689/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tom Hanks",
+      "url": "https://www.imdb.com/name/nm0000158/"
+    },
+    {
+      "name": "C.S. Forester",
+      "url": "https://www.imdb.com/name/nm0286163/"
+    }
+  ]
+}

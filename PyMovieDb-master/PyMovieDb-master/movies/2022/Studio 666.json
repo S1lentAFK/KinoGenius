@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Studio 666",
+  "url": "https://www.imdb.com/tt15374070/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmU5NjEzNmUtOGFhMC00M2E0LWE1NjYtZGRhZDcxYTRjNTcyXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+  "description": "Legendary rock band Foo Fighters move into an Encino mansion steeped in grisly rock and roll history to record their much anticipated 10th album.",
+  "review": {
+    "author": "subxerogravity",
+    "dateCreated": "2022-02-25",
+    "inLanguage": "English",
+    "heading": "Worth it just to see Kerry King play Dave Grohl&apos;s drum tech.",
+    "reviewBody": "I knew I would like this movie from the start. Dave Grohl is a magical Rock geek and this movie extends that. I&apos;m a little surprise Dave Grohl can&apos;t act cause I seen him in other movies but I am not shocked that the rest of the Foo Fighters looked stiff on camera, but the thing about the movie is even if your love of the Foo Fighters is just in passing, you&apos;ll love this movie cause the Foo Fighters are in it.\n\nI mean watching Pat Smear just recite lines was so entertaining. No one else could have pulled that off, no other band could have pulled off being such god awful actors in a two hour film and hold my interest, but they were able to do that, and all with only little pieces of a new incremental they played over and over again as part of the plot.\n\nThe idea apparently was something the Foo Fighters just thought would be cool for the longest time and decided just to do it. As themselves, the Foo Fighters set out to make their 10th album different by recording in a mansion that is haunted. I personally have herd the myths of rock bands recording albums in haunted houses. The Red Hot Chilli Peppers are on record stating they felt a ghostly presence in the house they recorded Blood Sugar Sex Magik in (Drummer Chad Smith even moved out because of it).\n\nTypical of Dave Grohl, who seems to love Rock and Roll lore, decides to poke fun of the whole thing with his own horror parody.\n\nIt is a movie for all Rock fans and all Foo Fighter fans and well worth seeing.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 13372,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "18",
+  "genre": [
+    "Comedy",
+    "Horror",
+    "Music"
+  ],
+  "datePublished": "2022-02-25",
+  "keywords": "grindhouse film,mansion,digit in title,rock band,absurd violence",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Dave Grohl",
+      "url": "https://www.imdb.com/name/nm0342970/"
+    },
+    {
+      "name": "Nate Mendel",
+      "url": "https://www.imdb.com/name/nm0578829/"
+    },
+    {
+      "name": "Pat Smear",
+      "url": "https://www.imdb.com/name/nm0751942/"
+    }
+  ],
+  "director": [
+    {
+      "name": "BJ McDonnell",
+      "url": "https://www.imdb.com/name/nm1103496/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dave Grohl",
+      "url": "https://www.imdb.com/name/nm0342970/"
+    },
+    {
+      "name": "Jeff Buhler",
+      "url": "https://www.imdb.com/name/nm1161528/"
+    },
+    {
+      "name": "Rebecca Hughes",
+      "url": "https://www.imdb.com/name/nm0400873/"
+    }
+  ]
+}

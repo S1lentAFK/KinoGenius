@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Kung Fu Ghost",
+  "url": "https://www.imdb.com/tt11131400/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2QwZjBiYjgtZDk1Zi00M2Q0LTllMTItMGNkMjMxMGFiZjdkXkEyXkFqcGdeQXVyMTE4NTI5NTA@._V1_.jpg",
+  "description": "Daisy inherits an estate from her late grandfather, a martial arts master. When she shows up at the property, she discovers that the house is haunted by the spirit of her grandfather and the ghost of a mysterious man: William.",
+  "review": {
+    "author": "garytheg",
+    "dateCreated": "2022-08-03",
+    "inLanguage": "English",
+    "heading": "A Fun an Engaging Film!",
+    "reviewBody": "Kung Fu Ghost has it all -- comedy, suspense, romance, surprises, and great action sequences! Kids will especially love this movie! The director, Jennifer Linch, is also a superb actress, showing all emotions brilliantly and being very comedic as well! You will enjoy this movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 245,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.9
+  },
+  "contentRating": null,
+  "genre": [
+    "Action",
+    "Comedy"
+  ],
+  "datePublished": "2022-08-02",
+  "keywords": "not fat,leg,superstition,haunting,inheritance",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Jennifer N. Linch",
+      "url": "https://www.imdb.com/name/nm6393716/"
+    },
+    {
+      "name": "Whitney Wegman-Wood",
+      "url": "https://www.imdb.com/name/nm3777421/"
+    },
+    {
+      "name": "Mark Atkinson",
+      "url": "https://www.imdb.com/name/nm2419247/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jennifer N. Linch",
+      "url": "https://www.imdb.com/name/nm6393716/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ivan White",
+      "url": "https://www.imdb.com/name/nm9036021/"
+    }
+  ]
+}

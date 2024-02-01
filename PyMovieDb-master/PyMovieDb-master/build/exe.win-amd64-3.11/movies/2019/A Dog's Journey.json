@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "A Dog&apos;s Journey",
+  "url": "https://www.imdb.com/tt8385474/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjRhMWY0ODMtMmM3OC00ZGRmLWIyZjktZGQ0ZGE4MzcyZWE5XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+  "description": "A dog finds the meaning of his own existence through the lives of the humans he meets.",
+  "review": {
+    "author": "www-aktomer",
+    "dateCreated": "2019-06-03",
+    "inLanguage": "English",
+    "heading": "Great heartwarming movie",
+    "reviewBody": "Continuation of first part, &apos;A DOG&apos;s PURPOSE&apos;. It will definitely make you cry, and that too several times. A really great movie filled with love, positivism and cuteness. Great cast, awesome dogs, fantastic story. A must watch, not just for dog lovers, but for everyone!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 27939,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2019-05-03",
+  "keywords": "sequel,second part,animal in title,apostrophe in title,punctuation in title",
+  "duration": "PT1H49M",
+  "actor": [
+    {
+      "name": "Josh Gad",
+      "url": "https://www.imdb.com/name/nm1265802/"
+    },
+    {
+      "name": "Dennis Quaid",
+      "url": "https://www.imdb.com/name/nm0000598/"
+    },
+    {
+      "name": "Kathryn Prescott",
+      "url": "https://www.imdb.com/name/nm3077071/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gail Mancuso",
+      "url": "https://www.imdb.com/name/nm0541562/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "W. Bruce Cameron",
+      "url": "https://www.imdb.com/name/nm1240326/"
+    },
+    {
+      "name": "Cathryn Michon",
+      "url": "https://www.imdb.com/name/nm0585243/"
+    },
+    {
+      "name": "Maya Forbes",
+      "url": "https://www.imdb.com/name/nm0285379/"
+    }
+  ]
+}

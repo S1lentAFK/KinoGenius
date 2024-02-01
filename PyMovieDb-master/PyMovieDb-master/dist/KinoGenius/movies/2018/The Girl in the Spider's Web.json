@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Girl in the Spider&apos;s Web",
+  "url": "https://www.imdb.com/tt5177088/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWU4ZDI5OGEtOTdmZS00MmNiLWIzNjQtZGM1MGE0M2UzYTczXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "description": "Young computer hacker Lisbeth Salander and journalist Mikael Blomkvist find themselves caught in a web of spies, cybercriminals and corrupt government officials.",
+  "review": {
+    "author": "finraziel",
+    "dateCreated": "2018-10-27",
+    "inLanguage": "English",
+    "heading": "Still good, just not as good as...",
+    "reviewBody": "I feel the low rating currently (5.7) is probably because people are disappointed because it can&apos;t live up to its predecessor. And it&apos;s true, it can&apos;t... but in its own right it&apos;s still a good movie. Not excellent, but good. The story is okay, the action is solid, and Lisbeth is still badass. If you have the previous movie sitting in a shrine in your house somewhere and you worship it before you go to bed... skip this movie. If you just want an enjoyable if not terribly memorable action thriller, then go ahead and have fun.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 51066,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "datePublished": "2018-11-21",
+  "keywords": "lesbian,vacuum sack,asphyxiation,breathplay,suffocation",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Claire Foy",
+      "url": "https://www.imdb.com/name/nm2946516/"
+    },
+    {
+      "name": "Beau Gadsdon",
+      "url": "https://www.imdb.com/name/nm7917803/"
+    },
+    {
+      "name": "Sverrir Gudnason",
+      "url": "https://www.imdb.com/name/nm0345695/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Fede Alvarez",
+      "url": "https://www.imdb.com/name/nm1793079/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Lagercrantz",
+      "url": "https://www.imdb.com/name/nm5409198/"
+    },
+    {
+      "name": "Stieg Larsson",
+      "url": "https://www.imdb.com/name/nm2297183/"
+    },
+    {
+      "name": "Jay Basu",
+      "url": "https://www.imdb.com/name/nm1951398/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "Movie",
+  "name": "Plan B",
+  "url": "https://www.imdb.com/tt13172796/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWUyODFiNTQtZTIzNi00MTk4LThmOTQtMmMxYzM4ZTdkZmMyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+  "description": "Follows a straight-laced high school student and her slacker best friend who, after a regrettable first sexual encounter, have 24 hours to hunt down a Plan B pill in America&apos;s heartland.",
+  "review": {
+    "author": "Neophoenix-2",
+    "dateCreated": "2021-05-28",
+    "inLanguage": "English",
+    "heading": "More a kiss to the cheek rather than a slap to the rear",
+    "reviewBody": "Not as raunchy as Superbad, witty as Booksmart or silly as Harold and Kumar, but Plan B is a more understated more sweet than bitter movie about 2 high school friends, Sunny and Lupe, who go on an overnight road trip to find the Plan B pill in a neighboring town. The humor is drawn from the women trying to navigate through, the silliness of high school life, the everyday of South Dakota and being women of color - the movie isn&apos;t about race at all but it is an important fabric of their background and journey. Enjoy the movie like a walk to get some ice creme with your best friend. You probably won&apos;t post about it on social media but still a pleasant way to spend the afternoon.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 4599,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "TV-MA",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2021-05-28",
+  "keywords": "morning after pill,teenage girl,loss of virginity,indian american,friendship between girls",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Kuhoo Verma",
+      "url": "https://www.imdb.com/name/nm8872000/"
+    },
+    {
+      "name": "Victoria Moroles",
+      "url": "https://www.imdb.com/name/nm3483537/"
+    },
+    {
+      "name": "Michael Provost",
+      "url": "https://www.imdb.com/name/nm4413892/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Natalie Morales",
+      "url": "https://www.imdb.com/name/nm2295540/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joshua Levy",
+      "url": "https://www.imdb.com/name/nm5262241/"
+    },
+    {
+      "name": "Prathiksha Srinivasan",
+      "url": "https://www.imdb.com/name/nm7011791/"
+    }
+  ]
+}

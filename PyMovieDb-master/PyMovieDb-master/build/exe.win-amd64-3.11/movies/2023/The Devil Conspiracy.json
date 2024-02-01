@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "The Devil Conspiracy",
+  "url": "https://www.imdb.com/tt9663168/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDc4NDYwM2YtYjdiNy00ZDZhLWFjNmItOTQwODg3NDZhNTk0XkEyXkFqcGdeQXVyMzQyMzY1MDk@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "HotDoggyBoomBooM",
+    "dateCreated": "2023-03-10",
+    "inLanguage": "English",
+    "heading": "I give it a 5 for comedy.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 3045,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "datePublished": "2023-01-13",
+  "keywords": "supernatural horror,cult,wicked,shroud of turin,university of turin",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Alice Orr-Ewing",
+      "url": "https://www.imdb.com/name/nm2851789/"
+    },
+    {
+      "name": "Joe Doyle",
+      "url": "https://www.imdb.com/name/nm6965680/"
+    },
+    {
+      "name": "Eveline Hall",
+      "url": "https://www.imdb.com/name/nm3110915/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Nathan Frankowski",
+      "url": "https://www.imdb.com/name/nm2021984/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ed Alan",
+      "url": "https://www.imdb.com/name/nm13004039/"
+    }
+  ]
+}

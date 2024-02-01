@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Zola",
+  "url": "https://www.imdb.com/tt5439812/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTc4ZjYxNDgtYTljMC00MTVhLWJmNjMtNWJkNDBkMWY2MTRjXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+  "description": "A stripper named Zola embarks on a wild road trip to Florida.",
+  "review": {
+    "author": "Xstal",
+    "dateCreated": "2021-08-11",
+    "inLanguage": "English",
+    "heading": "Helluva Hoedown...",
+    "reviewBody": "The days of a pole dancer become increasingly unpredictable as pimps, hoods, punters and a new found pal distract and demand beyond reason. Outstanding performances bring to life a Twitter fuelled fable, great direction too.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 16725,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "18",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2021-08-06",
+  "keywords": "female nudity,stripper,sex scene,nudity,photograph on a cell phone",
+  "duration": "PT1H26M",
+  "actor": [
+    {
+      "name": "Taylour Paige",
+      "url": "https://www.imdb.com/name/nm3666749/"
+    },
+    {
+      "name": "Riley Keough",
+      "url": "https://www.imdb.com/name/nm2142336/"
+    },
+    {
+      "name": "Nicholas Braun",
+      "url": "https://www.imdb.com/name/nm1002609/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Janicza Bravo",
+      "url": "https://www.imdb.com/name/nm1891632/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Janicza Bravo",
+      "url": "https://www.imdb.com/name/nm1891632/"
+    },
+    {
+      "name": "Jeremy O. Harris",
+      "url": "https://www.imdb.com/name/nm4925405/"
+    },
+    {
+      "name": "A&apos;Ziah King",
+      "url": "https://www.imdb.com/name/nm10935584/"
+    }
+  ]
+}

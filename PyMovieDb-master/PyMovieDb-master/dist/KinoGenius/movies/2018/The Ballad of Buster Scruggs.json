@@ -1,0 +1,72 @@
+{
+  "type": "Movie",
+  "name": "The Ballad of Buster Scruggs",
+  "url": "https://www.imdb.com/tt6412452/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjRkYTI3M2EtZWQ4Ny00OTA2LWFmMTMtY2E4MTEyZmNjOTMxXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg",
+  "description": "Six tales of life and violence in the Old West, following a singing gunslinger, a bank robber, a traveling impresario, an elderly prospector, a wagon train, and a perverse pair of bounty hunters.",
+  "review": {
+    "author": "frosts-66091",
+    "dateCreated": "2018-10-13",
+    "inLanguage": "English",
+    "heading": "A hit and miss collection of shorts unlike anything else you&apos;ll see this year",
+    "reviewBody": "I was fortunate enough to see this at the LFF with the Coen brothers present. During their introduction they mentioned how they wrote each chapter as a series of shorts over 25 years, and it certainly felt like this both in good ways and bad. Each story was completely different from the one either side of it and none were short of originality. Stories unfolded in the way only a Coen brother&apos;s film could - a style that I have always admired.\n\nWhat was slightly disappointing was its lack of continuity. Each of the stories are completely contained and the final short was one of the most disappointing for me ending in quite an anticlimax. I understand these shorts are independent of one another but had they intersected in some way I think there could have been a much more satisfying conclusion. But the subversion of that expectation I also admire, my brain was just full of the interesting situations that could have unfolded had these characters come into contact with each other - as per a Tarantino film. It could also have ended with a different short as the 5th story for me (and the gold panning segment) was arguably the best.\n\nAside from the story itself the film has great visuals, some amazing one liners and incredible acting performances - especially considering the lengths actors went to in order to get into character for just a 20 minutes segment of a film. Overall expect 6 Coen brothers shorts sewn together with the thinest fabric imaginable and a time at the cinema like you haven&apos;t had all year.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 164355,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Musical"
+  ],
+  "datePublished": "2018-11-09",
+  "keywords": "cowboy,new mexico desert,new mexico territory,arizona desert,arizona territory",
+  "duration": "PT2H13M",
+  "actor": [
+    {
+      "name": "Tim Blake Nelson",
+      "url": "https://www.imdb.com/name/nm0625789/"
+    },
+    {
+      "name": "Willie Watson",
+      "url": "https://www.imdb.com/name/nm0914929/"
+    },
+    {
+      "name": "Clancy Brown",
+      "url": "https://www.imdb.com/name/nm0000317/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ethan Coen",
+      "url": "https://www.imdb.com/name/nm0001053/"
+    },
+    {
+      "name": "Joel Coen",
+      "url": "https://www.imdb.com/name/nm0001054/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joel Coen",
+      "url": "https://www.imdb.com/name/nm0001054/"
+    },
+    {
+      "name": "Ethan Coen",
+      "url": "https://www.imdb.com/name/nm0001053/"
+    },
+    {
+      "name": "Jack London",
+      "url": "https://www.imdb.com/name/nm0518711/"
+    }
+  ]
+}

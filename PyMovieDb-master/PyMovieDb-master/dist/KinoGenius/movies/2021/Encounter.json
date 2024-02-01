@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Encounter",
+  "url": "https://www.imdb.com/tt12800524/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmFjODRjMjItYjFlMi00Mzk5LWIwNjMtOWM1YzYxZWFjMTBiXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+  "description": "Two brothers embark on a journey with their father, who is trying to protect them from an alien threat.",
+  "review": {
+    "author": "zombie84-1",
+    "dateCreated": "2021-12-17",
+    "inLanguage": "English",
+    "heading": "really good",
+    "reviewBody": "Its not what people expected and thats why everyone is hating on it. Its a mental health movie - and something we dont get a lot of. Riz is an amazing actor, and the kids were fantastic too. Well worth your time - but dont go into it expecting an all out action film. Its a family drama through and through.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 10822,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "datePublished": "2021-12-10",
+  "keywords": "ptsd,marine,hallucinate,journey,brother brother relationship",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "Riz Ahmed",
+      "url": "https://www.imdb.com/name/nm1981893/"
+    },
+    {
+      "name": "Octavia Spencer",
+      "url": "https://www.imdb.com/name/nm0818055/"
+    },
+    {
+      "name": "Lucian-River Chauhan",
+      "url": "https://www.imdb.com/name/nm8925941/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Pearce",
+      "url": "https://www.imdb.com/name/nm3705960/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joe Barton",
+      "url": "https://www.imdb.com/name/nm3620967/"
+    },
+    {
+      "name": "Michael Pearce",
+      "url": "https://www.imdb.com/name/nm3705960/"
+    }
+  ]
+}

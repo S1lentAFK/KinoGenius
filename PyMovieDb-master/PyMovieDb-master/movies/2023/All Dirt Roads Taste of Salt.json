@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "All Dirt Roads Taste of Salt",
+  "url": "https://www.imdb.com/tt11534720/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjkyM2E0ZmYtMWVhMi00ZDk3LWI2ZDMtN2UzYjJiYjQyOGQ3XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg",
+  "description": "A decades-spanning exploration of a woman&apos;s life in Mississippi and an ode to the generations of people, places, and ineffable moments that shape us.",
+  "review": {
+    "author": "fanboycantina",
+    "dateCreated": "2023-01-28",
+    "inLanguage": "English",
+    "heading": "A bold visual mosaic of memories",
+    "reviewBody": "All Dirt Roads Taste of Salt is a bold, visual mosaic of a Black girl/woman&apos;s life in rural Mississippi, a summation of individual memories of love, heartbreak, grief, and life events told in a nonlinear stream of consciousness. Cinematically, the patient film stays longingly on key moments of her life, most typically moments of connection in embraces or holding hands. The music of nature and strings peacefully bind the movie together. Story wise, I found this movie very hard to get engaged in. Indeed, as a reflection of life, memories do not organize themselves in linearly, instead being a composition of moments at different times for periods long and short. But with little narrative to draw us in and care about Mack and the characters, these patient moments of longing instead often felt unnecessarily slow. I give the filmmaker credit for this bold vision and I appreciate the film on those merits, even though ultimately this film was not for me.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 637,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2023-12-22",
+  "keywords": "mississippi,african american,rural setting,coming of age,childhood",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Kaylee Nicole Johnson",
+      "url": "https://www.imdb.com/name/nm13495249/"
+    },
+    {
+      "name": "Chris Chalk",
+      "url": "https://www.imdb.com/name/nm1663252/"
+    },
+    {
+      "name": "Jayah Henry",
+      "url": "https://www.imdb.com/name/nm14316592/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Raven Jackson",
+      "url": "https://www.imdb.com/name/nm9349624/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Raven Jackson",
+      "url": "https://www.imdb.com/name/nm9349624/"
+    }
+  ]
+}

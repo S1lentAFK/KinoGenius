@@ -1,0 +1,66 @@
+{
+  "type": "Movie",
+  "name": "Una mujer fantástica",
+  "url": "https://www.imdb.com/tt5639354/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGJhNWM4ZjItYWRhYS00N2UzLTg3OWItOGEzOWFmMGQ1ZjlkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "description": "Marina, a transgender woman who works as a waitress and moonlights as a nightclub singer, is bowled over by the death of her older boyfriend.",
+  "review": {
+    "author": "rockman182",
+    "dateCreated": "2018-02-04",
+    "inLanguage": "English",
+    "heading": "A Fantastic Woman (2017)",
+    "reviewBody": "I don&apos;t always check out Academy Award nominated foreign films unless they really grab my attention (nothing personal, just time constraints with what I watch). A Fantastic Woman recently opened in the city and I decided to check it out. Didn&apos;t know a whole lot going in but I was excited nonetheless. After viewing the film I&apos;ll say while its not perfect and seems to get lost at stages as it goes along its still an effort that speaks towards today&apos;s issues and a film with a fine central performance from a newcomer.\n\nThe film is about a transgender woman who recently experiences the loss of her lover after he experiences his seizure. She is not able to grieve and attend the funeral properly because his family are embarrassed by her (because she&apos;s transgender) and even resort to verbally and physically attacking her. The film also shows how difficult her life is as she tries to find peace and solace in the death of her lover. The film was submitted from Chile.\n\nDaniela Vega is very impressive for a newcomer. Her performance is powerful. She has to stand up against oppression and is unnerved as she does it. She&apos;s quite a great and complex character and has to carry the film. A Fantastic Woman is a thin work otherwise. Its interesting because it touches on discrimination against LGBTQ, which is still a problem in the world today. I do feel like the film builds very slowly throughout and doesn&apos;t quite achieve its potential.\n\nThe film is actually fairly safe compared to other films that deal with discrimination and hate. Other&apos;s might feel more positive about the film than I do. Daniela Vega has a future and will likely be in other foreign (or even local) work. I do have a mind to check out some of the other foreign nominees this year but I might just in the end check out the winner instead. Who knows, could be this one.\n\n6.5/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 27042,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2018-03-02",
+  "keywords": "transgender woman,death of lover,gender discrimination,transgender,transphobia",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Daniela Vega",
+      "url": "https://www.imdb.com/name/nm6061529/"
+    },
+    {
+      "name": "Francisco Reyes",
+      "url": "https://www.imdb.com/name/nm0721280/"
+    },
+    {
+      "name": "Luis Gnecco",
+      "url": "https://www.imdb.com/name/nm0323483/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sebastián Lelio",
+      "url": "https://www.imdb.com/name/nm0133326/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sebastián Lelio",
+      "url": "https://www.imdb.com/name/nm0133326/"
+    },
+    {
+      "name": "Gonzalo Maza",
+      "url": "https://www.imdb.com/name/nm1752036/"
+    },
+    {
+      "name": "Eliseo Altunaga",
+      "url": "https://www.imdb.com/name/nm1505557/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Mamma Mia! Here We Go Again",
+  "url": "https://www.imdb.com/tt6911608/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEwMTM3OTI1NV5BMl5BanBnXkFtZTgwNDk5NTY0NTM@._V1_.jpg",
+  "description": "Five years after the events of Mamma Mia! (2008), Sophie prepares for the grand reopening of the Hotel Bella Donna as she learns more about her mother&apos;s past.",
+  "review": {
+    "author": "Tweekums",
+    "dateCreated": "2020-03-29",
+    "inLanguage": "English",
+    "heading": "A solid sequel to a surprise hit",
+    "reviewBody": "This sequel takes place a year after the death of Donna. Her daughter Sophie plans to reopen her mother&apos;s hotel, on a Greek island, unfortunately it looks as if neither her three fathers nor her husband will be able to attend the opening party. Intertwined with scenes of her preparing for the reopening we see how her mother came to the island all those years ago... and how she encountered the three men who are Sophie&apos;s fathers. Of course at every possible opportunity the cast sing an appropriate ABBA song.\n\nIf you didn&apos;t enjoy &apos;Mamma Mia&apos; you certainly won&apos;t enjoy this as it is more of the same; this of course means if you did enjoy the first you are likely to enjoy this too. The story is fairly simple but it is fun; especially the flashback scenes of Donna making her way to the island and meeting the younger versions of the &apos;three fathers&apos; for the first time. The songs are fun even if things are stretched a bit to justify the inclusion of some well-known songs... particularly &apos;Fernando&apos;. Of course the songs are a lot of fun, even the less well-known ones. The cast does a fine job and are clearly having fun; Lily James stands out as the young Donna. The setting, with its beautiful settings and mostly fine weather, only add to the pleasure provided by the film. Overall I&apos;d say this won&apos;t be for everybody but it is good cheesy fun if you enjoy that sort of thing... and I did, more than I expected.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 106180,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Musical",
+    "Romance"
+  ],
+  "datePublished": "2018-07-20",
+  "keywords": "sequel,dancing,singing,grandmother,party",
+  "duration": "PT1H54M",
+  "actor": [
+    {
+      "name": "Lily James",
+      "url": "https://www.imdb.com/name/nm4141252/"
+    },
+    {
+      "name": "Amanda Seyfried",
+      "url": "https://www.imdb.com/name/nm1086543/"
+    },
+    {
+      "name": "Meryl Streep",
+      "url": "https://www.imdb.com/name/nm0000658/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ol Parker",
+      "url": "https://www.imdb.com/name/nm0662530/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ol Parker",
+      "url": "https://www.imdb.com/name/nm0662530/"
+    },
+    {
+      "name": "Richard Curtis",
+      "url": "https://www.imdb.com/name/nm0193485/"
+    },
+    {
+      "name": "Catherine Johnson",
+      "url": "https://www.imdb.com/name/nm0424735/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Serenity",
+  "url": "https://www.imdb.com/tt0379786/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc5YjQ0MGQtOTdjZS00OGZhLTk1ZGItMThjOGFiZmMxYWRjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "vfrickey",
+    "dateCreated": "2016-02-09",
+    "inLanguage": "English",
+    "heading": "A sequel that&apos;s BETTER than the original - it is all Firefly could have been!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 303895,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2005-10-07",
+  "keywords": "on the run,smuggler,spacecraft,spaceship,one world government",
+  "duration": "PT1H59M",
+  "actor": [
+    {
+      "name": "Nathan Fillion",
+      "url": "https://www.imdb.com/name/nm0277213/"
+    },
+    {
+      "name": "Gina Torres",
+      "url": "https://www.imdb.com/name/nm0868659/"
+    },
+    {
+      "name": "Chiwetel Ejiofor",
+      "url": "https://www.imdb.com/name/nm0252230/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joss Whedon",
+      "url": "https://www.imdb.com/name/nm0923736/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joss Whedon",
+      "url": "https://www.imdb.com/name/nm0923736/"
+    }
+  ]
+}

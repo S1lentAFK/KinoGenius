@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Arctic Justice",
+  "url": "https://www.imdb.com/tt4426464/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTY1OTQyM2YtM2ZjOC00OWQwLTkzM2YtZjAyOGZkYjlhNWFhXkEyXkFqcGdeQXVyMTk5MzE1MTY@._V1_.jpg",
+  "description": "An Arctic fox works in the mailroom of a package delivery service, but wants to be doing the deliveries.",
+  "review": {
+    "author": "danielmathbox",
+    "dateCreated": "2020-06-02",
+    "inLanguage": "English",
+    "heading": "Boring",
+    "reviewBody": "Basically the same thing as Deep (2017); boring, atrocious and dumb jokes. I think that the story is weak, as there isn&apos;t really any potential for the movie. They fill it with potty humour and fart jokes. I can&apos;t say anything else because it&apos;s just so weak and boring.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 2229,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2019-11-08",
+  "keywords": "snow adventure,cgi animation,mail delivery,mail,cartoon dog",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Jeremy Renner",
+      "url": "https://www.imdb.com/name/nm0719637/"
+    },
+    {
+      "name": "Heidi Klum",
+      "url": "https://www.imdb.com/name/nm0005099/"
+    },
+    {
+      "name": "James Franco",
+      "url": "https://www.imdb.com/name/nm0290556/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Aaron Woodley",
+      "url": "https://www.imdb.com/name/nm0005616/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bob Barlen",
+      "url": "https://www.imdb.com/name/nm1779809/"
+    },
+    {
+      "name": "Cal Brunker",
+      "url": "https://www.imdb.com/name/nm2117510/"
+    },
+    {
+      "name": "Matthew Lyon",
+      "url": "https://www.imdb.com/name/nm2474213/"
+    }
+  ]
+}

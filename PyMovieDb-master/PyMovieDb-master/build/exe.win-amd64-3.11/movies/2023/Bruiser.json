@@ -1,0 +1,62 @@
+{
+  "type": "Movie",
+  "name": "Bruiser",
+  "url": "https://www.imdb.com/tt21833464/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDc3NzNkYjQtN2Y4MS00YWE5LTk4ZWEtY2Y4Mjg3ODhlMGZhXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "A_Different_Drummer",
+    "dateCreated": "2023-02-24",
+    "inLanguage": "English",
+    "heading": "it&apos;s not about what it&apos;s about",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 815,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": null,
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2023-02-24",
+  "keywords": "life,father,mother,stranger,town",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Jalyn Hall",
+      "url": "https://www.imdb.com/name/nm8786575/"
+    },
+    {
+      "name": "Trevante Rhodes",
+      "url": "https://www.imdb.com/name/nm5218990/"
+    },
+    {
+      "name": "Shamier Anderson",
+      "url": "https://www.imdb.com/name/nm3875456/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Miles Warren",
+      "url": "https://www.imdb.com/name/nm6522111/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ben Medina",
+      "url": "https://www.imdb.com/name/nm12148960/"
+    },
+    {
+      "name": "Miles Warren",
+      "url": "https://www.imdb.com/name/nm6522111/"
+    }
+  ]
+}

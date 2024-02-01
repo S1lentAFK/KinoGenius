@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Antebellum",
+  "url": "https://www.imdb.com/tt10065694/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTQzYWU3NzktOGQyOC00NGNiLWE3NjAtNzQ0YzRkOTc5ODUzXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg",
+  "description": "Successful author Veronica Henley finds herself trapped in a horrifying reality and must uncover the mind-bending mystery before it&apos;s too late.",
+  "review": {
+    "author": "rjmhulst",
+    "dateCreated": "2020-09-11",
+    "inLanguage": "English",
+    "heading": "Surprising, thrilling and twisted",
+    "reviewBody": "Antebellum may not be a horror movie like the trailer suggests, however: it is all about the horrors its main characters go through. Antebellum is an interesting ride throughout, with much contrast, a strong ambience and great acting.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 29372,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2021-04-02",
+  "keywords": "lipstick,rape,slave,kidnapping,picking cotton",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Janelle Monáe",
+      "url": "https://www.imdb.com/name/nm1847117/"
+    },
+    {
+      "name": "Eric Lange",
+      "url": "https://www.imdb.com/name/nm1441925/"
+    },
+    {
+      "name": "Jena Malone",
+      "url": "https://www.imdb.com/name/nm0540441/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gerard Bush",
+      "url": "https://www.imdb.com/name/nm4680113/"
+    },
+    {
+      "name": "Christopher Renz",
+      "url": "https://www.imdb.com/name/nm7896794/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Gerard Bush",
+      "url": "https://www.imdb.com/name/nm4680113/"
+    },
+    {
+      "name": "Christopher Renz",
+      "url": "https://www.imdb.com/name/nm7896794/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Clouds",
+  "url": "https://www.imdb.com/tt6473066/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODE0MDRiN2YtODhiNS00Y2E4LThlZTctMTEyYzM5NTg3OTRiXkEyXkFqcGdeQXVyNTQxOTk3MzA@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "codyfleury",
+    "dateCreated": "2020-10-18",
+    "inLanguage": "English",
+    "heading": "Movies like these aren&apos;t popular anymore and it&apos;s a shame...",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 11422,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "12",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2020-10-16",
+  "keywords": "teenager,singing,high school,school,guitar",
+  "duration": "PT2H1M",
+  "actor": [
+    {
+      "name": "Fin Argus",
+      "url": "https://www.imdb.com/name/nm4591107/"
+    },
+    {
+      "name": "Neve Campbell",
+      "url": "https://www.imdb.com/name/nm0000117/"
+    },
+    {
+      "name": "Sabrina Carpenter",
+      "url": "https://www.imdb.com/name/nm4248775/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Justin Baldoni",
+      "url": "https://www.imdb.com/name/nm1682573/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kara Holden",
+      "url": "https://www.imdb.com/name/nm1289517/"
+    },
+    {
+      "name": "Casey La Scala",
+      "url": "https://www.imdb.com/name/nm0489453/"
+    },
+    {
+      "name": "Patrick Kopka",
+      "url": "https://www.imdb.com/name/nm8360203/"
+    }
+  ]
+}

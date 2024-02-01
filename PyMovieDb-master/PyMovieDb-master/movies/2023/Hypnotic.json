@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Hypnotic",
+  "url": "https://www.imdb.com/tt8080204/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmNmNWNiMjUtZmYyMC00OWVhLThmMTItNjkxYzU4Yzk2NTdlXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg",
+  "description": "A detective investigates a mystery involving his missing daughter and a secret government program.",
+  "review": {
+    "author": "frank-liesenborgs",
+    "dateCreated": "2023-06-05",
+    "inLanguage": "English",
+    "heading": "Do not understand the bad reviews. Decent movie!!",
+    "reviewBody": "Robert Rodriguez weaves a mesmerizing tale, shrouded in enigma, always keeping you on the edge of your seat. The truth dances just beyond your reach, as he deftly manipulates the story like a skilled magician. Admittedly, I&apos;ve seen Ben Affleck deliver more captivating performances in other films. His innate charm remains partially hidden in this endeavor. Nonetheless, it remains an enthralling watch. Affleck portrays a cop haunted by the haunting disappearance of his daughter, a mystery that has plagued him for years. However, a string of daring bank heists propels him into a clandestine world of extraordinary individuals endowed with psionic powers, individuals who may hold the key to his daughter&apos;s fate. The film&apos;s convoluted twists and turns defy expectations, defying your attempts to unravel its secrets. Alice Braga mesmerizes with her portrayal, seamlessly embodying her character&apos;s essence. While I personally relish the challenge of deciphering the intricacies of a film&apos;s plot, Braga&apos;s character defies such expectations. She elucidates the intricate details, leaving little room for speculation. The veil of mystery is lifted, revealing the truth in stark clarity. Character development takes a backseat as the narrative unfurls, for we are explicitly informed of the events as they unfold. Nevertheless, JD Pardo, as Nicks, delivers a compelling performance, leaving us yearning to witness him take the lead in future endeavors. Affleck, in his portrayal of Danny Rourke, showcases unwavering strength, anchoring the film with his solid presence. The twists and turns of the story remain delightfully elusive, avoiding the trap of predictability that often plagues such tales. In comparison to its 2021 namesake, this film shines brightly, offering a far superior experience. I sincerely recommend embarking on this mysterious journey.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 28974,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2023-05-26",
+  "keywords": "missing daughter,detective,conspiracy thriller,father daughter relationship,search for missing daughter",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Ben Affleck",
+      "url": "https://www.imdb.com/name/nm0000255/"
+    },
+    {
+      "name": "Alice Braga",
+      "url": "https://www.imdb.com/name/nm0103797/"
+    },
+    {
+      "name": "JD Pardo",
+      "url": "https://www.imdb.com/name/nm1238555/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Rodriguez",
+      "url": "https://www.imdb.com/name/nm0001675/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Rodriguez",
+      "url": "https://www.imdb.com/name/nm0001675/"
+    },
+    {
+      "name": "Max Borenstein",
+      "url": "https://www.imdb.com/name/nm1440919/"
+    }
+  ]
+}

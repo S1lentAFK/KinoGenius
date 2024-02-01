@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Pain Hustlers",
+  "url": "https://www.imdb.com/tt15257160/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWMxYjNhZmEtNDBjZi00ZjFmLWJlZDMtYTVlYjljMmNkZWFhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "description": "Liza dreams of a better life for herself and her daughter. Hired to work for a bankrupt pharmaceutical company, Liza skyrockets with sales and into the high life, putting her in the middle of a federal criminal conspiracy.",
+  "review": {
+    "author": "emailforkaz",
+    "dateCreated": "2023-10-31",
+    "inLanguage": "English",
+    "heading": "Seen it before",
+    "reviewBody": "Charasmetic leads. Though hard to watch Captain America as an ass#ole. There have been so many shows recently about the OxyContin epidemic. This one suffers because it&apos;s at the end of the line. At least it&apos;s not an 8 part series that takes forever to tell the same story. Catherine O&apos;Hara in a non comedic role is a joy to watch., Andy Garcia ... used to be an A class actor. Seems a bit desperate to have taken on this role. Still ... it&apos;s an important lesson. The role of big chemical companies in modern society and how they prey on the vulnerable is highlighted. Which is a good thing. Not that this will change anything.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 35662,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2023-10-27",
+  "keywords": "criminal,conspiracy,daughter,job,investigation",
+  "duration": "PT2H3M",
+  "actor": [
+    {
+      "name": "Emily Blunt",
+      "url": "https://www.imdb.com/name/nm1289434/"
+    },
+    {
+      "name": "Chris Evans",
+      "url": "https://www.imdb.com/name/nm0262635/"
+    },
+    {
+      "name": "Catherine O&apos;Hara",
+      "url": "https://www.imdb.com/name/nm0001573/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Yates",
+      "url": "https://www.imdb.com/name/nm0946734/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Wells Tower",
+      "url": "https://www.imdb.com/name/nm2862509/"
+    },
+    {
+      "name": "Evan Hughes",
+      "url": "https://www.imdb.com/name/nm6937998/"
+    }
+  ]
+}

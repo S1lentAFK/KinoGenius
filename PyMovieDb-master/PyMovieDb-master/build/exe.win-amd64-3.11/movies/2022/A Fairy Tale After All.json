@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "A Fairy Tale After All",
+  "url": "https://www.imdb.com/tt7813294/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDcyOTI4MWUtYWJiMy00MTU0LTk3ZGYtYzcyZDE3ZDQ5ZjEyXkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_.jpg",
+  "description": "A stubborn teenage girl finds herself confronted by whimsical characters when she is transported into a world of fantasy and fairy tales while attending a school marionette show.",
+  "review": {
+    "author": "marikats1226",
+    "dateCreated": "2022-02-27",
+    "inLanguage": "English",
+    "heading": "Very confusing",
+    "reviewBody": "I saw positive reviews about this and I&apos;m even more confused than this movie left me? Bad acting, bad directing, absolutely chaotic and messy plot, too scary for children but definitely not coherent enough for adults. Also, they put on these huge unnatural contact lenses on the lead actress that made her off-putting at best, and scary at worst. Speaking of which, I know most movies cast adults to play teens, but she could not pass as a teen at all, it was actually bothersome to watch. I want to know who thought that this, any part of this, was a good idea, and who (and why?!) reviewed it positively. I rarely experience something so horrid, but I did this time, and if I save one person from going through this mind-numbing, bizarre and all around baffling experience, it&apos;ll be worth leaving this review.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 2612,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.3
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2022-02-17",
+  "keywords": "fairy tale,puppet,princess,hull,princess geneva",
+  "duration": "PT1H12M",
+  "actor": [
+    {
+      "name": "Anna Brisbin",
+      "url": "https://www.imdb.com/name/nm5588182/"
+    },
+    {
+      "name": "Brian Hull",
+      "url": "https://www.imdb.com/name/nm7854903/"
+    },
+    {
+      "name": "Lucie Jones",
+      "url": "https://www.imdb.com/name/nm3637555/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Erik Peter Carlson",
+      "url": "https://www.imdb.com/name/nm3710872/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Erik Peter Carlson",
+      "url": "https://www.imdb.com/name/nm3710872/"
+    }
+  ]
+}

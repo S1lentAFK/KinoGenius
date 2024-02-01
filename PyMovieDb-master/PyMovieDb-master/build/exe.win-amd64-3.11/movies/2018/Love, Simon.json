@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "Love, Simon",
+  "url": "https://www.imdb.com/tt5164432/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTMyZDdiMzUtZjcxNS00Mjc3LTljY2UtYjI4YmY5NzJlYjc1XkEyXkFqcGdeQXVyMTA5OTkwNTc@._V1_.jpg",
+  "description": "Simon Spier keeps a huge secret from his family, his friends and all of his classmates: he&apos;s gay. When that secret is threatened, Simon must face everyone and come to terms with his identity.",
+  "review": {
+    "author": "amanda-552",
+    "dateCreated": "2018-03-18",
+    "inLanguage": "English",
+    "heading": "Amazing Adaptation",
+    "reviewBody": "Here are my thoughts about Love, Simon:\n\nFirst, it was definitely the best movie adaptation of a book I&apos;ve ever seen. Hands down. It was also an extremely authentic story to begin with, and it translated so well as a movie.\n\nSecond, I wish this movie had been around when I was younger. The message of love and acceptance was so powerful, and the way Simon and his friends were portrayed was amazing. Kudos to the actors. The whole theater was cheering, laughing, and crying with them.\n\nRepresentation matters. Our kids need to see themselves on screen in movies like this.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 123472,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2018-04-06",
+  "keywords": "gay,gay teenager,gay interest,coming out,gay kiss",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Nick Robinson",
+      "url": "https://www.imdb.com/name/nm3538718/"
+    },
+    {
+      "name": "Jennifer Garner",
+      "url": "https://www.imdb.com/name/nm0004950/"
+    },
+    {
+      "name": "Josh Duhamel",
+      "url": "https://www.imdb.com/name/nm0241049/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Greg Berlanti",
+      "url": "https://www.imdb.com/name/nm0075528/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Becky Albertalli",
+      "url": "https://www.imdb.com/name/nm7698350/"
+    },
+    {
+      "name": "Elizabeth Berger",
+      "url": "https://www.imdb.com/name/nm0074165/"
+    },
+    {
+      "name": "Isaac Aptaker",
+      "url": "https://www.imdb.com/name/nm4170842/"
+    }
+  ]
+}

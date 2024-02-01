@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "King Richard",
+  "url": "https://www.imdb.com/tt9620288/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTcyNmY4ZGEtYmE4Zi00ZDViLTlmYzMtMmQ4ZTM4OWNmZjQxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "A look at how tennis superstars Venus and Serena Williams became who they are after the coaching from their father Richard Williams.",
+  "review": {
+    "author": "drjgardner",
+    "dateCreated": "2021-11-21",
+    "inLanguage": "English",
+    "heading": "Good film",
+    "reviewBody": "This is a good sports film and has lots of revealing information about the Williams family that most people will not be aware of. Remarkably, Will Smith puts aside his constant need to show himself off and gets absorbed into the personality of the Williams&apos; father.. All the acting is great, especially the 5 girls and the mom. Of course the film is from the POV of the Dad and I imagine there are other viewpoints. I was disappointed that given the emphasis on the Dad, when the film ends and they give a summary of what happened after, nothing is mentioned about the Dad. That makes no sense in the context of the film.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 131332,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2021-11-19",
+  "keywords": "tennis player,compton,father,based on real people,tennis coach",
+  "duration": "PT2H24M",
+  "actor": [
+    {
+      "name": "Will Smith",
+      "url": "https://www.imdb.com/name/nm0000226/"
+    },
+    {
+      "name": "Aunjanue Ellis-Taylor",
+      "url": "https://www.imdb.com/name/nm0254712/"
+    },
+    {
+      "name": "Jon Bernthal",
+      "url": "https://www.imdb.com/name/nm1256532/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Reinaldo Marcus Green",
+      "url": "https://www.imdb.com/name/nm3232264/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Zach Baylin",
+      "url": "https://www.imdb.com/name/nm1598140/"
+    }
+  ]
+}

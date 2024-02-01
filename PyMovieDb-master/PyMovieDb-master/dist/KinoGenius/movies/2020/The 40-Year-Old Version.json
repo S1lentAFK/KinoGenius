@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "The 40 Year Old Virgin",
+  "url": "https://www.imdb.com/tt0405422/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWY1NDI0ZTQtMjJiNS00ODY4LWE1NmUtYTkwNzY3NWQ0ZDZjXkEyXkFqcGdeQXVyMTM0NTc2NDgw._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "ivko",
+    "dateCreated": "2005-08-26",
+    "inLanguage": "English",
+    "heading": "Breakout film for Carell",
+    "reviewBody": "Steve Carell has made a career out of portraying the slightly odd straight guy, first on &apos;The Daily Show&apos;, and then in various supporting roles. In Virgin, Carell has found a clever and hilarious script that perfectly capitalizes on his strengths. Carell plays Andy Stitzer, a middle aged man living a quiet, lonely life. Andy is a little odd, but in an awkward nice guy sort of way. One night, while socializing with his co-workers for the first time, Andy accidentally reveals that he is a virgin. His co-workers, David (Paul Rudd), Jay (Romany Malco), and Cal (Seth Rogen) initially tease Andy about his situation. But it&apos;s clear that all three have a certain respect for the decent human being that Andy is, and they resolve to help him out by assisting him in ending his virginity. And so begins Andy&apos;s quest into adulthood. Andy is the quintessential innocent, and the bulk of the humor derives from his naiveté to the situations he finds himself in throughout the film. Some of the humor is crude gross out stuff, but most of it is just well done intelligent comedy. In addition, I found some parts of the film actually pretty touching as Andy finds himself developing both romantic relationships and friendships perhaps for the first time in his life. I&apos;m not trying to portray the movie as a love story or a drama; it&apos;s a rolling in your seats comedy. Still, every good comedy I have ever seen contains enough heart for you to care about the characters. A good comparison would be &apos;The Wedding Crashers&apos; from earlier this summer. Virgin has a similar humor, but is perhaps a bit more vulgar in some of its jokes. I particularly loved the ending of the film, which I thought was a perfect way to end the flick. Without giving anything away, it reminded me of &apos;Something About Mary&apos;. Very light and fun; it leaves you laughing and smiling, which is exactly how you should feel when you finish a comedy. I would highly recommend.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 460379,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2005-09-02",
+  "keywords": "40 year old,male virgin,loss of virginity,single mother,porn star",
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Steve Carell",
+      "url": "https://www.imdb.com/name/nm0136797/"
+    },
+    {
+      "name": "Catherine Keener",
+      "url": "https://www.imdb.com/name/nm0001416/"
+    },
+    {
+      "name": "Paul Rudd",
+      "url": "https://www.imdb.com/name/nm0748620/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Judd Apatow",
+      "url": "https://www.imdb.com/name/nm0031976/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Judd Apatow",
+      "url": "https://www.imdb.com/name/nm0031976/"
+    },
+    {
+      "name": "Steve Carell",
+      "url": "https://www.imdb.com/name/nm0136797/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "His House",
+  "url": "https://www.imdb.com/tt8508734/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODY2NjQzYzYtYTgyMy00M2MxLTgyMWQtZTU1NWZjZWU4ZDc3XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",
+  "description": "A refugee couple makes a harrowing escape from war-torn South Sudan, but then they struggle to adjust to their new life in an English town that has an evil lurking beneath the surface.",
+  "review": {
+    "author": "jericha-27402",
+    "dateCreated": "2020-11-01",
+    "inLanguage": "English",
+    "heading": "Profound",
+    "reviewBody": "If you&apos;re a fan of in-your-face horror, this film is deeply psychological and not for you. Although politics lay the foundation for the story, the story itself isn&apos;t really about immigration. I think sometimes people see minorities in horror films and automatically think it&apos;s about racism or prejudice. To be blunt, there&apos;s no political message in film. It&apos;s well crafted and allows you to draw your own opinions. See it for yourself.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 47431,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2020-10-30",
+  "keywords": "escape,kidnapping,holding someone against their will,bus,government subsidized housing",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Sope Dirisu",
+      "url": "https://www.imdb.com/name/nm5444837/"
+    },
+    {
+      "name": "Wunmi Mosaku",
+      "url": "https://www.imdb.com/name/nm2148911/"
+    },
+    {
+      "name": "Malaika Wakoli-Abigaba",
+      "url": "https://www.imdb.com/name/nm12022709/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Remi Weekes",
+      "url": "https://www.imdb.com/name/nm3676311/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Remi Weekes",
+      "url": "https://www.imdb.com/name/nm3676311/"
+    },
+    {
+      "name": "Felicity Evans",
+      "url": "https://www.imdb.com/name/nm10265692/"
+    },
+    {
+      "name": "Toby Venables",
+      "url": "https://www.imdb.com/name/nm4820299/"
+    }
+  ]
+}

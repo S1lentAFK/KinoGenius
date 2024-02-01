@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Acrimony",
+  "url": "https://www.imdb.com/tt6063050/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzk0MzYxMzc2MV5BMl5BanBnXkFtZTgwNzU5OTc4NDM@._V1_.jpg",
+  "description": "A faithful wife, tired of standing by her devious husband, is enraged when it becomes clear she has been betrayed.",
+  "review": {
+    "author": "Hellmant",
+    "dateCreated": "2018-09-14",
+    "inLanguage": "English",
+    "heading": "A more cheesy and contrived &apos;FATAL ATTRACTION&apos;, from the mind of Tyler Perry.",
+    "reviewBody": "&apos;ACRIMONY&apos;: Two and a Half Stars (Out of Five)\n\nA thriller written and directed by Tyler Perry, about an obsessive but faithful wife, who seeks vengeance on her unfaithful but loving husband. The movie stars Taraji P. Henson, Lyriq Bent and Crystle Stewart. Like almost all of Perry&apos;s films, the movie got almost unanimous negative reviews from critics, but it was a hit at the Box Office though. I haven&apos;t watched a Tyler Perry movie in some time, but this one is definitely better than the earlier ones of his I saw years ago (which I hated). Still, this is far from a good movie, but it is at least amusing and somewhat involving. Also Henson is fantastic in the lead, like always. It&apos;s kind of like a more cheesy and contrived &apos;FATAL ATTRACTION&apos;, from the mind of Tyler Perry.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 9860,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Romance"
+  ],
+  "datePublished": "2023-01-05",
+  "keywords": "female psychopath,divorce,courtroom,younger version of character,husband wife relationship",
+  "duration": "PT2H",
+  "actor": [
+    {
+      "name": "Taraji P. Henson",
+      "url": "https://www.imdb.com/name/nm0378245/"
+    },
+    {
+      "name": "Lyriq Bent",
+      "url": "https://www.imdb.com/name/nm0072713/"
+    },
+    {
+      "name": "Crystle Stewart",
+      "url": "https://www.imdb.com/name/nm2981170/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tyler Perry",
+      "url": "https://www.imdb.com/name/nm1347153/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tyler Perry",
+      "url": "https://www.imdb.com/name/nm1347153/"
+    }
+  ]
+}

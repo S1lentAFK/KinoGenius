@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "The Little Things",
+  "url": "https://www.imdb.com/tt10016180/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGFlNTdmYWQtM2IzMi00YTY3LTlmMDQtZDI5NGQ5MjYzZmEwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+  "description": "Kern County Deputy Sheriff Joe Deacon is sent to Los Angeles for what should have been a quick evidence-gathering assignment. Instead, he becomes embroiled in the search for a serial killer who is terrorizing the city.",
+  "review": {
+    "author": "SimonsRants",
+    "dateCreated": "2021-02-03",
+    "inLanguage": "English",
+    "heading": "Better than people say, not as good as it could have been.",
+    "reviewBody": "The Little Things - 7/10\n\nThe little things obviously took a lot of inspiration from other films; everybody points out that it was inspired by David Fincher&apos;s Se7en but I was equally reminded of Nolan&apos;s Insomnia as well. That being said, that does not mean that this film doesn&apos;t have anything new to offer. Although it does follow some familiar tropes and storylines, it still is original enough to offer something new. Added to that is some fantastic acting from all three leads.\n\nMost of the time when you have multiple great actors all vying for an Oscar nomination in a single movie it leads to some dramatic overacting, in this case all three performances are subtle, subdued, understated yet still brilliant. The mystery in this film is fairly obvious, the trailer shows you everything you need to know. But with that in mind, the mystery wasn&apos;t really the focal point of this story in my opinion. The focus rather was on the characters and their development and about who they are as characters. In my mind the characters are written very well, not that they&apos;re perfect but they&apos;re good.\n\nI think there was some sloppy editing, sloppy writing, and inconsistent directing but nothing worthy of a 54% that they&apos;ve received from Metacritic. I&apos;m not saying it&apos;s the next big classic film or anything like that, no not at all. But I think that this film fully deserves a seven that I&apos;ve given it. Not a classic, but definitely worth a watch if you enjoy dark films like seven, insomnia, and many more.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 121204,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2021-03-11",
+  "keywords": "serial killer,los angeles california,murder,murder of a prostitute,female nudity",
+  "duration": "PT2H8M",
+  "actor": [
+    {
+      "name": "Denzel Washington",
+      "url": "https://www.imdb.com/name/nm0000243/"
+    },
+    {
+      "name": "Rami Malek",
+      "url": "https://www.imdb.com/name/nm1785339/"
+    },
+    {
+      "name": "Jared Leto",
+      "url": "https://www.imdb.com/name/nm0001467/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Lee Hancock",
+      "url": "https://www.imdb.com/name/nm0359387/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Lee Hancock",
+      "url": "https://www.imdb.com/name/nm0359387/"
+    }
+  ]
+}

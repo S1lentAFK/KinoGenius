@@ -1,0 +1,62 @@
+{
+  "type": "Movie",
+  "name": "Nostalghia",
+  "url": "https://www.imdb.com/tt0086022/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTg2YTA4YzAtMGZhMi00OGZiLTliYTMtNzhiMTNmMDhhOTVhXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg",
+  "description": "A Russian poet and his interpreter travel to Italy researching the life of an 18th-century composer, and instead meet a ruminative madman who tells the poet how the world may be saved.",
+  "review": {
+    "author": "rogierr",
+    "dateCreated": "2001-12-15",
+    "inLanguage": "English",
+    "heading": "1+1=1 : or even a thousand raindrops makes ONE big pool, even inside the house",
+    "reviewBody": "Tarkovsky keeps the emphasis on nostalghia and not on sentiment or melancholia. Giuseppe Lanci&apos;s (Kaos &apos;84, Caro Diario &apos;94) beautiful colorful cinematography alternated with b/w footage, is reminiscent of Traffic (Soderbergh, 2000), although the content and the pace of that film is very different. The point is, that different filming materials can emphasize different perspectives from different people or different periods in the life of the same person. Luminous or dark. Even a long and slow shot can tell a complete story in this film, as the actors seem to duplicate themselves or substitute others. Miniature landscapes to create surprising visual perspectives are discovered at the ride-in and ride-out of the camera. All those details couldn&apos;t be appreciated if the shots were any shorter or the pace any faster. Nevertheless, there are instances where Tarkovsky doesn&apos;t seem to know what he wanted exactly and motives stay implicit unfortunately. But that&apos;s poetry. See the film again and discover new perspectives. Anyway, there is a strong taste of longing for association of people in the present, in the future and even in the past throughout the film.\n\nNostalghia is almost entirely (as far the dialogue part of the film goes) in Italian language and the music consists exclusively from legendary composers with some experimental touches here and there. It is on the verge of being arthouse with its sometimes subtle and sometimes experimental light and sound FX. Even the dog seems to have had acting classes. Also I feel that what Godard tried so many times (le Mepris? Week End?) but utterly failed most consistently, Tarkovsky achieves gloriously, although the film shouldn&apos;t be much longer.\n\n10 points out of 10 :-)",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 29495,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "1983-06-02",
+  "keywords": "one word title,little girl,lighter,cigarette lighter,candle",
+  "duration": "PT2H5M",
+  "actor": [
+    {
+      "name": "Oleg Yankovskiy",
+      "url": "https://www.imdb.com/name/nm0946160/"
+    },
+    {
+      "name": "Erland Josephson",
+      "url": "https://www.imdb.com/name/nm0430746/"
+    },
+    {
+      "name": "Domiziana Giordano",
+      "url": "https://www.imdb.com/name/nm0320323/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrei Tarkovsky",
+      "url": "https://www.imdb.com/name/nm0001789/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrei Tarkovsky",
+      "url": "https://www.imdb.com/name/nm0001789/"
+    },
+    {
+      "name": "Tonino Guerra",
+      "url": "https://www.imdb.com/name/nm0346096/"
+    }
+  ]
+}

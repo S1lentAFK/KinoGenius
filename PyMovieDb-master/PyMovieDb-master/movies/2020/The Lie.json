@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "The Lie",
+  "url": "https://www.imdb.com/tt7945440/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2I5NzM3Y2QtNGY4NS00Njg5LWI2OGYtZDhlN2UzOWJjMDUxXkEyXkFqcGdeQXVyODE0OTU5Nzg@._V1_.jpg",
+  "description": "A father and daughter are on their way to dance camp when they spot the girl&apos;s best friend on the side of the road. When they stop to offer the friend a ride, their good intentions soon result in terrible consequences.",
+  "review": {
+    "author": "XTheXXTruthX",
+    "dateCreated": "2020-10-07",
+    "inLanguage": "English",
+    "heading": "(Not a horror) it&apos;s a mediocre thriller",
+    "reviewBody": "I hope the title of the review helps others like me, who go into this expecting a Blumhouse movie released in conjunction with Prime a few weeks before Halloween, to be a scary movie. Now that&apos;s put this aside\n\nThe cast do their best with this ridiculous plot, that would borderline work as a poor 25 minute episode of Inside Number 9\n\nThe writing is pretty dreadful, the direction bland and lacking much in the way of thrills The movie is glacier paced, without the script or character development to hold it up Someone needs to go back to film school - It&apos;s so bad the you will see the ending coming within minutes of the incident itself There&apos;s no attempt to even throw the viewer in the other direction\n\nI would recommend watching the first 10 mins, then mins 58 to 60, and the last 5 minute and save yourself a precious evening you could be spending on something much more worthwhile",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 19540,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2020-10-06",
+  "keywords": "father daughter relationship,separated parents,girlfriend,murder,pushed off a bridge",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Peter Sarsgaard",
+      "url": "https://www.imdb.com/name/nm0765597/"
+    },
+    {
+      "name": "Mireille Enos",
+      "url": "https://www.imdb.com/name/nm0257969/"
+    },
+    {
+      "name": "Joey King",
+      "url": "https://www.imdb.com/name/nm1428821/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Veena Sud",
+      "url": "https://www.imdb.com/name/nm0127894/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Veena Sud",
+      "url": "https://www.imdb.com/name/nm0127894/"
+    },
+    {
+      "name": "Marcus Seibert",
+      "url": "https://www.imdb.com/name/nm0782297/"
+    },
+    {
+      "name": "Sebastian Ko",
+      "url": "https://www.imdb.com/name/nm1664028/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Flash",
+  "url": "https://www.imdb.com/tt0439572/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWE2ZWE5MDQtMTJlZi00MTVjLTkxOTgtNmNiYjg2NDIxN2NhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+  "description": "Barry Allen uses his super speed to change the past, but his attempt to save his family creates a world without super heroes, forcing him to race for his life in order to save the future.",
+  "review": {
+    "author": "cricketbat",
+    "dateCreated": "2023-06-14",
+    "inLanguage": "English",
+    "heading": "A wildly uneven movie with shockingly bad effects",
+    "reviewBody": "The Flash is a goofy movie. Not only is it much lighter in tone than most of the DC Extended Universe, but it&apos;s also wildly uneven, unsuccessfully trying to balance dramatic moments with constant attempts at lowbrow humor. The computer graphics are shockingly bad and are, at times, reminiscent of 2004&apos;s The Polar Express. There are some genuinely dramatic parts, when Ezra Miller isn&apos;t mugging for the camera, and I&apos;d be lying if I said my childhood heart didn&apos;t surge with joy almost every time a Tim Burton&apos;s Batman reference was made, but The Flash was, for the most part, a disappointing fizzle.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 196543,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "2023-06-16",
+  "keywords": "barry allen character,the flash character,dc extended universe,multiverse,struck by lightning",
+  "duration": "PT2H24M",
+  "actor": [
+    {
+      "name": "Ezra Miller",
+      "url": "https://www.imdb.com/name/nm3009232/"
+    },
+    {
+      "name": "Michael Keaton",
+      "url": "https://www.imdb.com/name/nm0000474/"
+    },
+    {
+      "name": "Sasha Calle",
+      "url": "https://www.imdb.com/name/nm8567338/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andy Muschietti",
+      "url": "https://www.imdb.com/name/nm0615592/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Christina Hodson",
+      "url": "https://www.imdb.com/name/nm5429637/"
+    },
+    {
+      "name": "John Francis Daley",
+      "url": "https://www.imdb.com/name/nm0197855/"
+    },
+    {
+      "name": "Jonathan Goldstein",
+      "url": "https://www.imdb.com/name/nm0326246/"
+    }
+  ]
+}

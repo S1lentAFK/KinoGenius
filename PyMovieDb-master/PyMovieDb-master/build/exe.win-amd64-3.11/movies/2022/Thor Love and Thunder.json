@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Thor: Love and Thunder",
+  "url": "https://www.imdb.com/tt10648342/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "Thor enlists the help of Valkyrie, Korg and ex-girlfriend Jane Foster to fight Gorr the God Butcher, who intends to make the gods extinct.",
+  "review": {
+    "author": "masonsaul",
+    "dateCreated": "2022-07-07",
+    "inLanguage": "English",
+    "heading": "Enjoyable but empty",
+    "reviewBody": "Thor: Love and Thunder does attempt to explore themes of love and loss whilst introducing the Mighty Thor and putting Thor on a journey of self discovery. However, it sadly doesn&apos;t work as well as it should due to a rushed pace and way too many jokes that are almost never funny.\n\nChris Hemsworth is still going strong as Thor but the extreme goofiness is getting a little stale. Natalie Portman has never been better as this character and Tessa Thompson is still great as Valkyrie, even though she doesn&apos;t really get much to do.\n\nTaika Waititi massively overstays his welcome as Korg this time, who becomes very annoying really fast. Christian Bale is one of the better MCU villains with a good motivation and an unsettling presence but is let down by limited screen time.\n\nTakia&apos;s direction on the other hand is stronger, there&apos;s some nice visual imagery and the colour palette is pretty vibrant but the MCU grey is still present throughout sadly. The CG is consistently inconsistent from start to finish.\n\nThe music by Michael Giacchino is fine, there&apos;s one new theme that&apos;s pretty memorable but the lack of Thor&apos;s theme is annoying. The soundtrack is really good, all the songs are classics that fit the tone and style well but some could have been used better.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 389933,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2022-07-07",
+  "keywords": "superhero,superheroine,superhero action,marvel comics,based on comic",
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Chris Hemsworth",
+      "url": "https://www.imdb.com/name/nm1165110/"
+    },
+    {
+      "name": "Natalie Portman",
+      "url": "https://www.imdb.com/name/nm0000204/"
+    },
+    {
+      "name": "Christian Bale",
+      "url": "https://www.imdb.com/name/nm0000288/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Taika Waititi",
+      "url": "https://www.imdb.com/name/nm0169806/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Taika Waititi",
+      "url": "https://www.imdb.com/name/nm0169806/"
+    },
+    {
+      "name": "Jennifer Kaytin Robinson",
+      "url": "https://www.imdb.com/name/nm3066492/"
+    },
+    {
+      "name": "Stan Lee",
+      "url": "https://www.imdb.com/name/nm0498278/"
+    }
+  ]
+}

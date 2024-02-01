@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "Funny Pages",
+  "url": "https://www.imdb.com/tt8174412/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWYzY2IwOGEtM2UxYi00MzFhLThkZTEtOGUzZmUzMjc2NTRmXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+  "description": "A bitingly funny coming-of-age story of a teenage cartoonist who rejects the comforts of his suburban life in a misguided quest for soul.",
+  "review": {
+    "author": "imseeg",
+    "dateCreated": "2022-08-28",
+    "inLanguage": "English",
+    "heading": "Not laugh out loud funny, but kinda amusing. Lacking spark and punch though...",
+    "reviewBody": "A coming of age story about a rebellious teenager who hates his parents for wanting him to go to college and be serious about his studies, when all he wants is draw cartoons and become an artist.\n\nA lot of nerds. A lot of whining parents. And a lot of frustration suffered by teenagers. We have seen it all before. Is it any good?\n\nThe good; I must say that this is an honest movie with true to life characters. It&apos;ll do as a nice coming of age portrait, BUT...\n\nThe bad: this is not a new teenager classic, because it is lacking spark and punch and the actor&apos;s aint particularly great.\n\nNot bad, not great either....",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 3372,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "18",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2022-08-26",
+  "keywords": "teenage boy,nude man,male rear nudity,pork rinds,male nudity",
+  "duration": "PT1H26M",
+  "actor": [
+    {
+      "name": "Daniel Zolghadri",
+      "url": "https://www.imdb.com/name/nm6002170/"
+    },
+    {
+      "name": "Matthew Maher",
+      "url": "https://www.imdb.com/name/nm0536866/"
+    },
+    {
+      "name": "Miles Emanuel",
+      "url": "https://www.imdb.com/name/nm8017505/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Owen Kline",
+      "url": "https://www.imdb.com/name/nm0997240/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Owen Kline",
+      "url": "https://www.imdb.com/name/nm0997240/"
+    }
+  ]
+}

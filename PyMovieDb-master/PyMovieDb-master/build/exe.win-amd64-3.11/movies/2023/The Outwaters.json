@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "The Outwaters",
+  "url": "https://www.imdb.com/tt13259610/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjhkNzVjNDktYzY4Yi00ZjVlLTgxZDMtMmRjODI4NGMwNjZiXkEyXkFqcGdeQXVyMTI1MDUzMzkz._V1_.jpg",
+  "description": "Four travelers encounter menacing phenomena while camping in a remote stretch of the Mojave Desert.",
+  "review": {
+    "author": "aciarleglio-1",
+    "dateCreated": "2023-02-24",
+    "inLanguage": "English",
+    "heading": "I give it 2 for premise and attempt",
+    "reviewBody": "So I don&apos;t understand, was it just the same sequence over and over again? I have no idea. It seemed like it could be really scary but instead it felt like ground hog day of strange sounds and a couple images... did I miss something? Was my stream stuck on repeat or was it actually repeating the same footage over and over for 2 hours. Did anything change? Maybe I didn&apos;t really watch the entire movie, maybe I just think I did? I honestly have no idea what happened other than something with sounds and blood. Someone please explain so I know if I actually watched a movie or am I trapped in my own imaginary nightmare!!!! The only thing I understood was the beginning words on the screen and the end photos. Everything else was... I have no idea.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 2
+    }
+  },
+  "rating": {
+    "ratingCount": 3904,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4
+  },
+  "contentRating": "18",
+  "genre": [
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "datePublished": "2023-05-18",
+  "keywords": "camping,time travel,found footage,male frontal nudity,male full frontal nudity",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Robbie Banfitch",
+      "url": "https://www.imdb.com/name/nm2835366/"
+    },
+    {
+      "name": "Angela Basolis",
+      "url": "https://www.imdb.com/name/nm11971121/"
+    },
+    {
+      "name": "Scott Schamell",
+      "url": "https://www.imdb.com/name/nm11971122/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robbie Banfitch",
+      "url": "https://www.imdb.com/name/nm2835366/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robbie Banfitch",
+      "url": "https://www.imdb.com/name/nm2835366/"
+    }
+  ]
+}

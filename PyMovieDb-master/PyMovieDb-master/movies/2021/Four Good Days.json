@@ -1,0 +1,66 @@
+{
+  "type": "Movie",
+  "name": "Four Good Days",
+  "url": "https://www.imdb.com/tt10344522/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDBhMDJkYjItODFlNi00NjMzLWE3MmQtZmUwNGQzMWE4NjMxXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+  "description": "A mother helps her daughter work through four crucial days of recovery from substance abuse.",
+  "review": {
+    "author": "Gordon-11",
+    "dateCreated": "2021-05-23",
+    "inLanguage": "English",
+    "heading": "Touching and raw",
+    "reviewBody": "This film is really touching. It tells the horrible struggles of both the addict and the family members. The story is raw and real. I think it&apos;s really worth watching.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 11686,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2021-09-06",
+  "keywords": "drug addiction,rehab,mother daughter relationship,doctor&apos;s office,garage",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Mila Kunis",
+      "url": "https://www.imdb.com/name/nm0005109/"
+    },
+    {
+      "name": "Carla Gallo",
+      "url": "https://www.imdb.com/name/nm0303013/"
+    },
+    {
+      "name": "Glenn Close",
+      "url": "https://www.imdb.com/name/nm0000335/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rodrigo García",
+      "url": "https://www.imdb.com/name/nm0006554/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Eli Saslow",
+      "url": "https://www.imdb.com/name/nm10133817/"
+    },
+    {
+      "name": "Rodrigo García",
+      "url": "https://www.imdb.com/name/nm0006554/"
+    },
+    {
+      "name": "Amanda Wendler",
+      "url": "https://www.imdb.com/name/nm12592912/"
+    }
+  ]
+}

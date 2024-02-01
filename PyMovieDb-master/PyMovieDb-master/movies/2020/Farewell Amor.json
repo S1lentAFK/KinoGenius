@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Farewell Amor",
+  "url": "https://www.imdb.com/tt11380884/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzk0YzJhMDAtZGI4MS00ZmVlLWFkZTgtY2YzMDAyNDE0ZGEyXkEyXkFqcGdeQXVyMTE1MzI2NzIz._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "li0904426",
+    "dateCreated": "2022-07-16",
+    "inLanguage": "English",
+    "heading": "Adapt to changes in life",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 1480,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "Unrated",
+  "genre": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "datePublished": "2020-12-18",
+  "keywords": "love,husband wife relationship,father daughter relationship,black american,african american",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Ntare Guma Mbaho Mwine",
+      "url": "https://www.imdb.com/name/nm0616543/"
+    },
+    {
+      "name": "Zainab Jah",
+      "url": "https://www.imdb.com/name/nm1052657/"
+    },
+    {
+      "name": "Jayme Lawson",
+      "url": "https://www.imdb.com/name/nm11123883/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ekwa Msangi",
+      "url": "https://www.imdb.com/name/nm2550343/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ekwa Msangi",
+      "url": "https://www.imdb.com/name/nm2550343/"
+    }
+  ]
+}

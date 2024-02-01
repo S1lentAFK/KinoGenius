@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Chevalier",
+  "url": "https://www.imdb.com/tt12758486/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDU5OTBhNzEtYjllNS00Y2RkLWEzYTgtOTRmMGZhOTYyYmMwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "amca1960",
+    "dateCreated": "2023-08-20",
+    "inLanguage": "English",
+    "heading": "Not bad fun - a bit of a romp through 18th century France",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 6392,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2023-04-06",
+  "keywords": "illegitimate son,man wears a wig,woman wears a wig,joseph bologne chaacter,mother son relationship",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "Kelvin Harrison Jr.",
+      "url": "https://www.imdb.com/name/nm5123156/"
+    },
+    {
+      "name": "Samara Weaving",
+      "url": "https://www.imdb.com/name/nm3034977/"
+    },
+    {
+      "name": "Lucy Boynton",
+      "url": "https://www.imdb.com/name/nm2377903/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Stephen Williams",
+      "url": "https://www.imdb.com/name/nm0931724/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stefani Robinson",
+      "url": "https://www.imdb.com/name/nm8440166/"
+    }
+  ]
+}

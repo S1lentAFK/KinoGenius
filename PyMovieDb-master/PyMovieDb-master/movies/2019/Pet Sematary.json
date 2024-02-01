@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Pet Sematary",
+  "url": "https://www.imdb.com/tt0098084/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjBlNTBhYWQtMzg5Yi00NDA2LWJmMjYtZmM0ODhiYzkwYmY5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "After tragedy strikes, a grieving father discovers an ancient burial ground behind his home with the power to raise the dead.",
+  "review": {
+    "author": "Quinoa1984",
+    "dateCreated": "2005-12-15",
+    "inLanguage": "English",
+    "heading": "one of King&apos;s creepiest, bone-curdling stories amid decent film-making",
+    "reviewBody": "In the trivia section for Pet Sematary, it mentions that George Romero (director of two Stephen King stories, Creepshow and The Dark Half) was set to direct and then pulled out. One wonders what he would&apos;ve brought to the film, as the director Mary Lambert, while not really a bad director, doesn&apos;t really bring that much imagination to this adaptation of King&apos;s novel, of which he wrote the screenplay. There are of course some very effective, grotesquely surreal scenes (mainly involving the sister Zelda, likely more of a creep-out for kids if they see the film), and the casting in some of the roles is dead-perfect. But something feels missing at times, some sort of style that could correspond with the unmistakably King-like atmosphere, which is in this case about as morbid as you&apos;re going to get without incestuous cannibals rising from the graves being thrown in (who knows if he&apos;ll save that for his final novel...) \n\nAs mentioned though, some of the casting is terrific, notably Miko Hughes as Gage Creed, the little boy who goes from being one of the cutest little kids this side of an 80&apos;s horror movie, to being a little monster (I say that as a compliment, of course, especially in scenes brandishing a certain scalpel). And there is also a juicy supporting role for Fred Gwynne of the Munsters, who plays this old, secretive man with the right notes of under-playing and doom in tone. And applause goes to whomever did the make-up on Andrew Hubatsek. But there are some other flaws though in the other casting; Dale Midkiff is good, not great, as the conflicted, disturbed father figure Creed, and his daughter Ellie is played by an actress that just didn&apos;t work for me at all.\n\nIn terms of setting up some chilling set-pieces, only a couple really stand-out: a certain plot-thickening moment (not to spoil, it does involve a cool Ramones song), and the first visit to the pet sematary (the bigger one), including the sort of mystical overtones King had in the Shining. For the most part it&apos;s a very polished directing job, though it could&apos;ve been made even darker to correspond with the script. If thought out in logical terms (albeit in King terms) it is really one of his more effective works of the period. But it doesn&apos;t add up like it could, or should. Still, it makes for a nifty little midnight movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 113499,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "18",
+  "genre": [
+    "Fantasy",
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "1989-11-17",
+  "keywords": "intentionally misspelled title,neighbor,indian burial ground,house fire,woods",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Dale Midkiff",
+      "url": "https://www.imdb.com/name/nm0001535/"
+    },
+    {
+      "name": "Denise Crosby",
+      "url": "https://www.imdb.com/name/nm0000344/"
+    },
+    {
+      "name": "Fred Gwynne",
+      "url": "https://www.imdb.com/name/nm0001304/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mary Lambert",
+      "url": "https://www.imdb.com/name/nm0005116/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stephen King",
+      "url": "https://www.imdb.com/name/nm0000175/"
+    }
+  ]
+}

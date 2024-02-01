@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Prey for the Devil",
+  "url": "https://www.imdb.com/tt9271672/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWVlMDNmN2MtNDZhYi00MzhmLWEyOTAtNjdkYzMxZWE1MjdkXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+  "description": "A nun prepares to perform an exorcism and comes face to face with a demonic force with mysterious ties to her past.",
+  "review": {
+    "author": "UniqueParticle",
+    "dateCreated": "2022-11-17",
+    "inLanguage": "English",
+    "heading": "It&apos;s at least above average",
+    "reviewBody": "I would agree with someone else I was expecting more but it has a few great parts the rest is just ok. Jaqualine Byers and the supernatural are defiantly the best aspects! I&apos;m lucky I have the regal subscription cause I probably wouldn&apos;t have seen otherwise. I&apos;m nice about my reviews I think Pray for the Devil was solid for what it is, has a great story and awesome horror moments! Nice that Virgina Madsen is still going strong in horror she was best in Candyman and Ben Cross passed away in the last couple years I don&apos;t know why there wasn&apos;t a rest in piece for him. Solid for horror fans that&apos;s for sure.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 16819,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2022-10-28",
+  "keywords": "nun,female exorcist,exorcist,demonic possession,girl possessed by a demon",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Jacqueline Byers",
+      "url": "https://www.imdb.com/name/nm1859932/"
+    },
+    {
+      "name": "Debora Zhecheva",
+      "url": "https://www.imdb.com/name/nm10682687/"
+    },
+    {
+      "name": "Christian Navarro",
+      "url": "https://www.imdb.com/name/nm2111303/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Daniel Stamm",
+      "url": "https://www.imdb.com/name/nm0821844/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Zappia",
+      "url": "https://www.imdb.com/name/nm0002526/"
+    },
+    {
+      "name": "Earl Richey Jones",
+      "url": "https://www.imdb.com/name/nm0427993/"
+    },
+    {
+      "name": "Todd R. Jones",
+      "url": "https://www.imdb.com/name/nm5333675/"
+    }
+  ]
+}

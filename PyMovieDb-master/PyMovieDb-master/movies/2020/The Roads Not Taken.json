@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "The Roads Not Taken",
+  "url": "https://www.imdb.com/tt9411866/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2UyM2U3NTctNTRlOS00Yzg5LTgxZTItNmM0MWE4ODEwMjg1XkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_.jpg",
+  "description": "A day in the life of Leo and his daughter, Molly, as he floats through alternate lives he could have lived, leading Molly to wrestle with her own path as she considers her future.",
+  "review": {
+    "author": "Gordon-11",
+    "dateCreated": "2020-04-13",
+    "inLanguage": "English",
+    "heading": "Good performances but confusing story",
+    "reviewBody": "Javier Bardem gives a terrific performance of a dementia patient, and Elle Fanning is really good as a daughter trying super hard to cope. It is a heart wrenching story, but the diversions are just very distracting. The subplot with Selma Hayek is just very confusing, I don&apos;t even know if it is a flashback or an alternate reality in the man&apos;s mind. Then the scenes involving the sea are confusing, and out of place as well. I don&apos;t really understand these parallel subplots.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 2805,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2020-09-11",
+  "keywords": "dementia,father daughter relationship,life,alternate lives",
+  "duration": "PT1H25M",
+  "actor": [
+    {
+      "name": "Javier Bardem",
+      "url": "https://www.imdb.com/name/nm0000849/"
+    },
+    {
+      "name": "Elle Fanning",
+      "url": "https://www.imdb.com/name/nm1102577/"
+    },
+    {
+      "name": "Branka Katic",
+      "url": "https://www.imdb.com/name/nm0441287/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sally Potter",
+      "url": "https://www.imdb.com/name/nm0006845/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sally Potter",
+      "url": "https://www.imdb.com/name/nm0006845/"
+    }
+  ]
+}

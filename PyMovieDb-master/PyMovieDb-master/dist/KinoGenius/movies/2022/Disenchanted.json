@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Disenchanted",
+  "url": "https://www.imdb.com/tt1596342/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDVhYjU1ZjUtNzI3Ni00Mzg5LWJhNGYtMjE3Y2FlZWY2Y2Y2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "elenorw",
+    "dateCreated": "2022-11-21",
+    "inLanguage": "English",
+    "heading": "Boring and disappointing",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 25637,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "9+",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2022-11-18",
+  "keywords": "sequel,second part,disney princess,queen,princess",
+  "duration": "PT1H59M",
+  "actor": [
+    {
+      "name": "Amy Adams",
+      "url": "https://www.imdb.com/name/nm0010736/"
+    },
+    {
+      "name": "Patrick Dempsey",
+      "url": "https://www.imdb.com/name/nm0001131/"
+    },
+    {
+      "name": "Maya Rudolph",
+      "url": "https://www.imdb.com/name/nm0748973/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Adam Shankman",
+      "url": "https://www.imdb.com/name/nm0788202/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brigitte Hales",
+      "url": "https://www.imdb.com/name/nm0355048/"
+    },
+    {
+      "name": "J. David Stem",
+      "url": "https://www.imdb.com/name/nm0826425/"
+    },
+    {
+      "name": "David N. Weiss",
+      "url": "https://www.imdb.com/name/nm0918955/"
+    }
+  ]
+}

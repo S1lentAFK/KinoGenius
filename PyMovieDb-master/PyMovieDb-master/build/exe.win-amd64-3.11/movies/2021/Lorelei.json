@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "Lorelei",
+  "url": "https://www.imdb.com/tt6461318/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWY4ZGM4MWEtOTYxMC00OWE4LTllNWMtYzNjNWIxMTFlYjliXkEyXkFqcGdeQXVyMjg4MDY0MDM@._V1_.jpg",
+  "description": "A working-class fable about a biker, a mermaid and three shades of blue.",
+  "review": {
+    "author": "Maxax777",
+    "dateCreated": "2022-01-22",
+    "inLanguage": "English",
+    "heading": "Very Engaging",
+    "reviewBody": "It&apos;s very engaging - it keeps you entertained - it&apos;s also sweet - it&apos;s a bit different - but that&apos;s good - at it&apos;s core it&apos;s a simple family film - but not so much for the kids though - it&apos;s not that kind of family film!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 2317,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": null,
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2023-12-04",
+  "keywords": "biker,ex convict,boy dresses as a girl,release from prison,ice cream truck",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Jena Malone",
+      "url": "https://www.imdb.com/name/nm0540441/"
+    },
+    {
+      "name": "Pablo Schreiber",
+      "url": "https://www.imdb.com/name/nm1032567/"
+    },
+    {
+      "name": "Ryan Findley",
+      "url": "https://www.imdb.com/name/nm0277547/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sabrina Doyle",
+      "url": "https://www.imdb.com/name/nm1397734/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sabrina Doyle",
+      "url": "https://www.imdb.com/name/nm1397734/"
+    }
+  ]
+}

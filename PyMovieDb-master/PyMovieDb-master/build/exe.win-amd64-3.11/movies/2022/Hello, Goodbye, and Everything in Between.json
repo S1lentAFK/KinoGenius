@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Hello, Goodbye and Everything in Between",
+  "url": "https://www.imdb.com/tt4181158/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjZiNGZlZWQtYjg1Ny00ZjE2LWE5ZjEtYzRjMmQzOWZhMmFmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+  "description": "After making a pact to break up before college, Claire and Aidan retrace the steps of their relationship on one last epic date, revisiting familiar and unexpected places as they question: stay together or say goodbye forever?",
+  "review": {
+    "author": "racheltaylor-78223",
+    "dateCreated": "2022-07-07",
+    "inLanguage": "English",
+    "heading": "Odd pacing",
+    "reviewBody": "The pacing of this movie felt off for me. When the movie started I thought I missed something because the beginning of their relationship was so rushed. It&apos;s hard to root for a relationship we only see in quick clips. This movie was pretty short so spending 10-15 extra minutes establishing the relationship for the audience probably would&apos;ve helped the romance be a lot more believable. I&apos;m not sure if it&apos;s rushed like that in the book too because I haven&apos;t read it but the title is Hello, Goodbye and Everything in Between. The hello is a blip and we are missing a big chunk of that in between part.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 4072,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2022-07-06",
+  "keywords": "love,dramedy,romantic,high school,school",
+  "duration": "PT1H22M",
+  "actor": [
+    {
+      "name": "Jordan Fisher",
+      "url": "https://www.imdb.com/name/nm3332894/"
+    },
+    {
+      "name": "Talia Ryder",
+      "url": "https://www.imdb.com/name/nm7867621/"
+    },
+    {
+      "name": "Ayo Edebiri",
+      "url": "https://www.imdb.com/name/nm8731249/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Lewen",
+      "url": "https://www.imdb.com/name/nm3319021/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Amy Reed",
+      "url": "https://www.imdb.com/name/nm4517196/"
+    },
+    {
+      "name": "Ben York Jones",
+      "url": "https://www.imdb.com/name/nm1726378/"
+    },
+    {
+      "name": "Jennifer E. Smith",
+      "url": "https://www.imdb.com/name/nm5083480/"
+    }
+  ]
+}

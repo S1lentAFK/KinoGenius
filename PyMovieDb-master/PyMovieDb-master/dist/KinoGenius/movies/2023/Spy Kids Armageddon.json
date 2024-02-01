@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Spy Kids: Armageddon",
+  "url": "https://www.imdb.com/tt13978520/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDg2MWFhYTYtZWYxYy00MjlkLWJlMDQtZGFmZmEwOTY5NjZlXkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_.jpg",
+  "description": "The children of the world&apos;s greatest secret agents unwittingly help a powerful game developer unleash a computer virus that gives him control of all technology, leading them to become spies themselves to save their parents and the...",
+  "review": {
+    "author": "TheMysteriousReviewer",
+    "dateCreated": "2023-11-01",
+    "inLanguage": "English",
+    "heading": "An Unnecessary Spy Kids Reboot",
+    "reviewBody": "I&apos;ll give that the movie was slightly better than last time with an enjoyable villain and a pretty cool finale where the family enter the video game, but that won&apos;t be saying much for Spy Kids: Armageddon either. Less cringy comedy is fine, but it can still have a basic story, okay visuals, and weak characters. I know it&apos;s a Spy Kids film, but most of the action is childish. The most the movie would do in order to have action is kids gadgets and play too safe. While watching this movie, I have been thinking of a question for me to ask to Netflix: Is a Spy Kids reboot necessary? I mean, last time we&apos;ve gotten a Spy Kids movie was from 12 years ago, and that came out a disaster. So honestly, rebooting the entire movie franchise can&apos;t make a difference. So I&apos;m just going to say that if you actually enjoy the Spy Kids movies, then I guess I won&apos;t stop you. Other than that, it&apos;s not worth your time. Again, it was slightly better than last time. But in the end, this reboot is unnecessary and should not exist.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 2937,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.3
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2023-09-22",
+  "keywords": "reboot,spy,espionage,agent,child spy",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Connor Esterson",
+      "url": "https://www.imdb.com/name/nm11345133/"
+    },
+    {
+      "name": "Everly Carganilla",
+      "url": "https://www.imdb.com/name/nm9027655/"
+    },
+    {
+      "name": "Zachary Levi",
+      "url": "https://www.imdb.com/name/nm1157048/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Rodriguez",
+      "url": "https://www.imdb.com/name/nm0001675/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Rodriguez",
+      "url": "https://www.imdb.com/name/nm0001675/"
+    },
+    {
+      "name": "Racer Rodriguez",
+      "url": "https://www.imdb.com/name/nm1897406/"
+    }
+  ]
+}

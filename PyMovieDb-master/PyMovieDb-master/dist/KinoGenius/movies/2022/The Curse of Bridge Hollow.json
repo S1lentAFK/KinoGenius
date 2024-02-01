@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Curse of Bridge Hollow",
+  "url": "https://www.imdb.com/tt15289240/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjUzMzMxODYtNjc1OS00NDNiLWIzMzMtNTBhMjE5NDllNzY0XkEyXkFqcGdeQXVyMzE5ODc1OA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "blott2319-1",
+    "dateCreated": "2022-10-27",
+    "inLanguage": "English",
+    "heading": "Nothing special here, just an unfunny mess of familiar tropes",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 11745,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "12",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2022-10-14",
+  "keywords": "halloween,teenager,town,young,father",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Marlon Wayans",
+      "url": "https://www.imdb.com/name/nm0005541/"
+    },
+    {
+      "name": "Priah Ferguson",
+      "url": "https://www.imdb.com/name/nm7394207/"
+    },
+    {
+      "name": "Kelly Rowland",
+      "url": "https://www.imdb.com/name/nm0746714/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeff Wadlow",
+      "url": "https://www.imdb.com/name/nm0905592/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Todd Berger",
+      "url": "https://www.imdb.com/name/nm1787651/"
+    },
+    {
+      "name": "Robert Rugan",
+      "url": "https://www.imdb.com/name/nm1733002/"
+    },
+    {
+      "name": "John R. Morey",
+      "url": "https://www.imdb.com/name/nm0604389/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Maleficent: Mistress of Evil",
+  "url": "https://www.imdb.com/tt4777008/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjJiYTExOTAtNWU0Yi00NzJjLTkwOTgtOTU2NWM1ZjJmYWVhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.",
+  "review": {
+    "author": "sophaljonesy",
+    "dateCreated": "2019-10-21",
+    "inLanguage": "English",
+    "heading": "Fun mix of Game of Thrones and Avatar",
+    "reviewBody": "The first Maleficent was interesting because it provided a new spin to the tale of Sleeping Beauty by making Maleficent the protagonist. In the sequel, the mother-daughter relationship between Angelina Jolie&apos;s Maleficent and Elle Fanning&apos;s Aurora is tested as they end up in opposing sides of the war between faer folk and humans. This CGI-filled spectacle does not sound very interesting but the movie is saved by earnest performances of the cast. Jolie is majestic and menacing as Maleficent. Her nemesis, played my Michelle Pfeiffer is no less regal. They elevate the material, and their face off is almost like a scene from Game of Thrones. In fact, there are many parallels to Game of Thrones. Fanning&apos;s Aurora and The Prince are as clueless and idealistic as Jon Snow. Maleficent is almost like a horned Danaerys. Another parallel is to Avatar. The faery world is almost like the planet in Avatar. Similarly, their resources are exploited by humans. It helps that Ed Skrein is in the movie, and he chews every scene he is in. All in all, there is no complaint on the acting department. However, the pacing is uneven, and some scenes drag too long. The emotional scenes are their but lack impact. But the climactic battle is worth the wait. There are even some deaths. In other words, Maleficent is a fun cross between Game of Thrones and Avatar. Definitely worth your time",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 116598,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2019-10-18",
+  "keywords": "female protagonist,queen,villainess,fairy,kingdom",
+  "duration": "PT1H59M",
+  "actor": [
+    {
+      "name": "Angelina Jolie",
+      "url": "https://www.imdb.com/name/nm0001401/"
+    },
+    {
+      "name": "Elle Fanning",
+      "url": "https://www.imdb.com/name/nm1102577/"
+    },
+    {
+      "name": "Harris Dickinson",
+      "url": "https://www.imdb.com/name/nm6170168/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joachim Rønning",
+      "url": "https://www.imdb.com/name/nm1461392/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Linda Woolverton",
+      "url": "https://www.imdb.com/name/nm0941314/"
+    },
+    {
+      "name": "Noah Harpster",
+      "url": "https://www.imdb.com/name/nm1406764/"
+    },
+    {
+      "name": "Micah Fitzerman-Blue",
+      "url": "https://www.imdb.com/name/nm2873116/"
+    }
+  ]
+}

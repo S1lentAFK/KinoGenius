@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "The Rider",
+  "url": "https://www.imdb.com/tt6217608/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQ3ODM5MjY2N15BMl5BanBnXkFtZTgwOTU5MjM4NDM@._V1_.jpg",
+  "description": "After suffering a near fatal head injury, a young cowboy undertakes a search for new identity and what it means to be a man in the heartland of America.",
+  "review": {
+    "author": "garygwilliams",
+    "dateCreated": "2018-05-13",
+    "inLanguage": "English",
+    "heading": "A truly great movie that brought me to tears",
+    "reviewBody": "I love big budget blockbusters like Black Panther and Infinity Wars but there is a special place in my heart for the little guy with the little film with a little budget that can still bring the story home. I do not usually like sad stories. I firmly believe that movies should first entertain and then teach a lesson just like the best children&apos;s story. This is sometimes painful to watch but you have to root for Brady Blackburn. The shots of the Badlands are spectacular, the emotion heartfelt and the filmmaker&apos;s vision realized.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 20413,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Western"
+  ],
+  "datePublished": "2018-04-13",
+  "keywords": "horseback riding,rodeo cowboy,south dakota,pine ridge south dakota,autism",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Brady Jandreau",
+      "url": "https://www.imdb.com/name/nm8561010/"
+    },
+    {
+      "name": "Mooney",
+      "url": "https://www.imdb.com/name/nm4185714/"
+    },
+    {
+      "name": "Tim Jandreau",
+      "url": "https://www.imdb.com/name/nm8561011/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chloé Zhao",
+      "url": "https://www.imdb.com/name/nm2125482/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Chloé Zhao",
+      "url": "https://www.imdb.com/name/nm2125482/"
+    }
+  ]
+}

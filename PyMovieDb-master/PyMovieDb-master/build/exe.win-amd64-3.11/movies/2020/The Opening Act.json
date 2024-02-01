@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "The Opening Act",
+  "url": "https://www.imdb.com/tt8633748/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDU1MDE4NmItMDFlZS00YTFhLWEwMWUtZmM0NDRmMzZkNDFiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "Will&apos;s true life passion is to become a stand-up comedian. When given the opportunity to emcee a comedy show opening for his hero Billy G., he must decide if he wants to continue the life he has set up, or pursue his dream.",
+  "review": {
+    "author": "khanguru",
+    "dateCreated": "2020-10-16",
+    "inLanguage": "English",
+    "heading": "Not as fun as it should be",
+    "reviewBody": "Seeing the casting, i was expecting this movie to be hilarious, to Laught My Ass Off, but all along the movie i was just smiling and having symphaty (just a little bit) for the main character.... I wouldn&apos;t say it&apos;s a bad movie but it&apos; s not a great one either, it&apos;s just a comedy which is not fun enough to be a good one, and a movie not deep enough to be actually interesting.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 1174,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2020-10-16",
+  "keywords": "steubenville ohio,open mic,reference to panda express,food court,reference to instagram",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Jimmy O. Yang",
+      "url": "https://www.imdb.com/name/nm4497202/"
+    },
+    {
+      "name": "Alex Moffat",
+      "url": "https://www.imdb.com/name/nm5803981/"
+    },
+    {
+      "name": "Cedric The Entertainer",
+      "url": "https://www.imdb.com/name/nm0147825/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steve Byrne",
+      "url": "https://www.imdb.com/name/nm2180091/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steve Byrne",
+      "url": "https://www.imdb.com/name/nm2180091/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Chupa",
+  "url": "https://www.imdb.com/tt14923260/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2I1YWRlMmItZDlmNy00YTM4LThmMDQtM2IwMzE2ZmZjZTllXkEyXkFqcGdeQXVyMTE5OTM1MjU3._V1_.jpg",
+  "description": "While visiting family in Mexico, teenage Alex gains an unlikely companion when he discovers a young chupacabra hiding in his grandpa&apos;s shed. To save the mythical creature, Alex and his cousins must embark on the adventure of a lif...",
+  "review": {
+    "author": "dspmzr",
+    "dateCreated": "2023-04-07",
+    "inLanguage": "English",
+    "heading": "Good movie",
+    "reviewBody": "Very apt message and very well communicated by the director and screenplay. VFX could be better.the film connect with the audience very smoothly and story carry forward in a smooth fashion. Acting of every character and specially child artists are very good and flows with the story.build up of story and ending could be more elaborative but this can not be the fact which can negate it positive points.one should watch it with family and kids to generate a sense of culture, imp of joint family, conservation of endangered animals, compassion towards animals and importance of always attached to our roots.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 6998,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "datePublished": "2023-04-07",
+  "keywords": "young,teenager,young boy,teenage boy,mexico",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Demián Bichir",
+      "url": "https://www.imdb.com/name/nm0065007/"
+    },
+    {
+      "name": "Christian Slater",
+      "url": "https://www.imdb.com/name/nm0000225/"
+    },
+    {
+      "name": "Evan Whitten",
+      "url": "https://www.imdb.com/name/nm9060911/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jonás Cuarón",
+      "url": "https://www.imdb.com/name/nm0190861/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sean Kennedy Moore",
+      "url": "https://www.imdb.com/name/nm4354045/"
+    },
+    {
+      "name": "Joe Barnathan",
+      "url": "https://www.imdb.com/name/nm4353551/"
+    },
+    {
+      "name": "Marcus Rinehart",
+      "url": "https://www.imdb.com/name/nm4353665/"
+    }
+  ]
+}

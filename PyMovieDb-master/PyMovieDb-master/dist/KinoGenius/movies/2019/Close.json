@@ -1,0 +1,62 @@
+{
+  "type": "Movie",
+  "name": "Close",
+  "url": "https://www.imdb.com/tt9660502/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODJjYmE1ZTEtNzU0Yi00NjI3LWFjMmQtZWZkNjk2NTQxOGMwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "jeremykellett-53270",
+    "dateCreated": "2022-08-03",
+    "inLanguage": "English",
+    "heading": "Beautiful and moving story",
+    "reviewBody": "I saw this at the NZIFF, it was a very well presented movie.\n\nThe changes from wide open fields of flowers and freedom for two young boys, to the drabness of a classroom and the sterile colours of an ice hockey rink.\n\nSound design was on point as well.\n\nAll of this was able to show the different worlds the characters inhabit\n\nThe main story hits some real emotional notes, some that hit very close to home for me. It doesn&apos;t pull it&apos;s punches.\n\nThe two lead boys, both are amazing, for boys so young to give such great performances. The adults do really well, especially Remis mother.\n\nThe emotions that the actors could portray, even without saying anything were extraordinary.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 31595,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2023-03-03",
+  "keywords": "coming of age,homophobia,friendship,death,guilt",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Eden Dambrine",
+      "url": "https://www.imdb.com/name/nm13465094/"
+    },
+    {
+      "name": "Gustav De Waele",
+      "url": "https://www.imdb.com/name/nm13575723/"
+    },
+    {
+      "name": "Émilie Dequenne",
+      "url": "https://www.imdb.com/name/nm0220183/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lukas Dhont",
+      "url": "https://www.imdb.com/name/nm4080113/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lukas Dhont",
+      "url": "https://www.imdb.com/name/nm4080113/"
+    },
+    {
+      "name": "Angelo Tijssens",
+      "url": "https://www.imdb.com/name/nm3899543/"
+    }
+  ]
+}

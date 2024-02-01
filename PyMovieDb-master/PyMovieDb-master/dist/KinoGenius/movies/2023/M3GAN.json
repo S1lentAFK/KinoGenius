@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "M3GAN",
+  "url": "https://www.imdb.com/tt8760708/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDk4MTdhYzEtODk3OS00ZDBjLWFhNTQtMDI2ODdjNzQzZTA3XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg",
+  "description": "A robotics engineer at a toy company builds a life-like doll that begins to take on a life of its own.",
+  "review": {
+    "author": "Sleepin_Dragon",
+    "dateCreated": "2023-01-16",
+    "inLanguage": "English",
+    "heading": "It&apos;s a decent film, if somewhat tame.",
+    "reviewBody": "Young Cady is given M3GAN, an AI doll, that&apos;s very protective.\n\nFirst off, I felt very old in the cinema, aged 40, where most of the viewers seemed to be teenagers, and I think they&apos;re perhaps the target audience.\n\nDefinitely not without appeal, it&apos;s an interesting, if unoriginal plot, Child&apos;s play vibes, and there are a few jumps here and there. M3GAN does have some intriguing moments, but sadly never flips into horror mode, which I felt the trailers pointed to.\n\nThe major plus, the visuals, it looks very good indeed, it&apos;s nicely shot and well produced, M3GAN&apos;s realisation is great, the film peaks towards the end, and the scenes in the forest in particular look very good, and offer the film&apos;s most unsettling moments.\n\nOn the debit side, it&apos;s hard to believe in the actions of some of the characters, a few times, I sat there wanting to shout out &apos;REALLY,&apos; is that actually what they&apos;re going to do, but worse, the film was a little too slow in parts.\n\nI expected it to be somewhat gruesome, it really wasn&apos;t, when I came home from the cinema, I read that it had been cut to fit with a younger audience, I can see that.\n\n6/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 136111,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "datePublished": "2023-01-13",
+  "keywords": "artificial intelligence,orphaned girl,robot sci fi,aunt niece relationship,death of parents",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Allison Williams",
+      "url": "https://www.imdb.com/name/nm4129745/"
+    },
+    {
+      "name": "Violet McGraw",
+      "url": "https://www.imdb.com/name/nm8627157/"
+    },
+    {
+      "name": "Ronny Chieng",
+      "url": "https://www.imdb.com/name/nm5307044/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gerard Johnstone",
+      "url": "https://www.imdb.com/name/nm2067421/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Akela Cooper",
+      "url": "https://www.imdb.com/name/nm4868455/"
+    },
+    {
+      "name": "James Wan",
+      "url": "https://www.imdb.com/name/nm1490123/"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "The Addams Family",
+  "url": "https://www.imdb.com/tt0101272/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmJhZTlhNzUtNzAwZC00YjQ2LTkxOGEtNzBmOWVkMmUxNTBiXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+  "description": "Con artists plan to fleece an eccentric family using an accomplice who claims to be their long-lost uncle.",
+  "review": {
+    "author": "Op_Prime",
+    "dateCreated": "2000-01-09",
+    "inLanguage": "English",
+    "heading": "Snap, snap",
+    "reviewBody": "A good, nay great, movie version to the classic 60s series. Raul Julia is great as Gomez, as is Christopher Lloyd as Fester. The story is sound, pretty much better than the sequel. This is a comedy with slightly dark themes, but that doesn&apos;t mean the family can not enjoy it. Barry Sonnenfeld is a genius.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 177561,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "datePublished": "1991-12-13",
+  "keywords": "uncle,graveyard,goth,husband wife relationship,cult film",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Anjelica Huston",
+      "url": "https://www.imdb.com/name/nm0001378/"
+    },
+    {
+      "name": "Raul Julia",
+      "url": "https://www.imdb.com/name/nm0000471/"
+    },
+    {
+      "name": "Christopher Lloyd",
+      "url": "https://www.imdb.com/name/nm0000502/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Barry Sonnenfeld",
+      "url": "https://www.imdb.com/name/nm0001756/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Charles Addams",
+      "url": "https://www.imdb.com/name/nm0011623/"
+    },
+    {
+      "name": "Caroline Thompson",
+      "url": "https://www.imdb.com/name/nm0003031/"
+    },
+    {
+      "name": "Larry Wilson",
+      "url": "https://www.imdb.com/name/nm0933733/"
+    }
+  ]
+}

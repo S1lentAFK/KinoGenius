@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Detective Knight: Redemption",
+  "url": "https://www.imdb.com/tt22394694/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDRlMGYzNjQtOWJjYy00NjU4LThlMDMtYmY2ZDg0YTAzOGVhXkEyXkFqcGdeQXVyNzUwMDA5NDE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "paul_haakonsen",
+    "dateCreated": "2023-01-22",
+    "inLanguage": "English",
+    "heading": "A fair enough action thriller...",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 1563,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Mystery"
+  ],
+  "datePublished": "2022-12-09",
+  "keywords": "christmas,f word,molotov cocktail,bank robbery,reference to mr. rogers",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Bruce Willis",
+      "url": "https://www.imdb.com/name/nm0000246/"
+    },
+    {
+      "name": "Lochlyn Munro",
+      "url": "https://www.imdb.com/name/nm0613147/"
+    },
+    {
+      "name": "Miranda Edwards",
+      "url": "https://www.imdb.com/name/nm1596999/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Edward Drake",
+      "url": "https://www.imdb.com/name/nm4864836/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Edward Drake",
+      "url": "https://www.imdb.com/name/nm4864836/"
+    },
+    {
+      "name": "Corey Large",
+      "url": "https://www.imdb.com/name/nm1143429/"
+    }
+  ]
+}

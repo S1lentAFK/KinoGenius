@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Lady Chatterley&apos;s Lover",
+  "url": "https://www.imdb.com/tt14369780/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGQwYjY1YWUtN2FjMS00MzYxLWEyNDYtYzdlZWJhZTI5M2NhXkEyXkFqcGdeQXVyMTQ4NjQyMzE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "erostew",
+    "dateCreated": "2022-12-07",
+    "inLanguage": "English",
+    "heading": "Does Not Exceed Low Expectations",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 21927,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2022-12-02",
+  "keywords": "dancing naked in the rain,female full frontal nudity,adultery,extramarital affair,sexual awakening",
+  "duration": "PT2H6M",
+  "actor": [
+    {
+      "name": "Emma Corrin",
+      "url": "https://www.imdb.com/name/nm10128408/"
+    },
+    {
+      "name": "Jack O&apos;Connell",
+      "url": "https://www.imdb.com/name/nm1925239/"
+    },
+    {
+      "name": "Matthew Duckett",
+      "url": "https://www.imdb.com/name/nm9714167/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Laure de Clermont-Tonnerre",
+      "url": "https://www.imdb.com/name/nm0166438/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Magee",
+      "url": "https://www.imdb.com/name/nm1341735/"
+    },
+    {
+      "name": "D.H. Lawrence",
+      "url": "https://www.imdb.com/name/nm0492692/"
+    }
+  ]
+}

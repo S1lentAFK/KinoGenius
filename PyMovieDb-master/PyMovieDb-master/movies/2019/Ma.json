@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Ma",
+  "url": "https://www.imdb.com/tt7958736/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA2MjA3ODU0NjBeQTJeQWpwZ15BbWU4MDE3NTQxNDcz._V1_.jpg",
+  "description": "A lonely woman befriends a group of teenagers and decides to let them party at her house. Just when the kids think their luck couldn&apos;t get any better, things start happening that make them question the intention of their host.",
+  "review": {
+    "author": "donttouchmeprimate",
+    "dateCreated": "2019-09-03",
+    "inLanguage": "English",
+    "heading": "Everybody was kung-fu farting",
+    "reviewBody": "I think I&apos;m becoming a right old grumpy man, because I&apos;m pretty sure I hate teenagers now.\n\nThe film itself was written very well and the cast were all good, but there just wasn&apos;t quite enough suspense. It isn&apos;t a bad movie by any means, it just had the budget, cast and crew to be better.\n\nThe story is a slow burn and when it actually gets down to its &apos;nitty gritty&apos;, things become interesting, even if it is predictable and there are those expected moments where all logic and reason goes out of the window so that the story can progress.\n\n Sorry MA, but I think it&apos;s time to put you in a home.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 58993,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2019-05-31",
+  "keywords": "revenge,lonely woman,underage drinking,trauma,flashback",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Octavia Spencer",
+      "url": "https://www.imdb.com/name/nm0818055/"
+    },
+    {
+      "name": "Diana Silvers",
+      "url": "https://www.imdb.com/name/nm9537602/"
+    },
+    {
+      "name": "Juliette Lewis",
+      "url": "https://www.imdb.com/name/nm0000496/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tate Taylor",
+      "url": "https://www.imdb.com/name/nm0853238/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Scotty Landes",
+      "url": "https://www.imdb.com/name/nm3398282/"
+    }
+  ]
+}

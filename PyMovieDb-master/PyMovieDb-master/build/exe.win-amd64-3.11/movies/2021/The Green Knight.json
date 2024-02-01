@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Green Knight",
+  "url": "https://www.imdb.com/tt9243804/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNTdiNWMtOWY0My00MjM4LTkwNzMtOGI0YThhN2Q4M2I4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "A fantasy retelling of the medieval story of Sir Gawain and the Green Knight.",
+  "review": {
+    "author": "ctb4143",
+    "dateCreated": "2021-08-01",
+    "inLanguage": "English",
+    "heading": "Not for everyone",
+    "reviewBody": "I could see how this movie could put some to sleep or how other people could say it&apos;s not faithful to its source material, but this is genuinely one of the most intriguing movies I have ever seen, and if you have enjoyed the past styles of a24 you will definitely enjoy this movie, as it has its high moments. Most of the negativity I see stems from people going into this movie expecting an epic tale of Game of Thrones proportions. This is not the case, and anyone who knows a24 should really have known better. This movie is enjoyable and a sight to see, so giving it your time could change your perspective.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 113744,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "datePublished": "2021-09-24",
+  "keywords": "medieval knight,sir gawain character,gay kiss,myth,middle ages",
+  "duration": "PT2H10M",
+  "actor": [
+    {
+      "name": "Dev Patel",
+      "url": "https://www.imdb.com/name/nm2353862/"
+    },
+    {
+      "name": "Alicia Vikander",
+      "url": "https://www.imdb.com/name/nm2539953/"
+    },
+    {
+      "name": "Joel Edgerton",
+      "url": "https://www.imdb.com/name/nm0249291/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Lowery",
+      "url": "https://www.imdb.com/name/nm1108007/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Lowery",
+      "url": "https://www.imdb.com/name/nm1108007/"
+    },
+    {
+      "name": "The Gawain Poet",
+      "url": "https://www.imdb.com/name/nm13211290/"
+    }
+  ]
+}

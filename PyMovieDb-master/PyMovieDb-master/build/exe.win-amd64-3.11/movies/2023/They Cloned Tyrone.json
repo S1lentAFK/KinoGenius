@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "They Cloned Tyrone",
+  "url": "https://www.imdb.com/tt9873892/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGM2YTRhOTgtOGU0My00NGIxLTgxMjEtY2U1YzZiZWQ3OGI5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+  "description": "A series of eerie events thrusts an unlikely trio onto the trail of a nefarious government conspiracy in this pulpy mystery caper.",
+  "review": {
+    "author": "arungeorge13",
+    "dateCreated": "2023-07-21",
+    "inLanguage": "English",
+    "heading": "Good on Netflix to have picked this one! [+68%]",
+    "reviewBody": "This Blaxploitation sci-fi comedy is clearly among the more fun, inventive films that Netflix has decided to pick up. The grainy visual texture, the funky costumes and hairdos, the energetic soundtrack, and much of the film&apos;s aesthetics are carefully designed to remind us of some of the finest entries in the Blaxploitation subgenre. The setting could be somewhere in or around 2008, as we still see picture-tube TVs, CDs being sold, mentions of Obama, and Blockchain being the future (LOL!). The absence of smartphones is also a notable aspect. Yet, even with the aesthetics already standing out and a pretty exciting (and potentially scary) sci-fi plot on the cards, it&apos;s the lead trio&apos;s performances and fun camaraderie that holds it together.\n\nThe revelations keep coming, but it&apos;s the banter between Boyega&apos;s Fontaine, Teyonah Parris&apos; Yo-Yo, and Jamie Foxx&apos;s Slick Charles that keeps you entertained and invested in their fates. After the first hour, there were moments in the screenplay where it could&apos;ve all looked and sounded artificial. However, director Juel Taylor keeps the conspiracy theories coming, complemented by wonderful production design work and sustained focus on the protagonist&apos;s journey. The finale (++the eventual antagonist reveal) is somewhat tepid when compared to the rest of the film, and it may also seem 10-15 minutes too long for the story it has to say, though I&apos;ll definitely recommend They Cloned Tyrone if you&apos;re an enjoyer of absurdist humour.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 36876,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "datePublished": "2023-07-21",
+  "keywords": "blaxploitation,dark comedy,conspiracy,investigate,satirical comedy",
+  "duration": "PT2H2M",
+  "actor": [
+    {
+      "name": "John Boyega",
+      "url": "https://www.imdb.com/name/nm3915784/"
+    },
+    {
+      "name": "Jamie Foxx",
+      "url": "https://www.imdb.com/name/nm0004937/"
+    },
+    {
+      "name": "Teyonah Parris",
+      "url": "https://www.imdb.com/name/nm3500582/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Juel Taylor",
+      "url": "https://www.imdb.com/name/nm3541432/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tony Rettenmaier",
+      "url": "https://www.imdb.com/name/nm4905101/"
+    },
+    {
+      "name": "Juel Taylor",
+      "url": "https://www.imdb.com/name/nm3541432/"
+    }
+  ]
+}

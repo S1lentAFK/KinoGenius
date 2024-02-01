@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Perfect Find",
+  "url": "https://www.imdb.com/tt8400584/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDFiNjQ0NWMtZjgwZC00MjRlLThlMjAtMDg4YWIzY2QzNmMxXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg",
+  "description": "After a high-profile firing, Jenna&apos;s fashion career comeback hits a snag when she falls for a charming, much younger coworker - who happens to be her boss&apos;s son. As sparks fly, Jenna must decide if she&apos;ll risk it all on a secret r...",
+  "review": {
+    "author": "chelseaniccum",
+    "dateCreated": "2023-06-25",
+    "inLanguage": "English",
+    "heading": "Cute",
+    "reviewBody": "This movie is a cute rom-com. It is based on a book that I really enjoyed. It feels like a Hallmark movie and is a little cheesy, but overall still enjoyable. The soundtrack and fashion in it were both great. It is a nice feel-good movie. This movie had a couple of big name stars, but it didn&apos;t feel as well done as it could have been. This sometimes happens with romantic comedies or movies based on books. It was an enjoyable movie, but it just was not great. I don&apos;t think I would probably watch it again, but I did not regret watching it once. I remembered the story from the book and felt they could&apos;ve done more with it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 2914,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2023-06-23",
+  "keywords": "love,parent,frenemy,son,fashion",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Gabrielle Union",
+      "url": "https://www.imdb.com/name/nm0005517/"
+    },
+    {
+      "name": "Keith Powers",
+      "url": "https://www.imdb.com/name/nm5469428/"
+    },
+    {
+      "name": "Gina Torres",
+      "url": "https://www.imdb.com/name/nm0868659/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Numa Perrier",
+      "url": "https://www.imdb.com/name/nm0667015/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tia Williams",
+      "url": "https://www.imdb.com/name/nm3109300/"
+    },
+    {
+      "name": "Leigh Davenport",
+      "url": "https://www.imdb.com/name/nm2372991/"
+    }
+  ]
+}

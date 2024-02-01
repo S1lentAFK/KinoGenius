@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "Boogie Nights",
+  "url": "https://www.imdb.com/tt0118749/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2E2YWYxY2QtZmJmZi00MjJlLWFiYWItZTk5Y2IyMWQ1ZThhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "mooveephantom",
+    "dateCreated": "2022-01-10",
+    "inLanguage": "English",
+    "heading": "Works so well because of the comedy",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 279131,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  },
+  "contentRating": "18",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "1998-01-16",
+  "keywords": "porn industry,1970s,adult entertainment industry,pornography,nightclub",
+  "duration": "PT2H35M",
+  "actor": [
+    {
+      "name": "Mark Wahlberg",
+      "url": "https://www.imdb.com/name/nm0000242/"
+    },
+    {
+      "name": "Julianne Moore",
+      "url": "https://www.imdb.com/name/nm0000194/"
+    },
+    {
+      "name": "Burt Reynolds",
+      "url": "https://www.imdb.com/name/nm0000608/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Paul Thomas Anderson",
+      "url": "https://www.imdb.com/name/nm0000759/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Paul Thomas Anderson",
+      "url": "https://www.imdb.com/name/nm0000759/"
+    }
+  ]
+}

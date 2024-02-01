@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "The Murder of Nicole Brown Simpson",
+  "url": "https://www.imdb.com/tt8415352/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWNhODlhOGItZDQ1OC00NjgyLWE0ZjItZjQ3OWUyYmMwYjU1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "Inspired by true events, the film follows OJ Simpson&apos;s ex-wife Nicole Brown Simpson in the last days before her tragic death on June 12th 1994, as seen from her point of view.",
+  "review": {
+    "author": "ghgaskins",
+    "dateCreated": "2020-05-12",
+    "inLanguage": "English",
+    "heading": "Can it be that bad?",
+    "reviewBody": "Yes. It&apos;s that bad. Mena Suvari is the Exec Producer for this movie and I wonder where she received funding. This movie is not even worthy of a Lifetime showing. Terrible story, Terrible script, Terrible acting, and Terrible decision of mine to watch. I should have known better. Mena hasn&apos;t been in a good movie since American Beauty and it&apos;s amazing she&apos;s still around.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 1868,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 2.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2019-12-09",
+  "keywords": "o.j. simpson character,bare chested male,male nudity,male rear nudity,murder",
+  "duration": "PT1H22M",
+  "actor": [
+    {
+      "name": "Mena Suvari",
+      "url": "https://www.imdb.com/name/nm0002546/"
+    },
+    {
+      "name": "Nick Stahl",
+      "url": "https://www.imdb.com/name/nm0001763/"
+    },
+    {
+      "name": "Taryn Manning",
+      "url": "https://www.imdb.com/name/nm0543383/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Daniel Farrands",
+      "url": "https://www.imdb.com/name/nm0268107/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Arter",
+      "url": "https://www.imdb.com/name/nm5589174/"
+    }
+  ]
+}

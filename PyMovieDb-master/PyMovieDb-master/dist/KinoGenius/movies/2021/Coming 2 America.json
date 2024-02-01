@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "Coming 2 America",
+  "url": "https://www.imdb.com/tt6802400/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTMyY2Q2MDctMDFlMS00MWEzLTk1NmEtNDcxNzg1ZGJlNGU5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+  "description": "The African monarch Akeem learns he has a long-lost son in the United States and must return to America to meet this unexpected heir and build a relationship with his son.",
+  "review": {
+    "author": "kmckienz",
+    "dateCreated": "2021-03-05",
+    "inLanguage": "English",
+    "heading": "They tried.",
+    "reviewBody": "I appreciate the plethora of cast that returned for the sequel, but the humor fell flat for me. It was predictable and failed trying to recreate the humor of the first movie. The CGI left a lot to be desired as well.\n\nI hated giving this low of a rating, but it is what it is. Perhaps others will like it more.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 74501,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Music"
+  ],
+  "datePublished": "2021-03-05",
+  "keywords": "sequel,royalty,african american,female rapist,female on male rape",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Eddie Murphy",
+      "url": "https://www.imdb.com/name/nm0000552/"
+    },
+    {
+      "name": "Arsenio Hall",
+      "url": "https://www.imdb.com/name/nm0002119/"
+    },
+    {
+      "name": "Shari Headley",
+      "url": "https://www.imdb.com/name/nm0372191/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Craig Brewer",
+      "url": "https://www.imdb.com/name/nm0108132/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Eddie Murphy",
+      "url": "https://www.imdb.com/name/nm0000552/"
+    },
+    {
+      "name": "Barry W. Blaustein",
+      "url": "https://www.imdb.com/name/nm0087904/"
+    },
+    {
+      "name": "David Sheffield",
+      "url": "https://www.imdb.com/name/nm0790775/"
+    }
+  ]
+}

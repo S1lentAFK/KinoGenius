@@ -1,0 +1,66 @@
+{
+  "type": "Movie",
+  "name": "Mal de ojo",
+  "url": "https://www.imdb.com/tt15847880/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWJmYWYyODYtMjMzMy00ZGRhLWEwZmEtZjM2YjQ4MjRiMmFlXkEyXkFqcGdeQXVyMTIwMTM5MDM0._V1_.jpg",
+  "description": "Nala, a 13-year-old girl from the city, travels with her family to her grandmother&apos;s home in the countryside, to try to find a cure for her little sister&apos;s mysterious illness - But she&apos;ll soon find her granny is not exactly what s...",
+  "review": {
+    "author": "phildeesnow",
+    "dateCreated": "2023-01-28",
+    "inLanguage": "English",
+    "heading": "Crappy telenovela.",
+    "reviewBody": "This was bad, so bad i couldn&apos;t get through it. The acting is so bad that make the characters so incredibly hateful that you just hope for something horrible to happen immediately. Unfortunately that&apos;s not the case and the movie starts to drag from the beginning. The aestetic, the direction and filmography is not better than any Telemundo telenovela. The script seems to be written by a pretentious 12 years old brat.\n\nI don&apos;t get the other reviews talking about folk... even if the plot called for it, the only thing here was the name of the movie.\n\nMy advice, after flushing your toilet watch the crap go, and it&apos;s going to be more satisfying than this.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 1406,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": null,
+  "genre": [
+    "Horror"
+  ],
+  "datePublished": "2022-09-22",
+  "keywords": "witch,witchcraft,folk horror,homunculus,mexican horror",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Ofelia Medina",
+      "url": "https://www.imdb.com/name/nm0575754/"
+    },
+    {
+      "name": "Paola Miguel",
+      "url": "https://www.imdb.com/name/nm10181568/"
+    },
+    {
+      "name": "Samantha Castillo",
+      "url": "https://www.imdb.com/name/nm5812395/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Isaac Ezban",
+      "url": "https://www.imdb.com/name/nm3533685/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Junior Rosario",
+      "url": "https://www.imdb.com/name/nm11134039/"
+    },
+    {
+      "name": "Edgar San Juan",
+      "url": "https://www.imdb.com/name/nm1450238/"
+    },
+    {
+      "name": "Isaac Ezban",
+      "url": "https://www.imdb.com/name/nm3533685/"
+    }
+  ]
+}

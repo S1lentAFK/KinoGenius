@@ -1,0 +1,66 @@
+{
+  "type": "Movie",
+  "name": "American Pie Presents: Girls&apos; Rules",
+  "url": "https://www.imdb.com/tt11771594/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTdlMzdmNDAtYTIyNi00ZWZiLWE3ZDYtOTg2YzE3NDRkNTYwXkEyXkFqcGdeQXVyODQ4NjA3Mw@@._V1_.jpg",
+  "description": "It&apos;s Senior year at East Great Falls. Annie, Kayla, Michelle, and Stephanie decide to harness their girl power and band together to get what they want their last year of high school.",
+  "review": {
+    "author": "Christos_Roukos",
+    "dateCreated": "2020-10-06",
+    "inLanguage": "English",
+    "heading": "Absolute disaster!!!",
+    "reviewBody": "The perfect way to destroy the American Pie saga is this movie. Do yourself a favor and never watch it. I will try really hard to forget that i watch it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 10399,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2020-10-06",
+  "keywords": "high school,campfire,pie,teenage party,champagne",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Madison Pettis",
+      "url": "https://www.imdb.com/name/nm2202521/"
+    },
+    {
+      "name": "Lizze Broadway",
+      "url": "https://www.imdb.com/name/nm3835303/"
+    },
+    {
+      "name": "Natasha Behnam",
+      "url": "https://www.imdb.com/name/nm4834434/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mike Elliott",
+      "url": "https://www.imdb.com/name/nm0254291/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Adam Herz",
+      "url": "https://www.imdb.com/name/nm0381221/"
+    },
+    {
+      "name": "Blayne Weaver",
+      "url": "https://www.imdb.com/name/nm0915814/"
+    },
+    {
+      "name": "David H. Steinberg",
+      "url": "https://www.imdb.com/name/nm0825738/"
+    }
+  ]
+}

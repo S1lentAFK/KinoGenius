@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Moxie",
+  "url": "https://www.imdb.com/tt6432466/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjkwYzY2OTgtYjNiZi00YmNiLTk5YTQtZTQyZjM1YzA1ZmMwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+  "description": "Inspired by her mom&apos;s rebellious past and a confident new friend, a shy 16-year-old publishes an anonymous zine calling out sexism at her school.",
+  "review": {
+    "author": "ilovecake-60690",
+    "dateCreated": "2021-03-04",
+    "inLanguage": "English",
+    "heading": "Intersectional Feminism for a Young Audience",
+    "reviewBody": "Well acted, well directed, and was able to show true intersectional feminism in the many complicating forms that it deserves.\n\nThe soundtrack is killer and it covers so many topics at the surface level that may excite the audience to dig in deeper with some of these topics. Definitely a movie for now, and if you&apos;re interested in watching a movie that tackles these issues in a well produced, highly entertaining, and informative then I would highly recommend this one.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 28242,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2021-03-03",
+  "keywords": "overalls,teen drama,teen comedy,timeframe 2020s,timeframe 21st century",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Hadley Robinson",
+      "url": "https://www.imdb.com/name/nm6044874/"
+    },
+    {
+      "name": "Lauren Tsai",
+      "url": "https://www.imdb.com/name/nm8816423/"
+    },
+    {
+      "name": "Alycia Pascual-Pena",
+      "url": "https://www.imdb.com/name/nm4875229/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Amy Poehler",
+      "url": "https://www.imdb.com/name/nm0688132/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jennifer Mathieu",
+      "url": "https://www.imdb.com/name/nm8714831/"
+    },
+    {
+      "name": "Tamara Chestna",
+      "url": "https://www.imdb.com/name/nm2309894/"
+    },
+    {
+      "name": "Dylan Meyer",
+      "url": "https://www.imdb.com/name/nm3231710/"
+    }
+  ]
+}

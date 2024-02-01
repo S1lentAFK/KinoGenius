@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "The Beach Bum",
+  "url": "https://www.imdb.com/tt6511932/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY3MDUzMTAzOV5BMl5BanBnXkFtZTgwNDk3ODQyNzM@._V1_.jpg",
+  "description": "A rebellious stoner named Moondog lives life by his own rules.",
+  "review": {
+    "author": "wise_turtle",
+    "dateCreated": "2019-06-13",
+    "inLanguage": "English",
+    "heading": "Wasted potential",
+    "reviewBody": "McConaughey does his hazy best but I think these guys were so wasted they forgot they were making a movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 24470,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "18",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2019-10-25",
+  "keywords": "cunnilingus,beach bum,cigar smoking,topless sunbathing,beer",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Matthew McConaughey",
+      "url": "https://www.imdb.com/name/nm0000190/"
+    },
+    {
+      "name": "Snoop Dogg",
+      "url": "https://www.imdb.com/name/nm0004879/"
+    },
+    {
+      "name": "Isla Fisher",
+      "url": "https://www.imdb.com/name/nm0279545/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Harmony Korine",
+      "url": "https://www.imdb.com/name/nm0005101/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Harmony Korine",
+      "url": "https://www.imdb.com/name/nm0005101/"
+    }
+  ]
+}

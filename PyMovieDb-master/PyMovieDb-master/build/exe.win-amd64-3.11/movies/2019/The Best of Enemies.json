@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Best of Enemies",
+  "url": "https://www.imdb.com/tt4807408/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQ5MjA2NDkyM15BMl5BanBnXkFtZTgwNTIwNjUzNzM@._V1_.jpg",
+  "description": "Civil rights activist Ann Atwater faces off against C.P. Ellis, Exalted Cyclops of the Ku Klux Klan, in 1971 Durham, North Carolina over the issue of school integration.",
+  "review": {
+    "author": "veerle-33192",
+    "dateCreated": "2021-04-29",
+    "inLanguage": "English",
+    "heading": "Uplifting",
+    "reviewBody": "I was expecting something like hidden figures or the help. But it wasn&apos;t. Maybe because the story isn&apos;t told but showed. I disagree with previous reviews who say that the class struggle of Ellis or his struggle with the clan&apos;s hypocrisy is ignored. It isn&apos;t talked about but the outstanding performance of Rockwell doesn&apos;t need talk, with one look he says more than with a Shakespeare monologue. The setting created by Bissel speaks for itself too. Beautifull story that left me in tears of joy.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 18986,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "12",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2019-04-05",
+  "keywords": "ku klux klan,durham north carolina,activism,civil rights,race relations",
+  "duration": "PT2H13M",
+  "actor": [
+    {
+      "name": "Taraji P. Henson",
+      "url": "https://www.imdb.com/name/nm0378245/"
+    },
+    {
+      "name": "Sam Rockwell",
+      "url": "https://www.imdb.com/name/nm0005377/"
+    },
+    {
+      "name": "Babou Ceesay",
+      "url": "https://www.imdb.com/name/nm1959501/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robin Bissell",
+      "url": "https://www.imdb.com/name/nm0084312/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robin Bissell",
+      "url": "https://www.imdb.com/name/nm0084312/"
+    },
+    {
+      "name": "Osha Gray Davidson",
+      "url": "https://www.imdb.com/name/nm0203448/"
+    }
+  ]
+}

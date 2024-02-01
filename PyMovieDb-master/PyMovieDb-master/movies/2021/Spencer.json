@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Spencer",
+  "url": "https://www.imdb.com/tt12536294/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTdkZDc4YmQtYzA3My00NzliLThjN2YtMDIwMDkxY2Y4ODdmXkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_.jpg",
+  "description": "Diana Spencer, struggling with mental-health problems during her Christmas holidays with the Royal Family at their Sandringham estate in Norfolk, England, decides to end her decade-long marriage to Prince Charles.",
+  "review": {
+    "author": "TxMike",
+    "dateCreated": "2022-02-01",
+    "inLanguage": "English",
+    "heading": "Diana Spencer, a struggle for survival within the Royal Family.",
+    "reviewBody": "This is not a traditional biopic, far from it. In fact it all takes place over a three day period during the 1991 version of the annual Royal Family&apos;s Christmas at Sandringham Estate. About 10 years after Charles and Diana were married and about six years before Diana would die in the car crash in Paris. It is more of a fictionalized dramatization of what it must have been like for Diana, a caged animal yearning to be free, but confined to the customs and rules of the Royal Family.\n\nThere is a conversation in the middle of the movie, Charles explaining to Diana, each member of the Royal Family is two people, the one that reporters and photographers see and the real one. But Diana was unable to fit that mold.\n\nFine portrayals by all involved, my wife and I enjoyed it at home on DVD from our public library.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 75416,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama"
+  ],
+  "datePublished": "2021-11-05",
+  "keywords": "christmas,princess,1990s,house,singing along to music on a car radio",
+  "duration": "PT1H57M",
+  "actor": [
+    {
+      "name": "Kristen Stewart",
+      "url": "https://www.imdb.com/name/nm0829576/"
+    },
+    {
+      "name": "Timothy Spall",
+      "url": "https://www.imdb.com/name/nm0001758/"
+    },
+    {
+      "name": "Sally Hawkins",
+      "url": "https://www.imdb.com/name/nm1020089/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Pablo Larraín",
+      "url": "https://www.imdb.com/name/nm1883257/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steven Knight",
+      "url": "https://www.imdb.com/name/nm1140275/"
+    }
+  ]
+}

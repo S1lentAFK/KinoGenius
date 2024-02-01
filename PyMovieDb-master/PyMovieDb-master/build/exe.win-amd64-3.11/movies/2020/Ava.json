@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Ava",
+  "url": "https://www.imdb.com/tt8784956/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMzMTg1MjgtOWNhYy00NmZmLWExOTctMjA2OTZhZDFkNDhhXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "wmwheeler8",
+    "dateCreated": "2021-04-13",
+    "inLanguage": "English",
+    "heading": "Worth a watch but don&apos;t expect cinema gold",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 61524,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2020-08-27",
+  "keywords": "murder,one woman army,tough girl,assassin,female assassin",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Jessica Chastain",
+      "url": "https://www.imdb.com/name/nm1567113/"
+    },
+    {
+      "name": "John Malkovich",
+      "url": "https://www.imdb.com/name/nm0000518/"
+    },
+    {
+      "name": "Common",
+      "url": "https://www.imdb.com/name/nm0996669/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tate Taylor",
+      "url": "https://www.imdb.com/name/nm0853238/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Matthew Newton",
+      "url": "https://www.imdb.com/name/nm0628563/"
+    }
+  ]
+}

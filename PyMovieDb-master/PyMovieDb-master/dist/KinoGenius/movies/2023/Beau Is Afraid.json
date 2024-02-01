@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Beau Is Afraid",
+  "url": "https://www.imdb.com/tt13521006/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzhkNDk1MDQtNmE4ZS00OTkxLWJmNzYtOTBhZTk3M2MzMTRjXkEyXkFqcGdeQXVyNjkwOTQ4MDE@._V1_.jpg",
+  "description": "Following the sudden death of his mother, a mild-mannered but anxiety-ridden man confronts his darkest fears as he embarks on an epic, Kafkaesque odyssey back home.",
+  "review": {
+    "author": "wshqbms",
+    "dateCreated": "2023-04-21",
+    "inLanguage": "English",
+    "heading": "Truly an Unforgettable Experience",
+    "reviewBody": "It takes a bit to let this movie truly sink in. It is one of the craziest fever-dream odyssey style movies I&apos;ve ever seen. Ari Aster absolutely broke out of the style of Hereditary and midsommar. This was its own monster. It had parts that were extremely anxiety provoking, or were hilarious, boring or extremely intriguing. It was almost painful to watch, but afterwards i can&apos;t stop thinking about it (in a good way). I am very impressed.\n\nI think most people will be turned off/ not get the movie, but for some it will totally click. It&apos;s peak absurdism, and probably the most fascinating depiction of anxiety I&apos;ve seen in film.\n\nOne of the only flaws I have with this movie is the sheer run time. It is extremely long, and will test your patience in parts. There are parts that could&apos;ve been cut out, sure, but nothing that truly took away from the film.\n\nWould I recommend watching it to most? No. But you should still see it regardless. It will more than likely impress you.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 51929,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Horror"
+  ],
+  "datePublished": "2023-05-19",
+  "keywords": "paranoid man,independent film,play within a play,mother son relationship,written by director",
+  "duration": "PT2H59M",
+  "actor": [
+    {
+      "name": "Joaquin Phoenix",
+      "url": "https://www.imdb.com/name/nm0001618/"
+    },
+    {
+      "name": "Patti LuPone",
+      "url": "https://www.imdb.com/name/nm0526985/"
+    },
+    {
+      "name": "Amy Ryan",
+      "url": "https://www.imdb.com/name/nm0752407/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ari Aster",
+      "url": "https://www.imdb.com/name/nm4170048/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ari Aster",
+      "url": "https://www.imdb.com/name/nm4170048/"
+    }
+  ]
+}

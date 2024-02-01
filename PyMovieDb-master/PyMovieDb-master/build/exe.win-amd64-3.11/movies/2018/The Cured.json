@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "The Cured",
+  "url": "https://www.imdb.com/tt3463106/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzA2ZDIwM2ItYzYyOS00NGFkLWFhZmEtYTFiOTZmZWEzYWZkXkEyXkFqcGdeQXVyNjI0NTQ2Nw@@._V1_.jpg",
+  "description": "A disease that turns people into zombies has been cured. Society discriminates against the once-infected zombies, as do their own families, which causes social issues to arise. This leads to militant government interference.",
+  "review": {
+    "author": "intrepidami",
+    "dateCreated": "2018-07-04",
+    "inLanguage": "English",
+    "heading": "Not since Jaye Leno have ideas been so cleary stolen and touted as totally original",
+    "reviewBody": "It&apos;s truly pathetic. I watched In The Flesh years ago. In the Flesh was about the Zombie outbreak being cured, but you had to take medication constantly. Supplies started to get low and a very interesting effect of people basically being racist against infected ensued. They didn&apos;t tout themselves as being so original as this DIRECT and INFERIOR ripoff does.\n\nAnd gosh look at how the false claims works! Half the reviews are about how breathtakingly original it is...it&apos;s as interesting an effect on the masses as either. People don&apos;t bother to look into claims these days, choosing instead to believe things as they&apos;re presented. In this case they believe the PR press, so they actually promote it.\n\nThese people are the real Zombies.\n\nGo find the original it&apos;s called In The Flesh.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 9215,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "datePublished": "2018-05-11",
+  "keywords": "zombie horror,disease,infection,military,uncle nephew relationship",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Elliot Page",
+      "url": "https://www.imdb.com/name/nm0680983/"
+    },
+    {
+      "name": "Sam Keeley",
+      "url": "https://www.imdb.com/name/nm4187130/"
+    },
+    {
+      "name": "Tom Vaughan-Lawlor",
+      "url": "https://www.imdb.com/name/nm2534167/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Freyne",
+      "url": "https://www.imdb.com/name/nm3263357/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Freyne",
+      "url": "https://www.imdb.com/name/nm3263357/"
+    }
+  ]
+}

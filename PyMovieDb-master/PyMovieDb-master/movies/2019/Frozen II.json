@@ -1,0 +1,72 @@
+{
+  "type": "Movie",
+  "name": "Frozen II",
+  "url": "https://www.imdb.com/tt4520988/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg",
+  "description": "Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa&apos;s powers in order to save their kingdom.",
+  "review": {
+    "author": "AustinOswald",
+    "dateCreated": "2019-11-14",
+    "inLanguage": "English",
+    "heading": "A Change From The First",
+    "reviewBody": "It&apos;s not hard to imagine how big this movie will be. I, as well as many others, am a huge fan of the first film and the short films that followed it. Frozen II has a different feel to it. While the first film was brimming with quirky moments, the follow up feels a little more mature in its plot and themes. This story heavily centers around the importance of change, even if that means letting go. Throughout the film, I found myself dazzled with the quality and beauty of the visuals that the animation team laid out. The story, for me, felt a little flat, however. I think the writing team missed the mark when trying to achieve the same quirkiness from the original. With the more dramatic path the writers chose to take, also came more epic musical numbers and effects. Sure there were still plenty of humorous moments, but I personally felt myself longing for more. I also find irony in the fact that this film centers around change and the overall feel of the film felt like a major shift from the first. I do think this film will still appeal to many others and I, myself, am still very excited to watch it a second time. Overall, I&apos;d say this film found success in what it was trying to achieve and the message it was trying to send to its viewers, but couldn&apos;t quite live up to the whimsicality of the original. While not as good as the first, it&apos;s still a film you will want to take your family to and is a great addition to the Frozen franchise. 7/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 190453,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2019-11-22",
+  "keywords": "autumn,anthropomorphic snowman,female protagonist,disney animated sequel,magic",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Kristen Bell",
+      "url": "https://www.imdb.com/name/nm0068338/"
+    },
+    {
+      "name": "Idina Menzel",
+      "url": "https://www.imdb.com/name/nm0579953/"
+    },
+    {
+      "name": "Josh Gad",
+      "url": "https://www.imdb.com/name/nm1265802/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chris Buck",
+      "url": "https://www.imdb.com/name/nm0118333/"
+    },
+    {
+      "name": "Jennifer Lee",
+      "url": "https://www.imdb.com/name/nm1601644/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jennifer Lee",
+      "url": "https://www.imdb.com/name/nm1601644/"
+    },
+    {
+      "name": "Hans Christian Andersen",
+      "url": "https://www.imdb.com/name/nm0026153/"
+    },
+    {
+      "name": "Chris Buck",
+      "url": "https://www.imdb.com/name/nm0118333/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Spinning Gold",
+  "url": "https://www.imdb.com/tt2071590/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA3ZWRmZTgtZWJhNi00NjgxLWIzZWQtODdjZDMxODVkODAyXkEyXkFqcGdeQXVyMjI0NjI0Nw@@._V1_.jpg",
+  "description": "A biopic of 1970s record producer Neil Bogart, co-founder of Casablanca Records.",
+  "review": {
+    "author": "zerosugarzerocalories",
+    "dateCreated": "2023-04-03",
+    "inLanguage": "English",
+    "heading": "$27 million dollar mess",
+    "reviewBody": "It was apparent that the production took inspiration from Wolf of Wallstreet and Bohemian Rhapsody. It wanted to show great musical moments from the highs and lows of a man&apos;s career; although a lot of it was taken out of context and not entirely true, and the cocaine infused chaos of the 70s but with a Party City wig.\n\nBad: Casting choices (that&apos;s the least convincing Gene Simmons I&apos;ve ever seen), Hair and wardrobe choices (I want to puke every time I see the pubes I mean chest hair from Neil), and the green screen and vfx.\n\nGood: The music is real good! Tayla Parx is a new discovery for me, has bits and pieces of fun though they fail to sustain it multiple times, Jason Derulo with a surprising performance.\n\nAt the end of the day, you can&apos;t fault a family wanting to honor a legendary family member but it would have been better had the creative direction been given to someone with experience. Just didn&apos;t seem worth the 10 years of pre production for this level of output.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 1436,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "R",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2023-03-31",
+  "keywords": "1970s,rock and roll,year 1967,los angeles california,music history",
+  "duration": "PT2H17M",
+  "actor": [
+    {
+      "name": "Jeremy Jordan",
+      "url": "https://www.imdb.com/name/nm2921091/"
+    },
+    {
+      "name": "Michelle Monaghan",
+      "url": "https://www.imdb.com/name/nm1157358/"
+    },
+    {
+      "name": "Jay Pharoah",
+      "url": "https://www.imdb.com/name/nm3982894/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Timothy Scott Bogart",
+      "url": "https://www.imdb.com/name/nm0091579/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Timothy Scott Bogart",
+      "url": "https://www.imdb.com/name/nm0091579/"
+    }
+  ]
+}

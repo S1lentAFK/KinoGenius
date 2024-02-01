@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Empire of Light",
+  "url": "https://www.imdb.com/tt14402146/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjM5NzUxOWMtZjhkNC00M2ZmLTk2NzItOTQ1YWI3MGQ1YjBiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+  "description": "A drama about the power of human connection during turbulent times, set in an English coastal town in the early 1980s.",
+  "review": {
+    "author": "aeris-422-443107",
+    "dateCreated": "2022-12-06",
+    "inLanguage": "English",
+    "heading": "Beautiful cinematography, nice attempted story themes - but without any commitment to any of them",
+    "reviewBody": "Positives first: the cinematography is quite beautiful and enjoyable, as is the scoring. The performances are great and holding the movie together - the cast does a great job.\n\nAt the same time I struggled with figuring out what this film was trying to be about.\n\nA woman in her midlife crisis? Mental health? Racism? A movie theater gradually falling from glory (or finding its way back)? Unusual relationships? Abuse? (At one point there is a conversation that caught me off guard) And then there are some additional nuggets casually thrown in for a moment, but without any weight or meaning.\n\nAll these themes have great potential to start important conversations, but you have to commit to one and explore it fully - instead, this movie touches on all of them and dances around them, throws in a bunch of sex scenes (some of which being rather unnecessary).\n\nThat being said, watching the cast was still quite enjoyable, so i still had a reasonably good time.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 22878,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2023-01-09",
+  "keywords": "year 1981,reference to paul mccartney,reference to laurence olivier,reference to chariots of fire,1980s",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Olivia Colman",
+      "url": "https://www.imdb.com/name/nm1469236/"
+    },
+    {
+      "name": "Micheal Ward",
+      "url": "https://www.imdb.com/name/nm7906702/"
+    },
+    {
+      "name": "Colin Firth",
+      "url": "https://www.imdb.com/name/nm0000147/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sam Mendes",
+      "url": "https://www.imdb.com/name/nm0005222/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sam Mendes",
+      "url": "https://www.imdb.com/name/nm0005222/"
+    }
+  ]
+}

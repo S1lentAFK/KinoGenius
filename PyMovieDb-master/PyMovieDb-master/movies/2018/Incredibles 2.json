@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Incredibles 2",
+  "url": "https://www.imdb.com/tt3606756/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "sfgebel315",
+    "dateCreated": "2018-07-04",
+    "inLanguage": "English",
+    "heading": "Predictable, But Perfect",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 324236,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2018-07-13",
+  "keywords": "computer animation,superheroine,superhero,working mother,parenting",
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Craig T. Nelson",
+      "url": "https://www.imdb.com/name/nm0005266/"
+    },
+    {
+      "name": "Holly Hunter",
+      "url": "https://www.imdb.com/name/nm0000456/"
+    },
+    {
+      "name": "Sarah Vowell",
+      "url": "https://www.imdb.com/name/nm1102970/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brad Bird",
+      "url": "https://www.imdb.com/name/nm0083348/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brad Bird",
+      "url": "https://www.imdb.com/name/nm0083348/"
+    }
+  ]
+}

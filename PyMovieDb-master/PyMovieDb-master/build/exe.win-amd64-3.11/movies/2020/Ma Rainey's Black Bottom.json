@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Ma Rainey&apos;s Black Bottom",
+  "url": "https://www.imdb.com/tt10514222/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzkwMTk2N2YtNjc2OS00ZWE3LThmMTQtZTg1OTc5ZWE4MGZlXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "varun-25071997",
+    "dateCreated": "2020-12-18",
+    "inLanguage": "English",
+    "heading": "The Actors Deserve Better",
+    "reviewBody": "Everything in the film is perfect except for its poor direction and lack of story. Chadwick Boseman and Viola Davis are spectacular, especially the former. He should get all awards for his final role which was nothing but a masterclass in acting.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 57218,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2020-12-18",
+  "keywords": "musician,singing,black singer,tension,song",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Viola Davis",
+      "url": "https://www.imdb.com/name/nm0205626/"
+    },
+    {
+      "name": "Chadwick Boseman",
+      "url": "https://www.imdb.com/name/nm1569276/"
+    },
+    {
+      "name": "Glynn Turman",
+      "url": "https://www.imdb.com/name/nm0877270/"
+    }
+  ],
+  "director": [
+    {
+      "name": "George C. Wolfe",
+      "url": "https://www.imdb.com/name/nm0938045/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ruben Santiago-Hudson",
+      "url": "https://www.imdb.com/name/nm0763650/"
+    },
+    {
+      "name": "August Wilson",
+      "url": "https://www.imdb.com/name/nm0933025/"
+    }
+  ]
+}

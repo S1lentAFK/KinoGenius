@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "Catch the Bullet",
+  "url": "https://www.imdb.com/tt11833710/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODczYzRiM2UtZGE0MS00YTRiLWI3YjQtMDVmY2M4MmIwMTQyXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg",
+  "description": "Britt MacMaster, a U.S. Marshal who rarely brings them back alive, returns home from the trail to discover his 12-year-old son, Chad has been kidnapped by outlaws Jed Blake and his gang.",
+  "review": {
+    "author": "Xavier_Stone",
+    "dateCreated": "2021-10-09",
+    "inLanguage": "English",
+    "heading": "The first 5 minutes tells you everything",
+    "reviewBody": "This is just a FYI for all the wannabe directors and movie producers out there. If you do not have enough money for $200 professional squibs that explode on impact, do not have gun fights. Simple. Even in the 80&apos;s Dirty Harry had more believable shooting scenes. The lame slo-mo and the gun fights were no better than a high school drama production.\n\nOk, I can overlook a few things, lets move on to the dialogue. Just painful, every actor is incredibly bad.\n\n1 star for the scenery, which I get to see over and over and over again. I think people could purposely try to make a bad movie and it wouldn&apos;t be this bad. Asylum movies are better.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 609,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 2.9
+  },
+  "contentRating": "R",
+  "genre": [
+    "Western"
+  ],
+  "datePublished": "2021-09-10",
+  "keywords": null,
+  "duration": "PT1H28M",
+  "actor": [
+    {
+      "name": "Jay Pickett",
+      "url": "https://www.imdb.com/name/nm0681893/"
+    },
+    {
+      "name": "Gattlin Griffith",
+      "url": "https://www.imdb.com/name/nm1072959/"
+    },
+    {
+      "name": "Mason McNulty",
+      "url": "https://www.imdb.com/name/nm4317173/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Feifer",
+      "url": "https://www.imdb.com/name/nm0006395/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jerry Robbins",
+      "url": "https://www.imdb.com/name/nm1111813/"
+    }
+  ]
+}

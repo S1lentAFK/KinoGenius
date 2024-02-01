@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "The Way Way Back",
+  "url": "https://www.imdb.com/tt1727388/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTU5ODk5NDg0Nl5BMl5BanBnXkFtZTcwNzQwMjI1OQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Katz5",
+    "dateCreated": "2021-07-20",
+    "inLanguage": "English",
+    "heading": "A movie to cherish",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 155713,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2013-08-28",
+  "keywords": "summer,water park,shy kid,unlikely friendship,water slide",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Steve Carell",
+      "url": "https://www.imdb.com/name/nm0136797/"
+    },
+    {
+      "name": "Toni Collette",
+      "url": "https://www.imdb.com/name/nm0001057/"
+    },
+    {
+      "name": "Allison Janney",
+      "url": "https://www.imdb.com/name/nm0005049/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Nat Faxon",
+      "url": "https://www.imdb.com/name/nm0269542/"
+    },
+    {
+      "name": "Jim Rash",
+      "url": "https://www.imdb.com/name/nm0711110/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nat Faxon",
+      "url": "https://www.imdb.com/name/nm0269542/"
+    },
+    {
+      "name": "Jim Rash",
+      "url": "https://www.imdb.com/name/nm0711110/"
+    }
+  ]
+}

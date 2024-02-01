@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Foe",
+  "url": "https://www.imdb.com/tt8258502/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjVjMzZmYjctZTZiNS00YjI5LTgxMWItODAyZWRkMjk3OTY2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "elliest_5",
+    "dateCreated": "2023-11-19",
+    "inLanguage": "English",
+    "heading": "So much wasted potential",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 4271,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "datePublished": "2023-10-20",
+  "keywords": "the future,identity,based on novel,female nudity,clone",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Saoirse Ronan",
+      "url": "https://www.imdb.com/name/nm1519680/"
+    },
+    {
+      "name": "Paul Mescal",
+      "url": "https://www.imdb.com/name/nm8958770/"
+    },
+    {
+      "name": "Aaron Pierre",
+      "url": "https://www.imdb.com/name/nm7543974/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Garth Davis",
+      "url": "https://www.imdb.com/name/nm0204628/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Iain Reid",
+      "url": "https://www.imdb.com/name/nm2914363/"
+    },
+    {
+      "name": "Garth Davis",
+      "url": "https://www.imdb.com/name/nm0204628/"
+    }
+  ]
+}

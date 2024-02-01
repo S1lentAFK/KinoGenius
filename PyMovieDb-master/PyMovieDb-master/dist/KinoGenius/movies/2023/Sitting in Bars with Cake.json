@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Sitting in Bars with Cake",
+  "url": "https://www.imdb.com/tt8452344/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmIxZjgyNWUtNGM1OC00YTg3LTg0Y2MtYjA0MGZlNTBmYWI5XkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg",
+  "description": "Corinne convinces Jane, a shy, talented baker, to bring cakes to bars, to help her build confidence. But when Corinne receives a life-altering diagnosis, the pair faces a challenge unlike anything they&apos;ve experienced before.",
+  "review": {
+    "author": "exceladeogun",
+    "dateCreated": "2023-09-12",
+    "inLanguage": "English",
+    "heading": "An okay watch",
+    "reviewBody": "Sitting In Bars With Cake\n\nBased on a cookbook of the same title, this is a tale of friendship, cakes and hospitals. Jane (played by Yara Shahidi) concocts a plan of bringing cakes into bars to distribute to patrons as a way of meeting new people, and potentially a lover. A hitch occurs when her best friend, Corrine, is diagnosed with brain cancer.\n\nThe movie does a good job of showing the friendship at the core.\n\nYara Shahidi isn&apos;t a well-rounded actress, and it was very apparent in this movie. The inclusion of chuckles and laughs in most of her lines was irking. Odessa A&apos;zion as Corrine was a delight, and her shoulders deftly carried the weight of the duo. The supporting cast isn&apos;t very memorable but satisfactory.\n\nThere&apos;s nothing inherently amazing about Sitting In Bars With Cake, but the emotional core is enough for one-watch.\n\n5.5/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 2556,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2023-09-08",
+  "keywords": null,
+  "duration": "PT2H",
+  "actor": [
+    {
+      "name": "Yara Shahidi",
+      "url": "https://www.imdb.com/name/nm2780578/"
+    },
+    {
+      "name": "Odessa A&apos;zion",
+      "url": "https://www.imdb.com/name/nm5570560/"
+    },
+    {
+      "name": "Bette Midler",
+      "url": "https://www.imdb.com/name/nm0000541/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Trish Sie",
+      "url": "https://www.imdb.com/name/nm2586324/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Audrey Shulman",
+      "url": "https://www.imdb.com/name/nm3959557/"
+    }
+  ]
+}

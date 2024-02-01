@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Let Them All Talk",
+  "url": "https://www.imdb.com/tt10808832/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWIwMDFiZTMtMTc2NS00ZjkxLWJmNDgtOWFhZjVkNDNkZTgzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+  "description": "A famous author goes on a cruise trip with her friends and nephew in an effort to find fun and happiness while she comes to terms with her troubled past.",
+  "review": {
+    "author": "bowieec",
+    "dateCreated": "2020-12-12",
+    "inLanguage": "English",
+    "heading": "Glad I ignored the negative reviews",
+    "reviewBody": "This film is very human, very touching and real, and oh so Steven Soderbergh. Except for his most commercial efforts, all of Soderbergh&apos;s films are experimental in some way or another and many have also used improvisation, like this film. If you&apos;ve lived a life and have had strange changes in your friendships with groups of people over the years, you will get a lot from this film and be able to relate to it and all the interesting characters. People&apos;s ideals and motivations change throughout their lives, and it&apos;s reflected here. The past is remembered differently by different people. While some can move on from the past, others cannot. Some people grow and change while others remain the same. The story in the film reflects all of this beautifully. Maybe if you&apos;re still very young, relatively inexperienced, and haven&apos;t done much, or lived, or traveled, this isn&apos;t the movie for you. But if you are okay with a film that takes its time and sometimes meanders to strange places, but is always fascinating, like a life well lived, watch, rate and review!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 12695,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "R",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": null,
+  "keywords": "nephew,ocean liner,author,literary agent,cruise",
+  "duration": "PT1H53M",
+  "actor": [
+    {
+      "name": "Meryl Streep",
+      "url": "https://www.imdb.com/name/nm0000658/"
+    },
+    {
+      "name": "Gemma Chan",
+      "url": "https://www.imdb.com/name/nm2110418/"
+    },
+    {
+      "name": "Dianne Wiest",
+      "url": "https://www.imdb.com/name/nm0001848/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven Soderbergh",
+      "url": "https://www.imdb.com/name/nm0001752/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Deborah Eisenberg",
+      "url": "https://www.imdb.com/name/nm0251977/"
+    }
+  ]
+}

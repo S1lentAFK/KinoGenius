@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Sick",
+  "url": "https://www.imdb.com/tt14642626/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTliNDE4ODQtODg3Zi00MGIwLWIwZmItNjQ0YjEzMjdiMWEyXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_.jpg",
+  "description": "Due to the pandemic, Parker and her best friend decide to quarantine at the family lake house alone - or so they think.",
+  "review": {
+    "author": "Xstal",
+    "dateCreated": "2023-01-14",
+    "inLanguage": "English",
+    "heading": "Coughs & Sneezes Spread Deceases...",
+    "reviewBody": "There&apos;s a lockdown and it&apos;s time to quarantine, so with Miri you locate to a new scene, a plush cabin by a lake, a great place to take a break, put your feet up &apos;til routine can reconvene. An uninvited guest, knocks on the door, he&apos;s a friend you find it tricky to ignore, so he joins the isolation, and then demonstrates frustration, you retire for the night, not wanting more. Alas, a good night&apos;s sleep&apos;s not on the cards, as the silence is soon broken, the quiet jarred, an aggressive strain makes entry, most resistant and unfriendly, and the antidote will leave you deeply scarred.\n\nNot the worst film from the genre you&apos;ll come across.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 18448,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "R",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2023-01-13",
+  "keywords": "pandemic,slasher horror,covid 19,year 2020,slasher",
+  "duration": "PT1H23M",
+  "actor": [
+    {
+      "name": "Gideon Adlon",
+      "url": "https://www.imdb.com/name/nm4594069/"
+    },
+    {
+      "name": "Bethlehem Million",
+      "url": "https://www.imdb.com/name/nm12239665/"
+    },
+    {
+      "name": "Dylan Sprayberry",
+      "url": "https://www.imdb.com/name/nm2876098/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Hyams",
+      "url": "https://www.imdb.com/name/nm0404882/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kevin Williamson",
+      "url": "https://www.imdb.com/name/nm0932078/"
+    },
+    {
+      "name": "Katelyn Crabb",
+      "url": "https://www.imdb.com/name/nm9052229/"
+    }
+  ]
+}

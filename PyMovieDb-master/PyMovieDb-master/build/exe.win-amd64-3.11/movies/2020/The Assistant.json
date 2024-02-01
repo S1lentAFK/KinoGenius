@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "The Assistant",
+  "url": "https://www.imdb.com/tt9000224/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjBkMDZkNjctNmZhNi00Mzc5LTk0OTctNzFlMDExYzM3ZDNhXkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_.jpg",
+  "description": "A searing look at a day in the life of an assistant to a powerful executive. As Jane follows her daily routine, she grows increasingly aware of the insidious abuse that threatens every aspect of her position.",
+  "review": {
+    "author": "odiebeau",
+    "dateCreated": "2020-12-11",
+    "inLanguage": "English",
+    "heading": "Gentle and unassuming",
+    "reviewBody": "I really enjoyed this film, it feels real and doesn&apos;t give in to sensationalism. If you&apos;re looking for thrills and spills then this isn&apos;t it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 25497,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2020-01-31",
+  "keywords": "abuse,employer employee relationship,intimidation,degradation,sexism",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Julia Garner",
+      "url": "https://www.imdb.com/name/nm3400186/"
+    },
+    {
+      "name": "Owen Holland",
+      "url": "https://www.imdb.com/name/nm0390789/"
+    },
+    {
+      "name": "Jon Orsini",
+      "url": "https://www.imdb.com/name/nm3314975/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kitty Green",
+      "url": "https://www.imdb.com/name/nm3317268/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kitty Green",
+      "url": "https://www.imdb.com/name/nm3317268/"
+    }
+  ]
+}

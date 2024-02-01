@@ -1,0 +1,66 @@
+{
+  "type": "Movie",
+  "name": "Jungleland",
+  "url": "https://www.imdb.com/tt8710596/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmQ0ZGRhYWEtYzM2ZS00MjdlLWJhZWQtMWQwMThiN2E5YTQyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "Two brothers try to escape their circumstances by travelling across the country for a no holds barred boxing match that becomes a fight for their lives.",
+  "review": {
+    "author": "Top_Dawg_Critic",
+    "dateCreated": "2021-01-27",
+    "inLanguage": "English",
+    "heading": "Eh, meh.",
+    "reviewBody": "Although Max Winkler&apos;s directing was decent, his story was slow, depressing, unsatisfying, and basically the story of every person who wasn&apos;t raised with a silver spoon. So you&apos;ll get nothing out of this except for a reality check on the lemons of life. I just wish the story had more punch than what the fists were giving. There were flaws, plot and technical issues in the screenplay. The 90 min runtime felt almost 3 hours long with the slow pacing. Performances however where outstanding, and the cinematography and score on point. It&apos;s a generous 7/10 from me.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 7232,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2020-11-30",
+  "keywords": "boxing,runaway,cross country trip,travel,brother brother relationship",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Charlie Hunnam",
+      "url": "https://www.imdb.com/name/nm0402271/"
+    },
+    {
+      "name": "Jack O&apos;Connell",
+      "url": "https://www.imdb.com/name/nm1925239/"
+    },
+    {
+      "name": "Naheem Garcia",
+      "url": "https://www.imdb.com/name/nm3608877/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Max Winkler",
+      "url": "https://www.imdb.com/name/nm0935253/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Theodore Bressman",
+      "url": "https://www.imdb.com/name/nm4237558/"
+    },
+    {
+      "name": "David Branson Smith",
+      "url": "https://www.imdb.com/name/nm2434358/"
+    },
+    {
+      "name": "Max Winkler",
+      "url": "https://www.imdb.com/name/nm0935253/"
+    }
+  ]
+}

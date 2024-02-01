@@ -1,0 +1,55 @@
+{
+  "type": "Movie",
+  "name": "Folklore: The Long Pond Studio Sessions",
+  "url": "https://www.imdb.com/tt13524234/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzNmOTMwZjctZDMwNC00YWU1LWExOTktODY0NDY2NzgwYWZhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "farisfdr",
+    "dateCreated": "2020-11-25",
+    "inLanguage": "English",
+    "heading": "Best Film that ever made!",
+    "reviewBody": "Such a beautiful film and it perfectly filmed on how they&apos;re explaining every inch of the songs from folklore. Taylor Swift once again proving she is one of the greatest songwriter of all time. She sounds angelic and incredible! It&apos;s highly recommended",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 4611,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.4
+  },
+  "contentRating": "TV-14",
+  "genre": [
+    "Documentary",
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2020-11-25",
+  "keywords": null,
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Taylor Swift",
+      "url": "https://www.imdb.com/name/nm2357847/"
+    },
+    {
+      "name": "Aaron Dessner",
+      "url": "https://www.imdb.com/name/nm3039520/"
+    },
+    {
+      "name": "Jack Antonoff",
+      "url": "https://www.imdb.com/name/nm3054787/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Taylor Swift",
+      "url": "https://www.imdb.com/name/nm2357847/"
+    }
+  ],
+  "creator": []
+}

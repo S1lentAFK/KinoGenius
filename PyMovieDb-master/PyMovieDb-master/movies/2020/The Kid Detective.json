@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "The Kid Detective",
+  "url": "https://www.imdb.com/tt8980602/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWEyNjZmOGEtMmZkYy00MTEzLWFmY2UtZTkwYjJlYzUxYWUwXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_.jpg",
+  "description": "A once-celebrated kid detective, now 32, continues to solve the same trivial mysteries between hangovers and bouts of self-pity. Until a naive client brings him his first &apos;adult&apos; case, to find out who brutally murdered her boyfriend.",
+  "review": {
+    "author": "deloudelouvain",
+    "dateCreated": "2021-08-12",
+    "inLanguage": "English",
+    "heading": "Not bad at all.",
+    "reviewBody": "The Kid Detective, not really a title that is very appealing, but the truth is that this movie is certainly entertaining. The humor is most of the time subtle. To me the mystery level is what makes this movie stand out. I don&apos;t know if the humor was really necessary to make this a good movie. But it&apos;s there, subtle and dark at times, it made me giggle a couple times, not rolling over from laughing but good enough to make me grin. The plot is well written, definitely the best thing about The Kid Detective. Nice twists, and an ending that will surprise more than one. The acting was good and that from the whole cast. Better than I expected to be honest.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 21732,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2020-11-20",
+  "keywords": "secretary,detective,small town,african american policeman,camera shot from inside a closet",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Kaitlyn Chalmers-Rizzato",
+      "url": "https://www.imdb.com/name/nm10596532/"
+    },
+    {
+      "name": "Adam Brody",
+      "url": "https://www.imdb.com/name/nm0111013/"
+    },
+    {
+      "name": "Kaleb Horn",
+      "url": "https://www.imdb.com/name/nm7386306/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Evan Morgan",
+      "url": "https://www.imdb.com/name/nm2530291/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Evan Morgan",
+      "url": "https://www.imdb.com/name/nm2530291/"
+    }
+  ]
+}

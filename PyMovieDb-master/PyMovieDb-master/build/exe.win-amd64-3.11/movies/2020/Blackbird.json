@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "Blackbird",
+  "url": "https://www.imdb.com/tt8717446/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDk1OTQ5MjAtNzM5Ny00YTFhLWJiNzYtMjZhNWZmMGU0M2YwXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "ferguson-6",
+    "dateCreated": "2020-09-17",
+    "inLanguage": "English",
+    "heading": "saying goodbye",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 5764,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2020-09-21",
+  "keywords": "terminal illness,euthanasia,family gathering,assisted suicide,remake",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Sam Neill",
+      "url": "https://www.imdb.com/name/nm0000554/"
+    },
+    {
+      "name": "Susan Sarandon",
+      "url": "https://www.imdb.com/name/nm0000215/"
+    },
+    {
+      "name": "Anson Boon",
+      "url": "https://www.imdb.com/name/nm6978918/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Roger Michell",
+      "url": "https://www.imdb.com/name/nm0585011/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Christian Torpe",
+      "url": "https://www.imdb.com/name/nm1311535/"
+    }
+  ]
+}

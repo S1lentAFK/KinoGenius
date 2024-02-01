@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Electrical Life of Louis Wain",
+  "url": "https://www.imdb.com/tt10687506/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTVjMjcwNTctNWQ3NS00NzVlLWE4N2ItOTlhMjc1ZTdkMzYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+  "description": "English artist Louis Wain rises to prominence at the end of the 19th century for his surreal cat paintings that seemed to reflect his declining sanity.",
+  "review": {
+    "author": "masonsaul",
+    "dateCreated": "2022-01-18",
+    "inLanguage": "English",
+    "heading": "Incredibly eccentric drama",
+    "reviewBody": "The Electrical Life of Louis Wain is an incredible drama that&apos;s funny, extremely emotional and eccentric almost to a fault. A film that&apos;s closer to a true heartbreaking tragedy, despite all it&apos;s stylish quirks.\n\nBenedict Cumberbatch adds another terrific lead performance to his already impressive career with a tragic yet loveable character. He also has superb chemistry with Claire Foy, who is great and essential to the emotional core of the film.\n\nWill Sharpe&apos;s direction is fantastic, consistently beautiful in its imagery and effortlessly stylish. The music by Arthur Sharpe is amazing, matching the films tone perfectly by being both painful and inspirational.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 19394,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2022-01-01",
+  "keywords": "painting,mental illness,drawing,tragedy,swimming",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Benedict Cumberbatch",
+      "url": "https://www.imdb.com/name/nm1212722/"
+    },
+    {
+      "name": "Claire Foy",
+      "url": "https://www.imdb.com/name/nm2946516/"
+    },
+    {
+      "name": "Andrea Riseborough",
+      "url": "https://www.imdb.com/name/nm2057859/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Will Sharpe",
+      "url": "https://www.imdb.com/name/nm3112470/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Simon Stephenson",
+      "url": "https://www.imdb.com/name/nm1776787/"
+    },
+    {
+      "name": "Will Sharpe",
+      "url": "https://www.imdb.com/name/nm3112470/"
+    }
+  ]
+}

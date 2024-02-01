@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Fantastic Beasts: The Crimes of Grindelwald",
+  "url": "https://www.imdb.com/tt4123430/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcxNzU5MzkwN15BMl5BanBnXkFtZTgwMzQxNjA1NjM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Gordon-11",
+    "dateCreated": "2018-12-05",
+    "inLanguage": "English",
+    "heading": "I don&apos;t understand the story",
+    "reviewBody": "The visuals are great, but there is no story. The film is just a collage of scenes with strange creatures appearing for no reason at all. The vast number of characters don&apos;t help to make the plot any easier to decipher. The only scenes that I enjoyed are the ones in Hogwarts. That&apos;s because at least I know what they are about.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 304060,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2018-11-16",
+  "keywords": "witch,wizard,magical creature,paris france,sequel",
+  "duration": "PT2H14M",
+  "actor": [
+    {
+      "name": "Eddie Redmayne",
+      "url": "https://www.imdb.com/name/nm1519666/"
+    },
+    {
+      "name": "Katherine Waterston",
+      "url": "https://www.imdb.com/name/nm2239702/"
+    },
+    {
+      "name": "Dan Fogler",
+      "url": "https://www.imdb.com/name/nm0283945/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Yates",
+      "url": "https://www.imdb.com/name/nm0946734/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "J.K. Rowling",
+      "url": "https://www.imdb.com/name/nm0746830/"
+    }
+  ]
+}

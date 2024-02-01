@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Polaroid",
+  "url": "https://www.imdb.com/tt5598292/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU2MDI0NDYxNl5BMl5BanBnXkFtZTgwMDAxOTQxMjI@._V1_.jpg",
+  "description": "High school loner Bird Fitcher has no idea what dark secrets are tied to the Polaroid camera she finds. It doesn&apos;t take long to discover that those who have their picture taken with it, soon die.",
+  "review": {
+    "author": "stevelomas-69401",
+    "dateCreated": "2020-02-18",
+    "inLanguage": "English",
+    "heading": "What&apos;s next, a haunted toilet seat?",
+    "reviewBody": "Absolutely scrapping the bottom of the barrel in the haunted object subgenre. It&apos;s more terrifying that the producers think Polaroids are antique than anything in the film. Massive inconsistencies, huge plot holes and by the book acting make this one to miss.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 16062,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2019-09-17",
+  "keywords": "teenage girl,female photographer,female protagonist,teenage protagonist,introverted protagonist",
+  "duration": "PT1H28M",
+  "actor": [
+    {
+      "name": "Kathryn Prescott",
+      "url": "https://www.imdb.com/name/nm3077071/"
+    },
+    {
+      "name": "Tyler Young",
+      "url": "https://www.imdb.com/name/nm5683678/"
+    },
+    {
+      "name": "Samantha Logan",
+      "url": "https://www.imdb.com/name/nm3693092/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lars Klevberg",
+      "url": "https://www.imdb.com/name/nm2209002/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Blair Butler",
+      "url": "https://www.imdb.com/name/nm1397455/"
+    },
+    {
+      "name": "Lars Klevberg",
+      "url": "https://www.imdb.com/name/nm2209002/"
+    }
+  ]
+}

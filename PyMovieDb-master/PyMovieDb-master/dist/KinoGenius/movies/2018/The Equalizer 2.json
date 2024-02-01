@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Equalizer 2",
+  "url": "https://www.imdb.com/tt3766354/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU2OTYzODQyMF5BMl5BanBnXkFtZTgwNjU3Njk5NTM@._V1_.jpg",
+  "description": "Robert McCall serves an unflinching justice for the exploited and oppressed, but how far will he go when that is someone he loves?",
+  "review": {
+    "author": "ThomasDrufke",
+    "dateCreated": "2018-08-02",
+    "inLanguage": "English",
+    "heading": "Revenge isn&apos;t as Sweet",
+    "reviewBody": "If there&apos;s anyone in Hollywood that I would believe is actually a real life bada**, it&apos;s probably Denzel Washington. The first Equalizer was a surprisingly brutal and visceral action film that gave Liam Neeson movies a run for its money. While the sequel is full of just as many, if not more, incredible kill sequences by Denzel&apos;s character, I think there&apos;s a lack of connection I felt this time around. I wasn&apos;t nearly as connected to the story, and perhaps that&apos;s because the revenge didn&apos;t feel as sweet this time around. The ending of the film is a great sequence on its own and there are certain scenes I will certainly revisit, but I&apos;m not sure the film as a whole works quite as well.\n\n6.6/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 189847,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "2018-08-17",
+  "keywords": "brussels belgium,woman fights a man,second part,gun,returning character killed off",
+  "duration": "PT2H1M",
+  "actor": [
+    {
+      "name": "Denzel Washington",
+      "url": "https://www.imdb.com/name/nm0000243/"
+    },
+    {
+      "name": "Pedro Pascal",
+      "url": "https://www.imdb.com/name/nm0050959/"
+    },
+    {
+      "name": "Ashton Sanders",
+      "url": "https://www.imdb.com/name/nm5480894/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Antoine Fuqua",
+      "url": "https://www.imdb.com/name/nm0298807/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Richard Wenk",
+      "url": "https://www.imdb.com/name/nm0921013/"
+    },
+    {
+      "name": "Michael Sloan",
+      "url": "https://www.imdb.com/name/nm0805994/"
+    },
+    {
+      "name": "Richard Lindheim",
+      "url": "https://www.imdb.com/name/nm2030456/"
+    }
+  ]
+}

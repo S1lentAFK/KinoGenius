@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "Aftersun",
+  "url": "https://www.imdb.com/tt19770238/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM3OTU0ZGUtNzYwYy00ODU3LWI3YjgtOWZlODliMmRiMWEzXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+  "description": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between as she tries to reconcile the father she knew with the man she d...",
+  "review": {
+    "author": "mattyankster10",
+    "dateCreated": "2022-11-19",
+    "inLanguage": "English",
+    "heading": "You&apos;ll leave feeling emotional",
+    "reviewBody": "The one thing you can say about the film Aftersun is that it&apos;s not afraid of subtlety. It&apos;s human realism at its core dealing with themes such as childhood, fatherhood, responsibility, class, and vulnerability. It&apos;s the opposite of dramatic yet it keeps you engaged and glued to the screen through out as you care about the characters despite the simplicity of their day to day interactions. Paul Mescal plays Callum, a young father to an 11 year-old somewhat precocious girl named Sophie. The film in my opinion is about a father who tries his best to maintain a rock like mask to convey strength and stability for his daughter while being emotionally vulnerable underneath. Occasionally throughout the film that mask slips a little bit as Callum struggles to bear the responsibility of being a dad at such a young age and while facing his own personal troubles. At the same time his daughter, getting older and wiser, starts to explore the world of adolescence while on holiday where she also begins to notice her father&apos;s vulnerabilities. It&apos;s a sensitive film and one that leaves you enthralled and attached to the characters on a deeply human level even if that dramatic colonel doesn&apos;t pop the way you might except.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 83332,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2022-11-18",
+  "keywords": "father daughter relationship,vacation,young father,home video,memory",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Paul Mescal",
+      "url": "https://www.imdb.com/name/nm8958770/"
+    },
+    {
+      "name": "Frankie Corio",
+      "url": "https://www.imdb.com/name/nm13592008/"
+    },
+    {
+      "name": "Celia Rowlson-Hall",
+      "url": "https://www.imdb.com/name/nm3278700/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Charlotte Wells",
+      "url": "https://www.imdb.com/name/nm3834799/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Charlotte Wells",
+      "url": "https://www.imdb.com/name/nm3834799/"
+    }
+  ]
+}

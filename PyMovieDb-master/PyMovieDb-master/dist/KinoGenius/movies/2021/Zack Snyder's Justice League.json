@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Zack Snyder&apos;s Justice League",
+  "url": "https://www.imdb.com/tt12361974/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+  "description": "Determined to ensure that Superman&apos;s ultimate sacrifice wasn&apos;t in vain, Bruce Wayne recruits a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+  "review": {
+    "author": "rtbradford",
+    "dateCreated": "2021-03-29",
+    "inLanguage": "English",
+    "heading": "Much Better Movie",
+    "reviewBody": "This version is so much better than the originally released movie. At first, I didn&apos;t understand what all the excitement and hype were about when it was announced that the Snyder version was being released, but now I understand. The originally released movie was pretty awful. The storyline was disjointed and the character development was almost nonexistent. The Snyder version provided us with full storylines and character development for Cyborg and The Flash as well as eliminating some extraneous material that didn&apos;t add to the movie. If you like DC comics and were disappointed with the 2017 version of Justice League, go and see this version. You will be pleasantly surprised at how much better it is than the original.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 431522,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "2021-03-18",
+  "keywords": "superhero,dc extended universe,extended version,justice league,dc comics",
+  "duration": "PT4H2M",
+  "actor": [
+    {
+      "name": "Henry Cavill",
+      "url": "https://www.imdb.com/name/nm0147147/"
+    },
+    {
+      "name": "Ben Affleck",
+      "url": "https://www.imdb.com/name/nm0000255/"
+    },
+    {
+      "name": "Gal Gadot",
+      "url": "https://www.imdb.com/name/nm2933757/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Zack Snyder",
+      "url": "https://www.imdb.com/name/nm0811583/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jerry Siegel",
+      "url": "https://www.imdb.com/name/nm0796950/"
+    },
+    {
+      "name": "Joe Shuster",
+      "url": "https://www.imdb.com/name/nm0795975/"
+    },
+    {
+      "name": "Zack Snyder",
+      "url": "https://www.imdb.com/name/nm0811583/"
+    }
+  ]
+}

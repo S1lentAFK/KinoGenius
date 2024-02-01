@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Ad Astra",
+  "url": "https://www.imdb.com/tt2935510/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjI1ZmVlZDMtNzRhYi00YWNmLTljYzMtNmM5YTQwNWY0YjZlXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+  "description": "Astronaut Roy McBride undertakes a mission across an unforgiving solar system to uncover the truth about his missing father and his doomed expedition that now, 30 years later, threatens the universe.",
+  "review": {
+    "author": "JoeYabuki",
+    "dateCreated": "2019-10-08",
+    "inLanguage": "English",
+    "heading": "Gorgeous",
+    "reviewBody": "Explore the galaxy. Search for extraterrestrial intelligence. Are we alone in the universe? Are we self-destructive? Are we willing to continue until the end regardless of the consequences? Do we become what we judge without realizing it? The story that the film tells us has a very deep meaning and explores the most hidden corners of the human being. A slow movie that goes through the stages of degradation and collapse of an individual feeling lost and the will to continue forward and get up to reach a goal. The sound and score, the photography, the scenarios and landscapes, the cinematography, the direction and the colours are really gorgeous.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 256652,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Adventure",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2019-09-18",
+  "keywords": "astronaut,outer space,father son relationship,missing father,obsession",
+  "duration": "PT2H3M",
+  "actor": [
+    {
+      "name": "Brad Pitt",
+      "url": "https://www.imdb.com/name/nm0000093/"
+    },
+    {
+      "name": "Tommy Lee Jones",
+      "url": "https://www.imdb.com/name/nm0000169/"
+    },
+    {
+      "name": "Ruth Negga",
+      "url": "https://www.imdb.com/name/nm1550948/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Gray",
+      "url": "https://www.imdb.com/name/nm0336695/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Gray",
+      "url": "https://www.imdb.com/name/nm0336695/"
+    },
+    {
+      "name": "Ethan Gross",
+      "url": "https://www.imdb.com/name/nm1342473/"
+    }
+  ]
+}

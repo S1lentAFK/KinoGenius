@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Slender Man",
+  "url": "https://www.imdb.com/tt5690360/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE0MzcwMDAyNl5BMl5BanBnXkFtZTgwMzc4ODg0NDM@._V1_.jpg",
+  "description": "In a small town in Massachusetts, a group of friends, fascinated by the internet lore of the Slender Man, attempt to prove that he doesn&apos;t actually exist - until one of them mysteriously goes missing.",
+  "review": {
+    "author": "nashwahnassar",
+    "dateCreated": "2018-08-16",
+    "inLanguage": "English",
+    "heading": "Don&apos;t waste your time!!",
+    "reviewBody": "This movie was horrible . Longest hr & half of my life. It kept dragging and relied on not so scary jump scares. I was impressed with how much the trailer made the movie look scary and good but of course it was the wonders of cutting room floor editing. Plus most scenes in the trailer aren&apos;t in the movie!!!!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 37719,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2018-08-24",
+  "keywords": "woods,teenage girl,missing teenage girl,fear,hallucination",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Joey King",
+      "url": "https://www.imdb.com/name/nm1428821/"
+    },
+    {
+      "name": "Julia Goldani Telles",
+      "url": "https://www.imdb.com/name/nm5065920/"
+    },
+    {
+      "name": "Jaz Sinclair",
+      "url": "https://www.imdb.com/name/nm3596959/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sylvain White",
+      "url": "https://www.imdb.com/name/nm1234893/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Birke",
+      "url": "https://www.imdb.com/name/nm0083547/"
+    },
+    {
+      "name": "Victor Surge",
+      "url": "https://www.imdb.com/name/nm6881486/"
+    }
+  ]
+}

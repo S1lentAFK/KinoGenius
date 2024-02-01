@@ -1,0 +1,72 @@
+{
+  "type": "Movie",
+  "name": "Captain Marvel",
+  "url": "https://www.imdb.com/tt4154664/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "mindyjuttla",
+    "dateCreated": "2019-03-08",
+    "inLanguage": "English",
+    "heading": "Great background story b4 endgame",
+    "reviewBody": "Forget the haters, don&apos;t understand all the negative reviews, this movie is well worth a watch. I liked Brie Larson as Captain Marvel. Loved all the 90s nostalgia, and the background story of Nick Fury. It&apos;s sets it all up nicely for Endgame, can&apos;t wait.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 601411,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2019-03-08",
+  "keywords": "superhero,stan lee cameo,cat,nick fury character,1990s",
+  "duration": "PT2H3M",
+  "actor": [
+    {
+      "name": "Brie Larson",
+      "url": "https://www.imdb.com/name/nm0488953/"
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "url": "https://www.imdb.com/name/nm0000168/"
+    },
+    {
+      "name": "Ben Mendelsohn",
+      "url": "https://www.imdb.com/name/nm0578853/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Anna Boden",
+      "url": "https://www.imdb.com/name/nm1349818/"
+    },
+    {
+      "name": "Ryan Fleck",
+      "url": "https://www.imdb.com/name/nm0281396/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Anna Boden",
+      "url": "https://www.imdb.com/name/nm1349818/"
+    },
+    {
+      "name": "Ryan Fleck",
+      "url": "https://www.imdb.com/name/nm0281396/"
+    },
+    {
+      "name": "Geneva Robertson-Dworet",
+      "url": "https://www.imdb.com/name/nm4039044/"
+    }
+  ]
+}

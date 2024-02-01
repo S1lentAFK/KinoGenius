@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Athlete A",
+  "url": "https://www.imdb.com/tt11905462/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjlmNGYwMjctMjNiMS00NjA4LWJiMmEtN2Y5ZTgyNzE1YzIxXkEyXkFqcGdeQXVyMTQ4NDY5OTc@._V1_.jpg",
+  "description": "Follow the Indianapolis Star reporters that broke the story about USA Gymnastics doctor Larry Nassar&apos;s abuse and hear from gymnasts like Maggie Nichols.",
+  "review": {
+    "author": "makaylagan",
+    "dateCreated": "2020-06-27",
+    "inLanguage": "English",
+    "heading": "The shocking truth",
+    "reviewBody": "I cannot believe how corrupt the US Gymnastics is after watching the documentary. The pain the victims have suffered is heartbreaking for me. I really admire those women who stood out and wish them all the best.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 12198,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Documentary",
+    "Crime",
+    "Sport"
+  ],
+  "datePublished": "2020-06-24",
+  "keywords": "doctor,gymnastics,girl,organization,secret",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Maggie Nichols",
+      "url": "https://www.imdb.com/name/nm7940312/"
+    },
+    {
+      "name": "Gina Nichols",
+      "url": "https://www.imdb.com/name/nm9787072/"
+    },
+    {
+      "name": "John Nichols",
+      "url": "https://www.imdb.com/name/nm11697961/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bonni Cohen",
+      "url": "https://www.imdb.com/name/nm1010896/"
+    },
+    {
+      "name": "Jon Shenk",
+      "url": "https://www.imdb.com/name/nm0791556/"
+    }
+  ],
+  "creator": []
+}

@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Destination Wedding",
+  "url": "https://www.imdb.com/tt6987770/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODI4YjE3YTItNWUyMC00NThhLThiMDUtZDhmNDdiNDM5ZTYwXkEyXkFqcGdeQXVyNzEyMTk0MzM@._V1_.jpg",
+  "description": "The story of two miserable and unpleasant wedding guests, Lindsay and Frank, who develop a mutual affection despite themselves.",
+  "review": {
+    "author": "amerry-21798",
+    "dateCreated": "2018-09-08",
+    "inLanguage": "English",
+    "heading": "Very wordy and clever, laughed out loud and found it amuzing",
+    "reviewBody": "Just saw this movie with my 18 year old son. We both laughed out loud. It is a very verbose script with lots of sardonic humor and dialogue. But we really liked it. Always a fan of Rider and Reeves. They are just my generation and I have a certain affection for their movies. What was surprising is that my teenage son liked it so much. I was a little skeptical taking him to see it because I knew it had mixed reviews. In the end he said he found it entertaining. The whole movie is all about the two charters meeting each other and their interpretation of the wedding. There is no other context or character interaction, but it works. It&apos;s an amusing delightful weird unorthodox relationship movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 32908,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2019-05-10",
+  "keywords": "outdoor wedding,ex boyfriend getting married,brother getting married,airport,dialogue heavy",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Winona Ryder",
+      "url": "https://www.imdb.com/name/nm0000213/"
+    },
+    {
+      "name": "Keanu Reeves",
+      "url": "https://www.imdb.com/name/nm0000206/"
+    },
+    {
+      "name": "DJ Dallenbach",
+      "url": "https://www.imdb.com/name/nm8329660/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Victor Levin",
+      "url": "https://www.imdb.com/name/nm0505741/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Victor Levin",
+      "url": "https://www.imdb.com/name/nm0505741/"
+    }
+  ]
+}

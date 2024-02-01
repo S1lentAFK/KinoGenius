@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Finding You",
+  "url": "https://www.imdb.com/tt8760280/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzk3ZWRiMjMtYWNhZS00N2U0LWI2YTYtMDliMzU5ZWZjZWFmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+  "description": "Violinist Finley Sinclair travels to an Irish coastal village to begin a semester of studying abroad. At the B&B run by her host family, she encounters gregarious, persistent heartthrob movie star Beckett Rush.",
+  "review": {
+    "author": "donmccandless-86320",
+    "dateCreated": "2021-10-09",
+    "inLanguage": "English",
+    "heading": "Real people acting in realistic ways",
+    "reviewBody": "We need more movies like this one, and far less of all the negative &apos;whoopie, we&apos;re all terrible people, so let&apos;s all get killed&apos; junk Hollywood is so fond of these days. I read many of the negative reviews before I watched this film, one the entire family could enjoy, and that&apos;s what moved this movie to the top of my &apos;watch this next&apos; list. Glad I did. Well written, acted, directed, and with an outstanding soundtrack.\n\nNo token characters, so if you&apos;re expecting to find an LGBT character, or a minority where one wouldn&apos;t normally expect one to be present, or a car chase, explosion, shoot-out, bad cops, or any of the other Hollywood tropes we&apos;re seeing elsewhere, or anything else coming off the assembly line.\n\nThis is a fine mix of established veteran actors and new young fresh faces presenting a story that has a great deal of depth. If you don&apos;t come away feeling good about the world after this one, go find yourself a mental health expert. You&apos;re clinically depressed, and in need of help.\n\nMore of this, please.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 8163,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2021-05-14",
+  "keywords": "new york city,ireland,man woman romance,bed and breakfast,movie star",
+  "duration": "PT1H59M",
+  "actor": [
+    {
+      "name": "Rose Reid",
+      "url": "https://www.imdb.com/name/nm7533016/"
+    },
+    {
+      "name": "Jedidiah Goodacre",
+      "url": "https://www.imdb.com/name/nm5288835/"
+    },
+    {
+      "name": "Katherine McNamara",
+      "url": "https://www.imdb.com/name/nm3031063/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brian Baugh",
+      "url": "https://www.imdb.com/name/nm0061982/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jenny B. Jones",
+      "url": "https://www.imdb.com/name/nm12754396/"
+    },
+    {
+      "name": "Brian Baugh",
+      "url": "https://www.imdb.com/name/nm0061982/"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Silence of the Lambs",
+  "url": "https://www.imdb.com/tt0102926/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+  "review": {
+    "author": "pooch-8",
+    "dateCreated": "1999-01-12",
+    "inLanguage": "English",
+    "heading": "Perfectly executed dramatic thriller",
+    "reviewBody": "The Silence of the Lambs, having accomplished the rare feat of winning all five of the major Academy Award categories, is a remarkable achievement in filmmaking. Gruesome, pulpish material was transformed by dedicated participants on all levels of production, and a film that would have failed in the hands of many others wound up becoming a modern masterpiece. Taut direction and a superb screenplay might be the best arguments for the film&apos;s power, but the flashiest are certainly delivered in the bravura performances of Hopkins and Foster. Their interplay -- and remember, they only share a handful of scenes together -- is nothing short of riveting.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 1521303,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.6
+  },
+  "contentRating": "18",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "1991-05-31",
+  "keywords": "serial killer,stuck in a well,psychopath,psycho thriller,bad guy wins",
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Jodie Foster",
+      "url": "https://www.imdb.com/name/nm0000149/"
+    },
+    {
+      "name": "Anthony Hopkins",
+      "url": "https://www.imdb.com/name/nm0000164/"
+    },
+    {
+      "name": "Scott Glenn",
+      "url": "https://www.imdb.com/name/nm0001277/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jonathan Demme",
+      "url": "https://www.imdb.com/name/nm0001129/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Thomas Harris",
+      "url": "https://www.imdb.com/name/nm0365383/"
+    },
+    {
+      "name": "Ted Tally",
+      "url": "https://www.imdb.com/name/nm0848217/"
+    }
+  ]
+}

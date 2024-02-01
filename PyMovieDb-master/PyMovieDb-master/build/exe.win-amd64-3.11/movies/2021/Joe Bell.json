@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Good Joe Bell",
+  "url": "https://www.imdb.com/tt4651466/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGM2MDQ4OTUtNjI3Mi00OTNiLWJhYmYtOTdiN2JiYTNmN2Q0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "The true story of a small-town, working-class father who embarks on a walk across the U.S. to crusade against bullying after his son is tormented in high school for being gay. Meanwhile, he realizes he is instead missing out on hi...",
+  "review": {
+    "author": "Pukeonthestreet",
+    "dateCreated": "2021-12-21",
+    "inLanguage": "English",
+    "heading": "Haters missed the message",
+    "reviewBody": "This is a very well done movie with a great message about a real person that was trying to make a change in the world. If you watch it you&apos;ll experience some serious emotions and one of the parts is so well done you&apos;ll be blown away.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 9260,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Drama"
+  ],
+  "datePublished": "2022-04-01",
+  "keywords": "father son relationship,gay character,gay teenager,idaho,colorado",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Mark Wahlberg",
+      "url": "https://www.imdb.com/name/nm0000242/"
+    },
+    {
+      "name": "Reid Miller",
+      "url": "https://www.imdb.com/name/nm6366586/"
+    },
+    {
+      "name": "Connie Britton",
+      "url": "https://www.imdb.com/name/nm0110168/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Reinaldo Marcus Green",
+      "url": "https://www.imdb.com/name/nm3232264/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Diana Ossana",
+      "url": "https://www.imdb.com/name/nm0652223/"
+    },
+    {
+      "name": "Larry McMurtry",
+      "url": "https://www.imdb.com/name/nm0573505/"
+    }
+  ]
+}

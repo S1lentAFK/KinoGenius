@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Haunted Mansion",
+  "url": "https://www.imdb.com/tt1695843/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTlmZmFkYTEtMDM4NS00NTgzLWFhODEtZjMxOTlmN2QxZTdiXkEyXkFqcGdeQXVyMTMzOTQyOTk1._V1_.jpg",
+  "description": "A single mom named Gabbie hires a tour guide, a psychic, a priest and a historian to help exorcise her newly bought mansion after discovering it is inhabited by ghosts.",
+  "review": {
+    "author": "masonsaul",
+    "dateCreated": "2023-08-12",
+    "inLanguage": "English",
+    "heading": "Good enough",
+    "reviewBody": "Haunted Mansion is needlessly convoluted and feels its length but for a Disney theme park ride adaptation it&apos;s really impressive how ready this film is to have some genuinely moving and open conversations about grief and how painful it can be to move on.\n\nLakeith Stanfield is the main reason any of this works. For a remake of a film based on a theme park ride he&apos;s way better than he needed to be. Any scene where he opens up about his pain is incredibly engaging and unexpectedly real.\n\nOverall this is an undeniably talented cast who&apos;ve all been really funny in the past so even if they&apos;re not as funny here as they definitely could&apos;ve been they&apos;re all still good at getting a fair few chuckles out of the material throughout. Tiffany Haddish wins simply by having the best joke.\n\nThe most baffling casting here is Jared Leto as the Hatbox Ghost. It&apos;s a completely forgettable role and whilst it&apos;s kinda a relief he doesn&apos;t ruin the film it&apos;s so weird to see one of the most committed actors currently working (for better and worse) take a role that is 100% stunt casting.\n\nJustin Simien&apos;s direction is pretty good, a lot of the geometry distorting set pieces are basically just CG that looks fine but there&apos;s still fun to be had with them and it&apos;s only in the third when the CG overload threatens to derail it like it did Jungle Cruise, but this recovers.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 39513,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2023-08-11",
+  "keywords": "based on theme park attraction,based on theme park ride,mansion,ghost,curse",
+  "duration": "PT2H3M",
+  "actor": [
+    {
+      "name": "LaKeith Stanfield",
+      "url": "https://www.imdb.com/name/nm3147751/"
+    },
+    {
+      "name": "Rosario Dawson",
+      "url": "https://www.imdb.com/name/nm0206257/"
+    },
+    {
+      "name": "Owen Wilson",
+      "url": "https://www.imdb.com/name/nm0005562/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Justin Simien",
+      "url": "https://www.imdb.com/name/nm2282177/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Katie Dippold",
+      "url": "https://www.imdb.com/name/nm1767754/"
+    }
+  ]
+}

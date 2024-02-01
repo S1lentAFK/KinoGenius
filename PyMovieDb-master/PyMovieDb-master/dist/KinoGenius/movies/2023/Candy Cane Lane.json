@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Candy Cane Lane",
+  "url": "https://www.imdb.com/tt21328106/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU3MWYzNzEtZmYwNS00ZjhjLTljMTQtYzk5NTk1ZTJkYTZjXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg",
+  "description": "A man is determined to win the neighborhood&apos;s annual Christmas decorating contest. He makes a pact with an elf to help him win--and the elf casts a spell that brings the 12 days of Christmas to life, which brings unexpected chaos ...",
+  "review": {
+    "author": "007Waffles",
+    "dateCreated": "2023-12-14",
+    "inLanguage": "English",
+    "heading": "Wish it was better",
+    "reviewBody": "I wish it was better. The movie has a great look and a great leading cast with Eddie Murphy and Julian Bell. Unfortunately only Julian Bell was funny. I only laughed during her scenes.\n\nI think the issue was the story. It wasn&apos;t very good and it was boring. I really didn&apos;t care what the problem was or what Eddie Murphy was trying to accomplish. The live coverage of Candy Cane lane made no sense and the reporters were terrible actors. The news coverage came out of no where. The movie was a mix of a bunch of bad parts and recycled stories. If it&apos;s going to recycle a story it needs to be as good as the original or better. I don&apos;t ever want to see this movie again.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 19162,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2023-12-01",
+  "keywords": "christmas,holiday comedy,holiday season,villainess,christmas eve",
+  "duration": "PT1H57M",
+  "actor": [
+    {
+      "name": "Eddie Murphy",
+      "url": "https://www.imdb.com/name/nm0000552/"
+    },
+    {
+      "name": "Tracee Ellis Ross",
+      "url": "https://www.imdb.com/name/nm0743896/"
+    },
+    {
+      "name": "Jillian Bell",
+      "url": "https://www.imdb.com/name/nm3255459/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Reginald Hudlin",
+      "url": "https://www.imdb.com/name/nm0399737/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kelly Younger",
+      "url": "https://www.imdb.com/name/nm8566357/"
+    }
+  ]
+}

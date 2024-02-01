@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Everybody Dies by the End",
+  "url": "https://www.imdb.com/tt9150828/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmNmMTMxZjItMGViYS00OWYxLTk4NTEtZWRhYWE0NDRlNGE2XkEyXkFqcGdeQXVyNTMzNjEzODQ@._V1_.jpg",
+  "description": "A documentary crew follows cult classic horror director, Alfred Costella, as he makes his final film - An all practical masterpiece...with a dark twist.",
+  "review": {
+    "author": "DanTheButler",
+    "dateCreated": "2023-03-20",
+    "inLanguage": "English",
+    "heading": "One of the funniest indie horrors I&apos;ve seen",
+    "reviewBody": "A masterful performance from Vinny Curran, who&apos;s easily one of the greatest unknown actors I&apos;ve ever come across. It&apos;s a quality debut film for found footage and the storytelling is brilliant.\n\nLike Cocaine Bear, enjoying with an audience only makes it better. The dialogue is pretty smart and the twist, while pretty obvious, still manages to surprise with pleasant disgust.\n\nMy only notes here is that Curran&apos;s performance seems to steal the show from every other cast member, as he baits them into his cult filmmaking, defying logic and sanity towards his final masterpiece: Everybody Dies by the End!",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 40,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": null,
+  "genre": [
+    "Comedy",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2023-09-22",
+  "keywords": "cult,dark comedy,b horror,slasher horror,alternative comedy",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Vinny Curran",
+      "url": "https://www.imdb.com/name/nm3598223/"
+    },
+    {
+      "name": "Bill Oberst Jr.",
+      "url": "https://www.imdb.com/name/nm2454994/"
+    },
+    {
+      "name": "Brendan Cahalan",
+      "url": "https://www.imdb.com/name/nm9672849/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ian Tripp",
+      "url": "https://www.imdb.com/name/nm3599770/"
+    },
+    {
+      "name": "Ryan Schafer",
+      "url": "https://www.imdb.com/name/nm7517217/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ian Tripp",
+      "url": "https://www.imdb.com/name/nm3599770/"
+    }
+  ]
+}

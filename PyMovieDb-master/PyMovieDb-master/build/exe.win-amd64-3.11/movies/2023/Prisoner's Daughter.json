@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "Prisoner&apos;s Daughter",
+  "url": "https://www.imdb.com/tt4671326/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmIwNTYzN2UtZTQ5YS00NmM2LWE1ZDQtNmY3YzExM2U5MDE4XkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg",
+  "description": "A father fights for the love of his daughter and grandson, after serving twelve years in prison.",
+  "review": {
+    "author": "anton-duzenko",
+    "dateCreated": "2023-07-04",
+    "inLanguage": "English",
+    "heading": "Reasonably good",
+    "reviewBody": "This was unexpectedly entertaining; I think I can congratulate the film makers on successfully breaking out of the infamous Hollywood comfort zone and for a refreshing change trying to show real-world people dealing with the bad choices they have made and the price it cost their families.\n\nPros: \n* characters we could relate to (at last!)\n* well paced and believable story\n\n\nCons: \n* story a bit old and cliched\n* shaky camera (not again!)\n* female lead&apos;s fake lips on top of quite visible makeup that contradicted her role\n* too sugary sometimes\n\n\nI&apos;m rating it 6 but it&apos;s actually a compliment coming from me. Most movies these days I don&apos;t even bother to rate and turn off after 10 to 15 minutes of runtime.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 1884,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2023-07-04",
+  "keywords": "love,domestic drama,pancreatic cancer,cancer,house arrest",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Sarah Anderson",
+      "url": "https://www.imdb.com/name/nm10846527/"
+    },
+    {
+      "name": "Brian Cox",
+      "url": "https://www.imdb.com/name/nm0004051/"
+    },
+    {
+      "name": "Steven Littles",
+      "url": "https://www.imdb.com/name/nm2044246/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Catherine Hardwicke",
+      "url": "https://www.imdb.com/name/nm0362566/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Bacci",
+      "url": "https://www.imdb.com/name/nm3223750/"
+    }
+  ]
+}

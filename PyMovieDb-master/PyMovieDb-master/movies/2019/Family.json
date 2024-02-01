@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "Family Switch",
+  "url": "https://www.imdb.com/tt14227048/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWMyYWI0M2MtZDk2My00MmFmLWEzZTgtYjIxZjMyODcwNGJjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "description": "When a chance encounter with an astrological reader causes the Walkers to wake up to a full body switch, can they unite to land a promotion, college interview, record deal, and soccer tryout?",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2023-12-02",
+    "inLanguage": "English",
+    "heading": "Jen does another",
+    "reviewBody": "Jess (Jennifer Garner) and Bill Walker (Ed Helms) are a happily-married suburban couple, but they fear disconnecting from their kids. Daughter CC (Emma Myers) is the star football player. Son Wyatt (Brady Noon) is a science nerd. They with baby brother and dog go to the Griffith Park Planetarium. With a planetary alignment, a telescope, and psychic Angelica (Rita Moreno), the family get switched.\n\nThis is old hat for Jennifer Garner and the movie refers to her movie as well as others. Ed Helms is playing the music nerd teacher although the back story is leading towards former rock star. That conflict does cause some problems. This is mostly fine but very derivative. Garner can easily switch from stuffy to childish. Ed Helms is a little ill-fitting for the role. For example, Brady Noon is trying to play the dad like a leather jacket rocker in one scene and it doesn&apos;t fit his other scenes. The dog baby switch would be funnier if the CGI isn&apos;t so Son of the Mask. Of course, there is a dance sequence and I like the premise behind it. As for the band tryout, I don&apos;t understand why Wyatt with dad inside doesn&apos;t just play the gig. He can claim that dad is injured and the son had been learning from the dad. I do question director McG&apos;s style. His brand of humor is very broad and very low hanging fruit. This has a few fine comedic moments but most others are lesser family fun.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 22671,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2023-11-30",
+  "keywords": "body switching,christmas,body swap,based on children&apos;s book,life",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Jennifer Garner",
+      "url": "https://www.imdb.com/name/nm0004950/"
+    },
+    {
+      "name": "Ed Helms",
+      "url": "https://www.imdb.com/name/nm1159180/"
+    },
+    {
+      "name": "Emma Myers",
+      "url": "https://www.imdb.com/name/nm3528821/"
+    }
+  ],
+  "director": [
+    {
+      "name": "McG",
+      "url": "https://www.imdb.com/name/nm0629334/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Victoria Strouse",
+      "url": "https://www.imdb.com/name/nm0835194/"
+    },
+    {
+      "name": "Adam Sztykiel",
+      "url": "https://www.imdb.com/name/nm1186373/"
+    },
+    {
+      "name": "Amy Krouse Rosenthal",
+      "url": "https://www.imdb.com/name/nm6676088/"
+    }
+  ]
+}

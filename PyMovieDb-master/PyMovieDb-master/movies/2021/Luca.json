@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Luca",
+  "url": "https://www.imdb.com/tt12801262/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTQyNTU0MDktYTFkYi00ZjNhLWE2ODctMzBkM2U1ZTk3YTMzXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_.jpg",
+  "description": "On the Italian Riviera, an unlikely but strong friendship grows between a human being and a sea monster disguised as a human.",
+  "review": {
+    "author": "AndreaWeaver1",
+    "dateCreated": "2022-02-22",
+    "inLanguage": "English",
+    "heading": "Have a good cry",
+    "reviewBody": "This movie is so beautiful to watch, the colors and textures are outstanding. Everything about this film is heartwarming and poignant. Of course I cried when I watched it, I have a soul. Music? 100%. Message? 100%. Visuals? 100%. Kids and adults can watch this and appreciate something about it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 187084,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2021-06-18",
+  "keywords": "friendship,coming of age,shapeshifter,ocean,friendship between boys",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Jacob Tremblay",
+      "url": "https://www.imdb.com/name/nm5016878/"
+    },
+    {
+      "name": "Jack Dylan Grazer",
+      "url": "https://www.imdb.com/name/nm6244013/"
+    },
+    {
+      "name": "Emma Berman",
+      "url": "https://www.imdb.com/name/nm11735922/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Enrico Casarosa",
+      "url": "https://www.imdb.com/name/nm1154836/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Enrico Casarosa",
+      "url": "https://www.imdb.com/name/nm1154836/"
+    },
+    {
+      "name": "Jesse Andrews",
+      "url": "https://www.imdb.com/name/nm5428959/"
+    },
+    {
+      "name": "Simon Stephenson",
+      "url": "https://www.imdb.com/name/nm1776787/"
+    }
+  ]
+}

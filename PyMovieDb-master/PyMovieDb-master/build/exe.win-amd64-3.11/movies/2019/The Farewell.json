@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "The Farewell",
+  "url": "https://www.imdb.com/tt8637428/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWE3MjViNWUtY2VjYS00ZDBjLTllMzYtN2FkY2QwYmRiMDhjXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "proud_luddite",
+    "dateCreated": "2019-09-30",
+    "inLanguage": "English",
+    "heading": "Outstanding Screenplay by Wang",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 69697,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2019-09-20",
+  "keywords": "cemetery,doctor,grief,lie,secret",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Shuzhen Zhao",
+      "url": "https://www.imdb.com/name/nm10289762/"
+    },
+    {
+      "name": "Awkwafina",
+      "url": "https://www.imdb.com/name/nm5377144/"
+    },
+    {
+      "name": "X Mayo",
+      "url": "https://www.imdb.com/name/nm5619620/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lulu Wang",
+      "url": "https://www.imdb.com/name/nm2304675/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lulu Wang",
+      "url": "https://www.imdb.com/name/nm2304675/"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "type": "Movie",
+  "name": "The Absence of Closure",
+  "url": "https://www.imdb.com/tt5958142/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWNmZDhiNmYtYmRiMy00Yjk3LWFiODAtMGQ2NDZhZTY3MTYwXkEyXkFqcGdeQXVyMzM2NTE3NTE@._V1_.jpg",
+  "description": "A look at three individuals dealing with ambiguous loss, a situation where a loved one is presumed dead but a body cannot be found.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": null,
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": null,
+  "keywords": "loss,love,closure,missing,absence",
+  "duration": null,
+  "actor": [],
+  "director": [
+    {
+      "name": "Lisa Arlington",
+      "url": "https://www.imdb.com/name/nm8355551/"
+    }
+  ],
+  "creator": []
+}

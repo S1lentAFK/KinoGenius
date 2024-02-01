@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Baby Ruby",
+  "url": "https://www.imdb.com/tt21448540/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODQ1ZjY0NDktYmFiZi00NDlkLWJjNjUtMGJmNjIyN2E1Zjc2XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_.jpg",
+  "description": "The tightly scripted world of a vlogger and influencer unravels after she becomes a mother, in noted playwright Bess Wohl&apos;s feature debut.",
+  "review": {
+    "author": "zack_gideon",
+    "dateCreated": "2023-02-06",
+    "inLanguage": "English",
+    "heading": "Challenging Film to Get Thru",
+    "reviewBody": "If you&apos;re looking for narrative, cohesion, plot structure, etc. Look elsewhere. Also, if you have had major mental health issues, or breakdowns this is your trigger warning.\n\nThe movie reminds me of a long, confusing nightmare. In dreams there are rarely beginnings, middles or ends. This movie explores the mental challenges of having a child. I&apos;m not a parent, but everyone&apos;s experience is different and has its own challenges. In this film, the baby crying (it starts quickly in the plot so it&apos;s not a spoiler) is, at least to me where the breakdown starts.\n\nOverall it&apos;s like watching a nightmare. Part horror, part character study, part surrealist, but overall it doesn&apos;t really come together. Some parts are interesting overall it&apos;s not a pleasurable film going experience.\n\nIf you&apos;re about to have a child or thinking of it I would not watch this movie. 5/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 1903,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2023-02-03",
+  "keywords": "psychological thriller,title directed by female,world,female nudity,lesbianism",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Noémie Merlant",
+      "url": "https://www.imdb.com/name/nm4374524/"
+    },
+    {
+      "name": "Kit Harington",
+      "url": "https://www.imdb.com/name/nm3229685/"
+    },
+    {
+      "name": "Camila Canó-Flaviá",
+      "url": "https://www.imdb.com/name/nm10191193/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bess Wohl",
+      "url": "https://www.imdb.com/name/nm0937384/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bess Wohl",
+      "url": "https://www.imdb.com/name/nm0937384/"
+    }
+  ]
+}

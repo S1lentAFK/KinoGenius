@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Magic Camp",
+  "url": "https://www.imdb.com/tt3979300/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTA5Mzk3ZjctOTFlNi00OTJmLWIxYmYtMzU3YzZkMWVlMGYyXkEyXkFqcGdeQXVyNjY2MTQ3ODc@._V1_.jpg",
+  "description": "At the urging of his former mentor and Magic Camp owner Roy Preston, Andy returns as a counselor to the camp of his youth hoping to reignite his career.",
+  "review": {
+    "author": "kortnikul",
+    "dateCreated": "2020-08-15",
+    "inLanguage": "English",
+    "heading": "Great Family Film",
+    "reviewBody": "We watched this movie with our kids, who are three and seven. We all really enjoyed the movie and laughed a lot. My seven-year-old was absolutely fascinated with the magic tricks! When he really liked something, he clapped like we were at a live show. It was nice to watch a non-animated, family-friendly, and not too childish movie together. There are adult elements of understanding, but it&apos;s not too heavy that the kids lose interest. I recommend this movie to anyone who wants something light, silly, and just entertaining.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 4766,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2020-08-14",
+  "keywords": "magic,summer camp,camp counselor,mentor,magician",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Adam Devine",
+      "url": "https://www.imdb.com/name/nm2796745/"
+    },
+    {
+      "name": "Jeffrey Tambor",
+      "url": "https://www.imdb.com/name/nm0001787/"
+    },
+    {
+      "name": "Gillian Jacobs",
+      "url": "https://www.imdb.com/name/nm1843026/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mark Waters",
+      "url": "https://www.imdb.com/name/nm0914132/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Micah Fitzerman-Blue",
+      "url": "https://www.imdb.com/name/nm2873116/"
+    },
+    {
+      "name": "Noah Harpster",
+      "url": "https://www.imdb.com/name/nm1406764/"
+    },
+    {
+      "name": "Matt Spicer",
+      "url": "https://www.imdb.com/name/nm0818485/"
+    }
+  ]
+}

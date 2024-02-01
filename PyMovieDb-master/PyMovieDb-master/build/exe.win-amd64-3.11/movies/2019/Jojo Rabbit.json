@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Jojo Rabbit",
+  "url": "https://www.imdb.com/tt2584384/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjU0Yzk2MzEtMjAzYy00MzY0LTg2YmItM2RkNzdkY2ZhN2JkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg",
+  "description": "A young German boy in the Hitler Youth whose hero and imaginary friend is the country&apos;s dictator is shocked to discover that his mother is hiding a Jewish girl in their home.",
+  "review": {
+    "author": "EvilMissQB",
+    "dateCreated": "2019-11-03",
+    "inLanguage": "English",
+    "heading": "Moving, hilarious...tragic",
+    "reviewBody": "The trailer for the movie had me scratching my head but as a HUGE fan of Waititi I felt I ought to give it a shot.\n\nMy best spoiler free review is that this is an original, outrageous film. The emotional gamut we are subjected to is whiplash inducing, but without the neck brace and ambulance chasing lawyers.\n\nEvery actor is perfection. Young JoJo and Yorkie are devastatingly earnest and so talented. Sam Rockwell is always a master. Every subtle satire is underwritten with a grim level of truth. The soundtrack n unexpected choice.\n\nGo see it. Prepare yourself for quite a ride.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 431115,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "War"
+  ],
+  "datePublished": "2020-01-01",
+  "keywords": "nazi germany,world war two,mother son relationship,imaginary friend,jewish girl",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "Roman Griffin Davis",
+      "url": "https://www.imdb.com/name/nm9877392/"
+    },
+    {
+      "name": "Thomasin McKenzie",
+      "url": "https://www.imdb.com/name/nm5057169/"
+    },
+    {
+      "name": "Scarlett Johansson",
+      "url": "https://www.imdb.com/name/nm0424060/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Taika Waititi",
+      "url": "https://www.imdb.com/name/nm0169806/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Christine Leunens",
+      "url": "https://www.imdb.com/name/nm9862836/"
+    },
+    {
+      "name": "Taika Waititi",
+      "url": "https://www.imdb.com/name/nm0169806/"
+    }
+  ]
+}

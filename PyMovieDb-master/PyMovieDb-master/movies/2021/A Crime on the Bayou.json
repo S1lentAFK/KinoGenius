@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "A Crime on the Bayou",
+  "url": "https://www.imdb.com/tt10837932/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzFjZGJiOTUtMTczZi00ODFkLTk5NzctY2U1MTY3YjBhMzc0XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+  "description": "Washington, D.C. attorney Richard Sobol stands up to a racist legal system to defend Gary Duncan, a Black teenager wrongfully accused of assaulting a boy in 1966 New Orleans.",
+  "review": {
+    "author": "chalices",
+    "dateCreated": "2021-06-27",
+    "inLanguage": "English",
+    "heading": "B&W and color film",
+    "reviewBody": "Real history spoken by those who made it. Archivalists are heroes to me. Real history. Truth. I was still in school when it happened.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 135,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2021-06-18",
+  "keywords": "reenactment,louisiana,bayou,united states of america,teenager",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Gary Duncan",
+      "url": "https://www.imdb.com/name/nm12082614/"
+    },
+    {
+      "name": "Richard Sobol",
+      "url": "https://www.imdb.com/name/nm12082615/"
+    },
+    {
+      "name": "Lolis Eric Elie",
+      "url": "https://www.imdb.com/name/nm2954620/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Nancy Buirski",
+      "url": "https://www.imdb.com/name/nm1799233/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nancy Buirski",
+      "url": "https://www.imdb.com/name/nm1799233/"
+    }
+  ]
+}

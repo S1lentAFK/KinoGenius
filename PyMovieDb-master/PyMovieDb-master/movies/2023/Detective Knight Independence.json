@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Detective Knight: Independence",
+  "url": "https://www.imdb.com/tt22394702/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTAxYTliNjctNmQ3OC00NDA2LTkwOWUtNGNlNDhmMGE1Yjc5XkEyXkFqcGdeQXVyNzUwMDA5NDE@._V1_.jpg",
+  "description": "Detective James Knight&apos;s last-minute assignment to the Independence Day shift turns into a race against time to stop an unbalanced EMT worker who&apos;s posing as a cop.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2023-01-24",
+    "inLanguage": "English",
+    "heading": "Bruce in last trilogy",
+    "reviewBody": "This starts with a harrowing bank robbery. Detective James Knight (Bruce Willis) and Fitzgerald (Lochlyn Munro) arrive to help take them down. EMTs Dezi (Jack Kilmer) and Ally (Willow Shields) come to treat the wounded. Dezi tries to treat one of the dying robbers, but Fitzgerald redirects them to treat the bank manager. Dezi slowly spirals downward and joins the dark side.\n\nI really like the opening, but it starts going downhill as soon as the EMTs show up. They are not good actors and they are acting more like junkies. Something is off. Maybe Dezi needs to go full loner mode. He needs to be alone for the whole movie. Of course, everybody wants to know about Bruce. He&apos;s not the lead in this last movie of the trilogy. He&apos;s fine although he&apos;s not asked to do that much. This is still not a good movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 1388,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "datePublished": "2023-03-06",
+  "keywords": "f word,bank robber wearing mask,woman smokes a cigarette,4th of july,fourth of july",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Bruce Willis",
+      "url": "https://www.imdb.com/name/nm0000246/"
+    },
+    {
+      "name": "Jack Kilmer",
+      "url": "https://www.imdb.com/name/nm5451410/"
+    },
+    {
+      "name": "Willow Shields",
+      "url": "https://www.imdb.com/name/nm3094377/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Edward Drake",
+      "url": "https://www.imdb.com/name/nm4864836/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Edward Drake",
+      "url": "https://www.imdb.com/name/nm4864836/"
+    },
+    {
+      "name": "Corey Large",
+      "url": "https://www.imdb.com/name/nm1143429/"
+    }
+  ]
+}

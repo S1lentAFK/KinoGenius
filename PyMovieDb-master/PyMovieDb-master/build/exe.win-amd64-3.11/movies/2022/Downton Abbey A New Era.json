@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Downton Abbey: A New Era",
+  "url": "https://www.imdb.com/tt11703710/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDdjZjM1YWItNWRmOS00OTEzLWJmYjAtOGQzNTAyNmEwNDhjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "The Crawley family goes on a grand journey to the South of France to uncover the mystery of the dowager countess&apos;s newly inherited villa.",
+  "review": {
+    "author": "JohnDeSando",
+    "dateCreated": "2022-05-20",
+    "inLanguage": "English",
+    "heading": "The Downton mystique is alive and well. And the cinematography is superb.",
+    "reviewBody": "High-class soap-opera-like Downton Abbey: A New Era should be called what it really is: high-class melodrama. Here is a rambling story with too many characters, but who cares? Because it&apos;s told so well with each character clearly defined and loveable.\n\nAfter the binge-worthy six-sessions TV series in the early 2010&apos;s, the 2019 film, with its visit from royalty, held up well enough to spawn this sequel, Downton Abbey: A New Era, in which the aristocratic Crawley family is crawling into the 1930&apos;s, with The Great Depression, wars, and innovations imminent. The film creates a vitality even in a staid Brit world largely because of a robust screenplay and spot-on actors. Not to forget drone shots of the impossibly cinematic estate.\n\nIn fact, no melodramatic villain appears, if you exclude the arch-disturber, Change. Writer Julian Fellowes and director Simon Curtis have crafted a rousing fable about a new era as it approaches the third decade of the 20th century through the lens of a visiting Hollywood production to the Abbey.\n\nMarry that modern incursion to the hidebound Brit tradition and you have a sentimental farewell to the old world, signified by the sharp-witted Dowager Countess Violet (Maggie Smith), who is ready to pass the estate and a newly-added villa in the south of France to the younger Granthams. A formidable subplot is the change the Hollywood production itself must face as sound trounces silent movies and same-sex relationships emerge, galaxies away from our modern acceptance of sexual orientations.\n\nThe most moving scene is when the production learns it has to create a sound track in order to continue filming. Watching them sync the sound (dubbing so to speak) to the actors for the first time since they saw Jolson say a few words in The Jazz Singer is just as if we were in a time machine witnessing that monumental change almost 100 years ago.\n\nDownton Abbey is a state of mind, not a place, where our dreams of upper-class blissful isolation clash with the realities of life both for the rich and the poor. Throughout is a benign sense of humanity&apos;s essential goodness and our common bonds. Cinema has brought us together in time and sympathy-see A New Era in a theater with its glorious visuals and commanding sound-We&apos;ve come a long way, Baby.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 29271,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2022-04-29",
+  "keywords": "next generation,place name in title,british drama,royal visit,domestic servant",
+  "duration": "PT2H4M",
+  "actor": [
+    {
+      "name": "Hugh Bonneville",
+      "url": "https://www.imdb.com/name/nm0095017/"
+    },
+    {
+      "name": "Jim Carter",
+      "url": "https://www.imdb.com/name/nm0141697/"
+    },
+    {
+      "name": "Michelle Dockery",
+      "url": "https://www.imdb.com/name/nm1890784/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Simon Curtis",
+      "url": "https://www.imdb.com/name/nm0193508/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Julian Fellowes",
+      "url": "https://www.imdb.com/name/nm0271501/"
+    }
+  ]
+}

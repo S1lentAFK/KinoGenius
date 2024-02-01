@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Voyagers",
+  "url": "https://www.imdb.com/tt9664108/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDIzODQyODQtYzIyYy00MDE5LWJmZjMtMDRmYTRkNzAyZjAzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+  "description": "A crew of astronauts on a multi-generational mission descend into paranoia and madness, not knowing what is real or not.",
+  "review": {
+    "author": "xNecRosex",
+    "dateCreated": "2021-05-19",
+    "inLanguage": "English",
+    "heading": "Well, pretty much a disaster",
+    "reviewBody": "Subpar flick lacking anything worth mentioning. The trailer was probably the best thing about this film and after watching the film you realise the trailer was waaaay better, the viiibes etc, rather cool.\n\nDepp&apos;s daughter though, has a potential to be a good actress, just isn&apos;t quite there yet.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 25415,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Adventure",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "datePublished": "2021-12-27",
+  "keywords": "space travel,trapped in space,emotional control drug,reference to lord of the flies,leadership",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "Colin Farrell",
+      "url": "https://www.imdb.com/name/nm0268199/"
+    },
+    {
+      "name": "Tye Sheridan",
+      "url": "https://www.imdb.com/name/nm4446467/"
+    },
+    {
+      "name": "Lily-Rose Depp",
+      "url": "https://www.imdb.com/name/nm6675440/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Neil Burger",
+      "url": "https://www.imdb.com/name/nm1139726/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Neil Burger",
+      "url": "https://www.imdb.com/name/nm1139726/"
+    }
+  ]
+}

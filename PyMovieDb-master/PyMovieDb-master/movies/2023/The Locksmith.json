@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Locksmith",
+  "url": "https://www.imdb.com/tt15829724/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzkyYTU1ZjQtYzFiMS00YjNhLWE3YzQtMmNmNTZjZjRiY2E4XkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_.jpg",
+  "description": "A thief fresh out of prison, tries to work his way back into the life of his daughter and ex-fiancé. Determined, he is forced to use the skills he has as a gifted locksmith. Things take a tumultuous turn after an unexpected disapp...",
+  "review": {
+    "author": "transientdreams",
+    "dateCreated": "2023-02-05",
+    "inLanguage": "English",
+    "heading": "Surprisingly Well Done on Most Levels...",
+    "reviewBody": "I almost have to attribute many low scores on good little movies these days on the fact that the vast majority of people are just not properly educated about what makes a quality production. Before cell phones and internet, people watched a LOT more movies. Thusly, their attention spans were forced to actually stay and think about what they were watching, or had just watched after it was over. Because of the vast amount of constant entertainment choices at everyone&apos;s finger tips these days, people are constantly trying to find something better the minute something ends. I believe it&apos;s a very solid 6.5 movie. Everyone did an excellent job all-around here. It also has a very intelligently written script. Gutzy, tense, not overly mellow-dramatic, and never gets preachy. It definitely delivers.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 2062,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Mystery"
+  ],
+  "datePublished": "2023-02-03",
+  "keywords": "psychological thriller,lock,locksmith,missing job,crack",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Kate Bosworth",
+      "url": "https://www.imdb.com/name/nm0098378/"
+    },
+    {
+      "name": "Ving Rhames",
+      "url": "https://www.imdb.com/name/nm0000609/"
+    },
+    {
+      "name": "Ryan Phillippe",
+      "url": "https://www.imdb.com/name/nm0000202/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Nicolas Harvard",
+      "url": "https://www.imdb.com/name/nm1189187/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Glosser",
+      "url": "https://www.imdb.com/name/nm2029044/"
+    },
+    {
+      "name": "Ben Kabialis",
+      "url": "https://www.imdb.com/name/nm4322371/"
+    },
+    {
+      "name": "Blair Kroeber",
+      "url": "https://www.imdb.com/name/nm1350894/"
+    }
+  ]
+}

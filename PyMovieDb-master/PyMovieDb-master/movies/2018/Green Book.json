@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Green Book",
+  "url": "https://www.imdb.com/tt6966692/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDcyYjgyNWUtZTllZi00ZDQ3LThhMzEtOTczMWMyMWY5YWY3XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "BassLightyear",
+    "dateCreated": "2019-02-26",
+    "inLanguage": "English",
+    "heading": "A review as a respons to other (negative) reviews.",
+    "reviewBody": "I understand why a lot of critics don&apos;t like this film, but at the same time I feel like they&apos;re making up their minds about what they think the movie is - or should - be about. They (who disagree with the film) will say that it diminishes the horrors that the black community faced in America during the 50&apos;s - and because of that they think it&apos;s a bad film. But I thought it was a good film; in my opinion it&apos;s not a movie about Shirley and his struggles facing ruthless racism - it&apos;s about Tony Lip&apos;s psychologically reforming journey changing his mind about black people through the witnessing of Shirley&apos;s experiences. And it&apos;s that central story line the critics are disagreeing with and eschews the whole film on the premiss that it should&apos;ve been about something else (Shirley journey - not Tony&apos;s).\n\nThere are thousands - if not millions - of films about racism towards black people and their culture, and Green Book had a different perspective than the rest of them - by not focusing on the racism but on how the racism changed a man who wasn&apos;t a target of it. But that&apos;s obviously a big no-no according to these critics.\n\nTo me Green Book is about a white man thoroughly changing his whole mindset about something that he&apos;d been conditioned to abide to his whole life.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 550002,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.2
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2019-01-30",
+  "keywords": "on the road,racism,fried chicken,jail,piano",
+  "duration": "PT2H10M",
+  "actor": [
+    {
+      "name": "Viggo Mortensen",
+      "url": "https://www.imdb.com/name/nm0001557/"
+    },
+    {
+      "name": "Mahershala Ali",
+      "url": "https://www.imdb.com/name/nm0991810/"
+    },
+    {
+      "name": "Linda Cardellini",
+      "url": "https://www.imdb.com/name/nm0004802/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Farrelly",
+      "url": "https://www.imdb.com/name/nm0268380/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nick Vallelonga",
+      "url": "https://www.imdb.com/name/nm0885014/"
+    },
+    {
+      "name": "Brian Hayes Currie",
+      "url": "https://www.imdb.com/name/nm0192942/"
+    },
+    {
+      "name": "Peter Farrelly",
+      "url": "https://www.imdb.com/name/nm0268380/"
+    }
+  ]
+}

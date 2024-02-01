@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Perfection",
+  "url": "https://www.imdb.com/tt7772580/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA3NzkzMDUxODBeQTJeQWpwZ15BbWU4MDM0ODc5ODcz._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "ryannfortune",
+    "dateCreated": "2019-05-24",
+    "inLanguage": "English",
+    "heading": "Gross but good",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 48750,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "18",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Music"
+  ],
+  "datePublished": "2019-05-24",
+  "keywords": "revenge,vengeance,lesbian,musician,female musical prodigy",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Marie Maskell",
+      "url": "https://www.imdb.com/name/nm12477703/"
+    },
+    {
+      "name": "Allison Williams",
+      "url": "https://www.imdb.com/name/nm4129745/"
+    },
+    {
+      "name": "Christina Jastrzembska",
+      "url": "https://www.imdb.com/name/nm0419363/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Richard Shepard",
+      "url": "https://www.imdb.com/name/nm0791672/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Richard Shepard",
+      "url": "https://www.imdb.com/name/nm0791672/"
+    },
+    {
+      "name": "Nicole Snyder",
+      "url": "https://www.imdb.com/name/nm1709372/"
+    },
+    {
+      "name": "Eric C. Charmelo",
+      "url": "https://www.imdb.com/name/nm0153338/"
+    }
+  ]
+}

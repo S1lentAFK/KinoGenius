@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Mr. Harrigan&apos;s Phone",
+  "url": "https://www.imdb.com/tt12908110/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzIwOGIzZTYtYTMwNy00MzFkLTgzNjEtMmZhMzJhYzc4NGZjXkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_.jpg",
+  "description": "When Mr. Harrigan dies, Craig, the teen who befriended and did odd jobs for him, puts his smart phone in his pocket before burial. When the lonely youth sends his dead friend a message, he is shocked to get a return text.",
+  "review": {
+    "author": "GreyHunter",
+    "dateCreated": "2022-10-06",
+    "inLanguage": "English",
+    "heading": "A pretty decent drama and a somewhat disappointing horror",
+    "reviewBody": "First things first -- like many people, I binge horror in October, generally one movie a day from the 1st through the 30th, then, time allowing, two or three on Halloween itself. This movie was my choice for today (I&apos;ve seen so many horrors that I have to look off the beaten path for new ones sometimes, and sometimes I just get lazy and re-watch an old favorite) So my disappointment stems largely from the fact that I was hoping for an actual horror to fill my daily horror movie.)\n\nThis movie had horror elements. That I&apos;ll concede. But it wasn&apos;t really, overall, in the horror genre. It was a decent drama, and had it been sold as that, with just traces of horror, I would have waited to watch it in November and would have enjoyed it to some extent. Unfortunately, the story of the young boy and the elderly man who became a mentor (of sorts, since the young man never really seemed to completely buy into the old man&apos;s rather brutal outlook on life) was interesting for reasons completely unhorrific and selling this movie as a horror -- as of now, that&apos;s the only genre tag on its IMDb page -- is likely to alienate people who might otherwise enjoyed the movie on its own merits.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 37171,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "12",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2022-10-05",
+  "keywords": "based on short story,telephone,smartphone,based on novella,small town",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Donald Sutherland",
+      "url": "https://www.imdb.com/name/nm0000661/"
+    },
+    {
+      "name": "Jaeden Martell",
+      "url": "https://www.imdb.com/name/nm5897057/"
+    },
+    {
+      "name": "Joe Tippett",
+      "url": "https://www.imdb.com/name/nm3117884/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Lee Hancock",
+      "url": "https://www.imdb.com/name/nm0359387/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Lee Hancock",
+      "url": "https://www.imdb.com/name/nm0359387/"
+    },
+    {
+      "name": "Stephen King",
+      "url": "https://www.imdb.com/name/nm0000175/"
+    }
+  ]
+}

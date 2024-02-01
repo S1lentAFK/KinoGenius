@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "The Old Way",
+  "url": "https://www.imdb.com/tt8593824/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmNiODQ2MmQtOTdmNi00Y2M0LTkyYWUtMmQ2YmFiZmZmMzNkXkEyXkFqcGdeQXVyMjAwNzA4MDE@._V1_.jpg",
+  "description": "An old gunslinger and his daughter must face the consequences of his past, when the son of a man he murdered years ago arrives to take his revenge.",
+  "review": {
+    "author": "TheRealBradPitt",
+    "dateCreated": "2023-01-11",
+    "inLanguage": "English",
+    "heading": "This is no True Grit",
+    "reviewBody": "I went to see this move because it had a 7.0 at the time. I don&apos;t know what you people are thinking. I even went on half-off night and still regret it. The little girl is the best actor out of the entire cast by far. Even Cage comes up short. For hardened criminals in the cowboy days, the bad guys look like frat boys dressed up for Halloween. Or, use an excellent face moisturizer from the mercantile. And any scene with them feels like you are watching a middle school theater performance. There are so many corny punch lines as well. From the first 5 minutes it was cringe and never got better. The story line was rushed and seemed like key scenes were cut. I hate to be negative but it&apos;s a bust. Movies such as True Grit and Open Range are on a far different level of plot, authenticity, and acting. This doesn&apos;t come close and felt like another low budget Netflix film where everyone did the absolute minimum. If you think this is going to be a film about raw vengeance like the trailer suggests, it isn&apos;t. I could go on but I have made my point.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 7976,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "Western"
+  ],
+  "datePublished": "2023-02-13",
+  "keywords": "death of wife,colorado,gunslinger,jar of jelly beans,sack of flour",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Phillip Aguirre",
+      "url": "https://www.imdb.com/name/nm14299670/"
+    },
+    {
+      "name": "Ryan Kiera Armstrong",
+      "url": "https://www.imdb.com/name/nm8740834/"
+    },
+    {
+      "name": "Clint Howard",
+      "url": "https://www.imdb.com/name/nm0397212/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brett Donowho",
+      "url": "https://www.imdb.com/name/nm0233078/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Carl W. Lucas",
+      "url": "https://www.imdb.com/name/nm2707805/"
+    }
+  ]
+}

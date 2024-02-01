@@ -1,0 +1,72 @@
+{
+  "type": "Movie",
+  "name": "Fast X",
+  "url": "https://www.imdb.com/tt5433140/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzZmOTU1ZTEtYzVhNi00NzQxLWI5ZjAtNWNhNjEwY2E3YmZjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+  "description": "Dom Toretto and his family are targeted by the vengeful son of drug kingpin Hernan Reyes.",
+  "review": {
+    "author": "Top_Dawg_Critic",
+    "dateCreated": "2023-05-23",
+    "inLanguage": "English",
+    "heading": "The most entertaining part of this movie are the ChatGPT 10/10 reviews",
+    "reviewBody": "I mean they didn&apos;t even try to hide the fact they are all mostly two word titles with copy-pasting the same sentences in different order in one paragraph. Racing Victors, Racing Heat, Racing Rivals, Racing Independence, Racing Mavericks, Racing Tranquility, Racing Liberty, Racing Bliss, Racing Winners, Racing Explorer, Racing Heaven... and many, many more - and those are just the titles starting with Racing, there are other obvious patterns with different title words.\n\nThis has to be a world record for bogus ChatGPT reviews. I mean it&apos;s pretty bad when the producers have to stoop so low, and they&apos;re that lazy to even hide the fact they are trying to fool their audience this way. It also proves how little faith they have in their own film. The current Rotten Tomatoes critics 54% rating is a more accurate. I gave it a generous 6/10.\n\nIt&apos;s too bad more effort didn&apos;t go into the writing and S/VFX (which needed major toning down and lacked realism), as they put towards trying to fool their fans of the franchise. This was too long, too slow, and too cartoonish. The writing was infantile, like it was written by a bunch of prepubescent giggly teens, and Momoa&apos;s character was too overboard and can&apos;t be taken in long doses. They basically tried to copy The Joker&apos;s character instead of creating his own persona. His performance however was still the most engaging and entertaining. Don&apos;t even get me started on the lame ending which will punish anyone following Vin Diesel on social media with him constantly counting down the days until the next ridiculous part 2 of Fast X. They should&apos;ve just put us all out of our misery and ended this franchise at a nice even number.\n\nNevertheless, still a decent popcorn watch riddled with brainless exposes of plot holes and nonsense entertainment, especially if you have nothing better to do and almost 3 hours to waste.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 109001,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "datePublished": "2023-05-19",
+  "keywords": "fast and furious franchise,car,dominic toretto character,shared universe,blockbuster",
+  "duration": "PT2H21M",
+  "actor": [
+    {
+      "name": "Vin Diesel",
+      "url": "https://www.imdb.com/name/nm0004874/"
+    },
+    {
+      "name": "Michelle Rodriguez",
+      "url": "https://www.imdb.com/name/nm0735442/"
+    },
+    {
+      "name": "Jason Statham",
+      "url": "https://www.imdb.com/name/nm0005458/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Louis Leterrier",
+      "url": "https://www.imdb.com/name/nm0504642/"
+    },
+    {
+      "name": "Justin Lin",
+      "url": "https://www.imdb.com/name/nm0510912/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dan Mazeau",
+      "url": "https://www.imdb.com/name/nm2669197/"
+    },
+    {
+      "name": "Justin Lin",
+      "url": "https://www.imdb.com/name/nm0510912/"
+    },
+    {
+      "name": "Zach Dean",
+      "url": "https://www.imdb.com/name/nm3916149/"
+    }
+  ]
+}

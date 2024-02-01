@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Arlo the Alligator Boy",
+  "url": "https://www.imdb.com/tt13454122/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2UxODlhMjItZjA5ZC00ZTdlLWIwNGYtOTgwMTI0MGVkNjNhXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+  "description": "A young humanoid alligator travels to the big city in hopes of reuniting with his estranged father, meeting a colorful cast of characters along the way.",
+  "review": {
+    "author": "Razic0",
+    "dateCreated": "2021-04-20",
+    "inLanguage": "English",
+    "heading": "Mediocre with heart",
+    "reviewBody": "It&apos;s a nicely animated musical to a degree. I feel it&apos;s easier to enjoy if you just treat it like a musical rather than a movie as the characters sing every few scenes. What I find compelling was the characters themselves being honest, a little standard but interesting in their own rights. If they spent some time to develop individual characters it would have shown alot better. It&apos;s a nice watch and one of the better Netflix originals.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 1237,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2021-04-16",
+  "keywords": "father,mother,city,new york,home",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Michael J. Woodard",
+      "url": "https://www.imdb.com/name/nm3690801/"
+    },
+    {
+      "name": "Ryan Crego",
+      "url": "https://www.imdb.com/name/nm3112957/"
+    },
+    {
+      "name": "Dee Bradley Baker",
+      "url": "https://www.imdb.com/name/nm0048389/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ryan Crego",
+      "url": "https://www.imdb.com/name/nm3112957/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ryan Crego",
+      "url": "https://www.imdb.com/name/nm3112957/"
+    },
+    {
+      "name": "Clay Senechal",
+      "url": "https://www.imdb.com/name/nm0784180/"
+    }
+  ]
+}

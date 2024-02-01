@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "The Kid Who Would Be King",
+  "url": "https://www.imdb.com/tt6811018/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA1ODc3ODUzNjVeQTJeQWpwZ15BbWU4MDQ4OTk4OTYz._V1_.jpg",
+  "description": "Alex, a 12-year-old boy, and his friends fight an evil sorceress with the help of Excalibur, the sword of King Arthur, in a bid to save the world from her atrocities.",
+  "review": {
+    "author": "jmagruder-194-699202",
+    "dateCreated": "2019-08-17",
+    "inLanguage": "English",
+    "heading": "This is more like it!",
+    "reviewBody": "Great family flik! Fun take, not too cliche in some points, humor and who doesn&apos;t love Patrick Stewart?",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 18353,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Family"
+  ],
+  "datePublished": "2019-02-15",
+  "keywords": "reference to led zeppelin,close up of eye,evil woman,good versus evil,final battle",
+  "duration": "PT2H",
+  "actor": [
+    {
+      "name": "Louis Ashbourne Serkis",
+      "url": "https://www.imdb.com/name/nm6162831/"
+    },
+    {
+      "name": "Denise Gough",
+      "url": "https://www.imdb.com/name/nm1740112/"
+    },
+    {
+      "name": "Dean Chaumoo",
+      "url": "https://www.imdb.com/name/nm9299964/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joe Cornish",
+      "url": "https://www.imdb.com/name/nm0180428/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joe Cornish",
+      "url": "https://www.imdb.com/name/nm0180428/"
+    }
+  ]
+}

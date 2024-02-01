@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Spider-Man: Far from Home",
+  "url": "https://www.imdb.com/tt6320628/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODA5MTY0OWUtNjdlOC00NDI5LWE3NjYtNDM4MDI2MzE4OWUxXkEyXkFqcGdeQXVyOTAzODkzMjI@._V1_.jpg",
+  "description": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
+  "review": {
+    "author": "chenpingcandycp",
+    "dateCreated": "2019-07-11",
+    "inLanguage": "English",
+    "heading": "What a poor kid, Peter Parker.",
+    "reviewBody": "Just evaluating this piece of work, I genuinely think it is a very good superhero popcorn movie. The visual effects are awesome, the scene is shocking enough, the comedy element is just right, and the plot is also great. If placed in the Marvel universe, Spider-Man&apos;s growth and the missing feeling for Iron Man are enough to touch people deeply. I was pretty sad the whole time when I watching the movie because I already know the ending and everything. Peter Park, the 16 years old boy, has suffered way too much. He is not Tony Stark, but everyone wants him to be. After the end game, he is no longer the young boy who is high-minded and dreaming to be the big hero to the world like he was in the Homecoming. Now he doubts himself, he lost his confidence. He only wants to be a friendly neighbor, but he also lost the right to choose, to make the decision. He bears far more than he should bear, what a poor kid...",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 543520,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2019-07-02",
+  "keywords": "marvel cinematic universe,vacation,superhero,sequel,spider man character",
+  "duration": "PT2H9M",
+  "actor": [
+    {
+      "name": "Tom Holland",
+      "url": "https://www.imdb.com/name/nm4043618/"
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "url": "https://www.imdb.com/name/nm0000168/"
+    },
+    {
+      "name": "Jake Gyllenhaal",
+      "url": "https://www.imdb.com/name/nm0350453/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jon Watts",
+      "url": "https://www.imdb.com/name/nm1218281/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Chris McKenna",
+      "url": "https://www.imdb.com/name/nm0571344/"
+    },
+    {
+      "name": "Erik Sommers",
+      "url": "https://www.imdb.com/name/nm1273099/"
+    },
+    {
+      "name": "Stan Lee",
+      "url": "https://www.imdb.com/name/nm0498278/"
+    }
+  ]
+}

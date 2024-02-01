@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Halftime",
+  "url": "https://www.imdb.com/tt19637852/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjhlZjgzZWItMDkwMS00MzZmLTk2NTYtODZlYWRlN2M4OTg1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "Global superstar Jennifer Lopez reflects on her multifaceted career and the pressure of life in the spotlight in this intimate documentary.",
+  "review": {
+    "author": "katiefanatic-791-306918",
+    "dateCreated": "2022-06-15",
+    "inLanguage": "English",
+    "heading": "Not as flattering as people think.",
+    "reviewBody": "I&apos;m a disabled Latina and I grew up with a very aggressive mother who had to fight for most of my rights. Because of this, I&apos;m extremely turned off by these personality types. Despite my disability and my minority status as a Latina, I fully admit I have a problem taking up space, something Lopez has NO problem doing. Unfortunately for someone like me, it&apos;s extremely unflattering for me to watch a documentary of a personality type like this. While most people are praising her perseverance, I just heard whine after whine after whine of a very privileged person. You can&apos;t argue Lopez isn&apos;t a hard worker. She&apos;s one of my favorite actresses but her singing and dancing leave something to be desired. Maybe she should stop whining about the oscar nomination she didn&apos;t get (that she didn&apos;t deserve by the way. &apos;Hustlers&apos; was terrible. ) and focus on becoming a better singer and dancer. Until then I can&apos;t feel pity for someone who has gotten by on how hot they are.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 5562,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Documentary",
+    "Biography",
+    "Music"
+  ],
+  "datePublished": "2022-06-14",
+  "keywords": "girl,singing,singer,performance,career",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Jennifer Lopez",
+      "url": "https://www.imdb.com/name/nm0000182/"
+    },
+    {
+      "name": "Ben Affleck",
+      "url": "https://www.imdb.com/name/nm0000255/"
+    },
+    {
+      "name": "Adam Blackstone",
+      "url": "https://www.imdb.com/name/nm1406033/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Amanda Micheli",
+      "url": "https://www.imdb.com/name/nm0584974/"
+    },
+    {
+      "name": "Sam Wrench",
+      "url": "https://www.imdb.com/name/nm3532802/"
+    }
+  ],
+  "creator": []
+}

@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "She Came to Me",
+  "url": "https://www.imdb.com/tt6689014/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTU4NjExYTMtODMwMi00NzgwLWE5OTEtMzdlZTc4MjVlN2FjXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg",
+  "description": "A composer who suffers writer&apos;s block rediscovers his passion after an adventurous one-night stand.",
+  "review": {
+    "author": "ianharrison747",
+    "dateCreated": "2023-11-08",
+    "inLanguage": "English",
+    "heading": "Once in a while",
+    "reviewBody": "It can be a musician, an artist, a play or a film. It leaves you baffled. Liking it, is just the bonus.\n\nThe roles resemble a box of frogs. Everybody is hiding behind a curtain of creative or functional normal. Only Katrina, who in theory is the maddest of all, has the real sole and sanity. She is the most sincere.\n\nThe film jingles along - dysfunctional and baffling until that moment in the bar when Katrina interrupts sullen Steven. Immediately the chemistry kicks in. Once again Marisa Tomei edges a film.. never obvious. I couldn&apos;t issue a plethora of spoilers, as half the time I was grappling with the odd plot. Rebecca Miller directs, produces and writes a challenging and thought provoking parable ? This is a slow burner.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 2997,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "R",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2023-10-12",
+  "keywords": "adventurous,passion,writer&apos;s block,four word title,romantic comedy",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Peter Dinklage",
+      "url": "https://www.imdb.com/name/nm0227759/"
+    },
+    {
+      "name": "Anne Hathaway",
+      "url": "https://www.imdb.com/name/nm0004266/"
+    },
+    {
+      "name": "Marisa Tomei",
+      "url": "https://www.imdb.com/name/nm0000673/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rebecca Miller",
+      "url": "https://www.imdb.com/name/nm0589182/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Rebecca Miller",
+      "url": "https://www.imdb.com/name/nm0589182/"
+    }
+  ]
+}

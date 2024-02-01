@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Resurrection",
+  "url": "https://www.imdb.com/tt11540726/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzg3Y2VhMTMtYTMzOS00YTJlLWFiOTAtMjMwNDBlMGM4MGUyXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+  "description": "Margaret&apos;s life is in order. She is capable, disciplined and successful. Everything is under control until David returns - that is - carrying with him the horrors of Margaret&apos;s past.",
+  "review": {
+    "author": "phoenixashes33",
+    "dateCreated": "2022-10-06",
+    "inLanguage": "English",
+    "heading": "Fabulous acting, horrible film",
+    "reviewBody": "I hated it. I love Rebecca Hall and Tim Roth but I had to struggle to get through this. It&apos;s the most uncomfortable and annoying film I&apos;ve seen in recent memory. You just want to shake someone or slap em.\n\nIt&apos;s a slow burn that goes haywire somewhere and everything you thought you knew goes out the window.\n\nIt honestly gave me a migraine by the end.bWhich, I&apos;ll say nothing about but....yeesh.\n\nThe acting is phenomenal but Hall is always fantastic to watch. I can&apos;t even imagine what this film would have been with someone else cast.\n\nIt&apos;s dark, it&apos;s disturbing and really maddening. If that&apos;s up your alley, go for it. I however will not be recommending it to anyone or watching it again.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 11262,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "18",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Horror"
+  ],
+  "datePublished": "2022-08-05",
+  "keywords": "abusive relationship,teenage daughter,mental breakdown,stalker,sociopath",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Rebecca Hall",
+      "url": "https://www.imdb.com/name/nm0356017/"
+    },
+    {
+      "name": "Tim Roth",
+      "url": "https://www.imdb.com/name/nm0000619/"
+    },
+    {
+      "name": "Grace Kaufman",
+      "url": "https://www.imdb.com/name/nm4272103/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrew Semans",
+      "url": "https://www.imdb.com/name/nm1187064/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Semans",
+      "url": "https://www.imdb.com/name/nm1187064/"
+    }
+  ]
+}

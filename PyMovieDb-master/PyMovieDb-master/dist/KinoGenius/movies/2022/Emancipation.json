@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Emancipation",
+  "url": "https://www.imdb.com/tt12530246/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2RiY2RmMjItMDc1My00ZmViLWJkM2YtZjExNDI5MGM2ZWNiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+  "description": "A runaway slave forges through the swamps of Louisiana on a tortuous journey to escape plantation owners that nearly killed him.",
+  "review": {
+    "author": "gravloc",
+    "dateCreated": "2022-12-09",
+    "inLanguage": "English",
+    "heading": "It&apos;s ok.",
+    "reviewBody": "My biggest complaint is the choice to go black and white, but a really weird looking black and white. It almost looks like it was shot on a cellphone. It&apos;s really distracting from trying to actually get into the movie. It was just a really bad choice in my opinion. I like pretty much everything Antoine Fuqua has ever made. Unfortunately, this is probably meant to be the most profound work he has ever done, and it&apos;s just not. It&apos;s really well made, and well acted, and technically proficient. It just doesn&apos;t have the impact that I think it&apos;s meant to have, which is disappointing. Plus, Ben Foster is a great actor, but I think he needs to move on from being the go to bad guy. However, the weird choice of the strange looking black and white, or whatever it is I was looking at was what really took me out of the experience the most. Oh well, overall it wasn&apos;t bad.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 26070,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Thriller"
+  ],
+  "datePublished": "2022-12-09",
+  "keywords": "american south,psychological thriller,killed,freedom,murder",
+  "duration": "PT2H12M",
+  "actor": [
+    {
+      "name": "Will Smith",
+      "url": "https://www.imdb.com/name/nm0000226/"
+    },
+    {
+      "name": "Ben Foster",
+      "url": "https://www.imdb.com/name/nm0004936/"
+    },
+    {
+      "name": "Charmaine Bingwa",
+      "url": "https://www.imdb.com/name/nm6192439/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Antoine Fuqua",
+      "url": "https://www.imdb.com/name/nm0298807/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bill Collage",
+      "url": "https://www.imdb.com/name/nm0171651/"
+    }
+  ]
+}

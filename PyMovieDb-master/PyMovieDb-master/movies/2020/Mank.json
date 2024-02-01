@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Mank",
+  "url": "https://www.imdb.com/tt10618286/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTllMjI0ZGYtM2FmZC00ZmY4LTlkNTYtZThlOWQ1OGQyZTA3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "secondtake",
+    "dateCreated": "2020-12-16",
+    "inLanguage": "English",
+    "heading": "Sadly overwrought and underwhelmed",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 81521,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2020-12-04",
+  "keywords": "1930s,1940s,los angeles california,hollywood california,beach",
+  "duration": "PT2H11M",
+  "actor": [
+    {
+      "name": "Gary Oldman",
+      "url": "https://www.imdb.com/name/nm0000198/"
+    },
+    {
+      "name": "Amanda Seyfried",
+      "url": "https://www.imdb.com/name/nm1086543/"
+    },
+    {
+      "name": "Lily Collins",
+      "url": "https://www.imdb.com/name/nm2934314/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Fincher",
+      "url": "https://www.imdb.com/name/nm0000399/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jack Fincher",
+      "url": "https://www.imdb.com/name/nm10827638/"
+    }
+  ]
+}

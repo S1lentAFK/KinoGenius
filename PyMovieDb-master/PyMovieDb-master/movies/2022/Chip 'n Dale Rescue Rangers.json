@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Chip &apos;n Dale: Rescue Rangers",
+  "url": "https://www.imdb.com/tt3513500/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjBlMjIxN2ItNTMyNi00NDk5LWFhMzEtNzdiODE0Y2M4MWI2XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+  "description": "Thirty years after their popular television show ended, chipmunks Chip and Dale live very different lives. When a cast member from the original series mysteriously disappears, the pair must reunite to save their friend.",
+  "review": {
+    "author": "junesoo_lee",
+    "dateCreated": "2022-05-26",
+    "inLanguage": "English",
+    "heading": "Surprising great and we need more movies like this",
+    "reviewBody": "Never seen or heard of the 90s tv show, so I had no high hopes going into this movie. Man! This movie surprised me!\n\nSimilar to Who Frame Roger Rabbits, chip n dale takes place in a real world where cartoon characters are real people living in the modern world. I love that cause they combine that animation style with lots of pop culture references which is really fun to see. Nothing about this feels cheesy, misplaced, or forced. It all feels so natural and smart.\n\nNever thought I get invested with the characters, both Samberg and Mulaney have great chemistry together, UGLY SONIC, Seth Rogen, and love the mystery/detective theme.\n\nAnimation and cartoons fans out there, go see this movie.\n\nLight 8.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 46087,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "9+",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2022-05-20",
+  "keywords": "chipmunk,mouse,animal hero,chip &apos;n&apos; dale characters,live action and animation",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Andy Samberg",
+      "url": "https://www.imdb.com/name/nm1676221/"
+    },
+    {
+      "name": "John Mulaney",
+      "url": "https://www.imdb.com/name/nm1825214/"
+    },
+    {
+      "name": "KiKi Layne",
+      "url": "https://www.imdb.com/name/nm8460487/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Akiva Schaffer",
+      "url": "https://www.imdb.com/name/nm1676223/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dan Gregor",
+      "url": "https://www.imdb.com/name/nm2287168/"
+    },
+    {
+      "name": "Doug Mand",
+      "url": "https://www.imdb.com/name/nm3096061/"
+    }
+  ]
+}

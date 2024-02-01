@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Space Jam: A New Legacy",
+  "url": "https://www.imdb.com/tt3554046/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTNhNTI0YTMtZTgwMC00OTI2LThhOTAtOGEzOTEyM2MzZTgyXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "jorgeesc",
+    "dateCreated": "2021-07-19",
+    "inLanguage": "English",
+    "heading": "lousy",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 2
+    }
+  },
+  "rating": {
+    "ratingCount": 78875,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.5
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2021-07-16",
+  "keywords": "real person becomes animated,rabbit,duck,monster,pig",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "LeBron James",
+      "url": "https://www.imdb.com/name/nm1429908/"
+    },
+    {
+      "name": "Don Cheadle",
+      "url": "https://www.imdb.com/name/nm0000332/"
+    },
+    {
+      "name": "Cedric Joe",
+      "url": "https://www.imdb.com/name/nm9347978/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Malcolm D. Lee",
+      "url": "https://www.imdb.com/name/nm0002700/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Leo Benvenuti",
+      "url": "https://www.imdb.com/name/nm1080144/"
+    },
+    {
+      "name": "Steve Rudnick",
+      "url": "https://www.imdb.com/name/nm0748874/"
+    },
+    {
+      "name": "Timothy Harris",
+      "url": "https://www.imdb.com/name/nm0365390/"
+    }
+  ]
+}

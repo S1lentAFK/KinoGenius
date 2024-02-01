@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Goosebumps 2: Haunted Halloween",
+  "url": "https://www.imdb.com/tt5664636/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzgxMDQ2MDUyMF5BMl5BanBnXkFtZTgwNzgyMjQyNjM@._V1_.jpg",
+  "description": "Two young friends find a magic book that brings a ventriloquist&apos;s dummy to life.",
+  "review": {
+    "author": "moviegeek86-934-730840",
+    "dateCreated": "2018-10-14",
+    "inLanguage": "English",
+    "heading": "Fun sequel",
+    "reviewBody": "The original Goosebumps movie took me by surprise when it came out in 2015. It had fun likable characters and a great villain in Slappy the evil dummy. \n\nFast forward 3 years and here&apos;s the sequel. 99% of the cast from the original is missing and the new characters aren&apos;t as interesting. They&apos;re serviceable but kind of forgettable. The story is also not as well paced as the original and is too fast for its own good coming in as a little too short. It needed about another 10 minutes or so in its last act.\n\nBut I can&apos;t hate it because it&apos;s still a lot of fun. Once again Slappy steals the show and there&apos;s some surprisingly creepy scenes involving him early on in the movie. The other Goosebumps monsters are fun too and the halloween setting puts a smile on my face. I also really dug the musical score by Dominic Lewis. \n\nIf you have kids I highly recommend taking them to this one. Although there might be a few scenes too scary for the younger ones it&apos;s the perfect horror movie for them to watch during the Halloween season. \n\nBuy a ticket, some popcorn and a soda and have fun.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 23399,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "datePublished": "2018-10-19",
+  "keywords": "halloween,sequel,horror for children,mother,science project",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Wendi McLendon-Covey",
+      "url": "https://www.imdb.com/name/nm1018488/"
+    },
+    {
+      "name": "Madison Iseman",
+      "url": "https://www.imdb.com/name/nm5589690/"
+    },
+    {
+      "name": "Jeremy Ray Taylor",
+      "url": "https://www.imdb.com/name/nm5582294/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ari Sandel",
+      "url": "https://www.imdb.com/name/nm1847738/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Rob Lieber",
+      "url": "https://www.imdb.com/name/nm1464577/"
+    },
+    {
+      "name": "Darren Lemke",
+      "url": "https://www.imdb.com/name/nm0501359/"
+    },
+    {
+      "name": "R.L. Stine",
+      "url": "https://www.imdb.com/name/nm0830419/"
+    }
+  ]
+}

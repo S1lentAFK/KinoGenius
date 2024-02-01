@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "The Wrong Missy",
+  "url": "https://www.imdb.com/tt9619798/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2QwZWJlZjMtNzU5NC00NTA0LWI1MjQtYWQ1ZTg4NWZmNjdkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+  "description": "Tim thinks he&apos;s invited the woman of his dreams on a work retreat to Hawaii, realizing too late he mistakenly texted someone from a nightmare blind date.",
+  "review": {
+    "author": "rahs-al-ghul",
+    "dateCreated": "2020-05-15",
+    "inLanguage": "English",
+    "heading": "Lapkus makes her mark",
+    "reviewBody": "I&apos;m generally skeptical these dates of anything that Adam Sandler&apos;s name is attached to these days. While the movie itself has its shortcomings, not the least of which is Spade as the romantic lead it has a shining light: Lauren Lapkus, whose comedic performance is the superb. It puts her alongside the best comedic actors of the moment. She completely commits to everything which means that many of the moments that would be rendered unfunny in less capable hands hit the mark or exceed it. I will be going out of my way to watch her in the future.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 44391,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2020-05-13",
+  "keywords": "blind date,hawaii,texting wrong person,hypnotism,falling from height",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "David Spade",
+      "url": "https://www.imdb.com/name/nm0005450/"
+    },
+    {
+      "name": "Lauren Lapkus",
+      "url": "https://www.imdb.com/name/nm1944055/"
+    },
+    {
+      "name": "Nick Swardson",
+      "url": "https://www.imdb.com/name/nm0841910/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tyler Spindel",
+      "url": "https://www.imdb.com/name/nm2634746/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Chris Pappas",
+      "url": "https://www.imdb.com/name/nm2475608/"
+    },
+    {
+      "name": "Kevin Barnett",
+      "url": "https://www.imdb.com/name/nm0055937/"
+    }
+  ]
+}

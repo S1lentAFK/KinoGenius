@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Champions",
+  "url": "https://www.imdb.com/tt15339570/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTYwMWJjZTgtMzJiNS00OGIzLWE1NDYtNjgwMDUwYjZiOTc5XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_.jpg",
+  "description": "A former minor-league basketball coach is ordered by the court to manage a team of players with intellectual disabilities. He soon realizes that despite his doubts, together, this team can go further than they ever imagined.",
+  "review": {
+    "author": "TDKBestFilmEever",
+    "dateCreated": "2023-03-10",
+    "inLanguage": "English",
+    "heading": "An absolute delight!",
+    "reviewBody": "Despite mixed reviews, I absolutely loved this. What a delight. Woody is excellent in the lead and the film is frequently funny and charming.\n\nIt really shouldn&apos;t have been 2 hours in length and it won&apos;t be everyone&apos;s kind of humour, but it was a great cinema experience, with the entire audience laughing throughout.\n\nMaybe I&apos;m biased. As a huge NBA fan I liked all the basketball references and as a huge Always sunny fan, I loved seeing sweet Dee on the big screen.\n\nBut either way I think everyone should give this film a chance. This is a real crowd pleaser and one of my favourite films of 2023 so far.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 23465,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2023-03-10",
+  "keywords": "singing in a car,basketball,basketball coach,basketball team,remake",
+  "duration": "PT2H4M",
+  "actor": [
+    {
+      "name": "Woody Harrelson",
+      "url": "https://www.imdb.com/name/nm0000437/"
+    },
+    {
+      "name": "Kaitlin Olson",
+      "url": "https://www.imdb.com/name/nm0647698/"
+    },
+    {
+      "name": "Matt Cook",
+      "url": "https://www.imdb.com/name/nm3129512/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bobby Farrelly",
+      "url": "https://www.imdb.com/name/nm0125803/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Rizzo",
+      "url": "https://www.imdb.com/name/nm2626629/"
+    },
+    {
+      "name": "Javier Fesser",
+      "url": "https://www.imdb.com/name/nm0275250/"
+    },
+    {
+      "name": "David Marqués",
+      "url": "https://www.imdb.com/name/nm1319488/"
+    }
+  ]
+}

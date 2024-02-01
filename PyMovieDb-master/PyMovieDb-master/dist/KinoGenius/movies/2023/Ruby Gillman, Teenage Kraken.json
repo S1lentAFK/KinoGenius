@@ -1,0 +1,72 @@
+{
+  "type": "Movie",
+  "name": "Ruby Gillman, Teenage Kraken",
+  "url": "https://www.imdb.com/tt27155038/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGM5NzBmNTItMTk5Ni00NmQzLTg1NmUtMDkyY2E2MDE1ZGZiXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "lojitsu",
+    "dateCreated": "2023-06-20",
+    "inLanguage": "English",
+    "heading": "Prime real estate for the 6-14 age range",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 8677,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2023-06-30",
+  "keywords": "mermaid,kraken,teenage girl,cgi animation,ocean",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Jane Fonda",
+      "url": "https://www.imdb.com/name/nm0000404/"
+    },
+    {
+      "name": "Lana Condor",
+      "url": "https://www.imdb.com/name/nm7093076/"
+    },
+    {
+      "name": "Toni Collette",
+      "url": "https://www.imdb.com/name/nm0001057/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kirk DeMicco",
+      "url": "https://www.imdb.com/name/nm0210320/"
+    },
+    {
+      "name": "Faryn Pearl",
+      "url": "https://www.imdb.com/name/nm7172293/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Pam Brady",
+      "url": "https://www.imdb.com/name/nm0103702/"
+    },
+    {
+      "name": "Brian C. Brown",
+      "url": "https://www.imdb.com/name/nm7325081/"
+    },
+    {
+      "name": "Elliott DiGuiseppi",
+      "url": "https://www.imdb.com/name/nm3253620/"
+    }
+  ]
+}

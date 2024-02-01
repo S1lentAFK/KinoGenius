@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "The Persian Version",
+  "url": "https://www.imdb.com/tt24076146/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWJiODExMmItOTA3ZC00ZDljLWJkNDQtZjIzNmU3YTI5Y2YzXkEyXkFqcGdeQXVyMTQyODg5MjQw._V1_.jpg",
+  "description": "When a large Iranian-American family gathers, a family secret is uncovered that catapults the estranged mother and daughter into an exploration of the past, and to discover they are more alike than they know.",
+  "review": {
+    "author": "fanboycantina",
+    "dateCreated": "2023-01-29",
+    "inLanguage": "English",
+    "heading": "A comedy and drama on the resilience of immigrant women",
+    "reviewBody": "The Persian Version centers on a mother-daughter relationship, while walking through Iranian-American culture and history, family secrets, trauma, and love. While engaging, this disjointed movie starts as a comedy and then gradually amps up its depth as a drama. While the comedy and the drama are both worthwhile stories, they sit imperfectly together in this film, effectively two separate movies. And yet, for its two narratives, The Persian Version serves a love letter for the strength and resilience of immigrant women and their daughters, especially the fierce Iranian women still fighting for their rights today.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 1844,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2024-02-02",
+  "keywords": "mother daughter relationship,female protagonist,family relationships,daughter,mother",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Layla Mohammadi",
+      "url": "https://www.imdb.com/name/nm7730875/"
+    },
+    {
+      "name": "Niousha Noor",
+      "url": "https://www.imdb.com/name/nm2873130/"
+    },
+    {
+      "name": "Kamand Shafieisabet",
+      "url": "https://www.imdb.com/name/nm14314455/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Maryam Keshavarz",
+      "url": "https://www.imdb.com/name/nm1991486/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Maryam Keshavarz",
+      "url": "https://www.imdb.com/name/nm1991486/"
+    }
+  ]
+}

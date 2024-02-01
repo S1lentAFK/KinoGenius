@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Fatale",
+  "url": "https://www.imdb.com/tt8829830/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmI2OThhMmYtZjVjOC00NWE3LWIwOGItMWM1MTEzMGNiOTM4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+  "description": "After a one-night stand, a successful married man finds himself entangled in a cunning police detective&apos;s latest investigation.",
+  "review": {
+    "author": "pietclausen",
+    "dateCreated": "2021-01-10",
+    "inLanguage": "English",
+    "heading": "Quid pro quo",
+    "reviewBody": "Slow start turns into an absorbing thriller with a different end. Worth a view.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 13928,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "datePublished": "2021-03-19",
+  "keywords": "murder,female detective,female psychopath,evil lead character,rogue cop",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Hilary Swank",
+      "url": "https://www.imdb.com/name/nm0005476/"
+    },
+    {
+      "name": "Michael Ealy",
+      "url": "https://www.imdb.com/name/nm1013003/"
+    },
+    {
+      "name": "Mike Colter",
+      "url": "https://www.imdb.com/name/nm1591496/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Deon Taylor",
+      "url": "https://www.imdb.com/name/nm1938064/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Loughery",
+      "url": "https://www.imdb.com/name/nm0521739/"
+    }
+  ]
+}

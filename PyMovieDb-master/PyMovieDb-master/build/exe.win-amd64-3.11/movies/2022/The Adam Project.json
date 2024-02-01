@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Adam Project",
+  "url": "https://www.imdb.com/tt2463208/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWM0YWMwMDQtMjE5NS00ZTIwLWE1NWEtODViMWZjMWI2OTU3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+  "description": "After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self for a mission to save the future.",
+  "review": {
+    "author": "rogier-86785",
+    "dateCreated": "2022-03-11",
+    "inLanguage": "English",
+    "heading": "Funny, Exciting and Endearing",
+    "reviewBody": "The Adam Project is an adventurous film in the mould of Spielberg and other &apos;80&apos;s and 90&apos;s pics, meaning confused conversations, quick quips, great close ups and seeing the world from a child&apos;s point of view as well.\n\nThe plot is a time travel story where our main character meets his younger self, trying to fix the damage a villain inflicted, and that&apos;s all the narrative I&apos;ll share beforehand. It&apos;s well shot, well directed, well written, and well played, especially by young Adam.\n\nIt leaves us with an entertaining film that plotwise isn&apos;t surprising enough to elevate it to greatness, but a good watch nonetheless.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 225641,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "12",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2022-03-11",
+  "keywords": "time travel,future self meets past self,dog,future,technology",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Ryan Reynolds",
+      "url": "https://www.imdb.com/name/nm0005351/"
+    },
+    {
+      "name": "Walker Scobell",
+      "url": "https://www.imdb.com/name/nm11880640/"
+    },
+    {
+      "name": "Mark Ruffalo",
+      "url": "https://www.imdb.com/name/nm0749263/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Shawn Levy",
+      "url": "https://www.imdb.com/name/nm0506613/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jonathan Tropper",
+      "url": "https://www.imdb.com/name/nm2267086/"
+    },
+    {
+      "name": "T.S. Nowlin",
+      "url": "https://www.imdb.com/name/nm2385905/"
+    },
+    {
+      "name": "Jennifer Flackett",
+      "url": "https://www.imdb.com/name/nm0280814/"
+    }
+  ]
+}

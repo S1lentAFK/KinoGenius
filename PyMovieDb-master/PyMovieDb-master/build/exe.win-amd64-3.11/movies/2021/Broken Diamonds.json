@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "Broken Diamonds",
+  "url": "https://www.imdb.com/tt6484398/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTMwZTU3ZDMtMzhlYy00NDZkLWFiYWQtYTQ2YjQyMWZmMWM2XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+  "description": "In the wake of his father&apos;s death, a twenty-something writer sees his dream of moving to Paris put in jeopardy when he&apos;s forced to temporarily take in his wildly unpredictable, mentally ill sister.",
+  "review": {
+    "author": "nwauntie",
+    "dateCreated": "2022-01-13",
+    "inLanguage": "English",
+    "heading": "Mental illness and effects",
+    "reviewBody": "It&apos;s a very realistic story of how a loved one with mental illness, how it effects of all the family members. Lola K. Did an incredible job as Cindy, the person with mental illness. Her brother has been affected by the issues it brought to their family, often feeling left behind, with no support in his needs as he grew up, complicated relationship with his older sister. Very moving story. Mental health is not talked about or discussed much in our society, glad this shows some of one families story.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 338,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2021-07-23",
+  "keywords": "dream,going away party,reference to ernest hemingway,reference to google,brother sister relationship",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Ben Platt",
+      "url": "https://www.imdb.com/name/nm4805317/"
+    },
+    {
+      "name": "Lola Kirke",
+      "url": "https://www.imdb.com/name/nm3860305/"
+    },
+    {
+      "name": "Yvette Nicole Brown",
+      "url": "https://www.imdb.com/name/nm1304328/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Sattler",
+      "url": "https://www.imdb.com/name/nm0972104/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steve Waverly",
+      "url": "https://www.imdb.com/name/nm1639658/"
+    }
+  ]
+}

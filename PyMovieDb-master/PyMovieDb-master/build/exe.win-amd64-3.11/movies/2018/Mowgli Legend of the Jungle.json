@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Mowgli",
+  "url": "https://www.imdb.com/tt2388771/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_.jpg",
+  "description": "A human child raised by wolves must face off against a menacing tiger named Shere Khan, as well as his own origins.",
+  "review": {
+    "author": "francescobrosolo",
+    "dateCreated": "2018-12-06",
+    "inLanguage": "English",
+    "heading": "This ain&apos;t your Disney Jungle Book, and that&apos;s wild",
+    "reviewBody": "In performance-capture maestro Andy Serkis&apos; hands, Legends of the Jungle is a darker, more surprising version of The Jungle Book. Get ready to leave behind the jungle of your childhood imagination. You know, the one where you slumber peacefully in a tree bough, waterfalls ain&apos;t nothing but slides and you can float downstream resting on the upturned belly of an amiable bear.\n\nIt&apos;s impossible not to keep comparing Serkis&apos; version of this classic story to Disney&apos;s 2016 live-action remake of its own 1967 animated family favorite. In Disney&apos;s remake, the animals are remarkably photo-realistic. But Serkis is purposefully trying to achieve something entirely different. The motion capture is used to make the animal characters deeper, richer and almost more recognizably human.\n\nThis no doubt presents more of a challenge for the actors than straightforward voice work, and as a result the animals are expressive and affecting. They&apos;re more well-rounded and relatable than their Disney counterparts, even if they&apos;re not as instantly charming. Christian Bale&apos;s nuanced performance as Bagheera the panther and Benedict Cumberbatch&apos;s ferocity as tiger Shere Khan are standouts that translate particularly powerfully through the performance capture.\n\nBut as you&apos;ll have guessed from the film&apos;s title, it&apos;s not all about the animals. In Disney&apos;s version, Mowgli felt more like a narrative device drawing the animals of the jungle together so we could hear their stories. In Serkis&apos; hands, Mowgli is less of an ensemble player. His character development is central to the plot, especially in the second half. The movie feels like a coming-of-age tale as the man-cub seeks to establish his identity as not quite human, not quite wolf -- simultaneously both and neither.\n\nIt did come as a surprise when, bang in the middle of the film, the plot veered wildly off course from the familiar narrative the Disney films established atop Kipling&apos;s work. Some may hate this startling divergence, but I enjoyed the sudden realization that I didn&apos;t know exactly what was going to happen next, especially after being lulled into a false sense of security by familiar opening scenes.\n\nSerkis has made a visually arresting film that Netflix is lucky to have gotten its hands on. It has more than the bear necessities required to put it on your watch list, even if it is lacking the music.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 65147,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "datePublished": "2018-12-07",
+  "keywords": "jungle book,one word title,showdown,final showdown,fight to the death",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Christian Bale",
+      "url": "https://www.imdb.com/name/nm0000288/"
+    },
+    {
+      "name": "Cate Blanchett",
+      "url": "https://www.imdb.com/name/nm0000949/"
+    },
+    {
+      "name": "Benedict Cumberbatch",
+      "url": "https://www.imdb.com/name/nm1212722/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andy Serkis",
+      "url": "https://www.imdb.com/name/nm0785227/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Callie Kloves",
+      "url": "https://www.imdb.com/name/nm5886139/"
+    },
+    {
+      "name": "Rudyard Kipling",
+      "url": "https://www.imdb.com/name/nm0456017/"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "Allegoria",
+  "url": "https://www.imdb.com/tt14939308/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2Q0ZTA2YmMtYTFiMS00OGNiLTkyN2QtYWQ4MTdkMDYxMTRlXkEyXkFqcGdeQXVyMTEzOTc5NzY1._V1_.jpg",
+  "description": "A group of artists&apos; lives become unwittingly entangled as their obsessions and insecurities manifest monsters, demons, and death.",
+  "review": {
+    "author": "jkkuppler-135-22372",
+    "dateCreated": "2022-08-01",
+    "inLanguage": "English",
+    "heading": "Seems Longer than 70 minutes",
+    "reviewBody": "Lots of talking about art and philosophy. Each character babbles about something art related and then something spooky happens. That&apos;s it...I think.\n\nSome of the scenes at the beginning reminded me of a David Lynch film, but it never went anywhere and was far less engaging.\n\nFor a 70 minute film I found myself checking the clock often, patiently waiting for a monologues to stop so something strange would happen or a point could be made.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 517,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.4
+  },
+  "contentRating": null,
+  "genre": [
+    "Horror"
+  ],
+  "datePublished": "2022-08-01",
+  "keywords": "psychological horror,group",
+  "duration": "PT1H9M",
+  "actor": [
+    {
+      "name": "Krsy Fox",
+      "url": "https://www.imdb.com/name/nm2079053/"
+    },
+    {
+      "name": "John Ennis",
+      "url": "https://www.imdb.com/name/nm0257890/"
+    },
+    {
+      "name": "Scout Taylor-Compton",
+      "url": "https://www.imdb.com/name/nm0174021/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Spider One",
+      "url": "https://www.imdb.com/name/nm0191931/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Spider One",
+      "url": "https://www.imdb.com/name/nm0191931/"
+    }
+  ]
+}

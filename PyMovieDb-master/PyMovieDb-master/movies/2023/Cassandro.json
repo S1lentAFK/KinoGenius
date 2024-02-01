@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Cassandro",
+  "url": "https://www.imdb.com/tt14954534/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2RhYWNjZDQtOTI0Ny00OTMzLWIzMTItOTBjZDc2ZjhkOTJiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "CinemaSerf",
+    "dateCreated": "2023-09-20",
+    "inLanguage": "English",
+    "heading": "Cassandro",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 3357,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2023-09-20",
+  "keywords": "gay relationship,based on real people,luchador,wrestler,character name as title",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Gael García Bernal",
+      "url": "https://www.imdb.com/name/nm0305558/"
+    },
+    {
+      "name": "Roberta Colindrez",
+      "url": "https://www.imdb.com/name/nm4295500/"
+    },
+    {
+      "name": "Perla De La Rosa",
+      "url": "https://www.imdb.com/name/nm0478971/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Roger Ross Williams",
+      "url": "https://www.imdb.com/name/nm2141317/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Teague",
+      "url": "https://www.imdb.com/name/nm2090073/"
+    },
+    {
+      "name": "Roger Ross Williams",
+      "url": "https://www.imdb.com/name/nm2141317/"
+    }
+  ]
+}

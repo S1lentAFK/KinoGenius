@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Munsters",
+  "url": "https://www.imdb.com/tt14813212/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmYyYWQ2ZmEtYTEzZi00OGExLWE0YTItOGYyODBhY2M4NDI1XkEyXkFqcGdeQXVyNTYzMTc4MzY@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "kevin_robbins",
+    "dateCreated": "2022-10-03",
+    "inLanguage": "English",
+    "heading": "This had everything it needed for success but solid writing",
+    "reviewBody": "The Munsters (2022) is a movie my wife and I watched on Netflix last night. The storyline follows a legacy Transylvanian family that&apos;s daughter is up for marriage but is struggling to find a worthwhile suitor. However, a recently created monster, named Hermann Munster, is making the local news and rise in the underground rock arena and appears bound to be a star. When he meets the daughter looking for a husband it may be the spark to stardom for both of them.\n\nThis movie is directed by Rob Zombie (House of 1,000 Corpses) and stars Sheri Moon Zombie (The Lords of Salem), Jeff Daniel Phillips (Westworld), Richard Brake (Barbarian), Jorge Garcia (Cooties) and Daniel Roebuck (The Fugitive).\n\nThe look and feel of this movie had so much potential. The makeup, lighting, sets, attire, props and cinematography is magnificent. This is a fun movie to watch...if you shut the volume off. The writing is absolutely horrendous. The storyline, jokes, one liners and all of the humor was a huge miss. I did enjoy the transition and depiction of America and the ending setup for a television series/sequel spinoff. But getting through this movie was brutal.\n\nOverall, this had everything it needed for success but solid writing. I would score this a 4/10 and try seeing it once.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 11241,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.5
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2022-09-27",
+  "keywords": "based on tv series,reboot,monster,vampire,munsters",
+  "duration": "PT1H49M",
+  "actor": [
+    {
+      "name": "Sheri Moon Zombie",
+      "url": "https://www.imdb.com/name/nm0600667/"
+    },
+    {
+      "name": "Jeff Daniel Phillips",
+      "url": "https://www.imdb.com/name/nm0680489/"
+    },
+    {
+      "name": "Daniel Roebuck",
+      "url": "https://www.imdb.com/name/nm0736263/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rob Zombie",
+      "url": "https://www.imdb.com/name/nm0957772/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Rob Zombie",
+      "url": "https://www.imdb.com/name/nm0957772/"
+    },
+    {
+      "name": "Norm Liebmann",
+      "url": "https://www.imdb.com/name/nm0509406/"
+    },
+    {
+      "name": "Ed Haas",
+      "url": "https://www.imdb.com/name/nm0351933/"
+    }
+  ]
+}

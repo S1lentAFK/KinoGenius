@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Doctor Sleep",
+  "url": "https://www.imdb.com/tt5606664/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmY3NGJlYTItYmQ4OS00ZTEwLWIzODItMjMzNWU2MDE0NjZhXkEyXkFqcGdeQXVyMzQzMDA3MTI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Sleepin_Dragon",
+    "dateCreated": "2020-10-18",
+    "inLanguage": "English",
+    "heading": "A remarkably good film.",
+    "reviewBody": "Great job Mike Flanagan.\n\nI don&apos;t know what&apos;s going on with movies lately, I have high expectations and films suck, or in this case, my expectations were fairly low, and I was blown away.\n\nWhat a truly worthy follow up to The Shining this was. Almost forty years on, it captures the tone, spirit and vibe of that great film.\n\nYou&apos;d think at over two and a half hours it would be overlong, it isn&apos;t,that running time allows the complex story to be told, and for the characters to be fully developed.\n\nYoung Kyleigh Curran is remarkably good, and in great company with Ewan McGregor and Rebecca Ferguson, very well acted.\n\nA great start, with that amazing music, and those glorious panoramic shots. It takes time before you arrive at that destination, the one we all waited for. The recreation is remarkable.\n\nAll those involved, take a bow, this was outstanding, 9/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 214514,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+  ],
+  "datePublished": "2019-10-31",
+  "keywords": "based on the works of stephen king,hat,vampire,the shining,based on novel",
+  "duration": "PT2H32M",
+  "actor": [
+    {
+      "name": "Ewan McGregor",
+      "url": "https://www.imdb.com/name/nm0000191/"
+    },
+    {
+      "name": "Rebecca Ferguson",
+      "url": "https://www.imdb.com/name/nm0272581/"
+    },
+    {
+      "name": "Kyliegh Curran",
+      "url": "https://www.imdb.com/name/nm7738797/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mike Flanagan",
+      "url": "https://www.imdb.com/name/nm1093039/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mike Flanagan",
+      "url": "https://www.imdb.com/name/nm1093039/"
+    },
+    {
+      "name": "Stephen King",
+      "url": "https://www.imdb.com/name/nm0000175/"
+    }
+  ]
+}

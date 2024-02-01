@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "West Side Story",
+  "url": "https://www.imdb.com/tt3581652/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzQ5ZDZhZDItZTNmZi00MWQ0LWJlNDUtZTE4ZWJmODNlM2Y3XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "MostsiXCX",
+    "dateCreated": "2022-01-09",
+    "inLanguage": "English",
+    "heading": "Amazing. Now some points that need to be made...",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 93392,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Musical"
+  ],
+  "datePublished": "2021-12-10",
+  "keywords": "remake,gang,based on stage musical,1950s,reference to shakespeare&apos;s romeo and juliet",
+  "duration": "PT2H36M",
+  "actor": [
+    {
+      "name": "Ansel Elgort",
+      "url": "https://www.imdb.com/name/nm5052065/"
+    },
+    {
+      "name": "Rachel Zegler",
+      "url": "https://www.imdb.com/name/nm10399505/"
+    },
+    {
+      "name": "Ariana DeBose",
+      "url": "https://www.imdb.com/name/nm3663196/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven Spielberg",
+      "url": "https://www.imdb.com/name/nm0000229/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tony Kushner",
+      "url": "https://www.imdb.com/name/nm1065785/"
+    },
+    {
+      "name": "Arthur Laurents",
+      "url": "https://www.imdb.com/name/nm0491306/"
+    }
+  ]
+}

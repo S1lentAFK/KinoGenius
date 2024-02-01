@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The United States vs. Billie Holiday",
+  "url": "https://www.imdb.com/tt8521718/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2FjZDU0MGMtZDkxMi00M2VmLTkyNDQtNTFjYjIzYzMxMjgwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "Follows Holiday during her career as she is targeted by the Federal Department of Narcotics with an undercover sting operation led by black Federal Agent Jimmy Fletcher, with whom she has a tumultuous affair.",
+  "review": {
+    "author": "goldenlampshade",
+    "dateCreated": "2021-03-04",
+    "inLanguage": "English",
+    "heading": "Andra Day dresses, sings, and acts this tragic part perfectly",
+    "reviewBody": "This movie would make a great triple feature with Ma Rainey&apos;s Black Bottom and Judas and the Black Messiah for showcasing racism and injustice systemic and culturally nakedly and honestly. The US vs. Billie Holiday really makes you frustrated in all the right ways and at all the right people but also inspires people like me who didn&apos;t know much about this history to learn more and educate oneself since those who don&apos;t learn from history...anyway...Andra Day gives an incredible performance and Trevante Rhodes balances the line of someone you want to smack in the face one second and kiss the next. Impeccable gowns and hairstyling add to the glamor and realism of the music being sung so beautifully by her swingin, emotional voice. Day expresses a lot in those eyes tender one minute and giving diva the next. Maybe it&apos;s not perfect from a filmmaking point of view but not in any innegligible way and the image of Andra Day screaming with joy and pride in her Golden Globe acceptance speech is enough to make me feel good inside knowing she gave this her all and that her idol would be proud.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 14431,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2021-02-27",
+  "keywords": "jazz singer,racism,nudity,based on true story,undercover",
+  "duration": "PT2H6M",
+  "actor": [
+    {
+      "name": "Andra Day",
+      "url": "https://www.imdb.com/name/nm7363531/"
+    },
+    {
+      "name": "Trevante Rhodes",
+      "url": "https://www.imdb.com/name/nm5218990/"
+    },
+    {
+      "name": "Garrett Hedlund",
+      "url": "https://www.imdb.com/name/nm1330560/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lee Daniels",
+      "url": "https://www.imdb.com/name/nm0200005/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Suzan-Lori Parks",
+      "url": "https://www.imdb.com/name/nm0663016/"
+    },
+    {
+      "name": "Johann Hari",
+      "url": "https://www.imdb.com/name/nm2228635/"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Corona Zombies",
+  "url": "https://www.imdb.com/tt12098392/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGFjNWZjMjQtMmNiZC00NWQyLWExZTItMzc2ZTczMDdkZjQyXkEyXkFqcGdeQXVyMjM4NjM5OA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "wermode",
+    "dateCreated": "2020-04-17",
+    "inLanguage": "English",
+    "heading": "Not even a movie",
+    "reviewBody": "It&apos;s a messy mashup of unrelated, former projects and films, presented as a film. Please, Full Moon, just stop.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 898,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 2.5
+  },
+  "contentRating": null,
+  "genre": [
+    "Comedy",
+    "Horror"
+  ],
+  "datePublished": "2020-04-10",
+  "keywords": "tubi tv,zombie,covid 19,reference to the coronavirus,coronavirus",
+  "duration": "PT1H1M",
+  "actor": [
+    {
+      "name": "Cody Renee Cameron",
+      "url": "https://www.imdb.com/name/nm6171194/"
+    },
+    {
+      "name": "Robin Sydney",
+      "url": "https://www.imdb.com/name/nm1218053/"
+    },
+    {
+      "name": "Pavel Bédi",
+      "url": "https://www.imdb.com/name/nm6342876/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Charles Band",
+      "url": "https://www.imdb.com/name/nm0023929/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kent Roudebush",
+      "url": "https://www.imdb.com/name/nm4551376/"
+    },
+    {
+      "name": "Silvia St. Croix",
+      "url": "https://www.imdb.com/name/nm2885796/"
+    }
+  ]
+}

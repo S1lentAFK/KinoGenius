@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Tall Girl",
+  "url": "https://www.imdb.com/tt9252508/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDI3YmEwOTItNDEyNC00MGNlLWJiMjEtMzc0MTJjZmM1NGEzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Short_and_to_the_point",
+    "dateCreated": "2019-09-13",
+    "inLanguage": "English",
+    "heading": "I liked it and then I didn&apos;t and then I liked it and then I didn&apos;t",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 26365,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2019-09-13",
+  "keywords": "tall girl,coming of age,insulting,heightism,f rated",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Ava Michelle",
+      "url": "https://www.imdb.com/name/nm6433012/"
+    },
+    {
+      "name": "Griffin Gluck",
+      "url": "https://www.imdb.com/name/nm3838034/"
+    },
+    {
+      "name": "Sabrina Carpenter",
+      "url": "https://www.imdb.com/name/nm4248775/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Nzingha Stewart",
+      "url": "https://www.imdb.com/name/nm1971220/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sam Wolfson",
+      "url": "https://www.imdb.com/name/nm1625872/"
+    }
+  ]
+}

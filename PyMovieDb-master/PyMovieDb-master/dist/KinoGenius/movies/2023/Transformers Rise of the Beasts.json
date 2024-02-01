@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Transformers: Rise of the Beasts",
+  "url": "https://www.imdb.com/tt5090568/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTNiNDA4NmMtNTExNi00YmViLWJkMDAtMDAxNmRjY2I2NDVjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+  "description": "During the &apos;90s, a new faction of Transformers - the Maximals - join the Autobots as allies in the battle for Earth.",
+  "review": {
+    "author": "Tweetienator",
+    "dateCreated": "2023-06-16",
+    "inLanguage": "English",
+    "heading": "Numbing",
+    "reviewBody": "Well, after I left the theater I felt somehow lobotomized, numb and dead like a rock (well, maybe I&apos;m wrong and stones are more alive than I realize). Transformers: Rise of the Beasts is one of those many examples that raise one question: where are the talents and the creative people these days? Certainly not too many are involved in the movie business - Rise of the Beasts got nothing that will raise it above the bar of barely acceptable: a dead boring story line, dead boring characters, and terrible dialogues we listened to one million times before. The special effects are somewhat okay, but, well, that&apos;s pretty standard these days. Recommendation only for the absolute hardcore fan of the Transformer universe or for those who are - for whatever reason - in need for some brain killing experience.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 95082,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2023-06-09",
+  "keywords": "transformers,robot sci fi,transformer,giant robot,transforming robot",
+  "duration": "PT2H7M",
+  "actor": [
+    {
+      "name": "Anthony Ramos",
+      "url": "https://www.imdb.com/name/nm6588867/"
+    },
+    {
+      "name": "Dominique Fishback",
+      "url": "https://www.imdb.com/name/nm6195774/"
+    },
+    {
+      "name": "Luna Lauren Velez",
+      "url": "https://www.imdb.com/name/nm0904967/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven Caple Jr.",
+      "url": "https://www.imdb.com/name/nm4023702/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joby Harold",
+      "url": "https://www.imdb.com/name/nm1703612/"
+    },
+    {
+      "name": "Darnell Metayer",
+      "url": "https://www.imdb.com/name/nm10258983/"
+    },
+    {
+      "name": "Josh Peters",
+      "url": "https://www.imdb.com/name/nm8352716/"
+    }
+  ]
+}

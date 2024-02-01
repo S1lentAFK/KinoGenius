@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Jumanji: The Next Level",
+  "url": "https://www.imdb.com/tt7975244/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTVjMmFiMDUtOWQ4My00YzhmLWE3MzEtODM1NDFjMWEwZTRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "quiqueperezsoler",
+    "dateCreated": "2019-12-06",
+    "inLanguage": "English",
+    "heading": "Great sequel and laugh fest, the new Jumanji knows what its doing",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 276141,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2019-12-11",
+  "keywords": "video game world,trapped in a game,jumanji,sequel,jungle",
+  "duration": "PT2H3M",
+  "actor": [
+    {
+      "name": "Dwayne Johnson",
+      "url": "https://www.imdb.com/name/nm0425005/"
+    },
+    {
+      "name": "Jack Black",
+      "url": "https://www.imdb.com/name/nm0085312/"
+    },
+    {
+      "name": "Kevin Hart",
+      "url": "https://www.imdb.com/name/nm0366389/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jake Kasdan",
+      "url": "https://www.imdb.com/name/nm0440458/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jake Kasdan",
+      "url": "https://www.imdb.com/name/nm0440458/"
+    },
+    {
+      "name": "Jeff Pinkner",
+      "url": "https://www.imdb.com/name/nm0684374/"
+    },
+    {
+      "name": "Scott Rosenberg",
+      "url": "https://www.imdb.com/name/nm0003298/"
+    }
+  ]
+}

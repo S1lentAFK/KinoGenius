@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Pearl",
+  "url": "https://www.imdb.com/tt18925334/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTFkNmE5MjUtZDE1Yi00ZmQyLTk2YWUtN2EwODA1ZmNlOTA5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+  "description": "In 1918, a young woman on the brink of madness pursues stardom in a desperate attempt to escape the drudgery, isolation, and lovelessness of life on her parents&apos; farm.",
+  "review": {
+    "author": "kevin_robbins",
+    "dateCreated": "2022-09-21",
+    "inLanguage": "English",
+    "heading": "There&apos;s things to like about this movie and components that dragged and was overdone",
+    "reviewBody": "Pearl (2022) is a movie my wife and I saw in theatres last night. The storyline follows a young lady in 1918 who lives on a farm with her handicapped father and over burdened mother and whose husband is off at war. The young lady has delusions of grandeur and feels she should be a movie star and far away from her farm. Her family needs her to stay and help with chores and keep them alive. When there&apos;s tryouts for a traveling dance team she plans to audition whether her family wants her to or not.\n\nThis movie is directed by Ti West (Them) and stars Mia Goth (A Cure for Wellness), David Corenswet (The Politician), Emma Jenkins-Purro (The Brokenwood Mysteries), Matthew Sunderland (The Lost City of Z) and Tandi Wright (Jack the Giant Slayer).\n\nThe cinematography in this movie is outstanding, as is the attire, depiction of the era and the performance of Mia Goth (who co-wrote and produced this movie with West). This is more of a character piece with horror elements than a traditional horror movie. There&apos;s elements that worked for me and scenes that left me scratching my head. I will say I was very frustrated watching this movie. Every scene with the alligator was awesome. There&apos;s a pitchfork scene, fight with the mother and explosion I adored. The father was also a solid, creepy character (the bath scenes made me cringe). However, the movie feels like it is trying too hard to prove Pearl is insane. The scarecrow scene felt rediculous and didn&apos;t work for me. How people reacted to her behavior at times felt off (they tolerated her uncomfortably long). The monologue scene was great acting but felt unrealistic from the sister in-law&apos;s perspective. The ending was sudden and I wanted more.\n\nOverall, there&apos;s things to like about this movie and components that dragged and was overdone. I would score this a 5.5/10 and recommend seeing it once.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 86300,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2023-03-17",
+  "keywords": "domineering mother,female nudity,prequel,female protagonist,rural setting",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Mia Goth",
+      "url": "https://www.imdb.com/name/nm5301405/"
+    },
+    {
+      "name": "David Corenswet",
+      "url": "https://www.imdb.com/name/nm4825178/"
+    },
+    {
+      "name": "Tandi Wright",
+      "url": "https://www.imdb.com/name/nm0942858/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ti West",
+      "url": "https://www.imdb.com/name/nm1488800/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ti West",
+      "url": "https://www.imdb.com/name/nm1488800/"
+    },
+    {
+      "name": "Mia Goth",
+      "url": "https://www.imdb.com/name/nm5301405/"
+    }
+  ]
+}

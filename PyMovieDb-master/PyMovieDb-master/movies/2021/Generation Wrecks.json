@@ -1,0 +1,66 @@
+{
+  "type": "Movie",
+  "name": "Generation Wrecks",
+  "url": "https://www.imdb.com/tt10042868/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjBkNGJhZWYtMDI0OC00N2I3LWFlZjUtMTViMTdlNzg4ZmUzXkEyXkFqcGdeQXVyNTU2MDI2NjE@._V1_.jpg",
+  "description": "Winner of the Audience Award for Best Feature at The 2022 Florida Film Festival. Set in the spring of 1994, the story follows two 11th graders, Stacy Snyder (Bridget McGarry) and Liz Castillo-Campbell (Victoria Leigh), who were be...",
+  "review": {
+    "author": "natalie-pero",
+    "dateCreated": "2021-12-03",
+    "inLanguage": "English",
+    "heading": "Delightfully Vulnerable",
+    "reviewBody": "This film is important and a lot of fun. The ensemble of kids was fantastic and real. A wild ride that everyone can identify with. I loved every second.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 142,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.6
+  },
+  "contentRating": null,
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": null,
+  "keywords": null,
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "Alice Kremelberg",
+      "url": "https://www.imdb.com/name/nm2450512/"
+    },
+    {
+      "name": "Heather Matarazzo",
+      "url": "https://www.imdb.com/name/nm0000525/"
+    },
+    {
+      "name": "Emily Bergl",
+      "url": "https://www.imdb.com/name/nm0004749/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kevin T. Morales",
+      "url": "https://www.imdb.com/name/nm6816931/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Victoria Leigh",
+      "url": "https://www.imdb.com/name/nm4676368/"
+    },
+    {
+      "name": "Bridget McGarry",
+      "url": "https://www.imdb.com/name/nm5376482/"
+    },
+    {
+      "name": "Kevin T. Morales",
+      "url": "https://www.imdb.com/name/nm6816931/"
+    }
+  ]
+}

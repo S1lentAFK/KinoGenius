@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "Freak Show",
+  "url": "https://www.imdb.com/tt5089534/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTAxMjI5NzQxNTVeQTJeQWpwZ15BbWU4MDY0MTIzNTQz._V1_.jpg",
+  "description": "Follows the story of teenager Billy Bloom who, despite attending an ultra conservative high school, makes the decision to run for homecoming queen.",
+  "review": {
+    "author": "alvina-deliradeva",
+    "dateCreated": "2020-05-29",
+    "inLanguage": "English",
+    "heading": "Noice.",
+    "reviewBody": "This is as good as a teenager movie can get. Realising who you are and who your parents and friends are in the most realistic way ever showed. I love that movie. Period.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 4526,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2018-01-12",
+  "keywords": "high school,queer,transvestite,bullying,teenage boy",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Alex Lawther",
+      "url": "https://www.imdb.com/name/nm3867299/"
+    },
+    {
+      "name": "Ian Nelson",
+      "url": "https://www.imdb.com/name/nm4122775/"
+    },
+    {
+      "name": "AnnaSophia Robb",
+      "url": "https://www.imdb.com/name/nm1455681/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Trudie Styler",
+      "url": "https://www.imdb.com/name/nm0836548/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Patrick J. Clifton",
+      "url": "https://www.imdb.com/name/nm0166767/"
+    },
+    {
+      "name": "Beth Rigazio",
+      "url": "https://www.imdb.com/name/nm1621084/"
+    },
+    {
+      "name": "James St. James",
+      "url": "https://www.imdb.com/name/nm1306654/"
+    }
+  ]
+}

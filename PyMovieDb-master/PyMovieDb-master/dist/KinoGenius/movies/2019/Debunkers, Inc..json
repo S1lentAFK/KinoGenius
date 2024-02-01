@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Debunkers, Inc.",
+  "url": "https://www.imdb.com/tt6379644/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTM5NDg5OTktNjAxMy00MjRkLWJiZDktOTY4YWI3ZTc0NTJiXkEyXkFqcGdeQXVyMjM4NDk4MzY@._V1_.jpg",
+  "description": "High school detectives start a business to solve murder mysteries.",
+  "review": {
+    "author": "ainoue-90588",
+    "dateCreated": "2019-05-01",
+    "inLanguage": "English",
+    "heading": "Dr. Saginov is such a BEAST!!!!!",
+    "reviewBody": "All of these reviews are just previous students of one of the characters and are taking out their anger of probably getting a bad grade in his class because they probably sucked by leaving bad review. But I generally enjoyed the movie and cannot wait to watch it gain on Showtime!!!!!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 165,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.9
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Family",
+    "Mystery"
+  ],
+  "datePublished": "2019-05-01",
+  "keywords": "murder",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Josh Pinkowski",
+      "url": "https://www.imdb.com/name/nm4479493/"
+    },
+    {
+      "name": "Izzy Pollak",
+      "url": "https://www.imdb.com/name/nm4479236/"
+    },
+    {
+      "name": "Blake Kevin Dwyer",
+      "url": "https://www.imdb.com/name/nm9076917/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Matthew Thompson",
+      "url": "https://www.imdb.com/name/nm4075424/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ryan Andrews",
+      "url": "https://www.imdb.com/name/nm4396780/"
+    },
+    {
+      "name": "Matthew Thompson",
+      "url": "https://www.imdb.com/name/nm4075424/"
+    }
+  ]
+}

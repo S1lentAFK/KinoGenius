@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "A Chiara",
+  "url": "https://www.imdb.com/tt14324296/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWYyMTQxYzItMWVkNC00M2NmLThkNjAtOWI2ODgwN2UyZTdhXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+  "description": "Follows the story of 15-year-old Chiara whose close-knit family falls apart after her father abandons them in Calabria.",
+  "review": {
+    "author": "herea-34548",
+    "dateCreated": "2022-03-30",
+    "inLanguage": "English",
+    "heading": "Verry good just be pacient a little!",
+    "reviewBody": "Kind of one of the best italian films of te last years..especially if you live in Italy,if not maybe a litle bit akward ...but if you jave patience itnwill reward you,very nice movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 2140,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2021-10-07",
+  "keywords": "italy,female protagonist,teenage girl,birthday,birthday party",
+  "duration": "PT2H1M",
+  "actor": [
+    {
+      "name": "Swamy Rotolo",
+      "url": "https://www.imdb.com/name/nm10026347/"
+    },
+    {
+      "name": "Pio Amato",
+      "url": "https://www.imdb.com/name/nm6444286/"
+    },
+    {
+      "name": "Koudous Seihon",
+      "url": "https://www.imdb.com/name/nm4626311/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jonas Carpignano",
+      "url": "https://www.imdb.com/name/nm3476432/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jonas Carpignano",
+      "url": "https://www.imdb.com/name/nm3476432/"
+    }
+  ]
+}

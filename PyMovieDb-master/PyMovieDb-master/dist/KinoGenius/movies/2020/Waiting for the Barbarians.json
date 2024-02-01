@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Waiting for the Barbarians",
+  "url": "https://www.imdb.com/tt6149154/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjNlOTNkYWYtOTdlZC00YzA4LTk2NmQtN2MxYzJhMDI5Y2EzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "deloudelouvain",
+    "dateCreated": "2020-11-28",
+    "inLanguage": "English",
+    "heading": "Slow paced but with excellent acting.",
+    "reviewBody": "Although the cinematography and the acting are almost excellent the slow pace of the story makes Waiting For The Barbarians just a movie that is worth watching once but not more. It just lacks some oomph, maybe some battle scenes to make it better. There is some cruelty and torturing though, physical and mental torture, so the story is still captivating and the excellent acting of Mark Rylance is the best thing of the movie. Johnny Depp and Robert Pattinson are for once the bad people, and they did a very good job playing characters that everybody normal will dislike. All in all it isn&apos;t a bad movie but it clearly misses something to make it exceptional.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 14284,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2020-09-07",
+  "keywords": "interrogation,nomads,prisoners of war,imperialism,frontier outpost",
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "Mark Rylance",
+      "url": "https://www.imdb.com/name/nm0753314/"
+    },
+    {
+      "name": "Johnny Depp",
+      "url": "https://www.imdb.com/name/nm0000136/"
+    },
+    {
+      "name": "Robert Pattinson",
+      "url": "https://www.imdb.com/name/nm1500155/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ciro Guerra",
+      "url": "https://www.imdb.com/name/nm1458734/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "J.M. Coetzee",
+      "url": "https://www.imdb.com/name/nm0168792/"
+    }
+  ]
+}

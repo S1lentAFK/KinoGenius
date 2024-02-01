@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Supercell",
+  "url": "https://www.imdb.com/tt10559102/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWI5ZGUzNDAtOGY0Yy00NzU0LWE0NmYtNGNlOGI0YjVlZTk4XkEyXkFqcGdeQXVyODQ0NjU1OTE@._V1_.jpg",
+  "description": "A teenage boy runs away to follow in the footsteps of his father, legendary storm chaser Bill Brody.",
+  "review": {
+    "author": "jcwilde1",
+    "dateCreated": "2023-03-20",
+    "inLanguage": "English",
+    "heading": "How did they make a storm movie this dull",
+    "reviewBody": "Like others, I was expecting it to be a newer Twister, but they missed the mark. It was just dull and meandering around. Lots of inconsistencies throughout and barely showing any action.\n\nLike Twister it centered around a parent who had been killed in a storm and was about storm chasing and using a gadget that would do something to help early storm detection (although they never really explain what the heck it does).\n\nThat is where the similarities end, the rest of a kid trying to discover more about his dad and doing so by being fairly annoying. There are much better storm movies out there including Into the Storm or even the Hurricane Heist which isn&apos;t great, but more entertaining.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 2530,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.4
+  },
+  "contentRating": "12",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "datePublished": "2023-03-17",
+  "keywords": "teenage boy,tornado,thunderstorm,archive footage,storm chaser",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Skeet Ulrich",
+      "url": "https://www.imdb.com/name/nm0000240/"
+    },
+    {
+      "name": "Anne Heche",
+      "url": "https://www.imdb.com/name/nm0000162/"
+    },
+    {
+      "name": "Daniel Diemer",
+      "url": "https://www.imdb.com/name/nm8159701/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Herbert James Winterstern",
+      "url": "https://www.imdb.com/name/nm3580196/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Herbert James Winterstern",
+      "url": "https://www.imdb.com/name/nm3580196/"
+    },
+    {
+      "name": "Anna Elizabeth James",
+      "url": "https://www.imdb.com/name/nm4098523/"
+    }
+  ]
+}

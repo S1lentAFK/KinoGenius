@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Manodrome",
+  "url": "https://www.imdb.com/tt14813150/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTBmYzA3MTMtMDg4Zi00NzQ1LTljODAtNGQxMTkwMjQ5MjY3XkEyXkFqcGdeQXVyMDYxMjcxMQ@@._V1_.jpg",
+  "description": "Conflicted about his girlfriend&apos;s pregnancy, Ralphie&apos;s life spirals out of control when he meets a mysterious family of men.",
+  "review": {
+    "author": "Farhad-316-346770",
+    "dateCreated": "2023-11-17",
+    "inLanguage": "English",
+    "heading": "What a waste of time ...",
+    "reviewBody": "There were times when they use to produce movies like Fight Club.\n\nNow they spend $24m to waste our time with some nonsense script.\n\nIt&apos;s not the first time for Oscar nominee Jesse Eisenberg to play an unlikeable, confused and soulless person, but what happened to Adrien Brody? Didn&apos;t he win an Oscar for the Pianist, at least that was 20 years ago ... I guess some actors don&apos;t read their scripts anymore before accepting their $400k roles.\n\nI usually watch the movies to the end to make up my mind but had to stop watching this one after 30 minutes since I could not relate to any of the characters in this movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 1994,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2023-11-10",
+  "keywords": "male male kiss,family relationships,male nudity,male rear nudity,bare chested male",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Jesse Eisenberg",
+      "url": "https://www.imdb.com/name/nm0251986/"
+    },
+    {
+      "name": "Adrien Brody",
+      "url": "https://www.imdb.com/name/nm0004778/"
+    },
+    {
+      "name": "Odessa Young",
+      "url": "https://www.imdb.com/name/nm3747611/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Trengove",
+      "url": "https://www.imdb.com/name/nm1626716/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Trengove",
+      "url": "https://www.imdb.com/name/nm1626716/"
+    }
+  ]
+}

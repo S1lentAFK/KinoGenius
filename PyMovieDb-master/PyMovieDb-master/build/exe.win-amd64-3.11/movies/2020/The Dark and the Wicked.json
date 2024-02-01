@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "The Dark and the Wicked",
+  "url": "https://www.imdb.com/tt10229558/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjMzZDBkMWItMzM4MC00YzNmLTgzNzctMmUwOGYyZTA5MDZlXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg",
+  "description": "On a secluded farm in a nondescript rural town, a man is slowly dying. His family gathers to mourn, and soon a darkness grows, marked by waking nightmares and a growing sense that something evil is taking over the family.",
+  "review": {
+    "author": "Luan_Barr",
+    "dateCreated": "2022-07-16",
+    "inLanguage": "English",
+    "heading": "Scary, heavy and weird. Sensational!",
+    "reviewBody": "The horror genre doesn&apos;t frighten me anymore, because I&apos;ve already tried all kinds of films in the genre, but sometimes I&apos;m taken by surprise. The Dark and the Wicked scared me, gave me goosebumps and gave me some good scares! He didn&apos;t promise anything, but he delivered everything and then some, hahah!\n\nAlthough her driving is slower, she is always progressive! The terror, the bizarre and the dense atmosphere is getting stronger and stronger, where we are taken by surprise with each scene. In addition, the sound is extremely present, with sounds of voices, wind or bells, letting fear circulate throughout the film.\n\nHowever, the movie is not 100% amazing! The text is weak, does not deepen the characters, making their attitudes and motivations too shallow. There is no well-established relationship! It is shown with looks and conversations, very subtly, how close the family is, but that alone is not enough.\n\nDespite the problem, nothing detracts from what good this movie did! An excellent horror! It&apos;s been a while since I was scared or felt my heart beat fast, I don&apos;t know how I went to watch it just today, but this movie has already entered the list of the best horror, for sure!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 21533,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "18",
+  "genre": [
+    "Horror"
+  ],
+  "datePublished": "2021-02-25",
+  "keywords": "suicide,brother sister relationship,family farm,rural setting,bedridden man",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Marin Ireland",
+      "url": "https://www.imdb.com/name/nm1677477/"
+    },
+    {
+      "name": "Michael Abbott Jr.",
+      "url": "https://www.imdb.com/name/nm2534638/"
+    },
+    {
+      "name": "Julie Oliver-Touchstone",
+      "url": "https://www.imdb.com/name/nm0647040/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bryan Bertino",
+      "url": "https://www.imdb.com/name/nm1052162/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bryan Bertino",
+      "url": "https://www.imdb.com/name/nm1052162/"
+    }
+  ]
+}

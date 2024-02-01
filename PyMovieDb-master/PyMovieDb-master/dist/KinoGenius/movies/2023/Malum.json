@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Malum",
+  "url": "https://www.imdb.com/tt9472334/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGFkOTNmZDItYzk4Yy00MzM1LThhMjktNWMzNTQ3ODg1ZjQwXkEyXkFqcGdeQXVyOTQzOTE5NTY@._V1_.jpg",
+  "description": "A rookie police officer willingly takes the last shift at a newly decommissioned police station in an attempt to uncover the mysterious connection between her father&apos;s death and a vicious cult.",
+  "review": {
+    "author": "frank-liesenborgs",
+    "dateCreated": "2023-04-16",
+    "inLanguage": "English",
+    "heading": "Why all these positive reviews? Certainly not worth the time or money to watch.",
+    "reviewBody": "As a casual viewer of horror movies, it&apos;s quite concerning to see directors resorting to rehashing their own movies, especially when they were mediocre to begin with. Malum, a remake of Last Shift, is just another example of egotistical directors trying to salvage their past failures with bigger budgets. Last Shift had some potential. It&apos;s disappointing to see a director not learn from their mistakes and try to make up for it by throwing more money at the problem. The only thing that seems to have improved in Malum is the soundtrack and production value, but that doesn&apos;t make up for the lackluster storyline and characters. To be honest, Malum is just another generic horror movie with no real substance or creativity. The constant terror and violence get old quickly, and it&apos;s hard to invest in characters that are one-dimensional and uninteresting. It&apos;s a shame that there are no fresh ideas or surprises in this movie, and it&apos;s certainly not worth the time or money to watch.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 4590,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "18",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2023-03-31",
+  "keywords": "rookie cop,police station,female protagonist,father daughter relationship,death of father",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Jessica Sula",
+      "url": "https://www.imdb.com/name/nm4088627/"
+    },
+    {
+      "name": "Monroe Cline",
+      "url": "https://www.imdb.com/name/nm7753033/"
+    },
+    {
+      "name": "Candice Coke",
+      "url": "https://www.imdb.com/name/nm1051245/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Anthony DiBlasi",
+      "url": "https://www.imdb.com/name/nm1304669/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Anthony DiBlasi",
+      "url": "https://www.imdb.com/name/nm1304669/"
+    },
+    {
+      "name": "Scott Poiley",
+      "url": "https://www.imdb.com/name/nm4124059/"
+    }
+  ]
+}

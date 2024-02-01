@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "I Care a Lot",
+  "url": "https://www.imdb.com/tt9893250/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWU2ZTRhNDMtMWYxMC00ZTVkLThjZmItZGY4MGU0YmZlMjJlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Neon_Gold",
+    "dateCreated": "2021-02-22",
+    "inLanguage": "English",
+    "heading": "Takes Swing but Missing Them All",
+    "reviewBody": "This film has lots of issues.\n\nI think the biggest issue is that lead character. I think the writer was trying to create a anti-hero character that was so fabulous and like cold that everyone would love her, someone like Miranda Priestly from Devil Wears Prada or Chanel from Scream Queens. Someone who is a bad person but is so fabulous that you kind of forgive them. And this character just wasn&apos;t that. She wasn&apos;t cutting enough like the previously mentioned characters, that isn&apos;t the fault of the actor, it is the writing and filmmaking. The thing that both the things i mentioned have that this movie lacks is Camp. They are both dripping in camp and that is what makes them work. This movie doesn&apos;t have that. It doesn&apos;t have them campy lines that make you laugh and stick in your head. I think this movie would have been improved so much if it just had that sort of cheekiness and really sharp cutting one liners.\n\nBecause the character isn&apos;t strong enough or likeable enough it makes you disconnect with her. She does horrible things to these poor old people. That single line there is her whole character. We know nothing about her and we don&apos;t really learn anything more than that. This make it incredibly hard to sympathise with her when the one thing we know is she is awful. She is incredibly one dimensional.\n\nI also think the pacing if pretty bad. It got to a point in the movie that seemed like the climax then i checked and it still had 40 unites left.\n\nIt doesn&apos;t look too bad so that is one positive. I think i didn&apos;t like that it devolved into such a played out thriller trapping.\n\nI actually think that there is a great idea in here, however i think that it should be flipped. I think that it would make a better movie if we followed the story of someone who had been conned by this woman or maybe a family member trying to save their parent and the villain of the story was the woman who is taking advantage of these people. I think that would have been much better and clearer.\n\nI think you could probably skip it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 143008,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2021-02-19",
+  "keywords": "elder abuse,judge,safety deposit box,drugged,disguise",
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Rosamund Pike",
+      "url": "https://www.imdb.com/name/nm0683253/"
+    },
+    {
+      "name": "Peter Dinklage",
+      "url": "https://www.imdb.com/name/nm0227759/"
+    },
+    {
+      "name": "Eiza González",
+      "url": "https://www.imdb.com/name/nm2555462/"
+    }
+  ],
+  "director": [
+    {
+      "name": "J Blakeson",
+      "url": "https://www.imdb.com/name/nm2128335/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "J Blakeson",
+      "url": "https://www.imdb.com/name/nm2128335/"
+    }
+  ]
+}

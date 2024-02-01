@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Corrective Measures",
+  "url": "https://www.imdb.com/tt15391770/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmY2MjQzY2YtZWIwNS00YjhhLWJjZWMtMzk3NzdhNTM2YmIyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+  "description": "In the world&apos;s most dangerous maximum security prison filled with supervillain inmates and corrupt staff, tensions rise leading to anarchy and destruction.",
+  "review": {
+    "author": "willandcharlenebrown",
+    "dateCreated": "2022-05-03",
+    "inLanguage": "English",
+    "heading": "So much potential but what a bowl of soup",
+    "reviewBody": "The movie lacked severely in the category of focus...... I mean really... one of the guys gets his powers back that can electrocute a city block but he gets beat to death by a jailer? How? I mean rally how? No depth in scenery with regards to prison staff..... and can we take a second and agree the TV crew idea was an abysmal execution.\n\nThe ending was a fabulous surprise.\n\nAnd the holy executioner was cool.\n\nFor these 2 items they get 4 points. Director sucks though.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 3890,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "datePublished": "2022-04-29",
+  "keywords": "team action,supernatural thriller,comic,supernatural power,f word",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Michael Rooker",
+      "url": "https://www.imdb.com/name/nm0740264/"
+    },
+    {
+      "name": "Tom Cavanagh",
+      "url": "https://www.imdb.com/name/nm0146915/"
+    },
+    {
+      "name": "Brennan Mejia",
+      "url": "https://www.imdb.com/name/nm2385783/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sean Patrick O&apos;Reilly",
+      "url": "https://www.imdb.com/name/nm2846368/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Grant Chastain",
+      "url": "https://www.imdb.com/name/nm12920619/"
+    },
+    {
+      "name": "Sean Patrick O&apos;Reilly",
+      "url": "https://www.imdb.com/name/nm2846368/"
+    }
+  ]
+}

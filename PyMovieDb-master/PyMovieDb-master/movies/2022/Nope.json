@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Nope",
+  "url": "https://www.imdb.com/tt10954984/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGIyNTI3NWItNTJkOS00MGYyLWE4NjgtZDhjMWQ4Y2JkZTU5XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+  "description": "The residents of a lonely gulch in inland California bear witness to an uncanny and chilling discovery.",
+  "review": {
+    "author": "RebelPanda",
+    "dateCreated": "2022-08-02",
+    "inLanguage": "English",
+    "heading": "Eight things I love about Nope",
+    "reviewBody": "1. Commentary on exploitative social media accounts that strive for the most clicks regardless of who they negatively impact.\n\n2. Keke Palmer&apos;s eccentric performance as Emerald. She should be in way more movies.\n\n3. Daniel Kaluuya&apos;s deadpan one liners.\n\n4. Rewatch value, there is build up to each twist and shocking moment. Mysterious and ambiguous scenes become scarier after learning context.\n\n5. Foreshadowing: it is absolutely everywhere. Sometimes done subtly, other times obviously.\n\n6. Subtle details; highly detailed set, script, and outfits, down to the logo on one of the main character&apos;s shirt.\n\n7. Sound effects. It goes beyond typical horror noise cues, using unique sounds to build-up scares. The blood curdling screams loudly echoing as the creature flies by are terrifying.\n\n8. Akira motorcycle shot. Thank you Jordan.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 255146,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "datePublished": "2022-08-12",
+  "keywords": "horse,unidentified flying object,cloud,alien,brother sister relationship",
+  "duration": "PT2H10M",
+  "actor": [
+    {
+      "name": "Daniel Kaluuya",
+      "url": "https://www.imdb.com/name/nm2257207/"
+    },
+    {
+      "name": "Keke Palmer",
+      "url": "https://www.imdb.com/name/nm1551130/"
+    },
+    {
+      "name": "Brandon Perea",
+      "url": "https://www.imdb.com/name/nm5155952/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jordan Peele",
+      "url": "https://www.imdb.com/name/nm1443502/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jordan Peele",
+      "url": "https://www.imdb.com/name/nm1443502/"
+    }
+  ]
+}

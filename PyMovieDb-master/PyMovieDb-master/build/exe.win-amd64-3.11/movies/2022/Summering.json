@@ -1,0 +1,62 @@
+{
+  "type": "Movie",
+  "name": "Summering",
+  "url": "https://www.imdb.com/tt15208276/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTdjZTVmZTUtYTJmZS00NzVmLThlMjYtYTE3N2Q2Y2M5YjBiXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+  "description": "During their last days of summer and childhood -- the weekend before middle school begins -- four girls struggle with the harsh truths of growing up and embark on a mysterious adventure.",
+  "review": {
+    "author": "annimarixx",
+    "dateCreated": "2022-12-21",
+    "inLanguage": "English",
+    "heading": "What are we teaching our youngsters? No responsibility, no empathy?",
+    "reviewBody": "This movie is just wrong, in so many levels.\n\nI understand that the aim might have been to create something deep and maybe even meaningful, but to me this is an illustration of lack of emotional depth, at no point were the children taking responsibility for the things they did and none of them showed any empathy or emotional depth - it felt like 4 pre-teenage sociopaths roaming around. Is that what friendship looks like to the writer?\n\nHow about we show them what empathy and taking responsibility for our actions looks like?\n\nWho is the target audience to this picture, I saw some review saying they watched it with their kids, I hope you were telling them how it works in real world and how to differentiate right from wrong.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 446,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2022-10-03",
+  "keywords": "teenage girl,friendship,mother daughter relationship,summer vacation,finding a dead body",
+  "duration": "PT1H25M",
+  "actor": [
+    {
+      "name": "Lia Barnett",
+      "url": "https://www.imdb.com/name/nm9090530/"
+    },
+    {
+      "name": "Sanai Victoria",
+      "url": "https://www.imdb.com/name/nm6779380/"
+    },
+    {
+      "name": "Madalen Mills",
+      "url": "https://www.imdb.com/name/nm10615052/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Ponsoldt",
+      "url": "https://www.imdb.com/name/nm1242054/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Benjamin Percy",
+      "url": "https://www.imdb.com/name/nm5529152/"
+    },
+    {
+      "name": "James Ponsoldt",
+      "url": "https://www.imdb.com/name/nm1242054/"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "The Intruder",
+  "url": "https://www.imdb.com/tt6722030/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTczMzc4NDY0MF5BMl5BanBnXkFtZTgwMjI3Njg3NjM@._V1_.jpg",
+  "description": "A young married couple buy a beautiful house on several acres of land, only to find out that the man they bought it from refuses to let go of the property.",
+  "review": {
+    "author": "mokhlesrahman",
+    "dateCreated": "2019-05-03",
+    "inLanguage": "English",
+    "heading": "Entertaining",
+    "reviewBody": "Of course this was not supposed to be a masterpiece. Yes it&apos;s predictable but it had its moments. It&apos;s a silly fun movie which keeps you on your seat. I had a good time and 2 extra stars just for Dennis quaid. He gave a crazy fun performance which made me and other audience feel uncomfortable at certain times. Especially the shower scene in bathroom, that&apos;s just pure gold. It&apos;s so uncomfortable that you&apos;ll just laugh. Overall its a fun movie to watch with your friends in a weekend.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 19383,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2019-07-26",
+  "keywords": "couple,napa valley,former owner,shower scene,hiding inside a house",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Michael Ealy",
+      "url": "https://www.imdb.com/name/nm1013003/"
+    },
+    {
+      "name": "Meagan Good",
+      "url": "https://www.imdb.com/name/nm0328709/"
+    },
+    {
+      "name": "Dennis Quaid",
+      "url": "https://www.imdb.com/name/nm0000598/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Deon Taylor",
+      "url": "https://www.imdb.com/name/nm1938064/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Loughery",
+      "url": "https://www.imdb.com/name/nm0521739/"
+    }
+  ]
+}

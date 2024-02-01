@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "Marmaduke",
+  "url": "https://www.imdb.com/tt1392197/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2ZkMGNmMmUtYzVlZS00YTNmLTg1YTUtMGZkN2I1NGMwNWY0XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_.jpg",
+  "description": "A suburban family moves to a new neighborhood with their large, yet lovable Great Dane, who has a tendency to wreak havoc in his own oblivious way.",
+  "review": {
+    "author": "hung_fao_tweeze",
+    "dateCreated": "2011-03-19",
+    "inLanguage": "English",
+    "heading": "Surprisingly better than expected",
+    "reviewBody": "In short, the CGI talking dogs was done extremely well, even carrying on through nuances found in most dogs - head-tilts, twitches, etc. Typical past CGI attempts practically demanded that the subject remain still while the effects are applied. So, I have to give very high marks to the special effects. The Marmaduke character is very likable as are most of the ensemble here. The story is predictable but I had a fairly good time and even found the humor to be occasionally very funny from a dog-oriented viewpoint. I truly didn&apos;t expect much from this but ended up liking it quite a bit. Having said that I will say that I enjoyed it once and will probably never watch it again, but I believe kids 7 to 11 would enjoy it quite a bit.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 17297,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.3
+  },
+  "contentRating": "U",
+  "genre": [
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2010-08-18",
+  "keywords": "great dane,dog,rivalry,talking animal,bowl",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Owen Wilson",
+      "url": "https://www.imdb.com/name/nm0005562/"
+    },
+    {
+      "name": "Judy Greer",
+      "url": "https://www.imdb.com/name/nm0339460/"
+    },
+    {
+      "name": "Lee Pace",
+      "url": "https://www.imdb.com/name/nm1195855/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tom Dey",
+      "url": "https://www.imdb.com/name/nm0223359/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tim Rasmussen",
+      "url": "https://www.imdb.com/name/nm0711422/"
+    },
+    {
+      "name": "Vince Di Meglio",
+      "url": "https://www.imdb.com/name/nm0224084/"
+    },
+    {
+      "name": "Brad Anderson",
+      "url": "https://www.imdb.com/name/nm1685870/"
+    }
+  ]
+}

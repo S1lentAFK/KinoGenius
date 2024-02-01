@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Tall Girl 2",
+  "url": "https://www.imdb.com/tt16085592/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjUwM2JiOWMtNDUyZi00Yjg1LThkMzQtYTM1NWE2YzIwOTNmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+  "description": "After Jodi Kreyman gains popularity, her miscommunications start causing rifts with those around her and now she really needs to &apos;stand tall&apos;.",
+  "review": {
+    "author": "rohanumpleby",
+    "dateCreated": "2022-02-18",
+    "inLanguage": "English",
+    "heading": "First movie was Poor and lame, this is ok though",
+    "reviewBody": "I said it was ok, I didn&apos;t say it was good. The troubles of being a couple and the issues of having a couple is actually put on display really well here. The struggles of being tall are put in display better then how the first movie displayed them. And the movie is funnier then the first. The characters are a bit more interesting in this movie. The movie cost like £24.4 million in this movie?..., I&apos;m not quite sure how because nouthing added up to it for costing 24.4 million. The problems of this movie. The story is boring, also has no plot, nor is it focused on a plot, which is kind of a bad thing especially with films like these.\n\nEnding was fine though.\n\nRating stands at: 5/10 Decent.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 6038,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.7
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2022-02-11",
+  "keywords": "sequel,high school,beauty pageant,tall woman,number 2 in title",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Ava Michelle",
+      "url": "https://www.imdb.com/name/nm6433012/"
+    },
+    {
+      "name": "Griffin Gluck",
+      "url": "https://www.imdb.com/name/nm3838034/"
+    },
+    {
+      "name": "Sabrina Carpenter",
+      "url": "https://www.imdb.com/name/nm4248775/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Emily Ting",
+      "url": "https://www.imdb.com/name/nm1733017/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sam Wolfson",
+      "url": "https://www.imdb.com/name/nm1625872/"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "Movie",
+  "name": "Bad Candy",
+  "url": "https://www.imdb.com/tt6561576/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWIxYzg2NjctZjUwNC00ZGFkLTg0Y2YtZTk0NTQwYTg4M2I5XkEyXkFqcGdeQXVyMTE5MzI2NTU@._V1_.jpg",
+  "description": "On Halloween night in New Salem, Radio DJs Chilly Billy (Corey Taylor) and Paul (Zach Galligan) tell a twisted anthology of terrifying local myths that lead to a grim end for small-town residents.",
+  "review": {
+    "author": "kel-31636",
+    "dateCreated": "2021-09-15",
+    "inLanguage": "English",
+    "heading": "DON&apos;T SPEND THE MONEY...",
+    "reviewBody": "If you can watch this for free and there&apos;s nothing else on, it might be passable. It&apos;s poorly lit, poor sound, lots of bad acting and chaotic story line. If nothing else is available and you don&apos;t have to pay, go for it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 3321,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4
+  },
+  "contentRating": "18",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2021-10-04",
+  "keywords": "trick or treating,halloween costume,halloween candy,smashed pumpkin,halloween decoration",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Zach Galligan",
+      "url": "https://www.imdb.com/name/nm0002090/"
+    },
+    {
+      "name": "Derek Russo",
+      "url": "https://www.imdb.com/name/nm2403799/"
+    },
+    {
+      "name": "Corey Taylor",
+      "url": "https://www.imdb.com/name/nm0852173/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Scott B. Hansen",
+      "url": "https://www.imdb.com/name/nm2359817/"
+    },
+    {
+      "name": "Desiree Connell",
+      "url": "https://www.imdb.com/name/nm4142559/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Desiree Connell",
+      "url": "https://www.imdb.com/name/nm4142559/"
+    },
+    {
+      "name": "Scott B. Hansen",
+      "url": "https://www.imdb.com/name/nm2359817/"
+    },
+    {
+      "name": "Thacker Hoffman",
+      "url": "https://www.imdb.com/name/nm12134499/"
+    }
+  ]
+}

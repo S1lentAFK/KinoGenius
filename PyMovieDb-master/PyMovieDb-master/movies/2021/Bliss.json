@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Bliss",
+  "url": "https://www.imdb.com/tt10333426/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmFjNWY5NjQtMTJiNC00NjFlLWIxMGQtNzhmMmQ0MjhiZjQyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+  "description": "A mind-bending love story following Greg who, after recently being divorced and then fired, meets the mysterious Isabel, a woman living on the streets and convinced that the polluted, broken world around them is a computer simulat...",
+  "review": {
+    "author": "frankie-08908",
+    "dateCreated": "2021-02-06",
+    "inLanguage": "English",
+    "heading": "Wrongly Advertised",
+    "reviewBody": "Those who marketed this movie made a huge mistake. They gave a high expectation of a Syfy type movie. I watched this movie with exactly that in mind and it left me lost and confused. I really believe it&apos;s because of the lasting impression the marketing left on me.\n\nIt took me just about past the midway point of the movie I started to realize it wasn&apos;t about Syfy at all. It&apos;s about drug addiction, the mentally disabled, and homelessness. The moment I recognized this, I had a better impression of the movie. Having a career in LE in a city I experienced many with those difficulties. It&apos;s easy to criticize the homeless or dismiss them, but if you had a better understanding of the issues they&apos;re having mentally your feelings would change. And I think this movie did a good job putting the viewer inside the mind of an addict/mentally ill person. I only wish those in charge of the marketing would have done a better job.\n\nWith having a better understanding of the movie, the actors did a great job.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 19747,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "datePublished": "2021-02-05",
+  "keywords": "alternative,mind bending,drug addiction,roller skating,domestic drama",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Owen Wilson",
+      "url": "https://www.imdb.com/name/nm0005562/"
+    },
+    {
+      "name": "Salma Hayek",
+      "url": "https://www.imdb.com/name/nm0000161/"
+    },
+    {
+      "name": "Nesta Cooper",
+      "url": "https://www.imdb.com/name/nm5050435/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mike Cahill",
+      "url": "https://www.imdb.com/name/nm2648685/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mike Cahill",
+      "url": "https://www.imdb.com/name/nm2648685/"
+    }
+  ]
+}

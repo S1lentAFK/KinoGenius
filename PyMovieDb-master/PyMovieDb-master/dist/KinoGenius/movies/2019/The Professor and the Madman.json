@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Professor and the Madman",
+  "url": "https://www.imdb.com/tt5932728/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjRjNWIxMWMtNzcxYi00NDYyLWFmMzAtZTRiZWZhZDMwZmVkXkEyXkFqcGdeQXVyMjExMDE1MzQ@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "linkogecko",
+    "dateCreated": "2019-03-21",
+    "inLanguage": "English",
+    "heading": "An endeavour of unanticipated heft",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 50191,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2020-03-15",
+  "keywords": "dictionary,widow,scot,american,prison guard",
+  "duration": "PT2H4M",
+  "actor": [
+    {
+      "name": "Mel Gibson",
+      "url": "https://www.imdb.com/name/nm0000154/"
+    },
+    {
+      "name": "Sean Penn",
+      "url": "https://www.imdb.com/name/nm0000576/"
+    },
+    {
+      "name": "Eddie Marsan",
+      "url": "https://www.imdb.com/name/nm0550371/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Farhad Safinia",
+      "url": "https://www.imdb.com/name/nm1731154/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Todd Komarnicki",
+      "url": "https://www.imdb.com/name/nm0464548/"
+    },
+    {
+      "name": "Farhad Safinia",
+      "url": "https://www.imdb.com/name/nm1731154/"
+    },
+    {
+      "name": "Simon Winchester",
+      "url": "https://www.imdb.com/name/nm2278762/"
+    }
+  ]
+}

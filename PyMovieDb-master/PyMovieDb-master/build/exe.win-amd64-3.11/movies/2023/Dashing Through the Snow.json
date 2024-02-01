@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Dashing Through the Snow",
+  "url": "https://www.imdb.com/tt5608166/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWExOTdjYWUtZmE5NS00NjVhLTkwZDUtMDgxNmZiMmI2ZDgxXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+  "description": "A separated social worker takes his daughter on a ride along with him on Christmas Eve.",
+  "review": {
+    "author": "setzertammy-44788",
+    "dateCreated": "2023-11-18",
+    "inLanguage": "English",
+    "heading": "Had potential, just bad",
+    "reviewBody": "Had a cute line or two, but mostly watching this was just painful. Poor writing, unnatural, choppy dialogue, and disjointed transitions between scenes made this difficult to watch. Unoriginal plot. Terrible acting by everyone (except the little girl and Nick), along with the dialogue made us laugh but not in a good way, I am amazed Disney would put their name on this. 10 times worse than a cheesy Hallmark movie. With more time with a quality director, better acting, and some subtle rewriting and editing, it could be believable and funny. Feels like it was it was thrown together in a week with no test audience or review. Like a made for after school special. Shots around Atlanta are a nice break from LA, NY, and Vancouver BC. Still, Two thumbs down. 👎",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 2
+    }
+  },
+  "rating": {
+    "ratingCount": 3406,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2023-11-17",
+  "keywords": "black santa,son,christmas,holiday,holiday season",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Lil Rel Howery",
+      "url": "https://www.imdb.com/name/nm2577076/"
+    },
+    {
+      "name": "Ludacris",
+      "url": "https://www.imdb.com/name/nm0524839/"
+    },
+    {
+      "name": "Madison Skye Validum",
+      "url": "https://www.imdb.com/name/nm12545199/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tim Story",
+      "url": "https://www.imdb.com/name/nm1103162/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Scott Rosenberg",
+      "url": "https://www.imdb.com/name/nm0003298/"
+    }
+  ]
+}

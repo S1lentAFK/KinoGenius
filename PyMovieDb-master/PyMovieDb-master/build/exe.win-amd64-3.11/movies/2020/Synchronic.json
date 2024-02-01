@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Synchronic",
+  "url": "https://www.imdb.com/tt9016974/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzdlNGNiNTAtNDAyZC00NmQwLTg3ZTYtNDQ4MmNiYTc2ZmYzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "paul_haakonsen",
+    "dateCreated": "2021-01-12",
+    "inLanguage": "English",
+    "heading": "Quite linear and predictable...",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 39184,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2021-01-29",
+  "keywords": "time travel,female time traveler,male time traveler,time travelling dog,ice age",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Anthony Mackie",
+      "url": "https://www.imdb.com/name/nm1107001/"
+    },
+    {
+      "name": "Jamie Dornan",
+      "url": "https://www.imdb.com/name/nm1946193/"
+    },
+    {
+      "name": "Katie Aselton",
+      "url": "https://www.imdb.com/name/nm1051221/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Justin Benson",
+      "url": "https://www.imdb.com/name/nm1918140/"
+    },
+    {
+      "name": "Aaron Moorhead",
+      "url": "https://www.imdb.com/name/nm1823264/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Justin Benson",
+      "url": "https://www.imdb.com/name/nm1918140/"
+    }
+  ]
+}

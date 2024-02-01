@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Migration",
+  "url": "https://www.imdb.com/tt6495056/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmNlMzAxOWUtYmVhNC00ODgzLWE3ODMtYjFjNDgwZmVkY2IwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "OddityReviewsStuff",
+    "dateCreated": "2023-12-23",
+    "inLanguage": "English",
+    "heading": "Not Half Bad",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 5516,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2024-02-02",
+  "keywords": "cgi animation,computer animation,3d animation,vacation,3d",
+  "duration": "PT1H23M",
+  "actor": [
+    {
+      "name": "Kumail Nanjiani",
+      "url": "https://www.imdb.com/name/nm3529685/"
+    },
+    {
+      "name": "Tresi Gazal",
+      "url": "https://www.imdb.com/name/nm14793320/"
+    },
+    {
+      "name": "Elizabeth Banks",
+      "url": "https://www.imdb.com/name/nm0006969/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Benjamin Renner",
+      "url": "https://www.imdb.com/name/nm2883649/"
+    },
+    {
+      "name": "Guylo Homsy",
+      "url": "https://www.imdb.com/name/nm3157077/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mike White",
+      "url": "https://www.imdb.com/name/nm0925234/"
+    },
+    {
+      "name": "Benjamin Renner",
+      "url": "https://www.imdb.com/name/nm2883649/"
+    }
+  ]
+}

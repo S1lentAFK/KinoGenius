@@ -1,0 +1,62 @@
+{
+  "type": "Movie",
+  "name": "Easter Sunday",
+  "url": "https://www.imdb.com/tt11952606/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWZmZTJmNGItNjkyZi00NzQ4LWJmZTMtNmJlMjUzNmQ2YmQ2XkEyXkFqcGdeQXVyMTA1NjE5MTAz._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "bostonct",
+    "dateCreated": "2022-08-05",
+    "inLanguage": "English",
+    "heading": "Interesting Insights to a different Asian family",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 2556,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2022-08-05",
+  "keywords": "easter,life,san francisco california,easter sunday,daly city california",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Jo Koy",
+      "url": "https://www.imdb.com/name/nm1839922/"
+    },
+    {
+      "name": "Lydia Gaston",
+      "url": "https://www.imdb.com/name/nm1478223/"
+    },
+    {
+      "name": "Brandon Wardell",
+      "url": "https://www.imdb.com/name/nm7385519/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jay Chandrasekhar",
+      "url": "https://www.imdb.com/name/nm0151540/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kate Angelo",
+      "url": "https://www.imdb.com/name/nm1180074/"
+    },
+    {
+      "name": "Ken Cheng",
+      "url": "https://www.imdb.com/name/nm3334252/"
+    }
+  ]
+}

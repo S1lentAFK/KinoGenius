@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "High Flying Bird",
+  "url": "https://www.imdb.com/tt8128188/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk1NDI2MzEyNF5BMl5BanBnXkFtZTgwODk3ODQyNzM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "bennyantlang",
+    "dateCreated": "2019-02-09",
+    "inLanguage": "English",
+    "heading": "This Is Not A Basketball Movie, It&apos;s Much More",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 9167,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2019-02-08",
+  "keywords": "basketball sport,basketball,director also editor,lesbian character,steam bath",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "André Holland",
+      "url": "https://www.imdb.com/name/nm2428245/"
+    },
+    {
+      "name": "Melvin Gregg",
+      "url": "https://www.imdb.com/name/nm4713584/"
+    },
+    {
+      "name": "Eddie Tavares",
+      "url": "https://www.imdb.com/name/nm3634803/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven Soderbergh",
+      "url": "https://www.imdb.com/name/nm0001752/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tarell Alvin McCraney",
+      "url": "https://www.imdb.com/name/nm4144120/"
+    }
+  ]
+}

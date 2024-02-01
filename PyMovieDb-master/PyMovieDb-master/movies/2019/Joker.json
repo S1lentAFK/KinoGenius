@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Joker",
+  "url": "https://www.imdb.com/tt7286456/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+  "review": {
+    "author": "Xstal",
+    "dateCreated": "2023-04-12",
+    "inLanguage": "English",
+    "heading": "The King of Tragedy...",
+    "reviewBody": "Arthur Fleck&apos;s a guy with lofty aspirations, wants to make you laugh and disturb your foundations, although, he&apos;s not really that funny, he ain&apos;t going to make much money, so before you start, curtail your expectations; unlike Arthur, you won&apos;t be having laughing fits, as he aspires to get some television glitz, dispatches tormentors with glee, it&apos;s a substantial, hefty fee, but I guarantee, it won&apos;t leave you in bits; although, if schadenfreude&apos;s your thing you might just chuckle, but if it&apos;s not, the story may just make you buckle, as those on, the lower rungs, tend to not have, that much fun, and quite often, from the day they learned to suckle.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 1441304,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2019-10-04",
+  "keywords": "mental illness,evil clown,out of control,loss of control,antisocial behavior",
+  "duration": "PT2H2M",
+  "actor": [
+    {
+      "name": "Joaquin Phoenix",
+      "url": "https://www.imdb.com/name/nm0001618/"
+    },
+    {
+      "name": "Robert De Niro",
+      "url": "https://www.imdb.com/name/nm0000134/"
+    },
+    {
+      "name": "Zazie Beetz",
+      "url": "https://www.imdb.com/name/nm5939164/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Todd Phillips",
+      "url": "https://www.imdb.com/name/nm0680846/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Todd Phillips",
+      "url": "https://www.imdb.com/name/nm0680846/"
+    },
+    {
+      "name": "Scott Silver",
+      "url": "https://www.imdb.com/name/nm0798788/"
+    },
+    {
+      "name": "Bob Kane",
+      "url": "https://www.imdb.com/name/nm0004170/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "Movie",
+  "name": "The Strangers: Prey at Night",
+  "url": "https://www.imdb.com/tt1285009/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY1OTIwODgzMV5BMl5BanBnXkFtZTgwMzUyMDgzNDM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "claudio_carvalho",
+    "dateCreated": "2018-06-27",
+    "inLanguage": "English",
+    "heading": "Unoriginal and Stupid Slasher",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 33871,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror"
+  ],
+  "datePublished": "2018-05-04",
+  "keywords": "sequel,american horror,violence,extreme gore,mutilated body",
+  "duration": "PT1H25M",
+  "actor": [
+    {
+      "name": "Christina Hendricks",
+      "url": "https://www.imdb.com/name/nm0376716/"
+    },
+    {
+      "name": "Martin Henderson",
+      "url": "https://www.imdb.com/name/nm0376540/"
+    },
+    {
+      "name": "Bailee Madison",
+      "url": "https://www.imdb.com/name/nm1933128/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Johannes Roberts",
+      "url": "https://www.imdb.com/name/nm1266897/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bryan Bertino",
+      "url": "https://www.imdb.com/name/nm1052162/"
+    },
+    {
+      "name": "Ben Ketai",
+      "url": "https://www.imdb.com/name/nm2406892/"
+    }
+  ]
+}

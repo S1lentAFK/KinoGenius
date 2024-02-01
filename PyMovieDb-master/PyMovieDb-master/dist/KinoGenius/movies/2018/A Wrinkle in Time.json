@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "A Wrinkle in Time",
+  "url": "https://www.imdb.com/tt1620680/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjQ5MTI3MV5BMl5BanBnXkFtZTgwMjQ2MTAyNDM@._V1_.jpg",
+  "description": "After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.",
+  "review": {
+    "author": "steve-84354",
+    "dateCreated": "2018-03-18",
+    "inLanguage": "English",
+    "heading": "What happened!",
+    "reviewBody": "Great actors with very poor script. Rendering poor performance. Even my 10 yr old daughter was bored and wanted to leave early. We wondered why we were the only ones in the theatre. A real disappointment",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 2
+    }
+  },
+  "rating": {
+    "ratingCount": 47370,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.3
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2018-03-23",
+  "keywords": "based on novel,space time,teenager,magic,father daughter relationship",
+  "duration": "PT1H49M",
+  "actor": [
+    {
+      "name": "Storm Reid",
+      "url": "https://www.imdb.com/name/nm4977564/"
+    },
+    {
+      "name": "Oprah Winfrey",
+      "url": "https://www.imdb.com/name/nm0001856/"
+    },
+    {
+      "name": "Reese Witherspoon",
+      "url": "https://www.imdb.com/name/nm0000702/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ava DuVernay",
+      "url": "https://www.imdb.com/name/nm1148550/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jennifer Lee",
+      "url": "https://www.imdb.com/name/nm1601644/"
+    },
+    {
+      "name": "Jeff Stockwell",
+      "url": "https://www.imdb.com/name/nm0830969/"
+    },
+    {
+      "name": "Madeleine L&apos;Engle",
+      "url": "https://www.imdb.com/name/nm0478291/"
+    }
+  ]
+}

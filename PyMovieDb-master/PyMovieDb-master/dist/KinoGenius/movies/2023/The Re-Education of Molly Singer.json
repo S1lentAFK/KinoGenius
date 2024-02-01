@@ -1,0 +1,62 @@
+{
+  "type": "Movie",
+  "name": "The Re-Education of Molly Singer",
+  "url": "https://www.imdb.com/tt12143990/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjA2NzMzZDgtMWJmZS00MmUxLTlhZTgtYjcxMGQwNTg3NDU0XkEyXkFqcGdeQXVyMjI5Nzc0MjM@._V1_.jpg",
+  "description": "To save her job, a young lawyer must go undercover, enrolling as a freshman at her old alma mater, in order to resuscitate the well being of her Boss&apos; terribly awkward teenage son",
+  "review": {
+    "author": "dejomalon3",
+    "dateCreated": "2023-11-12",
+    "inLanguage": "English",
+    "heading": "Super fun flick",
+    "reviewBody": "In this film, the story revolves around Molly&apos;s quest to save her job by returning to her alma mater. The mission: to transform her boss&apos;s socially awkward son, Elliot, portrayed with a heartfelt sincerity by Ty Simpkins, from a campus outcast to a confident student. The narrative, while playing into some traditional college comedy tropes, stands out with its witty script and dynamic character arcs. Robertson and Simpkins together create a compelling and humorous dynamic, making their characters&apos; growth and evolving friendship a highlight of the film.\n\nThe supporting cast, including Nico Santos and Jaime Pressly, adds depth and humor to the narrative, each character contributing to the film&apos;s exploration of themes like friendship, identity, and the importance of embracing change. The film&apos;s portrayal of college life strikes a balance between humor and authenticity, avoiding the pitfall of overused stereotypes.\n\nDirector Andy Palmer skillfully navigates the comedic elements while maintaining a heartfelt undertone throughout the movie. The film&apos;s pacing is well-managed, ensuring that the story remains engaging and the humor impactful. The Re-Education of Molly Singer is not just a comedy; it&apos;s a story about redefining oneself amidst the chaos of life&apos;s expectations and the unpredictability of growing up. It&apos;s a film that resonates with audiences looking for both laughter and a meaningful story, making it a must-watch for fans of the genre.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 3964,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "18",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2023-09-29",
+  "keywords": "lawyer,young",
+  "duration": "PT2H",
+  "actor": [
+    {
+      "name": "Britt Robertson",
+      "url": "https://www.imdb.com/name/nm1429380/"
+    },
+    {
+      "name": "Wendie Malick",
+      "url": "https://www.imdb.com/name/nm0005176/"
+    },
+    {
+      "name": "Jaime Pressly",
+      "url": "https://www.imdb.com/name/nm0005326/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andy Palmer",
+      "url": "https://www.imdb.com/name/nm1558526/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Todd M. Friedman",
+      "url": "https://www.imdb.com/name/nm10807308/"
+    },
+    {
+      "name": "Kevin Haskin",
+      "url": "https://www.imdb.com/name/nm1905331/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Nancy Drew and the Hidden Staircase",
+  "url": "https://www.imdb.com/tt8323104/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjEzOGU3YjQtODA4My00ZTVjLWJjNWEtY2JkNTRlNzY3YmY4XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "kymrox5",
+    "dateCreated": "2020-04-18",
+    "inLanguage": "English",
+    "heading": "Great old-fashioned thriller",
+    "reviewBody": "I&apos;m really happy to see a kid&apos;s movie without foul-mouthed, angry, rebellious teens meant to shock & offend people. This stayed in the spirit of the original stories which I loved as a kid. They had to modernize it of course, but it&apos;s wonderful that they kept the girl detective at the heart of it, they didn&apos;t turn her into a witch, make her chase zombies or vampires. If they do any more I hope they stick with this formula.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 5351,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2019-04-01",
+  "keywords": "girl detective,sleuth,small town,father daughter relationship,nancy drew character",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Sophia Lillis",
+      "url": "https://www.imdb.com/name/nm6096118/"
+    },
+    {
+      "name": "Zoe Renee",
+      "url": "https://www.imdb.com/name/nm6312506/"
+    },
+    {
+      "name": "Mackenzie Graham",
+      "url": "https://www.imdb.com/name/nm9891599/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Katt Shea",
+      "url": "https://www.imdb.com/name/nm0002240/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nina Fiore",
+      "url": "https://www.imdb.com/name/nm1936920/"
+    },
+    {
+      "name": "John Herrera",
+      "url": "https://www.imdb.com/name/nm2118749/"
+    },
+    {
+      "name": "Carolyn Keene",
+      "url": "https://www.imdb.com/name/nm13182781/"
+    }
+  ]
+}

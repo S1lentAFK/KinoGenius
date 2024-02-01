@@ -1,0 +1,54 @@
+{
+  "type": "Movie",
+  "name": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+  "url": "https://www.imdb.com/tt11422728/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDE0MDRkODUtMTEwMC00ZWE2LWEyNzgtYzM5ZmVkZGMwMDg4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "paul-allaer",
+    "dateCreated": "2021-07-05",
+    "inLanguage": "English",
+    "heading": "Best movie of 2021, period",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 13597,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Documentary",
+    "Music"
+  ],
+  "datePublished": "2021-07-16",
+  "keywords": "concert,festival,reference to the moon landing,outdoor concert,mount morris park harlem manhattan new york city",
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Dorinda Drake",
+      "url": "https://www.imdb.com/name/nm12755863/"
+    },
+    {
+      "name": "Barbara Bland-Acosta",
+      "url": "https://www.imdb.com/name/nm12755861/"
+    },
+    {
+      "name": "Darryl Lewis",
+      "url": "https://www.imdb.com/name/nm12710321/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Questlove",
+      "url": "https://www.imdb.com/name/nm0859821/"
+    }
+  ],
+  "creator": []
+}

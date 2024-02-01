@@ -1,0 +1,76 @@
+{
+  "type": "Movie",
+  "name": "Spider-Man: Across the Spider-Verse",
+  "url": "https://www.imdb.com/tt9362722/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzI0NmVkMjEtYmY4MS00ZDMxLTlkZmEtMzU4MDQxYTMzMjU2XkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_.jpg",
+  "description": "Miles Morales catapults across the multiverse, where he encounters a team of Spider-People charged with protecting its very existence. When the heroes clash on how to handle a new threat, Miles must redefine what it means to be a ...",
+  "review": {
+    "author": "pugpool10",
+    "dateCreated": "2023-06-02",
+    "inLanguage": "English",
+    "heading": "One of the best sequels to anything ever made",
+    "reviewBody": "If it wasn&apos;t already obvious in the first film, it&apos;s now officially clear as day that the people behind the Spider-Verse franchise (including writers/producers Phil Lord and Chris Miller, who are absolute creative godsends to the once magnificent place known as Hollywood) understand EXACTLY what they&apos;re working with.\n\nDon&apos;t let the marketing fool you: this film has GUTS. It&apos;s easily one of the heaviest PG-rated films I&apos;ve ever seen. Payoffs and character revelations that were only hinted at in the first film are carefully, deliberately unraveled and come around beautifully. It made me think about my own life and what I mean to the people I care about in ways I never expected. The fan-service is BATTY too, and yet somehow it&apos;s never too much.\n\nI wish every movie was as good as this---but then again if the world was like that this wouldn&apos;t feel as special. So I&apos;ll just stick to being IMMENSELY grateful that it exists in this universe.\n\nThis is no ordinary sequel. It&apos;s art of the highest form.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 329057,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.6
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2023-06-01",
+  "keywords": "marvel comics,based on comic,second part,multiverse,spider man character",
+  "duration": "PT2H20M",
+  "actor": [
+    {
+      "name": "Shameik Moore",
+      "url": "https://www.imdb.com/name/nm4271336/"
+    },
+    {
+      "name": "Hailee Steinfeld",
+      "url": "https://www.imdb.com/name/nm2794962/"
+    },
+    {
+      "name": "Brian Tyree Henry",
+      "url": "https://www.imdb.com/name/nm3109964/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joaquim Dos Santos",
+      "url": "https://www.imdb.com/name/nm1690966/"
+    },
+    {
+      "name": "Kemp Powers",
+      "url": "https://www.imdb.com/name/nm5358492/"
+    },
+    {
+      "name": "Justin K. Thompson",
+      "url": "https://www.imdb.com/name/nm1042511/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Phil Lord",
+      "url": "https://www.imdb.com/name/nm0520488/"
+    },
+    {
+      "name": "Christopher Miller",
+      "url": "https://www.imdb.com/name/nm0588087/"
+    },
+    {
+      "name": "Dave Callaham",
+      "url": "https://www.imdb.com/name/nm1709264/"
+    }
+  ]
+}

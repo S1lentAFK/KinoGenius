@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "The Passenger",
+  "url": "https://www.imdb.com/tt21979910/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjliNzlmYTktNGI3MS00YTQ0LWIwMWUtMmYyOGYwNjBjMzM4XkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_.jpg",
+  "description": "A man is forced to face his fears and confront his troubled past. He must find a way to survive when his co-worker snaps and goes on a violent killing spree.",
+  "review": {
+    "author": "fzane",
+    "dateCreated": "2023-08-11",
+    "inLanguage": "English",
+    "heading": "Hidden Gem!",
+    "reviewBody": "This little gem packs a powerful punch with realistic acting that evokes emotions that could only be felt in such a situation. The pacing and directing was perfect, and thanks to the multi-layered performances, I was never bored. Rough, rugged, and real, it reminded me of something from the 70s golden period of cinema. Like a small artsy film in which a young Al Pacino or Dustin Hoffman would have excelled in the role. Maybe we&apos;re seeing a start to a new golden age of cinema? Let&apos;s hope so. This film is pure art, and imo best of all, it does not attempt to appease or compromise to any politically correct criteria.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 3440,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "18",
+  "genre": [
+    "Thriller"
+  ],
+  "datePublished": "2023-08-07",
+  "keywords": "coming of age,coming of age horror,coming of age film with male protagonist",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Merah Benoit",
+      "url": "https://www.imdb.com/name/nm12045962/"
+    },
+    {
+      "name": "Johnny Berchtold",
+      "url": "https://www.imdb.com/name/nm6851692/"
+    },
+    {
+      "name": "Betsy Borrego",
+      "url": "https://www.imdb.com/name/nm6549243/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Carter Smith",
+      "url": "https://www.imdb.com/name/nm2127650/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jack Stanley",
+      "url": "https://www.imdb.com/name/nm6177805/"
+    }
+  ]
+}

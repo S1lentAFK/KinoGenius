@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Dolittle",
+  "url": "https://www.imdb.com/tt6673612/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2MyY2M3ZjItYTEyMS00ZjY4LTljNGUtYzcwMGE3NjFmZWQyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "A physician who can talk to animals embarks on an adventure to find a legendary island with a young apprentice and a crew of strange pets.",
+  "review": {
+    "author": "mj-27179",
+    "dateCreated": "2020-06-01",
+    "inLanguage": "English",
+    "heading": "An Enjoyable Watch for Anyone",
+    "reviewBody": "You get what you expect with this film - easy to watch and a good laugh from start to finish. As family friendly as a film gets. The cast (both in person and voice over) are of the highest calibre and this only adds to the quality.\n\nA note on Downey Jr&apos;s Doctors accent - it is a South Wales accent. Not only did I pick up on this immediately, but I would know... being Welsh and having the very accent myself. He pulls it off with a more than decent attempt.\n\nTo summarise - very good viewing.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 70080,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2020-02-07",
+  "keywords": "gorilla,live action cgi hybrid,veterinarian,menagerie,live action and animation",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Robert Downey Jr.",
+      "url": "https://www.imdb.com/name/nm0000375/"
+    },
+    {
+      "name": "Antonio Banderas",
+      "url": "https://www.imdb.com/name/nm0000104/"
+    },
+    {
+      "name": "Michael Sheen",
+      "url": "https://www.imdb.com/name/nm0790688/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Stephen Gaghan",
+      "url": "https://www.imdb.com/name/nm0300866/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stephen Gaghan",
+      "url": "https://www.imdb.com/name/nm0300866/"
+    },
+    {
+      "name": "Dan Gregor",
+      "url": "https://www.imdb.com/name/nm2287168/"
+    },
+    {
+      "name": "Doug Mand",
+      "url": "https://www.imdb.com/name/nm3096061/"
+    }
+  ]
+}

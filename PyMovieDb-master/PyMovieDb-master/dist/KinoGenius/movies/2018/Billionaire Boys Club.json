@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Billionaire Boys Club",
+  "url": "https://www.imdb.com/tt5179598/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDAxZTE2MzgtZjNjYi00YjE4LWIzNzYtNTQyZWRhMWVhMTc2XkEyXkFqcGdeQXVyNTUzOTUwMTk@._V1_.jpg",
+  "description": "A group of wealthy boys in Los Angeles during the early 1980s establish a &apos;get-rich-quick&apos; scam that turns deadly.",
+  "review": {
+    "author": "aldiboronti",
+    "dateCreated": "2018-07-17",
+    "inLanguage": "English",
+    "heading": "Nothing special but it is enjoyable",
+    "reviewBody": "This is based on a real-life case and was made before as a TV movie in the 80s with Judd Nelson starring. This has higher production values and can boast Kevin Spacey in the cast, although boast may be the wrong word these days. Still whatever else may be said of him he&apos;s a great actor and I always enjoy seeing him.\n\nNot a bad little movie, I&apos;d recommend it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 14474,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2018-07-17",
+  "keywords": "remake,andy warhol character,money,fake money,money problems",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "Ansel Elgort",
+      "url": "https://www.imdb.com/name/nm5052065/"
+    },
+    {
+      "name": "Kevin Spacey",
+      "url": "https://www.imdb.com/name/nm0000228/"
+    },
+    {
+      "name": "Taron Egerton",
+      "url": "https://www.imdb.com/name/nm5473782/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Cox",
+      "url": "https://www.imdb.com/name/nm0185063/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Cox",
+      "url": "https://www.imdb.com/name/nm0185063/"
+    },
+    {
+      "name": "Captain Mauzner",
+      "url": "https://www.imdb.com/name/nm0561359/"
+    }
+  ]
+}

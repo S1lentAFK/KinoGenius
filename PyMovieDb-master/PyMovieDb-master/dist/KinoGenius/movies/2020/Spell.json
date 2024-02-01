@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Spell",
+  "url": "https://www.imdb.com/tt10736580/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmQ2ZmMxNGMtMTBmNS00M2VkLWExN2EtMzdmMzMxNWI0MzYyXkEyXkFqcGdeQXVyMDk5Mzc5MQ@@._V1_.jpg",
+  "description": "A man crash lands in rural Appalachia and awakens in the attic of a traditional Hoodoo practitioner. He desperately tries to break free from her dark magic and save his family from a sinister ritual before the rise of the blood moon.",
+  "review": {
+    "author": "kuarinofu",
+    "dateCreated": "2020-10-30",
+    "inLanguage": "English",
+    "heading": "It was a lot of fun",
+    "reviewBody": "&apos;Spell&apos; is just 90 minutes of pure schlocky b-movie fun. They introduced some basic story elements at the beginning of the film, and I thought that this was going to be a basic occult horror film, probably mixed with psychological elements. But it&apos;s not.\n\nAt some point, they just drop the common sense and start having fun. If you&apos;re not new to movies you will catch the ending very fast, since the main lead literally explains the plot talking to the viewer (I was wondering why he wasn&apos;t looking at the camera). So you&apos;re just expecting more random and bizarre stuff to happen, and they deliver.\n\nAt times, the film felt more like a cheesy horror game but without jumpscares, the superhuman main character, zero realism, and people were driven not by motivation but by video game rules. Other times it felt like a weird combination of a horror-comedy, revenge film, Rambo sequel, and an 80ties TV-show.\n\nI can&apos;t say I&apos;d like to recommend this film, but if you love cheesy b-movie fun, gore, and intentional overacting (and you are prepared to switch-off your brain for 90 minutes) - you can give it a try. I can promise you - you will laugh a lot.\n\nBut if you try to take this seriously as a suspenseful occult horror film this clearly won&apos;t end up making your day better.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 9544,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2020-10-30",
+  "keywords": "nurse,supernatural horror,boogity doll,railroad spike in foot,vomiting",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Omari Hardwick",
+      "url": "https://www.imdb.com/name/nm1165044/"
+    },
+    {
+      "name": "Loretta Devine",
+      "url": "https://www.imdb.com/name/nm0222643/"
+    },
+    {
+      "name": "Lorraine Burroughs",
+      "url": "https://www.imdb.com/name/nm1561415/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mark Tonderai",
+      "url": "https://www.imdb.com/name/nm0867127/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kurt Wimmer",
+      "url": "https://www.imdb.com/name/nm0934483/"
+    }
+  ]
+}

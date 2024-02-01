@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Black Phone",
+  "url": "https://www.imdb.com/tt7144666/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWQxOGJlNTUtYTc1YS00NDkyLWExZjItMTFiYWEzMjAzYTdjXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+  "description": "After being abducted by a child killer and locked in a soundproof basement, a 13-year-old boy starts receiving calls on a disconnected phone from the killer&apos;s previous victims.",
+  "review": {
+    "author": "Zaid_Khoury",
+    "dateCreated": "2021-11-09",
+    "inLanguage": "English",
+    "heading": "Yeah, Ethan Hawke at it again.",
+    "reviewBody": "Ethan Hawke is at it again, I loved the vibe of the movie, director came in clutch with this movie, it was truly surprising. Didn&apos;t expect it to be even remotely good, when this movie does fully release in theaters please do watch it in the big screens you will not regret it, child actors are incredible. I thought i saw the whole movie in the trailers, oh boy I was wrong.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 184416,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2022-06-24",
+  "keywords": "serial child killer,masked killer,child abduction,alcoholic father,basement",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Mason Thames",
+      "url": "https://www.imdb.com/name/nm9296746/"
+    },
+    {
+      "name": "Madeleine McGraw",
+      "url": "https://www.imdb.com/name/nm6421259/"
+    },
+    {
+      "name": "Ethan Hawke",
+      "url": "https://www.imdb.com/name/nm0000160/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Scott Derrickson",
+      "url": "https://www.imdb.com/name/nm0220600/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joe Hill",
+      "url": "https://www.imdb.com/name/nm0454872/"
+    },
+    {
+      "name": "Scott Derrickson",
+      "url": "https://www.imdb.com/name/nm0220600/"
+    },
+    {
+      "name": "C. Robert Cargill",
+      "url": "https://www.imdb.com/name/nm1803036/"
+    }
+  ]
+}

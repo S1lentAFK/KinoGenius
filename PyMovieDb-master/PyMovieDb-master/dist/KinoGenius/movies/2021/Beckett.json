@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Beckett",
+  "url": "https://www.imdb.com/tt10230994/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmEyYTVjZmItYjNlNS00NDUwLWI2ZWQtZGY5NTZhODcxNWU4XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+  "description": "Following a tragic car accident in Greece, an American tourist finds himself at the center of a dangerous political conspiracy and on the run for his life.",
+  "review": {
+    "author": "JamesDim2",
+    "dateCreated": "2021-08-14",
+    "inLanguage": "English",
+    "heading": "Great acting & scenery but poor writing",
+    "reviewBody": "The movie was ok but nothing special. On the plus side the Greek scenery at the beginning was beautiful and wild and reminded me of lord of the rings, the acting of most of the cast and especially Washington was really solid too. Now for the not so good. The plot was really weak and almost paper thin the main idea was great but the execution not so much. Another thing that bothered me as a person who lived in Athens for 6 years is that they made it look like a distopian third world country which was weird because Athens is a really beautiful City. I get that the movie is set in a distopian political alternate reality but they made Athens look like Baghdad or something. As a final verdict I think the movie is watchable but had potential to be much more if the writing was better.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 28062,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2021-08-13",
+  "keywords": "vacation gone wrong,conspiracy,trap,murder,tragic event",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "John David Washington",
+      "url": "https://www.imdb.com/name/nm0913475/"
+    },
+    {
+      "name": "Boyd Holbrook",
+      "url": "https://www.imdb.com/name/nm2933542/"
+    },
+    {
+      "name": "Vicky Krieps",
+      "url": "https://www.imdb.com/name/nm3043279/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ferdinando Cito Filomarino",
+      "url": "https://www.imdb.com/name/nm2982028/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kevin A. Rice",
+      "url": "https://www.imdb.com/name/nm9485219/"
+    },
+    {
+      "name": "Ferdinando Cito Filomarino",
+      "url": "https://www.imdb.com/name/nm2982028/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Murder Mystery 2",
+  "url": "https://www.imdb.com/tt15255288/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzkyMjU1ZjMtMDJlMS00M2YzLWJhZDQtYjFjZTUyMzI2MDViXkEyXkFqcGdeQXVyMzQyMDgzOTU@._V1_.jpg",
+  "description": "Full-time detectives Nick and Audrey are struggling to get their private eye agency off the ground. They find themselves at the center of international abduction when their friend Maharaja is kidnapped at his own lavish wedding.",
+  "review": {
+    "author": "cnkchmww",
+    "dateCreated": "2023-03-31",
+    "inLanguage": "English",
+    "heading": "Great fun",
+    "reviewBody": "I thought this movie was terrific fun. There are absolutely beautiful costumes, gorgeous scenery and entertaining laughs. It&apos;s not going to win an Oscar, but it was never designed to. It was designed to entertain and it is the perfect movie to watch on a Friday night with some takeaway. You will probably guess who the villain is pretty early on, but it doesn&apos;t detract from the enjoyment of the film. I&apos;ve never been a huge Adam Sandler fan, having said that I do find him quite entertaining in this role and Jennifer Aniston once again proves her comedic chops. Overall, it&apos;s a light-hearted and enjoyable comedy. Frankly, I can&apos;t wait for Murder Mystery 3.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 65325,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "12",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2023-03-31",
+  "keywords": "theft,murder,overnight success,private investigators,private eye",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Adam Sandler",
+      "url": "https://www.imdb.com/name/nm0001191/"
+    },
+    {
+      "name": "Jennifer Aniston",
+      "url": "https://www.imdb.com/name/nm0000098/"
+    },
+    {
+      "name": "Mark Strong",
+      "url": "https://www.imdb.com/name/nm0835016/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeremy Garelick",
+      "url": "https://www.imdb.com/name/nm1275670/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Vanderbilt",
+      "url": "https://www.imdb.com/name/nm0888743/"
+    }
+  ]
+}

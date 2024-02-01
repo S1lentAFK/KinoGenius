@@ -1,0 +1,62 @@
+{
+  "type": "Movie",
+  "name": "Bottoms",
+  "url": "https://www.imdb.com/tt17527468/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWZkZjE2OGYtN2RiMS00ZDE5LWFlZGQtYzI1OTNhZDZkYzM3XkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "anyanimeotoho",
+    "dateCreated": "2023-10-15",
+    "inLanguage": "English",
+    "heading": "Wildly entertaining!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 28614,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2023-11-03",
+  "keywords": "lgbt comedy,high school student,title directed by female,triple f rated,lesbian",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Rachel Sennott",
+      "url": "https://www.imdb.com/name/nm6976735/"
+    },
+    {
+      "name": "Ayo Edebiri",
+      "url": "https://www.imdb.com/name/nm8731249/"
+    },
+    {
+      "name": "Ruby Cruz",
+      "url": "https://www.imdb.com/name/nm9342097/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Emma Seligman",
+      "url": "https://www.imdb.com/name/nm7681231/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Emma Seligman",
+      "url": "https://www.imdb.com/name/nm7681231/"
+    },
+    {
+      "name": "Rachel Sennott",
+      "url": "https://www.imdb.com/name/nm6976735/"
+    }
+  ]
+}

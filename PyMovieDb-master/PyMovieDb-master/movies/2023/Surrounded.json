@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Surrounded",
+  "url": "https://www.imdb.com/tt2572212/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODU0MTQzZTUtYWRmZi00MzhmLWIyODItYjliMDgxNDdiMWI3XkEyXkFqcGdeQXVyMTM3Mjc5MjA4._V1_.jpg",
+  "description": "Former Buffalo Soldier Mo Washington travels West to lay claim on a gold mine. After her stagecoach is ambushed, Mo is tasked with holding a dangerous outlaw captive and must survive the day when the bandit&apos;s gang tries to free him.",
+  "review": {
+    "author": "apereztenessa-1",
+    "dateCreated": "2023-07-05",
+    "inLanguage": "English",
+    "heading": "Almost good",
+    "reviewBody": "Surrounded surprises. In the very beginning, you get the feeling that this is going to be yet another Hollywood movie aimed at teaching the audience a lesson on intersectionality in a historical setting. We get a lot of those from Hollywood these days, and suffice it to say that in their self-satisfaction, pedagogical arrogance and commercial intent, they rarely impress.\n\nBut in a few minutes, Surrounded takes a different turn. It uses the condition of Mo Washington (a black woman in the Far West) as a true dramatic lever, creating real tension and interest in the character and the story, and it even links it to cinematic history with abundant references to classic Western films (such as Stagecoach or The Searchers), as if saying that one can both see the injustices in history and also appreciate its beauty. It then adds the possibility of a relationship between this woman and a feared bandit (Tommy Walsh, a white man) who becomes her prisoner, cleverly inverting for a few scenes the traditional balance of power between white men and black women. And it even affords the luxury of adding ambiguity on what&apos;s right and what&apos;s wrong, who&apos;s noble and who&apos;s evil, by introducing a bounty hunter character and extracting a sense of humanity and victimhood from Tommy Walsh, and making him a potential savior for Mo, while also her main threat. This type of ambiguity, so rare in Hollywood productions today, adds a ton of dramatic interest to the story.\n\nIn that effort, Surrounded loses nothing of its political or society message. On the contrary, the message of historic oppression of black and female populations in the past is only reinforced by the reality of the characters and the intelligence of the scenes. In that first half of the film, Laetitia Wright is amazing as a ruthless woman cowboy, reflecting both the strength and contradictions of her character with depth that almost makes you forget the platitude of the Marvel character that she built her fame on.\n\nUnfortunately, Anthony Madler (the filmmaker) seems to throw the towel in the second half of the film, creating a predictable and somewhat silly second half of the film that is more reminiscent of Rambo than of great Westerns in film history. The depth of the story, the mystery of Mo fall down like a soufflé, and all you&apos;re left with is just another B-series Western for a lazy Sunday afternoon. It&apos;s too bad. It could have been so much more.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 1327,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Western"
+  ],
+  "datePublished": "2023-06-20",
+  "keywords": "gang,epic western,woman dresses as a man,african american,buffalo soldier",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Letitia Wright",
+      "url": "https://www.imdb.com/name/nm4004793/"
+    },
+    {
+      "name": "Jamie Bell",
+      "url": "https://www.imdb.com/name/nm0068260/"
+    },
+    {
+      "name": "Jeffrey Donovan",
+      "url": "https://www.imdb.com/name/nm0232998/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Anthony Mandler",
+      "url": "https://www.imdb.com/name/nm0541845/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Justin Thomas",
+      "url": "https://www.imdb.com/name/nm5100027/"
+    },
+    {
+      "name": "Andrew Pagana",
+      "url": "https://www.imdb.com/name/nm1219310/"
+    }
+  ]
+}

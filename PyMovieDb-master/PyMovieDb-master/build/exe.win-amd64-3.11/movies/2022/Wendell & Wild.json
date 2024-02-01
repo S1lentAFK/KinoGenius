@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Wendell & Wild",
+  "url": "https://www.imdb.com/tt5181830/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWFjM2Y5MWUtODc4Yy00NWZjLTg2YzUtZTFlY2Q1YzlhN2M3XkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_.jpg",
+  "description": "Two scheming demon brothers, Wendell and Wild, enlist the aid of 13-year-old Kat Elliot to summon them to the Land of the Living.",
+  "review": {
+    "author": "CinemaClown",
+    "dateCreated": "2022-11-10",
+    "inLanguage": "English",
+    "heading": "Messy Structure & Muddled Storytelling Brings It Down",
+    "reviewBody": "From the director of The Nightmare Before Christmas & Coraline, Wendell & Wild is yet another stop-motion animation offering that brims with originality, creativity & imagination and packs a thematically-rich premise overflowing with ideas but the film as a whole still required more fine-tuning with the script, for the messy structure & muddled storytelling only brings the ride down.\n\nCo-written by Jordan Peele & directed by Henry Selick, the story addresses guilt, trauma, loss, death, resurrection & even prison-industrial complex through its 13-year old protagonist but it fails to properly juggle the various subplots that are unfolding all at once and lacks a firm grip necessary to keep the drama riveting. It tries to tackle too many things & overstuffs the plot in the process.\n\nThe stop-motion craftsmanship on display remains top-notch from the get-go and the world it renders on screen has the director&apos;s macabre feel to it. Also uplifting the animation wizardry is the excellent use of camera, colour & lighting. Editing however is a mixed bag, for the narrative flow is a bit inconsistent and never truly gathers momentum. Voice acting is fine but the drama isn&apos;t compelling enough.\n\nOverall, Wendell & Wild begins on a promising note and is admirable for its ambitious attempt but it needed a more tightly-knitted plot, polished script & better balance between its multiple plot lines to deliver the desired goods. The hand-crafted magic is commendable no doubt but it&apos;s the convoluted writing that hinders the film from realising its full potential. In short, Selick&apos;s latest is no match to his finest efforts.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 12429,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2022-10-28",
+  "keywords": "stop motion,friend,supernatural horror,transgender boy,demon",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Lyric Ross",
+      "url": "https://www.imdb.com/name/nm7132577/"
+    },
+    {
+      "name": "Keegan-Michael Key",
+      "url": "https://www.imdb.com/name/nm1221047/"
+    },
+    {
+      "name": "Jordan Peele",
+      "url": "https://www.imdb.com/name/nm1443502/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Henry Selick",
+      "url": "https://www.imdb.com/name/nm0783139/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Henry Selick",
+      "url": "https://www.imdb.com/name/nm0783139/"
+    },
+    {
+      "name": "Jordan Peele",
+      "url": "https://www.imdb.com/name/nm1443502/"
+    },
+    {
+      "name": "Clay McLeod Chapman",
+      "url": "https://www.imdb.com/name/nm1626455/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Colette",
+  "url": "https://www.imdb.com/tt5437928/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTg5M2MxYzAtZjUwMi00MzRjLTkxNTItZmNjYzUxZjI3YzI3XkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_.jpg",
+  "description": "Colette is pushed by her husband to write novels under his name. Upon their success, she fights to make her talents known, challenging gender norms.",
+  "review": {
+    "author": "MC12810",
+    "dateCreated": "2019-01-10",
+    "inLanguage": "English",
+    "heading": "A fairly enjoyable movie",
+    "reviewBody": "The tale of Gabrielle Colette is a fascinating one, as it turns out. I was completely unaware of her story before seeing the film, and emerged from the cinema feeling as though I had learnt a lot about this literary legend.\n\nKeira Knightley is remarkable in the title role. This is career-best form from her. She carries the film wonderfully. Denise Gough is also great in the role of &apos;Missy&apos;. The direction from Wash Westmoreland was also superb. He was able to successfully take the script, and deliver it in the best way possible.\n\nHowever, the film lets itself down from a weaker story/script where it constantly struggles to find and execute more positive moments from Colette&apos;s story. Instead, it focuses on the more gloomy moments from her life, leaving the happier moments sidelined. Some of the supporting characters lack depth, including: Eleanor Tomlinson&apos;s &apos;Georgie&apos; and Aiysha Hart&apos;s &apos;Polaire&apos;. These characters play an integral part in Colette&apos;s story, but, their lack of screen time, and the way in which they&apos;re written in to the story makes the characters have no real impact in driving the film forward.\n\nThis movie does have a few flaws which, overall, lets it down. But, it was still an enjoyable movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 26104,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2019-01-09",
+  "keywords": "bisexuality,novelist,paris france,infidelity,open marriage",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Keira Knightley",
+      "url": "https://www.imdb.com/name/nm0461136/"
+    },
+    {
+      "name": "Fiona Shaw",
+      "url": "https://www.imdb.com/name/nm0789716/"
+    },
+    {
+      "name": "Dominic West",
+      "url": "https://www.imdb.com/name/nm0922035/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Wash Westmoreland",
+      "url": "https://www.imdb.com/name/nm0922903/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Richard Glatzer",
+      "url": "https://www.imdb.com/name/nm0322144/"
+    },
+    {
+      "name": "Wash Westmoreland",
+      "url": "https://www.imdb.com/name/nm0922903/"
+    },
+    {
+      "name": "Rebecca Lenkiewicz",
+      "url": "https://www.imdb.com/name/nm0501947/"
+    }
+  ]
+}

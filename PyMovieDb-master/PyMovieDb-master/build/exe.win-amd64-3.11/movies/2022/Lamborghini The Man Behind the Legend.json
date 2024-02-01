@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Lamborghini: The Man Behind the Legend",
+  "url": "https://www.imdb.com/tt5533370/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjBkMTRkMWQtNzAwYS00MmE2LWI5YzktNDU5OGY2NjIzMzNjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg",
+  "description": "this thrilling, high-speed biopic reveals one man&apos;s dream of making the world&apos;s fastest car-and beating rival Enzo Ferrari.",
+  "review": {
+    "author": "vinstroke",
+    "dateCreated": "2022-11-26",
+    "inLanguage": "English",
+    "heading": "Legendary story turned to disappointment.",
+    "reviewBody": "Frank Grillo is the highlight of this movie, can&apos;t fault him, great job with what he had to work with.\n\nHow do directors manage to make fast cars look like they are going slow. The race scenes between the Ferrari and Lamborghini are by far the worst filmed race scene I have seen. Who choreographed and directed that scene? Really? That&apos;s what you came up with? It&apos;s trash.\n\nIf your not a car enthusiast or don&apos;t care about Lamborghini this movie will bore you to death. I stayed with it because of my passion for Lamborghini and Ferrari, and the legendary story of how Lamborghini began.\n\nIt has its moments, good moments, but the badly written and horridly directed moments outweigh the good ones.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 10815,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "contentRating": "12",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2022-11-21",
+  "keywords": "life,based on real people,lamborghini,car,tractor",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Mira Sorvino",
+      "url": "https://www.imdb.com/name/nm0000227/"
+    },
+    {
+      "name": "Frank Grillo",
+      "url": "https://www.imdb.com/name/nm0342029/"
+    },
+    {
+      "name": "Gabriel Byrne",
+      "url": "https://www.imdb.com/name/nm0000321/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bobby Moresco",
+      "url": "https://www.imdb.com/name/nm0604263/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bobby Moresco",
+      "url": "https://www.imdb.com/name/nm0604263/"
+    },
+    {
+      "name": "Tonino Lamborghini",
+      "url": "https://www.imdb.com/name/nm8844932/"
+    }
+  ]
+}

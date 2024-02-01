@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Reminiscence",
+  "url": "https://www.imdb.com/tt3272066/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODBkMTNmMmQtYTNlMy00OTRhLWE5MzgtYTZlMTUyYzY1MzkzXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+  "description": "Nick Bannister, a private investigator of the mind, navigates the alluring world of the past when his life is changed by new client Mae. A simple case becomes an obsession after she disappears and he fights to learn the truth abou...",
+  "review": {
+    "author": "ArthurianX",
+    "dateCreated": "2021-08-19",
+    "inLanguage": "English",
+    "heading": "Disconnected ... memories ?",
+    "reviewBody": "I&apos;m not going to discuss the movie at length, others will do that definitely, I&apos;ll just say that I left the theater feeling absolutely nothing.\n\nI was not attached to any of the characters during any part of the movie, with such great cast and Lisa Joy at the helm it&apos;s hard to miss the point, but I think Reminiscence has missed it.\n\nThe story wants to be on one side of a disbanded/chaotic near future, and on another side a heavily policed and rule abiding citizens kind of future.\n\nThe cast is awesome, but there&apos;s absolutely no chemistry between them, I honestly feel like Hugh had more charisma and chemistry playing that teacher that was convicted for embezzlement.\n\nAnd every other moral or lesson falls totally flat because of this weird world Lisa Joy has built and the lack of chemistry between the cast and the view with the cast.\n\nIt&apos;s a bit tragic to see something like this go to waste.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 64071,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Mystery",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "datePublished": "2021-08-20",
+  "keywords": "neo noir,near future,flood,sea level rise,reminiscence",
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Hugh Jackman",
+      "url": "https://www.imdb.com/name/nm0413168/"
+    },
+    {
+      "name": "Rebecca Ferguson",
+      "url": "https://www.imdb.com/name/nm0272581/"
+    },
+    {
+      "name": "Thandiwe Newton",
+      "url": "https://www.imdb.com/name/nm0628601/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lisa Joy",
+      "url": "https://www.imdb.com/name/nm2847370/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lisa Joy",
+      "url": "https://www.imdb.com/name/nm2847370/"
+    }
+  ]
+}

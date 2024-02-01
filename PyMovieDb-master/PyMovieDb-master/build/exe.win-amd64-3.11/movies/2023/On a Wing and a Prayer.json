@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "On a Wing and a Prayer",
+  "url": "https://www.imdb.com/tt13929998/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDI1ODIzZWItNjI4Yy00YWQwLTg4YWQtOGMxNWIxMGE5NmIyXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_.jpg",
+  "description": "After their pilot dies unexpectedly mid-flight, Doug White (Dennis Quaid) has to safely land the plane and save his entire family from insurmountable danger.",
+  "review": {
+    "author": "MD65",
+    "dateCreated": "2023-04-07",
+    "inLanguage": "English",
+    "heading": "Could have much better if it had remained true to the actual characters",
+    "reviewBody": "This movie which is based on a true story could have been so much better. Dennis Quaid did a fine job in his performance and those who portrayed his family did an ok job. My major complaint is why did Hollywood need to make out two preteen kids (who was not involved in the real event) act like they are geniuses. I found this addition very distracting and insulting to have two kids listening to air traffic controllers and trying to explain what is happening to each other and us the audience. This part was totally fictionalized and unnecessary. Other than it was on ok family movie. Could have been better though.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 4936,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2023-04-07",
+  "keywords": "tragedy drama,fight,dead pilot,air traffic controller,landing a plane",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Dennis Quaid",
+      "url": "https://www.imdb.com/name/nm0000598/"
+    },
+    {
+      "name": "Heather Graham",
+      "url": "https://www.imdb.com/name/nm0001287/"
+    },
+    {
+      "name": "Jesse Metcalfe",
+      "url": "https://www.imdb.com/name/nm0582462/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sean McNamara",
+      "url": "https://www.imdb.com/name/nm0573732/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brian Egeston",
+      "url": "https://www.imdb.com/name/nm3872614/"
+    }
+  ]
+}

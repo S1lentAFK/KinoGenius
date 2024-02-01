@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "No Man&apos;s Land",
+  "url": "https://www.imdb.com/tt0283509/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGFkNjNmZWMtNDdiOS00ZWM3LWE1ZTMtZDU3MGQyMzIyNzZhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "description": "Bosnia and Herzegovina during 1993 at the time of the heaviest fighting between the two warring sides. Two soldiers from opposing sides in the conflict, Nino and Ciki, become trapped in no man&apos;s land, whilst a third soldier become...",
+  "review": {
+    "author": "gogoschka-1",
+    "dateCreated": "2014-01-06",
+    "inLanguage": "English",
+    "heading": "As far as I&apos;m concerned, this may very well be the finest film on the subject of war - or conflict in general - that was ever made",
+    "reviewBody": "In the case of this movie, the Oscar was well deserved. The film was nominated in the wrong category, though (&apos;Best Foreign Language Film&apos;). It should have been up for &apos;Best Picture&apos;, &apos;Best Original Screenplay&apos;, &apos;Best Director - and it should have won all of those. As far as I&apos;m concerned, this may very well be the finest film on the subject of war - or conflict in general - that was ever made. I&apos;ve never seen anything similar; this film manages to show so many aspects of war, of human nature; it somehow manages to capture the essence of something that is inexplicable. Truly one of a kind and a must-see. And don&apos;t think for one second that this is some pretentious drivel or slow art-house fare - this is very much the opposite. 10 out of 10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 48514,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "War"
+  ],
+  "datePublished": "2002-05-17",
+  "keywords": "year 1993,allegory,bosnian war,yugoslav wars,yugoslavia",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Branko Djuric",
+      "url": "https://www.imdb.com/name/nm0229301/"
+    },
+    {
+      "name": "Rene Bitorajac",
+      "url": "https://www.imdb.com/name/nm0084484/"
+    },
+    {
+      "name": "Filip Sovagovic",
+      "url": "https://www.imdb.com/name/nm0816297/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Danis Tanovic",
+      "url": "https://www.imdb.com/name/nm0849786/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Danis Tanovic",
+      "url": "https://www.imdb.com/name/nm0849786/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "The Nest",
+  "url": "https://www.imdb.com/tt8338762/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGRjYzI5ZGUtZGJjYy00ZTYyLWJlNzItNWM0MDc0ZDVmM2IwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "Life for an entrepreneur and his American family begins to take a twisted turn after moving into an English country manor.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2021-04-12",
+    "inLanguage": "English",
+    "heading": "like the idea",
+    "reviewBody": "It&apos;s the 80&apos;s. Ambitious commodities trader Rory O&apos;Hara (Jude Law) returns to London taking his wife Allison (Carrie Coon) and their two kids. He is pushing for a big deal with a big payout. He is spending beyond his means and moves the family again to a country mansion. It causes friction with his wife and exacerbating their money trouble.\n\nI like the idea of this family descending into dysfunction. I find a lot of it very compelling. Law and Coon are delivering intriguing performances. Filmmaker Sean Durkin, who made Martha Marcy May Marlene, is trying to give this film a quiet, naturalistic feel. It does need to be a bit clearer with the beginning. It&apos;s just too slow until the money troubles begin. That really raises the intensity and the movie picks up steam. Quite frankly, the start bored me to the point of passing out and I had to start over again. The passive filmmaking style is not conducive to paying attention.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 16494,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "datePublished": "2021-08-27",
+  "keywords": "1980s,husband wife relationship,new home,horse,london england",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Jude Law",
+      "url": "https://www.imdb.com/name/nm0000179/"
+    },
+    {
+      "name": "Carrie Coon",
+      "url": "https://www.imdb.com/name/nm4689420/"
+    },
+    {
+      "name": "Oona Roche",
+      "url": "https://www.imdb.com/name/nm5640824/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sean Durkin",
+      "url": "https://www.imdb.com/name/nm1699934/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sean Durkin",
+      "url": "https://www.imdb.com/name/nm1699934/"
+    }
+  ]
+}

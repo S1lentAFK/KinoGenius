@@ -1,0 +1,72 @@
+{
+  "type": "Movie",
+  "name": "Wish",
+  "url": "https://www.imdb.com/tt11304740/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWQ4M2ZmODItNzZhYi00MzY1LTk2ZmItYTUwODI2NzJmN2JiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+  "description": "A young girl named Asha wishes on a star and gets a more direct answer than she bargained for when a trouble-making star comes down from the sky to join her.",
+  "review": {
+    "author": "Lepidopterous_",
+    "dateCreated": "2023-11-26",
+    "inLanguage": "English",
+    "heading": "A Bland, Uninspired, & Formulaic Missed Opportunity (that also fell under TikTok&apos;s crosshairs)",
+    "reviewBody": "This movie was boring af. The first song is pretty and I appreciated the chalky animation that appears inspired by the Puss in Boots sequel. Beyond that I was bored to tears.\n\nThe plot is beat-by-beat, the villain is pure formula & paper-thin, and they don&apos;t invest in any running gags or in enriching any side characters. It&apos;s as if they had to reach a deadline so put in the minimal effort necessary to get it finished, which left us with a hollow movie devoid of any magic, held together only by its mind-numbingly predictable narrative.\n\nI feel bad for those who worked hard on this film because this could have been a good movie if the studio just took the time to fill it with personality and character. Instead, Wish is a pretty lifeless addition to the Disney canon.\n\nNote: Apparently there has been a hate-train trashing this film trending all over TikTok. It is why my niece already had a well-formulated opinion on the film at Thanksgiving dinner without having even seen it. Sadly, the thoughts she echoed were pretty spot-on, so she just saved me the trouble of warning her against it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 13727,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2023-11-24",
+  "keywords": "cgi animation,computer animation,magic,kingdom,wishing on a star",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Ariana DeBose",
+      "url": "https://www.imdb.com/name/nm3663196/"
+    },
+    {
+      "name": "Chris Pine",
+      "url": "https://www.imdb.com/name/nm1517976/"
+    },
+    {
+      "name": "Alan Tudyk",
+      "url": "https://www.imdb.com/name/nm0876138/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chris Buck",
+      "url": "https://www.imdb.com/name/nm0118333/"
+    },
+    {
+      "name": "Fawn Veerasunthorn",
+      "url": "https://www.imdb.com/name/nm3086932/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jennifer Lee",
+      "url": "https://www.imdb.com/name/nm1601644/"
+    },
+    {
+      "name": "Allison Moore",
+      "url": "https://www.imdb.com/name/nm5365495/"
+    },
+    {
+      "name": "Chris Buck",
+      "url": "https://www.imdb.com/name/nm0118333/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "City of Love",
+  "url": "https://www.imdb.com/tt12745908/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjkwYmU1YTItZWU4Mi00YzZmLThiODgtZTA3ZjcxMWU2ZWIyXkEyXkFqcGdeQXVyMjExMDQ5MDA@._V1_.jpg",
+  "description": "Spencer, a troubled rideshare driver in Los Angeles, will go to dangerous lengths to reconnect with the world he lost after spending 20 years in jail.",
+  "review": {
+    "author": "saturnoartfilms",
+    "dateCreated": "2023-12-26",
+    "inLanguage": "English",
+    "heading": "entertaining and suspenseful indie film",
+    "reviewBody": "An anti-hero type character, Spencer reminds me of Michael Douglas in Falling Down, but played with a quirky comedic performance that makes the film noir atmosphere very enjoyable.\n\nThe film, directed by Èric Boadella, follows troubled ex-con Spencer, who drives for a ridesharing company in Los Angeles after forging the registration of his old red Chevy. He tries to reconnect with the world he lost after spending 20 years in jail for murdering his stepfather, but the more he drives, a string of bad experiences with his passengers leaves him feeling only more disconnected. When he falls in love with a passenger whose life eerily resembles that of his late mother, Spencer goes to dangerous and unnecessary lengths to protect her. As the tension escalates, Spencer finds himself entangled in a web of danger, love, and the unexpected.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 20,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.9
+  },
+  "contentRating": null,
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "2023-12-19",
+  "keywords": "world,dark comedy,serial killer crime",
+  "duration": "PT1H21M",
+  "actor": [
+    {
+      "name": "Robert DeCesare",
+      "url": "https://www.imdb.com/name/nm1625350/"
+    },
+    {
+      "name": "Kathryn Schott",
+      "url": "https://www.imdb.com/name/nm6794954/"
+    },
+    {
+      "name": "Taylor Nichols",
+      "url": "https://www.imdb.com/name/nm0629737/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Èric Boadella",
+      "url": "https://www.imdb.com/name/nm3564743/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Èric Boadella",
+      "url": "https://www.imdb.com/name/nm3564743/"
+    },
+    {
+      "name": "Robert DeCesare",
+      "url": "https://www.imdb.com/name/nm1625350/"
+    },
+    {
+      "name": "Sara Pattarini",
+      "url": "https://www.imdb.com/name/nm11752277/"
+    }
+  ]
+}

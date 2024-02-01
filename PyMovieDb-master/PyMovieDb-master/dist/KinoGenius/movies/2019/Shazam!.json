@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Shazam!",
+  "url": "https://www.imdb.com/tt0448115/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGVlMDFhNGQtNjIyMy00YjkxLWJjZjQtNGUxMDI0YjYzYzZmXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+  "description": "A newly fostered young boy in search of his mother instead finds unexpected super powers and soon gains a powerful enemy.",
+  "review": {
+    "author": "ajk232",
+    "dateCreated": "2021-04-04",
+    "inLanguage": "English",
+    "heading": "A Fun Diversion from the DC Formula - More Like This Please!",
+    "reviewBody": "General Thoughts:\n\nThe most fun I&apos;ve had in a superhero movie since...well I was going to say Infinity War but that plotline is not very fun. Point is: this movie is fun. It really feels like it was made for kids, with a sprinkling of adult themes here and there. As someone who is suffering from extreme super hero fatigue, this is an excellent film to enjoy without having to put too much thought into it.\n\nThe Good:\n\nThe characters do not feel like they make stupid decisions. Every time I was questioning something that was being done, I could essentially chalk it up to the kids being...well kids. The film treats its children like children in the best way. There is no profound philosophical dialogue coming from the mouth of an eight year old. The film was just plain fun.\n\nThe Bad:\n\nThere are some minor continuity errors throughout the film that would not distract most people but if you are thinking about the film-making it may take you out of the film for the briefest of moments. Two examples I can think of are characters swapping their locations very quickly (likely in-between takes), and a character flying through the air faster than a plane with absolutely no wind affecting him or his clothing whatsoever. The movie does make up for this with a comical flight scene near the end of the film which I wont spoil.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 378966,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2019-04-05",
+  "keywords": "superhero,dc extended universe,caped superhero,dc comics,origin of hero",
+  "duration": "PT2H12M",
+  "actor": [
+    {
+      "name": "Zachary Levi",
+      "url": "https://www.imdb.com/name/nm1157048/"
+    },
+    {
+      "name": "Mark Strong",
+      "url": "https://www.imdb.com/name/nm0835016/"
+    },
+    {
+      "name": "Asher Angel",
+      "url": "https://www.imdb.com/name/nm4755508/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David F. Sandberg",
+      "url": "https://www.imdb.com/name/nm2497546/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Henry Gayden",
+      "url": "https://www.imdb.com/name/nm2849655/"
+    },
+    {
+      "name": "Darren Lemke",
+      "url": "https://www.imdb.com/name/nm0501359/"
+    },
+    {
+      "name": "Bill Parker",
+      "url": "https://www.imdb.com/name/nm1791910/"
+    }
+  ]
+}

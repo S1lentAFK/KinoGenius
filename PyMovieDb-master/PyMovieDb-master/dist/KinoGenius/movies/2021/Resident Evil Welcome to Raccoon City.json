@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Resident Evil: Welcome to Raccoon City",
+  "url": "https://www.imdb.com/tt6920084/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjA5NmZkMTYtM2I2Mi00NzJkLWJhZGItOGZhMzE0YTViZDMxXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_.jpg",
+  "description": "Set in 1998, this origin story explores the secrets of the mysterious Spencer Mansion and the ill-fated Raccoon City.",
+  "review": {
+    "author": "tresm87",
+    "dateCreated": "2021-11-24",
+    "inLanguage": "English",
+    "heading": "Seems like a resident evil made for Netflix reboot thrown together with enticing enough visuals but no story.",
+    "reviewBody": "People often hate on Paul W. S. Anderson Resident Evil films but this reboot makes the first 3 of his RE films look way better. This film just seemed so unnecessary at its announcement and now after watching it seems that even the director/writer believed that too. The story tries to follow the plot of the original video game at first and continues to do so decently until the end but tapers off somewhat in the end. Visually it&apos;s highly entertaining and possesses some moments that do have commendable aspects, but story and acting just doesn&apos;t help it overall. There are times of cgi that come off laughable and so sloppy, it makes you want the early to mid 2000s practical effects utilized way more in WS anderson RE films. The film has some fan service that is sure to please the die hards but overall just seems forced and rushed.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 62307,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "datePublished": "2021-12-03",
+  "keywords": "zombie,resident evil,based on video game,psychotronic film,zombie apocalypse",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Kaya Scodelario",
+      "url": "https://www.imdb.com/name/nm2546012/"
+    },
+    {
+      "name": "Robbie Amell",
+      "url": "https://www.imdb.com/name/nm2064412/"
+    },
+    {
+      "name": "Hannah John-Kamen",
+      "url": "https://www.imdb.com/name/nm4789912/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Johannes Roberts",
+      "url": "https://www.imdb.com/name/nm1266897/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Johannes Roberts",
+      "url": "https://www.imdb.com/name/nm1266897/"
+    }
+  ]
+}

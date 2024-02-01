@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Shock and Awe",
+  "url": "https://www.imdb.com/tt5540992/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDNkOTAzOWEtZjA2NS00ZmI3LWJmODMtYjEyZThhN2IwMjQxXkEyXkFqcGdeQXVyMjgyOTI1ODY@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "nonaste",
+    "dateCreated": "2018-08-23",
+    "inLanguage": "English",
+    "heading": "Negative reviews are evidence of disconnect from reality",
+    "reviewBody": "This was a well done movie which succeeded in angering me all over again how this criminal administration lied America into an illegal and immoral war aided and abetted by the main stream media and supported by a gullible populace who hates to admit that they were wrong.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 8473,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2018-07-20",
+  "keywords": "reference to weapons of mass destruction,iraq invasion,journalist,journalism,iraq",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Woody Harrelson",
+      "url": "https://www.imdb.com/name/nm0000437/"
+    },
+    {
+      "name": "James Marsden",
+      "url": "https://www.imdb.com/name/nm0005188/"
+    },
+    {
+      "name": "Rob Reiner",
+      "url": "https://www.imdb.com/name/nm0001661/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rob Reiner",
+      "url": "https://www.imdb.com/name/nm0001661/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joey Hartstone",
+      "url": "https://www.imdb.com/name/nm2432236/"
+    }
+  ]
+}

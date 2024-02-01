@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Inherit the Viper",
+  "url": "https://www.imdb.com/tt7349896/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmVlN2YwMjctMTQ4Mi00YTExLWIxNTYtNjBlYjE2YmE0YzJhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "Crime thriller about three siblings in Appalachia getting by as local opioid dealers, trying not to get caught in the spiral of violence that comes with the territory.",
+  "review": {
+    "author": "fbpbgwch",
+    "dateCreated": "2022-10-29",
+    "inLanguage": "English",
+    "heading": "You can tell whoever wrote this did not have personal experience with the opioid epidemic.",
+    "reviewBody": "I did and this is no where near true. Some parts, the devastating losses and deaths but idk meeting a kid in a field for two bottles of pills and get handed a supposed duffel bag full of cash. First of all I don&apos;t care if those pill bottles had 100 oxy 80&apos;s each, that would still only be able 15 thousand dollars. So enough to fill a duffel bag? Nah I don&apos;t think so. The kid that got injected when he was murdered by Josie? It takes a lot longer for someone to shoot a drug and feel the effects. It&apos;s not boom, needle in arm in 1 second.\n\nI&apos;m still waiting for a good opioid epidemic movie that just captures the true story of it. Something about Florida&apos;s oxycontin express, the pill mills in browsed county, deaths, arrests, shady doctors. Not just the addicts of it. We need a good movie to show the full story.\n\nThis was a good try but yeah it&apos;s obvious the director/writer whoever didn&apos;t really understand this world.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 1761,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Mystery"
+  ],
+  "datePublished": "2020-01-10",
+  "keywords": "violence,drug addiction,sheriff,high school football game,oxycontin",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Tara Buck",
+      "url": "https://www.imdb.com/name/nm0118427/"
+    },
+    {
+      "name": "Margarita Levieva",
+      "url": "https://www.imdb.com/name/nm1760272/"
+    },
+    {
+      "name": "Lobo Sebastian",
+      "url": "https://www.imdb.com/name/nm0780957/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Anthony Jerjen",
+      "url": "https://www.imdb.com/name/nm4175489/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Crabtree",
+      "url": "https://www.imdb.com/name/nm3295720/"
+    }
+  ]
+}

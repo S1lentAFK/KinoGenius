@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "My Spy",
+  "url": "https://www.imdb.com/tt8242084/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI4YzA0NTMtMWYxZi00NmQ2LTkwZDYtZGFiNjFmN2FlNjQ3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "A hardened CIA operative finds himself at the mercy of a precocious 9-year-old girl, having been sent undercover to surveil her family.",
+  "review": {
+    "author": "howhigh-36670",
+    "dateCreated": "2020-01-30",
+    "inLanguage": "English",
+    "heading": "Not that bad",
+    "reviewBody": "Jj and bobbi make for a good laugh. Has its moments",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 33906,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Comedy"
+  ],
+  "datePublished": "2020-03-13",
+  "keywords": "cia agent,singing in a car,9 year old,single mother,young widow",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Dave Bautista",
+      "url": "https://www.imdb.com/name/nm1176985/"
+    },
+    {
+      "name": "Chloe Coleman",
+      "url": "https://www.imdb.com/name/nm5668548/"
+    },
+    {
+      "name": "Parisa Fitz-Henley",
+      "url": "https://www.imdb.com/name/nm1406792/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Segal",
+      "url": "https://www.imdb.com/name/nm0781842/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Erich Hoeber",
+      "url": "https://www.imdb.com/name/nm0388375/"
+    },
+    {
+      "name": "Jon Hoeber",
+      "url": "https://www.imdb.com/name/nm0388377/"
+    }
+  ]
+}

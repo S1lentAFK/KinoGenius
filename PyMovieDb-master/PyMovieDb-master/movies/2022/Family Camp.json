@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Family Camp",
+  "url": "https://www.imdb.com/tt11535358/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGRmZDA4YWMtNDM4Zi00OTczLWJmNmMtNTFjZTdmMjYyMmNmXkEyXkFqcGdeQXVyMTczNzQwNjA@._V1_.jpg",
+  "description": "In this faith-based comedy, when two polar-opposite families are forced to camp together, the dads struggle to hold onto their families and marriages as they compete for the coveted camp trophy.",
+  "review": {
+    "author": "CreativePopCulture",
+    "dateCreated": "2022-05-15",
+    "inLanguage": "English",
+    "heading": "Yikes! This all just felt forced.",
+    "reviewBody": "Save your money and watch something else. There&apos;s plenty of nicer christian movies with better acting in them. The movie stars off okay, even a little funny perhaps, but then it drags on and everything just feels forced. Don&apos;t bother.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 2727,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.9
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2022-03-30",
+  "keywords": "cabin,overalls,church,husband wife relationship,yurt",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Tommy Woodard",
+      "url": "https://www.imdb.com/name/nm8859430/"
+    },
+    {
+      "name": "Eddie James",
+      "url": "https://www.imdb.com/name/nm8859429/"
+    },
+    {
+      "name": "Leigh-Allyn Baker",
+      "url": "https://www.imdb.com/name/nm0048687/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brian Cates",
+      "url": "https://www.imdb.com/name/nm5100377/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brian Cates",
+      "url": "https://www.imdb.com/name/nm5100377/"
+    },
+    {
+      "name": "Rene Gutteridge",
+      "url": "https://www.imdb.com/name/nm4382298/"
+    }
+  ]
+}

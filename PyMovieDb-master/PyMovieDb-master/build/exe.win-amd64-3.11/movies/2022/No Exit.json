@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "No Exit",
+  "url": "https://www.imdb.com/tt7550014/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTc4M2Q2Y2YtMjM0MS00ZTEyLWExYmMtMjEzNjlmNTNjMWYxXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+  "description": "During a blizzard and stranded at an isolated highway rest stop in the mountains, a college student discovers a kidnapped child hidden in a car belonging to one of the people inside.",
+  "review": {
+    "author": "Floated2",
+    "dateCreated": "2022-04-02",
+    "inLanguage": "English",
+    "heading": "Solid thriller",
+    "reviewBody": "Had no expectations or knowledge of this film and didn&apos;t know of the novel it is based on. Solely based on the film, it is a decent enough thriller with some thrills but nothing too memorable. A lot of what occurs is vastly predictable including the criminals actions and the entire setup.\n\nIn the end what occurred is what we saw coming. Overall it was solid enough for a one time watch, didn&apos;t drag on too much and had some thrills. The leading actress stands out and her character is given enough depth and backstory giving the audience a reason to care.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 31313,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "16",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2022-02-25",
+  "keywords": "snow,snowstorm,child abduction,shot with a nailgun,escape",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Havana Rose Liu",
+      "url": "https://www.imdb.com/name/nm10023988/"
+    },
+    {
+      "name": "Danny Ramirez",
+      "url": "https://www.imdb.com/name/nm6639989/"
+    },
+    {
+      "name": "David Rysdahl",
+      "url": "https://www.imdb.com/name/nm3314705/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Damien Power",
+      "url": "https://www.imdb.com/name/nm2010936/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Barrer",
+      "url": "https://www.imdb.com/name/nm3029372/"
+    },
+    {
+      "name": "Gabriel Ferrari",
+      "url": "https://www.imdb.com/name/nm2592245/"
+    },
+    {
+      "name": "Taylor Adams",
+      "url": "https://www.imdb.com/name/nm3515096/"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "The Mean One",
+  "url": "https://www.imdb.com/tt20853816/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUxODA1NDMtNWM0YS00YzQ2LTlmMzgtNGExMTQ4NTE3ZjU2XkEyXkFqcGdeQXVyOTQzOTE5NTY@._V1_.jpg",
+  "description": "In a sleepy mountain town, Cindy&apos;s parents are murdered and her Christmas is stolen by a bloodthirsty green figure in a red Santa suit.",
+  "review": {
+    "author": "johnfanning-53228",
+    "dateCreated": "2022-12-18",
+    "inLanguage": "English",
+    "heading": "Average depending on your tastes",
+    "reviewBody": "I went into this movie with high expectations. Knowing the Grinch was going to be played by the Terrifier and seeing the trailer had me thinking this movie would be hysterically bloody.\n\nIronically, it was nowhere near as gory as I anticipated, and that is not necessarily a bad thing. All of the Dr. Suess easter eggs were cute.\n\nThis film had a lot of potential to really be a wonderful com-horror parody, but I felt they dropped the ball by not letting the Grinch speak. Given that the Grinch has always spoken and drove the story, to have him non-verbal appeared to be a missed opportunity, especially given how violent he was supposed to be in this movie.\n\nSecond thing was the acting was lack-luster and the dialogue not particularly well-written. Obviously this film did not have the budget equivalent of a Marvel film, but the acting just left a lot to be desired. That said, the actor playing the deputy did a serviceable job and of course Mr. Thornton did an outstanding job as the Grinch considering he was limited to body language to convey the character.\n\nAll in all not terrible. I have seen better< but also seen much worse.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 1280,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Horror"
+  ],
+  "datePublished": "2022-12-09",
+  "keywords": "the grinch character,parody,christmas,three word title,character name as title",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "David Howard Thornton",
+      "url": "https://www.imdb.com/name/nm7476686/"
+    },
+    {
+      "name": "Krystle Martin",
+      "url": "https://www.imdb.com/name/nm4102879/"
+    },
+    {
+      "name": "Chase Mullins",
+      "url": "https://www.imdb.com/name/nm4965558/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven LaMorte",
+      "url": "https://www.imdb.com/name/nm0483747/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Flip Kobler",
+      "url": "https://www.imdb.com/name/nm0462164/"
+    },
+    {
+      "name": "Finn Kobler",
+      "url": "https://www.imdb.com/name/nm4432375/"
+    },
+    {
+      "name": "Steven LaMorte",
+      "url": "https://www.imdb.com/name/nm0483747/"
+    }
+  ]
+}

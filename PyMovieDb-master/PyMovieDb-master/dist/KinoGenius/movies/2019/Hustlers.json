@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Hustlers",
+  "url": "https://www.imdb.com/tt5503686/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjM5ZTNiNGMtMDA2OC00MDYyLWEyNzAtOWZmMzFlY2VmOWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "Inspired by the viral New York Magazine article, Hustlers follows a crew of savvy former strip club employees who band together to turn the tables on their Wall Street clients.",
+  "review": {
+    "author": "imjaredross",
+    "dateCreated": "2019-11-13",
+    "inLanguage": "English",
+    "heading": "One Big Surprise",
+    "reviewBody": "I&apos;ve seen this film getting constant hate before it&apos;s release and I honestly did not understand why and upon watching it for myself, I really don&apos;t understand. Hustlers is one of the most surprising films of the year with an intriguing true story and stellar performances with a possible career best performance from Jennifer Lopez.\n\nThe film follows a group of strippers as they hustler their way to the top to get back at Wall Street men that frequent their club as they try to make their lives better. It&apos;s a simple story, there&apos;s nothing particularly flashy about it and that&apos;s what works about it.\n\nHustlers settles for something interesting, but never goes into the gritty details and that&apos;s perfectly fine. It&apos;s just trying to have a lot of fun with itself and that is brought out by these performances. Constance Wu continues her great work in this film and truly is the heart of the film and her friendship with Jennifer Lopez&apos;s character is phenomenal. Speaking of Lopez she is excellent in this film. She gives an unhinged performance that only she could have pulled off in this way.\n\nThe film manages to be fun and enjoyable while also touching on ideas of poverty and the 99%. It&apos;s never super deep, but it doesn&apos;t seem to be going for that. It&apos;s unhinged at times and can be a funny film as well. It just manages to work and flow into a very entertaining ride.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 106318,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2019-09-13",
+  "keywords": "seduction,vomiting,stripper,female nudity,dancer",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Constance Wu",
+      "url": "https://www.imdb.com/name/nm2090422/"
+    },
+    {
+      "name": "Jennifer Lopez",
+      "url": "https://www.imdb.com/name/nm0000182/"
+    },
+    {
+      "name": "Julia Stiles",
+      "url": "https://www.imdb.com/name/nm0005466/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lorene Scafaria",
+      "url": "https://www.imdb.com/name/nm1032521/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lorene Scafaria",
+      "url": "https://www.imdb.com/name/nm1032521/"
+    },
+    {
+      "name": "Jessica Pressler",
+      "url": "https://www.imdb.com/name/nm5658722/"
+    }
+  ]
+}

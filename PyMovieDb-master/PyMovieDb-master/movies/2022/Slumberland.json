@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Slumberland",
+  "url": "https://www.imdb.com/tt13320662/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDUzMzE3NDktN2JmOC00ZjJmLTg0NmMtODE0NDkzNDE5OGYwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+  "description": "A young girl discovers a secret map to the dreamworld of Slumberland, and with the help of an eccentric outlaw, she traverses dreams and flees nightmares, with the hope that she will be able to see her late father again.",
+  "review": {
+    "author": "thekarmicnomad",
+    "dateCreated": "2022-11-19",
+    "inLanguage": "English",
+    "heading": "Has lots of heart - very well written",
+    "reviewBody": "This is a very well made, perfectly balanced film.\n\nIt has enough confidence to take its time laying down the background and characters - yet doesn&apos;t drag.\n\nThe set pieces are imaginative and well rendered - younger children will be enthralled.\n\nThe production and acting is great! The cast is lean and all the characters are interesting and serve a purpose.\n\nThe writers used great skill replicating a dreamlike state by bending the rules of reality in fun ways - but managed not to take things too far and lose all sense of tension.\n\nThis is a remarkably well made film that is fun, exciting and touching.\n\nIt has amazing affects and great character moments.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 31274,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2022-11-18",
+  "keywords": "little nemo character,dreamland,monster,secret,nightmare",
+  "duration": "PT1H57M",
+  "actor": [
+    {
+      "name": "Jason Momoa",
+      "url": "https://www.imdb.com/name/nm0597388/"
+    },
+    {
+      "name": "Marlow Barkley",
+      "url": "https://www.imdb.com/name/nm10146989/"
+    },
+    {
+      "name": "Chris O&apos;Dowd",
+      "url": "https://www.imdb.com/name/nm1483369/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Francis Lawrence",
+      "url": "https://www.imdb.com/name/nm1349376/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Guion",
+      "url": "https://www.imdb.com/name/nm1115862/"
+    },
+    {
+      "name": "Michael Handelman",
+      "url": "https://www.imdb.com/name/nm1911349/"
+    }
+  ]
+}

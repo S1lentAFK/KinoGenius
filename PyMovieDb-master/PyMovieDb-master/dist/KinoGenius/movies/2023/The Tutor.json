@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "The Tutor",
+  "url": "https://www.imdb.com/tt19637278/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGRiYWVhZTAtMDI5YS00OWI0LThjNWItYWU4NmI1YzM1ODkzXkEyXkFqcGdeQXVyNjE2MzI5ODM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "christianfagrell",
+    "dateCreated": "2023-04-15",
+    "inLanguage": "English",
+    "heading": "Good start, but bad ending",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 3862,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2023-07-08",
+  "keywords": "male male relationship,older male younger male relationship,young man,teenage boy,man teenage boy relationship",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Garrett Hedlund",
+      "url": "https://www.imdb.com/name/nm1330560/"
+    },
+    {
+      "name": "Victoria Justice",
+      "url": "https://www.imdb.com/name/nm1842439/"
+    },
+    {
+      "name": "Noah Schnapp",
+      "url": "https://www.imdb.com/name/nm6907855/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jordan Ross",
+      "url": "https://www.imdb.com/name/nm0743555/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ryan King",
+      "url": "https://www.imdb.com/name/nm2178910/"
+    }
+  ]
+}

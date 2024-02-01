@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Hot Summer Nights",
+  "url": "https://www.imdb.com/tt3416536/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI3MDExODAxNl5BMl5BanBnXkFtZTgwODIwODcyNTM@._V1_.jpg",
+  "description": "In 1991, a sheltered teenage boy comes of age during a wild summer he spends on Cape Cod getting rich from selling pot to gangsters, falling in love for the first time, partying and eventually realizing that he is in over his head.",
+  "review": {
+    "author": "westsideschl",
+    "dateCreated": "2018-10-06",
+    "inLanguage": "English",
+    "heading": "Had Potential",
+    "reviewBody": "Small town local young heartthrob Cannabis seller teams up w/nerdy reject to expand his business. Nerd ends up over his head while also chasing the local female femme fatale. Acting was good; backdrop tunes were OK for the &apos;90s setup. Problems: A lot of wasted time on scenes that didn&apos;t contribute, i.e. overhead shots of a beach as well as a hurricane, and the sense of it being a hot Summer, none played a role in the story. In fact the hurricane, Bob, technically was a bust for a hurricane. A lot of the important character background was written & edited poorly, just sporadic bits here & there which made the story flow disruptive & confusing. Drug scenes, and party scenes were all pretty predictable. Major problem: The ending for all major characters went no where, and the death which occurs towards the end, could have been prevented knowing it&apos;s coming, and they have a gun. Didn&apos;t make any sense.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 22747,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "18",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2018-07-27",
+  "keywords": "drug dealer,cape cod massachusetts,brother sister relationship,teenage boy,summer",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Timothée Chalamet",
+      "url": "https://www.imdb.com/name/nm3154303/"
+    },
+    {
+      "name": "Maika Monroe",
+      "url": "https://www.imdb.com/name/nm2140860/"
+    },
+    {
+      "name": "Alex Roe",
+      "url": "https://www.imdb.com/name/nm1025139/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Elijah Bynum",
+      "url": "https://www.imdb.com/name/nm6166094/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Elijah Bynum",
+      "url": "https://www.imdb.com/name/nm6166094/"
+    }
+  ]
+}

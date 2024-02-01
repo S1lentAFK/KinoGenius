@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+PyMovieDb/__init__.py
+PyMovieDb/imdb.py
+PyMovieDb/parser.py
+PyMovieDb.egg-info/PKG-INFO
+PyMovieDb.egg-info/SOURCES.txt
+PyMovieDb.egg-info/dependency_links.txt
+PyMovieDb.egg-info/not-zip-safe
+PyMovieDb.egg-info/requires.txt
+PyMovieDb.egg-info/top_level.txt

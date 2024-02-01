@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Kings",
+  "url": "https://www.imdb.com/tt5843850/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAyNTA1NzAyOF5BMl5BanBnXkFtZTgwMDk5NjY4NDM@._V1_.jpg",
+  "description": "The life of a foster family in South Central Los Angeles, a few weeks before the city erupts in violence following the verdict of the Rodney King trial.",
+  "review": {
+    "author": "ringdown",
+    "dateCreated": "2018-08-25",
+    "inLanguage": "English",
+    "heading": "What a Let Down",
+    "reviewBody": "I cannot believe that Halle Berry and Daniel Craig have put their name to this movie. I thought that it would have been a great story but it just rambles on about nothing with a few original news items thrown in just to remind what is happening. I would give this a start rating of 2 and would be one of the mob=vies to avoid this year. \n\nI have never written a bad review before but just felt compelled to pen this one.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 3809,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2019-08-14",
+  "keywords": "written by director,one word title,theft,shoplifting,shot in the back of one&apos;s head",
+  "duration": "PT1H26M",
+  "actor": [
+    {
+      "name": "Halle Berry",
+      "url": "https://www.imdb.com/name/nm0000932/"
+    },
+    {
+      "name": "Daniel Craig",
+      "url": "https://www.imdb.com/name/nm0185819/"
+    },
+    {
+      "name": "Lamar Johnson",
+      "url": "https://www.imdb.com/name/nm4045841/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Deniz Gamze Ergüven",
+      "url": "https://www.imdb.com/name/nm2197025/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Deniz Gamze Ergüven",
+      "url": "https://www.imdb.com/name/nm2197025/"
+    }
+  ]
+}

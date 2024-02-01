@@ -1,0 +1,66 @@
+{
+  "type": "Movie",
+  "name": "The People We Hate at the Wedding",
+  "url": "https://www.imdb.com/tt9071456/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTQ3NzI5ZmEtZTMyNi00ZjExLWI2OTktMWVjOGI4YTYzNTYyXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_.jpg",
+  "description": "Family tensions ramp up among siblings in the week leading up to their half-sister&apos;s wedding in the country.",
+  "review": {
+    "author": "cardsrock",
+    "dateCreated": "2022-11-19",
+    "inLanguage": "English",
+    "heading": "You can&apos;t convince me this is a real movie",
+    "reviewBody": "This movie is one incoherent scene full of people who don&apos;t even remotely act like real people after another. Ben Platt and Kristen Bell are absolutely insufferable and made me actively angry. There&apos;s almost no explanation for how awful these characters are or why they hate their sister for no reason. This isn&apos;t an Always Sunny in Philadelphia situation where it&apos;s entertaining watching awful people do awful things, it&apos;s more so I want to rip my eyeballs out and extract the memory of this wretched pain from my brain. Also, this has some of the most egregiously disgusting product placement I&apos;ve ever seen. It&apos;s like watching that fake Korean Subway tv show from John Oliver.\n\nThis was a truly horrible experience that I wouldn&apos;t wish on my worst enemy. Please avoid this like the plague.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 2
+    }
+  },
+  "rating": {
+    "ratingCount": 10519,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2022-11-18",
+  "keywords": "pantyhose,wedding,love,parent,marry",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Allison Janney",
+      "url": "https://www.imdb.com/name/nm0005049/"
+    },
+    {
+      "name": "Ben Platt",
+      "url": "https://www.imdb.com/name/nm4805317/"
+    },
+    {
+      "name": "Cynthia Addai-Robinson",
+      "url": "https://www.imdb.com/name/nm1870963/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Claire Scanlon",
+      "url": "https://www.imdb.com/name/nm0768957/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Grant Ginder",
+      "url": "https://www.imdb.com/name/nm10164302/"
+    },
+    {
+      "name": "Lizzie Molyneux-Logelin",
+      "url": "https://www.imdb.com/name/nm0597313/"
+    },
+    {
+      "name": "Wendy Molyneux",
+      "url": "https://www.imdb.com/name/nm2203779/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Bloodline",
+  "url": "https://www.imdb.com/tt8883524/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODE0YjJlOTItOWYxYi00NTI4LTg5YTgtYjZhOTFkMzUwNGRkXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg",
+  "description": "Evan values family above all else, and anyone who gets between him, his wife, and newborn son learns that the hard way. But when it comes to violent tendencies, it seems the apple doesn&apos;t fall far from the tree.",
+  "review": {
+    "author": "UniqueParticle",
+    "dateCreated": "2020-04-01",
+    "inLanguage": "English",
+    "heading": "Subtle dark beautiful slasher",
+    "reviewBody": "Incredible experience of madness, cinematography and a captivating performance from Sean William Scott! Interesting how others reference Dexter, I guess I can see the similarities. The soundtrack is so damn good I absolutely love when horror has a dope tune to go with it! Very vibrant colors that go quite well with the scenery which is rare for a lot of movies. Nice mix of a loving family and menacing vibes along with some unfortunate cruelty.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 8876,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "18",
+  "genre": [
+    "Crime",
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2019-10-07",
+  "keywords": "female nudity,shower,woman in a shower,female topless nudity,female rear nudity",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Seann William Scott",
+      "url": "https://www.imdb.com/name/nm0005405/"
+    },
+    {
+      "name": "Mariela Garriga",
+      "url": "https://www.imdb.com/name/nm6375242/"
+    },
+    {
+      "name": "Dale Dickey",
+      "url": "https://www.imdb.com/name/nm0225460/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Henry Jacobson",
+      "url": "https://www.imdb.com/name/nm3012171/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Avra Fox-Lerner",
+      "url": "https://www.imdb.com/name/nm2729893/"
+    },
+    {
+      "name": "Henry Jacobson",
+      "url": "https://www.imdb.com/name/nm3012171/"
+    },
+    {
+      "name": "Will Honley",
+      "url": "https://www.imdb.com/name/nm4816650/"
+    }
+  ]
+}

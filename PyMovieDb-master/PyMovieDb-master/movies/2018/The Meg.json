@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Meg",
+  "url": "https://www.imdb.com/tt4779682/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTAxMGRmODYtM2NkYS00ZGRlLWE1MWItYjI1MzIwNjQwN2RiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "description": "A group of scientists exploring the Marianas Trench encounter the largest marine predator that has ever existed - the Megalodon.",
+  "review": {
+    "author": "austin-65005",
+    "dateCreated": "2018-08-09",
+    "inLanguage": "English",
+    "heading": "It&apos;s everything you would guess",
+    "reviewBody": "Look, this movie wasn&apos;t bad... but it wasn&apos;t great either... Everything that comes with a shark movie was here. A cheesy storyline that bounced around a lot, and some great action sequences wth the shark. Jason Statham was the same as he usually is, stone faced and serious. Rainn Wilson did a great job with his part. But other than that, nothing really sticks out.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 203844,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "datePublished": "2018-08-10",
+  "keywords": "prehistoric animal,shark,megalodon,creature feature,giant shark",
+  "duration": "PT1H53M",
+  "actor": [
+    {
+      "name": "Jason Statham",
+      "url": "https://www.imdb.com/name/nm0005458/"
+    },
+    {
+      "name": "Bingbing Li",
+      "url": "https://www.imdb.com/name/nm0508356/"
+    },
+    {
+      "name": "Rainn Wilson",
+      "url": "https://www.imdb.com/name/nm0933988/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jon Turteltaub",
+      "url": "https://www.imdb.com/name/nm0005509/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dean Georgaris",
+      "url": "https://www.imdb.com/name/nm1212988/"
+    },
+    {
+      "name": "Jon Hoeber",
+      "url": "https://www.imdb.com/name/nm0388377/"
+    },
+    {
+      "name": "Erich Hoeber",
+      "url": "https://www.imdb.com/name/nm0388375/"
+    }
+  ]
+}

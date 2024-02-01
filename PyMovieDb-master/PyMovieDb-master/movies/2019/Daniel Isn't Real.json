@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Daniel Isn&apos;t Real",
+  "url": "https://www.imdb.com/tt8745960/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDFhMGJjMjQtODU0OC00NWQ5LWJhNjctOTZiZjA4NTYyZWQyXkEyXkFqcGdeQXVyMjE4NzUxNDA@._V1_.jpg",
+  "description": "A troubled college freshman, Luke, suffers a violent family trauma. He then resurrects his charismatic childhood imaginary friend Daniel to help him cope, not realizing how dangerous Daniel is.",
+  "review": {
+    "author": "Gordon-11",
+    "dateCreated": "2019-12-16",
+    "inLanguage": "English",
+    "heading": "So different from what I expected",
+    "reviewBody": "The story is so different from what I expected. It is engaging, thrilling and scary. It is definitely worth a watch!",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 9902,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+  ],
+  "datePublished": "2020-02-07",
+  "keywords": "dark room,homoerotic,child witnesses parent argument,imaginary friend,lost wallet",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Miles Robbins",
+      "url": "https://www.imdb.com/name/nm0730428/"
+    },
+    {
+      "name": "Patrick Schwarzenegger",
+      "url": "https://www.imdb.com/name/nm2200639/"
+    },
+    {
+      "name": "Sasha Lane",
+      "url": "https://www.imdb.com/name/nm7603745/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Adam Egypt Mortimer",
+      "url": "https://www.imdb.com/name/nm4008890/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brian DeLeeuw",
+      "url": "https://www.imdb.com/name/nm5879674/"
+    },
+    {
+      "name": "Adam Egypt Mortimer",
+      "url": "https://www.imdb.com/name/nm4008890/"
+    }
+  ]
+}

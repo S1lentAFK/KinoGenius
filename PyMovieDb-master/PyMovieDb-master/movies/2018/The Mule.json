@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Mule",
+  "url": "https://www.imdb.com/tt7959026/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc1OTc5NzA4OF5BMl5BanBnXkFtZTgwOTAzMzE2NjM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "lee_eisenberg",
+    "dateCreated": "2021-05-10",
+    "inLanguage": "English",
+    "heading": "Clint Eastwood&apos;s still got it",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 149669,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2019-01-25",
+  "keywords": "drug cartel,old man,based on true story,drug mule,singing in a car",
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Clint Eastwood",
+      "url": "https://www.imdb.com/name/nm0000142/"
+    },
+    {
+      "name": "Patrick L. Reyes",
+      "url": "https://www.imdb.com/name/nm8423767/"
+    },
+    {
+      "name": "Cesar De León",
+      "url": "https://www.imdb.com/name/nm1478076/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Clint Eastwood",
+      "url": "https://www.imdb.com/name/nm0000142/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nick Schenk",
+      "url": "https://www.imdb.com/name/nm1010405/"
+    },
+    {
+      "name": "Sam Dolnick",
+      "url": "https://www.imdb.com/name/nm10095627/"
+    }
+  ]
+}

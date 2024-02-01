@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Little Monsters",
+  "url": "https://www.imdb.com/tt0097758/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2VjOThmNjktNGE1ZS00NWY3LThlMzItOWEyZjMwOGI4ZDNmXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+  "description": "A boy discovers an incredible and gruesome world of monsters under his bed.",
+  "review": {
+    "author": "hotpinkstrawberry",
+    "dateCreated": "2005-08-14",
+    "inLanguage": "English",
+    "heading": "One of the Greatest Movies that ever Existed!",
+    "reviewBody": "This is one of My Favorite movies.It is Adventureist,funny,sad,dramatic,action filled,and every thing!There is only one sad part in it to the rest is a blast fulled movie and it will teach you to love this movie as much as I do.Now I&apos;ll tell you the sad part but only a tiny little snitch of it and that would be at the end the kid has to leave the monster and so the Monster gives him his black leather jacket and tells the kid Where there&apos;s a bed there&apos;s a way.And that Saying is probably the best in the movie.Also Another Cool thing is that if Like the T.V. show Boy Meets World Cory Or whatever his name is in real life anyways you can see what he looks like as a kid and it&apos;s awesome cause he&apos;s so so so cute.Now that&apos;s a ll i&apos;m gonna tell you So remember that if There&apos;s a Bed There&apos;s a Way!",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 14017,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "1989-10-06",
+  "keywords": "monster,monster under bed,brother brother relationship,boy,fear of monsters",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Fred Savage",
+      "url": "https://www.imdb.com/name/nm0000625/"
+    },
+    {
+      "name": "Howie Mandel",
+      "url": "https://www.imdb.com/name/nm0005177/"
+    },
+    {
+      "name": "Daniel Stern",
+      "url": "https://www.imdb.com/name/nm0827663/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Richard Greenberg",
+      "url": "https://www.imdb.com/name/nm0338572/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Terry Rossio",
+      "url": "https://www.imdb.com/name/nm0744429/"
+    },
+    {
+      "name": "Ted Elliott",
+      "url": "https://www.imdb.com/name/nm0254645/"
+    }
+  ]
+}

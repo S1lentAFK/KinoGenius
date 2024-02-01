@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Hubie Halloween",
+  "url": "https://www.imdb.com/tt10682266/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTE0N2EyMzgtMWJhZS00ZWNmLThjZmQtMjcxYTk1NTJiMGVkXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+  "description": "Despite his devotion to his hometown of Salem (and its Halloween celebration), Hubie Dubois is a figure of mockery for kids and adults alike. But this year, something is going bump in the night, and it&apos;s up to Hubie to save Hallow...",
+  "review": {
+    "author": "drakelosson",
+    "dateCreated": "2020-10-14",
+    "inLanguage": "English",
+    "heading": "Not a bad watch",
+    "reviewBody": "It&apos;s not a bad movie as long as your not expecting a masterpiece. It&apos;s a simple feel good movie that is good if you need something to watch also a great movie for Halloween time. Other than the voice I don&apos;t have too many complaints.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 57661,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2020-10-07",
+  "keywords": "halloween,halloween decoration,halloween party,corn maze,thermos",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Adam Sandler",
+      "url": "https://www.imdb.com/name/nm0001191/"
+    },
+    {
+      "name": "Kevin James",
+      "url": "https://www.imdb.com/name/nm0416673/"
+    },
+    {
+      "name": "Julie Bowen",
+      "url": "https://www.imdb.com/name/nm0100866/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven Brill",
+      "url": "https://www.imdb.com/name/nm0109359/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tim Herlihy",
+      "url": "https://www.imdb.com/name/nm0379056/"
+    },
+    {
+      "name": "Adam Sandler",
+      "url": "https://www.imdb.com/name/nm0001191/"
+    }
+  ]
+}

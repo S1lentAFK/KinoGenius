@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Glorias",
+  "url": "https://www.imdb.com/tt7435316/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmE1ZDI3MTgtODNmZi00OTQyLTkyYjMtNzI3OTRhOWEwY2NjXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+  "description": "The story of feminist icon Gloria Steinem&apos;s itinerant childhood and its influence on her life as a writer, activist and organizer for women&apos;s rights worldwide.",
+  "review": {
+    "author": "Gordon-11",
+    "dateCreated": "2020-10-02",
+    "inLanguage": "English",
+    "heading": "Disappointing",
+    "reviewBody": "For a film on an important person of an important movement, I expected much more. The story telling is not so good, and is even confusing. For example, there are different ages of Glorias in one scene or even in one frame. There are way too many imageries for viewers to digest. I don&apos;t see how the women&apos;s rights movement develops, and I don&apos;t sense the passion in the characters or the women&apos;s rights movement.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 3681,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "12",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2021-03-07",
+  "keywords": "feminism,activism,journalism,based on book,based on true story",
+  "duration": "PT2H27M",
+  "actor": [
+    {
+      "name": "Julianne Moore",
+      "url": "https://www.imdb.com/name/nm0000194/"
+    },
+    {
+      "name": "Alicia Vikander",
+      "url": "https://www.imdb.com/name/nm2539953/"
+    },
+    {
+      "name": "Janelle Monáe",
+      "url": "https://www.imdb.com/name/nm1847117/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Julie Taymor",
+      "url": "https://www.imdb.com/name/nm0853380/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Julie Taymor",
+      "url": "https://www.imdb.com/name/nm0853380/"
+    },
+    {
+      "name": "Sarah Ruhl",
+      "url": "https://www.imdb.com/name/nm3951729/"
+    },
+    {
+      "name": "Gloria Steinem",
+      "url": "https://www.imdb.com/name/nm0825887/"
+    }
+  ]
+}

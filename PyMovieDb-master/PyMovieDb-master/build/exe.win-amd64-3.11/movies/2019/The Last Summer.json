@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "The Last Summer",
+  "url": "https://www.imdb.com/tt7957694/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg3NTQ5Mjc1N15BMl5BanBnXkFtZTgwNzg0MjU4NzM@._V1_.jpg",
+  "description": "Standing on the precipice of adulthood, a group of friends navigate new relationships, while reexamining others, during their final summer before college.",
+  "review": {
+    "author": "Dev1999",
+    "dateCreated": "2019-05-03",
+    "inLanguage": "English",
+    "heading": "A more heartfelt teen flick than expected.",
+    "reviewBody": "I am so surprised by how much I enjoyed this. I like romantic comedies and teen flicks, but maybe only half of the time they are actually kinda good. This one is one of them. Sure, some stuff is way too corny, some messages and storylines feel a bit forced, but all in all it&apos;s actually pretty cute and completely worth seeing. The cast does a great job by the way, and some of the characters are much better drawn than one would expect them to be in a movie like this. If you like coming-of-age films, enjoy.\n\nAlso, the end is adorable in a way I didn&apos;t see coming. The last shot is so accurate and just a perfect note to end on.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 14149,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2019-05-03",
+  "keywords": "summer,reference to martin scorsese,reference to spike lee,no opening credits,high school graduate",
+  "duration": "PT1H49M",
+  "actor": [
+    {
+      "name": "K.J. Apa",
+      "url": "https://www.imdb.com/name/nm6216001/"
+    },
+    {
+      "name": "Maia Mitchell",
+      "url": "https://www.imdb.com/name/nm2314596/"
+    },
+    {
+      "name": "Norman Johnson Jr.",
+      "url": "https://www.imdb.com/name/nm8562730/"
+    }
+  ],
+  "director": [
+    {
+      "name": "William Bindley",
+      "url": "https://www.imdb.com/name/nm0082841/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Scott Bindley",
+      "url": "https://www.imdb.com/name/nm0082839/"
+    },
+    {
+      "name": "William Bindley",
+      "url": "https://www.imdb.com/name/nm0082841/"
+    }
+  ]
+}

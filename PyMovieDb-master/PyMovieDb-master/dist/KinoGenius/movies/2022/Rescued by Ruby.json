@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Rescued by Ruby",
+  "url": "https://www.imdb.com/tt11278476/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzM5NTIzNWYtYWJhNC00ZWJiLWIyMGYtZTdlNGFjM2FlZGZjXkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_.jpg",
+  "description": "Chasing his dream to join an elite K-9 unit, a state trooper partners with a fellow underdog: clever but naughty shelter pup Ruby.",
+  "review": {
+    "author": "Snootz",
+    "dateCreated": "2022-03-27",
+    "inLanguage": "English",
+    "heading": "Good, wholesome family film",
+    "reviewBody": "It&apos;s formulaic and predictable, but this film touches the heart and deals with two moral stories-- that of a dyslexic, hyperactive Trooper who wants to be in the K9 unit... and a shelter dog he&apos;s challenged to work with. If you like this kind of film, you won&apos;t have a dry eye by the end of the movie.\n\nThe acting is good from all parties. Directing is fine, music fits the story, and it&apos;s realistic enough to not suspend belief. There are lots of cliches here... but also some very good lessons to learn, for children and adults alike.\n\nOverall a very enjoyable movie to watch, and good points to be noted, especially in post-viewing discussions with children. I would recommend it for anyone who enjoys a good, basic family-oriented film.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 10455,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2022-03-17",
+  "keywords": "dog,animal,energy,animal name in title,life",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Grant Gustin",
+      "url": "https://www.imdb.com/name/nm2652716/"
+    },
+    {
+      "name": "Scott Wolf",
+      "url": "https://www.imdb.com/name/nm0937930/"
+    },
+    {
+      "name": "Kaylah Zander",
+      "url": "https://www.imdb.com/name/nm9482101/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Katt Shea",
+      "url": "https://www.imdb.com/name/nm0002240/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Squire D. Rushnell",
+      "url": "https://www.imdb.com/name/nm3249078/"
+    },
+    {
+      "name": "Louise DuArt",
+      "url": "https://www.imdb.com/name/nm0239051/"
+    },
+    {
+      "name": "Karen Janszen",
+      "url": "https://www.imdb.com/name/nm0418321/"
+    }
+  ]
+}

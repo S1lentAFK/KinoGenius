@@ -1,0 +1,62 @@
+{
+  "type": "Movie",
+  "name": "Palm Trees and Power Lines",
+  "url": "https://www.imdb.com/tt15257116/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTZjOTgwZDktY2IyNy00ZmYyLWJjOWMtODgxYWNmYmQwZjkwXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+  "description": "A disconnected teenage girl enters a relationship with a man twice her age. She sees him as the solution to all her problems, but his intentions are not what they seem.",
+  "review": {
+    "author": "desimonici-898-584421",
+    "dateCreated": "2023-11-14",
+    "inLanguage": "English",
+    "heading": "Difficult to watch",
+    "reviewBody": "Yes difficult to watch but very convincing. My daughter who is a psychologist works for a charity that counsel teenage Mothers and I know from talking to her how difficult and sometimes impossible it is to make these people see that the relationship they are in is really toxic. It doesn&apos;t always come from a particular type of girl some have a reasonable back story in as much as it isn&apos;t full of trauma and neglect but still they are attracted to a wrong&apos;un and they won&apos;t be talked out of it. I don&apos;t know if some were not happy with an unsatisfying ending but that&apos;s how it goes in real life, people don&apos;t just suddenly wake up and see the mistake they made. Abusers are not always pimptastic and obviously abusive, some are very practiced and subtle and sadly that keeps their victim where they want them.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 2624,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "R",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2023-03-03",
+  "keywords": "teenage girl,mother daughter relationship,statutory rape,sex in a car,summer vacation",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Lily McInerny",
+      "url": "https://www.imdb.com/name/nm12223151/"
+    },
+    {
+      "name": "Gretchen Mol",
+      "url": "https://www.imdb.com/name/nm0001543/"
+    },
+    {
+      "name": "Emily Jackson",
+      "url": "https://www.imdb.com/name/nm2795916/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jamie Dack",
+      "url": "https://www.imdb.com/name/nm5741167/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jamie Dack",
+      "url": "https://www.imdb.com/name/nm5741167/"
+    },
+    {
+      "name": "Audrey Findlay",
+      "url": "https://www.imdb.com/name/nm7026376/"
+    }
+  ]
+}

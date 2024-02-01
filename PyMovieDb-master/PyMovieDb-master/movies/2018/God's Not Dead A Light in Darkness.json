@@ -1,0 +1,62 @@
+{
+  "type": "Movie",
+  "name": "God&apos;s Not Dead: A Light in Darkness",
+  "url": "https://www.imdb.com/tt6652708/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTI4Y2Q1MGQtYjE3Yy00N2VkLTg5YTgtOGI4Y2QxMTA3NTgxXkEyXkFqcGdeQXVyNTQ3MjE4NTU@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "jherr-65-410650",
+    "dateCreated": "2018-08-03",
+    "inLanguage": "English",
+    "heading": "Not great, but way better than 1 and 2",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 4402,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.4
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2018-08-17",
+  "keywords": "religious zealot,religious fanatic,sequel,college,pastor",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Megan Alexander",
+      "url": "https://www.imdb.com/name/nm5287560/"
+    },
+    {
+      "name": "Adeeja Rochele Anderson",
+      "url": "https://www.imdb.com/name/nm10065839/"
+    },
+    {
+      "name": "Carrlyn Bathe",
+      "url": "https://www.imdb.com/name/nm7865674/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Mason",
+      "url": "https://www.imdb.com/name/nm9454357/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Mason",
+      "url": "https://www.imdb.com/name/nm9454357/"
+    },
+    {
+      "name": "Howard Klausner",
+      "url": "https://www.imdb.com/name/nm0458439/"
+    }
+  ]
+}

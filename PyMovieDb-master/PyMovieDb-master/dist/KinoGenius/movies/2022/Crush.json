@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Crush",
+  "url": "https://www.imdb.com/tt15096128/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTNhNzRlZjctZWVlMC00ODU3LWFmOTgtNDI1ZGM0N2IxY2EwXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+  "description": "An aspiring young artist joins her high school track team and later discovers what real love feels like when she finds herself falling for an unexpected teammate.",
+  "review": {
+    "author": "rehfrax",
+    "dateCreated": "2022-04-30",
+    "inLanguage": "English",
+    "heading": "PERFECT",
+    "reviewBody": "The lgbt community has always had to endure movies with tragic and violent endings, especially the lesbian community, this movie was all the predictable romance that we (lesbians) have always asked for and missed it so much, we needed it, we needed this representation, this movie is perfect in every possible way. It&apos;s an affectionate caress.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 9184,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "16",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2022-04-29",
+  "keywords": "lesbian,bisexuality,single mother,track and field,high school",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Rowan Blanchard",
+      "url": "https://www.imdb.com/name/nm3688576/"
+    },
+    {
+      "name": "Auli&apos;i Cravalho",
+      "url": "https://www.imdb.com/name/nm7635388/"
+    },
+    {
+      "name": "Isabella Ferreira",
+      "url": "https://www.imdb.com/name/nm8534591/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sammi Cohen",
+      "url": "https://www.imdb.com/name/nm3852987/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kirsten King",
+      "url": "https://www.imdb.com/name/nm12781524/"
+    },
+    {
+      "name": "Casey Rackham",
+      "url": "https://www.imdb.com/name/nm6810680/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Murder Mystery",
+  "url": "https://www.imdb.com/tt1618434/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTA2YTI5YjUtZWI4Zi00NWQ5LWFiYmEtOTBmNTUyNDAwNjllXkEyXkFqcGdeQXVyNjIzNzM4NzA@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "JoeytheBrit",
+    "dateCreated": "2020-06-28",
+    "inLanguage": "English",
+    "heading": "Murder Mystery review",
+    "reviewBody": "Enjoyable lightweight comedy (possibly sponsored by Claritin!) from Adam Sandler that benefits greatly from the presence of the often under-rated Jennifer Aniston. They play a couple who finds themselves in the middle of the kind of old-fashioned murder mystery plot that Aniston&apos;s character loves to read. The film plays on genre tropes to decent effect and Sandler reins in the annoyance quotient, although given today&apos;s climate of gender sensitivity it&apos;s likely that vaguely ditzy female characters like Aniston&apos;s - who can pause in a moment of panic to admire some nearby wallpaper - will soon go the way of murders in the library with a candlestick.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 164369,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "12",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2019-06-14",
+  "keywords": "murder,boat,detective,hairdresser,gun",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Adam Sandler",
+      "url": "https://www.imdb.com/name/nm0001191/"
+    },
+    {
+      "name": "Jennifer Aniston",
+      "url": "https://www.imdb.com/name/nm0000098/"
+    },
+    {
+      "name": "Luke Evans",
+      "url": "https://www.imdb.com/name/nm1812656/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kyle Newacheck",
+      "url": "https://www.imdb.com/name/nm1760830/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Vanderbilt",
+      "url": "https://www.imdb.com/name/nm0888743/"
+    }
+  ]
+}

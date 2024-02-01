@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Brittany Runs a Marathon",
+  "url": "https://www.imdb.com/tt7671064/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDRlNTJmNGEtNWM0YS00OWI3LWFkNjUtMzg5MTJjODcyZGU3XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+  "description": "A young woman decides to make positive changes in her life by training for the New York City Marathon.",
+  "review": {
+    "author": "jwwalrath-227-85487",
+    "dateCreated": "2019-09-29",
+    "inLanguage": "English",
+    "heading": "Decent, but there was room for improvement",
+    "reviewBody": "Based on a true story, Jillian Bell plays Brittany, a woman with insecurities and an unhealthy lifestyle, who is told by a doctor that it would be healthier for her to lose weight. This leads her on a path to discovery and eventual plans to run a marathon. I found this to have a generally good uplifting story, but the specific parts don&apos;t all work. The script could&apos;v gone through another revision.\n\nThere are moments where the humor and dialogue really snaps and others where they don&apos;t work at all and scenes feel drawn out or superfluous. Brittany herself at times can be very sympathetic with real world doubts, but at other times her negative actions are so over-the-top that you can&apos;t relate to her.\n\nSpeaking of Brittany, Jillian Bell does a great job in the role. Many of us have probably seen her in things over the years, such as 22 Jump Street and Date Night, but she&apos;s mostly been a supporting player. It&apos;s nice to see her take center stage and show that she can do a bit of drama.\n\nThis movie is shot interestingly. It uses bright colors like a comedy but uses handheld camerawork and has sort of a more down-to-Earth feel.\n\nAs a feel-good movie, I thinks this works more than it doesn&apos;t. Just don&apos;t expect perfection.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 21887,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2019-11-01",
+  "keywords": "new york city marathon,four word title,what happened to epilogue,female feet,toes",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Jillian Bell",
+      "url": "https://www.imdb.com/name/nm3255459/"
+    },
+    {
+      "name": "Jennifer Dundas",
+      "url": "https://www.imdb.com/name/nm0242177/"
+    },
+    {
+      "name": "Patch Darragh",
+      "url": "https://www.imdb.com/name/nm1113773/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Paul Downs Colaizzo",
+      "url": "https://www.imdb.com/name/nm2375463/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Paul Downs Colaizzo",
+      "url": "https://www.imdb.com/name/nm2375463/"
+    }
+  ]
+}

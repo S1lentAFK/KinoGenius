@@ -1,0 +1,72 @@
+{
+  "type": "Movie",
+  "name": "Extinct",
+  "url": "https://www.imdb.com/tt8241000/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjAzMDIxZDItNTRiMC00MWM4LTkwOTMtMTljZmQxNDdhMmE0XkEyXkFqcGdeQXVyMTI2ODM1ODUw._V1_.jpg",
+  "description": "Op and Ed accidentally time-travel from the Galapagos Islands in 1835 to present-day Shanghai. They make their way through the city in confusion and make the horrifying discovery that the species to which they belong became extinc...",
+  "review": {
+    "author": "thewalkingpuns",
+    "dateCreated": "2022-12-19",
+    "inLanguage": "English",
+    "heading": "a nice weird animated film",
+    "reviewBody": "A new animated venture. Extinct is born from a blend of different films like the croods or iceage and though you cannot compare them it still has all the hallmarks of a film like that. Silly goffy and family friendly fun is what this movie offers and it has an interesting story. These two doughnut creatures travel though time and findout their species will go extinct. So our heros have to find a way to prevent the problem. Adam devine and racheal bloom provide the voices of ed and op. Our heros theres also great voices like winkler, and catherine o hara. They all do well and its an interesting film to watch, overall a very good animated film.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 3305,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2021-08-20",
+  "keywords": "wilhelm scream,fireworks,3d,3 dimensional,1830s",
+  "duration": "PT1H24M",
+  "actor": [
+    {
+      "name": "Adam Devine",
+      "url": "https://www.imdb.com/name/nm2796745/"
+    },
+    {
+      "name": "Rachel Bloom",
+      "url": "https://www.imdb.com/name/nm3417385/"
+    },
+    {
+      "name": "Ken Jeong",
+      "url": "https://www.imdb.com/name/nm0421822/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Silverman",
+      "url": "https://www.imdb.com/name/nm0798899/"
+    },
+    {
+      "name": "Raymond S. Persi",
+      "url": "https://www.imdb.com/name/nm0675442/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joel H. Cohen",
+      "url": "https://www.imdb.com/name/nm1121389/"
+    },
+    {
+      "name": "John Frink",
+      "url": "https://www.imdb.com/name/nm0295791/"
+    },
+    {
+      "name": "Rob LaZebnik",
+      "url": "https://www.imdb.com/name/nm0493858/"
+    }
+  ]
+}

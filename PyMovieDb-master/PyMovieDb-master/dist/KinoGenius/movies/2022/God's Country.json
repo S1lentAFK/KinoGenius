@@ -1,0 +1,66 @@
+{
+  "type": "Movie",
+  "name": "God&apos;s Country",
+  "url": "https://www.imdb.com/tt11818818/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDgyZTEzNjQtMjdkZC00NzE5LWIyNGQtMWE0MzVhMmY0NjZhXkEyXkFqcGdeQXVyNTIyODMzMzA@._V1_.jpg",
+  "description": "When a college professor confronts two hunters she catches trespassing on her property, she&apos;s drawn into an escalating battle of wills with catastrophic consequences.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2023-06-04",
+    "inLanguage": "English",
+    "heading": "quiet anger",
+    "reviewBody": "College professor Sandra (Thandiwe Newton) lives alone in the middle of nowhere Montana after losing her mother. Two local hunters keep trespassing on her property. The confrontations slowly build. She&apos;s struggling with an unevolved superior at work. The acting sheriff is limited help. The actual sheriff is on leave after shooting a local.\n\nThis movie is quiet. In a way, it&apos;s too quiet. Newton is doing good quiet with simmering rage. The tree farm confrontation is good tension. So is the invitation into the trailer home. There are moments and scenes with great tension. Mostly, the movie is way too quiet and the tension slips. It needs to build the tension, but Sandra doesn&apos;t change. It&apos;s a little flat.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 3929,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Thriller"
+  ],
+  "datePublished": "2022-09-16",
+  "keywords": "pick up truck,shooting arrows,hand written note,snow,tree farm",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Thandiwe Newton",
+      "url": "https://www.imdb.com/name/nm0628601/"
+    },
+    {
+      "name": "Joris Jarsky",
+      "url": "https://www.imdb.com/name/nm0419005/"
+    },
+    {
+      "name": "Jefferson White",
+      "url": "https://www.imdb.com/name/nm6366417/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Julian Higgins",
+      "url": "https://www.imdb.com/name/nm2282844/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Lee Burke",
+      "url": "https://www.imdb.com/name/nm0121715/"
+    },
+    {
+      "name": "Julian Higgins",
+      "url": "https://www.imdb.com/name/nm2282844/"
+    },
+    {
+      "name": "Shaye Ogbonna",
+      "url": "https://www.imdb.com/name/nm4252592/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "A Tourist&apos;s Guide to Love",
+  "url": "https://www.imdb.com/tt20115096/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTU5ZmUwYzEtMTUwMi00ZDg5LWE5ODktMDIyNDYxYzQ5ODQ2XkEyXkFqcGdeQXVyNjEwMDM4NTQ@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "cgvsluis",
+    "dateCreated": "2023-05-12",
+    "inLanguage": "English",
+    "heading": "There are two things to love about this film...the Vietnamese backdrop and Scott Ly.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 6480,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2023-04-21",
+  "keywords": "travel,love,tourist,romantic,exploration",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Rachael Leigh Cook",
+      "url": "https://www.imdb.com/name/nm0000337/"
+    },
+    {
+      "name": "Scott Ly",
+      "url": "https://www.imdb.com/name/nm2263679/"
+    },
+    {
+      "name": "Ben Feldman",
+      "url": "https://www.imdb.com/name/nm1133651/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven K. Tsuchida",
+      "url": "https://www.imdb.com/name/nm1286069/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Eirene Donohue",
+      "url": "https://www.imdb.com/name/nm5149399/"
+    }
+  ]
+}

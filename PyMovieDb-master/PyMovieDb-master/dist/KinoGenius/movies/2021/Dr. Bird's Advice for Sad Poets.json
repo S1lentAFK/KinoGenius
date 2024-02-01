@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Dr. Bird&apos;s Advice for Sad Poets",
+  "url": "https://www.imdb.com/tt3301314/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzQwODgxMTItYTYxNy00ZjExLWJmODEtOTY5ZTk2NDY5M2I4XkEyXkFqcGdeQXVyMTIzNzM0OTU@._V1_.jpg",
+  "description": "In the emotionally charged, wild and humorous world of sixteen year old James Whitman, we see his struggle to overcome anxiety and depression by seeking advice from Dr. Bird - an imaginary pigeon therapist - in the wake of his sis...",
+  "review": {
+    "author": "yusufpiskin",
+    "dateCreated": "2021-06-04",
+    "inLanguage": "English",
+    "heading": "Lucas Jade Zumann is new Logan Lerman",
+    "reviewBody": "A wonderful cast that understands the wonderful script and the scenario that accompanies the wonderful song selection. The movie doesn&apos;t promise much. It&apos;s not a blockbuster anyway. The film expertly tells a small story. Which is why I like little stories of little people. Lucas Jade Zumann will write his name in the 21st century.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 954,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2021-01-12",
+  "keywords": "title same as book,literature on screen,american literature on screen,21st century literature on screen,2010s literature on screen",
+  "duration": "PT1H49M",
+  "actor": [
+    {
+      "name": "Lucas Jade Zumann",
+      "url": "https://www.imdb.com/name/nm6722749/"
+    },
+    {
+      "name": "Michael H. Cole",
+      "url": "https://www.imdb.com/name/nm2360398/"
+    },
+    {
+      "name": "Roger Dale Floyd",
+      "url": "https://www.imdb.com/name/nm9819444/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Yaniv Raz",
+      "url": "https://www.imdb.com/name/nm1371819/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Yaniv Raz",
+      "url": "https://www.imdb.com/name/nm1371819/"
+    },
+    {
+      "name": "Evan Roskos",
+      "url": "https://www.imdb.com/name/nm6055387/"
+    }
+  ]
+}

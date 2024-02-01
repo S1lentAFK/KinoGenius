@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "The Beanie Bubble",
+  "url": "https://www.imdb.com/tt17007120/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODEzNzRjY2EtY2U1My00YmZhLTkzMTYtMjhiNjI1ODJlNDE1XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+  "description": "Ty Warner was a frustrated toy salesman until his collaboration with three women grew his idea into the biggest toy craze in history.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2023-07-30",
+    "inLanguage": "English",
+    "heading": "another product-bio",
+    "reviewBody": "In 1983, Ty Warner (Zach Galifianakis) and his friend Robbie (Elizabeth Banks) start a plush toy business. His big idea is to under-stuffed them and make them softer. In 1993, medical student Maya (Geraldine Viswanathan) starts working as a receptionist at the company. Sheila (Sarah Snook) meets Ty as she sets up his home lighting.\n\nThis type of movies is fast becoming a genre of its own. Some call it corporate biopics. I&apos;m calling it product-bio. First, they need a recognizable product that will generate nostalgia. Then they need some drama for the bio and they should make one up if it doesn&apos;t exist. They are good on the first part. Beanie Babies are definite 90&apos;s nostalgia-fuel. As for the drama, it exists here. The movie tries to present it in an interesting way by combining three women&apos;s stories. I do have an issue with Zach Galifianakis.\n\nI thought he&apos;s gay at first even after dating Sheila. He needs to not put his spin on the character. At his heart, he&apos;s a slick salesman. He needs to set up his narcissism. The guy has real daddy issues with some juicy sexual aspects. Zach is playing it like an absent-minded professor. He may be the wrong guy to play this role.\n\nThe time jumping is fine, but it may be better to simplify it. After all, both Maya and Sheila come into the story at the same time. Maya is probably the most compelling story. I don&apos;t see the chemistry between Sheila and Ty. He has more chemistry with her daughters. Robbie&apos;s story is standard wronged woman. They really need to show the sexual tension a lot more and earlier. As far as this new genre goes, this entry is an average affair.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 8184,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2023-07-28",
+  "keywords": "toy,1990s,year 1983,year 1993,year 1996",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Zach Galifianakis",
+      "url": "https://www.imdb.com/name/nm0302108/"
+    },
+    {
+      "name": "Elizabeth Banks",
+      "url": "https://www.imdb.com/name/nm0006969/"
+    },
+    {
+      "name": "Sarah Snook",
+      "url": "https://www.imdb.com/name/nm3512758/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kristin Gore",
+      "url": "https://www.imdb.com/name/nm0330751/"
+    },
+    {
+      "name": "Damian Kulash",
+      "url": "https://www.imdb.com/name/nm2359372/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Zac Bissonnette",
+      "url": "https://www.imdb.com/name/nm13388831/"
+    },
+    {
+      "name": "Kristin Gore",
+      "url": "https://www.imdb.com/name/nm0330751/"
+    }
+  ]
+}

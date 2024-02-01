@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Alice in Wonderland",
+  "url": "https://www.imdb.com/tt1014759/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMwNjAxMTc0Nl5BMl5BanBnXkFtZTcwODc3ODk5Mg@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "ericpendley",
+    "dateCreated": "2010-03-05",
+    "inLanguage": "English",
+    "heading": "some stunning visuals, clumsy writing",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 436002,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2010-03-05",
+  "keywords": "wonderland,alice in wonderland,alice character,caterpillar character,the mad hatter character",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "Mia Wasikowska",
+      "url": "https://www.imdb.com/name/nm1985859/"
+    },
+    {
+      "name": "Johnny Depp",
+      "url": "https://www.imdb.com/name/nm0000136/"
+    },
+    {
+      "name": "Helena Bonham Carter",
+      "url": "https://www.imdb.com/name/nm0000307/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tim Burton",
+      "url": "https://www.imdb.com/name/nm0000318/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Linda Woolverton",
+      "url": "https://www.imdb.com/name/nm0941314/"
+    },
+    {
+      "name": "Lewis Carroll",
+      "url": "https://www.imdb.com/name/nm0140902/"
+    }
+  ]
+}

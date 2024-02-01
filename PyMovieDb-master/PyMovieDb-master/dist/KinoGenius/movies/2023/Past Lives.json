@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Past Lives",
+  "url": "https://www.imdb.com/tt13238346/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTkzYmMxNTItZDAxNC00NGM0LWIyODMtMWYzMzRkMjIyMTE1XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+  "description": "Nora and Hae Sung, two deeply connected childhood friends, are wrested apart after Nora&apos;s family emigrates from South Korea. Twenty years later, they are reunited for one fateful week as they confront notions of love and destiny.",
+  "review": {
+    "author": "benjaminskylerhill",
+    "dateCreated": "2023-06-23",
+    "inLanguage": "English",
+    "heading": "Sometimes simple stories are the best.",
+    "reviewBody": "And first-time director Celine Song has created one of these. It&apos;s a masterpiece of deeply genuine human emotion. And that masterpiece is Past Lives.\n\nSong&apos;s dialogue is understated to the point of risking not creating a connection with the characters. It would not have worked with sub-par actors. But the risk payed off big time-all of these actors are wonderful, allowing their body language and line delivery fill in the gaps with their characters&apos; true psychology.\n\nA simple plot becomes a richly complex story of lost love, sought closure, and found purpose; and it&apos;s all due to Celine Song having the proper understanding of when to allow silence to speak.\n\nYet despite the frequent bouts of silence, not a moment feels wasted. Every shot and sentence is meticulously edited to give us exactly what we need to feel each moment with its full emotional power.\n\nThis very well may be the best film of 2023. It&apos;s the work of a master storyteller, and it&apos;s only her first film.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 59929,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2023-09-08",
+  "keywords": "love,korea,city,korean abroad,travel",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Greta Lee",
+      "url": "https://www.imdb.com/name/nm2336966/"
+    },
+    {
+      "name": "Teo Yoo",
+      "url": "https://www.imdb.com/name/nm1654982/"
+    },
+    {
+      "name": "John Magaro",
+      "url": "https://www.imdb.com/name/nm1910274/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Celine Song",
+      "url": "https://www.imdb.com/name/nm10227660/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Celine Song",
+      "url": "https://www.imdb.com/name/nm10227660/"
+    }
+  ]
+}

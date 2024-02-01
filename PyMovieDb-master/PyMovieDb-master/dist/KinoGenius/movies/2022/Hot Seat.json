@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Hot Seat",
+  "url": "https://www.imdb.com/tt15690300/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWVmOTAyMmMtY2U3Yi00MmE3LWE4ZjItMzZmZDc1ZDUwMzJlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+  "description": "An ex-hacker is forced to break into high-level banking institutions, another man must try to penetrate the booby trapped building to get the young man off the hot seat.",
+  "review": {
+    "author": "ivanmessimilos",
+    "dateCreated": "2022-08-21",
+    "inLanguage": "English",
+    "heading": "Why, Mel, why?!",
+    "reviewBody": "Why Mel Gibson took part in this film at all is beyond me. The movie has a lot of flaws and is bad. I laughed several times when I shouldn&apos;t have, and when I should have, I didn&apos;t. That says a lot. It&apos;s a shame because the movie could have been much, much better, it has potential considering the plot.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 3318,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Thriller"
+  ],
+  "datePublished": "2022-07-07",
+  "keywords": "cyber thriller,hacker,young,man",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Mel Gibson",
+      "url": "https://www.imdb.com/name/nm0000154/"
+    },
+    {
+      "name": "Shannen Doherty",
+      "url": "https://www.imdb.com/name/nm0001147/"
+    },
+    {
+      "name": "Kevin Dillon",
+      "url": "https://www.imdb.com/name/nm0001143/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Cullen Bressack",
+      "url": "https://www.imdb.com/name/nm4097598/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Leon Langford",
+      "url": "https://www.imdb.com/name/nm5503486/"
+    },
+    {
+      "name": "Collin Watts",
+      "url": "https://www.imdb.com/name/nm5841896/"
+    }
+  ]
+}

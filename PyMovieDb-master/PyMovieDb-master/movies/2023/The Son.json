@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Hunger Games: The Ballad of Songbirds & Snakes",
+  "url": "https://www.imdb.com/tt10545296/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTZmMmY2MzctMjU2Yy00YjJlLTk1NjAtY2U4MmMxOWZkZWY4XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg",
+  "description": "Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
+  "review": {
+    "author": "meshouse",
+    "dateCreated": "2023-11-17",
+    "inLanguage": "English",
+    "heading": "Felt Rushed",
+    "reviewBody": "As someone who read the book days before seeing this film, I can tell you it should&apos;ve been in two parts. I did thoroughly enjoy it! However, there are so many things that they left out that I felt were integral to the story. In order to properly see Snow for who he is-a spineless boy who only does things that look good to others-I think they needed to spend more time with the character. I&apos;m not usually a fan of two parters, but this one really should&apos;ve been. The characters fell flat to me because we didn&apos;t get great looks into them.\n\nMy boyfriend, who didn&apos;t read the book, really liked it and said he felt he understood the characters well enough though. So maybe it&apos;s just a me problem.\n\nBecause so much of the book is Snow&apos;s internal monologue, I know it would&apos;ve been hard to capture that properly on film, but I think they could&apos;ve. Also, it&apos;s SO much darker in the book, and I think that was necessary for the audience to see.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 81145,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "datePublished": "2023-11-17",
+  "keywords": "origin of villain,prequel,mentor,arena,singing",
+  "duration": "PT2H37M",
+  "actor": [
+    {
+      "name": "Rachel Zegler",
+      "url": "https://www.imdb.com/name/nm10399505/"
+    },
+    {
+      "name": "Tom Blyth",
+      "url": "https://www.imdb.com/name/nm3880241/"
+    },
+    {
+      "name": "Viola Davis",
+      "url": "https://www.imdb.com/name/nm0205626/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Francis Lawrence",
+      "url": "https://www.imdb.com/name/nm1349376/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Lesslie",
+      "url": "https://www.imdb.com/name/nm2078681/"
+    },
+    {
+      "name": "Michael Arndt",
+      "url": "https://www.imdb.com/name/nm1578335/"
+    },
+    {
+      "name": "Suzanne Collins",
+      "url": "https://www.imdb.com/name/nm1056741/"
+    }
+  ]
+}

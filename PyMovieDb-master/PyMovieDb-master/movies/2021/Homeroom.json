@@ -1,0 +1,66 @@
+{
+  "type": "Movie",
+  "name": "Homeroom",
+  "url": "https://www.imdb.com/tt13622168/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2Q1NjZhNTAtMzUwZC00OTgzLTk5YWQtMmEwZTM5MWU2NDRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+  "description": "Oakland as a tantalizing case study. In a city that struggles with rising crime and health care woes, its public school systems aren&apos;t exactly equipped to prepare youth for the travails of young adulthood.",
+  "review": {
+    "author": "revotstover",
+    "dateCreated": "2021-08-15",
+    "inLanguage": "English",
+    "heading": "Out of Focus",
+    "reviewBody": "Oh, it looks like a documentary. There&apos;s Oakland and some shots of the city and Oakland High. But there is nothing holding all of it together.\n\nIt&apos;s called Homeroom. We barely see kids in school and, when we do, the classes are super small and/or students are on their phones. Students don&apos;t seem very engaged, but we&apos;ve seen that narrative before.\n\nThe movie mostly follows council kids, the ones that represent the school and district. Usually, council kids aren&apos;t that representative of students--they&apos;re the kids that hold office, run assemblies, make posters--and Homeroom only follows a handful of them.\n\nThe director has claimed this movie was an attempt to better understand young people. The viewer doesn&apos;t see young people for more than a minute or two at a time. We don&apos;t see them in class, at home, having fun, doing work, or anything for long.\n\nAbout the only focus is defunding the police. The students speak at a board meeting and claim this a good idea. Why? We see one scene at school feature police officers--they are in the auditorium, speaking to a limited number of students, and are willing to answer any question.\n\nDo we wee the SRO (school cop) in action? Nope. Do we ever see kids interract with police? We do not. We don&apos;t know anything specific that has happened between police and these students to make the students feel the way they do. The students don&apos;t have dialogue about it, but we do get to see them watching stories on their phones.\n\nOnce again, this was an opportunity to get a close look into student&apos;s/people&apos;s lives during school and a pandemic. And, maybe Covid kept the crew socially distant after March, but that doesn&apos;t excuse the months leading up to it.\n\nToo bad. The general pubflic has no idea what happens in public schools these days and Homeroom does little to shed a light.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 273,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "TV-MA",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2021-08-12",
+  "keywords": "school,student,struggle,health,hulu",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Dwayne Davis",
+      "url": "https://www.imdb.com/name/nm13314311/"
+    },
+    {
+      "name": "Denilson Garibo",
+      "url": "https://www.imdb.com/name/nm12283892/"
+    },
+    {
+      "name": "Libby Schaaf",
+      "url": "https://www.imdb.com/name/nm9649248/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Nicks",
+      "url": "https://www.imdb.com/name/nm2426403/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sean Havey",
+      "url": "https://www.imdb.com/name/nm6565017/"
+    },
+    {
+      "name": "Kristina Motwani",
+      "url": "https://www.imdb.com/name/nm3651562/"
+    },
+    {
+      "name": "Peter Nicks",
+      "url": "https://www.imdb.com/name/nm2426403/"
+    }
+  ]
+}

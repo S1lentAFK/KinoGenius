@@ -1,0 +1,62 @@
+{
+  "type": "Movie",
+  "name": "The Evening Hour",
+  "url": "https://www.imdb.com/tt5554356/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDMzMWVmZGItNjI5OS00MjEzLWI5YWItZjc2MTkxZGE0NDAzXkEyXkFqcGdeQXVyMTAwMzkwODA@._V1_.jpg",
+  "description": "Adaptation of Carter Sickels&apos; 2012 novel.",
+  "review": {
+    "author": "Emanuel-23",
+    "dateCreated": "2021-09-23",
+    "inLanguage": "English",
+    "heading": "Wait until you&apos;re in the mood for it",
+    "reviewBody": "Not sure why this movie gets such bad ratings.\n\nIt is one of those movies you have to be in the mood for I guess.\n\nI loved the lead actor and how he carries the role.\n\nThe directing is brilliant, piecing it all together, making it work.\n\nThe PACE of this movie is handled masterfully. Kudos to the script writer, and again to the director.\n\nMy favorite scene was where Cole sits opun his bed, the timelapse with the light coming through the window.\n\nCongratulations to cast and crew and everybody involved.\n\nGreat casting all around.\n\nJust thinking about that look Cole gives, his eyes, his mouth, it still brings me to tears over a week after I saw this film. Well done.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 334,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "contentRating": null,
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2021-07-13",
+  "keywords": "west virginia,drug dealer,appalachia,opioid epidemic,timeframe 2010s",
+  "duration": "PT1H54M",
+  "actor": [
+    {
+      "name": "Cosmo Jarvis",
+      "url": "https://www.imdb.com/name/nm4008605/"
+    },
+    {
+      "name": "Marc Menchaca",
+      "url": "https://www.imdb.com/name/nm0578766/"
+    },
+    {
+      "name": "Lili Taylor",
+      "url": "https://www.imdb.com/name/nm0000666/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Braden King",
+      "url": "https://www.imdb.com/name/nm0454512/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Elizabeth Palmore",
+      "url": "https://www.imdb.com/name/nm3229750/"
+    },
+    {
+      "name": "Carter Sickels",
+      "url": "https://www.imdb.com/name/nm8000661/"
+    }
+  ]
+}

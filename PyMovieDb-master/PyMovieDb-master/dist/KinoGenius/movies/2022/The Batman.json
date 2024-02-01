@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Batman",
+  "url": "https://www.imdb.com/tt1877830/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNTAwZGEtNTAxNC00ODVjLTgzZjUtYmU0YjAzNmQyZDEwXkEyXkFqcGdeQXVyNDc2NTg3NzA@._V1_.jpg",
+  "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city&apos;s hidden corruption and question his family&apos;s involvement.",
+  "review": {
+    "author": "andrewchristianjr",
+    "dateCreated": "2022-03-02",
+    "inLanguage": "English",
+    "heading": "DETECTIVE BATMAN AT ITS PEAK!",
+    "reviewBody": "Detective Batman at its peak! Great storyline. Just as dark a universe as we&apos;ve come to expect from DC. The gloomy, gritty, dark tone of this film is exactly what I wanted. When you think the movie is over, there&apos;s more. Beautiful cinematography. Great score.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 759495,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2022-03-04",
+  "keywords": "riddle,corruption,vigilante justice,serial killer,batman character",
+  "duration": "PT2H56M",
+  "actor": [
+    {
+      "name": "Robert Pattinson",
+      "url": "https://www.imdb.com/name/nm1500155/"
+    },
+    {
+      "name": "Zoë Kravitz",
+      "url": "https://www.imdb.com/name/nm2368789/"
+    },
+    {
+      "name": "Jeffrey Wright",
+      "url": "https://www.imdb.com/name/nm0942482/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Matt Reeves",
+      "url": "https://www.imdb.com/name/nm0716257/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Matt Reeves",
+      "url": "https://www.imdb.com/name/nm0716257/"
+    },
+    {
+      "name": "Peter Craig",
+      "url": "https://www.imdb.com/name/nm0185976/"
+    },
+    {
+      "name": "Bob Kane",
+      "url": "https://www.imdb.com/name/nm0004170/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Grimcutty",
+  "url": "https://www.imdb.com/tt17196124/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWJiMGFmMzItMjdhZi00OWQ2LThiYTgtZjgxZTY5NDkyZjIzXkEyXkFqcGdeQXVyNzQ2OTEzMzY@._V1_.jpg",
+  "description": "A suburban teen girl and her little brother must stop a terrifying internet meme brought to life by the hysteria of their parents.",
+  "review": {
+    "author": "Cinema-reviewer321",
+    "dateCreated": "2022-10-13",
+    "inLanguage": "English",
+    "heading": "Internet meme horror",
+    "reviewBody": "I did not watch the trailer for this movie and went off the main synopsis, so I went into this movie blind. After watching Grimcutty (2022) I can say it was an interesting horror movie, but it was not great.\n\nThe main idea of the movie was good, and I liked the idea it went into of how kids or teens can be affected by digital media. The Grimcutty meme or challenge in the movie shows how dumb challenges or memes online cannot be good for kids and/or teens.\n\nThe design of the Grimcutty monster was a little creepy but I also laughed at it because I thought it looked silly. The effects on it were hard to tell if it was CGI, someone in a suit, or a mixture of both.\n\nThe acting is not great and some of the performances can be over the top when they are trying to act chaotic. There are also scenes that I thought were not needed or were not used right, while also sometimes not having much of an explanation.\n\nGrimcutty (2022) was not that good, but it did have some promising ideas. They just needed better acting and not take something silly looking too serious.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 7373,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.3
+  },
+  "contentRating": "16",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2022-10-10",
+  "keywords": "monster horror,terrifying,internet meme,parents,creature",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Shannyn Sossamon",
+      "url": "https://www.imdb.com/name/nm0815370/"
+    },
+    {
+      "name": "Sara Wolfkind",
+      "url": "https://www.imdb.com/name/nm5953203/"
+    },
+    {
+      "name": "Usman Ally",
+      "url": "https://www.imdb.com/name/nm2762669/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Ross",
+      "url": "https://www.imdb.com/name/nm1413218/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Ross",
+      "url": "https://www.imdb.com/name/nm1413218/"
+    }
+  ]
+}

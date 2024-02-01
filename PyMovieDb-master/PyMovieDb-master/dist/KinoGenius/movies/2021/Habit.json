@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Habit",
+  "url": "https://www.imdb.com/tt11788956/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTNiOTY2MWItMTRiYi00Mzg0LWIzYmItYWRkMGRjZmI0YzYzXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg",
+  "description": "A street-smart party girl gets mixed up in a violent drug deal and finds a possible way out by masquerading as a nun.",
+  "review": {
+    "author": "gfrancis0",
+    "dateCreated": "2021-08-20",
+    "inLanguage": "English",
+    "heading": "Self-indulgent tripe, makes no sense",
+    "reviewBody": "I can almost guarantee that this concept was fueled by a weeklong coke binge party in the Hills by the group of friends who are in the movie, who wrote it themselves. The plot is idiotic, nothing is explained or even makes much sense and the actress playing the villain may be the worst acting I&apos;ve ever seen. Good thing they got some CCP money to make it, probably because they were hot for Bella. Avoid like the plague.\n\nEDIT-I just realized that the CCP money probably came from a relative of the actress who is playing the villain, daddy (or whomever) bought her a movie woohoo! She is laughably terrible.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 1311,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 2.8
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2021-08-20",
+  "keywords": "female topless nudity,female frontal nudity,girl,nipple piercing,nipple pierced",
+  "duration": "PT1H21M",
+  "actor": [
+    {
+      "name": "Bella Thorne",
+      "url": "https://www.imdb.com/name/nm2254074/"
+    },
+    {
+      "name": "Andreja Pejic",
+      "url": "https://www.imdb.com/name/nm5200438/"
+    },
+    {
+      "name": "Gavin Rossdale",
+      "url": "https://www.imdb.com/name/nm0569962/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Janell Shirtcliff",
+      "url": "https://www.imdb.com/name/nm3907556/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Libby Mintz",
+      "url": "https://www.imdb.com/name/nm2553880/"
+    },
+    {
+      "name": "Janell Shirtcliff",
+      "url": "https://www.imdb.com/name/nm3907556/"
+    }
+  ]
+}

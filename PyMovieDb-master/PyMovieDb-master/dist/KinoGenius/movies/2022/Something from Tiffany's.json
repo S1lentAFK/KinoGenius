@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Something from Tiffany&apos;s",
+  "url": "https://www.imdb.com/tt16233952/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWU0MjkyM2ItOGRiOC00ZGIzLWIyZTQtZWE0ZTk3ZWJhMTVhXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_.jpg",
+  "description": "Follows a woman as her life gets upended when an engagement ring that was for someone else leads her to the person she&apos;s meant to be with.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2022-12-11",
+    "inLanguage": "English",
+    "heading": "construction",
+    "reviewBody": "There is a car accident in front of Tiffany. There is a mix up with two blue boxes. There are marriage proposals and non-marriage proposals. It&apos;s bad relationships and one budding sweet one. Rachel Meyer (Zoey Deutch) is a New York baker with a bad boyfriend. In Tiffany, Ethan Greene (Kendrick Sampson) is picking a ring with his daughter.\n\nReese Witherspoon&apos;s production company Hello Sunshine is trying to tap into the Sweet Home Alabama jackpot. This one is more a shot at Hallmark cheese than a rom-com hit. It tries to be more, but it fails at that. For me, the biggest issue is construction. I don&apos;t like the love quadrangle. A love triangle functions better. Vanessa&apos;s biggest sin for most of the movie seems to be the weather. The story needs to be rewritten into a love triangle. I would reimagine the Vanessa side by adding some tragedy. Ethan could be picking up the custom-made ring after Vanessa&apos;s tragic death. That would make the construction into a triangle. There are other issues. For example, the staging of the switch is a bit awkward. I would make the switch first before the accident. This rom-com also needs a better meet-cute. I have no suggestions, but there has to be a million better ones than this. I like Zoey Deutch and Kendrick Sampson&apos;s chemistry. They&apos;re a sweet couple. Gary is a horrible boyfriend which works well. There are elements here that could work, but the basic construction is flawed.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 10072,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Romance"
+  ],
+  "datePublished": "2022-12-09",
+  "keywords": "ring,new york city,christmas,new york,hit by a car",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Zoey Deutch",
+      "url": "https://www.imdb.com/name/nm3614913/"
+    },
+    {
+      "name": "Kendrick Sampson",
+      "url": "https://www.imdb.com/name/nm3069604/"
+    },
+    {
+      "name": "Ray Nicholson",
+      "url": "https://www.imdb.com/name/nm2200658/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Daryl Wein",
+      "url": "https://www.imdb.com/name/nm0918078/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Melissa Hill",
+      "url": "https://www.imdb.com/name/nm9676346/"
+    },
+    {
+      "name": "Tamara Chestna",
+      "url": "https://www.imdb.com/name/nm2309894/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "Movie",
+  "name": "Women Talking",
+  "url": "https://www.imdb.com/tt13669038/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTZmMmQ4OWYtM2JmNC00NzY0LWJhODUtOTRmMWMyOTU4OWQ4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+  "description": "Do nothing, stay and fight, or leave. In 2010, the women of an isolated religious community grapple with reconciling a brutal reality with their faith.",
+  "review": {
+    "author": "beatrice_gangi",
+    "dateCreated": "2023-03-01",
+    "inLanguage": "English",
+    "heading": "When Frances McDormand left, so did my soul",
+    "reviewBody": "In 2010, the women of a Mennonite community must come together to make a decision following the discovery of a terrible secret of the men in their community. There are three options: do nothing, stay and fight, or leave. Great. The incipit is undoubtedly as interesting as it is a thriving ground for opening an important dialogue on concepts such as faith, misogyny, and feminism.\n\nWhile it is an important film, and an important issue, I found the script to be profoundly insincere and artificial, in dialogue that is more like a skein of feminist slogans piled one after another. The way the characters express themselves, interact, and behave is mechanical and relegated to the stereotype of women they represent. To the most controversial character, McDormand&apos;s, I was sorry that, even in her being at fault, no space was left.\n\nOn a technical level there is nothing particularly significant; the coloring is interesting, if not particularly aesthetic. The performances of course were good, as the cast is mostly made up of great actresses.\n\nWomen Talking is commendable in its intended message, but otherwise it seems a wasted opportunity of cast as much as of reference material.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 39498,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2023-02-10",
+  "keywords": "religious group,sexual assault,title directed by female,forgiveness,woman",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Rooney Mara",
+      "url": "https://www.imdb.com/name/nm1913734/"
+    },
+    {
+      "name": "Claire Foy",
+      "url": "https://www.imdb.com/name/nm2946516/"
+    },
+    {
+      "name": "Jessie Buckley",
+      "url": "https://www.imdb.com/name/nm2976580/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sarah Polley",
+      "url": "https://www.imdb.com/name/nm0001631/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sarah Polley",
+      "url": "https://www.imdb.com/name/nm0001631/"
+    },
+    {
+      "name": "Miriam Toews",
+      "url": "https://www.imdb.com/name/nm2700470/"
+    }
+  ]
+}

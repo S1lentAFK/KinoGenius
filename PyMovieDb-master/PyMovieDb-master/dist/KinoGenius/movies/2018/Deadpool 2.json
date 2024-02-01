@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Deadpool 2",
+  "url": "https://www.imdb.com/tt5463162/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0NTk2MTYtMWZlYS00ZTliLThmZTEtNDVkODgxNmQ2ZGM2XkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_.jpg",
+  "description": "Foul-mouthed mutant mercenary Wade Wilson (a.k.a. Deadpool) assembles a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg Cable.",
+  "review": {
+    "author": "deloudelouvain",
+    "dateCreated": "2018-08-24",
+    "inLanguage": "English",
+    "heading": "The humor is what makes Deadpool better than all the other superheroes.",
+    "reviewBody": "I&apos;m not a huge fan of comic character movies even though I watch them all but Deadpool is definitely my favorite Marvel character. I guess it&apos;s because he&apos;s just a bit kinkier with his sometimes vulgar sense of humor. That&apos;s something you will never see in the other Marvel or DC Comics movies. Deadpool doesn&apos;t fit in that family package as his constant humor is just above the edge. I&apos;m normally not a huge fan of Ryan Reynolds either but I have to admit that his Deadpool character fits him as a glove. About the story it&apos;s a typical superhero against evil like all other superhero movies but that little humorous touch makes all the difference. And for a sequel it&apos;s a good one, just waiting for a third one now.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 630572,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2018-05-15",
+  "keywords": "anti hero,based on comic book,marvel comics,sequel,superhero",
+  "duration": "PT1H59M",
+  "actor": [
+    {
+      "name": "Ryan Reynolds",
+      "url": "https://www.imdb.com/name/nm0005351/"
+    },
+    {
+      "name": "Josh Brolin",
+      "url": "https://www.imdb.com/name/nm0000982/"
+    },
+    {
+      "name": "Morena Baccarin",
+      "url": "https://www.imdb.com/name/nm1072555/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Leitch",
+      "url": "https://www.imdb.com/name/nm0500610/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Rhett Reese",
+      "url": "https://www.imdb.com/name/nm1014201/"
+    },
+    {
+      "name": "Paul Wernick",
+      "url": "https://www.imdb.com/name/nm1116660/"
+    },
+    {
+      "name": "Ryan Reynolds",
+      "url": "https://www.imdb.com/name/nm0005351/"
+    }
+  ]
+}

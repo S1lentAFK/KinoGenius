@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "Copshop",
+  "url": "https://www.imdb.com/tt5748448/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTZjZWYzYjMtMmNlYi00MTdkLWI4OTMtMmVhM2QzZjZiZTZiXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "FeastMode",
+    "dateCreated": "2022-01-31",
+    "inLanguage": "English",
+    "heading": "It&apos;s fine",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 37784,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Thriller"
+  ],
+  "datePublished": "2021-09-10",
+  "keywords": "man bun,singing in a car,police,hitman,hit",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Gerard Butler",
+      "url": "https://www.imdb.com/name/nm0124930/"
+    },
+    {
+      "name": "Frank Grillo",
+      "url": "https://www.imdb.com/name/nm0342029/"
+    },
+    {
+      "name": "Alexis Louder",
+      "url": "https://www.imdb.com/name/nm6951875/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joe Carnahan",
+      "url": "https://www.imdb.com/name/nm0138620/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kurt McLeod",
+      "url": "https://www.imdb.com/name/nm4007981/"
+    },
+    {
+      "name": "Joe Carnahan",
+      "url": "https://www.imdb.com/name/nm0138620/"
+    },
+    {
+      "name": "Mark Williams",
+      "url": "https://www.imdb.com/name/nm0931251/"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Respect",
+  "url": "https://www.imdb.com/tt2452150/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWQxODE4MWQtMTZlMi00N2UwLWEzNGEtOGVkZWVmMzgwYTg5XkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_.jpg",
+  "description": "Following the rise of Aretha Franklin&apos;s career from a child singing in her father&apos;s church&apos;s choir to her international superstardom, RESPECT is the remarkable true story of the music icon&apos;s journey to find her voice.",
+  "review": {
+    "author": "educatexan",
+    "dateCreated": "2021-08-14",
+    "inLanguage": "English",
+    "heading": "Mostly bits and pieces",
+    "reviewBody": "The film was more of a collection of vignettes than a complete story. It felt very disjointed. Characters appeared and disappeared, and stories were left incomplete. It was difficult to determine Aretha&apos;s motives during life changes.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 17436,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2021-09-10",
+  "keywords": "soul music,recording session,recording studio,martin luther king jr. character,detroit michigan",
+  "duration": "PT2H25M",
+  "actor": [
+    {
+      "name": "Jennifer Hudson",
+      "url": "https://www.imdb.com/name/nm1617685/"
+    },
+    {
+      "name": "Forest Whitaker",
+      "url": "https://www.imdb.com/name/nm0001845/"
+    },
+    {
+      "name": "Marlon Wayans",
+      "url": "https://www.imdb.com/name/nm0005541/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Liesl Tommy",
+      "url": "https://www.imdb.com/name/nm8217935/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tracey Scott Wilson",
+      "url": "https://www.imdb.com/name/nm5885049/"
+    },
+    {
+      "name": "Callie Khouri",
+      "url": "https://www.imdb.com/name/nm0451884/"
+    }
+  ]
+}

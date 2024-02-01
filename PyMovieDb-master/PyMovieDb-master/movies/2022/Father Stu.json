@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Father Stu",
+  "url": "https://www.imdb.com/tt14439896/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGYwOTI1MTUtYmY0Mi00OTAxLTkwNDEtOTI5YTkyZTVhN2JiXkEyXkFqcGdeQXVyMTAxNDE3MTE5._V1_.jpg",
+  "description": "Follows the life of Father Stuart Long, a boxer-turned-priest who inspired countless people during his journey from self-destruction to redemption.",
+  "review": {
+    "author": "TxMike",
+    "dateCreated": "2022-12-01",
+    "inLanguage": "English",
+    "heading": "Mark Wahlberg as Father Stuart Long.",
+    "reviewBody": "This isn&apos;t exactly a bio-pic, it leaves lots of things out and fictionalizes a few things, but it is a mostly true account of Stuart Long who grew up as a crude, rough and tumble type of athlete and high-ranking boxer in Montana.\n\nAt some point he decides to go to Los Angeles and become an actor. With no real preparation and no plan he is a bust. Then after losing his drivers license and resorting to a motorcycle for transportation, he is in an accident that almost kills him. However through it all has a religious experience and decides to become a Catholic priest.\n\nHis road is never easy, and things go from pretty bad to a lot worse. Still through discernment and a stroke of good fortune he became a priest at the age of 34. He developed a novel way to connect with people.\n\nMy wife and I watched it at home on DVD from our public library. Good movie and the actors are all first-rate in their roles, especially Wahlberg and Gibson.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 28328,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Drama"
+  ],
+  "datePublished": "2022-05-13",
+  "keywords": "priest,self destruction,redemption,road of life,catholic",
+  "duration": "PT2H4M",
+  "actor": [
+    {
+      "name": "Mark Wahlberg",
+      "url": "https://www.imdb.com/name/nm0000242/"
+    },
+    {
+      "name": "Mel Gibson",
+      "url": "https://www.imdb.com/name/nm0000154/"
+    },
+    {
+      "name": "Jacki Weaver",
+      "url": "https://www.imdb.com/name/nm0915865/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rosalind Ross",
+      "url": "https://www.imdb.com/name/nm6793979/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Rosalind Ross",
+      "url": "https://www.imdb.com/name/nm6793979/"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Tolkien",
+  "url": "https://www.imdb.com/tt3361792/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjUzNzA1MDczOF5BMl5BanBnXkFtZTgwODY5OTI2NzM@._V1_.jpg",
+  "description": "Tolkien&apos;s novels were inspired by his mom&apos;s storytelling, falling in love with another orphan, Edith, forming a brotherhood with 3 other misfits at school, the trench war of WWI and later telling stories to his own kids.",
+  "review": {
+    "author": "FrenchEddieFelson",
+    "dateCreated": "2019-06-24",
+    "inLanguage": "English",
+    "heading": "Entertaining and poetic",
+    "reviewBody": "A story as romantic as biographical of the first three decades of J.R.R. Tolkien, who is best known as the author of the classic high fantasy works The Hobbit, The Lord of the Rings, and The Silmarillion: his childhood and adolescence just before the first world war and his decisive encounters (Edith Bratt who will become his wife, the professor Joseph Wright who will turn his mentor and help him to to enter to the University of Oxford, and his friends with whom he will form a brotherhood, or even a fellowship). The analogies with his novels are obvious: the Ringwraiths a.k.a. the Nazgûl between the German trenches of the Bay of the Somme, or even Sauron on his black horse and his huge sword. The film portrays also the manifold sources of inspiration such as Nordic cultures / languages or operas like Der Ring des Nibelungen composed by Richard Wagner. The photography, the Computer-Generated Imagery and the costumes are excellent. The movie reflects reality more or less closely (the audience shall then dissociate the real from the fantasy) but is globally poetic. 6/7 of 10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 45680,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2019-05-03",
+  "keywords": "world war one,battle of the somme,oxford university,trench warfare,group of friends",
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "Nicholas Hoult",
+      "url": "https://www.imdb.com/name/nm0396558/"
+    },
+    {
+      "name": "Lily Collins",
+      "url": "https://www.imdb.com/name/nm2934314/"
+    },
+    {
+      "name": "Colm Meaney",
+      "url": "https://www.imdb.com/name/nm0000538/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dome Karukoski",
+      "url": "https://www.imdb.com/name/nm1933648/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Gleeson",
+      "url": "https://www.imdb.com/name/nm1216554/"
+    },
+    {
+      "name": "Stephen Beresford",
+      "url": "https://www.imdb.com/name/nm0073571/"
+    }
+  ]
+}

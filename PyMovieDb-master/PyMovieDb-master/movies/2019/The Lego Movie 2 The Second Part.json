@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Lego Movie 2: The Second Part",
+  "url": "https://www.imdb.com/tt3513498/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkyOTkwNDc1N15BMl5BanBnXkFtZTgwNzkyMzk3NjM@._V1_.jpg",
+  "description": "It&apos;s been five years since everything was awesome and the citizens are facing a huge new threat: Lego Duplo invaders from outer space, wrecking everything faster than they can rebuild.",
+  "review": {
+    "author": "dekokjasper",
+    "dateCreated": "2019-02-07",
+    "inLanguage": "English",
+    "heading": "Does a good job coping with the success of the first movie.",
+    "reviewBody": "Personally, I didn&apos;t go see this movie with very high expectations. Because, whilst the first Lego Movie could work with the fact that the audience wasn&apos;t aware of the origins of the movie&apos;s story (this origin being a child&apos;s imagination), this movie had to work with an audience aware of this origin. The movie accepts this and integrates scene&apos;s with real actors in the movie. This, luckily, isn&apos;t done to an extend where it would be annoying and distracting from the story being portrayed with Lego bricks. It does, however, try to replace the reveal of the first movie, with another reveal. Sadly, this reveal isn&apos;t even close to being on the same level as the reveal of the first movie. It turns out to be a bit cliché, which I felt a bit disappointed about. Once again, the filmmakers have some great references to other franchises. These references make for some great laughs. The jokes in this movie are simple and not too hard to understand, but aren&apos;t childish. This makes the movie a fun ride for child, teenager and adult. As a standalone movie, I feel it lacks world- and character-building. The movie throws characters at you, without (re-)explaining their origins to you. I feel like you are expected to have seen the first movie, because of this. This movie overall does a really good job for people looking for a fun ride. It is far from a bad movie, but there were some possibility&apos;s for it to be a better one.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 75171,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2019-02-08",
+  "keywords": "lego,sequel,queen,spaceship,vampire",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Chris Pratt",
+      "url": "https://www.imdb.com/name/nm0695435/"
+    },
+    {
+      "name": "Elizabeth Banks",
+      "url": "https://www.imdb.com/name/nm0006969/"
+    },
+    {
+      "name": "Will Arnett",
+      "url": "https://www.imdb.com/name/nm0004715/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mike Mitchell",
+      "url": "https://www.imdb.com/name/nm0593610/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Phil Lord",
+      "url": "https://www.imdb.com/name/nm0520488/"
+    },
+    {
+      "name": "Christopher Miller",
+      "url": "https://www.imdb.com/name/nm0588087/"
+    },
+    {
+      "name": "Matthew Fogel",
+      "url": "https://www.imdb.com/name/nm3821363/"
+    }
+  ]
+}

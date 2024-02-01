@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Black Widow",
+  "url": "https://www.imdb.com/tt3480822/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjRmNDI5MjMtMmFhZi00YzcwLWI4ZGItMGI2MjI0N2Q3YmIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "tymoody",
+    "dateCreated": "2021-07-09",
+    "inLanguage": "English",
+    "heading": "Pleasantly Surprised",
+    "reviewBody": "I don&apos;t quite understand the hate the movie is getting. Too many people expected full comic book accuracy with Taskmaster, which would have been hard to accomplish and harder to fit in the story they were trying to tell. I understand the disappointment from fans who expected that full Taskmaster story, but do not think it means that this movie was a flop. Florence Pugh was excellent in the film and the chemistry between her and Scarlett Johansson was great. Good fighting sequences except for parts of the third act where the CGI was very noticeable. Plus that end credit scene was amazing. One of my only complaints is that Marvel stated you wouldn&apos;t need to watch the shows to understand the movies but if you hadn&apos;t seen falcon and the winter solider the end credits may not make a 100 percent sense. At least make it clear the shows are a must watch if you are going to make them necessary to understand certain things. Overall a great movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 417073,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2021-07-07",
+  "keywords": "marvel cinematic universe,superheroine,based on comic book,superhero,spy",
+  "duration": "PT2H14M",
+  "actor": [
+    {
+      "name": "Scarlett Johansson",
+      "url": "https://www.imdb.com/name/nm0424060/"
+    },
+    {
+      "name": "Florence Pugh",
+      "url": "https://www.imdb.com/name/nm6073955/"
+    },
+    {
+      "name": "David Harbour",
+      "url": "https://www.imdb.com/name/nm1092086/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Cate Shortland",
+      "url": "https://www.imdb.com/name/nm0795153/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Eric Pearson",
+      "url": "https://www.imdb.com/name/nm3069408/"
+    },
+    {
+      "name": "Jac Schaeffer",
+      "url": "https://www.imdb.com/name/nm2356614/"
+    },
+    {
+      "name": "Ned Benson",
+      "url": "https://www.imdb.com/name/nm0072600/"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "On the Basis of Sex",
+  "url": "https://www.imdb.com/tt4669788/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzJlYmEwYjEtMmE1Ny00ZjdiLTg2ZjctMmMxYjRhNGJkNTY2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "description": "The true story of Ruth Bader Ginsburg, her struggles for equal rights, and the early cases of a historic career that lead to her nomination and confirmation as U.S. Supreme Court Associate Justice.",
+  "review": {
+    "author": "algeson_j",
+    "dateCreated": "2021-01-17",
+    "inLanguage": "English",
+    "heading": "Speechless",
+    "reviewBody": "The only criticism I can give to this movie really, is that I would have liked more. I would have loved if this was a mini series so we could see more of her life and accomplishments. In other words a brilliant and important film.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 37663,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama"
+  ],
+  "datePublished": "2019-02-22",
+  "keywords": "courtroom,misogyny,judge,teacher,caretaker",
+  "duration": "PT2H",
+  "actor": [
+    {
+      "name": "Felicity Jones",
+      "url": "https://www.imdb.com/name/nm0428065/"
+    },
+    {
+      "name": "Armie Hammer",
+      "url": "https://www.imdb.com/name/nm2309517/"
+    },
+    {
+      "name": "Justin Theroux",
+      "url": "https://www.imdb.com/name/nm0857620/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mimi Leder",
+      "url": "https://www.imdb.com/name/nm0001460/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Daniel Stiepleman",
+      "url": "https://www.imdb.com/name/nm1590589/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Bad Guys",
+  "url": "https://www.imdb.com/tt8115900/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDhkYmU0MzctMWEzNy00ODg1LWI3ZjAtMGZlZjkzNWVmMzVjXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+  "description": "To avoid prison, a gang of notorious animal criminals pretends to seek being rehabilitated, only for their leader to realize that he genuinely wants to change his ways.",
+  "review": {
+    "author": "kakko2",
+    "dateCreated": "2022-05-05",
+    "inLanguage": "English",
+    "heading": "Not Bad for Bad Guys",
+    "reviewBody": "I&apos;ll be honest, The Bad Guys is far from masterpieces like Pixar&apos;s Up, Wall-E, and the plot is rather predictable. But who am I kidding, almost all animations are predictable since they&apos;re made for kids so that shouldn&apos;t be a problem, as long as they&apos;re enjoyable. Fortunately for The Bad Guys, now I wouldn&apos;t say the movie &apos;nailed it&apos;, but it turned out to be pretty decent.\n\nSo the main characters are really likeable (pretty cute I would say), the voice acting is great (Sam Rockwell is wonderful, his voice is just so magnetic. Beetz&apos;s Diane is wonderful too.) Wolf and Fox have an amazing chemistry (I love the pair), and the characters&apos; interactions are executed rather well, the storytelling pace is smooth and the motives are clear and believable, so there won&apos;t be any scenes that feel off, forced or awkward (Except for the opening car chase, that part is over the top, that I agree with Foxinton. And personally I hate this &apos;talking to viewers&apos; thing, movies should be immersive! &apos;Show, not tell.&apos; Isn&apos;t that what you writers prefer?) (I do like the opening scene though, kinda like Pulp Fiction, but in a reletively-terribly-written way. But I don&apos;t blame the writers for this, I mean, they&apos;re not Quentin, are they? It&apos;s just an animation.) Hats off to the writer/director, they&apos;ve done a great job on this.\n\nNow what I like most about The Bad Guys is that it doesn&apos;t try to give a lecture, it doesn&apos;t try to convey any messages (not anything big or meaningful at least, heh.) Disney and Pixar would be like &apos;Ohh! We should add messages into animations, we should teach kids about what&apos;s right and wrong, we should use animations as a way to express our political beliefs.&apos; No, The Bad Guys just tries to entertain people, and it did rather well. I&apos;m not saying that I hate messages in an animation, I love meaningful and educational animations, but only when the story is great. It seems to me that some animations focus on &apos;the big message&apos; so much that they forget the fact that a well-written story should come first. No matter how true or how important your message is, nobody would like your animation if the story is bad. The Bad Guys does a good job on this by not giving any lecture. It knows what it is, it knows it can&apos;t be as good as animations like Inside Out, which is both entertaining and educational, so it chooses to only entertain. And judging by the result, it really did a good job.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 55495,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2022-04-01",
+  "keywords": "wolf,snake,shark,based on children&apos;s book,heist",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Sam Rockwell",
+      "url": "https://www.imdb.com/name/nm0005377/"
+    },
+    {
+      "name": "Marc Maron",
+      "url": "https://www.imdb.com/name/nm0549505/"
+    },
+    {
+      "name": "Awkwafina",
+      "url": "https://www.imdb.com/name/nm5377144/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Pierre Perifel",
+      "url": "https://www.imdb.com/name/nm2010048/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Aaron Blabey",
+      "url": "https://www.imdb.com/name/nm0085109/"
+    },
+    {
+      "name": "Etan Cohen",
+      "url": "https://www.imdb.com/name/nm1000113/"
+    },
+    {
+      "name": "Yoni Brenner",
+      "url": "https://www.imdb.com/name/nm3229505/"
+    }
+  ]
+}

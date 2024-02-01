@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Bad Times at the El Royale",
+  "url": "https://www.imdb.com/tt6628394/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTk1Nzk1MDc1MF5BMl5BanBnXkFtZTgwNjU2NDExNjM@._V1_.jpg",
+  "description": "1969. Four strangers check in at the El Royale Hotel. The hotel is deserted, staffed by a single desk clerk. Some of the new guests&apos; reasons for being there are less than innocent and some are not who they appear to be.",
+  "review": {
+    "author": "Kirpianuscus",
+    "dateCreated": "2019-09-15",
+    "inLanguage": "English",
+    "heading": "special",
+    "reviewBody": "It is a surprising , perfect puzzle. All is familiar. And you feel that more than you know. The build up is incredible, the mix of western, policier, horror and adventure, war and Tarantino, conspiracy theory, few drops of Scorsese and few crumbs of romance are almost incredible. A film admirable crafted. And that - from impecable story to the acting are ingredients defining it as real special.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 162186,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2018-10-12",
+  "keywords": "neo noir,hotel,hotel room,one way mirror,cult leader",
+  "duration": "PT2H21M",
+  "actor": [
+    {
+      "name": "Jeff Bridges",
+      "url": "https://www.imdb.com/name/nm0000313/"
+    },
+    {
+      "name": "Cynthia Erivo",
+      "url": "https://www.imdb.com/name/nm7248827/"
+    },
+    {
+      "name": "Dakota Johnson",
+      "url": "https://www.imdb.com/name/nm0424848/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Drew Goddard",
+      "url": "https://www.imdb.com/name/nm1206844/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Drew Goddard",
+      "url": "https://www.imdb.com/name/nm1206844/"
+    }
+  ]
+}

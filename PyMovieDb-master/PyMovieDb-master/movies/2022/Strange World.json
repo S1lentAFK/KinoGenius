@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Strange World",
+  "url": "https://www.imdb.com/tt10298840/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTE0Y2I1NDUtN2Q1YS00MTdhLTg0OTItZjJhNWJiNTUwYzM5XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+  "description": "The legendary Clades are a family of explorers whose differences threaten to topple their latest and most crucial mission.",
+  "review": {
+    "author": "kate_buckley",
+    "dateCreated": "2022-12-26",
+    "inLanguage": "English",
+    "heading": "I didn&apos;t hate it",
+    "reviewBody": "I didn&apos;t hate this film. I am not sure why this film has received such mixed reviews. It wasn&apos;t the best animated Disney movie but overall I enjoyed it. The story was good, it wasn&apos;t too complicated but it was interesting. The animation was also good, it was very colourful and detailed. I liked all the creatures. It has some laughs and you will recognise the voices of some of the actors. It is only an hour and 47 mins which is a plus (new films are always so long now!). I would recommend, I think children would also enjoy this film. It is a great film for all of the family to enjoy. I am not sure why reviews have to have so many characters now!!!!",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 44451,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2022-11-25",
+  "keywords": "gay child,gay teenager,dog,gay,lgbt",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Jake Gyllenhaal",
+      "url": "https://www.imdb.com/name/nm0350453/"
+    },
+    {
+      "name": "Jaboukie Young-White",
+      "url": "https://www.imdb.com/name/nm7187850/"
+    },
+    {
+      "name": "Gabrielle Union",
+      "url": "https://www.imdb.com/name/nm0005517/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Don Hall",
+      "url": "https://www.imdb.com/name/nm2320658/"
+    },
+    {
+      "name": "Qui Nguyen",
+      "url": "https://www.imdb.com/name/nm5945690/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Qui Nguyen",
+      "url": "https://www.imdb.com/name/nm5945690/"
+    }
+  ]
+}

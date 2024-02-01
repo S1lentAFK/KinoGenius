@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Terminal",
+  "url": "https://www.imdb.com/tt4463816/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmEzOGVmNWQtZDBiMC00OTk4LTg3OWQtMzc2MzgxNjlkY2JjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "description": "A film noir taking place in a train terminal at night. Add two male assassins, a female assassin, a waitress, a teacher, a janitor, and a crime boss. Add revenge. Who says mystery is a lost art?",
+  "review": {
+    "author": "iantrader",
+    "dateCreated": "2018-05-16",
+    "inLanguage": "English",
+    "heading": "Worth watching but not as good as it thinks it is",
+    "reviewBody": "I&apos;ll start with my usual writer/director moan although this isn&apos;t as bad as most, and Vaughn Stein almost pulls it off.\n\nIt&apos;s visually stunning, has some superb actors - Margot Robbie in particular - but the convoluted story-telling style and, indeed, the plot, make it less than it should have been. You&apos;ll have to keep your eyes and ears open and resist the temptation to walk out or switch off 20-30 mins into the movie. The stopy lines do come together, if slightly haphazardly.\n\nThere are some nice twists. One or two you&apos;ll probably have an inkling of. One you won&apos;t as there&apos;s no foreshadowing at all, and although it ties everything (mostly) together, you may well feel cheated as the writer(*/director) swaggers about thinking what a clever writer I am!\n\nStill, immerse yourself in a comic/noir-ish nightmare and see what you think.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 24819,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2018-07-06",
+  "keywords": "revenge,written by director,wager,attempted mugging,unloaded gun",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Margot Robbie",
+      "url": "https://www.imdb.com/name/nm3053338/"
+    },
+    {
+      "name": "Simon Pegg",
+      "url": "https://www.imdb.com/name/nm0670408/"
+    },
+    {
+      "name": "Dexter Fletcher",
+      "url": "https://www.imdb.com/name/nm0002077/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Vaughn Stein",
+      "url": "https://www.imdb.com/name/nm2389363/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Vaughn Stein",
+      "url": "https://www.imdb.com/name/nm2389363/"
+    }
+  ]
+}

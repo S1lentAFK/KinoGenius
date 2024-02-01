@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Cruella",
+  "url": "https://www.imdb.com/tt3228774/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWI5YTUxOWEtZmRiZS00ZmQxLWE2NzctYTRiODA2NzE1ZjczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+  "description": "A live-action prequel feature film following a young Cruella de Vil.",
+  "review": {
+    "author": "vignesh-av24",
+    "dateCreated": "2021-05-28",
+    "inLanguage": "English",
+    "heading": "What a surprise!",
+    "reviewBody": "To be really honest, I had very low positive thoughts about this movie. But, boy was I in for a surprise. Emma Stone is the show stealer. It&apos;s really a fun dark movie. Did expect this from Disney. Loved it!!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 259543,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2021-05-28",
+  "keywords": "female villain,murder,fashion,fashion designer,younger version of character",
+  "duration": "PT2H14M",
+  "actor": [
+    {
+      "name": "Emma Stone",
+      "url": "https://www.imdb.com/name/nm1297015/"
+    },
+    {
+      "name": "Emma Thompson",
+      "url": "https://www.imdb.com/name/nm0000668/"
+    },
+    {
+      "name": "Joel Fry",
+      "url": "https://www.imdb.com/name/nm2181128/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Craig Gillespie",
+      "url": "https://www.imdb.com/name/nm0318916/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dana Fox",
+      "url": "https://www.imdb.com/name/nm1401416/"
+    },
+    {
+      "name": "Tony McNamara",
+      "url": "https://www.imdb.com/name/nm1110111/"
+    },
+    {
+      "name": "Aline Brosh McKenna",
+      "url": "https://www.imdb.com/name/nm0112459/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Army of the Dead",
+  "url": "https://www.imdb.com/tt0993840/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGY0NzgzYzctYWQwMC00MzM2LThjNGMtZjFjMWUyNzg0ZmM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+  "description": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble, venturing into the quarantine zone to pull off the greatest heist ever attempted.",
+  "review": {
+    "author": "shoonyamanaska",
+    "dateCreated": "2021-07-03",
+    "inLanguage": "English",
+    "heading": "Very bad",
+    "reviewBody": "Lazy script, lazy direction, lazy acting and screen play.\n\nIt is difficult to watch complete movie without getting irritated.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 184918,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2021-05-21",
+  "keywords": "zombie,heist,apocalypse,zombie bride,zombie outbreak",
+  "duration": "PT2H28M",
+  "actor": [
+    {
+      "name": "Dave Bautista",
+      "url": "https://www.imdb.com/name/nm1176985/"
+    },
+    {
+      "name": "Ella Purnell",
+      "url": "https://www.imdb.com/name/nm3480246/"
+    },
+    {
+      "name": "Ana de la Reguera",
+      "url": "https://www.imdb.com/name/nm0307143/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Zack Snyder",
+      "url": "https://www.imdb.com/name/nm0811583/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Zack Snyder",
+      "url": "https://www.imdb.com/name/nm0811583/"
+    },
+    {
+      "name": "Shay Hatten",
+      "url": "https://www.imdb.com/name/nm8748334/"
+    },
+    {
+      "name": "Joby Harold",
+      "url": "https://www.imdb.com/name/nm1703612/"
+    }
+  ]
+}

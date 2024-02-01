@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "The Resort",
+  "url": "https://www.imdb.com/tt12163074/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWUzNDRmZDQtMmQ3Yi00YmJiLWFmMGEtNGZjMmFiZjIxYWM1XkEyXkFqcGdeQXVyMTEyNDk3MjY3._V1_.jpg",
+  "description": "Four friends head to Hawaii to investigate reports of a haunting at an abandoned resort in hopes of finding the infamous Half-Faced Girl. When they arrive, they soon learn you should be careful what you wish for.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2022-02-17",
+    "inLanguage": "English",
+    "heading": "abandoned hotel horror",
+    "reviewBody": "Four young adult friends go to an abandoned Hawaiian resort hotel complex reportedly haunted by the urban legend Half-Faced Girl.\n\nMy guess is that they had this place before writing up a plot. This is not a complicated plot. I could do without the hospital scenes which has the survivor problem. I don&apos;t mind the twist but it&apos;s not that interesting. I do like the abandoned hotel at night. It&apos;s very much like urban exploration. Of course, there is the scene where the hot young bods are frolicking at the waterfall. As a horror, it&apos;s rather weak. The filmmaking is poor and the acting is pedestrian.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 3799,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror"
+  ],
+  "datePublished": "2021-07-12",
+  "keywords": "resort,hawaii,birthday,group of friends,urban legend",
+  "duration": "PT1H16M",
+  "actor": [
+    {
+      "name": "Bianca Haase",
+      "url": "https://www.imdb.com/name/nm4944824/"
+    },
+    {
+      "name": "Brock O&apos;Hurn",
+      "url": "https://www.imdb.com/name/nm7341728/"
+    },
+    {
+      "name": "Michael Vlamis",
+      "url": "https://www.imdb.com/name/nm4266732/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Taylor Chien",
+      "url": "https://www.imdb.com/name/nm2442244/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Taylor Chien",
+      "url": "https://www.imdb.com/name/nm2442244/"
+    }
+  ]
+}

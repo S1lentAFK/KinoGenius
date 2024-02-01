@@ -1,0 +1,71 @@
+{
+  "type": "Movie",
+  "name": "Samson",
+  "url": "https://www.imdb.com/tt6951892/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYThiMjg4ZDAtNjk5ZS00ZTUxLThmM2ItMGI0ZTE1NjRhNWNmXkEyXkFqcGdeQXVyNTQ3MjE4NTU@._V1_.jpg",
+  "description": "After losing the love of his life to a cruel Philistine Prince, a young Hebrew with supernatural strength defends his people, sacrificing everything to avenge his love, his people, and God.",
+  "review": {
+    "author": "korevette",
+    "dateCreated": "2018-02-15",
+    "inLanguage": "English",
+    "heading": "Hedy&apos;s Deliaha and Victor&apos;s Samson, still the best combo.",
+    "reviewBody": "They were the epitome of the couple of Bibical times....They did not have the advantage of CGI, and yet was very well done for its time, and the acting as well and the music score, ant the Tecnicolor at its best.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 4909,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama"
+  ],
+  "datePublished": "2018-09-21",
+  "keywords": "biblical,jew,soldier,betrayal,hero",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Taylor James",
+      "url": "https://www.imdb.com/name/nm2837751/"
+    },
+    {
+      "name": "Billy Zane",
+      "url": "https://www.imdb.com/name/nm0000708/"
+    },
+    {
+      "name": "Lindsay Wagner",
+      "url": "https://www.imdb.com/name/nm0905993/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bruce Macdonald",
+      "url": "https://www.imdb.com/name/nm3147478/"
+    },
+    {
+      "name": "Gabriel Sabloff",
+      "url": "https://www.imdb.com/name/nm0754817/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jason Baumgardner",
+      "url": "https://www.imdb.com/name/nm3443044/"
+    },
+    {
+      "name": "Zach Smith",
+      "url": "https://www.imdb.com/name/nm3201041/"
+    },
+    {
+      "name": "Galen Gilbert",
+      "url": "https://www.imdb.com/name/nm2433904/"
+    }
+  ]
+}

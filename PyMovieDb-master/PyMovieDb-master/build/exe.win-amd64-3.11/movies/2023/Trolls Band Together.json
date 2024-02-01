@@ -1,0 +1,72 @@
+{
+  "type": "Movie",
+  "name": "Trolls Band Together",
+  "url": "https://www.imdb.com/tt14362112/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY4MDk2YWUtNWY1My00YjAxLWI4ZGQtMmRhN2FiNDI4NDRjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "jp_91",
+    "dateCreated": "2023-10-27",
+    "inLanguage": "English",
+    "heading": "A passable film that falls below its predecessors.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 9043,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2023-10-20",
+  "keywords": "cgi animation,3d,3 dimensional,cg animation,slimehouse",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Anna Kendrick",
+      "url": "https://www.imdb.com/name/nm0447695/"
+    },
+    {
+      "name": "Justin Timberlake",
+      "url": "https://www.imdb.com/name/nm0005493/"
+    },
+    {
+      "name": "Kenan Thompson",
+      "url": "https://www.imdb.com/name/nm0860380/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Walt Dohrn",
+      "url": "https://www.imdb.com/name/nm0230666/"
+    },
+    {
+      "name": "Tim Heitz",
+      "url": "https://www.imdb.com/name/nm2142520/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Elizabeth Tippet",
+      "url": "https://www.imdb.com/name/nm2533335/"
+    },
+    {
+      "name": "Thomas Dam",
+      "url": "https://www.imdb.com/name/nm8540931/"
+    },
+    {
+      "name": "Kim Caramele",
+      "url": "https://www.imdb.com/name/nm5671708/"
+    }
+  ]
+}

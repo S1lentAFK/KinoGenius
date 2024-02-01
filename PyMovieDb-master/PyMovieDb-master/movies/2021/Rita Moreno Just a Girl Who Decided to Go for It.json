@@ -1,0 +1,54 @@
+{
+  "type": "Movie",
+  "name": "Rita Moreno: Just a Girl Who Decided to Go for It",
+  "url": "https://www.imdb.com/tt10741846/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDI2NTNlYmYtYWI2MC00ZTM2LTkzZjYtNTVhMzc3MmRjNjhlXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+  "description": "A look at the life and work of Rita Moreno from her humble beginnings in Puerto Rico to her success on Broadway and in Hollywood.",
+  "review": {
+    "author": "kellyq12",
+    "dateCreated": "2021-12-13",
+    "inLanguage": "English",
+    "heading": "Entertaining and Heartwarming",
+    "reviewBody": "This documentary is really interesting from a perspective of how Hollywood and films have changed when it comes to rolls for non-white actors. It&apos;s also really inspiring to hear her talk about her general and her outlook on life and how she&apos;s managed to get through very difficult times to arrive at a place where she&apos;s almost 90 and seems happier than ever!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 1002,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Documentary",
+    "Biography"
+  ],
+  "datePublished": "2021-06-18",
+  "keywords": "success",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Rita Moreno",
+      "url": "https://www.imdb.com/name/nm0001549/"
+    },
+    {
+      "name": "Justina Machado",
+      "url": "https://www.imdb.com/name/nm0532461/"
+    },
+    {
+      "name": "Norman Lear",
+      "url": "https://www.imdb.com/name/nm0005131/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mariem Pérez Riera",
+      "url": "https://www.imdb.com/name/nm0702012/"
+    }
+  ],
+  "creator": []
+}

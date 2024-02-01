@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Wire Room",
+  "url": "https://www.imdb.com/tt16527290/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjg5NzI3NWYtOGVmMi00OGQxLTgwNmQtNTcxMzgwMjBhMzg4XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+  "description": "While on wire room duty, a federal agent listens in as the target is attacked in his home by a hit squad. Without burning the wire, he must protect the investigation and the target&apos;s life from the confines of a room fifty miles away.",
+  "review": {
+    "author": "amesmonde",
+    "dateCreated": "2022-09-16",
+    "inLanguage": "English",
+    "heading": "Neither Dillion or Willis can save this.",
+    "reviewBody": "While on wire room duty, a federal agent helps out the target he&apos;s monitoring when they are attacked.\n\nDirector Matt Eskandari offers a bland, flawed fizzled-out film littered with continuity errors and editing issues.\n\nThankfully reliable Kevin Dillon breathes life into Brandon Stiefer screenplay, along with Rhyan D&apos;Errico&apos;s music. Bruce Willis does his hardest to lift the stilted low budget offering above the likes of Anna Nicole Smiths&apos; Die Hard rip off Skyscraper (1996).\n\nWhat could have been in the vein of The Phone Booth, Enemy of the State, Rear Window is so hack-handled and budget tied that it offers nothing of merit aside from CGI blood, smoke and gunshots.\n\nSadly, only worth viewing for Dillion and Willis.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 1450,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Thriller"
+  ],
+  "datePublished": "2022-09-23",
+  "keywords": "investigation,police,gun smuggler,criminal investigation,shootout in an office",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Kevin Dillon",
+      "url": "https://www.imdb.com/name/nm0001143/"
+    },
+    {
+      "name": "Bruce Willis",
+      "url": "https://www.imdb.com/name/nm0000246/"
+    },
+    {
+      "name": "Oliver Trevena",
+      "url": "https://www.imdb.com/name/nm3165541/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Matt Eskandari",
+      "url": "https://www.imdb.com/name/nm1760759/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brandon Stiefer",
+      "url": "https://www.imdb.com/name/nm10242127/"
+    }
+  ]
+}

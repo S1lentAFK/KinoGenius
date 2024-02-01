@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Aladdin",
+  "url": "https://www.imdb.com/tt6139732/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU5MTQ1NTk5N15BMl5BanBnXkFtZTgwNDA4OTE1NjM@._V1_.jpg",
+  "description": "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+  "review": {
+    "author": "niseynisey",
+    "dateCreated": "2020-07-28",
+    "inLanguage": "English",
+    "heading": "Thank goodness for Disney+",
+    "reviewBody": "I listened to people and didn&apos;t watch this when it first came out. I&apos;m so glad I decided to turn this on when I got Disney+. What a fun movie! My niece loves all the colors, dances, and Will Smith&apos;s updated take on the genie!!!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 285924,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2019-05-22",
+  "keywords": "flying carpet,monkey,tiger,parrot,princess",
+  "duration": "PT2H8M",
+  "actor": [
+    {
+      "name": "Will Smith",
+      "url": "https://www.imdb.com/name/nm0000226/"
+    },
+    {
+      "name": "Mena Massoud",
+      "url": "https://www.imdb.com/name/nm4565815/"
+    },
+    {
+      "name": "Naomi Scott",
+      "url": "https://www.imdb.com/name/nm4305463/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Guy Ritchie",
+      "url": "https://www.imdb.com/name/nm0005363/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John August",
+      "url": "https://www.imdb.com/name/nm0041864/"
+    },
+    {
+      "name": "Guy Ritchie",
+      "url": "https://www.imdb.com/name/nm0005363/"
+    }
+  ]
+}

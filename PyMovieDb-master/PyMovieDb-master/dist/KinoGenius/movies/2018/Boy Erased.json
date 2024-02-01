@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Boy Erased",
+  "url": "https://www.imdb.com/tt7008872/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzM2MzU1NTM4NF5BMl5BanBnXkFtZTgwNTMwMzI1NjM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "esmeadows",
+    "dateCreated": "2020-01-01",
+    "inLanguage": "English",
+    "heading": "Not as horrifying as the book",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 41639,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Drama"
+  ],
+  "datePublished": "2019-02-08",
+  "keywords": "conversion therapy,lgbt interest,gay conversion therapy,gay teenager,being outed",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Lucas Hedges",
+      "url": "https://www.imdb.com/name/nm2348627/"
+    },
+    {
+      "name": "Nicole Kidman",
+      "url": "https://www.imdb.com/name/nm0000173/"
+    },
+    {
+      "name": "Joel Edgerton",
+      "url": "https://www.imdb.com/name/nm0249291/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joel Edgerton",
+      "url": "https://www.imdb.com/name/nm0249291/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Garrard Conley",
+      "url": "https://www.imdb.com/name/nm9060471/"
+    },
+    {
+      "name": "Joel Edgerton",
+      "url": "https://www.imdb.com/name/nm0249291/"
+    }
+  ]
+}

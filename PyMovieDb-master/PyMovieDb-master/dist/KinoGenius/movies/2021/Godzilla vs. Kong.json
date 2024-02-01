@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Godzilla vs. Kong",
+  "url": "https://www.imdb.com/tt5034838/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmYzMzU4NjctNDI0Mi00MGExLWI3ZDQtYzQzYThmYzc2ZmNjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+  "description": "The epic next chapter in the cinematic Monsterverse pits two of the greatest icons in motion picture history against each other--the fearsome Godzilla and the mighty Kong--with humanity caught in the balance.",
+  "review": {
+    "author": "fredericktanjaya",
+    "dateCreated": "2021-03-28",
+    "inLanguage": "English",
+    "heading": "Very entertaining but plot is ruining it",
+    "reviewBody": "I love Godzilla, I love Kong. Face to face they fight like there is no tomorrow for one of them. The battle is very entertaining and breathtaking. Visual are the best of all other monster verse by WB.\n\nThe weakness is in the plot and story telling. They should paid a bit more attention on the story and human characters to make them at least interesting.\n\nBattle is 10/10 Story and plot 4/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 231975,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "datePublished": "2021-04-01",
+  "keywords": "monster versus monster,kaiju,godzilla character,king kong character,monsterverse",
+  "duration": "PT1H53M",
+  "actor": [
+    {
+      "name": "Alexander Skarsgård",
+      "url": "https://www.imdb.com/name/nm0002907/"
+    },
+    {
+      "name": "Millie Bobby Brown",
+      "url": "https://www.imdb.com/name/nm5611121/"
+    },
+    {
+      "name": "Rebecca Hall",
+      "url": "https://www.imdb.com/name/nm0356017/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Adam Wingard",
+      "url": "https://www.imdb.com/name/nm1417392/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Terry Rossio",
+      "url": "https://www.imdb.com/name/nm0744429/"
+    },
+    {
+      "name": "Michael Dougherty",
+      "url": "https://www.imdb.com/name/nm1002424/"
+    },
+    {
+      "name": "Zach Shields",
+      "url": "https://www.imdb.com/name/nm1296461/"
+    }
+  ]
+}

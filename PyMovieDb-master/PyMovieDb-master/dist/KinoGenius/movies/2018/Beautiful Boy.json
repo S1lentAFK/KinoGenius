@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "Beautiful Boy",
+  "url": "https://www.imdb.com/tt1226837/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjNhNjVjZDQtMzRhMS00YmI2LTkxZmEtMDdkMWU3OWQ2NjNmXkEyXkFqcGdeQXVyODE1MjMyNzI@._V1_.jpg",
+  "description": "Based on the best-selling pair of memoirs from father and son David and Nic Sheff, Beautiful Boy chronicles the heartbreaking and inspiring experience of survival, relapse and recovery in a family coping with addiction over many y...",
+  "review": {
+    "author": "TxMike",
+    "dateCreated": "2019-05-16",
+    "inLanguage": "English",
+    "heading": "Teenagers and drug addiction, based on real people, late 1990s.",
+    "reviewBody": "I managed to view this movie on Amazon streaming. Carell seems mostly known for his comedic work but shows again that he is even better in a straight dramatic role, here as the father who loves his teenage son but finally comes to grips that he can&apos;t save him from his drug addiction. The boy must save himself.\n\nGood performances all around, it is hard to watch at times because we know that often a young man or young woman in fact fails to overcome the addiction and dies very young. In fact in the USA for those under 50 drug use is the most common cause of death. The problem with many teens, going through puberty and high school years, is they want to experiment but experimenting with drugs is a very dangerous thing. No matter how the parents raise them some will always go there, it is sad.\n\nThis movie, mostly based on the true story, shows that vividly.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 94644,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Drama"
+  ],
+  "datePublished": "2019-01-18",
+  "keywords": "drug addict,addiction,based on memoir,father son relationship,mother son relationship",
+  "duration": "PT2H",
+  "actor": [
+    {
+      "name": "Steve Carell",
+      "url": "https://www.imdb.com/name/nm0136797/"
+    },
+    {
+      "name": "Maura Tierney",
+      "url": "https://www.imdb.com/name/nm0005491/"
+    },
+    {
+      "name": "Jack Dylan Grazer",
+      "url": "https://www.imdb.com/name/nm6244013/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Felix van Groeningen",
+      "url": "https://www.imdb.com/name/nm0886976/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Luke Davies",
+      "url": "https://www.imdb.com/name/nm1729294/"
+    },
+    {
+      "name": "Felix van Groeningen",
+      "url": "https://www.imdb.com/name/nm0886976/"
+    },
+    {
+      "name": "David Sheff",
+      "url": "https://www.imdb.com/name/nm2997310/"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Captive State",
+  "url": "https://www.imdb.com/tt5968394/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgyNjU0NTAxOV5BMl5BanBnXkFtZTgwNTc4MDIzNjM@._V1_.jpg",
+  "description": "Set in a Chicago neighborhood nearly a decade after an occupation by an extraterrestrial force, &apos;Captive State&apos; explores the lives on both sides of the conflict - the collaborators and dissidents.",
+  "review": {
+    "author": "FrenchEddieFelson",
+    "dateCreated": "2019-04-05",
+    "inLanguage": "English",
+    "heading": "Beware of Greeks bearing gifts",
+    "reviewBody": "A powerful alien invasion. A surrender to avoid an ineluctable annihilation. The whole humanity under alien domination.\n\nAfter this quick introduction, we elliptically switch nine years later, without really understanding how the human/alien cohabitation works. But this is definitely unimportant. Captive State (2019) is indeed a suspenseful thriller full of undercover agents, spies, policemen and a few aliens, with a profoundly dark and hardly optimistic atmosphere. The story takes place in Chicago in the near future and that, in some respects, looks like Paris, between June 14, 1940 and August 24, 1944, with resistance fighters and collaborators, and with aliens instead of German soldiers.\n\nThus, Captive State (2019) is obviously not an action/war movie, in a science-fiction context. And absolutely not a pop corn movie! The actors (especially John Goodman), the photography, the special effects, the atmosphere, ... that&apos;s heavy! Nevertheless, the script is a bit messy. We must wait for the very last scene in order to stick the pieces back together and have a global picture. The making is sometimes clumsy which may confuse the audience. Besides, some people left the movie theater during the screening I attended. Personally, it took me a while to understand and appreciate this story. Slightly frustrating.\n\nAs a synthesis: 6/7 of 10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 56967,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "datePublished": "2021-03-08",
+  "keywords": "resistance,alien invasion,dystopia,near future,police",
+  "duration": "PT1H49M",
+  "actor": [
+    {
+      "name": "John Goodman",
+      "url": "https://www.imdb.com/name/nm0000422/"
+    },
+    {
+      "name": "Ashton Sanders",
+      "url": "https://www.imdb.com/name/nm5480894/"
+    },
+    {
+      "name": "Jonathan Majors",
+      "url": "https://www.imdb.com/name/nm3718007/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rupert Wyatt",
+      "url": "https://www.imdb.com/name/nm1012501/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Erica Beeney",
+      "url": "https://www.imdb.com/name/nm0066464/"
+    },
+    {
+      "name": "Rupert Wyatt",
+      "url": "https://www.imdb.com/name/nm1012501/"
+    }
+  ]
+}
