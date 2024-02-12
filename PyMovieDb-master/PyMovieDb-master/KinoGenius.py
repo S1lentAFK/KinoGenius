@@ -9,6 +9,9 @@ import time
 from PIL import Image, ImageTk, ImageFilter, ImageSequence
 import requests
 from io import BytesIO
+
+from PIL import ImageDraw
+
 from fuzzywuzzy import fuzz
 from tkinter import filedialog
 prikaz = False
@@ -23,6 +26,12 @@ selected_genres = []
 genre_buttons = {}
 
 
+def destroy_all_windows_and_exit():
+    for window in root.winfo_children():
+        if isinstance(window, tk.Toplevel):
+            window.destroy()
+    root.destroy()
+    root.quit()
 
 def save_user_info(username, password, genres):
     account_folder = "accounts"
@@ -124,31 +133,17 @@ def register():
         messagebox.showerror("Registration Failed", "Username already exists or an error occurred")
 
 
+import tkinter as tk
+from PIL import Image, ImageTk
+import customtkinter
+
 
 class MovieRecommendationsWidget(customtkinter.CTkFrame):
-    def __init__(self, master, movies):
+    def __init__(self, master, movie):
         super().__init__(master)
-
 
         button_width = 200
         button_height = 250
-
-
-        for i, movie in enumerate(movies):
-
-            row = i // 3
-            col = i % 3
-
-            self.display_movie(movie, row, col, button_width, button_height)
-
-
-        self.grid(row=0, column=0, sticky="nsew")
-        self.master.grid_rowconfigure(0, weight=1)
-        self.master.grid_columnconfigure(0, weight=1)
-
-    def display_movie(self, movie, row, col, button_width, button_height):
-
-
 
         movie_name = movie["name"]
         movie_rating = movie["rating"]["ratingValue"]
@@ -158,73 +153,67 @@ class MovieRecommendationsWidget(customtkinter.CTkFrame):
 
         Image.MAX_IMAGE_PIXELS = 200000000000
 
-
-
-
         response = requests.get(movie_poster_url)
         poster_image = Image.open(BytesIO(response.content))
+
+        # Apply roundish edges
+        poster_image = self.round_corners(poster_image, radius=60)
+
         poster_image = poster_image.resize((int(button_width * 0.8), int(button_height * 0.8)))
-
-
 
         tk_image = customtkinter.CTkImage(light_image=poster_image, size=(button_width, button_height))
 
-
         def show_details():
-
             toplevel = customtkinter.CTkToplevel(self.master)
             toplevel.title(movie_name)
 
-
             image_label = customtkinter.CTkLabel(toplevel, image=tk_image, text="")
-            image_label.pack(padx=10, pady=5)
+            image_label.pack(side="left", padx=10, pady=5)
 
+            details_frame = customtkinter.CTkFrame(toplevel)
+            details_frame.pack(side="right", padx=10, pady=5, fill="both", expand=True)
 
-            details_label = customtkinter.CTkLabel(toplevel, text=f"{movie_name} - Rating: {movie_rating} - Genres: {movie_genres}")
+            details_label = customtkinter.CTkLabel(details_frame,
+                                                   text=f"{movie_name} - Rating: {movie_rating} - Genres: {movie_genres}")
             details_label.pack(pady=5, anchor="w")
 
-
-            json_label = customtkinter.CTkLabel(toplevel, text=movie_json, wraplength=400, justify="left", anchor="w")
+            json_label = customtkinter.CTkLabel(details_frame, text=movie_json, wraplength=400, justify="left",
+                                                anchor="w")
             json_label.pack(pady=5, padx=10, anchor="w")
 
-        selected_genre = selected_genres[0] if selected_genres else ""
+        recommendation_label = customtkinter.CTkLabel(self, text=movie_name, font=("Roboto", 24, "bold"))
+        recommendation_label.pack(padx=10, pady=5)
+        recommendation_frame = customtkinter.CTkFrame(self)
+        recommendation_frame.pack(fill="both", expand=True, padx=10, pady=5)
+        image_label = customtkinter.CTkLabel(recommendation_frame, image=tk_image, text="")
+        image_label.pack(side="left", padx=10, pady=10)
+        button = customtkinter.CTkButton(recommendation_frame, text="Pogledaj\nviše", command=show_details)
+        button.pack(side="right", fill="y", padx=10, pady=10)
 
-        # Check if the movie's genre matches the user-selected genre
-        if selected_genre in movie['genre']:
-            # Display the recommended genre as the text of the button
-            button_text = f"{movie_name}\nRecommended: {selected_genre}"
-        else:
-            button_text = movie_name
+    def round_corners(self, image, radius):
+        mask = Image.new("L", image.size, 0)
+        draw = ImageDraw.Draw(mask)
+        draw.rounded_rectangle((0, 0, image.width, image.height), radius, fill=255)
+        result = Image.new("RGBA", image.size)
+        result.paste(image, (0, 0), mask)
+        return result
 
-        button = customtkinter.CTkButton(self, text=button_text, image=tk_image, compound=tk.TOP, command=show_details)
-        button.configure(width=button_width, height=button_height)
-        button.grid(row=row, column=col, padx=10, pady=5)
 
 def recommend_movies_and_display(user_genres):
-
-
     all_movies = load_movies()
-
-
     matching_movies = [movie for movie in all_movies if any(genre in movie["genre"] for genre in user_genres)]
-
-
     sorted_movies = sorted(matching_movies, key=lambda x: x["rating"]["ratingValue"] if x["rating"]["ratingValue"] is not None else 0, reverse=True)
-
-
     top_movies = sorted_movies[:10]
 
-
-    movie_recommendations_widget = MovieRecommendationsWidget(movie_frame, top_movies)
-    movie_recommendations_widget.pack(fill="both", expand=True, pady=12, padx=15)
-
+    for movie in top_movies:
+        movie_recommendations_widget = MovieRecommendationsWidget(movie_frame, movie)
+        movie_recommendations_widget.pack(fill="both", expand=True, pady=12, padx=15)
 
 
 def recommend_movies(user_genres):
-
-
     recommend_movies_and_display(user_genres)
     root3.deiconify()
+
 
 
 
@@ -412,6 +401,7 @@ root.withdraw()
 customtkinter.set_appearance_mode("dark")
 customtkinter.set_default_color_theme("dark-blue")
 customtkinter.deactivate_automatic_dpi_awareness()
+root.protocol("WM_DELETE_WINDOW", destroy_all_windows_and_exit)  # Add this line
 
 loginreg = customtkinter.CTkToplevel(root)
 loginreg.title("login/registracija")
@@ -420,6 +410,8 @@ frmreg = customtkinter.CTkFrame(loginreg)
 
 frmlog.pack()
 loginreg.withdraw()
+
+loginreg.protocol("WM_DELETE_WINDOW", destroy_all_windows_and_exit)
 
 
 
@@ -569,7 +561,8 @@ root2 = customtkinter.CTkToplevel(root)
 root2.title("Load JSON Files")
 root2.geometry("600x400")
 root2.resizable(False, False)
-root2.protocol("WM_DELETE_WINDOW", root2.destroy)
+root2.protocol("WM_DELETE_WINDOW", destroy_all_windows_and_exit)  # Add this line
+
 
 screen_width = root2.winfo_screenwidth()
 screen_height = root2.winfo_screenheight()
@@ -603,6 +596,8 @@ root3 = customtkinter.CTkToplevel(root)
 root3.title("KinoGenius")
 root3.geometry("1000x800")
 root3.withdraw()
+root3.protocol("WM_DELETE_WINDOW", destroy_all_windows_and_exit)  # Add this line
+
 
 tabview = customtkinter.CTkTabview(root3)
 tabview.pack(fill="both", expand=True, pady=12, padx=15)
