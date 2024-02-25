@@ -26,7 +26,7 @@ username_user = ""
 ct = 0
 
 #MongoDB baza podataka s filmovima
-client = MongoClient("mongodb+srv://francesljas:Fran2008.@cluster0.zadaprp.mongodb.net/?retryWrites=true&w=majority")
+client = MongoClient("#")
 db = client['DBMoovies']
 moovies = db['Moovies']
 
@@ -969,7 +969,7 @@ def select_genres():
     picked_gen.pack(pady=12, padx=12, fill="both", expand=True)
 
 
-    submit_button = customtkinter.CTkButton(pick, text="Submit", font=(("Roboto", 20, "bold")), command=submit_genres)
+    submit_button = customtkinter.CTkButton(pick, text="Potvrdi", font=(("Roboto", 20, "bold")), command=submit_genres)
     submit_button.pack(side="bottom", fill="both", padx=10, pady=12)
 
 
