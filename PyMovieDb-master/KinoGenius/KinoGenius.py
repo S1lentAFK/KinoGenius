@@ -1,7 +1,6 @@
 import re
 import tkinter as tk
 from tkinter import messagebox, ttk
-
 import PIL
 import requests
 import json
@@ -15,30 +14,30 @@ from io import BytesIO
 from googletrans import Translator
 from PIL import ImageDraw
 from openai import OpenAI
-
-
 from pymongo import MongoClient
 import webbrowser
-
 import datetime
-
 from fuzzywuzzy import fuzz
 from tkinter import filedialog
+
 prikaz = False
 
 username_user = ""
 ct = 0
 
+#MongoDB baza podataka s filmovima
 client = MongoClient("mongodb+srv://francesljas:Fran2008.@cluster0.zadaprp.mongodb.net/?retryWrites=true&w=majority")
 db = client['DBMoovies']
 moovies = db['Moovies']
 
+#Lokalni fileovi s filmovima
 base_path = r'movies'
 years = ['2000','2001','2002','2003','2004','2005','2006','2007','2008','2009','2010','2011','2012','2013','2014',
          '2015','2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023']
 directories = [os.path.join(base_path, year) for year in years]
 
-client = OpenAI(api_key='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')
+#Korištenje OpenAI api-a
+client = OpenAI(api_key='#')
 
 selected_genres = []
 genre_buttons = {}
@@ -52,6 +51,7 @@ def destroy_all_windows_and_exit():
     root.destroy()
     root.quit()
 
+#spremljanje korisnika
 def save_user_info(username, password, genres):
     account_folder = "accounts"
 
@@ -70,6 +70,7 @@ def save_user_info(username, password, genres):
     with open(user_file_path, 'w', encoding='utf-8') as user_file:
         json.dump(user_info, user_file)
 
+#Prijava
 def login():
     global username_user
     username = entry_username.get()
@@ -85,9 +86,8 @@ def login():
             user_id = user_data.get('user_id')
             genres = user_data.get('genres')
             if user_id and genres:
-                messagebox.showinfo("Login Successful", f"Welcome, User ID: {user_id}, Genres: {genres}")
+                #messagebox.showinfo("Login Successful", f"Dobordošao, User ID: {user_id}, Žanrovi: {genres}")
                 loginreg.withdraw()
-                print("1")
                 recommend_movies(genres)
                 more_button = customtkinter.CTkButton(movie_frame, text="Učitaj još",
                                                       command=lambda: recommend_more_movies(genres))
@@ -95,13 +95,13 @@ def login():
                 select_and_send_genres(user_id, genres)
                 save_user_info(username, password, genres)
             else:
-                messagebox.showerror("Login Failed", "Invalid response from the server")
+                messagebox.showerror("Login Failed", "Neispravan odgovor servera!")
         except json.JSONDecodeError:
-            messagebox.showerror("Login Failed", "Invalid JSON response from the server")
+            messagebox.showerror("Login Failed", "Neispravan JSON odgovor servera!")
     else:
-        messagebox.showerror("Login Failed", "Invalid username or password")
-        print(response.content)
+        messagebox.showerror("Login Failed", "Neispravno korisničko ime ili lozinka!")
 
+#Također prijava
 def poslogin():
     global username_user
     root3.withdraw()
@@ -118,25 +118,25 @@ def poslogin():
             user_id = user_data.get('user_id')
             genres = user_data.get('genres')
             if user_id and genres:
-                messagebox.showinfo("Login Successful", f"Welcome, User ID: {user_id}, Genres: {genres}")
-                print("2")
+                #messagebox.showinfo("Login Successful", f"Dobordošao, User ID: {user_id}, Žanrovi: {genres}")
                 recommend_movies(genres)
                 more_button = customtkinter.CTkButton(movie_frame, text="Učitaj još",
                                                       command=lambda: recommend_more_movies(genres))
                 more_button.pack(pady=10, padx=10, side="bottom")
                 select_and_send_genres(user_id, genres)
             else:
-                messagebox.showerror("Login Failed", "Invalid response from the server")
+                messagebox.showerror("Login Failed", "Neispravan odgovor servera!")
         except json.JSONDecodeError:
-            messagebox.showerror("Login Failed", "Invalid JSON response from the server")
+            messagebox.showerror("Login Failed", "Neispravan JSON odgovor servera!")
     else:
-        messagebox.showerror("Login Failed", "Invalid username or password")
-        print(response.content)
+        messagebox.showerror("Login Failed", "Neispravno korisničko ime ili lozinka!")
     loginreg.withdraw()
 
 def preregister():
     frmlog.pack_forget()
     frmreg.pack()
+
+#Registracija
 def register():
     global username_user
     frmlog.pack_forget()
@@ -159,19 +159,18 @@ def register():
     response = requests.post("http://16.170.246.163/register", json={"username": username, "password": password, "genres": selected_genres})
 
     if response.status_code == 200:
-        messagebox.showinfo("Registration Successful", "You can now login.")
-        print("3")
+        #messagebox.showinfo("Registration Successful", "Sada se možete ulogirati.")
         poslogin()
         root3.deiconify()
     else:
-        messagebox.showerror("Registration Failed", "Username already exists or an error occurred")
+        messagebox.showerror("Registration Failed", "Korisničko ime već postoji ili je došlo do pogreške!")
 
 
 
 from PIL import Image, ImageTk
 import customtkinter
 
-
+#Glavni dio ovoga projekta, class koji prikazuje sveukupni prijedlog
 class MovieRecommendationsWidget(customtkinter.CTkFrame):
     def __init__(self, master, movie):
         super().__init__(master)
@@ -278,6 +277,8 @@ class MovieRecommendationsWidget(customtkinter.CTkFrame):
                 poster_image = Image.open("Assets/Images/Miscellaneous/Skyfall.jpg")
             elif movie_name == "The Lord of the Rings: The Fellowship of the Ring":
                 poster_image = Image.open("Assets/Images/Miscellaneous/Lord-of-the-rings.jpg")
+            elif movie_name == "Top Gun: Maverick":
+                poster_image = Image.open("Assets/Images/Miscellaneous/Top Gun Maverick.jpg")
             else:
                 poster_image = Image.open("Assets/Images/Miscellaneous/unknown.png")
 
@@ -436,6 +437,7 @@ class MovieRecommendationsWidget(customtkinter.CTkFrame):
 
             check()
 
+        #Korištenje OpenAI-a za dobivanje opisa
         def get_description(movie_name):
             description_prompt = f"Opiši mi navedeni film na hrvatskom jeziku i u dvije rečenice: {movie_name}"
 
@@ -479,7 +481,7 @@ class MovieRecommendationsWidget(customtkinter.CTkFrame):
         recommended.append(movie_name)
 
 
-
+    #uređivanje slika
     def round_corners(self, image, radius):
         mask = Image.new("L", image.size, 0)
         draw = ImageDraw.Draw(mask)
@@ -488,12 +490,12 @@ class MovieRecommendationsWidget(customtkinter.CTkFrame):
         result.paste(image, (0, 0), mask)
         return result
 
+#prikazivanje prijedloga
 def recommend_movies_and_display(user_genres, offset=0, count=5):
     all_movies = load_movies()
     matching_movies = [movie for movie in all_movies if any(genre in movie["genre"] for genre in user_genres)]
     sorted_movies = sorted(matching_movies, key=lambda x: x["rating"]["ratingValue"] if x["rating"]["ratingValue"] is not None else 0, reverse=True)
     top_movies = sorted_movies[offset:offset+count]
-    print(top_movies)
 
     for movie in top_movies:
         if movie["name"] in recommended:
@@ -502,21 +504,25 @@ def recommend_movies_and_display(user_genres, offset=0, count=5):
             movie_recommendations_widget = MovieRecommendationsWidget(movie_frame, movie)
             movie_recommendations_widget.pack(fill="both", expand=True, pady=12, padx=15)
 
+#funkcija služi za pozivanje prošle i za sakrivanje glavnog prozora
 def recommend_movies(user_genres):
     recommend_movies_and_display(user_genres)
     root3.deiconify()
 
 offset = 0
 
+#funkicja za tipku koja daje još prijedloga
 def recommend_more_movies(genres):
     global offset
     offset += 5
     recommend_movies_and_display(genres, offset=offset)
 
+#pretraživanje baze podataka
 def search_movies(query):
     results = moovies.find({"name": {"$regex": query, "$options": "i"}})
     return list(results)
 
+#prikazivanje rezultata u ttk.treeview-u
 search_treeview = None
 def display_search_results(results):
     global search_treeview
@@ -539,11 +545,10 @@ def display_search_results(results):
     def on_double_click(event):
         item = search_treeview.selection()[0]
         movie_index = int(search_treeview.item(item, "text"))
-        print("Selected movie index:", movie_index)
         if 0 <= movie_index < len(results):
             show_movie_details(results[movie_index])
         else:
-            print("Invalid movie index")
+            pass
 
     for index, movie in enumerate(results):
         name = movie.get("name", "")
@@ -556,7 +561,7 @@ def display_search_results(results):
 
 search_results = []
 
-
+#funkicja koja prikazuje rezultate i sortira ih
 def perform_search(query):
     results = search_movies(query)
 
@@ -571,7 +576,7 @@ def perform_search(query):
         no_results_label.pack(pady=10)
 
 
-
+#pozivanje funkcije za pretraživanje
 def on_search(event=None):
     query = entry_search.get().strip()
 
@@ -605,20 +610,39 @@ def on_search(event=None):
     loading_label = customtkinter.CTkLabel(search_frame.tree_frame, text="Pretraživanje...", font=("Roboto", 14))
     loading_label.pack(pady=10)
 
+    def update_loading_label(loading_sequence=0):
+        if loading_sequence == 0:
+            loading_label.configure(text="Pretraživanje")
+
+        elif loading_sequence == 1:
+            loading_label.configure(text="Pretraživanje .")
+
+        elif loading_sequence == 2:
+            loading_label.configure(text="Pretraživanje . .")
+
+        elif loading_sequence == 3:
+            loading_label.configure(text="Pretraživanje . . .")
+
+        next_loading_sequence = (loading_sequence + 1) % 4
+
+        search_frame.tree_frame.after(200, update_loading_label, next_loading_sequence)
+
+
     if hasattr(on_search, "_after_id"):
         root.after_cancel(on_search._after_id)
+        update_loading_label(0)
 
     on_search._after_id = root.after(3000, lambda: perform_search(query))
 
 
-
+#obnavljanje widget-a ttk.treeview
 def update_search_results():
     for widget in search_frame.winfo_children():
         widget.destroy()
 
     display_search_results(search_results)
 
-
+#prikazivanje detalja za filmove unutar ttk.treeview-a
 def show_movie_details(movie):
     root3.withdraw()
     translator = Translator()
@@ -716,6 +740,8 @@ def show_movie_details(movie):
             poster_image = Image.open("Assets/Images/Miscellaneous/Skyfall.jpg")
         elif movie_name == "The Lord of the Rings: The Fellowship of the Ring":
             poster_image = Image.open("Assets/Images/Miscellaneous/Lord-of-the-rings.jpg")
+        elif movie_name == "Top Gun: Maverick":
+            poster_image = Image.open("Assets/Images/Miscellaneous/Top Gun Maverick.jpg")
         else:
             poster_image = Image.open("Assets/Images/Miscellaneous/unknown.png")
     poster_image = round_corners(poster_image, radius=60)
@@ -880,20 +906,21 @@ def round_corners(image, radius):
     result.paste(image, (0, 0), mask)
     return result
 
-
+#dio funkcija koje služe za postavljanje profila
 def select_and_send_genres(user_id, genres):
     response = requests.post("http://16.170.246.163/update_genres", json={"user_id": user_id, "genres": genres})
 
     try:
         response_data = response.json()
         if response_data.get("user_id") and response_data.get("genres"):
-            messagebox.showinfo("Genres Updated", f"Genres updated successfully. User ID: {response_data['user_id']}, Genres: {response_data['genres']}")
-            print("4")
+            pass
+            #messagebox.showinfo("Genres Updated", f"Žanrovi uspješno obnovljeni. User ID: {response_data['user_id']}, Žanrovi: {response_data['genres']}")
         else:
-            messagebox.showerror("Update Failed", "Invalid response from the server")
+            messagebox.showerror("Update Failed", "Neispravan odgovor servera!")
     except json.JSONDecodeError:
-        messagebox.showerror("Update Failed", "Invalid JSON response from the server")
+        messagebox.showerror("Update Failed", "Neispravan JSON odgovor servera!")
 
+#sveukupno biranje žanrova za korisnika
 def select_genres():
     def submit_genres():
         pick.destroy()
@@ -927,7 +954,6 @@ def select_genres():
     gen.configure(height=gen_height)
 
 
-    print("Available Genres:")
     genres = [
         "Fantasy", "Animation", "Sport", "Romance", "Comedy", "Thriller", "Musical",
         "Adventure", "War", "Documentary", "Horror", "Drama", "Action", "Sci-Fi",
@@ -937,7 +963,7 @@ def select_genres():
         genre_buttons[genre] = customtkinter.CTkButton(gen, text=genre, font=(("Roboto", 16, "bold")), command=lambda g=genre: on_genre_button_click(g))
         genre_buttons[genre].grid(row=0, column=genres.index(genre), padx=5)
     for genre in genres:
-        print(genre)
+        pass
 
     picked_gen = customtkinter.CTkScrollableFrame(pick)
     picked_gen.pack(pady=12, padx=12, fill="both", expand=True)
@@ -954,7 +980,7 @@ def select_genres():
     return selected_genres
 
 
-
+#učitavanje filmova kako bi program mogao davati prijedloge
 def load_movies():
     base_path = r'movies'
     years = ['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012',
@@ -977,18 +1003,21 @@ def load_movies_from_directory(directory):
                 movies.append(movie_data)
     return movies
 
+#prikaz passworda
 def hide():
     if check.get() == "on":
         entry_password.configure(show="")
     else:
         entry_password.configure(show="*")
 
+#prikaz passworda
 def hide2():
     if check.get() == "on":
         entry_password2.configure(show="")
     else:
         entry_password2.configure(show="*")
 
+#Glavni GUI
 
 root = customtkinter.CTk()
 root.title("KinoGenius")
@@ -1008,9 +1037,7 @@ loginreg.withdraw()
 
 loginreg.protocol("WM_DELETE_WINDOW", destroy_all_windows_and_exit)
 
-
-
-
+#prijava i registracija
 label_username = customtkinter.CTkLabel(frmlog, text="Username:")
 label_password = customtkinter.CTkLabel(frmlog, text="Password:")
 entry_username = customtkinter.CTkEntry(frmlog)
@@ -1053,18 +1080,18 @@ ost2.grid(row=0, column=2, pady=10, padx = 12)
 chck2.grid(row=1, column=2, pady=10, padx = 12)
 button_register2.grid(row=2, column=1, pady=10, padx = 12)
 
+#prikazivanje dostupnih profila
 def load_json_file(file_path):
 
     if file_path == "+":
-        print("Special case for the '+' button")
+        pass
     else:
         with open(file_path, 'r') as json_file:
             data = json.load(json_file)
             username = data.get('username', 'Unknown')
-            print(f"Loading JSON file: {file_path}, Username: {username}")
 
 
-
+#animacije za tipke
 def on_hover(event, button, label, username):
     threading.Thread(target=lambda: grow_button(button)).start()
     label.configure(text=username)
@@ -1097,6 +1124,7 @@ def plus():
     root2.withdraw()
     loginreg.deiconify()
 
+#prikazivanje dostupnih korisnika
 def create_button_for_json(file_path, column):
     font_style = ("Roboto", 30, "bold")
 
@@ -1113,7 +1141,7 @@ def create_button_for_json(file_path, column):
             data = json.load(json_file)
             username = data.get('username', 'Unknown')
             username_user = username
-
+            #ulogiravanje izabranog korisnika
             def login_user():
                 login_with_credentials(username, data.get('password', ''))
 
@@ -1125,7 +1153,7 @@ def create_button_for_json(file_path, column):
             button.bind("<Leave>", lambda event, btn=button, lbl=label: on_leave(event, btn, lbl))
 
 
-
+#ulogiravanje izabranog korisnika
 def login_with_credentials(username, password):
 
     root2.withdraw()
@@ -1137,9 +1165,7 @@ def login_with_credentials(username, password):
             user_id = user_data.get('user_id')
             genres = user_data.get('genres')
             if user_id and genres:
-                messagebox.showinfo("Login Successful", f"Welcome, User ID: {user_id}, Genres: {genres}")
-                print("5")
-
+                #messagebox.showinfo("Login Successful", f"Dobrodošao, User ID: {user_id}, Žanrovi: {genres}")
                 recommend_movies(genres)
                 more_button = customtkinter.CTkButton(movie_frame, text="Učitaj još",
                                                       command=lambda: recommend_more_movies(genres))
@@ -1147,13 +1173,13 @@ def login_with_credentials(username, password):
                 select_and_send_genres(user_id, genres)
                 save_user_info(username, password, genres)
             else:
-                messagebox.showerror("Login Failed", "Invalid response from the server")
+                messagebox.showerror("Login Failed", "Neispravan odgovor servera!")
         except json.JSONDecodeError:
-            messagebox.showerror("Login Failed", "Invalid JSON response from the server")
+            messagebox.showerror("Login Failed", "Neispravan JSON odgovor servera!")
     else:
-        messagebox.showerror("Login Failed", "Invalid username or password")
-        print(response.content)
+        messagebox.showerror("Login Failed", "Neispravno koriničko ime ili lozinka!")
 
+#Učitavanje postavaka
 with open("Assets/Settings/settings.json", "r") as file:
     data = json.load(file)
 theme = data["theme"]
@@ -1161,6 +1187,7 @@ with open("Assets/Settings/settings2.json", "r") as file:
     data2 = json.load(file)
 color_theme = data2["color_theme"]
 
+#prikazivanje korisnika i postavaka
 def show_profile_details():
     global theme
     global color_theme
@@ -1183,6 +1210,7 @@ def show_profile_details():
         save_settings_color({"color_theme": color_theme})
         for button, state in button_states.items():
             button.configure(state=state)
+        messagebox.showinfo("Promjena", "Vaša boja će se promjeniti nakon ponovnog pokretanja programa!")
 
     def set_dark_theme():
         set_theme("dark", {
@@ -1309,6 +1337,7 @@ def show_profile_details():
 customtkinter.set_appearance_mode(theme)
 customtkinter.set_default_color_theme(color_theme)
 
+#prozor za biranje profila
 root2 = customtkinter.CTkToplevel(root)
 root2.title("Biranje Profila")
 root2.geometry("600x400")
@@ -1344,13 +1373,14 @@ for i, json_file in enumerate(json_files):
     json_file_path = os.path.join(json_directory, json_file)
     create_button_for_json(json_file_path, i + 1)
 
+#glavni prozor
 root3 = customtkinter.CTkToplevel(root)
 root3.title("KinoGenius")
 root3.geometry("1000x800")
 root3.withdraw()
 root3.protocol("WM_DELETE_WINDOW", destroy_all_windows_and_exit)
 
-
+#tabview koji prikazuje 3 tab-a
 tabview = customtkinter.CTkTabview(root3)
 tabview.pack(fill="both", expand=True, pady=12, padx=15)
 
@@ -1383,6 +1413,7 @@ account_button3 = customtkinter.CTkButton(tab_3, text="👤", font=("Roboto", 32
                                           command=show_profile_details, bg_color="transparent")
 account_button3.place(x=0, y=0)
 
+#svi filmovi "popularnih žanrova"
 SCI_FI_label = customtkinter.CTkLabel(francises, text="SCI-FI", font=("Roboto", 29, "bold"))
 SCI_FI_label.pack(pady=25, padx=25)
 
@@ -1532,8 +1563,19 @@ conjuring_button = customtkinter.CTkButton(francises, text="", image=ctk_conjuri
 conjuring_button.pack(pady=12, padx=10)
 francises2 = customtkinter.CTkScrollableFrame(tab_3)
 prefrancises2 = customtkinter.CTkFrame(tab_3)
+gif_path = r"Assets/Images/Animation-gif/Loading.gif"
+gif = Image.open(gif_path)
+
+gif_frames = [customtkinter.CTkImage(light_image=frame.convert("RGBA"), dark_image=frame.convert("RGBA"), size=(400, 400)) for frame in ImageSequence.Iterator(gif)]
+
+gif_label = customtkinter.CTkLabel(prefrancises2, text="")
+gif_label.pack()
 loading_label = customtkinter.CTkLabel(prefrancises2, text="Učitavanje. . .", font=("Roboto", 29, "bold"))
 loading_label.pack()
+#animacija učitavanja
+def update_gif(frame_num=0):
+    gif_label.configure(image=gif_frames[frame_num])
+    prefrancises2.after(50, update_gif, (frame_num + 1) % len(gif_frames))
 def update_loading_label(loading_sequence=0):
     if loading_sequence == 0:
         loading_label.configure(text="Učitavanje")
@@ -1559,7 +1601,7 @@ def delete_all(frame2, frame1):
     account_button3.place(x=0, y=0)
 
 
-
+#prikazivanje filmova za "popularne franšize"
 def francisescom(movies):
     account_button3.place_forget()
     francises.pack_forget()
@@ -1576,7 +1618,9 @@ def francisescom(movies):
 
 
 def start_loading():
+    loading_thread = threading.Thread(target=update_gif, args=(0,))
     loading_screen_thread = threading.Thread(target=update_loading_label, args=(0,))
+    loading_thread.start()
     loading_screen_thread.start()
 
 def start(movies):
