@@ -1,0 +1,57 @@
+
+
+{
+  "type": "Movie",
+  "name": "Marley",
+  "url": "https://www.imdb.com/tt1183919/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg3NDUzMzQ2OF5BMl5BanBnXkFtZTcwNzY4NTE0Nw@@._V1_.jpg",
+  "description": "A documentary on the life, music, and legacy of Bob Marley.",
+  "review": {
+    "author": "Michael_Elliott",
+    "dateCreated": "2012-09-12",
+    "inLanguage": "English",
+    "heading": "Well Detailed Look at the Musician",
+    "reviewBody": "Marley (2012) \n\n*** 1/2 (out of 4) \n\nDirector Kevin Macdonald epic look at music legend Bob Marley follows him from his early days to his rise in music and eventually his death at the age of 36. Through concert, interview and audio footage, we get to hear from Marley throughout his life and of course there's a lot of attention given to the music but there's also a lot aimed at Marley's lifestyle and his hopes for the future. We also get interviews with his son, daughter, mother, wife as well as countless band members and others who knew him personally. At 142-minutes, this thing certainly packs in a lot of information and I think die-hard Marley fans are going to really love this thing. There's no question that nearly every aspect of his life is covered from his early childhood, to his womanizing and of course the final few months of his life. The film really does an exceptional job at giving you a complete look at the man and it doesn't shy away or try to hide his darker side or moments that aren't as good and fun. The documentary really shows him as a complete human, which is something a lot of these films miss. Those who are just mild fans or are just wanting quick look at how Marley was might find this to be a bit too long but I do feel this was made for die-hard fans who want to know everything. I really enjoyed all of the concert footage that they added because one gets a great idea of what Marley was like on stage. Of course, countless songs are on full display here, which is another major plus. Certain aspects of Marley's life gets additional attention here including the Smile Jamaica Concert and him getting shot before hand. Also, the final months of Marley's life also gets additional scenes and it's still shocking to see him dying so young.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 14311,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Documentary",
+    "Biography",
+    "Music"
+  ],
+  "datePublished": "2012-04-20",
+  "keywords": "funeral,bob marley,interview,musician,surname as title",
+  "duration": "PT2H24M",
+  "actor": [
+    {
+      "name": "Bob Marley",
+      "url": "https://www.imdb.com/name/nm0002490/"
+    },
+    {
+      "name": "Ziggy Marley",
+      "url": "https://www.imdb.com/name/nm0005187/"
+    },
+    {
+      "name": "Rita Marley",
+      "url": "https://www.imdb.com/name/nm0549138/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kevin Macdonald",
+      "url": "https://www.imdb.com/name/nm0531817/"
+    }
+  ],
+  "creator": []
+}

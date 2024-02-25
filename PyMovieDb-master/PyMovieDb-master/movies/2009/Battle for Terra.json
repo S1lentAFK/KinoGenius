@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Terra",
+  "url": "https://www.imdb.com/tt0858486/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4NDc1NTYwM15BMl5BanBnXkFtZTcwODY3MTUzMg@@._V1_.jpg",
+  "description": "The peaceful alien planet Terra faces annihilation, as the homeless remainder of the human race sets its eyes on it. Mala, a rebellious Terrian teenager, will do everything she can to stop it.",
+  "review": {
+    "author": "cameratracker",
+    "dateCreated": "2007-09-13",
+    "inLanguage": "English",
+    "heading": "Good SF is hard to come by",
+    "reviewBody": "I'm in the special effects field and jumped at the chance to see this film at the festival. I love SF but have to say I was a little wary going in because I've been burned in the past by high and low budget SF films. Big budget SF is usually so dumbed down it betrays the genre while low budget SF usually consists of cheesy low-rent imitations of great films. But I still get excited hoping that the next one will 'be the one'. I find great SF in books, but great SF films are a rare breed. I was happy to discover that this film is different in a good way. It's a good SF film and a great animated movie. I was surprised to see a film this thought-provoking get made. The animation style is really eye-popping. There were times when I wasn't sure whether I was watching real footage or CG. The performances were generally great, but there was some stiff acting now and then, especially with the humans. The aliens however moved beautifully. The story begins as a fantasy but soon transforms into a mature look at environmentalism and war. It's an odd transition, but overall a nice surprise. In terms of SF, it's a mixed bag of genuinely inspired ideas in the form of a completely original alien world, and some familiar ideas from the humans. The film's tone and style make it special. There are more than a few scenes that are emotionally engaging. I was fearing Sci-Fi channel movie-of-the-week but got Spielberg instead. I'm not sure what the film cost but it seams to have had a decent enough budget behind it. The film is not perfect, but it gets enough right to make me a fan.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 12156,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2010-02-12",
+  "keywords": "3 dimensional,slimehouse,shrekcore,robot sci fi,teenager",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Evan Rachel Wood",
+      "url": "https://www.imdb.com/name/nm0939697/"
+    },
+    {
+      "name": "Luke Wilson",
+      "url": "https://www.imdb.com/name/nm0005561/"
+    },
+    {
+      "name": "Justin Long",
+      "url": "https://www.imdb.com/name/nm0519043/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Aristomenis Tsirbas",
+      "url": "https://www.imdb.com/name/nm0875056/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Evan Spiliotopoulos",
+      "url": "https://www.imdb.com/name/nm0818746/"
+    },
+    {
+      "name": "Aristomenis Tsirbas",
+      "url": "https://www.imdb.com/name/nm0875056/"
+    }
+  ]
+}

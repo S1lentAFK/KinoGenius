@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Committed",
+  "url": "https://www.imdb.com/tt0144142/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzBjZGFkYWYtNTZkMy00NDc3LWJjNWMtZTc2YmRhNzFlN2FhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A young woman goes in search of her midlife crisis suffering husband who left her.",
+  "review": {
+    "author": "boviemuff",
+    "dateCreated": "2006-02-12",
+    "inLanguage": "English",
+    "heading": "A movie with a lot of heart",
+    "reviewBody": "Joline (Heather Graham) sets out after her husband Carl (Luke Wilson) who disappeared to clear his head about himself and their marriage. Joline, who is committed to their marriage starts her journey to find Carl, yet on the way discovers a lot about herself. On her trip she encounters a bountiful of interesting characters who unknowingly help her find her way.\n\nIn my eyes this is a classical road movie, which moves just at the right pace (some viewers may find it too slow). Throughout the movie it keeps its humorous note while Joline responds to the craziness of the world around her with a warm, knowing, sometimes sad smile. All actresses and actors give wonderful performances and the musical score is immaculate. 9/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 4032,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2000-04-18",
+  "keywords": "breakup,dog,ritual,artist,ambition",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Heather Graham",
+      "url": "https://www.imdb.com/name/nm0001287/"
+    },
+    {
+      "name": "Casey Affleck",
+      "url": "https://www.imdb.com/name/nm0000729/"
+    },
+    {
+      "name": "Luke Wilson",
+      "url": "https://www.imdb.com/name/nm0005561/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lisa Krueger",
+      "url": "https://www.imdb.com/name/nm0472495/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lisa Krueger",
+      "url": "https://www.imdb.com/name/nm0472495/"
+    }
+  ]
+}

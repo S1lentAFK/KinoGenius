@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Queen of Katwe",
+  "url": "https://www.imdb.com/tt4341582/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzQ0MDg2NTY4N15BMl5BanBnXkFtZTgwOTk2NzU3OTE@._V1_.jpg",
+  "description": "A Ugandan girl sees her world rapidly change after being introduced to the game of chess.",
+  "contentRating": "PG",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2016-10-21",
+  "keywords": "chess,chess tournament,uganda,kampala,based on true story",
+  "duration": "PT2H4M",
+  "actor": [
+    {
+      "name": "Madina Nalwanga",
+      "url": "https://www.imdb.com/name/nm8136461/"
+    },
+    {
+      "name": "David Oyelowo",
+      "url": "https://www.imdb.com/name/nm0654648/"
+    },
+    {
+      "name": "Lupita Nyong'o",
+      "url": "https://www.imdb.com/name/nm2143282/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mira Nair",
+      "url": "https://www.imdb.com/name/nm0619762/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William Wheeler",
+      "url": "https://www.imdb.com/name/nm0923980/"
+    },
+    {
+      "name": "Tim Crothers",
+      "url": "https://www.imdb.com/name/nm1885371/"
+    }
+  ],
+  "review": {
+    "author": "apioneer",
+    "dateCreated": "2016-11-25",
+    "inLanguage": "English",
+    "heading": "Cinematography of this film is Breathtaking!",
+    "reviewBody": "Here is another beautiful film by Mira Nair who made 'Monsoon Wedding'. The cinematography captures the true colors and life in a slum of Uganda, Africa. The characters were really believable and the acting was excellent. Madina Nalwanga's acting was very convincing and true to her heart. She understands how to portray her emotions in front of the camera. The children in the film were brilliant and all the cast gave good performances. Some scenes were heartbreaking and moving. Mira Nair directs her actors with great skill and confidence which is visible on the screen. Its really beautiful to experience another culture and I was very happy to experience Uganda. A big congrats to Mira Nair for a good film. I met Mira Nair few years ago when she came to San Francisco for a film premiere. She was very nice and sweet lady.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 18577,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  }
+}

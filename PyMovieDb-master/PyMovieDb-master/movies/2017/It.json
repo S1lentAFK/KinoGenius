@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "It Ends with Us",
+  "url": "https://www.imdb.com/tt10655524/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDYyNTZiYWEtYzg4MS00YWU5LWI0MTQtODAwOTA0YzMwYmUzXkEyXkFqcGdeQXVyMTQ4MDUxMTk1._V1_.jpg",
+  "description": "Lily believes she&apos;s found true love with Ryle, but when a painful incident triggers past trauma, she must decide if love alone can carry her marriage through. However, things are complicated when her first love returns to her life.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": null,
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2024-06-21",
+  "keywords": "love,domestic abuse,abuse,past,based on book",
+  "duration": null,
+  "actor": [
+    {
+      "name": "Blake Lively",
+      "url": "https://www.imdb.com/name/nm0515116/"
+    },
+    {
+      "name": "Brandon Sklenar",
+      "url": "https://www.imdb.com/name/nm3996999/"
+    },
+    {
+      "name": "Jenny Slate",
+      "url": "https://www.imdb.com/name/nm2809577/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Justin Baldoni",
+      "url": "https://www.imdb.com/name/nm1682573/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Justin Baldoni",
+      "url": "https://www.imdb.com/name/nm1682573/"
+    },
+    {
+      "name": "Christy Hall",
+      "url": "https://www.imdb.com/name/nm8631159/"
+    },
+    {
+      "name": "Colleen Hoover",
+      "url": "https://www.imdb.com/name/nm6895402/"
+    }
+  ]
+}

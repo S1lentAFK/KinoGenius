@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Swordfish",
+  "url": "https://www.imdb.com/tt0244244/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzk5ZmQxMWYtM2QyNi00MTY3LTlmNjItYjUwODY3Y2YwOTIwXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "DrLex",
+    "dateCreated": "2007-02-26",
+    "inLanguage": "English",
+    "heading": "A lot of style and action, little substance",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 195464,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "2001-07-27",
+  "keywords": "computer hacker,heist,secret agent,black bra and panties,bank robbery",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "John Travolta",
+      "url": "https://www.imdb.com/name/nm0000237/"
+    },
+    {
+      "name": "Hugh Jackman",
+      "url": "https://www.imdb.com/name/nm0413168/"
+    },
+    {
+      "name": "Halle Berry",
+      "url": "https://www.imdb.com/name/nm0000932/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dominic Sena",
+      "url": "https://www.imdb.com/name/nm0784061/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Skip Woods",
+      "url": "https://www.imdb.com/name/nm0940790/"
+    }
+  ]
+}

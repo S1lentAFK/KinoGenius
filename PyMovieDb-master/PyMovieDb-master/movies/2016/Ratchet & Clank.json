@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Ratchet & Clank",
+  "url": "https://www.imdb.com/tt2865120/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDMxMjkzOTEzOV5BMl5BanBnXkFtZTgwNDExNjk5NzE@._V1_.jpg",
+  "description": "When the galaxy comes under the threat of a nefarious space captain, a mechanic and his newfound robot ally join an elite squad of combatants to save the universe.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2016-04-28",
+  "keywords": "robot sci fi,hovercar,flying car,computer animation,3d animation",
+  "duration": "PT1H34M",
+  "rating": {
+    "ratingCount": 11725,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "review": {
+    "author": "bbailey39",
+    "dateCreated": "2021-07-19",
+    "inLanguage": "English",
+    "heading": "Managed to be boring",
+    "reviewBody": "Cute flick with potential but managed to get boring. I guess it was too busy and seemed not to have a point.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "actor": [
+    {
+      "name": "James Arnold Taylor",
+      "url": "https://www.imdb.com/name/nm0852517/"
+    },
+    {
+      "name": "David Kaye",
+      "url": "https://www.imdb.com/name/nm0443286/"
+    },
+    {
+      "name": "Jim Ward",
+      "url": "https://www.imdb.com/name/nm0911589/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kevin Munroe",
+      "url": "https://www.imdb.com/name/nm1083489/"
+    },
+    {
+      "name": "Jericca Cleland",
+      "url": "https://www.imdb.com/name/nm0165995/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "T.J. Fixman",
+      "url": "https://www.imdb.com/name/nm2686579/"
+    },
+    {
+      "name": "Kevin Munroe",
+      "url": "https://www.imdb.com/name/nm1083489/"
+    },
+    {
+      "name": "Gerry Swallow",
+      "url": "https://www.imdb.com/name/nm0841532/"
+    }
+  ]
+}

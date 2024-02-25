@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Canyons",
+  "url": "https://www.imdb.com/tt2292959/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMzk5ODM5OV5BMl5BanBnXkFtZTcwOTE0NzI5OQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "highwaytourist",
+    "dateCreated": "2014-05-04",
+    "inLanguage": "English",
+    "heading": "Low-budget film has a few good points, but too dreary and sordid to enjoy",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 11695,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.8
+  },
+  "contentRating": "18",
+  "genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2013-08-02",
+  "keywords": "group sex,erotic thriller,psychopath,foursome,female nudity",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Lindsay Lohan",
+      "url": "https://www.imdb.com/name/nm0517820/"
+    },
+    {
+      "name": "James Deen",
+      "url": "https://www.imdb.com/name/nm1776976/"
+    },
+    {
+      "name": "Nolan Gerard Funk",
+      "url": "https://www.imdb.com/name/nm1289173/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Paul Schrader",
+      "url": "https://www.imdb.com/name/nm0001707/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bret Easton Ellis",
+      "url": "https://www.imdb.com/name/nm0254735/"
+    }
+  ]
+}

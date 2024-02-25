@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Ultimate Gift",
+  "url": "https://www.imdb.com/tt0482629/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjQxZjMyOGItZDgxZS00NzkwLThjNjgtM2Q3YjdjZTQzNGZjXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "bkoganbing",
+    "dateCreated": "2011-01-10",
+    "inLanguage": "English",
+    "heading": "A Set OfTasks",
+    "reviewBody": "James Garner, multi-billionaire has just died and in the tradition of today has left a living will. He&apos;s left a flock of relatives, most of them a gang of sponges who&apos;ve never worked a day in their lives. One of those is a grandson, Drew Fuller, who seems no better than the others. But while Garner was living he spotted something in this young man, some potential which if realized makes him entitled to The Ultimate Gift.\\n\\nWhat a shock young Fuller gets when he gets the first in a series of tapes where Garner charges him with performing a set of tasks to see if he&apos;s ready for The Ultimate Gift being it a fortune or whatever else is in store for him. Judging him will be attorney Bill Cobbs, but any number of other people in Garner&apos;s life will be involved. The first one happens to be Brian Dennehy owner of a big ranch in Texas, a Ewing sized spread where Fuller is first shown what it is like to do physical work out there for a paycheck. Not something he&apos;s accustomed to, but he does survive and goes on to other tasks, not necessarily jobs.\\n\\nNot all, but a lot of people born to wealth never really appreciate what it is to earn and strive. Without all the right wing politics involved The Ultimate Gift is very close to the message that John Wayne was giving in McLintock. If you remember Wayne tells Stefanie Powers that she and her husband to be which turned out to be Patrick Wayne that as his daughter she will get a small well stocked spread, but not the cattle empire that he built. That will go to the nation as a national park. Wayne is concerned that many a young man will be wooing her for his fortune and the joy of life is the striving together that a man and woman do in raising a family and making wealth.\\n\\nGarner also views the fortune he made as a trust that carries obligations and he wants Fuller to appreciate that fact as well. Fuller&apos;s life journey takes him all over the globe, but in the end he&apos;s judged ready to receive The Ultimate Gift, whatever that is.\\n\\nThis is a fine Hallmark Channel TV movie that teaches some valuable life lessons.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 20314,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Drama",
+    "Family",
+    "Romance"
+  ],
+  "datePublished": "2007-03-09",
+  "keywords": [
+    "inheritance challenge",
+    "three word title",
+    "letter",
+    "reading a letter",
+    "kidnapping"
+  ],
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Drew Fuller",
+      "url": "https://www.imdb.com/name/nm0298221/"
+    },
+    {
+      "name": "James Garner",
+      "url": "https://www.imdb.com/name/nm0001258/"
+    },
+    {
+      "name": "Abigail Breslin",
+      "url": "https://www.imdb.com/name/nm1113550/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael O. Sajbel",
+      "url": "https://www.imdb.com/name/nm0756935/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Cheryl McKay",
+      "url": "https://www.imdb.com/name/nm0570941/"
+    },
+    {
+      "name": "Jim Stovall",
+      "url": "https://www.imdb.com/name/nm2052061/"
+    }
+  ]
+}

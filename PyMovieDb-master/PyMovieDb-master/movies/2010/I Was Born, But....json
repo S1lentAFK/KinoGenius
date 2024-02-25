@@ -1,0 +1,45 @@
+
+
+{
+  "type": "Movie",
+  "name": "I Was Born, But...",
+  "url": "https://www.imdb.com/tt1234936/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGMwZDc2M2YtOTQ5My00ZjcyLWE2ODktY2YyOGNlMzY2YThmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjUzMDQ1NTg.jpg",
+  "description": "Filmmaker Roddy Bogawa reflects on his childhood in Hawaii and his involvement in the Los Angeles punk scene of the 1970s.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 19,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": null,
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2004-03-14",
+  "keywords": [
+    "punk rock",
+    "experimental film"
+  ],
+  "duration": "PT1H30M",
+  "actor": [],
+  "director": [
+    {
+      "name": "Roddy Bogawa",
+      "url": "https://www.imdb.com/name/nm1108535/"
+    }
+  ],
+  "creator": []
+}

@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Date Movie",
+  "url": "https://www.imdb.com/tt0466342/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjA0NGUyMDQtY2RlNy00Y2YzLWIyODItNWE1ZTM1NTM3MWM1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": "Spoof of romantic comedies which focuses on a man, his crush, his parents, and her father.",
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2006-02-24",
+  "duration": "PT1H23M",
+  "keywords": "redheaded woman,trash movie,licking someone's face,frodo baggins character,michael jackson character",
+  "rating": {
+    "ratingCount": 61988,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 2.8
+  },
+  "review": {
+    "author": "alligatorchic",
+    "dateCreated": "2006-02-23",
+    "inLanguage": "English",
+    "heading": "Awful Movie",
+    "reviewBody": "My four other friends and I wanted to see a movie that would make us laugh and have a good time. We narrowed it down to Pink Panther or Date Movie. We decided on Date Movie. We went to the theater about 15 minutes early and when we first came in we were the only ones there, which surprised us. By the time the movie started, there were only three other groups of people, which surprised us. By ten minutes into the movie, we were no longer surprised. The movie was horrid. It was full of disgusting jokes, and not just in a sexual way. I was surprised anyone even bothered making this movie. About 45 minutes in, I was disgusted and bored. My friends were, too. I'm not the type to walk out during a movie. I never have before, but this movie was a waste of my time, the 11 bucks I spent on the ticket, and the five bucks I spent on popcorn/ candy. I have never seen a movie as bad as this one, and I have seen a lot of bad movies. Usually I'm not this prude, but this movie made me worry about our generation.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "actor": [
+    {
+      "name": "Alyson Hannigan",
+      "url": "https://www.imdb.com/name/nm0004989/"
+    },
+    {
+      "name": "Adam Campbell",
+      "url": "https://www.imdb.com/name/nm0968405/"
+    },
+    {
+      "name": "Fred Willard",
+      "url": "https://www.imdb.com/name/nm0929609/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Aaron Seltzer",
+      "url": "https://www.imdb.com/name/nm0783536/"
+    },
+    {
+      "name": "Jason Friedberg",
+      "url": "https://www.imdb.com/name/nm0294997/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jason Friedberg",
+      "url": "https://www.imdb.com/name/nm0294997/"
+    },
+    {
+      "name": "Aaron Seltzer",
+      "url": "https://www.imdb.com/name/nm0783536/"
+    }
+  ]
+}

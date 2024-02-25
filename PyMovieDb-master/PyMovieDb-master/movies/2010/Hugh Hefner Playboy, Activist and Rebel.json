@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hugh Hefner: Playboy, Activist and Rebel",
+  "url": "https://www.imdb.com/tt1503776/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIyMDI3ODQ0N15BMl5BanBnXkFtZTgwNDU5MzA2MDE@._V1_.jpg",
+  "description": null,
+  "contentRating": "R",
+  "genre": [
+    "Documentary",
+    "Biography"
+  ],
+  "datePublished": "2009-09-12",
+  "keywords": "female rear nudity,female full frontal nudity,female frontal nudity,playboy,playboy club",
+  "duration": "PT2H4M",
+  "actor": [
+    {
+      "name": "Larry Adler",
+      "url": "https://www.imdb.com/name/nm0012196/"
+    },
+    {
+      "name": "Bobbie Arnstein",
+      "url": "https://www.imdb.com/name/nm4514043/"
+    },
+    {
+      "name": "Joan Baez",
+      "url": "https://www.imdb.com/name/nm0001926/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brigitte Berman",
+      "url": "https://www.imdb.com/name/nm0075731/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brigitte Berman",
+      "url": "https://www.imdb.com/name/nm0075731/"
+    }
+  ],
+  "review": {
+    "author": "blanbrn",
+    "dateCreated": "2011-02-10",
+    "inLanguage": "English",
+    "heading": "Excellent and revealing doc of a legendary and cultural icon who spoke for individual freedom so one had the right for pleasure and expressionism",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 753,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  }
+}

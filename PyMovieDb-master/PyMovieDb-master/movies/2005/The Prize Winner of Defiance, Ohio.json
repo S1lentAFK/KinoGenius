@@ -1,0 +1,71 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Prize Winner of Defiance, Ohio",
+  "url": "https://www.imdb.com/tt0406158/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjE1ZmNkMTgtNDRjOS00Y2JhLWFhMDgtZjg4NzFmYTI5NGZkXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+  "description": "In order to support her ten children, Evelyn Ryan enters a commercial jingle-writing contest.",
+  "contentRating": "PG-13",
+  "genre": [
+    "Biography",
+    "Drama"
+  ],
+  "datePublished": "2007-06-01",
+  "keywords": "freaking out,gasoline station,dysfunctional marriage,man wears eyeglasses,watching tv",
+  "duration": "PT1H39M",
+  "rating": {
+    "ratingCount": 8106,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "review": {
+    "author": "katyaohagan",
+    "dateCreated": "2006-06-16",
+    "inLanguage": "English",
+    "heading": "See this movie",
+    "reviewBody": "I felt the need to sign up and review a movie for the first time, just so there would be more written about this lovely little movie. This is a real gem that seems to have slipped through the net, which is a real pity. I had no expectations and knew nothing about it when I stumbled upon it, and I have been trying to persuade all of my friends to see it since then.\\n\\nIt&apos;s one of those rare family movies that really feels authentic. There&apos;s nothing hokey here, and no obvious, cheesy dialog. The little directorial flourishes are sweet and unobtrusive and flow naturally with the story, which although sometimes whimsically told, has a deeply moving center. \\n\\nJulianne Moore deftly handles an extremely tricky role. She manages to convey the complexities in a character that on the surface, and in lesser hands, could read as drippy and one-dimensional. Instead as we see this woman&apos;s challenging life play out, we respect her more and more, and truly feel invested in what becomes of her remarkable spirit. \\n\\nAll in all, a wonderful surprise, beautifully executed. See it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 8106,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "actor": [
+    {
+      "name": "Julianne Moore",
+      "url": "https://www.imdb.com/name/nm0000194/"
+    },
+    {
+      "name": "Woody Harrelson",
+      "url": "https://www.imdb.com/name/nm0000437/"
+    },
+    {
+      "name": "Laura Dern",
+      "url": "https://www.imdb.com/name/nm0000368/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jane Anderson",
+      "url": "https://www.imdb.com/name/nm0026862/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Terry Ryan",
+      "url": "https://www.imdb.com/name/nm1678495/"
+    },
+    {
+      "name": "Jane Anderson",
+      "url": "https://www.imdb.com/name/nm0026862/"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "type": "Movie",
+  "name": "The Angry Birds Movie 2",
+  "url": "https://www.imdb.com/tt6095472/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTk0NWZjZTktNWNlZC00YTY2LTkyZjItNDRiZmFhZWI5M2IwXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+  "description": "The flightless birds and scheming green pigs take their feud to the next level.",
+  "review": {
+    "author": "Deadpool2016",
+    "dateCreated": "2019-08-12",
+    "inLanguage": "English",
+    "heading": "Better Than The First, A Okay And Funny Product Placement",
+    "reviewBody": "PROS:\n\nSolid Voice Cast\n\nThurop Van Orman&apos;s Solid Directing\n\nGood Animation\n\nThe Jokes Land More Than Miss\n\nIt&apos;s Better Than The First\n\nCONS:\n\nThe Plot Is Cliched\n\nIt&apos;s Way To Fast\n\nThe Villains Plan Is Stupid",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 34582,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2019-08-02",
+  "keywords": "sequel,based on mobile game,bird,revenge,dog",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Jason Sudeikis",
+      "url": "https://www.imdb.com/name/nm0837177/"
+    },
+    {
+      "name": "Josh Gad",
+      "url": "https://www.imdb.com/name/nm1265802/"
+    },
+    {
+      "name": "Leslie Jones",
+      "url": "https://www.imdb.com/name/nm0428656/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Thurop Van Orman",
+      "url": "https://www.imdb.com/name/nm3006131/"
+    },
+    {
+      "name": "John Rice",
+      "url": "https://www.imdb.com/name/nm0723470/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Peter Ackerman",
+      "url": "https://www.imdb.com/name/nm0010004/"
+    },
+    {
+      "name": "Eyal Podell",
+      "url": "https://www.imdb.com/name/nm0687937/"
+    },
+    {
+      "name": "Jonathon E. Stewart",
+      "url": "https://www.imdb.com/name/nm1139293/"
+    }
+  ]
+}

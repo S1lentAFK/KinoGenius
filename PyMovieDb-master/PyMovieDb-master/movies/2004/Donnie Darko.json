@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Donnie Darko",
+  "url": "https://www.imdb.com/tt0246578/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjZlZDlkYTktMmU1My00ZDBiLWFlNjEtYTBhNjVhOTM4ZjJjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "jtvukovich",
+    "dateCreated": "2020-01-22",
+    "inLanguage": "English",
+    "heading": "Donnie Darko Shouldn&apos;t Work, But Does",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 844089,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "datePublished": "2002-10-25",
+  "keywords": "mental illness,cult film,surrealism,rabbit suit,cult classic",
+  "duration": "PT1H53M",
+  "actor": [
+    {
+      "name": "Jake Gyllenhaal",
+      "url": "https://www.imdb.com/name/nm0350453/"
+    },
+    {
+      "name": "Jena Malone",
+      "url": "https://www.imdb.com/name/nm0540441/"
+    },
+    {
+      "name": "Mary McDonnell",
+      "url": "https://www.imdb.com/name/nm0001521/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Richard Kelly",
+      "url": "https://www.imdb.com/name/nm0446819/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Richard Kelly",
+      "url": "https://www.imdb.com/name/nm0446819/"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+
+
+{
+  "type": "Movie",
+  "name": "I Can Do Bad All by Myself",
+  "url": "https://www.imdb.com/tt1385912/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzODgyNzQ1Ml5BMl5BanBnXkFtZTcwMzc0OTY3Mg@@._V1_.jpg",
+  "description": "When Madea catches sixteen-year-old Jennifer and her two younger brothers looting her home, she decides to take matters into her own hands.",
+  "review": {
+    "author": "nep983",
+    "dateCreated": "2011-05-01",
+    "inLanguage": "English",
+    "heading": "Its Not That Bad Seriously a 2.8?!?!?",
+    "reviewBody": "This film wasn't the best movie ever and I don't understand why people hate Tyler Perry his films aren't bad and they aren't the worst. I watched this with a group of friends mostly black and we enjoyed the parts with Madea were hilarious. And the drama was okay too. The acting was fine I like Taraj P Henson she was good in this movie. The only thing that bugged me was the sets most of them looked really fake but that was it. Anyways this film wasn't bad and the rating shouldn't be low at 2.8 it should be 4 or 5 stars. The acting was was good and had a fine cast. I recommend renting it or getting it on DVD. If you like tyler perry and his movies then you'll like I can do bad all by myself",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 10672,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2009-09-11",
+  "keywords": [
+    "musical performance",
+    "2000s",
+    "black",
+    "mabel 'madea' simmons character",
+    "nightclub singer"
+  ],
+  "duration": "PT1H53M",
+  "actor": [
+    {
+      "name": "Tyler Perry",
+      "url": "https://www.imdb.com/name/nm1347153/"
+    },
+    {
+      "name": "Taraji P. Henson",
+      "url": "https://www.imdb.com/name/nm0378245/"
+    },
+    {
+      "name": "Adam Rodriguez",
+      "url": "https://www.imdb.com/name/nm0735226/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tyler Perry",
+      "url": "https://www.imdb.com/name/nm1347153/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tyler Perry",
+      "url": "https://www.imdb.com/name/nm1347153/"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Watcher in the Woods",
+  "url": "https://www.imdb.com/tt0081738/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTFiZTkxOWYtMzI3OS00MDNhLTk5ZmQtNzRkZWRlZmZmNTE0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzU4ODM5Nw@@._V1_.jpg",
+  "description": "When a family moves to a country home, the young girls experience strange happenings that have a link to an occult event years past.",
+  "contentRating": "A",
+  "genre": [
+    "Family",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "1981-08-26",
+  "keywords": [
+    "teenage girl",
+    "occult",
+    "eclipse",
+    "lightning",
+    "female protagonist"
+  ],
+  "duration": "PT1H24M",
+  "rating": {
+    "ratingCount": 6985,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "review": {
+    "author": "ripD",
+    "dateCreated": "2002-10-24",
+    "inLanguage": "English",
+    "heading": "Kids Flick",
+    "reviewBody": "Ok, it might not be the greatest movie out there, but I really enjoyed it when I was a kid. And because of that the few times since then that I have watched it, I have held a kind of fascination with it. But alas, my opinion is tainted by childhood. That scary (oh so scary) scene in the fun house haunted me for a long time. And Bette Davis, she is awesome.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "director": [
+    {
+      "name": "John Hough",
+      "url": "https://www.imdb.com/name/nm0396421/"
+    },
+    {
+      "name": "Vincent McEveety",
+      "url": "https://www.imdb.com/name/nm0568546/"
+    }
+  ],
+  "actor": [
+    {
+      "name": "Bette Davis",
+      "url": "https://www.imdb.com/name/nm0000012/"
+    },
+    {
+      "name": "Lynn-Holly Johnson",
+      "url": "https://www.imdb.com/name/nm0000468/"
+    },
+    {
+      "name": "Kyle Richards",
+      "url": "https://www.imdb.com/name/nm0724202/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brian Clemens",
+      "url": "https://www.imdb.com/name/nm0166018/"
+    },
+    {
+      "name": "Harry Spalding",
+      "url": "https://www.imdb.com/name/nm0189171/"
+    },
+    {
+      "name": "Rosemary Anne Sisson",
+      "url": "https://www.imdb.com/name/nm0803100/"
+    }
+  ]
+}

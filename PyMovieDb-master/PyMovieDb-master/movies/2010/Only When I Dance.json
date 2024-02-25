@@ -1,0 +1,53 @@
+{
+  "type": "Movie",
+  "name": "Only When I Dance",
+  "url": "https://www.imdb.com/tt1393744/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQzMzYxNjMxMV5BMl5BanBnXkFtZTcwMjE4NDI1Mw@@._V1_.jpg",
+  "description": "Two young kids try to dance their way out of the favelas of Rio.",
+  "review": {
+    "author": "blanche-2",
+    "dateCreated": "2016-07-18",
+    "inLanguage": "English",
+    "heading": "everything is beautiful at the ballet",
+    "reviewBody": "This is a really lovely documentary that follows two Brazilians, Irlan and Isabela, both from poor families, who want to be professional ballet dancers.\n\nBallet is one of the most difficult art forms to break into, and one of the most beautiful. In order to succeed, you need discipline, an iron will, perseverance, ability to take criticism, and talent. I put talent last because as a creative artist myself, some of the most incredibly talented people I&apos;ve ever known did not have careers because they gave up or didn&apos;t try.\n\nThese two young people are at an added disadvantage - Isabela because she&apos;s black, and both she and Irlan are poor. \n\nThe director of the Centro De Danca Ballet school of Rio de Janeiro, Mariza Estrella, does a lot for the students, including purchasing expensive toe shoes and not charging for the lessons of the poor students. But when it comes to entering international competitions - - which are essential to bring a dancer to the attention of an opera company - the parents have to make big sacrifices to get their children there -- the ticket, the hotel, the registration, food - it adds up to people who can&apos;t afford $50 for toe shoes.\n\nWe see that Irlan has star quality - a handsome young man, an excellent dancer, with a dramatic presence. Irlan travels to Lausanne, Switzerland where he competes and, as a finalist, is offered a scholarship that will cover his expenses to the big international competition in New York.\n\nIrlan and Isabela are both in New York, but Isabela does not make the finals. She is devastated, but she does not quit. Rather than go the next year, it is decided that she will continue her preparations, which includes losing a little weight. Irlan is invited to join the American Ballet Theater.\n\nI looked both of these talented youngsters up to see what happened to them after the film. In 2015, Irlan was moved up to Senior Artist from Junior Artist by the American Ballet Theater. Isabela has had a career with Ballet Black, a group of black and Asian dancers that travels throughout the world. Isabela performs as a soloist.\n\nThese are two people who fought their way out of the slums and mean streets of Rio with the support of their families, which I think is important as well in working toward their goals.\n\nVery inspiring.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 270,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": null,
+  "keywords": "young,favela,dance,brazil,ballet",
+  "duration": "PT1H18M",
+  "actor": [
+    {
+      "name": "Irlan Santos da Silva",
+      "url": "https://www.imdb.com/name/nm3360702/"
+    },
+    {
+      "name": "Isabela Coracy Alves Nascimento Santos",
+      "url": "https://www.imdb.com/name/nm3361310/"
+    },
+    {
+      "name": "Mariza Estrella",
+      "url": "https://www.imdb.com/name/nm3360805/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Beadie Finzi",
+      "url": "https://www.imdb.com/name/nm1848098/"
+    }
+  ],
+  "creator": []
+}

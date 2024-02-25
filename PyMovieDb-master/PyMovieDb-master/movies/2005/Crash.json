@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Crash",
+  "url": "https://www.imdb.com/tt0115964/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGVjMGU5NWMtYjNjNC00N2E1LTkyZDItMmQ3NmI2OWM0YWNjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+  "description": "After getting into a serious car accident, a TV director discovers an underground sub-culture of scarred, omnisexual car-crash victims who use car accidents and the raw sexual energy they produce to try to rejuvenate his sex life ...",
+  "contentRating": "18",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "1997-06-06",
+  "keywords": [
+    "car crash",
+    "sex scene",
+    "accident victim",
+    "sexuality",
+    "bisexuality"
+  ],
+  "duration": "PT1H40M",
+  "rating": {
+    "ratingCount": 65759,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "review": {
+    "author": "Boyo-2",
+    "dateCreated": "1999-09-08",
+    "inLanguage": "English",
+    "heading": "I liked it",
+    "reviewBody": "I had read the novel and was very curious to see what David Cronenberg would do. The book was somewhat better, but I thought the movie was very intelligent, disturbing and outrageous. The cast does well, especially Deborah Kara Unger, who gives the best performance in the movie. As usual, Cronenberg creates another world, and either you want to go there or not, but this time it ended up being fascinating, for me at least.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "director": [
+    {
+      "name": "David Cronenberg",
+      "url": "https://www.imdb.com/name/nm0000343/"
+    }
+  ],
+  "actor": [
+    {
+      "name": "James Spader",
+      "url": "https://www.imdb.com/name/nm0000652/"
+    },
+    {
+      "name": "Holly Hunter",
+      "url": "https://www.imdb.com/name/nm0000456/"
+    },
+    {
+      "name": "Elias Koteas",
+      "url": "https://www.imdb.com/name/nm0000480/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "J.G. Ballard",
+      "url": "https://www.imdb.com/name/nm0050618/"
+    },
+    {
+      "name": "David Cronenberg",
+      "url": "https://www.imdb.com/name/nm0000343/"
+    }
+  ]
+}

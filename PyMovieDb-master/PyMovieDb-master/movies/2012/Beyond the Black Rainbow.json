@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Beyond the Black Rainbow",
+  "url": "https://www.imdb.com/tt1534085/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc1MjQyODcxM15BMl5BanBnXkFtZTcwNDU1MjE0Nw@@._V1_.jpg",
+  "description": "Despite being under heavy sedation, a young woman tries to make her way out of the Arboria Institute, a secluded, quasifuturistic commune.",
+  "review": {
+    "author": "nashw82",
+    "dateCreated": "2021-03-23",
+    "inLanguage": "English",
+    "heading": "Homage to Weird Old Scifi",
+    "reviewBody": "If you enjoyed Tarkovsky's Solaris, Kubrick's 2001: A Space Odyssey or Godard's Alphaville then this might be up your alley. It's a slow paced surreal sci fi film, with warbling, droning synth music, 80's film colouring and the occasional blurred visuals as if you are sedated. Which if fitting as it tells the story of a powerful young girl being held captive and under sedation by a mysterious and futuristic cult, that seems to be conducting some kind of scientific experimentation. Very little really happens in most of the film, just striking visuals, long stares, pulsing lights (matched by a pulsing synth soundtrack), and slow shots of the kind of things that people thought to be futuristic back in the 80's. If you like the sound of any of this then check it out, if not then definitely give it a miss and save yourself the time.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 16776,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "datePublished": "2010-12-03",
+  "keywords": "kubrickian,deeply disturbed person,disturbed person,driven insane,escape",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Eva Bourne",
+      "url": "https://www.imdb.com/name/nm3597280/"
+    },
+    {
+      "name": "Michael J Rogers",
+      "url": "https://www.imdb.com/name/nm1558628/"
+    },
+    {
+      "name": "Scott Hylands",
+      "url": "https://www.imdb.com/name/nm0405111/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Panos Cosmatos",
+      "url": "https://www.imdb.com/name/nm0181903/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Panos Cosmatos",
+      "url": "https://www.imdb.com/name/nm0181903/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Dirty Sanchez: The Movie",
+  "url": "https://www.imdb.com/tt0758743/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkxZWI0MmEtODNiZS00YjlmLWJmNzMtMjIxYThhYzA2ODBiXkEyXkFqcGdeQXVyNjc4NDc1OTM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "thomas-hardcastle-2",
+    "dateCreated": "2008-04-19",
+    "inLanguage": "English",
+    "heading": "Makes Jackass look like child&apos;s play...",
+    "reviewBody": "I don&apos;t like any of the four blokes in this film. They are all knobheads, and I would rather eat my own fecals than spend any time with them. They&apos;re sick, and have no talent, so think that the only way they can make it in life is to do things that no one else would dare, through fear of loss of dignity, or extreme vomiting. Dignity is not an issue with these guys, though, so the sky&apos;s the limit as far as crude stunts and lunatic behaviour go.\\n\\nHaving said all this, however, this film is very entertaining. It&apos;s the kind of film you won&apos;t want to watch with your parents, and you won&apos;t want to watch whilst eating anything. You&apos;d watch this film with your mates (or anyone else you aren&apos;t trying to impress).\\n\\nSome of the things these men do push the boundaries of taste and decency. There must be something seriously wrong with them.\\n\\nIt&apos;s not a wonderful advert for the Welsh, but it&apos;s a solid couple of hours of shameful fun. Watching these idiots behaving like animals is good for one&apos;s self-esteem. I mean, it doesn&apos;t matter what you might think of yourself - at least you&apos;re not as bad as these guys. A guilty pleasure if ever there was one.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 4385,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "18",
+  "genre": [
+    "Documentary",
+    "Action",
+    "Comedy"
+  ],
+  "datePublished": "2006-09-22",
+  "keywords": "seven deadly sins,male nudity,female full frontal nudity,female topless nudity,female rear nudity",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Mathew Pritchard",
+      "url": "https://www.imdb.com/name/nm0698052/"
+    },
+    {
+      "name": "Lee Dainton",
+      "url": "https://www.imdb.com/name/nm1449626/"
+    },
+    {
+      "name": "Michael Locke",
+      "url": "https://www.imdb.com/name/nm1456613/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jim Hickey",
+      "url": "https://www.imdb.com/name/nm2401691/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bobby Allen",
+      "url": "https://www.imdb.com/name/nm0020322/"
+    },
+    {
+      "name": "Lee Dainton",
+      "url": "https://www.imdb.com/name/nm1449626/"
+    },
+    {
+      "name": "Jim Hickey",
+      "url": "https://www.imdb.com/name/nm2401691/"
+    }
+  ]
+}

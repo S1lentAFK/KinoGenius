@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Super 8",
+  "url": "https://www.imdb.com/tt1650062/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIzNjEyMzcwOF5BMl5BanBnXkFtZTcwMTkyMjE0NQ@@._V1_.jpg",
+  "description": "During the summer of 1979, a group of friends witness a train crash and investigate subsequent unexplained events in their small town.",
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "datePublished": "2011-08-05",
+  "keywords": "small town,train crash,retro,reference to e.t. the extraterrestrial,pre teen",
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "Elle Fanning",
+      "url": "https://www.imdb.com/name/nm1102577/"
+    },
+    {
+      "name": "AJ Michalka",
+      "url": "https://www.imdb.com/name/nm1404488/"
+    },
+    {
+      "name": "Kyle Chandler",
+      "url": "https://www.imdb.com/name/nm0151419/"
+    }
+  ],
+  "director": [
+    {
+      "name": "J.J. Abrams",
+      "url": "https://www.imdb.com/name/nm0009190/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "J.J. Abrams",
+      "url": "https://www.imdb.com/name/nm0009190/"
+    }
+  ],
+  "review": {
+    "author": "bruce-149",
+    "dateCreated": "2011-06-14",
+    "inLanguage": "English",
+    "heading": "Been there, done that",
+    "reviewBody": "As an homage to the Spielberg films of the 80's, this movie succeeds. As a piece of original entertainment? Nothing happening, folks. Now, if you're a kid and have never seen The Goonies, Jaws, ET, War of the Worlds, and Cloverfield, you may think this film is absolutely wonderful. And judged through the lens of cinema history, it may well be looked upon as a culmination of all that came before.\n\nLet's just hope that the future is filled with something in rare supply: originality.\n\nIt's not that I wasn't entertained, it's just that I expected something more.\n\nAnd I suppose that's another problem with getting older. There aren't as many surprises left in the world.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 366157,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  }
+}

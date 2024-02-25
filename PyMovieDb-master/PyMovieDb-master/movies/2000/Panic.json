@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Panic Room",
+  "url": "https://www.imdb.com/tt0258000/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmY4ZGFjYTYtMDNmYi00ZDM4LWFjYTgtNmNlZjBmMzg0MzQ3XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+  "description": "A divorced woman and her diabetic daughter take refuge in their newly-purchased house's safe room when three men break-in, searching for a missing fortune.",
+  "review": {
+    "author": "long-ford",
+    "dateCreated": "2009-02-28",
+    "inLanguage": "English",
+    "heading": "Well acted action-thriller, weak conclusion",
+    "reviewBody": "David Fincher directs this cleverly conceived thriller about a mother and daughter trapped inside a panic room by three criminals. The film is well-paced and the camera work is slick. The film does well in exploring the confines of the house. Jodie Foster is effective and maintains a high intensity throughout. Kristen Stewart is decent as her daughter. Forest Whitaker plays a slightly sympathetic criminal and does well. Unfortunately, after an engrossing game of cat and mouse, the conclusion is weak. Staple clich\u00e9s crop up and the film goes for a crowd-pleasing finale that doesn't quite feel right. Still watchable.\n\nOverall 7/10",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 295027,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2002-05-03",
+  "keywords": "panic,panic room,cat and mouse,secret room,female protagonist",
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "Jodie Foster",
+      "url": "https://www.imdb.com/name/nm0000149/"
+    },
+    {
+      "name": "Kristen Stewart",
+      "url": "https://www.imdb.com/name/nm0829576/"
+    },
+    {
+      "name": "Forest Whitaker",
+      "url": "https://www.imdb.com/name/nm0001845/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Fincher",
+      "url": "https://www.imdb.com/name/nm0000399/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Koepp",
+      "url": "https://www.imdb.com/name/nm0462895/"
+    }
+  ]
+}

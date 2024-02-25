@@ -1,0 +1,62 @@
+{
+  "type": "Movie",
+  "name": "The Florida Project",
+  "url": "https://www.imdb.com/tt5649144/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGQ0NTUwYTUtMTQ4MC00YTRhLWI4MTMtOGE2ZjVmYzk1ZGJkXkEyXkFqcGdeQXVyNjg1NzEwMDE@._V1_.jpg",
+  "description": "Set over one summer, the film follows precocious six-year-old Moonee as she courts mischief and adventure with her ragtag playmates and bonds with her rebellious but caring mother, all while living in the shadows of Walt Disney Wo...",
+  "review": {
+    "author": "gbill-74877",
+    "dateCreated": "2020-04-07",
+    "inLanguage": "English",
+    "heading": "The vicious cycle",
+    "reviewBody": "This film immerses us into the world of lower-class people in Florida who ironically are staying in a cheap hotel next to of Disneyworld, where a set of four magic band bracelet tickets goes for $1600. There are excellent performances all around, especially from Brooklynn Prince, who plays a tough, mouthy, and yet sweet little girl with an arresting honesty. The character is just six but in many ways seems older, growing up too quickly while left mostly on her own to roam around with her friends.\n\nIt doesn&apos;t take long to feel sorry for the children in this situation, with no structure or guidance, and horrible role models. In ten years we can easily imagine the little girl grown up to be a similar mother, and ten years ago we can imagine how the mother must have grown up. Without even a hint of this message from director Sean Baker, who shows masterful restraint, we see how hard it is for someone to rise out of the lower class or a difficult upbringing - not impossible, but not easy. The film may be an ink blot test though, because I can also imagine the response of them getting what they deserve, since the mom doesn&apos;t get a job as others around her do, runs scams, and resorts to prostituting herself, and I have to say, feeling empathy for her is a real test. Just watching how poorly she behaves is one of the turn-offs to the film, even if it&apos;s honest.\n\nThe little girl is easy to feel sorry for because she&apos;s still just six; this is what happens with awful parents. But the mother was also likely brought up in a difficult environment, so the film begs the question of what to do about vicious cycles like this while wisely not attempting to answer it. Instead it just gives us reality, as cringe-inducing as it may be at times.\n\nI loved how it was edited, with cuts tending to shorten scenes. I think that was a wise move, since a lot of the film is simply showing us a series of vignettes without the machinations of a big plot, and this kept it from lagging. I also loved the character Willem Dafoe played - what a tough job he has, and yet he&apos;s a model of empathy and kindness, an absolute angel under the façade of a grizzled hotel manager, never judging anyone. He plays the part perfectly too, without embellishing it with sweetness or anything that doesn&apos;t feel completely authentic. How it resolves is great too, because you can see both the tragedy and the need for it, after everything we&apos;ve seen.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 126836,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": "R",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2018-01-25",
+  "keywords": "poverty,little girl,motel manager,disneyworld,single mother",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Brooklynn Prince",
+      "url": "https://www.imdb.com/name/nm7737419/"
+    },
+    {
+      "name": "Bria Vinaite",
+      "url": "https://www.imdb.com/name/nm8458915/"
+    },
+    {
+      "name": "Willem Dafoe",
+      "url": "https://www.imdb.com/name/nm0000353/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sean Baker",
+      "url": "https://www.imdb.com/name/nm0048918/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sean Baker",
+      "url": "https://www.imdb.com/name/nm0048918/"
+    },
+    {
+      "name": "Chris Bergoch",
+      "url": "https://www.imdb.com/name/nm2022341/"
+    }
+  ]
+}

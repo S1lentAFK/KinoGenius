@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Bad Boys II",
+  "url": "https://www.imdb.com/tt0172156/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmU4NzVkZjEtZmQxMi00ZDY5LWI3ZDYtMWRmZjE5YmYwZjQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "ExpendableMan",
+    "dateCreated": "2007-03-21",
+    "inLanguage": "English",
+    "heading": "Over the top, trigger happy macho nonsense. I loved it!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 265226,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2003-10-03",
+  "keywords": "police rotorcraft,cuba,police,miami florida,sequel",
+  "duration": "PT2H27M",
+  "actor": [
+    {
+      "name": "Will Smith",
+      "url": "https://www.imdb.com/name/nm0000226/"
+    },
+    {
+      "name": "Martin Lawrence",
+      "url": "https://www.imdb.com/name/nm0001454/"
+    },
+    {
+      "name": "Gabrielle Union",
+      "url": "https://www.imdb.com/name/nm0005517/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Bay",
+      "url": "https://www.imdb.com/name/nm0000881/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "George Gallo",
+      "url": "https://www.imdb.com/name/nm0303032/"
+    },
+    {
+      "name": "Marianne Wibberley",
+      "url": "https://www.imdb.com/name/nm0926729/"
+    },
+    {
+      "name": "Cormac Wibberley",
+      "url": "https://www.imdb.com/name/nm0926727/"
+    }
+  ]
+}

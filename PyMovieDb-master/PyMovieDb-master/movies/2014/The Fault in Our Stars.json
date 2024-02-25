@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Fault in Our Stars",
+  "url": "https://www.imdb.com/tt2582846/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTVkMTFiZWItOTFkOC00YTc3LWFhYzQtZTg3NzAxZjJlNTAyXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Victreebong",
+    "dateCreated": "2014-06-12",
+    "inLanguage": "English",
+    "heading": "Would happily see this again!",
+    "reviewBody": "Average American guy right here, and I dug this flick. I don't care how many 13 year olds were in the theater with me, this movie has emotion. After watching the Descendents, I knew Woodley was going places. She simply delivers in this movie. I'm not going to write a long winded review about the summary, but I will tell you about the acting.\n\nElgort and Woodley truly deliver. You forget they're acting each and every scene. The chemistry between the two is palpable. Laura Dern comes out of nowhere; I think the last time I've seen her face was JP. She puts up a pretty good role as Woodley's torn mother. Defoe is pure love/hate on almost a House level. In fact, he goes beyond House hatred with his apathy in this movie. And the two's sidekick (Wolff) is loads of comic relief, which is surprising considering that he too is in the therapy group. The rest of the cast is just kind of there (sorry Tramell). But that's because the camera is on Woodley and Elgort the entire time. I don't even think there's a scene except for flashbacks where the two are absent.\n\nAs far as the movie... An emotional roller-coaster. You will get addicted to their relationship. You will cry big man tears internally (and probably externally) after 1.5 hours. You will be emotionally drained.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 398521,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2014-06-19",
+  "keywords": "cancer,falling in love,novel,terminal illness,teenager",
+  "duration": "PT2H6M",
+  "actor": [
+    {
+      "name": "Shailene Woodley",
+      "url": "https://www.imdb.com/name/nm0940362/"
+    },
+    {
+      "name": "Ansel Elgort",
+      "url": "https://www.imdb.com/name/nm5052065/"
+    },
+    {
+      "name": "Nat Wolff",
+      "url": "https://www.imdb.com/name/nm1822659/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Josh Boone",
+      "url": "https://www.imdb.com/name/nm1837748/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Scott Neustadter",
+      "url": "https://www.imdb.com/name/nm2354099/"
+    },
+    {
+      "name": "Michael H. Weber",
+      "url": "https://www.imdb.com/name/nm2352210/"
+    },
+    {
+      "name": "John Green",
+      "url": "https://www.imdb.com/name/nm1981261/"
+    }
+  ]
+}

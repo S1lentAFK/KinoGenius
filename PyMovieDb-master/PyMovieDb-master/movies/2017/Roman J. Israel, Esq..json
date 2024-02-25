@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Roman J. Israel, Esq.",
+  "url": "https://www.imdb.com/tt6000478/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjE5OGUwNTMtNzI2Mi00M2FkLWEzMDUtMDYxMGUyNzQwMDc4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "description": "Roman J. Israel, Esq., a driven, idealistic defense attorney, finds himself in a tumultuous series of events that lead to a crisis and the necessity for extreme action.",
+  "review": {
+    "author": "thegreenarrow-28184",
+    "dateCreated": "2022-01-14",
+    "inLanguage": "English",
+    "heading": "Its good",
+    "reviewBody": "It was a good movie, but a tad confusing. DW is just as good as ever, it&apos;s worth watching. The movie was a little slow, but still not bad. If your a Hard core DW fan its worth a watch, but for a casual movie fan id say you can pass on it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 42822,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2017-11-22",
+  "keywords": "lawyer,court,murder,los angeles california,courtroom",
+  "duration": "PT2H2M",
+  "actor": [
+    {
+      "name": "Denzel Washington",
+      "url": "https://www.imdb.com/name/nm0000243/"
+    },
+    {
+      "name": "Colin Farrell",
+      "url": "https://www.imdb.com/name/nm0268199/"
+    },
+    {
+      "name": "Carmen Ejogo",
+      "url": "https://www.imdb.com/name/nm0252238/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dan Gilroy",
+      "url": "https://www.imdb.com/name/nm0319659/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dan Gilroy",
+      "url": "https://www.imdb.com/name/nm0319659/"
+    }
+  ]
+}

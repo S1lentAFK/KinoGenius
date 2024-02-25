@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Loverboy",
+  "url": "https://www.imdb.com/tt0097790/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTEyZjZkM2YtYzBkOC00MzI3LWE3ODgtY2QwYjI4NDM3ODQ5XkEyXkFqcGdeQXVyMjY3MjUzNDk@._V1_.jpg",
+  "description": null,
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "1990-05-25",
+  "keywords": "father son relationship,mother son relationship,toy robot,pizzeria,farce",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Patrick Dempsey",
+      "url": "https://www.imdb.com/name/nm0001131/"
+    },
+    {
+      "name": "Kate Jackson",
+      "url": "https://www.imdb.com/name/nm0000462/"
+    },
+    {
+      "name": "Robert Ginty",
+      "url": "https://www.imdb.com/name/nm0320180/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joan Micklin Silver",
+      "url": "https://www.imdb.com/name/nm0798717/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robin Schiff",
+      "url": "https://www.imdb.com/name/nm0771494/"
+    },
+    {
+      "name": "Tom Ropelewski",
+      "url": "https://www.imdb.com/name/nm0740568/"
+    },
+    {
+      "name": "Leslie Dixon",
+      "url": "https://www.imdb.com/name/nm0228908/"
+    }
+  ],
+  "review": {
+    "author": "Smarty1600",
+    "dateCreated": "2002-10-27",
+    "inLanguage": "English",
+    "heading": "Acting at its best.",
+    "reviewBody": "I realize that this movie is not quite Oscar worthy, but it is definitely my favorite of all time. It is great if you need cheering up or if you're just in the mood for a laugh. I highly recommend purchasing this movie...it is a must for all movie collections. Wow, the way I'm promoting it, you'd think I owned the rights or something! :)",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 8710,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  }
+}

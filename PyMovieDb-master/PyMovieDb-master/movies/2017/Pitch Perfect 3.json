@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "Pitch Perfect 3",
+  "url": "https://www.imdb.com/tt4765284/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU5NDI1MjkwMF5BMl5BanBnXkFtZTgwNjIxNTY2MzI@._V1_.jpg",
+  "description": "Following their win at the world championship, the now separated Bellas reunite for one last singing competition at an overseas USO tour, but face a group who uses both instruments and voices.",
+  "review": {
+    "author": "jtindahouse",
+    "dateCreated": "2018-02-23",
+    "inLanguage": "English",
+    "heading": "Doesn&apos;t quite have the magic this time around",
+    "reviewBody": "I&apos;m a surprisingly big fan of the &apos;Pitch Perfect&apos; series. I even enjoyed the first sequel more than the original. This time around though I don&apos;t think they got it quite right. There&apos;s a giant glaring hole in the middle of the film and that is an almost complete lack of a plot. Sure, one is kind of thrown in there near the end as an after-thought, but by that stage it&apos;s too late. The whole thing just feels like an excuse for these guys to perform more songs. Now, I&apos;m not saying there&apos;s anything wrong with that, but when you can have both it&apos;s disappointing for it not to be there.\n\nOtherwise though all the things that made the first two great are still present. &apos;Fat Amy&apos; is still in terrific form. Apart from the two commentators she really is 95% of the comic relief the film has, but she manages to carry it no problem. The character works really well and I&apos;d have no problem seeing a spin-off for her. The songs were also good for the most part, but perhaps there weren&apos;t quite as many bangers as in the original two films. Not having the boys acapella band this time around I think quite hurt the film. \n\n&apos;Pitch Perfect 3&apos; isn&apos;t a bad film by any stretch of the imagination, I just don&apos;t think it can live up to the high standards set by the first two. If this is the last edition in the series though I think they can hold their heads very high, with a fine trilogy having been produced.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 71203,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Comedy",
+    "Music"
+  ],
+  "datePublished": "2017-12-22",
+  "keywords": "kidnapping,triple f rated,f rated,father daughter relationship,father daughter conflict",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Anna Kendrick",
+      "url": "https://www.imdb.com/name/nm0447695/"
+    },
+    {
+      "name": "Rebel Wilson",
+      "url": "https://www.imdb.com/name/nm2313103/"
+    },
+    {
+      "name": "Brittany Snow",
+      "url": "https://www.imdb.com/name/nm0811242/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Trish Sie",
+      "url": "https://www.imdb.com/name/nm2586324/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kay Cannon",
+      "url": "https://www.imdb.com/name/nm0134224/"
+    },
+    {
+      "name": "Mike White",
+      "url": "https://www.imdb.com/name/nm0925234/"
+    },
+    {
+      "name": "Mickey Rapkin",
+      "url": "https://www.imdb.com/name/nm3015467/"
+    }
+  ]
+}

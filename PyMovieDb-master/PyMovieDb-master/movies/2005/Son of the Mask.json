@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Son of the Mask",
+  "url": "https://www.imdb.com/tt0362165/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIxNzA5NzIzOV5BMl5BanBnXkFtZTcwOTc5NzcyMQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "icm0",
+    "dateCreated": "2021-03-18",
+    "inLanguage": "English",
+    "heading": "Sadly not good enough",
+    "reviewBody": "Worst movie ever.. I usually like cheesy movies but this is in another level, boring , disgusting parts and a very poor script .",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 59058,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 2.3
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2005-02-11",
+  "keywords": "mask,baby,party,museum,surrealism",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Jamie Kennedy",
+      "url": "https://www.imdb.com/name/nm0005085/"
+    },
+    {
+      "name": "Traylor Howard",
+      "url": "https://www.imdb.com/name/nm0005025/"
+    },
+    {
+      "name": "Alan Cumming",
+      "url": "https://www.imdb.com/name/nm0001086/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lawrence Guterman",
+      "url": "https://www.imdb.com/name/nm0349183/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lance Khazei",
+      "url": "https://www.imdb.com/name/nm1141749/"
+    }
+  ]
+}

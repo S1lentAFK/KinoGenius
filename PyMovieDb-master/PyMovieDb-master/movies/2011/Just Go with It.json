@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Just Go with It",
+  "url": "https://www.imdb.com/tt1564367/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM3MzM3NDE5MV5BMl5BanBnXkFtZTcwNDE5MTUxNA@@._V1_.jpg",
+  "description": "On a weekend trip to Hawaii, a plastic surgeon convinces his loyal assistant to pose as his soon-to-be-divorced wife in order to cover up a careless lie he told to his much-younger girlfriend.",
+  "datePublished": "2011-02-11",
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "duration": "PT1H57M",
+  "rating": {
+    "ratingCount": 263134,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "review": {
+    "author": "TheLittleSongbird",
+    "dateCreated": "2011-10-02",
+    "inLanguage": "English",
+    "heading": "Decent if unexceptional",
+    "reviewBody": "I am not a fan of Adam Sandler, though I have liked some of his performances and films, but when Jennifer Aniston has good material she is good. I was expecting Just Go with It to be crap, but while it was unexceptional on the whole I found it decent. Both Sandler and Anniston have done better, both have also done worse. Sandler is not amazing, but he is not as irritating as he can be. Anniston's role is one-dimensional, but she is beguiling and the chemistry they have is likable. Nicky Swardson, who I can't stand usually, is also good. The film looks appealing, is directed assuredly and the soundtrack is fitting and not too generic. The script however while having some funny and tender moments has a number of weak moments coming across as stilted and cloying. The story is rather thin and predictable especially the ending, and the characters while appealingly performed are generally under-developed and stereotyped. All in all, a decent and better than expected film but not great. 6/10 Bethany Cox",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "keywords": "2010s,year 1988,year 1992,year 2011,1980s",
+  "actors": [
+    {
+      "name": "Adam Sandler",
+      "url": "https://www.imdb.com/name/nm0001191/"
+    },
+    {
+      "name": "Jennifer Aniston",
+      "url": "https://www.imdb.com/name/nm0000098/"
+    },
+    {
+      "name": "Brooklyn Decker",
+      "url": "https://www.imdb.com/name/nm2395937/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dennis Dugan",
+      "url": "https://www.imdb.com/name/nm0240797/"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Allan Loeb",
+      "url": "https://www.imdb.com/name/nm1615610/"
+    },
+    {
+      "name": "Timothy Dowling",
+      "url": "https://www.imdb.com/name/nm0000251/"
+    },
+    {
+      "name": "I.A.L. Diamond",
+      "url": "https://www.imdb.com/name/nm0224634/"
+    }
+  ]
+}

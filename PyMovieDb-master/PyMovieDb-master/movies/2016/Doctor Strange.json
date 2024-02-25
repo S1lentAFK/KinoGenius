@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Doctor Strange",
+  "url": "https://www.imdb.com/tt1211837/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_.jpg",
+  "description": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
+  "review": {
+    "author": "Jeremy_Urquhart",
+    "dateCreated": "2021-01-31",
+    "inLanguage": "English",
+    "heading": "A good entry into the MCU",
+    "reviewBody": "This one holds up surprisingly well on a rewatch. I was bummed to find some of the effects already looking dated in Civil War, but almost all of the visual effects-heavy shots in Doctor Strange hold up (probably thanks to how fantastical and decidedly not grounded in reality many of those shots are).\\n\\nThere are some very cool visuals and set pieces, the cast is very good, and it's paced well, clocking in well under two hours if you factor out the almost 10 minutes of credits.\\n\\nDespite mostly working, I'd say as a screenplay it doesn't quite feel 100% satisfying, and great actors like Mikkelsen and Swinton are good but kind of under-utilised (Chiwetel Ejiofor is good but maybe goes a little too hard? He kinda sounds like a voice actor from the Elder Scrolls, the way he speaks in some scenes \\ud83d\\ude05)",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 797263,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "2016-10-25",
+  "keywords": "magic,wizard,time loop,neurosurgeon,doctor",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Benedict Cumberbatch",
+      "url": "https://www.imdb.com/name/nm1212722/"
+    },
+    {
+      "name": "Chiwetel Ejiofor",
+      "url": "https://www.imdb.com/name/nm0252230/"
+    },
+    {
+      "name": "Rachel McAdams",
+      "url": "https://www.imdb.com/name/nm1046097/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Scott Derrickson",
+      "url": "https://www.imdb.com/name/nm0220600/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jon Spaihts",
+      "url": "https://www.imdb.com/name/nm3123612/"
+    },
+    {
+      "name": "Scott Derrickson",
+      "url": "https://www.imdb.com/name/nm0220600/"
+    },
+    {
+      "name": "C. Robert Cargill",
+      "url": "https://www.imdb.com/name/nm1803036/"
+    }
+  ]
+}

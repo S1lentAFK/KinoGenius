@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Teacher&apos;s Pet",
+  "url": "https://www.imdb.com/tt0052278/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWIxNmUyM2EtNGM2Zi00OGZhLTg5ZTEtNGJlZDAxMjI2ZjZjXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "theowinthrop",
+    "dateCreated": "2005-09-06",
+    "inLanguage": "English",
+    "heading": "Clark Gable&apos;s Twilight Quartet of Films",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 4820,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "U",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "1958-04-01",
+  "keywords": "journalism,editor,night school,professor,psychotronic film",
+  "duration": "PT2H",
+  "actor": [
+    {
+      "name": "Clark Gable",
+      "url": "https://www.imdb.com/name/nm0000022/"
+    },
+    {
+      "name": "Doris Day",
+      "url": "https://www.imdb.com/name/nm0000013/"
+    },
+    {
+      "name": "Gig Young",
+      "url": "https://www.imdb.com/name/nm0949574/"
+    }
+  ],
+  "director": [
+    {
+      "name": "George Seaton",
+      "url": "https://www.imdb.com/name/nm0780833/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Fay Kanin",
+      "url": "https://www.imdb.com/name/nm0437716/"
+    },
+    {
+      "name": "Michael Kanin",
+      "url": "https://www.imdb.com/name/nm0437720/"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "Half Nelson",
+  "url": "https://www.imdb.com/tt0468489/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg4ODg1OTIwNl5BMl5BanBnXkFtZTcwOTA3ODQzMQ@@._V1_.jpg",
+  "description": "An inner-city junior high school teacher with a drug habit forms an unlikely friendship with one of his students after she discovers his secret.",
+  "review": {
+    "author": "g-bodyl",
+    "dateCreated": "2014-02-19",
+    "inLanguage": "English",
+    "heading": "A Mesmerizing Character Study!",
+    "reviewBody": "Half Nelson, a very low-budget movie, happens to be one of the most intense, revealing character dramas of recent years. At first, I didn't like the choppy camera work but then I came to realize it added a more gritty, realistic feeling to the film. It's definitely slow and kind of depressing, but the teacher-student relation will keep you entranced and wondering what is going to happen to these two.\n\nRyan Fleck's film is about a history teacher and basketball coach who has a serious drug habit and he keeps going everyday because of his love of the subject and more importantly, his students. But one day, one of his students, a troubled girl, witnesses his secret and that secret will bring them together along a shared path.\n\nRyan Gosling has been in so many great movies but this one of his best early roles as leading man. He gives one hell of a performance and it shows how this dude can act. Does he play a bad man? I would think not. Is he a good guy with serious flaws? I would say yes. Because of Gosling's intense portrayal, we care about what happens to this guy. Shareeka Epps does very well as the troubled girl and she holds her own against Gosling.\n\nOverall, Half Nelson is a beautiful drama about how two similarly depressed people are able to connect even though they don't find much in life. It's a bit depressing but at the same time, it can be a tad uplifting as well. For a very low budget, this film speaks on higher levels and proves you don't need extremely high budgets to make good movies. I rate this film 9/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 91367,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2007-04-20",
+  "keywords": "man in jockey shorts,student,classroom,class,teacher",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Ryan Gosling",
+      "url": "https://www.imdb.com/name/nm0331516/"
+    },
+    {
+      "name": "Anthony Mackie",
+      "url": "https://www.imdb.com/name/nm1107001/"
+    },
+    {
+      "name": "Shareeka Epps",
+      "url": "https://www.imdb.com/name/nm1560274/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ryan Fleck",
+      "url": "https://www.imdb.com/name/nm0281396/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ryan Fleck",
+      "url": "https://www.imdb.com/name/nm0281396/"
+    },
+    {
+      "name": "Anna Boden",
+      "url": "https://www.imdb.com/name/nm1349818/"
+    }
+  ]
+}

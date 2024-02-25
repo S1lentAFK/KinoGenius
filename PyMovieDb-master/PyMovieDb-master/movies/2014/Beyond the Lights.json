@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Beyond the Lights",
+  "url": "https://www.imdb.com/tt3125324/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkzNDA0NzY1Ml5BMl5BanBnXkFtZTgwMjEwMDkzMjE@._V1_.jpg",
+  "description": "The pressures of fame have superstar singer Noni on the edge, until she meets Kaz, a young cop who works to help her find the courage to develop her own voice and break free to become the artist she was meant to be.",
+  "review": {
+    "author": "wisdombody7",
+    "dateCreated": "2015-02-24",
+    "inLanguage": "English",
+    "heading": "Pleasantly Surprised",
+    "reviewBody": "I had never heard of this movie before a colleague recommended it and even then, had no intention of watching it. I was bored and watched it and MY OH MY was I pleasantly surprised by how much I enjoyed it! I thought it would be a cheesy movie but the story and actors were extremely believable. The addition of realistic award show backdrops added to the current condition of the music industry psyche. Soundtrack was lovely and I enjoyed hearing a current Amel Larrieux jam during such a touching scene. (Sidenote: Check out Ice Cream Every Day for more Amel gems!)\\n\\nI HIGHLY recommend this movie to anyone interested in a combination of a love story and music. And if this helps, I wouldn&apos;t describe this as a chick flick at all - it has a universal appeal to anyone who stays current with the industry and knows how it can steal souls.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 17307,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "12",
+  "genre": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "datePublished": "2014-11-14",
+  "keywords": "singer,sex symbol,domestic abuse,suicide attempt,public humiliation",
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Gugu Mbatha-Raw",
+      "url": "https://www.imdb.com/name/nm1813221/"
+    },
+    {
+      "name": "Nate Parker",
+      "url": "https://www.imdb.com/name/nm1676649/"
+    },
+    {
+      "name": "Minnie Driver",
+      "url": "https://www.imdb.com/name/nm0000378/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gina Prince-Bythewood",
+      "url": "https://www.imdb.com/name/nm0697656/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Gina Prince-Bythewood",
+      "url": "https://www.imdb.com/name/nm0697656/"
+    }
+  ]
+}

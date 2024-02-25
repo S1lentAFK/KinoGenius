@@ -1,0 +1,55 @@
+
+
+{
+  "type": "Movie",
+  "name": "Our City Dreams",
+  "url": "https://www.imdb.com/tt0968760/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg3NjIwMTQzMl5BMl5BanBnXkFtZTcwNjE0MDkyMg@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Buddy-51",
+    "dateCreated": "2009-10-25",
+    "inLanguage": "English",
+    "heading": "fair-to-middling documentary",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 115,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2008-08-10",
+  "keywords": "art and entertainment documentary,artist,new york city,art",
+  "duration": "PT1H25M",
+  "actor": [
+    {
+      "name": "Marina Abramovic",
+      "url": "https://www.imdb.com/name/nm0009127/"
+    },
+    {
+      "name": "Ghada Amer",
+      "url": "https://www.imdb.com/name/nm2556322/"
+    },
+    {
+      "name": "Caledonia Curry",
+      "url": "https://www.imdb.com/name/nm1857813/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chiara Clemente",
+      "url": "https://www.imdb.com/name/nm1513681/"
+    }
+  ],
+  "creator": []
+}

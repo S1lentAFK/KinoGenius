@@ -1,0 +1,52 @@
+{
+  "type": "Movie",
+  "name": "Sleeping with Charlie Kaufman",
+  "url": "https://www.imdb.com/tt1597145/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY3ODAzNjgxNV5BMl5BanBnXkFtZTcwOTcyMDg3NA@@._V1_.jpg",
+  "description": "The rare example of adultery bringing two people closer together, a man admits to an affair and his girlfriend couldn&apos;t be happier.",
+  "review": {
+    "author": "Bo_Dennis",
+    "dateCreated": "2010-02-14",
+    "inLanguage": "English",
+    "heading": "Funny concept, I watched it with the wife and laughed",
+    "reviewBody": "Short, sweet, and funny. At least I think it&apos;s supposed to be funny. Interesting concept to pretend your girlfriend/wife is her twin sister for variety. My wife liked it. \n\nAs a short filmmaker myself, I think this was a sweet film. It had an idea. I don&apos;t think many people understand the La Nouvelle Vague stuff, like over-saturation and deep focus but I got it. Clever.\n\nThe animation maybe didn&apos;t work for me. I think it might have been better as a live-action film. I thought the animation was a little flat.\n\nBut nice homage to Charlie Kaufman.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 17,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Animation",
+    "Short",
+    "Comedy"
+  ],
+  "datePublished": "2010-06-03",
+  "keywords": "affair,adultery,twin,french new wave",
+  "duration": "PT2M",
+  "actor": [
+    {
+      "name": "Xtranormal",
+      "url": "https://www.imdb.com/name/nm6112209/"
+    }
+  ],
+  "director": [
+    {
+      "name": "J. Roland Kelly",
+      "url": "https://www.imdb.com/name/nm3796608/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "J. Roland Kelly",
+      "url": "https://www.imdb.com/name/nm3796608/"
+    }
+  ]
+}

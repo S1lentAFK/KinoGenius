@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "In the Loop",
+  "url": "https://www.imdb.com/tt1226774/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NzQxNzA1OF5BMl5BanBnXkFtZTcwNzQ0NDk0Mg@@._V1_.jpg",
+  "description": "A political satire about a group of skeptical American and British operatives attempting to prevent a war between two countries.",
+  "review": {
+    "author": "sundevil27",
+    "dateCreated": "2009-01-23",
+    "inLanguage": "English",
+    "heading": "Get In the Loop",
+    "reviewBody": "Is it a work of fictional farce or an insightful view of the members of the governmental bureaucracy? Probably in truth, In The Loop is a little bit of both, but more so its a whole lot of fun at the governments expense. There have been numerous films over the years giving us insight into how our government works, at times it sure looks bleak and unjust, but we sure haven&apos;t seen it in such a ridiculous view. In The Loop aims at making sure they scrutinize the bureaucratic desk jocks for all their worth. The film follows the Minister of International Development (Tom Hollander) after he has put his foot in his mouth, unintentionally announcing that war is unforeseeable. Back tracking and word-smith manipulations prove mute, fortunately for the Minister he&apos;s got big fans in the US who would like nothing more then to use the naive Brit in their political posturing. The hawks begin circling and before the Minister knows what game he&apos;s playing he&apos;s into deep and merely a puppet in the political theater.\\n\\nThere is a hint of a serious political thriller in the plot here, but In The Loop knows we&apos;ve seen all that before so why not have a little fun, actually why not have a whole lot of fun and throw in lots of scalding four letter words and absolute British wit. Tom Hollander as the Minister of I.D. is dumb-foundingly perfect in his role and is well complemented by his bungling assistant Oliver (played exceptionally by Chris Addison). As the Director of Communications, Peter Capaldi steals the show with his relentlessly scathing superhuman vulgarity ridden wit. Those with a distaste for such colorful language should look elsewhere as their ears will certainly be on fire if they can last through a third of the film. Personally the language was not a problem for me, I appreciate a master of the finer words, and Capaldi has shown himself to deliver his lines with such craftsmanship that sailors around the world will be put to shame.\\n\\nThe Brits are a fantastic mess, but of course what international mess would be complete without the United States Govt.. And so comes the behemoth know as James Gandolifini, the Don Capo hasn&apos;t lost any of his on-screen presence. As the ol&apos; war vet Pentagon General, Gandolfini is gruff and verbally abusive in a really mean spirited way, which is glorious. Those with a keen sense of cinema will notice how well the film shifts humor as the Brits come across the pond to the the dry humor of America. Gandolfini makes the most of his screen time, but on the American side the majority of the ridiculousness comes from Mimi Kennedy, as the Assistant Secretary of Diplomacy and her bickering 20 something Capital Hill brown nosing assistants.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 61243,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2009-04-17",
+  "keywords": "politics,politician,satire,smashing fax machine,committee",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Tom Hollander",
+      "url": "https://www.imdb.com/name/nm0390903/"
+    },
+    {
+      "name": "Peter Capaldi",
+      "url": "https://www.imdb.com/name/nm0134922/"
+    },
+    {
+      "name": "James Gandolfini",
+      "url": "https://www.imdb.com/name/nm0001254/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Armando Iannucci",
+      "url": "https://www.imdb.com/name/nm0406334/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jesse Armstrong",
+      "url": "https://www.imdb.com/name/nm1104036/"
+    },
+    {
+      "name": "Simon Blackwell",
+      "url": "https://www.imdb.com/name/nm1006581/"
+    },
+    {
+      "name": "Armando Iannucci",
+      "url": "https://www.imdb.com/name/nm0406334/"
+    }
+  ]
+}

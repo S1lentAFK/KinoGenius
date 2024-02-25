@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Survival of the Dead",
+  "url": "https://www.imdb.com/tt1134854/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzE1NDMxMDAzOF5BMl5BanBnXkFtZTcwMjgzNDcyMw@@._V1_.jpg",
+  "description": "On an island off the coast of North America, local residents simultaneously fight a zombie epidemic while hoping for a cure to return their un-dead relatives back to their human state.",
+  "review": {
+    "author": "BA_Harrison",
+    "dateCreated": "2010-04-21",
+    "inLanguage": "English",
+    "heading": "How could he get it so wrong?",
+    "reviewBody": "25 years ago, I sat open-mouthed in awe of the intense visceral horror experience that was George Romero&apos;s Day of the Dead; today, I sat jaw agape once more at the director&apos;s latest zombie flick, Survival of the Dead, although for a very different reason: utter disbelief!\n\nHow could George Romero, the creator of the modern movie zombie, get everything so totally wrong?\n\nWith Survival, it looks like the director has finally taken on board the criticism aimed at his last two films and ditched the heavy-handed social commentary (the messages are still there, but are far less &apos;in-your-face&apos;); unfortunately, somewhere during the creative process, he&apos;s also unwisely opted to up the level of comedy, meaning that much of this film plays the global zombie threat for laughs.\n\nRemember how Romero used the slapstick custard pie scene in Dawn of the Dead to momentarily relieve the tension? Well in this one, it&apos;s all &apos;custard pie&apos; and absolutely no tension. During the course of the film, we get to witness several cringe-worthy comedy zombie slayings, a hilarious bitter feud between two stereotypical Irish clans, a zombie woman on horseback, a car ferry strangely moored in six feet of water, zombie fishing, plus loads of other nonsense that beggars belief. Not once, however, do we get a sense of dread. The closest Romero ever comes to delivering the goods is with a couple of cheap jump scares that are accompanied by loud noises and some admittedly splattery gore (that relies a little too heavily on CGI for my liking).\n\nHad Survival of the Dead been made by anyone other than Romero, then I may have rated it as high as 5/10: it&apos;s never boring, I suppose. But coming from the guy who practically invented the genre, the film can only be seen as a massive disappointment—easily the worst of his &apos;Dead&apos; films to date—and therefore fully deserves my lower score of 3/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 22420,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  },
+  "contentRating": "18",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Horror"
+  ],
+  "datePublished": "2010-05-06",
+  "keywords": "2000s,grindhouse film,midnight movie,four word title,biopunk",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Alan Van Sprang",
+      "url": "https://www.imdb.com/name/nm0888022/"
+    },
+    {
+      "name": "Kenneth Welsh",
+      "url": "https://www.imdb.com/name/nm0920564/"
+    },
+    {
+      "name": "Kathleen Munroe",
+      "url": "https://www.imdb.com/name/nm1182008/"
+    }
+  ],
+  "director": [
+    {
+      "name": "George A. Romero",
+      "url": "https://www.imdb.com/name/nm0001681/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "George A. Romero",
+      "url": "https://www.imdb.com/name/nm0001681/"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "A Chronicle of Corpses",
+  "url": "https://www.imdb.com/tt0249443/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMwODM5NzMxNF5BMl5BanBnXkFtZTcwOTk5OTQyMQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "drij",
+    "dateCreated": "2004-06-04",
+    "inLanguage": "English",
+    "heading": "A film that gives B-Movies a bad name...",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 2
+    }
+  },
+  "rating": {
+    "ratingCount": 190,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4
+  },
+  "contentRating": null,
+  "genre": [
+    "Drama",
+    "Horror"
+  ],
+  "datePublished": "2000-03-24",
+  "keywords": "evil,surrealism,murder,homosexual,faith",
+  "duration": "PT1H23M",
+  "actor": [
+    {
+      "name": "Marj Dusay",
+      "url": "https://www.imdb.com/name/nm0244582/"
+    },
+    {
+      "name": "Oliver Wyman",
+      "url": "https://www.imdb.com/name/nm0943849/"
+    },
+    {
+      "name": "Margot White",
+      "url": "https://www.imdb.com/name/nm0925171/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrew Repasky McElhinney",
+      "url": "https://www.imdb.com/name/nm0568396/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Repasky McElhinney",
+      "url": "https://www.imdb.com/name/nm0568396/"
+    }
+  ]
+}

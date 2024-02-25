@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Whiskey Tango Foxtrot",
+  "url": "https://www.imdb.com/tt3553442/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIxOTIzMTM5OF5BMl5BanBnXkFtZTgwNDIxNTA1NzE@._V1_.jpg",
+  "description": "A journalist recounts her wartime coverage in Afghanistan.",
+  "review": {
+    "author": "theRetiree",
+    "dateCreated": "2016-03-15",
+    "inLanguage": "English",
+    "heading": "Best Movie About Women in War Since Fort Bliss",
+    "reviewBody": "OK, so Tina Fey isn&apos;t actually a soldier, but she&apos;s not the horny bimbo who gets busy with George Clooney in Three Kings either. Its now clear that Tina Fey is one of the most multi-talented people in the entertainment world, and this movie will go far toward solidifying her reputation as a broad gauge polymath. Aside from everything else, its clear she&apos;s a wonderful actor, and interestingly enough all the really strong central characters in this movie are indeed women (as Tina ruefully laments that she should have googled one particular character.) Don&apos;t worry, there&apos;s plenty of blood and guts, bad language, and techno porn for the teen-aged boys (why on earth would anybody come to a R rated movie with WTF as the title and give it a bad review for being shocked by language, sex, and violence. Don&apos;t however, expect Margot Robbie or anyone else to replay Margot&apos;s Wolf of Wall Street shenanigans.) Even the Anglo actors playing indigini (as we called the locals in Viet nam) are wonderful. Well worth seeing, worth owning.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 56061,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2016-05-13",
+  "keywords": "afghanistan,journalist,cigarette smoking,u.s. military,karaoke",
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "Tina Fey",
+      "url": "https://www.imdb.com/name/nm0275486/"
+    },
+    {
+      "name": "Margot Robbie",
+      "url": "https://www.imdb.com/name/nm3053338/"
+    },
+    {
+      "name": "Martin Freeman",
+      "url": "https://www.imdb.com/name/nm0293509/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Glenn Ficarra",
+      "url": "https://www.imdb.com/name/nm0275629/"
+    },
+    {
+      "name": "John Requa",
+      "url": "https://www.imdb.com/name/nm0720135/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Carlock",
+      "url": "https://www.imdb.com/name/nm1061622/"
+    },
+    {
+      "name": "Kim Barker",
+      "url": "https://www.imdb.com/name/nm5092324/"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Repo Men",
+  "url": "https://www.imdb.com/tt1053424/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA4MTUxODM0MV5BMl5BanBnXkFtZTcwMDg3MTgwMw@@._V1_.jpg",
+  "description": "Set in the near future when artificial organs can be bought on credit, it revolves around a man who struggles to make the payments on a heart he has purchased. He must therefore go on the run before said ticker is repossessed.",
+  "review": {
+    "author": "I_saw_it_happen",
+    "dateCreated": "2010-06-22",
+    "inLanguage": "English",
+    "heading": "A surprisingly vapid dystopian flick",
+    "reviewBody": "All in all, I found this movie quite a disappointment. I have a soft spot for sci-fi, and as several others have commented, Jude Law is a good reliable actor in sci-fi roles. But this movie seems awkwardly assembled, not quite thought-out, and a bit too proud of itself to be taken seriously. Throughout the film, at what seem to be important developmental points or even plot twists, there are one-liners tossed out with great sincerity, which in most cases either sound silly, pretentious, intellectually impoverished, or simply misplaced in this film. The first scene of the film, for instance, we are given a summarization of the &apos;Schroedinger&apos;s Cat&apos; experiment, complete with some of the horrible logic underlying the film--- &apos;if something isn&apos;t definably dead or alive, then it must be both&apos;. The fact that this statement shows a misunderstanding of both the scientific and philosophic merit of the experiment isn&apos;t the problem, because even incorrect junk science can be a good vehicle in a movie. The problem is that there&apos;s no reason to bring this up in the first place. the movie doesn&apos;t tackle whether things are dead or alive, whether being comprised of &apos;rented organs&apos; is an crisis of existential definitions or what have you. The reference is just thrown in there to sound smart, to seem thoughtful, when the film is anything but. And this sort of pseudo intellectual posturing contaminates the movie.\n\nThe whole film&apos;s pace feels quite forced, as well. Jude Law seems underutilized. One can&apos;t help but wonder if he got drunk for the majority of the shooting for this film. When his wife leaves him, there&apos;s almost no emotion in the scene. When twenty minutes later our hero has decided to dedicate his eternal love to a street girl he finds attractive, there&apos;s really no chemistry whatsoever--- but apparently the movie insists that there be a love interest, and so it&apos;s just thrown in there, pointlessly. Because even in this day and age, it&apos;s apparently impossible to propose a hero character without a token damsel in distress.\n\nThen there&apos;s the kind of gratuitous and uncomfortable &apos;surgical sex&apos; scene. It&apos;s apparent that whoever choreographed it thought they were being clever, but the whole thing just seems like an attempt to force some sort of correlation between sex and surgical procedures that really just felt misplaced, and kind of heavy-handed. Granted, it has a purpose within the plot, but it&apos;s basically a slice of experimental film amid a sci-fi action flick, and like a lot of experiments, it fails.\n\nThere are some positive points to the film. While Jude Law&apos;s acting is a disappointment, Forrest Whittaker delivers a solid role. The action scenes are quite good, and while the overbearing presence of music makes some of it feel like a weird music video, it&apos;s nonetheless well-choreographed fighting and slashing. Some of the sets are good, although a fair number of sets and sequences seem blatant rip-offs of &apos;Brazil&apos; (to say nothing of the ending)...\n\nA pretty mindless flick. It&apos;s better than watching dust settle on your screen. A prettily-packaged emptiness.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 110323,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "datePublished": "2010-04-16",
+  "keywords": "artificial organ,dystopia,evil corporation,on the run,techno thriller",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Jude Law",
+      "url": "https://www.imdb.com/name/nm0000179/"
+    },
+    {
+      "name": "Forest Whitaker",
+      "url": "https://www.imdb.com/name/nm0001845/"
+    },
+    {
+      "name": "Alice Braga",
+      "url": "https://www.imdb.com/name/nm0103797/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Miguel Sapochnik",
+      "url": "https://www.imdb.com/name/nm0764601/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Eric Garcia",
+      "url": "https://www.imdb.com/name/nm1201715/"
+    },
+    {
+      "name": "Garrett Lerner",
+      "url": "https://www.imdb.com/name/nm1068424/"
+    }
+  ]
+}

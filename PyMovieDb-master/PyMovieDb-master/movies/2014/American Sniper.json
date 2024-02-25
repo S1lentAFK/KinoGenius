@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "American Sniper",
+  "url": "https://www.imdb.com/tt2179136/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_.jpg",
+  "description": "Navy S.E.A.L. sniper Chris Kyle&apos;s pinpoint accuracy saves countless lives on the battlefield and turns him into a legend. Back home with his family after four tours of duty, however, Chris finds that it is the war he can&apos;t leave behind.",
+  "review": {
+    "author": "imizrahi2002",
+    "dateCreated": "2015-01-11",
+    "inLanguage": "English",
+    "heading": "clint hits the target with American sniper...",
+    "reviewBody": "it was extremely &apos;even&apos;. nothing seemed overplayed. well balanced storytelling. as someone else wrote, best war movie i&apos;ve seen in years...and while we&apos;re at it, best clint movie in a few outings, as well... i agree that the ending is a bit sudden. but there was no reason to drag it out, either... i don&apos;t feel it lingered on any one dynamic of what would be expected from a film like this...not TOO much violence or proselytizing/flag waving or lingering on casualty horrors... it doesn&apos;t, on the other hand, turn away from any of the ugliness, either... i thought bradley cooper did a great job in the role. the changes he gradually instilled into the character were subtle but present. it&apos;s as well done a war movie as i&apos;ll ever need.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 524418,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Biography",
+    "Drama"
+  ],
+  "datePublished": "2015-01-16",
+  "keywords": "sniper,iraq war,u.s. invasion of iraq,iraq,navy seal",
+  "duration": "PT2H13M",
+  "actor": [
+    {
+      "name": "Bradley Cooper",
+      "url": "https://www.imdb.com/name/nm0177896/"
+    },
+    {
+      "name": "Sienna Miller",
+      "url": "https://www.imdb.com/name/nm1092227/"
+    },
+    {
+      "name": "Kyle Gallner",
+      "url": "https://www.imdb.com/name/nm0973177/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Clint Eastwood",
+      "url": "https://www.imdb.com/name/nm0000142/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jason Hall",
+      "url": "https://www.imdb.com/name/nm0355699/"
+    },
+    {
+      "name": "Chris Kyle",
+      "url": "https://www.imdb.com/name/nm4881574/"
+    },
+    {
+      "name": "Scott McEwen",
+      "url": "https://www.imdb.com/name/nm6984200/"
+    }
+  ]
+}

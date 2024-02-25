@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Suicide Squad",
+  "url": "https://www.imdb.com/tt1386697/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_.jpg",
+  "description": "A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.",
+  "review": {
+    "author": "TheLittleSongbird",
+    "dateCreated": "2016-09-30",
+    "inLanguage": "English",
+    "heading": "The potential was big, the waste of it was even bigger",
+    "reviewBody": "&apos;Suicide Squad&apos; didn&apos;t sound so bad in hindsight. The concept was actually pretty interesting and there is a good deal of talent in the cast. Unfortunately what should have been a winner turned out to be a sore loser, even more of a wasted opportunity than &apos;Batman vs. Superman&apos;.\n\nThe costume and production design is both brooding and vibrantly colourful. There are two performances that are good. One is the enormously fun but also just as deliciously deranged Margot Robbie, her Harley Quinn being the film&apos;s most interesting character. The other is a menacing Viola Davis, proving that even a stony face makes one feel uneasy. El Diablo is also entertaining, and one of the few characters to be used right and feel necessary.\n\nHowever, for me Will Smith didn&apos;t work. You don&apos;t see him as Deadshot, you see him playing himself in wooden fashion here and plays Deadshot too jovially, something that Deadshot isn&apos;t really, that he also had two introductions gives an indication that the writers didn&apos;t know how to characterise the character. Enchantress is a pretty lame villain played with all cheese no menace by Cara Delevigne, while Jared Leto&apos;s Joker proves pointless and misplaced to the story (other than giving Harley Quinn backstory which wasn&apos;t fleshed out enough). Likewise with the Batman of Ben Affleck, while Killer Croc has nothing to do.\n\nOne of &apos;Suicide Squad&apos;s&apos; biggest failings is its treatment of the characters. Only Harley Quinn is fully fleshed out, while many characters are either given short shrift or either there was no use to them being there, for example what was the point of having Slipknot and then dispatch the character so quickly and cheaply. This is the consequences of having too many characters and a very muddled story that not only feels rushed but also incredibly confused. The script is equally a mess, with forced and very lazily-written jokes.\n\nVisually, other than the costume and set design, &apos;Suicide Squad&apos; doesn&apos;t have the redeeming value of looking good. Editing is choppy and the special effects range from average at best but mostly amateurish. The action scenes are very routine and less than thrilling, chemistry is extremely limited and suspense is next to zero. Plus the music is too constant and far too loud that it becomes a nauseating assault on the ears.\n\nIn conclusion, could have been a fun film but flounders badly due to lame execution that wastes its characters and much of the cast (with only Davis and particularly Robbie standing out). 3/10 Bethany Cox",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 718406,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "2016-08-05",
+  "keywords": "based on comic book,suicide squad,father daughter relationship,reference to superman,dc extended universe",
+  "duration": "PT2H3M",
+  "actor": [
+    {
+      "name": "Will Smith",
+      "url": "https://www.imdb.com/name/nm0000226/"
+    },
+    {
+      "name": "Jared Leto",
+      "url": "https://www.imdb.com/name/nm0001467/"
+    },
+    {
+      "name": "Margot Robbie",
+      "url": "https://www.imdb.com/name/nm3053338/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Ayer",
+      "url": "https://www.imdb.com/name/nm0043742/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Ayer",
+      "url": "https://www.imdb.com/name/nm0043742/"
+    },
+    {
+      "name": "John Ostrander",
+      "url": "https://www.imdb.com/name/nm1694619/"
+    }
+  ]
+}

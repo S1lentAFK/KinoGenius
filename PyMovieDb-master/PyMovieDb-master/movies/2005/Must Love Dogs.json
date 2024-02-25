@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Must Love Dogs",
+  "url": "https://www.imdb.com/tt0417001/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGU5MmVlYTQtZTllZS00ZTgwLTk2NWEtNjI1OTRkOTQ1MTE0XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg",
+  "description": "A thirty-something preschool teacher looks to the personals for a change of pace and a relationship, with hilarious results.",
+  "review": {
+    "author": "dan-1272",
+    "dateCreated": "2005-07-30",
+    "inLanguage": "English",
+    "heading": "Talented actors, appealing premise,uneven script, amateur direction",
+    "reviewBody": "I was surprised to find that this wasn't 'Must Love Dogs' director Gary David Goldberg's first attempt at film direction and feature screen writing. The steering of his own script adaptation was plodding at best, only made passable by the spirited and professional performances from the stars Diane Lane and John Cusack. Less surprising is the fact that much of Goldberg's experience comes from television comedy. The irregular cadence of the dialog almost leads the audience to listen for a canned laugh track, ironic given one of the character's penchant for poetry. \\n\\nAdditionally, Goldberg should return his directing credentials for allowing the flat and unflattering interior lighting especially inflicted on Lane. The technical direction would have been more appropriate on a three-camera TV set. Feature release of this film amplifies the shortcomings of the vision behind this work.\\n\\nThe sweetness in the film, no doubt, comes from Claire Cook's novel of the same name. Justice should have been paid to the book by assigning a true film director. There were many future-classic one-liners loosely strung together with flat dialog more appropriate to the legend of a map. I doubt this was the result that Lane and Cusack expected from the promising elements at the outset of this project, but no one can fault their admirable attempts to deliver a heart-warming film.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 32943,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2005-09-16",
+  "keywords": "dog,dating,teacher,date,blind date",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Diane Lane",
+      "url": "https://www.imdb.com/name/nm0000178/"
+    },
+    {
+      "name": "John Cusack",
+      "url": "https://www.imdb.com/name/nm0000131/"
+    },
+    {
+      "name": "Elizabeth Perkins",
+      "url": "https://www.imdb.com/name/nm0001610/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gary David Goldberg",
+      "url": "https://www.imdb.com/name/nm0325204/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Claire Cook",
+      "url": "https://www.imdb.com/name/nm1654465/"
+    },
+    {
+      "name": "Gary David Goldberg",
+      "url": "https://www.imdb.com/name/nm0325204/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Elizabeth: The Golden Age",
+  "url": "https://www.imdb.com/tt0414055/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgzODIwNzcyMF5BMl5BanBnXkFtZTcwMTg0MTQ1MQ@@._V1_.jpg",
+  "description": "A mature Queen Elizabeth endures multiple crises late in her reign including court intrigues, an assassination plot, the Spanish Armada, and romantic disappointments.",
+  "review": {
+    "author": "Samwise77",
+    "dateCreated": "2008-01-02",
+    "inLanguage": "English",
+    "heading": "Could be better",
+    "reviewBody": "Well, the story is interesting and Cate Blanchett play her role very good, but the story is stretched and at the end when Spain attacks with its armada is quickly finishes end the attack scene is really short.\\n\\nThey could have made this a spectacular movie, nice story, great costumes. But after the first 45 minutes it get boring and you ask yourself why. Then towards the end i hoped to see a great battle at sea, but it didn&apos;t happen.\\n\\nThe movie is watchable but don&apos;t expect too much. \\n\\nIt might be wiser to rent this one on DVD instead of going to the movies.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 74769,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2007-11-02",
+  "keywords": "queen,spy,elizabeth i character,female ruler,female monarch",
+  "duration": "PT1H54M",
+  "actor": [
+    {
+      "name": "Cate Blanchett",
+      "url": "https://www.imdb.com/name/nm0000949/"
+    },
+    {
+      "name": "Clive Owen",
+      "url": "https://www.imdb.com/name/nm0654110/"
+    },
+    {
+      "name": "Geoffrey Rush",
+      "url": "https://www.imdb.com/name/nm0001691/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Shekhar Kapur",
+      "url": "https://www.imdb.com/name/nm0001408/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William Nicholson",
+      "url": "https://www.imdb.com/name/nm0629933/"
+    },
+    {
+      "name": "Michael Hirst",
+      "url": "https://www.imdb.com/name/nm0386694/"
+    }
+  ]
+}

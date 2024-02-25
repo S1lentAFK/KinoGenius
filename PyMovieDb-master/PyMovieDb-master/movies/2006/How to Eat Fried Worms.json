@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "How to Eat Fried Worms",
+  "url": "https://www.imdb.com/tt0462346/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc0MzgwNjcyOV5BMl5BanBnXkFtZTcwNjE3ODQzMQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "SpudV",
+    "dateCreated": "2006-09-18",
+    "inLanguage": "English",
+    "heading": "Good Family Film - with slime!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 5991,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2006-08-25",
+  "keywords": "vomiting,boy,vomit,little boy,based on novel",
+  "duration": "PT1H24M",
+  "actor": [
+    {
+      "name": "Luke Benward",
+      "url": "https://www.imdb.com/name/nm0972851/"
+    },
+    {
+      "name": "Hallie Eisenberg",
+      "url": "https://www.imdb.com/name/nm0004893/"
+    },
+    {
+      "name": "Adam Hicks",
+      "url": "https://www.imdb.com/name/nm0382791/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bob Dolman",
+      "url": "https://www.imdb.com/name/nm0231190/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bob Dolman",
+      "url": "https://www.imdb.com/name/nm0231190/"
+    },
+    {
+      "name": "Thomas Rockwell",
+      "url": "https://www.imdb.com/name/nm0734358/"
+    }
+  ]
+}

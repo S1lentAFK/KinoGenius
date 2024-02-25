@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Harry Potter and the Order of the Phoenix",
+  "url": "https://www.imdb.com/tt0373889/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTA3MmRmZDgtOWU1Ny00ZDc5LWFkN2YtNzNlY2UxZmY0N2IyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+  "description": "With their warning about Lord Voldemort's return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.",
+  "review": {
+    "author": "java5989",
+    "dateCreated": "2007-07-11",
+    "inLanguage": "English",
+    "heading": "A great movie, yet completely surpassed by the book",
+    "reviewBody": "When I first walked into the movie, my expectations were not very high. The first two movies, I thought, were the best of the series mainly due to Richard Harris' dead-on portrayal of Dumbledore and screenplays that closely followed the original books. Though the third and fourth movies were very artistic and dramatic, I couldn't really connect to them in the way i had with the books. They glossed over many of the little things that made the Harry Potter series so magical in the first place, focusing on a select few plot lines and limiting dialog to only what was necessary to further the story. \n\nAs a result they've felt more like a collage of scenes, a series of puzzle pieces, thrown at the viewers faster than they can piece together, just leading up to a final confrontation. Pacing has certainly been an issue, leaving fans feeling disjointed, and those new to the series confused as to what exactly is going on. In this respect, Order of the Phoenix was very similar to the previous two movies. As a Hollywood film, it deserves praise, bringing this amazing world to the big screen, telling a compelling tale, and keeping the viewers glued to their seats for the duration of the movie. However, to the die hard fans of the books, you will undoubtedly be disappointed. \n\nMany scenes that one would think invaluable to the story have been cut, replaced by the hasty filling in of plot holes. And while it pains me to ignore some of my favorite scenes from the book being left on the cutting room floor (St. Mungo's, Harry's Quibbler interview, the Quidditch fight, etc.), I realize that yes, not everything could be included in the movie. But in this watered down version of the book, there seems to be something missing. We still have all the drama and excitement, but some of the magic just seems to be gone. \n\nAside from Evanna (couldn't have made a more perfect Luna), the kids give simply average performances, never really reaching the full potential put forth by JK Rowling's writing. The same goes for Gambon, who seems to have ignored the calm, all knowing, endearing idea of who Dumbledore is, in favor of a more erratic yet powerful headmaster. Sure, this works well in the more dramatic scenes (specifically the final battle), but otherwise, his performance falls flat, lacking the eye twinkling charm we came to love from the late Richard Harris. Thankfully, Imelda Staunton more than makes up for this in an amazing portrayal of Dolores Umbridge, one of the more fully realized characters of the movie. As for the rest of the cast, it's largely hit or miss, determined by how each scene is written. \n\nOverall, I would certainly recommend the movie for everyone, fan or not, as it really was a well made movie, despite a few wooden actors and some bad dialog. But when looking at the books, one really can't help but think how much more potential this movie could've had.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 627466,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Family"
+  ],
+  "datePublished": "2007-07-12",
+  "keywords": "friendship,arthur weasley character,argus filch character,george weasley character,fred weasley character",
+  "duration": "PT2H18M",
+  "actor": [
+    {
+      "name": "Daniel Radcliffe",
+      "url": "https://www.imdb.com/name/nm0705356/"
+    },
+    {
+      "name": "Emma Watson",
+      "url": "https://www.imdb.com/name/nm0914612/"
+    },
+    {
+      "name": "Rupert Grint",
+      "url": "https://www.imdb.com/name/nm0342488/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Yates",
+      "url": "https://www.imdb.com/name/nm0946734/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Goldenberg",
+      "url": "https://www.imdb.com/name/nm0325533/"
+    },
+    {
+      "name": "J.K. Rowling",
+      "url": "https://www.imdb.com/name/nm0746830/"
+    }
+  ]
+}

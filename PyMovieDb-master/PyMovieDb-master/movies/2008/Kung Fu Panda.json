@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Kung Fu Panda 4",
+  "url": "https://www.imdb.com/tt21692408/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzgwNjk2MTItNzlkMC00MWFlLTg3ZjYtNjNmMzA1OWZkZjg1XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_.jpg",
+  "description": "After Po is tapped to become the Spiritual Leader of the Valley of Peace, he needs to find and train a new Dragon Warrior, while a wicked sorceress plans to re-summon all the master villains whom Po has vanquished to the spirit re...",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2024-03-28",
+  "keywords": "kung fu,panda,anthropomorphism,anthropomorphic panda,sequel",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Jack Black",
+      "url": "https://www.imdb.com/name/nm0085312/"
+    },
+    {
+      "name": "Awkwafina",
+      "url": "https://www.imdb.com/name/nm5377144/"
+    },
+    {
+      "name": "Viola Davis",
+      "url": "https://www.imdb.com/name/nm0205626/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mike Mitchell",
+      "url": "https://www.imdb.com/name/nm0593610/"
+    },
+    {
+      "name": "Stephanie Stine",
+      "url": "https://www.imdb.com/name/nm7067057/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jonathan Aibel",
+      "url": "https://www.imdb.com/name/nm0008743/"
+    },
+    {
+      "name": "Glenn Berger",
+      "url": "https://www.imdb.com/name/nm0074184/"
+    }
+  ]
+}

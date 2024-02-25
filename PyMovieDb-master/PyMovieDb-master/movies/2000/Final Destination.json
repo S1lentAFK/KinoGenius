@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Final Destination",
+  "url": "https://www.imdb.com/tt0195714/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTI0NGM2OGYtNzVmMi00NGQ2LTk2MDAtN2RmYjIzMGRkZGYxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": "After getting a premonition about a plane crash on his school trip, Alex, a student saves a few of his classmates. However, their situation gets complicated when death starts chasing them.",
+  "review": {
+    "author": "Sleepin_Dragon",
+    "dateCreated": "2023-10-09",
+    "inLanguage": "English",
+    "heading": "It's still a fun watch after two decades.",
+    "reviewBody": "Student Alex Browning is set to travel to Paris along with his classmates, before he gets on the plane he has a vivid premonition, and sees the plane destroyed, he and a few others get off the plane, but death has a plan already mapped out.\n\nI've always rated Final Destination as one of my favourite horrors, I think it scores incredibly highly in terms of originality, re-watching it now, I guess I find it a little corny, possibly not as good as I remember, but it still a fun watch.\n\nIt holds up pretty well, it's straightforward to follow, unlike some of the movies in the genre today. I think it's worthy of a 7/10, it holds your interest.\n\nThe special effects, for 2000 aren't bad at all, I think the plane sequences still look great, some of the accidents are perhaps a little less convincing.\n\nDevon Sawa is fine as Alex, he plays the part well, even if the character is a little irritating at times.\n\n7/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 276991,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "18",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2000-05-19",
+  "keywords": "vacation gone wrong,death,premonition,extrasensory perception,teenage boy",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Devon Sawa",
+      "url": "https://www.imdb.com/name/nm0001701/"
+    },
+    {
+      "name": "Ali Larter",
+      "url": "https://www.imdb.com/name/nm0005123/"
+    },
+    {
+      "name": "Kerr Smith",
+      "url": "https://www.imdb.com/name/nm0005445/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Wong",
+      "url": "https://www.imdb.com/name/nm0939128/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Glen Morgan",
+      "url": "https://www.imdb.com/name/nm0604688/"
+    },
+    {
+      "name": "James Wong",
+      "url": "https://www.imdb.com/name/nm0939128/"
+    },
+    {
+      "name": "Jeffrey Reddick",
+      "url": "https://www.imdb.com/name/nm0714695/"
+    }
+  ]
+}

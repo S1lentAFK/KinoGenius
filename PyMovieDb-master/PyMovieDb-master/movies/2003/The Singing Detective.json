@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Singing Detective",
+  "url": "https://www.imdb.com/tt0314676/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE0NTExOTA2Ml5BMl5BanBnXkFtZTcwOTIyNTAwMQ@@._V1_.jpg",
+  "description": "From his hospital bed, a writer suffering from a skin disease hallucinates musical numbers and paranoid plots.",
+  "datePublished": "2003-11-14",
+  "duration": "PT1H49M",
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Musical"
+  ],
+  "keywords": "detective, writer, detective novel, fantasy sequence, hallucination",
+  "rating": {
+    "ratingCount": 8912,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "review": {
+    "author": "hall895",
+    "dateCreated": "2015-04-24",
+    "inLanguage": "English",
+    "heading": "See it for yourself",
+    "reviewBody": "The Singing Detective is a movie which defies description or explanation. Any attempt at a summation of the plot would be futile. It&apos;s a comedy, it&apos;s a musical, it&apos;s a mystery, it&apos;s film noir. Well, it has elements of all of those things anyway but the end product does not fit neatly into any category. Structure? The movie really has none. This means that, while it may be interesting, it often comes across as somewhat incoherent. Much of the movie seems to take place inside the main character&apos;s head. But that character is the most unreliable of narrators. He doesn&apos;t have any grasp on what is real so how can the audience? This is a movie you just have to try to figure out for yourself.\\n\\nRobert Downey, Jr. plays the main character, Dan Dark. Dan is a writer of cheap, lurid detective novels. Right now he finds himself laid up in the hospital with the worst case of psoriasis you&apos;ve ever seen. He&apos;s in terrible pain, pretty much completely incapacitated and quite possibly losing his mind. He lapses into a fantasy world in which he is the main character in his own novel. But characters from the novel start to appear in the real world. Or do they? Are we still inside Dan Dark&apos;s mind? If so, how do we get out because inside Dan Dark&apos;s mind is not a particularly pleasant place to be.\\n\\nThis carries on throughout the film, real world and fantasy worlds colliding. Even what seems obviously real may not be. We meet Dan&apos;s wife, played enigmatically by Robin Wright. She&apos;s cheating on him. Or does Dan just think she is so that is what is presented as reality? In flashbacks Carla Gugino plays Dan&apos;s mother. But then she shows up as an entirely different person in Dan&apos;s delusions. Mel Gibson plays a rather strange psychologist who may well be able to help Dan if only Dan actually wanted to be helped. Maybe Dan prefers to retreat into his own mind, into his fantasy world. Does this all come together in the end? Not really. You&apos;re left largely wondering what in the world it was that you just saw. But confusing though it may be the movie still manages to be pretty entertaining. Downey turns in an excellent performance. Wright and Gibson are very good as well. Adrien Brody and Katie Holmes are among the performers who are solid in smaller roles.\\n\\nThe movie is well-acted all around and the story draws you in. But as you go deeper and deeper there is the sense the movie spirals a little bit out of control. Some structure would have helped. But if told in entirely straightforward fashion the story would not have been nearly as interesting. This movie is unique. Some will love it. Some will hate it. It is a movie which was an interesting experiment. Maybe you&apos;ll appreciate what was attempted here, maybe you won&apos;t. Everyone is going to have their own unique personal reaction to this movie. To each their own.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "actor": [
+    {
+      "name": "Robert Downey Jr.",
+      "url": "https://www.imdb.com/name/nm0000375/"
+    },
+    {
+      "name": "Robin Wright",
+      "url": "https://www.imdb.com/name/nm0000705/"
+    },
+    {
+      "name": "Mel Gibson",
+      "url": "https://www.imdb.com/name/nm0000154/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Keith Gordon",
+      "url": "https://www.imdb.com/name/nm0330360/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dennis Potter",
+      "url": "https://www.imdb.com/name/nm0693259/"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Akeelah and the Bee",
+  "url": "https://www.imdb.com/tt0437800/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUzMDIwNjIzM15BMl5BanBnXkFtZTcwNTczODQzMQ@@._V1_.jpg",
+  "description": "Akeelah, a young gifted girl, comes from a dysfunctional family and is on the verge of quitting school. She discovers that she has a high aptitude for spellings and enters a spelling bee contest.",
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2006-08-18",
+  "keywords": "spelling,spelling bee,national spelling bee,middle school,african american",
+  "duration": "PT1H52M",
+  "rating": {
+    "ratingCount": 21486,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "review": {
+    "author": "SuperNewb",
+    "dateCreated": "2006-09-01",
+    "inLanguage": "English",
+    "heading": "A great, inspirational, feel-good movie",
+    "reviewBody": "The commercial made me smile. It made me think 'That looks like a good kids movie', but at the same time it made me think 'It kind of looks stupid...' Boy, I was wrong. Akeelah and the Bee is an inspirational movie, and is definitely great for those who share an interest in spelling bees.\n\nI went to the movies with my friends for her birthday, expecting little about the bee at all and more about a love relationship between Akeelah and her newfound friend, Javier. Surprisingly enough, very little of the content was anything to do with romance, and thank goodness.\n\nThe acting, oh my goodness. It was wonderful. Especially Keke Palmer's performance. Her face told the story, really. Facial acting was wonderful, no doubt. Keke's performance perfectly matches up to her being as good as young Dakota Fanning, without her having to bawl out crying in any scenes. And the rest of the cast was great, too. The ending is very sweet, but I certainly won't spoil it for anyone.\n\nOverall, a very inspirational movie. 10/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "actor": [
+    {
+      "name": "Angela Bassett",
+      "url": "https://www.imdb.com/name/nm0000291/"
+    },
+    {
+      "name": "Laurence Fishburne",
+      "url": "https://www.imdb.com/name/nm0000401/"
+    },
+    {
+      "name": "Keke Palmer",
+      "url": "https://www.imdb.com/name/nm1551130/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Doug Atchison",
+      "url": "https://www.imdb.com/name/nm0040328/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Doug Atchison",
+      "url": "https://www.imdb.com/name/nm0040328/"
+    }
+  ]
+}

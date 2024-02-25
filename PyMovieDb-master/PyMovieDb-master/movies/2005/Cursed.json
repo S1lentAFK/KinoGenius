@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Cursed",
+  "url": "https://www.imdb.com/tt0257516/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDM5YjlhNzgtMjNhNS00NmFiLTgzZmQtOWZiMTgwMzg0Yzk5XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": "A werewolf loose in Los Angeles changes the lives of three young adults who, after being mauled by the beast, learn they must kill it in order to avoid becoming werewolves themselves.",
+  "review": {
+    "author": "I_Ailurophile",
+    "dateCreated": "2023-03-25",
+    "inLanguage": "English",
+    "heading": "Not all bad, but its weaknesses are all too apparent",
+    "reviewBody": "The very name of this movie seems all too appropriate. For all the reshoots, redesigns, and other creative decisions that were forced, and all the problems that hounded the production, it sounds like a horrid mess long before one ever sits to watch. Its reputation well precedes it, unfortunately, and still there comes a point where one just has to watch for themselves. To sit and do so, I&apos;m not really sure that there was much chance of this coming out especially strong. I don&apos;t know what the dividing line is between the original vision and the rehashed material, and I don&apos;t know how much it matters. I think there are some terrific ideas here, some real cleverness - a little bit of the comedy earns a good laugh, some of the horror facets are well done - and I&apos;m always up for a new werewolf movie. Yet so much of this film is heavy-handed, over the top, and maybe outright kitschy, such that whatever value &apos;Cursed&apos; may have to offer, it&apos;s counterbalanced by many other qualities that are rather questionable.\\n\\nThe root concept of most notions here are fine. As in many genre flicks, the characters oscillate between struggling with the changes they&apos;re undergoing, and reveling in them, and that&apos;s a great dynamic to play with. The narrative is fundamentally strong, the dialogue is mostly just fine, and much of the characterizations and scene writing are splendid. Yet some of those rounding facets of the shooting script are nonetheless far less witty or humorous than they&apos;re intended to be, just frankly feeling cheap; other little details throughout, meant to help give shape to the end product, just don&apos;t come off well. Some choices even of hair or makeup raise a skeptical eyebrow, and select instances of cinematography are needlessly embellished. In execution some moments or decisions of direction are entirely too on the nose (even the opening scene), and others are altogether tiresome. And all this is to say nothing of the CGI. If only seen at a glance, the digital creations are okay. The more they are emphasized in a sequence, however, the more glaring and awful they appear, and this is never more true than when we get a detailed look at a transformation - to be honest, The Asylum has done better work. Even some blood and gore is transparently inauthentic.\\n\\nTruthfully, this isn&apos;t altogether rotten. &apos;Cursed&apos; is actually better than I thought it was going to be. The cast make an earnest effort, and it quite seems like they&apos;re having a good time for the most part. Judy Greer is especially having a blast, and Christina Ricci probably turns in the single best performance of the film. The end product is, to my surprise, modestly enjoyable. It&apos;s just so unfortunate that the movie overexerts itself in trying to be slick, cool, fun, and modern, when all it actually had to do was tell a compelling story. The harder it tries, the worse it fails, and it&apos;s almost certainly longer than it needed to be. For whatever aspects of horror or comedy are done well, at large these are not nearly sufficient enough to genuinely inculcate broad feelings of thrills or amusement. At length the result to greet us is a somewhat middling affair that constantly rides a line between welcome and boorish, and that occasionally places one foot on either side of that divide. I see what this could have been, but that&apos;s just not what we ultimately get. There are definitely worse things one could watch (Wes Craven himself has made some of them), but unless you&apos;re a diehard fan of someone involved, the need to check this out is minimal.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 34798,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Horror"
+  ],
+  "datePublished": "2005-04-22",
+  "keywords": "gay,cult director,cult film,gay athlete,werewolf horror",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Christina Ricci",
+      "url": "https://www.imdb.com/name/nm0000207/"
+    },
+    {
+      "name": "Jesse Eisenberg",
+      "url": "https://www.imdb.com/name/nm0251986/"
+    },
+    {
+      "name": "Portia de Rossi",
+      "url": "https://www.imdb.com/name/nm0005577/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Wes Craven",
+      "url": "https://www.imdb.com/name/nm0000127/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kevin Williamson",
+      "url": "https://www.imdb.com/name/nm0932078/"
+    }
+  ]
+}

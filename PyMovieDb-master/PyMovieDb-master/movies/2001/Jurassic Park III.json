@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Jurassic Park III",
+  "url": "https://www.imdb.com/tt0163025/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDMyZGJjOGItYjJkZC00MDVlLWE0Y2YtZGIwMDExYWE3MGQ3XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+  "description": "A decidedly odd couple with ulterior motives convince Dr. Grant to go to Isla Sorna for a holiday, but their unexpected landing startles the island&apos;s new inhabitants.",
+  "review": {
+    "author": "midnighttheater",
+    "dateCreated": "2015-07-08",
+    "inLanguage": "English",
+    "heading": "Has it&apos;s heart in the right place but it&apos;s with a doubt the weakest entry in the series.",
+    "reviewBody": "It&apos;s hard to really put this movie down cause despite it&apos;s problems and there is many, it has it&apos;s heart in the right place. The aim I guess that the people behind the scenes were aiming for was a family movie with a bit of suspends and while there is a family movie to be had here, it also tries to be a Jurassic Park film and unfortunately it fails as both to a degree.\\n\\nIt fails as a family movie cause the script is not strong enough to support the story. Despite the venom thrown at William H Macy and especially Tea Leoni, both are very appealing actors and they do work hard to make it all work but the script just handicap their efforts to make it possible. It fails as a Jurassic Park film cause it lacks the tension, suspense and the story points that made the first two films in the series ( Jurassic Park And The Lost World) so well made and memorable. Not to mention the fact that they felt like fully formed movies with a beginning, middle and end. Jurassic Park 3 just feels like a Saturday morning serial. Not bad but nothing like the other films in the series. There is one scene in the film that almost manages to bring a little tension which is the bird cage scene but even that ends up flat compared to any of the scenes in the other films of the series. The other major problem is the fact that While Sam Neill works his ass off to make this film watchable, the script does the most disservice to the character of Alan Grant, whose happy ending from the original Jurassic Park was not only ruined thanks to this movie but has his character dumb down in order to fall for the dumb stuff that happens in this film. Despite all of this, Sam Neill is working overtime to make you care. Too bad the script did not.\\n\\nAs I said before, it has a lot of heart thanks to it&apos;s actors but thanks to a bad script, Jurassic Park 3 is with out a doubt the weakest entry in the series.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 338891,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2001-07-20",
+  "keywords": "dinosaur,jurassic park,spinosaurus,velociraptor,tyrannosaurus rex",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Sam Neill",
+      "url": "https://www.imdb.com/name/nm0000554/"
+    },
+    {
+      "name": "William H. Macy",
+      "url": "https://www.imdb.com/name/nm0000513/"
+    },
+    {
+      "name": "T\\u00e9a Leoni",
+      "url": "https://www.imdb.com/name/nm0000495/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joe Johnston",
+      "url": "https://www.imdb.com/name/nm0002653/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Crichton",
+      "url": "https://www.imdb.com/name/nm0000341/"
+    },
+    {
+      "name": "Peter Buchman",
+      "url": "https://www.imdb.com/name/nm0118224/"
+    },
+    {
+      "name": "Alexander Payne",
+      "url": "https://www.imdb.com/name/nm0668247/"
+    }
+  ]
+}

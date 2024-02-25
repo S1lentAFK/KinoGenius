@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Thing",
+  "url": "https://www.imdb.com/tt0084787/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+  "review": {
+    "author": "DanTheButler",
+    "dateCreated": "2022-12-15",
+    "inLanguage": "English",
+    "heading": "The Thing holds up better and better every year",
+    "reviewBody": "The Thing does a great job at holding my attention throughout. It has just enough to gross me out while making me wonder if the person next to me is an alien.\\n\\nThe idea that this movie was made in the early 80s and it took years to be reevaluated before being well received just tells you how ahead of his time Carpenter is. Kurt Russell is one of my favorite actors from the pre2000s and this is a good example of why.\\n\\nIt&apos;s one of those special movies I can&apos;t get enough of. Every viewing feels like the first. I can&apos;t be the only one who feels the same amount of dread and uncertainty every time I watch it.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 461743,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.2
+  },
+  "contentRating": "X",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "datePublished": "1982-08-26",
+  "keywords": "isolation,antarctica,paranoia,alien creature,shapeshifting",
+  "duration": "PT1H49M",
+  "actor": [
+    {
+      "name": "Kurt Russell",
+      "url": "https://www.imdb.com/name/nm0000621/"
+    },
+    {
+      "name": "Wilford Brimley",
+      "url": "https://www.imdb.com/name/nm0000979/"
+    },
+    {
+      "name": "Keith David",
+      "url": "https://www.imdb.com/name/nm0202966/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Carpenter",
+      "url": "https://www.imdb.com/name/nm0000118/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bill Lancaster",
+      "url": "https://www.imdb.com/name/nm0484111/"
+    },
+    {
+      "name": "John W. Campbell Jr.",
+      "url": "https://www.imdb.com/name/nm0132168/"
+    }
+  ]
+}

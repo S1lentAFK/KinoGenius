@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "American Gangster",
+  "url": "https://www.imdb.com/tt0765429/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjFmZGI2YTEtYmJhMS00YTE5LWJjNjAtNDI5OGY5ZDhmNTRlXkEyXkFqcGdeQXVyODAwMTU1MTE@._V1_.jpg",
+  "description": "An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas, whose real life inspired this partly biographical film.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2015-02-07",
+    "inLanguage": "English",
+    "heading": "well-acted gritty characters",
+    "reviewBody": "It's 1968 Harlem. Frank Lucas (Denzel Washington) is the right hand man to Robin Hood gangster Bumpy Johnson. When Bumpy dies, Frank tries to take over. He becomes a powerful gangster importing heroin directly from the South East Asian jungle source. Detective Trupo (Josh Brolin) leads a group of corrupt cops reselling seized drugs back on the street. Richie Roberts (Russell Crowe) is a rough and tumble honest cop who tracks down the source for the heroine which killed his partner. Meanwhile Lucas faces against mob boss Dominic Cattano (Armand Assante) and Trupo.\n\nIt's a vast interconnected crime drama with deep complex well-written characters played by some of the best actors around. It's gritty and dark with good flashes of the Ridley Scott style. It references the French Connection. It doesn't have quite the immediate realism of the documentary style movie. However, Scott is able to meticulously recreate it. Both Washington and Crowe are powerful in their separate sides of the story.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 449623,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "contentRating": "18",
+  "genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2007-11-16",
+  "keywords": "new york city,mobster,gangster,police,mob boss",
+  "duration": "PT2H37M",
+  "actor": [
+    {
+      "name": "Denzel Washington",
+      "url": "https://www.imdb.com/name/nm0000243/"
+    },
+    {
+      "name": "Russell Crowe",
+      "url": "https://www.imdb.com/name/nm0000128/"
+    },
+    {
+      "name": "Chiwetel Ejiofor",
+      "url": "https://www.imdb.com/name/nm0252230/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ridley Scott",
+      "url": "https://www.imdb.com/name/nm0000631/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steven Zaillian",
+      "url": "https://www.imdb.com/name/nm0001873/"
+    },
+    {
+      "name": "Mark Jacobson",
+      "url": "https://www.imdb.com/name/nm0414893/"
+    }
+  ]
+}

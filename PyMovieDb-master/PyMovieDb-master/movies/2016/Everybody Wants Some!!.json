@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Everybody Wants Some!!",
+  "url": "https://www.imdb.com/tt2937696/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk2NDcyNDE5N15BMl5BanBnXkFtZTgwNDA0MzQ1NzE@._V1_.jpg",
+  "description": "In 1980, a group of college baseball players navigate their way through the freedoms and responsibilities of unsupervised adulthood.",
+  "review": {
+    "author": "cb2369",
+    "dateCreated": "2016-03-26",
+    "inLanguage": "English",
+    "heading": "Exactly what I needed",
+    "reviewBody": "Everybody Wants Some!! was a perfect film for this moment: it consists of little more than a bunch of overly-competitive jocks joking with each other, partying, and trying to get laid over the course of three days before school even starts. It's intelligently written, fun, well-acted, and well-shot. What more could you ask for? Linklater, of course, does it all in a slice of life fashion: the opening of the film doesn't even attempt to describe what's going to happen and the end of the film barely describes what happened beforehand. The movie is almost meditative, and yet continually looking for stimulus in the largest and tiniest things... really whatever kind of stimulus they can get their hands on. Story-wise, it unfolds over almost every part of the era, which is, as far as I could tell, undefined yet seemingly somewhere during the 80s. Each night takes us to a different flavor of the time: disco, punk, you name it... but the genius of the script is that you don't really realize you've been given a tasting menu until you've already eaten everything. It just seems natural when it happens. Everything in this film seems natural, and that's a credit to the director, but also the actors. I imagine casting was the most important part of putting this film together and it seems to have been a success: every actor kills their part. Were they even acting? I have a feeling they were just being themselves. If you want to watch some kids mess around and laugh with them or at them, Everybody Wants Some!! not only is your movie, but probably will be your movie for a long time coming.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 58204,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2016-05-13",
+  "keywords": "baseball,friendship between men,male nudity,college baseball,bong",
+  "duration": "PT1H57M",
+  "actor": [
+    {
+      "name": "Blake Jenner",
+      "url": "https://www.imdb.com/name/nm4296357/"
+    },
+    {
+      "name": "Tyler Hoechlin",
+      "url": "https://www.imdb.com/name/nm0388382/"
+    },
+    {
+      "name": "Ryan Guzman",
+      "url": "https://www.imdb.com/name/nm4554428/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Richard Linklater",
+      "url": "https://www.imdb.com/name/nm0000500/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Richard Linklater",
+      "url": "https://www.imdb.com/name/nm0000500/"
+    }
+  ]
+}

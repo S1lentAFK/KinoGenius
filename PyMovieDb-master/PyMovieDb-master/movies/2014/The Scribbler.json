@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Scribbler",
+  "url": "https://www.imdb.com/tt2396721/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQwNzg3NDI2MF5BMl5BanBnXkFtZTgwNTg1OTc1MjE@._V1_.jpg",
+  "description": null,
+  "contentRating": "18",
+  "genre": [
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "datePublished": "2014-11-06",
+  "keywords": "multiple personality, based on graphic novel, female nudity, electroconvulsive therapy, schizophrenia",
+  "duration": "PT1H28M",
+  "rating": {
+    "ratingCount": 5127,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "review": {
+    "author": "CountJonnie",
+    "dateCreated": "2014-12-01",
+    "inLanguage": "English",
+    "heading": "Enjoyable, but not as complicated as it pretends to be",
+    "reviewBody": "The movie starts out mysterious, trying to be a thriller. You&apos;ll see the main character (perfectly played by Arrow&apos;s Katie Cassidy), being a suspect in a murder case, who is also a mental patient. As a mental patient she lives in a building full of other mental patients who are too crazy to be credible, just as her head is inhabited by various personalities.\\n\\nObviously the movie wants you to wonder what kind of reality (or realities) you&apos;re in. While making you think, the movie transforms from a mysterious thriller into something more sci-fi / fantasy. This could be a good thing if it wasn&apos;t already well done by The Matrix, or Identity. As the movie transforms from mysterious to crazy and loses all credibility (yes, superpowers), somehow the lead characters succeed in becoming very interesting. Maybe the lead character isn&apos;t as crazy as we were meant to believe and her acting skills (together with her co-stars) make this movie watchable and fun, while all the puzzle pieces fall in their place.\\n\\nMy advice: don&apos;t watch this movie expecting something very complex, but it&apos;s good enough thanks to the actors who take their job seriously. The nod goes to Katie Cassidy. After disliking her in Arrow, she made me a believer. Thanks to her the movie is now a 6 instead of a 5.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "actor": [
+    {
+      "name": "Katie Cassidy",
+      "url": "https://www.imdb.com/name/nm1556320/"
+    },
+    {
+      "name": "Garret Dillahunt",
+      "url": "https://www.imdb.com/name/nm0226813/"
+    },
+    {
+      "name": "Michelle Trachtenberg",
+      "url": "https://www.imdb.com/name/nm0005502/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Suits",
+      "url": "https://www.imdb.com/name/nm2986811/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dan Schaffer",
+      "url": "https://www.imdb.com/name/nm2645827/"
+    }
+  ]
+}

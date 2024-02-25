@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Taking Lives",
+  "url": "https://www.imdb.com/tt0364045/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA3NDMyNzI5NTdeQTJeQWpwZ15BbWU3MDQxNDEyMzM@._V1_.jpg",
+  "description": "An FBI profiler is called in by French Canadian police to catch a serial killer who takes on the identity of each new victim.",
+  "review": {
+    "author": "ma-cortes",
+    "dateCreated": "2004-04-08",
+    "inLanguage": "English",
+    "heading": "Average but passable French-Canadian -American thriller with a great cast",
+    "reviewBody": "This is an acceptable suspense movie full of intrigue , thrills , action , twists and turns . This film is made for Angelina Jolie , she is in each shot. She&apos;s beautiful, she plays rightly, she&apos;s wonderful .\n\nHowewer , the other main character Ethan Hawke is regularly played , his performance is overdone and warped.\n\nThe support cast is featured by French actors : Oliver Martinez who&apos;s doing a American curriculum . Furthermore, Tcheky Karyo also has a broad career American ,generally in secondary roles.\n\nHere is also Jean Hughes Anglade who only has French films , but giving a short acting , where he misinterprets a minor role.\n\nKiefer Sutherland, as always, plays a nasty ,wicked,and evil person. Will he be the killer? .\n\nThe picture is professionally directed by D.J. Caruso . He is a good craftsman whose films often have intense car crashes such as Disturbia (2007), and The Eagle eye (2008) and this Taking lives (2004) .\n\nRating : Acceptable, only for Jolie&apos;s fans.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 94793,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2004-04-23",
+  "keywords": "fake identity,serial killer,female agent,stolen identity,criminal investigation",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Angelina Jolie",
+      "url": "https://www.imdb.com/name/nm0001401/"
+    },
+    {
+      "name": "Ethan Hawke",
+      "url": "https://www.imdb.com/name/nm0000160/"
+    },
+    {
+      "name": "Kiefer Sutherland",
+      "url": "https://www.imdb.com/name/nm0000662/"
+    }
+  ],
+  "director": [
+    {
+      "name": "D.J. Caruso",
+      "url": "https://www.imdb.com/name/nm0142286/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Pye",
+      "url": "https://www.imdb.com/name/nm1373865/"
+    },
+    {
+      "name": "Jon Bokenkamp",
+      "url": "https://www.imdb.com/name/nm0092578/"
+    }
+  ]
+}

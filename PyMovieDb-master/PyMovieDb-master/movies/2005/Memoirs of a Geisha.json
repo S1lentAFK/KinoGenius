@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Memoirs of a Geisha",
+  "url": "https://www.imdb.com/tt0397535/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYxMzM4NTEzOV5BMl5BanBnXkFtZTcwNDMwNjQzMw@@._V1_.jpg",
+  "description": "Nitta Sayuri reveals how she transcended her fishing-village roots and became one of Japan's most celebrated geisha.",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2006-01-13",
+  "duration": "PT2H25M",
+  "contentRating": "12A",
+  "keywords": "female protagonist, period drama, 1920s, chinese actress playing japanese character, geisha",
+  "rating": {
+    "ratingCount": 159321,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "review": {
+    "author": "kate_lee-movie",
+    "dateCreated": "2005-11-24",
+    "inLanguage": "English",
+    "heading": "A Top-Notch Eye Candy",
+    "reviewBody": "Can a group of American men and Chinese actresses render the world of a Japanese geisha? The answer is yes, with stunning beauty  and regrettable flaws.\\n\\nTruth be told, this movie was not as bad as its trailer led me to expect it to be. It had a story to tell (although it crumbles in the end),images to show, and material to present. There were ample displays of exquisite beauty -- the trailing tails of silk kimonos, the subtle allure of hand gestures, and the captivating scene of kabuki dance theater ... \\n\\nOn the other hand, the American director was not able to pull the Japanese out of Chinese actresses. (This movie was so crowded by famous Chinese idols that I found myself inadvertently searching for Joan Chen among the cast.) To be fair, all three main actors (Gong Li in particular) show strong performances that made me sympathetic to Rob Marshall's choices. However, they remain utterly Chinese throughout this movie. The look and accent are not the only problems. They lacked the kind of extreme femininity and excessive felicity of the delicately mechanical gesture and movements of traditional Japanese ladies you see in custom dramas of Japanese production. (Michelle Yeoh seems to be the only one trying a little bit of those, but it did not quite work for some reason.)\\n\\nSo, let me re-address the question: Can a group of American men and Chinese actresses render the world of a geisha? The answer, I guess, really depends on what you are looking for. If you would like a little bit of delight from an aesthetically pleasing picture with a dubious authenticity and realism, this movie delivers it. I would not say Rob Marshall failed completely. Memoirs of a Geisha is not the first, nor the last, movie that subjects another culture to the crude lens of American exoticism. It definitely is not the worst one.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "actor": [
+    {
+      "name": "Ziyi Zhang",
+      "url": "https://www.imdb.com/name/nm0955471/"
+    },
+    {
+      "name": "Ken Watanabe",
+      "url": "https://www.imdb.com/name/nm0913822/"
+    },
+    {
+      "name": "Michelle Yeoh",
+      "url": "https://www.imdb.com/name/nm0000706/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rob Marshall",
+      "url": "https://www.imdb.com/name/nm0551128/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robin Swicord",
+      "url": "https://www.imdb.com/name/nm0842523/"
+    },
+    {
+      "name": "Arthur Golden",
+      "url": "https://www.imdb.com/name/nm1006264/"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Backstage",
+  "url": "https://www.imdb.com/tt0436091/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI4MTk1MTk5Ml5BMl5BanBnXkFtZTcwNTA1MzI0MQ@@._V1_.jpg",
+  "description": "An adolescent groupie zeroes in on her Blondie-like idol after the singer chances to cross her orbit on a publicity tour. Gradually their lives intertwine as, with near-operatic intensity, the film delves into the emotional dependence that grows between them.",
+  "review": {
+    "author": "grantss",
+    "dateCreated": "2020-02-19",
+    "inLanguage": "English",
+    "heading": "Style over substance",
+    "reviewBody": "Had potential but falls back on the old French staple of style over substance. Some suspense but drifts and feels contrived.\\n\\nPerformance-wise, Isild Le Besco is irritating but Emmanuelle Seigner provides the suitable gravitas and hedonistic randomness as the pop star.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 682,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": null,
+  "genre": [
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2005-11-16",
+  "keywords": "brief female full frontal nudity,female frontal nudity,female rear nudity,girl on top,17 year old girl",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Emmanuelle Seigner",
+      "url": "https://www.imdb.com/name/nm0782561/"
+    },
+    {
+      "name": "Isild Le Besco",
+      "url": "https://www.imdb.com/name/nm0494066/"
+    },
+    {
+      "name": "No\\u00e9mie Lvovsky",
+      "url": "https://www.imdb.com/name/nm0527852/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Emmanuelle Bercot",
+      "url": "https://www.imdb.com/name/nm0073384/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Emmanuelle Bercot",
+      "url": "https://www.imdb.com/name/nm0073384/"
+    },
+    {
+      "name": "J\\u00e9r\\u00f4me Tonnerre",
+      "url": "https://www.imdb.com/name/nm0867374/"
+    }
+  ]
+}

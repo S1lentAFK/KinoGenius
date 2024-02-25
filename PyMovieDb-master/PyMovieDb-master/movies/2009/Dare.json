@@ -1,0 +1,56 @@
+
+
+{
+  "type": "Movie",
+  "name": "Zabij mnie, kochanie",
+  "url": "https://www.imdb.com/tt30959158/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmVhMDdkNDMtOGM4NS00Y2I0LWE2ZjMtN2E4NGJlOTU5ZWNiXkEyXkFqcGdeQXVyNDA2MzY0MzY@._V1_.jpg",
+  "description": "A winning lottery ticket has grave consequences for a married couple when they start hatching plans to kill each other for the prize money.",
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2024-02-13",
+  "keywords": null,
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Weronika Ksiazkiewicz",
+      "url": "https://www.imdb.com/name/nm1800327/"
+    },
+    {
+      "name": "Mateusz Banasiuk",
+      "url": "https://www.imdb.com/name/nm1794414/"
+    },
+    {
+      "name": "Agnieszka Wiedlocha",
+      "url": "https://www.imdb.com/name/nm3146338/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Filip Zylber",
+      "url": "https://www.imdb.com/name/nm0959108/"
+    }
+  ],
+  "creator": [],
+  "review": {
+    "author": "thewalkingpuns",
+    "dateCreated": "2024-02-14",
+    "inLanguage": "English",
+    "heading": "Not a bad comedy",
+    "reviewBody": "As one of the first reviews here I'll say it's not the worst netflix comedy. Also not the best but it's not bad. Natalia and piatre are a couple. It does take a little time to start but once they get a lottery ticket and win it's when things really start to happen. Theyllt on killing one another for the money in some funny ways. Others are roped into it aswell and it ends up in a way become a sprt of crime thriller. I don't think it's bad and with the dubbing makes if seem cheesy when it's probably acted pretty well. Overall this film was fun and an interesting watch. If you like comedies then give it a go.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 524,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.4
+  }
+}

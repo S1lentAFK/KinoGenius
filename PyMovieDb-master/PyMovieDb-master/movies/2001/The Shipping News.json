@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Shipping News",
+  "url": "https://www.imdb.com/tt0120824/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWEwMmNiNjctNDY5ZC00NDIyLWFiZDctNDdlZGU5NjA0MzA2L2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "An emotionally beaten man with his young daughter moves to his ancestral home in Newfoundland to reclaim his life.",
+  "review": {
+    "author": "jhambrock444",
+    "dateCreated": "2002-07-13",
+    "inLanguage": "English",
+    "heading": "A beautiful portrait of human emotions and reactions",
+    "reviewBody": "Often when watching a film with a cast which has more Oscar nominations in their careers than the film has minutes, a level of expectations will be engraved which exceeds far above a film than which one should. Such is an example with the poignant, touching and often funny film, The Shipping News.\\n\\n The Shipping News is film about loss, recovery, pain, but most of all, recovery. When a person loses a loved one, or in this case, a person who loses someone they think they love, it comes with a package of emotional stress and remorse. The person they lose is immortalized within their thoughts, usually in a positive, memorable perspective.\\n\\n The story begins with a narration by Quoyle (Spacey), and through this depressing and self defeating narration, we learn that Quoyle is man who has never succeeded in anything, is a failure in his family&apos;s eyes, and has never accomplished one thing in his entire life. He struggles through every miserable task he is given, he aches at the thought of one more day.\\n\\n As a defeated man who has never loved, never laughed, and never succeeded, he is desperate for something, desperate for someone. When he meets a woman named Petal (Blanchett) he thinks he&apos;s in love. We see a woman who is looking for a costumer, looking for someone to spend the night with. Quoyle sees a wife, someone to spend the rest of his life with. So without hesitation, he takes a swing at this wild tiger. He thinks he has achieved that echelon of happiness. He has a darling little girl, he has a wife, and he has a steady job. But he soon learns that one person, a person he has known for little over a few years, can turn his life upside down. After a realistic and inevitable chain of events, he is back to his pitiful little life. Only this time, he&apos;s lost more than he can handle. His own emotional attachments have become his own emotional destruction.\\n\\n In the midst of these happenings, Quoyle is met at the door by his Aunt Agnis (Dench), whom he has never met. She suggests they begin a new future, for she too has lost something. She decides that they should travel to their native roots, in Newfoundland. The future looks bleak to Quoyle, but only the happiest of times look ahead to Agnis. At least from our perspective.\\n\\n Throughout the film we are met by several supporting characters played by familiar and not so familiar actors. These characters, while they may seem supporting, play the largest part in the film. For these characters are the building blocks which help Quoyle begin his `transformation&apos;. These are the people which help Quoyle recognize his roots and why he must belong there. Throughout these characters, we are met with many intertwining storylines which could make a whole entire film by themselves. But these characters are all here to help one man find a reason. A reason for being.\\n\\n Throughout this masterful tale of loss, recovery, and pain, we discover that problems exist within problems. We learn that the future may result in failure, but will always have an answer. The answer lies within Quoyle himself. While these supporting players may have an impact on Quoyle&apos;s job and home, Quoyle is the only one who can help find happiness for himself.\\n\\n With a star-studded cast which shines with the inspiring score by Christopher Young, Lasse Hallstrom has created a film which should not be overlooked, but should be look upon as a film which displays how courage, love, and faith, can overcome loss, struggle, and pain.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 33838,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2002-03-01",
+  "keywords": "newspaper,pantyhose,ship,wake,redemption",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Kevin Spacey",
+      "url": "https://www.imdb.com/name/nm0000228/"
+    },
+    {
+      "name": "Julianne Moore",
+      "url": "https://www.imdb.com/name/nm0000194/"
+    },
+    {
+      "name": "Judi Dench",
+      "url": "https://www.imdb.com/name/nm0001132/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lasse Hallstr\\u00f6m",
+      "url": "https://www.imdb.com/name/nm0002120/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Annie Proulx",
+      "url": "https://www.imdb.com/name/nm0698925/"
+    },
+    {
+      "name": "Robert Nelson Jacobs",
+      "url": "https://www.imdb.com/name/nm0414608/"
+    }
+  ]
+}

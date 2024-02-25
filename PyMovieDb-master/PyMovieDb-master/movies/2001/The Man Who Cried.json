@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Man Who Cried",
+  "url": "https://www.imdb.com/tt0206917/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGNlMTljNzQtMTIyZS00MDcwLTk2ZjgtNGRlN2M4OGE5NjkwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A young refugee traveling from Russia to America in search of her lost father falls for a gypsy horseman.",
+  "contentRating": "12",
+  "genre": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "datePublished": "2000-12-08",
+  "keywords": [
+    "female director",
+    "female filmmaker",
+    "title directed by female",
+    "hollywood california",
+    "horse and carriage"
+  ],
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Christina Ricci",
+      "url": "https://www.imdb.com/name/nm0000207/"
+    },
+    {
+      "name": "Cate Blanchett",
+      "url": "https://www.imdb.com/name/nm0000949/"
+    },
+    {
+      "name": "Oleg Yankovskiy",
+      "url": "https://www.imdb.com/name/nm0946160/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sally Potter",
+      "url": "https://www.imdb.com/name/nm0006845/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sally Potter",
+      "url": "https://www.imdb.com/name/nm0006845/"
+    }
+  ],
+  "review": {
+    "author": "graces_diner",
+    "dateCreated": "2001-10-29",
+    "inLanguage": "English",
+    "heading": "I will buy the soundtrack for this movie tomorrow.",
+    "reviewBody": "The athmosphere in this film is created by using rich textures and suggestions of scent. It is carried to the audience by heart wrenching music, which touches all senses, enabling the viewer to fill their soul with unearthly beauty. In the wealth of sound and scenes, which are full of symbolism, words become unnecessary, the actors secondary and the direction, supreme. Pure theatre.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 16372,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  }
+}

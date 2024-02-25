@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "An American Affair",
+  "url": "https://www.imdb.com/tt0899138/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3NzE4MTgwNV5BMl5BanBnXkFtZTcwOTQ0MzMzMg@@._V1_.jpg",
+  "description": "In 1963, during the swirl of glamour and intrigue that turned President John F. Kennedy's Washington into Camelot, a lonely 13-year-old Catholic school boy comes of age.",
+  "review": {
+    "author": "cekadah",
+    "dateCreated": "2013-02-23",
+    "inLanguage": "English",
+    "heading": "yes 10 stars because it is good **********",
+    "reviewBody": "before writing this review i read some of the lessor reviews. i'm wondering what they saw. and i wish other reviewers would stick to their thoughts on a movie and NOT just give another plot summary with their opinion tacked on at the end.\\n\\nin my opinion this movie is a captivating story of a woman (caswell) dealing with the loss of her child and failed marriage. she sees in (adam) a shadowy wish of what her son could be. but reality in her personal life takes control of her very existence. her being a mistress to the president is secondary to her involvement with adam.\\n\\nadam has stumbled upon his own sexual desires and his school life is a jumbled mess because he is thrown into a situation where he must grow up fast; in contrast to the 'child like peers' he must associate with.\\n\\nthis movie is a wonderful story told in a suspenseful and at times frightening quality. the director and actors did a super job and 10 stars isn't enough to praise it!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 2388,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "R",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2008-10-03",
+  "keywords": "cia central intelligence agency,president,coming of age,paint fight,kennedy assassination conspiracy",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Gretchen Mol",
+      "url": "https://www.imdb.com/name/nm0001543/"
+    },
+    {
+      "name": "James Rebhorn",
+      "url": "https://www.imdb.com/name/nm0714310/"
+    },
+    {
+      "name": "Cameron Bright",
+      "url": "https://www.imdb.com/name/nm1080974/"
+    }
+  ],
+  "director": [
+    {
+      "name": "William Olsson",
+      "url": "https://www.imdb.com/name/nm1802274/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Alex Metcalf",
+      "url": "https://www.imdb.com/name/nm0582396/"
+    }
+  ]
+}

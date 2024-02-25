@@ -1,0 +1,78 @@
+
+
+{
+  "type": "Movie",
+  "name": "Doogal",
+  "url": "https://www.imdb.com/tt0763304/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkxODg1MTI5M15BMl5BanBnXkFtZTYwNjk1MDI3._V1_.jpg",
+  "description": "A talking dog and his friends fight to stop an evil wizard.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2006-02-24",
+  "keywords": "animal character name as title,one word title,cg animation,talking dog,magic",
+  "duration": "PT1H25M",
+  "rating": {
+    "ratingCount": 5376,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 2.8
+  },
+  "review": {
+    "author": "Zerbey",
+    "dateCreated": "2006-05-28",
+    "inLanguage": "English",
+    "heading": "An insult to the people behind The Magic Roundabout",
+    "reviewBody": "Anyone who, like me, assumed this was a modern remake of The Magic Roundabout will be sorely mistaken. The Magic Roundabout was a charming little stop-motion animation from the 1970s that I have loved since childhood (even if the creators where obviously smoking something!).\\n\\nThis movie bears no resemblance to that original animation, apart from lifting the character names. The rest is frankly the worst children&apos;s animation I have ever seen. Even Jon Stewart cannot save this turkey (the only reason I even bothered watching it).\\n\\nAvoid at all costs, it deserves to be in the bottom 100. Go buy a DVD of the original series instead!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "actor": [
+    {
+      "name": "Jon Stewart",
+      "url": "https://www.imdb.com/name/nm0829537/"
+    },
+    {
+      "name": "Judi Dench",
+      "url": "https://www.imdb.com/name/nm0001132/"
+    },
+    {
+      "name": "Daniel Tay",
+      "url": "https://www.imdb.com/name/nm1307735/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dave Borthwick",
+      "url": "https://www.imdb.com/name/nm0097529/"
+    },
+    {
+      "name": "Jean Duval",
+      "url": "https://www.imdb.com/name/nm1741096/"
+    },
+    {
+      "name": "Frank Passingham",
+      "url": "https://www.imdb.com/name/nm0664896/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Paul Bassett",
+      "url": "https://www.imdb.com/name/nm1362426/"
+    },
+    {
+      "name": "Tad Safran",
+      "url": "https://www.imdb.com/name/nm1475075/"
+    },
+    {
+      "name": "Raoff Sanoussi",
+      "url": "https://www.imdb.com/name/nm1743465/"
+    }
+  ]
+}

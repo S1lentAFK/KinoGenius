@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hoodwinked Too! Hood vs. Evil",
+  "url": "https://www.imdb.com/tt0844993/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmNkZTE4YzQtNzI1NS00OGZlLWFjYjYtY2VlODMwMWEwYzE0XkEyXkFqcGdeQXVyMTA5ODEyNTc5._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "LazySod",
+    "dateCreated": "2011-08-08",
+    "inLanguage": "English",
+    "heading": "A very pale shadow of its first part",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 13870,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.7
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2011-06-24",
+  "keywords": "female protagonist,male antagonist,female antagonist,slimehouse,little red riding hood character",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Hayden Panettiere",
+      "url": "https://www.imdb.com/name/nm0659363/"
+    },
+    {
+      "name": "Glenn Close",
+      "url": "https://www.imdb.com/name/nm0000335/"
+    },
+    {
+      "name": "Patrick Warburton",
+      "url": "https://www.imdb.com/name/nm0911320/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mike Disa",
+      "url": "https://www.imdb.com/name/nm1918538/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Cory Edwards",
+      "url": "https://www.imdb.com/name/nm0249897/"
+    },
+    {
+      "name": "Todd Edwards",
+      "url": "https://www.imdb.com/name/nm0250410/"
+    },
+    {
+      "name": "Tony Leech",
+      "url": "https://www.imdb.com/name/nm0498555/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Diary of a Wimpy Kid",
+  "url": "https://www.imdb.com/tt1196141/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg3NzQ2NDgyNF5BMl5BanBnXkFtZTcwMDc1NzIyMw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "napierslogs",
+    "dateCreated": "2010-08-12",
+    "inLanguage": "English",
+    "heading": "It's a problem when you can't separate the hero from the morons",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 57438,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2010-08-20",
+  "keywords": "childhood enemy,cartoon drawing,school cafeteria,bad cheese,school dance",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Zachary Gordon",
+      "url": "https://www.imdb.com/name/nm2325393/"
+    },
+    {
+      "name": "Robert Capron",
+      "url": "https://www.imdb.com/name/nm2953573/"
+    },
+    {
+      "name": "Rachael Harris",
+      "url": "https://www.imdb.com/name/nm0006713/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Thor Freudenthal",
+      "url": "https://www.imdb.com/name/nm0294457/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jackie Filgo",
+      "url": "https://www.imdb.com/name/nm0066851/"
+    },
+    {
+      "name": "Jeff Filgo",
+      "url": "https://www.imdb.com/name/nm0276882/"
+    },
+    {
+      "name": "Gabe Sachs",
+      "url": "https://www.imdb.com/name/nm0007091/"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "Evan Almighty",
+  "url": "https://www.imdb.com/tt0413099/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMTEzODYxMV5BMl5BanBnXkFtZTcwNzQ4ODU0MQ@@._V1_.jpg",
+  "description": "God contacts Congressman Evan Baxter and tells him to build an ark in preparation for a great flood.",
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2007-08-03",
+  "keywords": "ark,congressman,change,flood,depiction of god",
+  "duration": "PT1H36M",
+  "rating": {
+    "ratingCount": 154333,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "review": {
+    "author": "marxthedude",
+    "dateCreated": "2007-04-03",
+    "inLanguage": "English",
+    "heading": "Not Almighty, but quite All-righty!",
+    "reviewBody": "Steve Carell returns as prissy newsreader Evan Baxter, a little less mean-spirited this time around unlike his previous small turn in 'Bruce Almighty'. Of course, Carell was up and coming then but as his box-office success shows, the character responsible for arguably the only really funny scene in 'Bruce Almighty' deserves a film of his own. Shadayac and co. have approached it with a novel (if potentially expensive idea) to make God (Morgan Freeman) appear this time to instruct Baxter to build an Arc and, as Noah did before him, load it full of animals to protect them from an for an oncoming flood. It's an idea that's very entertaining, even if the jokes are less easy than the previous premise. Evan's transformation of appearance and being pursued by eager animals are the main areas of humour here, which means at times the film is thin on the ground. Sentiment comes in the form of Evan's neglect of his family; the audience will know exactly where this will be going, but fortunately the sentiment isn't as annoying as you might believe. It's also very much a family affair, the humour and the language very much for family audiences. Disappointingly, Shadayac, responsible for bringing out two of Jim Carrey's worst performances (namely 'Liar Liar' and 'Bruce Almighty') by letting Carrey overdo it by seemingly telling him to do the whole thing as an impression of William Shatner, mistakenly this time opts to take Carell down a notch. Carell's trademark hysteria and bizarre reactions are in short supply and we have an all together calmer 'Little Miss Sunshine'-esquire turn, which also means the film loses some of it's potential in this instance. Wanda Sykes and co. are merely stock characters needing better dialogue. Does this make it a bad film? Not at all. It's religious tie-ins (if rushed) are quite smart and it's very well directed visually with a great use of music and keeping a steady pace. It is what's on the label, but with a jaw-droppingly impressive final act which will really take you by surprise and could be up there as one of the sights of the summer! You could do a lot worse than enjoy 100 minutes of easy-going fun but if it's a laugh-out-loud roller-coaster you want, you will leave short-changed!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 154333,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "actor": [
+    {
+      "name": "Steve Carell",
+      "url": "https://www.imdb.com/name/nm0136797/"
+    },
+    {
+      "name": "Morgan Freeman",
+      "url": "https://www.imdb.com/name/nm0000151/"
+    },
+    {
+      "name": "Lauren Graham",
+      "url": "https://www.imdb.com/name/nm0334179/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tom Shadyac",
+      "url": "https://www.imdb.com/name/nm0001723/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steve Koren",
+      "url": "https://www.imdb.com/name/nm0466175/"
+    },
+    {
+      "name": "Mark O'Keefe",
+      "url": "https://www.imdb.com/name/nm0641479/"
+    },
+    {
+      "name": "Steve Oedekerk",
+      "url": "https://www.imdb.com/name/nm0644203/"
+    }
+  ]
+}

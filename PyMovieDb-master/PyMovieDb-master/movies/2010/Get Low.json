@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Get Low",
+  "url": "https://www.imdb.com/tt1194263/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY3MjUxNDUwNl5BMl5BanBnXkFtZTcwNzk1NDk1Mw@@._V1_.jpg",
+  "description": "A movie spun out of equal parts folk tale, fable and real-life legend about the mysterious, 1930s Tennessee hermit who famously threw his own rollicking funeral party... while he was still alive.",
+  "review": {
+    "author": "Evanmail-841-799521",
+    "dateCreated": "2010-09-10",
+    "inLanguage": "English",
+    "heading": "One of the best films of the year",
+    "reviewBody": "A charming sleeper of a tale set in the 1930s. A reclusive hermit, the subject of mistrust and rumor by generations of local townsfolk, nearing the end of his life suddenly decides to throw himself a funeral party and invites the entire town. Superlative and nuanced performances are turned in by Robert Duvall, as the old man, Sissy Spacek, as a widowed former acquaintance, and Bill Murray, as the funeral director who agrees to organize the event. Fantastic supporting performances are also given by Lucas Black, as the Funeral director's more moral assistant, and Bill Cobbs, as the Reverend who comes to speak at the funeral. The director, Aaron Schneider, captures the period extremely well and the cinematography and musical score are wonderful. The movie handles tough subjects like death, regret, suspicion and guilt with wisdom and a gentle humor that allows the audience to take it all in like one big ice cream sundae. Bravo ! Go see it ! Tell your friends to go see it !!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 23955,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2011-01-21",
+  "keywords": "1930s,legend,funeral,hermit,funeral home",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Robert Duvall",
+      "url": "https://www.imdb.com/name/nm0000380/"
+    },
+    {
+      "name": "Bill Murray",
+      "url": "https://www.imdb.com/name/nm0000195/"
+    },
+    {
+      "name": "Sissy Spacek",
+      "url": "https://www.imdb.com/name/nm0000651/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Aaron Schneider",
+      "url": "https://www.imdb.com/name/nm0773689/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Chris Provenzano",
+      "url": "https://www.imdb.com/name/nm0699046/"
+    },
+    {
+      "name": "C. Gaby Mitchell",
+      "url": "https://www.imdb.com/name/nm2057149/"
+    },
+    {
+      "name": "Scott Seeke",
+      "url": "https://www.imdb.com/name/nm3015337/"
+    }
+  ]
+}

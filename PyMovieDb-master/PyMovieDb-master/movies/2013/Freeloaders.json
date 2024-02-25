@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "Freeloaders",
+  "url": "https://www.imdb.com/tt1323044/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM0NzMwMDU0OV5BMl5BanBnXkFtZTcwNTM4Njg3OA@@._V1_.jpg",
+  "description": "A group of slackers who are living for free in a rock star's mansion find their sweet lives threatened when the musician decides to sell his pad.",
+  "contentRating": "R",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2012-12-18",
+  "keywords": "male frontal nudity, male nudity, group, raunchy comedy, woman wears underwear",
+  "duration": "PT1H17M",
+  "actor": [
+    {
+      "name": "Josh Lawson",
+      "url": "https://www.imdb.com/name/nm0493257/"
+    },
+    {
+      "name": "Clifton Collins Jr.",
+      "url": "https://www.imdb.com/name/nm0004286/"
+    },
+    {
+      "name": "Brit Morgan",
+      "url": "https://www.imdb.com/name/nm2694584/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dan Rosen",
+      "url": "https://www.imdb.com/name/nm0741942/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dave Gibbs",
+      "url": "https://www.imdb.com/name/nm2998720/"
+    },
+    {
+      "name": "Dan Rosen",
+      "url": "https://www.imdb.com/name/nm0741942/"
+    }
+  ],
+  "review": {
+    "author": "solomonchristopher",
+    "dateCreated": "2012-11-29",
+    "inLanguage": "English",
+    "heading": "Awesome Comedy",
+    "reviewBody": "Yet another hilarious film from the Broken Lizards (Super Troopers). The premise is quite original. It's about a group of slackers who have been living off of a rock star... And suddenly find themselves in a jam when the rock star decides to sell his house and kick them out. Jane Seymour is great as the pushy real estate broker. Over all, the cast is great and very funny. They have a lot of chemistry together and there are a lot of surprise guest appearances. I don't want to give too much away but I was surprised as to how many cameos this film had. It's a fun movie. It is definitely worth the watch if you are in the mood for an R rated comedy!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 1747,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.4
+  }
+}

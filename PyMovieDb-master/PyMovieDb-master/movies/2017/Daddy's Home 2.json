@@ -1,0 +1,49 @@
+{
+  "type": "Movie",
+  "name": "Daddy's Home 2: The New Dads in Town",
+  "url": "https://www.imdb.com/tt10392158/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAxZjVhNDctOGFlNi00MDc3LTkzMDUtNTQ1YTQwODkzOTJkXkEyXkFqcGdeQXVyMTExODYyNA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 32,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": null,
+  "genre": [
+    "Documentary",
+    "Short"
+  ],
+  "datePublished": null,
+  "keywords": null,
+  "duration": null,
+  "actor": [
+    {
+      "name": "Sean Anders",
+      "url": "https://www.imdb.com/name/nm1890845/"
+    },
+    {
+      "name": "Hannah Crowley-Paolillo",
+      "url": "https://www.imdb.com/name/nm11108859/"
+    },
+    {
+      "name": "Will Ferrell",
+      "url": "https://www.imdb.com/name/nm0002071/"
+    }
+  ],
+  "director": [],
+  "creator": []
+}

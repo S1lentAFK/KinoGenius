@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "My Blueberry Nights",
+  "url": "https://www.imdb.com/tt0765120/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIzNTM0NTQ1OF5BMl5BanBnXkFtZTcwMDI3NzM2MQ@@._V1_.jpg",
+  "description": "A young lonely woman takes a soul-searching journey across America to resolve her questions about love while encountering a series of off-beat characters along the way.",
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2008-02-22",
+  "keywords": "foodie,americana,female bonding,road trip,female protagonist",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Norah Jones",
+      "url": "https://www.imdb.com/name/nm1289528/"
+    },
+    {
+      "name": "Jude Law",
+      "url": "https://www.imdb.com/name/nm0000179/"
+    },
+    {
+      "name": "Natalie Portman",
+      "url": "https://www.imdb.com/name/nm0000204/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kar-Wai Wong",
+      "url": "https://www.imdb.com/name/nm0939182/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kar-Wai Wong",
+      "url": "https://www.imdb.com/name/nm0939182/"
+    },
+    {
+      "name": "Lawrence Block",
+      "url": "https://www.imdb.com/name/nm0088747/"
+    }
+  ],
+  "review": {
+    "author": "siderite",
+    "dateCreated": "2008-03-28",
+    "inLanguage": "English",
+    "heading": "Nice movie, like a slow song in a shady caf\u00e9",
+    "reviewBody": "The film is all about mood. If you are not in it, you will not like the movie. My recommendation is to watch it at night, in bed, with no worries on your mind or things to do. It is not something really great, but it soothes the soul like one of those old road books.\n\nThe story itself is more of a three parter, each section detailing a mindset and the situations that define it. You see the hopeless romantic, the one person who let the other inside instead of just sticking to the outside, and for whom losing the other is worst than death; then there is the rebellious daughter that loves and hates her father until it's to late to do anything either way; and of course, the story of Nora Joneses and Jude Law's characters.\n\nBottom line: lay comfy in your bed and listen to the slow rhythms of the music while digesting the human nature presented in the film. In the end it is worth watching.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 56365,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  }
+}

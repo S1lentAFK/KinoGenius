@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "How to Be a Latin Lover",
+  "url": "https://www.imdb.com/tt4795124/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTAwZDk5NzItM2U0MS00NDUxLTgwMDAtNzVmZDMxMzMxMWYxXkEyXkFqcGdeQXVyNTAwODk1NzY@._V1_.jpg",
+  "description": "Finding himself dumped after twenty-five years of marriage, a man who made a career of seducing rich older women must move in with his estranged sister, where he begins to learn the value of family.",
+  "review": {
+    "author": "ihearts7",
+    "dateCreated": "2017-04-29",
+    "inLanguage": "English",
+    "heading": "loved it",
+    "reviewBody": "was excited to watch this as the trailer was funny.....low IMDb rating got me doubting whether i should go to the movie hall for this...glad i went. it was very funny, well scripted, well acted and not one of those over the top weird obscene comedies...theater was a mix of elder people, kids, adults and everyone laughed throughout the movie....it had genuine humor and good emotional content too... cast was great, salma hayek is a delight to watch , the kid who played her son was so cute, brother sister relationship was well crafted, ...i left the hall smiling...",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 17400,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2017-05-04",
+  "keywords": "eye bandage,toy motorcycle,arm in a sling,yelling,computer",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Eugenio Derbez",
+      "url": "https://www.imdb.com/name/nm0220240/"
+    },
+    {
+      "name": "Salma Hayek",
+      "url": "https://www.imdb.com/name/nm0000161/"
+    },
+    {
+      "name": "Raphael Alejandro",
+      "url": "https://www.imdb.com/name/nm6004682/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ken Marino",
+      "url": "https://www.imdb.com/name/nm0547800/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jon Zack",
+      "url": "https://www.imdb.com/name/nm0951686/"
+    },
+    {
+      "name": "Chris Spain",
+      "url": "https://www.imdb.com/name/nm7409040/"
+    }
+  ]
+}

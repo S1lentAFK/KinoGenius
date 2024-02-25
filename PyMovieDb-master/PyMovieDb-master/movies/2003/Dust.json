@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Dust Devil",
+  "url": "https://www.imdb.com/tt0104155/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWIyYjEwMDctZjU5Yy00ZTg1LTg5NTAtNWU1ZjA2MzBiMWEyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "HumanoidOfFlesh",
+    "dateCreated": "2006-11-01",
+    "inLanguage": "English",
+    "heading": "Very atmospheric and visually impressive horror film.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 5895,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "18",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "1993-04-16",
+  "keywords": "hitchhiking,sex scene,murder of a nude woman,woman in a bathtub,motel",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Robert John Burke",
+      "url": "https://www.imdb.com/name/nm0121559/"
+    },
+    {
+      "name": "Chelsea Field",
+      "url": "https://www.imdb.com/name/nm0001210/"
+    },
+    {
+      "name": "Zakes Mokae",
+      "url": "https://www.imdb.com/name/nm0596310/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Richard Stanley",
+      "url": "https://www.imdb.com/name/nm0822582/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Richard Stanley",
+      "url": "https://www.imdb.com/name/nm0822582/"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+
+
+{
+  "type": "Movie",
+  "name": "102 Dalmatians",
+  "url": "https://www.imdb.com/tt0211181/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmEzOTcxNzUtYmVjMS00MzNiLWJjNTEtOTY3MTE2ZjVkMGQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "Cruella DeVil gets out of prison and goes after the puppies once more.",
+  "contentRating": "U",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2000-12-08",
+  "keywords": [
+    "cruella de vil character",
+    "dog",
+    "puppy",
+    "dalmatian",
+    "scheme"
+  ],
+  "duration": "PT1H40M",
+  "rating": {
+    "ratingCount": 39424,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  },
+  "review": {
+    "author": "Vincentiu",
+    "dateCreated": "2015-06-09",
+    "inLanguage": "English",
+    "heading": "nice",
+    "reviewBody": "the first film was interesting for Glenn Close. the second - for Gerard Depardieu and for the strange effect of Big Ben. but the difference is too small. because it is a family film, with adorable puppies, with same adventures and new characters/cast, not convincing but amusing, chain of adventures and chaotic - hilarious events, with the predictable end and a lot of fun. so, nothing surprising. but nice for the good intentions. and for the joy to discover a colorful universe. for the remind of Dr Jekyl and Mr. Hyde. and for the memories about the first part. so, a nice movie. not great, not special but useful for a rainy afternoon.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "actors": [
+    {
+      "name": "Glenn Close",
+      "url": "https://www.imdb.com/name/nm0000335/"
+    },
+    {
+      "name": "G\u00e9rard Depardieu",
+      "url": "https://www.imdb.com/name/nm0000367/"
+    },
+    {
+      "name": "Ioan Gruffudd",
+      "url": "https://www.imdb.com/name/nm0344435/"
+    }
+  ],
+  "directors": [
+    {
+      "name": "Michael D Moore",
+      "url": "https://www.imdb.com/name/nm15606511/"
+    },
+    {
+      "name": "Kevin Lima",
+      "url": "https://www.imdb.com/name/nm0510674/"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Dodie Smith",
+      "url": "https://www.imdb.com/name/nm0807977/"
+    },
+    {
+      "name": "Kristen Buckley",
+      "url": "https://www.imdb.com/name/nm0118649/"
+    },
+    {
+      "name": "Brian Regan",
+      "url": "https://www.imdb.com/name/nm0716391/"
+    }
+  ]
+}

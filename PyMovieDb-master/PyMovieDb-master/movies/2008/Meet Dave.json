@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Meet Dave",
+  "url": "https://www.imdb.com/tt0765476/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzc4YWIwYWEtMjVlYi00Y2JkLWE0NDMtODYyZDkyZTAyYzU5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A crew of miniature aliens operate a spaceship that has a human form. While trying to save their planet, the aliens encounter a new problem, as their ship becomes smitten with an Earth woman.",
+  "review": {
+    "author": "darren-r-holloway",
+    "dateCreated": "2008-07-16",
+    "inLanguage": "English",
+    "heading": "Another Good Murphy Film Hugely Critized",
+    "reviewBody": "I just finished watching this movie and i have to say that the rating for this movie should have been a lot better.\n\nA lot of people are suggesting that eddie's career is going downhill but in my opinion its gone from good to bad back to good. He started his career with some brilliant movies (Coming to America, Beverly Hills Cop, trading places etc) and also two of the best stand ups i have ever watched (Raw & Delirious). His career hit a snag with movies like boomerang, metro, holy man etc.\n\nHis latest films have been very good and i think they will keep getting better. Shrek trilogy, Norbit, Dreamgirls, Daddy Day Care etc.\n\nIf you want to watch a good movie with a few good gags i would definitely recommend this one.\n\nEddie Murphy plays an alien captain who his sent to earth with his crew in a ship shaped as eddie murphy to retrieve a rock. During their time on earth they learn more about human life learn to become part of it.\n\nI wont go into to much detail but i would recommend this movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 43466,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2008-07-18",
+  "keywords": "frog,pet frog,frog croaking,fbi federal bureau of investigation,slimehouse",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Eddie Murphy",
+      "url": "https://www.imdb.com/name/nm0000552/"
+    },
+    {
+      "name": "Elizabeth Banks",
+      "url": "https://www.imdb.com/name/nm0006969/"
+    },
+    {
+      "name": "Gabrielle Union",
+      "url": "https://www.imdb.com/name/nm0005517/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brian Robbins",
+      "url": "https://www.imdb.com/name/nm0005367/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Rob Greenberg",
+      "url": "https://www.imdb.com/name/nm0338576/"
+    },
+    {
+      "name": "Bill Corbett",
+      "url": "https://www.imdb.com/name/nm0179132/"
+    }
+  ]
+}

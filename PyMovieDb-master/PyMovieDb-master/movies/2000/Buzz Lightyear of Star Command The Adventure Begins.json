@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Buzz Lightyear of Star Command: The Adventure Begins",
+  "url": "https://www.imdb.com/tt0181196/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmJjMWU1YzctODczOC00ZGY4LTkwZjAtNjc4Y2ViYTc1NjYwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": "Buzz Lightyear must battle Emperor Zurg with the help of three hopefuls who insist on being his partners.",
+  "datePublished": "2000-08-08",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "duration": "PT1H10M",
+  "rating": {
+    "ratingCount": 5434,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "review": {
+    "author": "TheLittleSongbird",
+    "dateCreated": "2010-03-06",
+    "inLanguage": "English",
+    "heading": "Decent feature length pilot, worth watching if not quite up to the standard of the wonderful Pixar films",
+    "reviewBody": "You can probably guess that I loved the two Pixar films, they were sophisticated, funny and imaginative. This is a decent feature length pilot to the equally decent TV series. Of course some of it is corny, with one or two lacklustre plot points and a rather scant length. But the animation is good, more the galactic backgrounds rather than the character animation. Also there is some good music with William Shatner providing the biggest surprise singing over the end credits, and an excellent voice cast especially Wayne Knight as Zurg. A vast majority of the jokes are hits than misses, the best coming from Booster and Warp, and the dialogue has its moments. The characters have nice personalities, Mira is lovely, while Buzz is a good hero and Zurg an amusing villain. Overall, uneven but a decent pilot to a decent series. 7/10 Bethany Cox",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "keywords": "buzz lightyear character,toy story,superhero,protagonist becomes antagonist,hero villain relationship",
+  "actor": [
+    {
+      "name": "Tim Allen",
+      "url": "https://www.imdb.com/name/nm0000741/"
+    },
+    {
+      "name": "Nicole Sullivan",
+      "url": "https://www.imdb.com/name/nm0005474/"
+    },
+    {
+      "name": "Larry Miller",
+      "url": "https://www.imdb.com/name/nm0588777/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tad Stones",
+      "url": "https://www.imdb.com/name/nm0832309/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark McCorkle",
+      "url": "https://www.imdb.com/name/nm0566407/"
+    },
+    {
+      "name": "Bob Schooley",
+      "url": "https://www.imdb.com/name/nm0774792/"
+    },
+    {
+      "name": "Bill Motz",
+      "url": "https://www.imdb.com/name/nm0609600/"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
+  "url": "https://www.imdb.com/tt1698641/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTgxMDMxMTY5OV5BMl5BanBnXkFtZTgwMjY1NzYzMjE@._V1_.jpg",
+  "description": "Alexander's day begins with gum stuck in his hair, followed by more calamities. However, he finds little sympathy from his family and begins to wonder if bad things only happen to him, his mom, dad, brother and sister - who all fi...",
+  "review": {
+    "author": "MovieWatcher22",
+    "dateCreated": "2020-07-05",
+    "inLanguage": "English",
+    "heading": "Very good family movie",
+    "reviewBody": "Very funny. Good for any age, and also a bit of fun for parents. Movie doesn't last too long, and the moral of the story is simple and the storyline is easy to understand. Really recommend.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 46394,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2014-10-24",
+  "keywords": [
+    "long title",
+    "bad day",
+    "reference to wreck it ralph",
+    "diaper change",
+    "birthday"
+  ],
+  "duration": "PT1H21M",
+  "actors": [
+    {
+      "name": "Steve Carell",
+      "url": "https://www.imdb.com/name/nm0136797/"
+    },
+    {
+      "name": "Jennifer Garner",
+      "url": "https://www.imdb.com/name/nm0004950/"
+    },
+    {
+      "name": "Ed Oxenbould",
+      "url": "https://www.imdb.com/name/nm4590837/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Miguel Arteta",
+      "url": "https://www.imdb.com/name/nm0037708/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Rob Lieber",
+      "url": "https://www.imdb.com/name/nm1464577/"
+    },
+    {
+      "name": "Judith Viorst",
+      "url": "https://www.imdb.com/name/nm1460483/"
+    }
+  ]
+}

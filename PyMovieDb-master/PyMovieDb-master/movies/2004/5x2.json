@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "5x2",
+  "url": "https://www.imdb.com/tt0354356/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIzMjc3OTQ1N15BMl5BanBnXkFtZTcwODE5MTAzMQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "noralee",
+    "dateCreated": "2005-07-11",
+    "inLanguage": "English",
+    "heading": "Is Love and Marriage Hopeless? Maybe, Maybe Not, At Least in France",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 10402,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2005-03-18",
+  "keywords": "divorce,wedding night,female pubic hair,infidelity,sex with a stranger",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Valeria Bruni Tedeschi",
+      "url": "https://www.imdb.com/name/nm0116254/"
+    },
+    {
+      "name": "St\u00e9phane Freiss",
+      "url": "https://www.imdb.com/name/nm0293889/"
+    },
+    {
+      "name": "Fran\u00e7oise Fabian",
+      "url": "https://www.imdb.com/name/nm0264554/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Fran\u00e7ois Ozon",
+      "url": "https://www.imdb.com/name/nm0654830/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Fran\u00e7ois Ozon",
+      "url": "https://www.imdb.com/name/nm0654830/"
+    },
+    {
+      "name": "Emmanu\u00e8le Bernheim",
+      "url": "https://www.imdb.com/name/nm0076814/"
+    }
+  ]
+}

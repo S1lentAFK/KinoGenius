@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Alamo",
+  "url": "https://www.imdb.com/tt0318974/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTAzOTQ5Nzg4MzheQTJeQWpwZ15BbWU2MDQwODAxNw@@._V1_.jpg",
+  "description": "Based on the 1836 standoff between a group of Texan and Tejano men, led by Davy Crockett and Jim Bowie, and Mexican dictator Santa Anna&apos;s forces at the Alamo in San Antonio Texas.",
+  "review": {
+    "author": "lg9times",
+    "dateCreated": "2004-10-07",
+    "inLanguage": "English",
+    "heading": "Still sends chills up the spine",
+    "reviewBody": "Despite what some people says, this new version of the Alamo still packs a punch. For those of us who are taken by the saga of the Alamo, you will not be disappointed. The acting in no way lessens the impact or the bravery of these men who chose to, for what ever reason, stay and pay the ultimate price for their beliefs. Billy Bob Thorton&apos;s portrayal of David Crockett is nothing short of brilliant. It is by far the best portrayal of David Crockett I have ever seen. Some of the characters seem a little thin but not enough to to ruin the experience. Go with your gut on this one. I don&apos;t think you will be disappointed. I believe an honest effort was made to tell the tragic story of these brave men.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 22156,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "datePublished": "2004-09-03",
+  "keywords": "1830s,texas,mexican,standoff,bowie knife",
+  "duration": "PT2H17M",
+  "actor": [
+    {
+      "name": "Dennis Quaid",
+      "url": "https://www.imdb.com/name/nm0000598/"
+    },
+    {
+      "name": "Billy Bob Thornton",
+      "url": "https://www.imdb.com/name/nm0000671/"
+    },
+    {
+      "name": "Emilio Echevarría",
+      "url": "https://www.imdb.com/name/nm0248408/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Lee Hancock",
+      "url": "https://www.imdb.com/name/nm0359387/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Leslie Bohem",
+      "url": "https://www.imdb.com/name/nm0092018/"
+    },
+    {
+      "name": "Stephen Gaghan",
+      "url": "https://www.imdb.com/name/nm0300866/"
+    },
+    {
+      "name": "John Lee Hancock",
+      "url": "https://www.imdb.com/name/nm0359387/"
+    }
+  ]
+}

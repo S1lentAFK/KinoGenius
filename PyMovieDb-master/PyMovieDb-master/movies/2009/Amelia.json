@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Amelia",
+  "url": "https://www.imdb.com/tt1129445/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI5NTI3MjA4M15BMl5BanBnXkFtZTcwMTM3Mzc3Mg@@._V1_.jpg",
+  "description": "A look at the life of legendary American pilot Amelia Earhart, who disappeared while flying over the Pacific Ocean in 1937 in an attempt to make a flight around the world.",
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Biography",
+    "Drama"
+  ],
+  "datePublished": "2009-11-13",
+  "keywords": "trousers,looking at oneself in a mirror,amelia earhart character,plane,flight",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Hilary Swank",
+      "url": "https://www.imdb.com/name/nm0005476/"
+    },
+    {
+      "name": "Richard Gere",
+      "url": "https://www.imdb.com/name/nm0000152/"
+    },
+    {
+      "name": "Ewan McGregor",
+      "url": "https://www.imdb.com/name/nm0000191/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mira Nair",
+      "url": "https://www.imdb.com/name/nm0619762/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ron Bass",
+      "url": "https://www.imdb.com/name/nm0060103/"
+    },
+    {
+      "name": "Anna Hamilton Phelan",
+      "url": "https://www.imdb.com/name/nm0357703/"
+    },
+    {
+      "name": "Susan Butler",
+      "url": "https://www.imdb.com/name/nm2336073/"
+    }
+  ],
+  "review": {
+    "author": "Vincentiu",
+    "dateCreated": "2011-09-13",
+    "inLanguage": "English",
+    "heading": "Homage",
+    "reviewBody": "A delicate strong story.But not a biography. Only homage for a belief, vision and adventure. So, it is difficult to define a film without great ambitions but with good taste.The bricks are not the truth or realistic portrait. Feelings, pieces from gestures and sage wise are gift for the public. And a sun - shine Hilary Swank. A Richard Gere , same lost hero of old years. The fever of fly, the small details and interior fight, the end as mist and flavor of a dream in the skin of reality. It is not a chronicle, testimony or documentary. It is not a masterpiece but may be a beautiful pendant.Must see! For a travel in the teenage corners.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 13527,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  }
+}

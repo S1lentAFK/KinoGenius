@@ -1,0 +1,59 @@
+
+
+{
+  "type": "Movie",
+  "name": "Detropia",
+  "url": "https://www.imdb.com/tt2125490/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTAxNjY3NTk2MjheQTJeQWpwZ15BbWU3MDMzOTI0MTg@._V1_.jpg",
+  "description": "A documentary on the city of Detroit and its woes, which are emblematic of the collapse of the U.S. manufacturing base.",
+  "contentRating": "Not Rated",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2012-01-21",
+  "keywords": "manufacturing,car manufacturing,detroit michigan,automobile factory,city",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Noah Stewart",
+      "url": "https://www.imdb.com/name/nm4866572/"
+    },
+    {
+      "name": "Rachele Gilmnore",
+      "url": "https://www.imdb.com/name/nm5729155/"
+    },
+    {
+      "name": "Michael Wanko",
+      "url": "https://www.imdb.com/name/nm5695379/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Heidi Ewing",
+      "url": "https://www.imdb.com/name/nm1823216/"
+    },
+    {
+      "name": "Rachel Grady",
+      "url": "https://www.imdb.com/name/nm1823227/"
+    }
+  ],
+  "creator": [],
+  "review": {
+    "author": "s-snead46",
+    "dateCreated": "2014-08-02",
+    "inLanguage": "English",
+    "heading": "Ruin Porn",
+    "reviewBody": "May contain spoilers: It has some interesting images,anecdotes and stories but for the most part it is nothing but ruin porn. I didn&apos;t hate the movie but it really did not go too far in depth about the complex nature of the cities decline. These things include racial tensions, mismanagement, population declines, real estate practices, recessions,public schools, politics, crime and outsourcing. I know they covered some of these things but they barely scratched the surface on many of these issues. I think if you really would like to know some of these issues in a more intimate matter than your better off researching it and watching a show like The Wire. I think that show does a great job of examining many issues that the big cities face and to a lesser extent many cities.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 1623,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  }
+}

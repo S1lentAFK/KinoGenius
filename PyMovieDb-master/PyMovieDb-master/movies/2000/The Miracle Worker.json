@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Miracle Worker",
+  "url": "https://www.imdb.com/tt0056241/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQzODc4MTE1MF5BMl5BanBnXkFtZTcwMjYyODI1NA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "GMJames",
+    "dateCreated": "2005-06-11",
+    "inLanguage": "English",
+    "heading": "An extremely well-acted adaptation of the stage play",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 20334,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.1
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Biography",
+    "Drama"
+  ],
+  "datePublished": "1962-07-28",
+  "keywords": "blindness,deafness,1880s,tutor,communication",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Anne Bancroft",
+      "url": "https://www.imdb.com/name/nm0000843/"
+    },
+    {
+      "name": "Patty Duke",
+      "url": "https://www.imdb.com/name/nm0001157/"
+    },
+    {
+      "name": "Victor Jory",
+      "url": "https://www.imdb.com/name/nm0430460/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Arthur Penn",
+      "url": "https://www.imdb.com/name/nm0671957/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William Gibson",
+      "url": "https://www.imdb.com/name/nm0317217/"
+    },
+    {
+      "name": "Helen Keller",
+      "url": "https://www.imdb.com/name/nm0445656/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Death Sentence",
+  "url": "https://www.imdb.com/tt0804461/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWMzY2QxMjYtYTYwMy00YjMyLTgxODUtNWNhODgxNGU0YTk5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": "Nick Hume is a mild-mannered executive with a perfect life, until one gruesome night he witnesses something that changes him forever. Transformed by grief, Hume eventually comes to the disturbing conclusion that no length is too g...",
+  "review": {
+    "author": "TomCruiseFan99",
+    "dateCreated": "2008-04-22",
+    "inLanguage": "English",
+    "heading": "Vengeance, pure and simple",
+    "reviewBody": "Reminiscent of previous vigilante films like Death Wish and The Brave One, this film is much more action-packed and gripping. Kevin Bacon gives an excellent performance as a traumatised father who witnessed his son's murder and decides to punish the killers himself, rather than depend on the police.\n\nThe action scenes are truly suspenseful and keep you on the edge of your seat, especially a foot-chase that culminates in a deadly game of hide-and-seek within a 5-storey parking garage. Another factor that sets this film apart from previous vigilante thrillers is that it still manages to serve up quite a few twists and turns that add to the tension.\n\nAs exciting and gripping as this film is, please be fore-warned: the violence shown on screen is not for those with weak stomachs. It's graphic, brutal, edgy and tense. Still, this does not detract from the film at all. If anything, it makes the whole experience more visceral.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 74586,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "2007-08-31",
+  "keywords": "vigilante justice,paul kersey character,gunfight,final showdown,revenge murder",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Kevin Bacon",
+      "url": "https://www.imdb.com/name/nm0000102/"
+    },
+    {
+      "name": "John Goodman",
+      "url": "https://www.imdb.com/name/nm0000422/"
+    },
+    {
+      "name": "Kelly Preston",
+      "url": "https://www.imdb.com/name/nm0000593/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Wan",
+      "url": "https://www.imdb.com/name/nm1490123/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ian Mackenzie Jeffers",
+      "url": "https://www.imdb.com/name/nm2259451/"
+    },
+    {
+      "name": "Brian Garfield",
+      "url": "https://www.imdb.com/name/nm0307257/"
+    }
+  ]
+}

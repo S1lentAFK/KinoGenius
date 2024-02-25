@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Alex of Venice",
+  "url": "https://www.imdb.com/tt2977090/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMTUxMDcxNl5BMl5BanBnXkFtZTgwODc0Mjk1NDE@._V1_.jpg",
+  "description": "A workaholic attorney is forced to reinvent her life after her husband suddenly leaves.",
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2015-04-17",
+  "keywords": [
+    "artist",
+    "father daughter relationship",
+    "marital separation",
+    "venice california",
+    "reference to santa fe new mexico"
+  ],
+  "duration": "PT1H26M",
+  "actor": [
+    {
+      "name": "Mary Elizabeth Winstead",
+      "url": "https://www.imdb.com/name/nm0935541/"
+    },
+    {
+      "name": "Chris Messina",
+      "url": "https://www.imdb.com/name/nm0582149/"
+    },
+    {
+      "name": "Don Johnson",
+      "url": "https://www.imdb.com/name/nm0000467/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chris Messina",
+      "url": "https://www.imdb.com/name/nm0582149/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jessica Goldberg",
+      "url": "https://www.imdb.com/name/nm2713351/"
+    },
+    {
+      "name": "Katie Nehra",
+      "url": "https://www.imdb.com/name/nm2605625/"
+    },
+    {
+      "name": "Justin Shilton",
+      "url": "https://www.imdb.com/name/nm0793526/"
+    }
+  ],
+  "review": {
+    "author": "jkt2006",
+    "dateCreated": "2019-10-09",
+    "inLanguage": "English",
+    "heading": "Simple, Light, Enjoyable fare!",
+    "reviewBody": "I enjoyed this quite simple and straightforward story and script. The lead female character adds to the story and the script with her extremely natural performance and lets the movie flow smoothly. Yes, it could have become a deeper movie at many levels but that would also have taken away from the simplicity of the characters portrayed. I enjoyed it thoroughly and recommend it for a weeknight watch.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 3376,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  }
+}

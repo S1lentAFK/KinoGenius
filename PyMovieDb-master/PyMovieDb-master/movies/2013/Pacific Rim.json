@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Pacific Rim",
+  "url": "https://www.imdb.com/tt1663662/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY3MTI5NjQ4Nl5BMl5BanBnXkFtZTcwOTU1OTU0OQ@@._V1_.jpg",
+  "description": "As a war between humankind and monstrous sea creatures wages on, a former pilot and a trainee are paired up to drive a seemingly obsolete special weapon in a desperate effort to save the world from the apocalypse.",
+  "review": {
+    "author": "bob the moo",
+    "dateCreated": "2013-11-03",
+    "inLanguage": "English",
+    "heading": "Enjoyable monster movie that doesn't pretend to be anything else",
+    "reviewBody": "Part of the reason I have started completely sitting out the summer blockbuster season is that I just got fed up going to crowded noisy cinemas to be disappointed by films that promised much but deliver just basic effects and little else. With Pacific Rim though, it is hard to feel this way because it is a film that has never pretended to be anything other than a Japanese inspired monster movie where big robots hit big aliens in a way that pretty much never makes much sense when you think about it. The plot is explained very quickly at the start of the film and we then jump into the future where the war we just learned about is reaching a peak. From here we have some doubt, some lessons to learn, barriers to overcome but really what we have are big special effects punching each other. And it works.\\n\\nIt is easy to wring one's hands and say that blockbusters are the death of film, but all things have a place as long as they are done well and this is at least an honest and fun film. I say honest because it has no pretension to it \\u2013 it is plain and simple a monster movie with a very big budget behind it. The effects are good, with good monster design and generally a sense of fun and energy to the deliver. Of course it is just effects hitting other effects but it works for what it is and at least does this well \\u2013 unlike other films that would aspire to more but yet can't even do this with any skill. The action sequences are large and fun throughout and the soapy drama doesn't get in the way at all. The film is loaded with references which I mostly got \\u2013 the voice of GLaDOS being my favorite one.\\n\\nThe cast are not particularly famous but it doesn't matter since the effects are the stars here. That said I thought they did a good job, in particular I enjoyed seeing Elba, Day, Collins, Kikuchi and others in their various roles. Del Toro continues his love of all things geeky with this film and in terms of direction it looks good, with plenty going on but never not being clear and engaging.\\n\\nIt isn't a brilliant film by any means but it is a straightforward one that is honest with the viewer. Robots punching monsters \\u2013 that is all that is promised and on that it very much delivers. If this sounds like your thing then this will hit the spot no problem.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 527231,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2013-07-12",
+  "keywords": "kaiju,human piloted robot,male female friendship,apocalypse,human versus monster",
+  "duration": "PT2H11M",
+  "actor": [
+    {
+      "name": "Idris Elba",
+      "url": "https://www.imdb.com/name/nm0252961/"
+    },
+    {
+      "name": "Charlie Hunnam",
+      "url": "https://www.imdb.com/name/nm0402271/"
+    },
+    {
+      "name": "Rinko Kikuchi",
+      "url": "https://www.imdb.com/name/nm0452860/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Guillermo del Toro",
+      "url": "https://www.imdb.com/name/nm0868219/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Travis Beacham",
+      "url": "https://www.imdb.com/name/nm2012438/"
+    },
+    {
+      "name": "Guillermo del Toro",
+      "url": "https://www.imdb.com/name/nm0868219/"
+    }
+  ]
+}

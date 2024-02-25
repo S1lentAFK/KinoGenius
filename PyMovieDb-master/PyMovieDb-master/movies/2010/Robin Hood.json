@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Robin Hood",
+  "url": "https://www.imdb.com/tt0955308/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM5NzcwMzEwOF5BMl5BanBnXkFtZTcwNjg5MTgwMw@@._V1_.jpg",
+  "description": "In twelfth-century England, Robin Longstride and his band of marauders confront corruption in a local village and lead an uprising against the crown that will forever alter the balance of world power.",
+  "review": {
+    "author": "oephyx",
+    "dateCreated": "2010-05-12",
+    "inLanguage": "English",
+    "heading": "Solid, but not great",
+    "reviewBody": "Solid is the keyword. From the screenplay, to the cinematography and the performance, the film is based on solid grounding. Indeed, we couldn&apos;t imagine less from the people assembled on the project. And the first signs are indeed good, starting as an origin story that traces Robin&apos;s steps returning from the Crusades and arriving in Nottingham. The plot is immediately both compelling and fresh with regards to the well known tale.\n\nThe first problem we run into is that the film never allows itself to linger. This creates two problems: the sense of purpose it reaches for through urgency has a tendency to be lost to aimlessness, and the characters never have the space to generate real depth of emotion.\n\nImagine only this: Russel Crowe, Cate Blanchett and William Hurt together have collected three Oscars, and an additional nine nominations. Yet it it&apos;s hard to lavish praise on their performances, because they never manage to inspire empathy as well as we might wish. The sense of urgency - of imminent physical danger to their person, of the crucial importance of their quest - never quite strikes home.\n\nThe screenplay doesn&apos;t always help them. It attempts to give the tale a strong moral foundation, by associating it with burgeoning democratic ideals in feudal Britain, unconvincingly: suspension of disbelief failed this reviewer.\n\nFor both these reasons, the epic sense of greatness that saturates Mr. Scott&apos;s similar works never works in this one. Indeed, in the anticipated climax of the battle, slow motion shots fall flat, and emotion never reaches an expected high, in spite of the film&apos;s competence in the action scenes.\n\nThis is a work that strangely echoes others, as well. People will be drawn to comparisons with Gladiator; these aren&apos;t particularly relevant beyond Russell Crow&apos;s similar (yet less engaging) performance. Rather, Robin&apos;s journey from the crusades and through England, in which he prospers on fateful luck and earned respect, copies Ridley Scott&apos;s own Kingdom of Heaven. In their themes and ambition these three films are alike, but Robin Hood doesn&apos;t thrive from the comparison. Where flaws are shared, what made the other two great is oddly lacking in this latest historical epic from the director.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 281752,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "datePublished": "2010-05-12",
+  "keywords": "robin hood character,medieval times,archer,reference to robin hood,england",
+  "duration": "PT2H20M",
+  "actor": [
+    {
+      "name": "Russell Crowe",
+      "url": "https://www.imdb.com/name/nm0000128/"
+    },
+    {
+      "name": "Cate Blanchett",
+      "url": "https://www.imdb.com/name/nm0000949/"
+    },
+    {
+      "name": "Matthew Macfadyen",
+      "url": "https://www.imdb.com/name/nm0532193/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ridley Scott",
+      "url": "https://www.imdb.com/name/nm0000631/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brian Helgeland",
+      "url": "https://www.imdb.com/name/nm0001338/"
+    },
+    {
+      "name": "Ethan Reiff",
+      "url": "https://www.imdb.com/name/nm0717550/"
+    },
+    {
+      "name": "Cyrus Voris",
+      "url": "https://www.imdb.com/name/nm0903456/"
+    }
+  ]
+}

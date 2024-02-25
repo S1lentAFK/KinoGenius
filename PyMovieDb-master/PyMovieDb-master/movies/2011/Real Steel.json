@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Real Steel",
+  "url": "https://www.imdb.com/tt0433035/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMzEzNjg0N15BMl5BanBnXkFtZTcwMzg4NDk0Ng@@._V1_.jpg",
+  "description": "In the near future, robot boxing is a top sport. A struggling ex-boxer feels he's found a champion in a discarded robot.",
+  "review": {
+    "author": "gremlins-haunt-my-house",
+    "dateCreated": "2011-09-27",
+    "inLanguage": "English",
+    "heading": "Great movie, good story. Who doesn't like fighting robots??",
+    "reviewBody": "We saw an advanced screening on Sept 22. I thought it was going to be another one of those cheesy, campy, not really believable, warm fuzzy, type of underdog/rags to riches movies. I was actually surprised. It had some great plot twists, it had a real story line. And while yes, there is some language sprinkled throughout, it did make a good family movie for older kids, 10+ (my opinion). The ending wasn't quite what I was expecting, but looking back I think I liked it better for that. Who wants an ending they can see coming the entire movie?\n\nIt had some great comedy moments. The relationships between the actors felt genuine and not overdone or forced. \n\nThe robot animatronics was good. The robots themselves were fun and imaginative and definitely made me wish we really had this sport. I would so be there!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 352745,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "datePublished": "2011-10-14",
+  "keywords": "robot,father son relationship,boxing,bull,robot battle",
+  "duration": "PT2H7M",
+  "actor": [
+    {
+      "name": "Hugh Jackman",
+      "url": "https://www.imdb.com/name/nm0413168/"
+    },
+    {
+      "name": "Evangeline Lilly",
+      "url": "https://www.imdb.com/name/nm1431940/"
+    },
+    {
+      "name": "Dakota Goyo",
+      "url": "https://www.imdb.com/name/nm2023672/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Shawn Levy",
+      "url": "https://www.imdb.com/name/nm0506613/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Gatins",
+      "url": "https://www.imdb.com/name/nm0309691/"
+    },
+    {
+      "name": "Dan Gilroy",
+      "url": "https://www.imdb.com/name/nm0319659/"
+    },
+    {
+      "name": "Jeremy Leven",
+      "url": "https://www.imdb.com/name/nm0505230/"
+    }
+  ]
+}

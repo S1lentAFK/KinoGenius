@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Fantastic Four",
+  "url": "https://www.imdb.com/tt1502712/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk0OTMyMDA0OF5BMl5BanBnXkFtZTgwMzY5NTkzNTE@._V1_.jpg",
+  "description": "Four young outsiders teleport to an alternate and dangerous universe which alters their physical form in shocking ways. The four must learn to harness their new abilities and work together to save Earth from a former friend turned...",
+  "review": {
+    "author": "gcharles-01612",
+    "dateCreated": "2018-12-16",
+    "inLanguage": "English",
+    "heading": "That's all?",
+    "reviewBody": "I was waiting for something to happen and then the movie was over.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 175520,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2015-08-06",
+  "keywords": "troubled production,marvel comics,fantastic four,invisibility,superhero team",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Miles Teller",
+      "url": "https://www.imdb.com/name/nm1886602/"
+    },
+    {
+      "name": "Kate Mara",
+      "url": "https://www.imdb.com/name/nm0544718/"
+    },
+    {
+      "name": "Michael B. Jordan",
+      "url": "https://www.imdb.com/name/nm0430107/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Josh Trank",
+      "url": "https://www.imdb.com/name/nm2503633/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jeremy Slater",
+      "url": "https://www.imdb.com/name/nm2916300/"
+    },
+    {
+      "name": "Simon Kinberg",
+      "url": "https://www.imdb.com/name/nm1334526/"
+    },
+    {
+      "name": "Josh Trank",
+      "url": "https://www.imdb.com/name/nm2503633/"
+    }
+  ]
+}

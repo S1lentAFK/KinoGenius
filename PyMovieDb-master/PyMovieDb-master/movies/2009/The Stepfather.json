@@ -1,0 +1,75 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Stepfather",
+  "url": "https://www.imdb.com/tt0814335/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3ODU5OTUwMl5BMl5BanBnXkFtZTcwOTczNDU2Mg@@._V1_.jpg",
+  "description": "Michael Harding (Penn Badgely) returns home from military school to find his mother Susan (Sela Ward) happily in love and living with her new boyfriend David (Dylan Walsh). As the two men get to know each other, he becomes more and more suspicious of David's intentions. But is his paranoia justified, or is it all in his head?",
+  "contentRating": "15",
+  "genre": [
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2009-12-11",
+  "keywords": [
+    "bikini",
+    "thrown down stairs",
+    "father son relationship",
+    "ex husband ex wife relationship",
+    "caught in a lie"
+  ],
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Penn Badgley",
+      "url": "https://www.imdb.com/name/nm0046112/"
+    },
+    {
+      "name": "Dylan Walsh",
+      "url": "https://www.imdb.com/name/nm0909620/"
+    },
+    {
+      "name": "Sela Ward",
+      "url": "https://www.imdb.com/name/nm0000688/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Nelson McCormick",
+      "url": "https://www.imdb.com/name/nm1879589/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "J.S. Cardone",
+      "url": "https://www.imdb.com/name/nm0136592/"
+    },
+    {
+      "name": "Donald E. Westlake",
+      "url": "https://www.imdb.com/name/nm0922799/"
+    },
+    {
+      "name": "Carolyn Lefcourt",
+      "url": "https://www.imdb.com/name/nm0498839/"
+    }
+  ],
+  "review": {
+    "author": "alienworlds",
+    "dateCreated": "2009-10-28",
+    "inLanguage": "English",
+    "heading": "not bad",
+    "reviewBody": "Maybe people are expecting more and more from films-its just a movie-its not your life. I thought as something to sit down and watch for a bit it was fair game. I have a technical mind and I always think about how many times they did a certain scene or how many scenes were left on the cutting floor for the finished product. Longer than usual, it was not very bloody which was kind of a relief, and it probably had more in common with the thrillers made in the 1950s, than something out of the modern age. In real life stepfather's can be an unwelcome event, so in that sense this movie taps a vein of something unsettling in the real world. Above average acting helped.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 38400,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  }
+}

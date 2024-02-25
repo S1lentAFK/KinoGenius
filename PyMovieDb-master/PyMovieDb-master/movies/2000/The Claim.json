@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Claim",
+  "url": "https://www.imdb.com/tt0218378/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmVjMzVhNWQtZDkyYS00N2YzLTk3M2QtMTY2ZDgxZDRjOTAxXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+  "description": "A prospector who sold his wife and infant daughter in exchange for a mining claim, tries desperately to win them back as he helps to build the Pacific Railroad with a group of pioneer friends.",
+  "review": {
+    "author": "Bunuel1976",
+    "dateCreated": "2006-08-21",
+    "inLanguage": "English",
+    "heading": "THE CLAIM (Michael Winterbottom, 2000) **1/2",
+    "reviewBody": "This is a rare British attempt at a Western, albeit an uncharacteristic one about a small mining town clashing with the oncoming railroad: it's reasonably well served by the stark cinematography, Michael Nyman's dramatic underscoring and a surprisingly able cast (the most impressive being Peter Mullan as the town leader with a secret past and Milla Jovovich as the chanteuse who has hooked up with him).\\n\\nGiven the director, the film strives for absolute realism (down to the varying accents of the multi-national townspeople and the kind of entertainment provided in the dingy saloon); this, coupled with its relentless solemnity and a plot which isn't as engaging as it should be - actually containing a good deal of padding, particularly its baffling emphasis on the blossoming romance between a prospector and a prostitute - results in a rather uneasy film, one that's not remembered with affection! However, the tragic finale - with Mullan's dreams literally going up in flames - is effectively handled.\\n\\nCuriously enough, watching THE CLAIM I was reminded of Nicolas Roeg's similar EUREKA (1983) - which also revolved around a family undone by the lust for gold - though it lacks that film's striking imagery (not to mention its equally distinctive eccentricity).",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 6590,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance",
+    "Western"
+  ],
+  "datePublished": "2001-02-02",
+  "keywords": "family abandonment,buying a child,selling a baby,buying a wife,sierra nevada mountains",
+  "duration": "PT2H",
+  "actor": [
+    {
+      "name": "Wes Bentley",
+      "url": "https://www.imdb.com/name/nm0004747/"
+    },
+    {
+      "name": "Peter Mullan",
+      "url": "https://www.imdb.com/name/nm0611932/"
+    },
+    {
+      "name": "Ron Anderson",
+      "url": "https://www.imdb.com/name/nm0027385/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Winterbottom",
+      "url": "https://www.imdb.com/name/nm0935863/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Frank Cottrell Boyce",
+      "url": "https://www.imdb.com/name/nm0101639/"
+    },
+    {
+      "name": "Thomas Hardy",
+      "url": "https://www.imdb.com/name/nm0362762/"
+    }
+  ]
+}

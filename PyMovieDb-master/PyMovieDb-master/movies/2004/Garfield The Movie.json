@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Garfield: The Movie",
+  "url": "https://www.imdb.com/tt0356634/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIzMTc1OTUxOV5BMl5BanBnXkFtZTYwNTMxODc3._V1_.jpg",
+  "description": "Jon Arbuckle buys a second pet, a dog named Odie. However, Odie is then abducted and it is up to Jon's cat, Garfield, to find and rescue the canine.",
+  "review": {
+    "author": "mjw2305",
+    "dateCreated": "2007-01-07",
+    "inLanguage": "English",
+    "heading": "Harmless fun - unfortunately geared towards the kids",
+    "reviewBody": "Firstly, i really liked the CGI incarnation of everyone favourite cat and i thought Bill Murray provided his voice superbly, capturing his character with perfection. Other than that though Garfield - the movie failed to deliver the essence of the cartoon's produced by Jim Davis. The humour in the original comic strips were entirely geared at the adult generation, not the kids.\n\nI knew the movie would cater for the younger viewer, but i felt that it went overboard a little, and this was detrimental to the films enjoyment. As a family movie it is entertaining, but Garfield - the movie seems to have ignored the comedy that made him everyone's favourite cat; only traces of it still remain.\n\nIt's worth watching as a family movie, but for fans of the Jim Davis comic character, it's probably best left alone.\n\n6/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 93097,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5
+  },
+  "contentRating": "U",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2004-07-30",
+  "keywords": "cat,mouse,dog collar,scene during opening credits,laziness",
+  "duration": "PT1H20M",
+  "actor": [
+    {
+      "name": "Breckin Meyer",
+      "url": "https://www.imdb.com/name/nm0005227/"
+    },
+    {
+      "name": "Jennifer Love Hewitt",
+      "url": "https://www.imdb.com/name/nm0001349/"
+    },
+    {
+      "name": "Stephen Tobolowsky",
+      "url": "https://www.imdb.com/name/nm0864997/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Hewitt",
+      "url": "https://www.imdb.com/name/nm0382072/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jim Davis",
+      "url": "https://www.imdb.com/name/nm0204825/"
+    },
+    {
+      "name": "Joel Cohen",
+      "url": "https://www.imdb.com/name/nm0169505/"
+    },
+    {
+      "name": "Alec Sokolow",
+      "url": "https://www.imdb.com/name/nm0812513/"
+    }
+  ]
+}

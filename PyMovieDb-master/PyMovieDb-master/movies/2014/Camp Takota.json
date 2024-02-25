@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "Camp Takota",
+  "url": "https://www.imdb.com/tt3097084/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI4NDY1NTMyNF5BMl5BanBnXkFtZTgwNDQ0MzIwMTE@._V1_.jpg",
+  "description": "A story that follows Elise, who after finding her life in shambles is forced to work at her old summer camp, where she reunites with two estranged friends.",
+  "review": {
+    "author": "jaynamariedurfee",
+    "dateCreated": "2014-02-21",
+    "inLanguage": "English",
+    "heading": "Holy heck. That was so good.",
+    "reviewBody": "As a major fan of Grace Helbig, Hannah Hart, and Mamrie Hart, I figured I would automatically love this movie, which I did. But even if you don't know them from their YouTube channels, this movie still freaking rocks. There were so many laugh-out-loud moments - and I am very grateful that I was home alone watching this since I was laughing like a complete idiot the whole way through.\n\nGrace, Hannah, and Mamrie (along with all the other actors) were amazing and were able to tell this camp story extremely well. 'Camp Takota' has definitely been added to my list of 'Binge-Watching Movies' (with the likes of 'Mean Girls,' 'Pitch Perfect,' 'Easy A,' and others) for when you just need a good laugh.\n\nI take my hat off (not literally. I am not wearing a hat) to Mamrie Hart for co-writing this, and I have one question left for the Holy Trinity: Sequel?",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 4603,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2014-02-14",
+  "keywords": "childhood friend,summer camp,live performance,drunkenness,dance",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Grace Helbig",
+      "url": "https://www.imdb.com/name/nm4739686/"
+    },
+    {
+      "name": "Mamrie Hart",
+      "url": "https://www.imdb.com/name/nm4413917/"
+    },
+    {
+      "name": "Chester See",
+      "url": "https://www.imdb.com/name/nm2520235/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chris Riedell",
+      "url": "https://www.imdb.com/name/nm4801201/"
+    },
+    {
+      "name": "Nick Riedell",
+      "url": "https://www.imdb.com/name/nm5485262/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mamrie Hart",
+      "url": "https://www.imdb.com/name/nm4413917/"
+    },
+    {
+      "name": "Michael Goldfine",
+      "url": "https://www.imdb.com/name/nm1389536/"
+    },
+    {
+      "name": "Lydia Genner",
+      "url": "https://www.imdb.com/name/nm5849613/"
+    }
+  ]
+}

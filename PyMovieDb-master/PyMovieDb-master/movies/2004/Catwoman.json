@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Catwoman",
+  "url": "https://www.imdb.com/tt0327554/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA4MzM0NDAzOF5BMl5BanBnXkFtZTcwMDY3MDYyMQ@@._V1_.jpg",
+  "description": "A shy woman, endowed with the speed, reflexes, and senses of a cat, walks a thin line between criminal and hero, even as a detective doggedly pursues her, fascinated by both of her personas.",
+  "review": {
+    "author": "zetes",
+    "dateCreated": "2004-07-31",
+    "inLanguage": "English",
+    "heading": "1200+ 1 point votes? Get a life, people, it wasn't that bad!",
+    "reviewBody": "I scored a free ticket to this movie, and I thought, hey, I've wasted my whole life up to now, what's another hundred and forty-one minutes? After all, I have a higher tolerance for crap than most people, and, once in a while, I like to see something that completely sucks. According to the critics and to voters on IMDb, Catwoman is supposed to suck bad. Fortunately, or unfortunately, depending on how you look at it, the movie really doesn't suck. I mean, yeah, it sucks, but it hardly plumbs the depths of true suckitude. Currently it sits at #35 on the IMDb bottom 100, but I can think of way more than 34 other movies that suck far worse than Catwoman. It is much more fair to say that it is a mediocre, perhaps slightly below average, action film. It has a few pros and lots of cons. The cons first: 1) The jumpy editing is awful. 2) Way too much CGI. Same problem with the 500 pound gorilla comic book movie out right now, as well. CGI is probably the worst thing ever to happen to cinema; it's hard to believe people are worshiping a technique that looks more fake than stop-motion. 3) Benjamin Bratt is a horrible actor, and the ugliest handsome man I've ever seen. 4) How the f*ck did Alex Borstein land a movie role? She should be doomed to die on MAD TV, the longest running train wreck of a show ever. 5) Crappy, crappy script. The pros: 1) The film looks wonderful, even though that's due mostly to the CGI (I guess when it's making buildings and inanimate objects like that, it's not so bad). The costume design, even apart from the Catwoman outfit. And if they gave out Oscars to hair stylists, the ones who worked on this film would have no competition. 2) Sharon Stone - not a great performance, by any means. Her character is downright silly, perhaps even nonsensical. But she's gorgeous and has a great presence. She makes a really boring villain somewhat more interesting. 3) Duh! Halle Berry! She might not have the best ability to choose roles. Perhaps she's just obsessed with money, and now that she's got a statuette, she's going to do everything in her power to become a billionaire. Whatever you can say about her, she's a great actress. Last year, she brought Gothika up a notch, and she does a lot to make Catwoman more entertaining than it ought to be. She plays the characters' two halves, the sweet, insecure girl and the dominatrix, very well. And, come on, I'd be lying if I said I didn't go to the movie because I thought Berry would be walking around in a leather outfit for a good portion of the movie. And, damn, she's hot. This makes the movie watchable, if nothing else. There's a shot where the camera circles Berry from toe to head right after she first dons the Catwoman which was worth the price of me embarrassing myself by handing my free pass over to the cute little theater girl at the counter. 5/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 125072,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.4
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Crime",
+    "Fantasy"
+  ],
+  "datePublished": "2004-08-13",
+  "keywords": "catwoman character,urban gothic,comicbook movie,black superhero,supernatural power",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Halle Berry",
+      "url": "https://www.imdb.com/name/nm0000932/"
+    },
+    {
+      "name": "Sharon Stone",
+      "url": "https://www.imdb.com/name/nm0000232/"
+    },
+    {
+      "name": "Benjamin Bratt",
+      "url": "https://www.imdb.com/name/nm0000973/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Pitof",
+      "url": "https://www.imdb.com/name/nm0685759/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bob Kane",
+      "url": "https://www.imdb.com/name/nm0004170/"
+    },
+    {
+      "name": "Theresa Rebeck",
+      "url": "https://www.imdb.com/name/nm0714246/"
+    },
+    {
+      "name": "John Brancato",
+      "url": "https://www.imdb.com/name/nm0104335/"
+    }
+  ]
+}

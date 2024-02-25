@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Jimmy Neutron: Boy Genius",
+  "url": "https://www.imdb.com/tt0268397/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzczYzM4MmMtMTEyYi00ZGRmLWE2OTMtZmNhYTdiYjQ4NDUxXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "julylilly",
+    "dateCreated": "2002-12-20",
+    "inLanguage": "English",
+    "heading": "Kids Movie? I Object!",
+    "reviewBody": "So it's by Nickelodeon. So,It's animated. So, I'm 25 with a 3 year old. I love this movie! Maybe I'm one of the few lucky people to be born with a healthy sense of humor, but when my son and I can sit down together and laught at the same parts of the movie, it's definitley worth it's wieght in gold. Don't you people remember being kids? What would you do if you found out there were no parents anywhere around? Yep-the same thing they did, party until you're constipated.THEN wonder where your parents are. Kids like burp and fart jokes because they're kids. How many times can you recall in your childhood when a well-timed burp would disrupt a class for the remainder of the day? And just to add my son't two cents: the part where Poultra is conked on the head by the getaway ship and is going to fall on the audience... my son finds nothing funnier than the thought of a chicken with butt cheeks. Why don't you people see the movie for the entertainment that it is and not pick it apart like some Oscar Nominations Panel? I have two words for you people... UN PUCKER.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 37705,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2002-03-22",
+  "keywords": "alien,belching,rescue,caterpillar,plant",
+  "duration": "PT1H22M",
+  "actor": [
+    {
+      "name": "Debi Derryberry",
+      "url": "https://www.imdb.com/name/nm0220635/"
+    },
+    {
+      "name": "Rob Paulsen",
+      "url": "https://www.imdb.com/name/nm0667326/"
+    },
+    {
+      "name": "Megan Cavanagh",
+      "url": "https://www.imdb.com/name/nm0146903/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John A. Davis",
+      "url": "https://www.imdb.com/name/nm0204884/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John A. Davis",
+      "url": "https://www.imdb.com/name/nm0204884/"
+    },
+    {
+      "name": "David N. Weiss",
+      "url": "https://www.imdb.com/name/nm0918955/"
+    },
+    {
+      "name": "J. David Stem",
+      "url": "https://www.imdb.com/name/nm0826425/"
+    }
+  ]
+}

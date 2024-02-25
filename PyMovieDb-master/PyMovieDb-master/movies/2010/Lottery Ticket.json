@@ -1,0 +1,62 @@
+{
+  "type": "Movie",
+  "name": "Lottery Ticket",
+  "url": "https://www.imdb.com/tt0979434/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM0ODA2NjcxM15BMl5BanBnXkFtZTcwNTA3NTI0Mw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "squirrel_burst",
+    "dateCreated": "2015-04-18",
+    "inLanguage": "English",
+    "heading": "Middle of the road",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 11495,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2010-08-20",
+  "keywords": "woman rips a man&apos;s shirt,young,man,lottery ticket,eurocopter ec120 colibri",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Shad Moss",
+      "url": "https://www.imdb.com/name/nm0510168/"
+    },
+    {
+      "name": "Brandon T. Jackson",
+      "url": "https://www.imdb.com/name/nm1040365/"
+    },
+    {
+      "name": "Naturi Naughton",
+      "url": "https://www.imdb.com/name/nm1166613/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Erik White",
+      "url": "https://www.imdb.com/name/nm1336172/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Abdul Williams",
+      "url": "https://www.imdb.com/name/nm2226110/"
+    },
+    {
+      "name": "Erik White",
+      "url": "https://www.imdb.com/name/nm1336172/"
+    }
+  ]
+}

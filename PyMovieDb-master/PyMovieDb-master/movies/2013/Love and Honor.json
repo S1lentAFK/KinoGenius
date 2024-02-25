@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Love and Honor",
+  "url": "https://www.imdb.com/tt1976989/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgzOTg1MzI4MV5BMl5BanBnXkFtZTcwOTkwOTcxOQ@@._V1_.jpg",
+  "description": "When a young soldier in Vietnam gets dumped by his girlfriend back home, he and his best friend decide to go AWOL and return to the States to win her back.",
+  "review": {
+    "author": "Jonathon_Natsis",
+    "dateCreated": "2012-11-24",
+    "inLanguage": "English",
+    "heading": "Surprisingly tolerable.",
+    "reviewBody": "With Love and Honour, Liam Hemsworth and Teresa Palmer bring some Aussie flavour to the quintessential American staple: a love story set in wartime. \\n\\nThe film tells the tale of Mickey (Hemsworth) and Dalton (Austin Stowell), two soldiers who spend their week off from Vietnam flying back to America, where Dalton plans to reunite with his best gal Jane (Aimee Teegarden). Mickey, ever the adventurer, tags along for the ride before getting bitten by the love bug himself in the form of Candace (Palmer).\\n\\nIf the plot sounds older than time itself, it&apos;s because it is, but the film remains at least a bearably enjoyable romp. In what proves to be both a blessing and a curse, Love and Honour plays out like two films in one.\\n\\nIn the first half, the acting on display is above par, and while the script fails to account for some plot holes, it manages to avoid an avalanche of clich\\u00e9s that films of this genre are typically so prone to. \\n\\nDisappointingly, the second half labours, jumping right back onto the beaten track en route to a bland and entirely expected conclusion. A decent option as a mind-numbing stimulus, watching this ninety-three minute film will feel likewell, about an hour-and-a-half. \\n\\n*There&apos;s nothing I love more than a bit of feedback, good or bad. So drop me a line on jnatsis@iprimus.com.au and let me know what you thought of my review. If you&apos;re looking for a writer for your movie website or other publication, I&apos;d also love to hear from you.*",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 9654,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "12",
+  "genre": [
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "datePublished": "2013-03-22",
+  "keywords": "girl,vietnam war,soldier,friend,young",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Liam Hemsworth",
+      "url": "https://www.imdb.com/name/nm2955013/"
+    },
+    {
+      "name": "Teresa Palmer",
+      "url": "https://www.imdb.com/name/nm1954240/"
+    },
+    {
+      "name": "Aimee Teegarden",
+      "url": "https://www.imdb.com/name/nm1631435/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Danny Mooney",
+      "url": "https://www.imdb.com/name/nm2421181/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jim Burnstein",
+      "url": "https://www.imdb.com/name/nm0122950/"
+    },
+    {
+      "name": "Garrett K. Schiff",
+      "url": "https://www.imdb.com/name/nm0771473/"
+    }
+  ]
+}

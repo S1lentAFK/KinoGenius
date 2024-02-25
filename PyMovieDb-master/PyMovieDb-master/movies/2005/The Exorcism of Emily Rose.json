@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Exorcism of Emily Rose",
+  "url": "https://www.imdb.com/tt0404032/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI2NTM5MjQ0Nl5BMl5BanBnXkFtZTcwNDAxNjAzMQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "pyrocitor",
+    "dateCreated": "2005-09-20",
+    "inLanguage": "English",
+    "heading": "Not without its flaws, but a cut above most horror films",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 139309,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2005-11-25",
+  "keywords": "demonic possession,supernatural horror,faith,christianity,reference to the virgin mary",
+  "duration": "PT1H59M",
+  "actor": [
+    {
+      "name": "Laura Linney",
+      "url": "https://www.imdb.com/name/nm0001473/"
+    },
+    {
+      "name": "Tom Wilkinson",
+      "url": "https://www.imdb.com/name/nm0929489/"
+    },
+    {
+      "name": "Shohreh Aghdashloo",
+      "url": "https://www.imdb.com/name/nm0013037/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Scott Derrickson",
+      "url": "https://www.imdb.com/name/nm0220600/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Paul Harris Boardman",
+      "url": "https://www.imdb.com/name/nm0090199/"
+    },
+    {
+      "name": "Scott Derrickson",
+      "url": "https://www.imdb.com/name/nm0220600/"
+    }
+  ]
+}

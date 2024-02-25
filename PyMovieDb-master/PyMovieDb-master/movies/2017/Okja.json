@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Okja",
+  "url": "https://www.imdb.com/tt3967856/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQxMTcxNDgxN15BMl5BanBnXkFtZTgwOTczNTIzMjI@._V1_.jpg",
+  "description": "A young girl risks everything to prevent a powerful, multinational company from kidnapping her best friend - a fascinating beast named Okja.",
+  "review": {
+    "author": "ReganRebecca",
+    "dateCreated": "2017-06-29",
+    "inLanguage": "English",
+    "heading": "A beautiful fairytale for adults",
+    "reviewBody": "Okja is a sort of scifi fairytale, one that is explicit with its very simple messaging but is nevertheless beautiful and heart wrenching. \n\nBong Joon-ho begins the film in 2007 when the CEO of a food corporation that is heavily invested with GMO&apos;s tries to revamp their corporate image by announcing a competition between 26 of their best super piglets. The super piglets are sent across the world to be raised by farmers and in ten years one lucky pig will win the title of Best Super Pig (and then apparently be consumed). Fast forward to 10 years later when a thirteen year old Mija, a country girl living in near isolation with her grandfather, is raising her super pig in the idyllic landscape where they play, forage for apples, and fish together. Things go awry however when she discovers that Okja (her pig) does not belong to her and will be carted off to America. From here on the movie turns into an adventure story as Mija must brave the world in order to be reunited with Okja. \n\nThe film is wildly cartoonish in tone, but if you go along with it and let yourself be enchanted by this world you&apos;ll find yourself on a wonderful emotional journey. Some cheap CGI made me at first scoff at Okja, but as the movie goes on she seems more and more real till by the end I was near tears watching the film. Great performances by known and unknown actors alike. Just a great movie through and through.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 131232,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "TV-MA",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "datePublished": "2017-06-28",
+  "keywords": "animal rights activist,meat industry,animal liberation front,south korea,animal lover",
+  "duration": "PT2H",
+  "actor": [
+    {
+      "name": "Tilda Swinton",
+      "url": "https://www.imdb.com/name/nm0842770/"
+    },
+    {
+      "name": "Paul Dano",
+      "url": "https://www.imdb.com/name/nm0200452/"
+    },
+    {
+      "name": "Ahn Seo-hyun",
+      "url": "https://www.imdb.com/name/nm3673821/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bong Joon Ho",
+      "url": "https://www.imdb.com/name/nm0094435/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bong Joon Ho",
+      "url": "https://www.imdb.com/name/nm0094435/"
+    },
+    {
+      "name": "Jon Ronson",
+      "url": "https://www.imdb.com/name/nm0740160/"
+    }
+  ]
+}

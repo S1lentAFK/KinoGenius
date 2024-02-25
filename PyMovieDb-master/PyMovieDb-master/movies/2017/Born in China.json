@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "Born in China",
+  "url": "https://www.imdb.com/tt8923482/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDI3NWI0Y2UtZDRiYy00ZTg5LWIzZDQtN2ZmM2FmYWViYWQ5XkEyXkFqcGdeQXVyODE1MjMyNzI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "gabethurau",
+    "dateCreated": "2019-11-18",
+    "inLanguage": "English",
+    "heading": "Critique of the One-Child policy told through the people who lived it",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 7127,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "R",
+  "genre": [
+    "Documentary",
+    "History"
+  ],
+  "datePublished": "2019-08-09",
+  "keywords": "china,one child policy,social experiment,population control,family planning",
+  "duration": "PT1H23M",
+  "actor": [
+    {
+      "name": "Nanfu Wang",
+      "url": "https://www.imdb.com/name/nm6811599/"
+    },
+    {
+      "name": "Zaodi Wang",
+      "url": "https://www.imdb.com/name/nm11098557/"
+    },
+    {
+      "name": "Zhimei Wang",
+      "url": "https://www.imdb.com/name/nm11098568/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Nanfu Wang",
+      "url": "https://www.imdb.com/name/nm6811599/"
+    },
+    {
+      "name": "Jialing Zhang",
+      "url": "https://www.imdb.com/name/nm5868577/"
+    }
+  ],
+  "creator": []
+}

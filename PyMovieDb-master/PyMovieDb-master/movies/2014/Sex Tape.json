@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Sex Tape",
+  "url": "https://www.imdb.com/tt1956620/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQzMjYxNTU1MF5BMl5BanBnXkFtZTgwOTc1ODE0MTE@._V1_.jpg",
+  "description": "A married couple wake up to discover that the sex tape they made the evening before has gone missing, leading to a frantic search for its whereabouts.",
+  "review": {
+    "author": "bowmanblue",
+    "dateCreated": "2015-01-25",
+    "inLanguage": "English",
+    "heading": "Not (quite) as bad as it's made out to be",
+    "reviewBody": "Okay, in case you haven't already heard, 'Sex Tape' has been pretty much slated everywhere. Currently it's up for goodness knows how many 'Razzie' awards for how bad it is. And, if you check out the online reviews, you'll see that most people pretty much agreed with its nominations.\\n\\nSo, I sat down to watch it, confident in the knowledge that I'd probably be turning it off at about the half hour mark. I actually sat through it all the way.\\n\\nYes, it's not that good. If you're looking for a laugh-a-minute comedy then you won't find it here. Also, if you're looking for some sort of touching, heart-felt comedy, you won't find that here, either. However, if you're generally okay with comedy which is totally based around sex and don't have your expectations too high, then it's not as bad as some people are making it out to be.\\n\\nI read that much of the hate towards this film centres around the on-screen chemistry between Cameron Diaz and Jason Segel. I can see where this is coming from. Most of the time the pair of them play off each other pretty well, but there were certainly a few scenes where their relationship felt very awkward, forced and even scripted. Diaz handles it better than Segel and she's definitely doing her best to keep the film going.\\n\\nBefore you watch this film, stop for a moment to ponder its title. Sex Tape. Does that really conjure up images of high-brow drama and sophistication? Hopefully not. It's pretty much telling you what to expect on the label. I think the trick to getting something out of this is to suitably lower your expectations and accept it for what it is - a pretty run-of-the-mill comedy which has its moments, but, ultimately, you probably won't remember for too long. Don't hate it based on what you've heard, just make sure you're in the mood for what it is before you contemplate sitting down for an hour and a half to watch it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 117485,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2014-09-03",
+  "keywords": "sex video,sexual desire,sexuality,sex tape,ipad",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Jason Segel",
+      "url": "https://www.imdb.com/name/nm0781981/"
+    },
+    {
+      "name": "Cameron Diaz",
+      "url": "https://www.imdb.com/name/nm0000139/"
+    },
+    {
+      "name": "Rob Corddry",
+      "url": "https://www.imdb.com/name/nm1117791/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jake Kasdan",
+      "url": "https://www.imdb.com/name/nm0440458/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kate Angelo",
+      "url": "https://www.imdb.com/name/nm1180074/"
+    },
+    {
+      "name": "Jason Segel",
+      "url": "https://www.imdb.com/name/nm0781981/"
+    },
+    {
+      "name": "Nicholas Stoller",
+      "url": "https://www.imdb.com/name/nm0831557/"
+    }
+  ]
+}

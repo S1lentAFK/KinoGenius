@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Citation Needed",
+  "url": "https://www.imdb.com/tt10560054/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODY5N2VkMmYtZjY0My00M2IxLWFiNGUtMjZlZjQxYzdiNzljXkEyXkFqcGdeQXVyNDM3MzY0MTg@._V1_.jpg",
+  "description": "Tommy Manning is an aging actor whose best days and brief encounters with fame are long behind him. Clinging to his past acclaim and success, he does everything to ensure his legacy is intact and seen in the best light possible. M...",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": null,
+  "genre": [
+    "Short",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2019-06-28",
+  "keywords": null,
+  "duration": "PT13M",
+  "actor": [
+    {
+      "name": "Isak Rydlund",
+      "url": "https://www.imdb.com/name/nm10801844/"
+    },
+    {
+      "name": "William Beyer",
+      "url": "https://www.imdb.com/name/nm10801843/"
+    },
+    {
+      "name": "Laura Trevelin",
+      "url": "https://www.imdb.com/name/nm10801845/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Christopher Kolmatycki",
+      "url": "https://www.imdb.com/name/nm5798295/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Christopher Kolmatycki",
+      "url": "https://www.imdb.com/name/nm5798295/"
+    }
+  ]
+}

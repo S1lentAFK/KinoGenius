@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Les glaneurs et la glaneuse",
+  "url": "https://www.imdb.com/tt0247380/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjBlYTUzOTgtNjZlMC00NWNjLWJhMzQtYzllMjg0ZThhNGMzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Red-125",
+    "dateCreated": "2011-09-11",
+    "inLanguage": "English",
+    "heading": "A fascinating, offbeat French film",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 8670,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  },
+  "contentRating": "U",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2000-07-07",
+  "keywords": "france,harvest,food industry,garbage,french countryside",
+  "duration": "PT1H22M",
+  "actor": [
+    {
+      "name": "Fran\u00e7ois Wertheimer",
+      "url": "https://www.imdb.com/name/nm0921608/"
+    },
+    {
+      "name": "Agn\u00e8s Varda",
+      "url": "https://www.imdb.com/name/nm0889513/"
+    },
+    {
+      "name": "Jean La Planche",
+      "url": "https://www.imdb.com/name/nm11222310/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Agn\u00e8s Varda",
+      "url": "https://www.imdb.com/name/nm0889513/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Agn\u00e8s Varda",
+      "url": "https://www.imdb.com/name/nm0889513/"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Racing Dreams",
+  "url": "https://www.imdb.com/tt1152840/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg4MzczNzc0M15BMl5BanBnXkFtZTcwMTI5NzI0Mw@@._V1_.jpg",
+  "description": "These kids are racing to make their NASCAR dreams a reality.",
+  "review": {
+    "author": "mrn2828",
+    "dateCreated": "2009-06-10",
+    "inLanguage": "English",
+    "heading": "A Documentary that finishes first...",
+    "reviewBody": "Saw this at Tribeca for its premiere. It&apos;s an amazing and touching movie. I never thought I would be interested in racing, but they explain it right in the beginning and manage to make it interesting and easy to follow. That&apos;s saying a lot for me as I&apos;ve always thought racing to be a complete bore.\n\nThe three kids in this movie are probably the most charismatic subjects you will ever see in a documentary. Every interview (even with the parents) is remarkably candid and unique. The racing sequences themselves are exhilarating but its the moments that surprise and break your heart which make this movie complete. For a distinctly American sport, this film gives great insight into the lives of the youth here who pursue it.\n\nNot to be missed.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 454,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Documentary",
+    "Sport"
+  ],
+  "datePublished": "2010-05-21",
+  "keywords": "motorsports sport,racing,nascar,family relationships,children",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Annabeth Barnes",
+      "url": "https://www.imdb.com/name/nm4169707/"
+    },
+    {
+      "name": "Josh Hobson",
+      "url": "https://www.imdb.com/name/nm4170760/"
+    },
+    {
+      "name": "Brandon Warren",
+      "url": "https://www.imdb.com/name/nm4170352/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Marshall Curry",
+      "url": "https://www.imdb.com/name/nm1903582/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Marshall Curry",
+      "url": "https://www.imdb.com/name/nm1903582/"
+    }
+  ]
+}

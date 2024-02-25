@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Wonderful World",
+  "url": "https://www.imdb.com/tt0857275/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkyMjE5NDkzM15BMl5BanBnXkFtZTcwMDkwNjQwMw@@._V1_.jpg",
+  "description": "Ben Singer has his cynical worldview darkened by his roommate Ibu&apos;s sudden medical situation, though the arrival of Ibu&apos;s sister, Khadi, might remedy both men&apos;s ills.",
+  "review": {
+    "author": "dancameraman",
+    "dateCreated": "2009-12-23",
+    "inLanguage": "English",
+    "heading": "Remarkable!",
+    "reviewBody": "This is a smart, satisfying film, and a triumph for Broderick. We haven&apos;t seen such a great anti-establishment hero since The Big Lebowski.\n\nAll the characters are brilliantly written by Goldin, and, likewise, brilliantly portrayed by the actors. Matthew Broderick&apos;s performance as Ben Singer has an assured and measured nuance -- a really fine role. Michael Williams (Ibu) shows his impressive range with a wonderful character, so distinct from his iconic Omar on The Wire. Sanaa Lathan&apos;s Khadi is a strong memorable sensual beauty. Twelve year old Jodelle Ferland as Sandra, Ben&apos;s daughter, is a revelation and certainly a comer.\n\nWonderful World will make you laugh and it will make you cry. You want to go see this flick.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 2487,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "R",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2009-04-27",
+  "keywords": "children&apos;s music,song,singer,senegalese,roommate",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Matthew Broderick",
+      "url": "https://www.imdb.com/name/nm0000111/"
+    },
+    {
+      "name": "Sanaa Lathan",
+      "url": "https://www.imdb.com/name/nm0005125/"
+    },
+    {
+      "name": "Michael Kenneth Williams",
+      "url": "https://www.imdb.com/name/nm0931324/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joshua Goldin",
+      "url": "https://www.imdb.com/name/nm0325662/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joshua Goldin",
+      "url": "https://www.imdb.com/name/nm0325662/"
+    }
+  ]
+}

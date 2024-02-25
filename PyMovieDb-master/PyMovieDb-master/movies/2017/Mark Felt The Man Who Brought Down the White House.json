@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Mark Felt: The Man Who Brought Down the White House",
+  "url": "https://www.imdb.com/tt5175450/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQzMDEwMjMyNF5BMl5BanBnXkFtZTgwNjA1NTA1MzI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Gordon-11",
+    "dateCreated": "2018-01-14",
+    "inLanguage": "English",
+    "heading": "What a thriller",
+    "reviewBody": "This film tells the story of the deputy chief of the FBI, who is not given the promotion that he thought he would get. He then goes on to expose the biggest political scandal of all time.\n\nIt is interesting that this film does not concentrate on external events at all, so you don&apos;t get to see who the seven people who got arrested are, or what evidence the agents have uncovered. It only deals with what Mark Felt have seen or heard, so most of the film occurs in the office. Because of this, viewers who are unfamiliar with the Watergate scandal will have to read about it in advance in order to fully understand the plot. It is a thrilling story, especially the fact that Mark Felt must have endured enormous pressure during that time, and all the subsequent years of his life.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 14589,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2017-09-29",
+  "keywords": "washington post,whistleblower,father daughter relationship,mother daughter relationship,hippie",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Liam Neeson",
+      "url": "https://www.imdb.com/name/nm0000553/"
+    },
+    {
+      "name": "Diane Lane",
+      "url": "https://www.imdb.com/name/nm0000178/"
+    },
+    {
+      "name": "Marton Csokas",
+      "url": "https://www.imdb.com/name/nm0190744/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Landesman",
+      "url": "https://www.imdb.com/name/nm1481618/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Felt",
+      "url": "https://www.imdb.com/name/nm1944541/"
+    },
+    {
+      "name": "John D. O&apos;Connor",
+      "url": "https://www.imdb.com/name/nm2207084/"
+    },
+    {
+      "name": "Peter Landesman",
+      "url": "https://www.imdb.com/name/nm1481618/"
+    }
+  ]
+}

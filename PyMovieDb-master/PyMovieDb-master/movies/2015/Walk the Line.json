@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Walk the Line",
+  "url": "https://www.imdb.com/tt0358273/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIyOTU3MjUxOF5BMl5BanBnXkFtZTcwMTQ0NjYzMw@@._V1_.jpg",
+  "description": null,
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2006-02-03",
+  "keywords": "1960s,accident,prison,concert,guitar",
+  "duration": "PT2H16M",
+  "actor": [
+    {
+      "name": "Joaquin Phoenix",
+      "url": "https://www.imdb.com/name/nm0001618/"
+    },
+    {
+      "name": "Reese Witherspoon",
+      "url": "https://www.imdb.com/name/nm0000702/"
+    },
+    {
+      "name": "Ginnifer Goodwin",
+      "url": "https://www.imdb.com/name/nm0329481/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Mangold",
+      "url": "https://www.imdb.com/name/nm0003506/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Johnny Cash",
+      "url": "https://www.imdb.com/name/nm0143599/"
+    },
+    {
+      "name": "Gill Dennis",
+      "url": "https://www.imdb.com/name/nm0219456/"
+    },
+    {
+      "name": "James Mangold",
+      "url": "https://www.imdb.com/name/nm0003506/"
+    }
+  ],
+  "review": {
+    "author": "rm11",
+    "dateCreated": "2005-10-27",
+    "inLanguage": "English",
+    "heading": "Magical performance by Reese Witherspoon",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 264196,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Metropia",
+  "url": "https://www.imdb.com/tt0985058/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTEzZjNlZTktYmMwZC00ZmNkLWEzOTMtMDQyYTRjMTNkNzRiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": "A complex story of a misaligned man, though good intent, creating a nightmarish Dystopian existence.",
+  "review": {
+    "author": "MdlndeHond",
+    "dateCreated": "2010-05-01",
+    "inLanguage": "English",
+    "heading": "Realistic animated movie for 1984 genre fans",
+    "reviewBody": "It&apos;s a story somewhere in the lines of 1984. Dystopian is a genre in itself and it&apos;s part of the New World Order conspiracy which has been the theme of many cinema and literature since the 50ies. So yes the core of the story is an old one and all has to come from the graphics, characters and small storyline differences.\n\nIn that aspect it&apos;s not a masterpiece but it is surely nothing to sneeze at. The animation is very okay. The characters are very average human beings which makes them easy to relate to and likable. The fact that the story is not completely new is not disturbing. Very much worth watching.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 8089,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Animation",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2009-11-27",
+  "keywords": "cell phone ringtone,conspiracy,surveillance,metro,mind control",
+  "duration": "PT1H26M",
+  "actor": [
+    {
+      "name": "Vincent Gallo",
+      "url": "https://www.imdb.com/name/nm0001252/"
+    },
+    {
+      "name": "Juliette Lewis",
+      "url": "https://www.imdb.com/name/nm0000496/"
+    },
+    {
+      "name": "Udo Kier",
+      "url": "https://www.imdb.com/name/nm0001424/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tarik Saleh",
+      "url": "https://www.imdb.com/name/nm0757975/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Truls Andersen",
+      "url": "https://www.imdb.com/name/nm4885209/"
+    },
+    {
+      "name": "Fredrik Edin",
+      "url": "https://www.imdb.com/name/nm1926161/"
+    },
+    {
+      "name": "Martin Hultman",
+      "url": "https://www.imdb.com/name/nm3011351/"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Adventures of Power",
+  "url": "https://www.imdb.com/tt0960721/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjczNTg4NTg2N15BMl5BanBnXkFtZTcwOTg0Mjc1NA@@._V1_.jpg",
+  "description": "In his quest to become the world's greatest air-drummer, a small-town dreamer must overcome obstacles and ridicule to save the day.",
+  "review": {
+    "author": "aopscreening",
+    "dateCreated": "2007-11-12",
+    "inLanguage": "English",
+    "heading": "amazing comedy.... can't wait!!!!",
+    "reviewBody": "I saw this film when my acting class was invited to give comments at a test screening. I loved it, it is hilarious and very touching movie. It reminds me of The Full Monty (English film) but more weird and more for kids or people my age. There is a lot of music in it, it's almost like a musical, but nobody sings fortunately.\\n\\nIt was fun to see some new faces and also some you know (yes, Vince from Entourage is in it, but he is totally different, he is actually very funny!). I don't like American comedies so much but this one is much better, because you care about these crazy characters and their American dream.\\n\\nI can't wait to see it again when it comes out. I think they are editing a few things but i hope they don't change too much.\\n\\nMy guy friends liked it a lot because it's sort of like a sports movie at times, but I was more into the message and the love story, but that's just me....!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 1985,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Comedy",
+    "Music"
+  ],
+  "datePublished": "2008-01-20",
+  "keywords": "musician,drummer,tank top,performance,air drumming",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Ari Gold",
+      "url": "https://www.imdb.com/name/nm0324923/"
+    },
+    {
+      "name": "Michael McKean",
+      "url": "https://www.imdb.com/name/nm0571106/"
+    },
+    {
+      "name": "Jane Lynch",
+      "url": "https://www.imdb.com/name/nm0528331/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ari Gold",
+      "url": "https://www.imdb.com/name/nm0324923/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ari Gold",
+      "url": "https://www.imdb.com/name/nm0324923/"
+    }
+  ]
+}

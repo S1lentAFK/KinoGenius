@@ -1,0 +1,80 @@
+
+
+{
+  "type": "Movie",
+  "name": "Penguins of Madagascar",
+  "url": "https://www.imdb.com/tt1911658/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTEyMDg4MDU4MjdeQTJeQWpwZ15BbWU4MDQyOTc3MjIx._V1_.jpg",
+  "description": "Skipper, Kowalski, Rico and Private join forces with undercover organization The North Wind to stop the villainous Dr. Octavius Brine from destroying the world as we know it.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2014-12-05",
+  "keywords": "penguin,cricket the insect,mutant animal,squid,shanghai china",
+  "duration": "PT1H32M",
+  "rating": {
+    "ratingCount": 100854,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "review": {
+    "author": "kermitkid",
+    "dateCreated": "2020-03-30",
+    "inLanguage": "English",
+    "heading": "Nicholas! Cage them!",
+    "reviewBody": "Although the film wasn't really needed, it is absolutely brilliant. Benedict Cumberbatch is the best part of this movie. His acting is brilliant as always. I wouldn't mind seeing a spin-off about the origins of the North Wind, the spy agency that his character runs. It would be awesome. I was a bit hesitant that this would kill the Madagascar franchise like Shrek Forever After killed the Shrek franchise but I gave it a chance and it was great. Sorry, Pixar but I think Dreamworks will eventually knock you off the top spot as the best animation studio. I loved everything about this movie. It's perfect. Grade: A+ 10/10 5/5 stars",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 100854,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "actor": [
+    {
+      "name": "Tom McGrath",
+      "url": "https://www.imdb.com/name/nm0569891/"
+    },
+    {
+      "name": "Chris Miller",
+      "url": "https://www.imdb.com/name/nm1844237/"
+    },
+    {
+      "name": "Christopher Knights",
+      "url": "https://www.imdb.com/name/nm0971017/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Eric Darnell",
+      "url": "https://www.imdb.com/name/nm0201509/"
+    },
+    {
+      "name": "Simon J. Smith",
+      "url": "https://www.imdb.com/name/nm0971239/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Colton",
+      "url": "https://www.imdb.com/name/nm1685000/"
+    },
+    {
+      "name": "John Aboud",
+      "url": "https://www.imdb.com/name/nm1595526/"
+    },
+    {
+      "name": "Brandon Sawyer",
+      "url": "https://www.imdb.com/name/nm1725022/"
+    }
+  ]
+}

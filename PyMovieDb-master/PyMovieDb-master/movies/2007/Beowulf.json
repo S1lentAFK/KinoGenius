@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Beowulf",
+  "url": "https://www.imdb.com/tt0442933/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUzMjM0MTc3MF5BMl5BanBnXkFtZTcwNzU0ODMyMw@@._V1_.jpg",
+  "description": "The warrior Beowulf must fight and defeat the monster Grendel, who is terrorizing Denmark, then Grendel&apos;s Mother, who begins killing out of revenge.",
+  "review": {
+    "author": "kevin_robbins",
+    "dateCreated": "2021-10-12",
+    "inLanguage": "English",
+    "heading": "This is a bit underrated and is definitely a must see",
+    "reviewBody": "Beowulf (2007) is in my DVD collection and is also available on Netflix. The storyline is about Beowulf who arrives in a town plagued by a curse where a deity and her son ravage the land. When Beowulf fights the son and confronts the deity tough choices will be made that will determine his future and direction. This movie is directed by Robert Zemeckis (Forrest Gump) and contains the voices of Anthony Hopkins (Silence of the Lambs), Angelina Jolie (Tomb Raider), Ray Winstone (The Departed), Crispin Glover (Willard), Robin Wright (The Princess Bride) and John Malkovich (In the Line of Fire). The storyline for this is very good and contains some fantastic twists and turns. The animation is out of this world and looks very much like the actors used for the voices. The cast is very well selected and fit the characters and storyline to perfection. The action scenes are absolutely amazing, especially the depiction of the creatures and sorcery. The kill scenes and gore is also remarkable. The full circle of the storyline is excellent as is the absolute final scene. This is a bit underrated and is definitely a must see that I would score a 8.5/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 173496,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2007-11-16",
+  "keywords": "beowulf character,adult animation,king hrothgar character,character name as title,psychotronic film",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Ray Winstone",
+      "url": "https://www.imdb.com/name/nm0935653/"
+    },
+    {
+      "name": "Crispin Glover",
+      "url": "https://www.imdb.com/name/nm0000417/"
+    },
+    {
+      "name": "Angelina Jolie",
+      "url": "https://www.imdb.com/name/nm0001401/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Zemeckis",
+      "url": "https://www.imdb.com/name/nm0000709/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Neil Gaiman",
+      "url": "https://www.imdb.com/name/nm0301274/"
+    },
+    {
+      "name": "Roger Avary",
+      "url": "https://www.imdb.com/name/nm0000812/"
+    },
+    {
+      "name": "Anonymous",
+      "url": "https://www.imdb.com/name/nm1511619/"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Heart of Me",
+  "url": "https://www.imdb.com/tt0301390/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjhhNGQ1MTItNTA2ZS00NTU1LTg0YTEtZDFlNmY0ZTMxNzJkXkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_.jpg",
+  "description": "1930's London. Two sisters - Madeleine and Dinah - One marries Rickie, the other falls in love with him. He begins an affair which is to have repercussions throughout their lives.",
+  "review": {
+    "author": "olly1508",
+    "dateCreated": "2002-11-27",
+    "inLanguage": "English",
+    "heading": "A moving and beautifully acted piece of real cinema",
+    "reviewBody": "This film played to a packed audience at the closing night of the London Film Festival last week. The story of an upper class English man falling passionately in love with his wife's sister was so involving I completely forgot myself for the duration of the film (and from what I could see,so did the rest of the audience). It is a flawless film. Intensely moving. The complex characterisations were handled with immense integrity. One of the wonderful things about it was that during the course of the story I both liked and disliked all the characters. By the end it is impossible to judge them, only appreciate what they had gone through. A most wonderful and uplifting film. Paul Bettany is a discovery. An actor of immense subtlety who is not afraid to play a character who appears simply weak on the surface but is actually very complex. A very detailed and brave performance. Olivia Williams is transformed by the character. She plays Madeline, a woman who lives by the strict rules of her class. No emotion is allowed to get in the way of how this class organises their lives and Madeline respects that. When we see her years later in life, Williams makes us utterly believe the immense changes that she has endured. Madeline must forgive her sister Dinah for her betrayal. This seems impossible given what Madeline has endured at the hands of her sister, yet Williams makes us believe in that forgiveness. This was a great lesson to me. To see how you must move on in your life. Helena Bonham Carter is more vulnerable, sensitive and outrageous than I have ever seen her. Her character is on a knife edge. She falls passionately in love with her brother- in- law and from that moment on the film takes you on an emotional roller-coaster ride that I still can't get out of my mind. The film also has one of the best scores I've heard in ages - romantic and tuneful without being slushy or sentimental. It's also a ravishing looking film (maybe that's why I cant get it out of my mind) and yet the powerful images never interfere with the story but add to it all the time. Real cinema.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 2638,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2003-05-02",
+  "keywords": "sex with brother in law,sex with sister in law,brother in law sister in law sex,forbidden love,1930s",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Helena Bonham Carter",
+      "url": "https://www.imdb.com/name/nm0000307/"
+    },
+    {
+      "name": "Olivia Williams",
+      "url": "https://www.imdb.com/name/nm0931404/"
+    },
+    {
+      "name": "Paul Bettany",
+      "url": "https://www.imdb.com/name/nm0079273/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Thaddeus O'Sullivan",
+      "url": "https://www.imdb.com/name/nm0642823/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Rosamond Lehmann",
+      "url": "https://www.imdb.com/name/nm1040657/"
+    },
+    {
+      "name": "Lucinda Coxon",
+      "url": "https://www.imdb.com/name/nm0185309/"
+    }
+  ]
+}

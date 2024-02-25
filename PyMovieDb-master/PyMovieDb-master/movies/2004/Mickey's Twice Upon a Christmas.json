@@ -1,0 +1,78 @@
+
+
+{
+  "type": "Movie",
+  "name": "Mickey's Twice Upon a Christmas",
+  "url": "https://www.imdb.com/tt0424279/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGY1M2UyMzMtMTg2NC00YTkwLThiMTYtMTFiNWZiNTdhY2NhXkEyXkFqcGdeQXVyODk1MzE0Mzk@._V1_.jpg",
+  "description": "Sequel to Mickey's Once Upon a Christmas",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2004-11-15",
+  "keywords": "christmas,boy,dinner,fall,kiss",
+  "duration": "PT1H8M",
+  "rating": {
+    "ratingCount": 5904,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "review": {
+    "author": "LBytes",
+    "dateCreated": "2004-12-16",
+    "inLanguage": "English",
+    "heading": "They'd be be better of at the Old Toons Home",
+    "reviewBody": "This isn't your father's Disney. The original Disney franchise players now reside in the Land Where Everyone is Nice, preschool toons rendered in kiddie-grade Pixarish 3D. Mickey always was a little wimpy but even Donald has been completely Dippified with the Evil Daisy Duck browbeating him at every opportunity. He was a WWII hero for chrissakes, selling War Bonds to defeat the Nazis! Goofy has become a caricature of himself and his goofiness has been choreographed to a perfect death, Huey Dewey & Louie can't stay conniving for more than 30 seconds without guilt spoiling it all, while Pluto would be better off on Animal Control's 3 Day Plan. Its not pretty, what they've done to these old Toons. \\n\\nThe only way to reclaim my interest after this would be Donald doing his popular 'Who's Your Daddy?' with Daisy sparking his enthusiasm. I'd like to see someone with a duckbill pull that off They could've made it an Easter egg, being ducks after all. I can give this one a 7 because kids like it. They don't know any better.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "actor": [
+    {
+      "name": "Wayne Allwine",
+      "url": "https://www.imdb.com/name/nm0021656/"
+    },
+    {
+      "name": "Tony Anselmo",
+      "url": "https://www.imdb.com/name/nm0030615/"
+    },
+    {
+      "name": "Jeff Bennett",
+      "url": "https://www.imdb.com/name/nm0071818/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Theresa Cullen",
+      "url": "https://www.imdb.com/name/nm0678505/"
+    },
+    {
+      "name": "Carole Holliday",
+      "url": "https://www.imdb.com/name/nm0390511/"
+    },
+    {
+      "name": "Peggy Holmes",
+      "url": "https://www.imdb.com/name/nm0391996/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bill Motz",
+      "url": "https://www.imdb.com/name/nm0609600/"
+    },
+    {
+      "name": "Bob Roth",
+      "url": "https://www.imdb.com/name/nm0744793/"
+    },
+    {
+      "name": "Peggy Holmes",
+      "url": "https://www.imdb.com/name/nm0391996/"
+    }
+  ]
+}

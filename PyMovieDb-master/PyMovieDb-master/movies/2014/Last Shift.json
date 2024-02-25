@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Last Shift",
+  "url": "https://www.imdb.com/tt2965466/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NDM5NTMwMF5BMl5BanBnXkFtZTgwMTkzMDA4NjE@._V1_.jpg",
+  "description": "A rookie cop is tasked with taking the last shift at a police station before it is permanently closed, but it turns into a living nightmare.",
+  "review": {
+    "author": "stavros-bjj",
+    "dateCreated": "2023-05-31",
+    "inLanguage": "English",
+    "heading": "Far better than the ratings it takes",
+    "reviewBody": "I really enjoyed this film, maybe its my style of film, strong psychological film. Sure some things didn't make sense but overall it was great, i don't get the low ratings for real. It deserves to be watched and i am sure it will make you feel uncomfortable in some way. I give it a solid 6.5 and for me its better than evil dead rise but as i told before maybe its my kind style of movie that made me enjoy it so much. It was dark and felt like i should watch my door the entire time i watched this., made me feel unsafe and at some point i was at the edge of my sit. Maybe people didn't like this cause its a remake of an old movie but give it a chance, i am sure you will enjoy it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 23256,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2015-10-06",
+  "keywords": "police station,cult leader,supernatural power,psychotronic film,police officer",
+  "duration": "PT1H28M",
+  "actor": [
+    {
+      "name": "Juliana Harkavy",
+      "url": "https://www.imdb.com/name/nm3952890/"
+    },
+    {
+      "name": "Joshua Mikel",
+      "url": "https://www.imdb.com/name/nm2282254/"
+    },
+    {
+      "name": "Hank Stone",
+      "url": "https://www.imdb.com/name/nm0831902/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Anthony DiBlasi",
+      "url": "https://www.imdb.com/name/nm1304669/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Anthony DiBlasi",
+      "url": "https://www.imdb.com/name/nm1304669/"
+    },
+    {
+      "name": "Scott Poiley",
+      "url": "https://www.imdb.com/name/nm4124059/"
+    }
+  ]
+}

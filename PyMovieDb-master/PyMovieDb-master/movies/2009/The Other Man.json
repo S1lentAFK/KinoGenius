@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Other Man",
+  "url": "https://www.imdb.com/tt0974613/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQzNDMyNzk1OF5BMl5BanBnXkFtZTcwMTU1MTk3Mg@@._V1_.jpg",
+  "description": "The story of a husband who suspects his wife of adultery, and sets out to track down the other man in her life.",
+  "review": {
+    "author": "imdbbl",
+    "dateCreated": "2009-08-29",
+    "inLanguage": "English",
+    "heading": "Great cast, interesting premise, terrible direction",
+    "reviewBody": "Liam Neeson plays Peter, the husband of a famous shoe designer named Lisa(Laura Linney). After some suspicions Peter realizes that his wife hasn't been faithful and when he finds the address of Ralf(Antonio Banderas), the man his wife cheated on him with, he travels to Italy to confront him. When I saw the trailer for The Other Man, I immediately thought the film had a great premise; a man finds out that his wife has been cheating on him and then he tries to track down this man and execute some kind of revenge. That is what you get from the trailer, however, the trailer is incredibly misleading, the story doesn't pan out like that. Not even close. But what really ruined this movie for me, was the direction. Most of the scenes seemed glued together. You're watching a scene and all of a sudden you're watching something completely different and you're left wondering if you missed the last 10 minutes of the film. The reason why the film is like that, is because the director introduced a twist near the end but, until that moment, nothing makes sense, and when the reveal finally comes, it's a terrible letdown. This premise and cast on someone's else hands could have been something great. Unfortunately, all Richard Eyre's was able to do, was a boring and poorly executed movie.\n\n5/10",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 12380,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2009-05-27",
+  "keywords": "cheating wife,plot twist,female nudity,female rear nudity,husband",
+  "duration": "PT1H28M",
+  "actor": [
+    {
+      "name": "Liam Neeson",
+      "url": "https://www.imdb.com/name/nm0000553/"
+    },
+    {
+      "name": "Antonio Banderas",
+      "url": "https://www.imdb.com/name/nm0000104/"
+    },
+    {
+      "name": "Laura Linney",
+      "url": "https://www.imdb.com/name/nm0001473/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Richard Eyre",
+      "url": "https://www.imdb.com/name/nm0264236/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Richard Eyre",
+      "url": "https://www.imdb.com/name/nm0264236/"
+    },
+    {
+      "name": "Charles Wood",
+      "url": "https://www.imdb.com/name/nm0939606/"
+    },
+    {
+      "name": "Bernhard Schlink",
+      "url": "https://www.imdb.com/name/nm0772384/"
+    }
+  ]
+}

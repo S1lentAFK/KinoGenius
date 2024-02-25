@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Moguls",
+  "url": "https://www.imdb.com/tt0405163/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTQ5OWUyYzgtZDhkMi00YTIzLWJkNTctOTkwNjAyM2IxYjI0XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "bgpetrarca",
+    "dateCreated": "2006-04-23",
+    "inLanguage": "English",
+    "heading": "How could you not like this movie?",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 6552,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2006-04-28",
+  "keywords": "small town,loser,adult filmmaking,pornographic film,reference to penis",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Jeff Bridges",
+      "url": "https://www.imdb.com/name/nm0000313/"
+    },
+    {
+      "name": "Ted Danson",
+      "url": "https://www.imdb.com/name/nm0001101/"
+    },
+    {
+      "name": "Joe Pantoliano",
+      "url": "https://www.imdb.com/name/nm0001592/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Traeger",
+      "url": "https://www.imdb.com/name/nm0870592/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Traeger",
+      "url": "https://www.imdb.com/name/nm0870592/"
+    }
+  ]
+}

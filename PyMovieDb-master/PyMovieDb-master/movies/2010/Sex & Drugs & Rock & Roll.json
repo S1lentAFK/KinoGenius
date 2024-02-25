@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "Sex Tape",
+  "url": "https://www.imdb.com/tt1956620/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQzMjYxNTU1MF5BMl5BanBnXkFtZTgwOTc1ODE0MTE@._V1_.jpg",
+  "description": "A married couple wake up to discover that the sex tape they made the evening before has gone missing, leading to a frantic search for its whereabouts.",
+  "review": {
+    "author": "trublu215",
+    "dateCreated": "2014-07-17",
+    "inLanguage": "English",
+    "heading": "A really poor comedy",
+    "reviewBody": "Sex Tape tells the tale of a couple who, as the title suggest, make a sex tape and it gets leaked. Now this is a perfect example of a great concept that morphs into a really bland and unfunny movie. Cameron Diaz and Jason Segal play a bored married couple trying to spice things up. For the sake of the film, these characters are needed but the actors in the roles are surprisingly typecast at this point. Jason Segal plays an R-rated version of his How I Met Your Mother character and it doesn&apos;t exactly benefit him at this point because these are the roles he is now stuck in. He&apos;s very good at what he does but this is the one film where his performance grows weary about mid way through. Cameron Diaz isn&apos;t much better either, while she does generate a couple chuckles it still isn&apos;t nearly enough to help it. The supporting cast featuring Rob Lowe and Rob Corddry do generate most of the laughs, it again doesn&apos;t make for anything of a redeeming quality. Jake Kasdan directs from a poorly executed screenplay that features a great idea and glimpses of its genius in some of its twists but they are not enough to set this comedy apart from the million other R rated comedies that have come and gone. Much like Bad Teacher, this film has maybe two good scenes while the rest become bogged down with useless crude jokes for the sake of having a R rating. Overall, Sex Tape marks another disappointing comedy with its overtly crude for the sake of being crude scenes and flat performances.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 2
+    }
+  },
+  "rating": {
+    "ratingCount": 117485,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2014-09-03",
+  "keywords": "sex video,sexual desire,sexuality,sex tape,ipad",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Jason Segel",
+      "url": "https://www.imdb.com/name/nm0781981/"
+    },
+    {
+      "name": "Cameron Diaz",
+      "url": "https://www.imdb.com/name/nm0000139/"
+    },
+    {
+      "name": "Rob Corddry",
+      "url": "https://www.imdb.com/name/nm1117791/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jake Kasdan",
+      "url": "https://www.imdb.com/name/nm0440458/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kate Angelo",
+      "url": "https://www.imdb.com/name/nm1180074/"
+    },
+    {
+      "name": "Jason Segel",
+      "url": "https://www.imdb.com/name/nm0781981/"
+    },
+    {
+      "name": "Nicholas Stoller",
+      "url": "https://www.imdb.com/name/nm0831557/"
+    }
+  ]
+}

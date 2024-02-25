@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Duplicity",
+  "url": "https://www.imdb.com/tt1135487/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE2MTg2MzU2NF5BMl5BanBnXkFtZTcwMTMyNjkxMg@@._V1_.jpg",
+  "description": "Two ex-government agents turned rival industrial spies have to be at the top of their game when one of their companies prepares to launch a major product. However, they distract each other in more ways than one.",
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Romance"
+  ],
+  "datePublished": "2009-03-20",
+  "keywords": [
+    "spy versus spy",
+    "frame up",
+    "written by director",
+    "split screen",
+    "scene before opening credits"
+  ],
+  "duration": "PT2H5M",
+  "actor": [
+    {
+      "name": "Julia Roberts",
+      "url": "https://www.imdb.com/name/nm0000210/"
+    },
+    {
+      "name": "Clive Owen",
+      "url": "https://www.imdb.com/name/nm0654110/"
+    },
+    {
+      "name": "Tom Wilkinson",
+      "url": "https://www.imdb.com/name/nm0929489/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tony Gilroy",
+      "url": "https://www.imdb.com/name/nm0006904/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tony Gilroy",
+      "url": "https://www.imdb.com/name/nm0006904/"
+    }
+  ],
+  "review": {
+    "author": "judywalker2",
+    "dateCreated": "2009-03-22",
+    "inLanguage": "English",
+    "heading": "Nothing special",
+    "reviewBody": "This movie is like every other movie in the past few years- nothing special. Duplicity&apos;s trailer make it seem a lot more fun that what it really is. This should have been an Ocean&apos;s movie; it certainly has the talent to be. Clive Owens and Julia Roberts (not really looking very glamorous) are good actors and they are supported by other stellar performers. So why isn&apos;t this movie very much fun? Well its the writing. There are a lot of so called twist that can be guessed almost immediately. Only one actually surprises you. Also the dialog is not very witty and it should have been. In fact it repeats itself so much as to be annoying. So in the end what could have been a fun little romp turns boring in the end.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 52124,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  }
+}

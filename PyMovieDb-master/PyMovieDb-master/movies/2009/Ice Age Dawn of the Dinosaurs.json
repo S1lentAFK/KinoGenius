@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Ice Age: Dawn of the Dinosaurs",
+  "url": "https://www.imdb.com/tt1080016/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMzNDkzMTcyOV5BMl5BanBnXkFtZTcwNDIzMjM2MQ@@._V1_.jpg",
+  "description": "When Sid's attempt to adopt three dinosaur eggs gets him abducted by their real mother to an underground lost world, his friends attempt to rescue him.",
+  "review": {
+    "author": "saarvardi",
+    "dateCreated": "2009-06-28",
+    "inLanguage": "English",
+    "heading": "Ice Age 3 delivers the goods, and appeals to grown-ups and kids alike",
+    "reviewBody": "My wife and I attended an early press screening for the third Ice Age installment two weeks ago and had a wonderful time. The film easily tops the second outing of the series, and is right on par with the first - with just the right mixture of new characters and settings vs. the older ones we've all grown to love (especially Scrat. I can watch a whole movie with this guy).\\n\\nThis time around, Manny and Ellie are expecting a baby mammoth, something that leads to unexpected responds from Diego and Sid. When Sid decides to become a parent himself in return, he steals three giant eggs he accidentally bumps into, only to later realize they're dinosaur eggs that belong to a pretty angry mother. When mother-dinosaur kidnaps Sid, it's up to Manny and friends to return him home safely. Adventures ensue as they find out that underneath their icy world lives a land filled with enormous and sometimes menacing dinosaurs, one which our friends would need to cross in order to rescue Sid.\\n\\nIce Age 3: Dawn of the Dinosaurs is cute but not insulting, the visuals are stunning and if you forgive the obvious historical loophole (there were no dinosaurs during the Ice Age) you can actually have quite a good time. The dinosaurs add a lot to the plot, and there's actually a very cool, nice sense of adventure throughout the film, one that was somewhat missing (in my opinion) from the previous installment. All this adds to a fun and thrilling experience - alongside the visuals, jokes and general good atmosphere.\\n\\nTo sum things up - Ice Age 3 is an above average animated film, that'll appeal to grown-ups and kids alike. I gave it 9 out of 10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 261992,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2009-07-01",
+  "keywords": "dinosaur,chipmunk voice,ice age,anachronism,sid character",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Ray Romano",
+      "url": "https://www.imdb.com/name/nm0005380/"
+    },
+    {
+      "name": "John Leguizamo",
+      "url": "https://www.imdb.com/name/nm0000491/"
+    },
+    {
+      "name": "Denis Leary",
+      "url": "https://www.imdb.com/name/nm0001459/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Carlos Saldanha",
+      "url": "https://www.imdb.com/name/nm0757858/"
+    },
+    {
+      "name": "Michael Thurmeier",
+      "url": "https://www.imdb.com/name/nm0862211/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Berg",
+      "url": "https://www.imdb.com/name/nm0073850/"
+    },
+    {
+      "name": "Peter Ackerman",
+      "url": "https://www.imdb.com/name/nm0010004/"
+    },
+    {
+      "name": "Mike Reiss",
+      "url": "https://www.imdb.com/name/nm0718514/"
+    }
+  ]
+}

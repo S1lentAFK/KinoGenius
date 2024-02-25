@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Nightcrawler",
+  "url": "https://www.imdb.com/tt2872718/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2U1YzdhYWMtZWUzMi00OWI1LWFkM2ItNWVjM2YxMGQ2MmNhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "description": "When Louis Bloom, a con man desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story.",
+  "review": {
+    "author": "Hitchcoc",
+    "dateCreated": "2015-08-04",
+    "inLanguage": "English",
+    "heading": "Hard to Watch; Hard to Look Away",
+    "reviewBody": "Jake Gyllenhaal is the nightcrawler. A nightcrawler is a worm. Bloom, the character played here, is a sociopath. His ambitions and fixations far outweigh common morality. Let's face it, his cohorts in the business aren't much better than he is, but they have a kind of code, and they don't participate in enhancing the crime. When Bloom moves an accident victim for the first time in order to get a better shot, he crosses the line and stays on the other side. He is willing to do anything to get his way and he is a master at monotonous monologue when he is confronted. It's as if he is reading from a book. I heard an interview recently with Gyllenhaal and he recited some of this stuff from memory with almost no emotion. This is a terrific performance by one of our really good actors. The way he is able to slide into every situation unscathed and maintain that sardonic grin is really nonpareil. This is about the voyeurism of the audience which demands this hateful kind of portrayal.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 598549,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2014-10-31",
+  "keywords": "sociopath,tv news,journalism,neo noir,ethics",
+  "duration": "PT1H57M",
+  "actor": [
+    {
+      "name": "Jake Gyllenhaal",
+      "url": "https://www.imdb.com/name/nm0350453/"
+    },
+    {
+      "name": "Rene Russo",
+      "url": "https://www.imdb.com/name/nm0000623/"
+    },
+    {
+      "name": "Bill Paxton",
+      "url": "https://www.imdb.com/name/nm0000200/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dan Gilroy",
+      "url": "https://www.imdb.com/name/nm0319659/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dan Gilroy",
+      "url": "https://www.imdb.com/name/nm0319659/"
+    }
+  ]
+}

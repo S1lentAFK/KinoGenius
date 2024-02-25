@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "The Bad Batch",
+  "url": "https://www.imdb.com/tt4334266/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTA3NTI2MzMwMF5BMl5BanBnXkFtZTgwNzY0OTcyMjI@._V1_.jpg",
+  "description": "In a desert dystopia, a young woman is kidnapped by cannibals.",
+  "review": {
+    "author": "hpri-15520",
+    "dateCreated": "2017-09-29",
+    "inLanguage": "English",
+    "heading": "Title should have stopped at Bad",
+    "reviewBody": "I typically like post-apocalyptic movies and TV shows. I don&apos;t mind the premise of the movie, but nothing about it grabbed my interest, except that it was so bad (and with its cast) that I figured it had to get good at some point. It didn&apos;t. Lack of action and dialogue was bizarre, to say the least. Maybe if they had cut out the little dialogue that there was it could have fallen into a silent movie category and had something. I&apos;m left with a void trying to explain how I feel about it. I suppose that is how I feel about.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 35202,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "R",
+  "genre": [
+    "Action",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2017-06-23",
+  "keywords": "cannibal,amputation,exile,dystopia,crawling",
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Suki Waterhouse",
+      "url": "https://www.imdb.com/name/nm4025229/"
+    },
+    {
+      "name": "Jason Momoa",
+      "url": "https://www.imdb.com/name/nm0597388/"
+    },
+    {
+      "name": "Jayda Fink",
+      "url": "https://www.imdb.com/name/nm7633342/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ana Lily Amirpour",
+      "url": "https://www.imdb.com/name/nm3235877/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ana Lily Amirpour",
+      "url": "https://www.imdb.com/name/nm3235877/"
+    }
+  ]
+}

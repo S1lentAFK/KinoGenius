@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "Son of God",
+  "url": "https://www.imdb.com/tt3210686/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA3NjQ2ODYwN15BMl5BanBnXkFtZTgwNTQ0NDc2MDE@._V1_.jpg",
+  "description": "The life story of Jesus is told from his humble birth through his teachings, crucifixion and ultimate resurrection.",
+  "review": {
+    "author": "coltonvaughn10",
+    "dateCreated": "2014-03-01",
+    "inLanguage": "English",
+    "heading": "An honest opinion",
+    "reviewBody": "The Son of God is a powerful true story about Jesus Christ's story from his birth to his resurrection. It has been called a TV movie that got a theatrical release. That is true to a point. The effects and acting could have been better, but if you are going to see effects or acting then I suggest Gravity or American Hustle. The reason you watch a movie like this is to get a vague idea of what it was like to be Jesus or a disciple. The story was a bit jumpy, but it had about 30 years to cover in 2 hours. The center of the movie is about Jesus' last trip, to Jerusalem. The story itself is very moving and touching. It is a must see or Christians or anyone of faith. Diogo Morgado, Jesus, was phenomenal and a gem in this movie. All in all, it is gripping, heart-breaking, and captivating that will be sure to have you in tears.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 19554,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "12",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2014-02-28",
+  "keywords": [
+    "resurrection",
+    "reference to god",
+    "loincloth",
+    "male protagonist",
+    "mother son relationship"
+  ],
+  "duration": "PT2H18M",
+  "actor": [
+    {
+      "name": "Diogo Morgado",
+      "url": "https://www.imdb.com/name/nm0604430/"
+    },
+    {
+      "name": "Amber Rose Revah",
+      "url": "https://www.imdb.com/name/nm2362244/"
+    },
+    {
+      "name": "Greg Hicks",
+      "url": "https://www.imdb.com/name/nm0382854/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Christopher Spencer",
+      "url": "https://www.imdb.com/name/nm0817895/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Richard Bedser",
+      "url": "https://www.imdb.com/name/nm2589005/"
+    },
+    {
+      "name": "Christopher Spencer",
+      "url": "https://www.imdb.com/name/nm0817895/"
+    },
+    {
+      "name": "Colin Swash",
+      "url": "https://www.imdb.com/name/nm0841997/"
+    }
+  ]
+}

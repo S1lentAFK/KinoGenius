@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Film Stars Don't Die in Liverpool",
+  "url": "https://www.imdb.com/tt5711148/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTE0MDQxODg2NTJeQTJeQWpwZ15BbWU4MDIwODkyMjQz._V1_.jpg",
+  "description": "A romance sparks between a young actor and a Hollywood leading lady.",
+  "review": {
+    "author": "gbill-74877",
+    "dateCreated": "2018-09-26",
+    "inLanguage": "English",
+    "heading": "Touching",
+    "reviewBody": "A middle-aged American actress (Annette Benning) turns to her young ex-lover (Jamie Bell) and his family in Liverpool when her health problems take a turn for the worse. Oh and by the way, the actress is screen legend Gloria Grahame, and the film is based on the real-life memoir of her lover, Peter Turner.\n\nTold in flashbacks and memories, director Paul McGuigan keeps the pace of the film up, which helps offset the depressing aspects of the story, which of course involves the inevitable decay to the body, even with those immortalized as such bright stars in the universe of movies. The scene of an argument the pair have, shown first from his perspective and then later from hers, is excellent. It reminds us to consider that there may be all sorts of things in another person's thoughts that may explain their actions which we don't understand. The scene where the pair go on the stage of an old empty theater to recite from 'Romeo and Juliet' is very touching. It reminds us that the romance and feelings of one's heart don't disappear, even if the skin wrinkles and looks fade.\n\nBenning received accolades for her performance and is certainly solid, displaying a lot of range and honesty, but I'm not sure if she quite captures Gloria Grahame. Bell is fine too, particularly in scenes with his family, where we see the moral force of his parents (Julie Walters and Kenneth Cranham), as well as his wonderfully combative brother (Stephen Graham). The film is not meant as a complete biography by any means, focusing on these last few years of her life and her relationship with this young actor, but at the same time, it would have been nice to see more clips from her films, even if they had been just interspersed with the credits rolling. All in all though, it's a touching film whether you know Gloria Grahame or not.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 10649,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "R",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2018-02-15",
+  "keywords": "female nudity,older woman younger man relationship,based on real person,age difference in relationship,year 1979",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Annette Bening",
+      "url": "https://www.imdb.com/name/nm0000906/"
+    },
+    {
+      "name": "Jamie Bell",
+      "url": "https://www.imdb.com/name/nm0068260/"
+    },
+    {
+      "name": "Kenneth Cranham",
+      "url": "https://www.imdb.com/name/nm0186469/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Paul McGuigan",
+      "url": "https://www.imdb.com/name/nm0006476/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Peter Turner",
+      "url": "https://www.imdb.com/name/nm0877805/"
+    },
+    {
+      "name": "Matt Greenhalgh",
+      "url": "https://www.imdb.com/name/nm0339043/"
+    }
+  ]
+}

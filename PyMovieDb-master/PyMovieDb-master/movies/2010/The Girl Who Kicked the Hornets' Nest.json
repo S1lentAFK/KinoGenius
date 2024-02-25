@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Luftslottet som sprängdes",
+  "url": "https://www.imdb.com/tt1343097/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk0NTY3NjMwOV5BMl5BanBnXkFtZTcwNTI1MjQwNA@@._V1_.jpg",
+  "description": "Lisbeth is recovering in a hospital and awaiting trial for three murders when she is released. Mikael must prove her innocence, but Lisbeth must be willing to share the details of her sordid experiences with the court.",
+  "review": {
+    "author": "MusicaEternal",
+    "dateCreated": "2010-04-11",
+    "inLanguage": "English",
+    "heading": "Great ending, but I don&apos;t want it to end",
+    "reviewBody": "The final film in the Millennium Trilogy and what a great film is it, right up there with it&apos;s precursors.\n\nWe learn even more about Lisbeth&apos;s, hidden organisations, and how everything is linked. The pieces of the puzzle come together, and I felt the film explained almost everything pretty cleverly, though this does involve some concentration from the viewer, because some of the links are not emphasised that well and maybe can be missed.\n\nThis is more similar to the first one, in the style of directing and also the ruthless reporting is back. Less action than the first, but no less enthralling for it. There is a lot of tension in this movie, and it made for compulsive viewing.\n\nThese three films have turned me more onto more modern Swedish Cinema. I was always a fan of Bergman and I have seen a few movies over the last few years from there, but this makes me want to keep a closer eye on the Swedish Film Making Industry. Great success guys, I look forward to seeing much more cinema from Sweden. Now I will read the books.\n\n9/10 Excellent",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 74233,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2010-11-26",
+  "keywords": "confinement,heroine,strong female lead,laptop computer,notepad",
+  "duration": "PT2H27M",
+  "actor": [
+    {
+      "name": "Michael Nyqvist",
+      "url": "https://www.imdb.com/name/nm0638824/"
+    },
+    {
+      "name": "Noomi Rapace",
+      "url": "https://www.imdb.com/name/nm0636426/"
+    },
+    {
+      "name": "Lena Endre",
+      "url": "https://www.imdb.com/name/nm0256890/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Daniel Alfredson",
+      "url": "https://www.imdb.com/name/nm0019242/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jonas Frykberg",
+      "url": "https://www.imdb.com/name/nm0296926/"
+    },
+    {
+      "name": "Stieg Larsson",
+      "url": "https://www.imdb.com/name/nm2297183/"
+    },
+    {
+      "name": "Ulf Ryberg",
+      "url": "https://www.imdb.com/name/nm0752968/"
+    }
+  ]
+}

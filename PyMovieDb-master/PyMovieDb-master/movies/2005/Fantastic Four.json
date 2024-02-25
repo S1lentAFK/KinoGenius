@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Fantastic Four",
+  "url": "https://www.imdb.com/tt1502712/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk0OTMyMDA0OF5BMl5BanBnXkFtZTgwMzY5NTkzNTE@._V1_.jpg",
+  "description": "Four young outsiders teleport to an alternate and dangerous universe which alters their physical form in shocking ways. The four must learn to harness their new abilities and work together to save Earth from a former friend turned...",
+  "review": {
+    "author": "mahmus",
+    "dateCreated": "2021-03-31",
+    "inLanguage": "English",
+    "heading": "Nothing really happened in this movie.",
+    "reviewBody": "They go to another dimention, they get their powers, then Doctor Doom shows up, they fight him and it's over. There's practically nothing else.\\n\\nWe never see them learn to use their powers, we never see them getting to know each other, we rarely see the four together for most of the movie. All of that is skipped. We're told it happened, but we never see it, only glimpses of it in the backround.\\n\\nThere's some good scenes. The cast is good. The effects are good. It is composed of scenes that belong in a good movie, but lacks all of the esential pieces to make it a good movie. The end result is just really bland and boring. It's not even worth getting mad about; It's just kinda sad.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 2
+    }
+  },
+  "rating": {
+    "ratingCount": 175517,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2015-08-06",
+  "keywords": "troubled production,marvel comics,fantastic four,invisibility,superhero team",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Miles Teller",
+      "url": "https://www.imdb.com/name/nm1886602/"
+    },
+    {
+      "name": "Kate Mara",
+      "url": "https://www.imdb.com/name/nm0544718/"
+    },
+    {
+      "name": "Michael B. Jordan",
+      "url": "https://www.imdb.com/name/nm0430107/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Josh Trank",
+      "url": "https://www.imdb.com/name/nm2503633/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jeremy Slater",
+      "url": "https://www.imdb.com/name/nm2916300/"
+    },
+    {
+      "name": "Simon Kinberg",
+      "url": "https://www.imdb.com/name/nm1334526/"
+    },
+    {
+      "name": "Josh Trank",
+      "url": "https://www.imdb.com/name/nm2503633/"
+    }
+  ]
+}

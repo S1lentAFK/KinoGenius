@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Holes",
+  "url": "https://www.imdb.com/tt0311289/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg0MTU5ODkwM15BMl5BanBnXkFtZTYwMzgxNzY3._V1_.jpg",
+  "description": "A wrongfully convicted boy is sent to a brutal desert detention camp where he joins the job of digging holes for some mysterious reason.",
+  "datePublished": "2003-10-24",
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "duration": "PT1H57M",
+  "keywords": "hole,19th century,1850s,1890s,camp",
+  "rating": {
+    "ratingCount": 99039,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "review": {
+    "author": "TheLittleSongbird",
+    "dateCreated": "2009-10-05",
+    "inLanguage": "English",
+    "heading": "Much better than expected!",
+    "reviewBody": "I really liked the book, it was a well written one and easy to read and understand. This film adaptation does have some flaws but it was much better than I expected it to be. The film looks very beautiful, the photography is excellent throughout, even in the flashbacks, and the music was great. The screenplay is fairly faithful to the book, and is consistently engaging. The performances from everybody involved are very good, Shia LeBoeuf I actually found quite likable in this movie, and Tim Blake Nelson is fun to watch too. Patricia Arquette is given little to do, and while her character was necessary, I just felt that they could have cast somebody else that fitted the character a tad better, though I liked her chemistry with Sam the onion man, wonderfully played by Psych star Dule Hill. Sigourney Weaver looks beautiful, and seems to be relishing her role as the warden, but my favourite is Jon Voigt. He was absolutely hilarious as Mr Sir. My only other complaint of the movie, other than Patricia Arquette was some slow moments in the middle half, where little of interest happens. On the whole, it is an enjoyable and engaging film. 8/10 Bethany Cox",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Shia LaBeouf",
+      "url": "https://www.imdb.com/name/nm0479471/"
+    },
+    {
+      "name": "Sigourney Weaver",
+      "url": "https://www.imdb.com/name/nm0000244/"
+    },
+    {
+      "name": "Jon Voight",
+      "url": "https://www.imdb.com/name/nm0000685/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrew Davis",
+      "url": "https://www.imdb.com/name/nm0001112/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Louis Sachar",
+      "url": "https://www.imdb.com/name/nm1144337/"
+    }
+  ]
+}

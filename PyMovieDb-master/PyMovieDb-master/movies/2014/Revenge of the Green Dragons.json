@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Revenge of the Green Dragons",
+  "url": "https://www.imdb.com/tt1396523/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTYzOTc2Mzc1NV5BMl5BanBnXkFtZTgwODQ3NTQ0MjE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "DareDevilKid",
+    "dateCreated": "2015-01-22",
+    "inLanguage": "English",
+    "heading": "Shows Initial Spark, then Meanders Along, then Rushes Towards the Climax, and Finally Fizzles at the End",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 4286,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2014-12-26",
+  "keywords": "chinese mafia,chinatown,gangster,new york city,shot in the head",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Justin Chon",
+      "url": "https://www.imdb.com/name/nm2014390/"
+    },
+    {
+      "name": "Kevin Wu",
+      "url": "https://www.imdb.com/name/nm3661913/"
+    },
+    {
+      "name": "Harry Shum Jr.",
+      "url": "https://www.imdb.com/name/nm1484270/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrew Lau",
+      "url": "https://www.imdb.com/name/nm0490487/"
+    },
+    {
+      "name": "Andrew Loo",
+      "url": "https://www.imdb.com/name/nm0519594/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Di Jiacomo",
+      "url": "https://www.imdb.com/name/nm0223939/"
+    },
+    {
+      "name": "Andrew Loo",
+      "url": "https://www.imdb.com/name/nm0519594/"
+    },
+    {
+      "name": "Fredric Dannen",
+      "url": "https://www.imdb.com/name/nm1854568/"
+    }
+  ]
+}

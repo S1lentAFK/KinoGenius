@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Mean Girls",
+  "url": "https://www.imdb.com/tt11762114/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODVmYThiNGQtMTQ3Ny00MzQ3LWFkZGItZjU4MDgzZjhjMWZhXkEyXkFqcGdeQXVyNDU1OTUyNTg@._V1_.jpg",
+  "description": "Cady Heron is a hit with the Plastics, an A-list girl clique at her new school. But everything changes when she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
+  "review": {
+    "author": "chenp-54708",
+    "dateCreated": "2024-01-12",
+    "inLanguage": "English",
+    "heading": "Unnecessary",
+    "reviewBody": "I don't see what's the point of doing another Mean Girls.\n\nI enjoyed the original Mean Girls. I thought it was a clever take on the teen genre with fun dialogue and energy and the characters are memorable and hilarious. This adaptation is based on the broadway version of Mean Girls with a new cast (including some recurring actors) and musical numbers. But honestly, even with Tina Fey back, I didn't like it.\n\nThroughout, many of the production designs, setting and the direction is solid although it does feel cheap like something from a straight to DVD project. Whether it was intentional to create a stage atmosphere, the cheap quality and production is lacking. The costumes, make-up and the lighting is solid and the direction from the filmmakers, while doing their best to handle the project, feels unbalanced regarding its satirical and comedic tones. The best aspects are the performances as the cast members do a pretty good job on performing their roles. Angourie Rice, Rene\u00e9 Rapp, Auli'i Cravalho, Christopher Briney and the rest of the cast members bring solid energy to their characters and roles. Regarding the singing, maybe it's because since I haven't seen the Broadway version, I found the musical numbers and singing to be not great and unmemorable as some of the songwriting and musical tones were either mid or pretty clunky.\n\nThe narrative, with some changes, is pretty much the same as the original but while the writing does try to create something fun, unlike the original, the narrative, chemistry, and energy doesn't feel the same as this one felt bland and derived to what made the original one really good. There were a few humor aspects that I did find to be good but otherwise, weak.\n\nI understand this is based on the broadway version and it brings some new energy and grounds to the scene but I don't see what is the point of doing a new version for Mean Girls when the original is already iconic. I can see it being a spin and satirical take on the current era of teen generations but I just feel this new edition feels quite unnecessary.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 14971,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Musical"
+  ],
+  "datePublished": "2024-01-17",
+  "keywords": "reference to africa,sexualized female imagery,sexulixed female dancing,lesbian,sexualized female movie poster",
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "Angourie Rice",
+      "url": "https://www.imdb.com/name/nm3886028/"
+    },
+    {
+      "name": "Rene\u00e9 Rapp",
+      "url": "https://www.imdb.com/name/nm10727174/"
+    },
+    {
+      "name": "Auli'i Cravalho",
+      "url": "https://www.imdb.com/name/nm7635388/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Samantha Jayne",
+      "url": "https://www.imdb.com/name/nm7120954/"
+    },
+    {
+      "name": "Arturo Perez Jr.",
+      "url": "https://www.imdb.com/name/nm3103850/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tina Fey",
+      "url": "https://www.imdb.com/name/nm0275486/"
+    },
+    {
+      "name": "Rosalind Wiseman",
+      "url": "https://www.imdb.com/name/nm1577281/"
+    }
+  ]
+}

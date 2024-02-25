@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Coach Carter",
+  "url": "https://www.imdb.com/tt0393162/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWYxZWFiNTItN2FkNS00ZDJmLWE1MWItYjMyMTgyOTI4MmQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "killbill_tarantino2003",
+    "dateCreated": "2005-09-26",
+    "inLanguage": "English",
+    "heading": "Great Plot,Cast,Director.Exceptional Drama.With Non-Hollywood Ending...",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 169790,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2005-02-25",
+  "keywords": "underage drinking,teenager,single mother,gang violence,drug dealing",
+  "duration": "PT2H16M",
+  "actor": [
+    {
+      "name": "Samuel L. Jackson",
+      "url": "https://www.imdb.com/name/nm0000168/"
+    },
+    {
+      "name": "Rick Gonzalez",
+      "url": "https://www.imdb.com/name/nm0327779/"
+    },
+    {
+      "name": "Robert Ri&apos;chard",
+      "url": "https://www.imdb.com/name/nm0722647/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Thomas Carter",
+      "url": "https://www.imdb.com/name/nm0141961/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Schwahn",
+      "url": "https://www.imdb.com/name/nm0777043/"
+    },
+    {
+      "name": "John Gatins",
+      "url": "https://www.imdb.com/name/nm0309691/"
+    }
+  ]
+}

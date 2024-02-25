@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Camp X-Ray",
+  "url": "https://www.imdb.com/tt2994190/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU5NjI1MjEwMV5BMl5BanBnXkFtZTgwNjc2Mzc3MjE@._V1_.jpg",
+  "description": null,
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "War"
+  ],
+  "datePublished": "2014-10-17",
+  "keywords": "guantanamo bay,female protagonist,unlikely friendship,covered in feces,reference to harry potter",
+  "duration": "PT1H57M",
+  "rating": {
+    "ratingCount": 42783,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "review": {
+    "author": "Adriano_Galliani",
+    "dateCreated": "2015-02-06",
+    "inLanguage": "English",
+    "heading": "Big surprise!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Kristen Stewart",
+      "url": "https://www.imdb.com/name/nm0829576/"
+    },
+    {
+      "name": "Payman Maadi",
+      "url": "https://www.imdb.com/name/nm1818216/"
+    },
+    {
+      "name": "Lane Garrison",
+      "url": "https://www.imdb.com/name/nm1460812/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Sattler",
+      "url": "https://www.imdb.com/name/nm0972104/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Peter Sattler",
+      "url": "https://www.imdb.com/name/nm0972104/"
+    }
+  ]
+}

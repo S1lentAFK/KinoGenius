@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Kate",
+  "url": "https://www.imdb.com/tt7737528/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2IyYzI4YmQtNzBmMi00Mjg3LWI4NTMtNmZjNjk3YjIwZmJhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "A jaded assassin assigned to target a yakuza clan has 24 hours to find out who poisoned her and get vengeance before she dies.",
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "datePublished": "2021-09-10",
+  "keywords": "assassin, vengeance, murder, shootout, murderer",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Mary Elizabeth Winstead",
+      "url": "https://www.imdb.com/name/nm0935541/"
+    },
+    {
+      "name": "Woody Harrelson",
+      "url": "https://www.imdb.com/name/nm0000437/"
+    },
+    {
+      "name": "Miku Martineau",
+      "url": "https://www.imdb.com/name/nm11008562/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Cedric Nicolas-Troyan",
+      "url": "https://www.imdb.com/name/nm1031639/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Umair Aleem",
+      "url": "https://www.imdb.com/name/nm7073779/"
+    }
+  ],
+  "review": {
+    "author": "watsonjeffj-138-134837",
+    "dateCreated": "2021-10-27",
+    "inLanguage": "English",
+    "heading": "Exactly what I expected in a good way",
+    "reviewBody": "Good looking, fast paced movie with good fight choreography and a simple story. Basically, a female John wick. If not for a little too much sentimentality and a plot twist you can see coming from the start I would have given it an even higher score. Keep your expectations low and your gratitude high and you'll enjoy this one.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 69784,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  }
+}

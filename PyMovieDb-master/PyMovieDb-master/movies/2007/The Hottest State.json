@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Hottest State",
+  "url": "https://www.imdb.com/tt0496319/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzNDEzNTUyMl5BMl5BanBnXkFtZTcwNTExNTk0MQ@@._V1_.jpg",
+  "description": "A young actor from Texas tries to make it in New York while struggling in his relationship with a beautiful singer/songwriter.",
+  "review": {
+    "author": "Gordon-11",
+    "dateCreated": "2020-09-19",
+    "inLanguage": "English",
+    "heading": "Boring",
+    "reviewBody": "I could not get into the story at all, and cannot identify with the characters. Initially the film shows two people having sex all the time. Then the rest of the film is very dialog heavy, but they are ore drivels than actual conversations. I find the film very boring, even though it has Ethan Hawke, Laura Linney and Michelle Williams, all of whom I like very much.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 2889,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "R",
+  "genre": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "datePublished": "2007-03-23",
+  "keywords": [
+    "male frontal nudity",
+    "male rear nudity",
+    "young",
+    "texas",
+    "actor"
+  ],
+  "duration": "PT1H57M",
+  "actor": [
+    {
+      "name": "Mark Webber",
+      "url": "https://www.imdb.com/name/nm0916406/"
+    },
+    {
+      "name": "Catalina Sandino Moreno",
+      "url": "https://www.imdb.com/name/nm1503432/"
+    },
+    {
+      "name": "Laura Linney",
+      "url": "https://www.imdb.com/name/nm0001473/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ethan Hawke",
+      "url": "https://www.imdb.com/name/nm0000160/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ethan Hawke",
+      "url": "https://www.imdb.com/name/nm0000160/"
+    }
+  ]
+}

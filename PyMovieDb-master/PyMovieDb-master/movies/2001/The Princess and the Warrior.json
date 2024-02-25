@@ -1,0 +1,38 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Princess and the Warrior: A Tale of Two Volcanoes",
+  "url": "https://www.imdb.com/tt6517840/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWYyOWYzNGYtOWQ4Yy00NWQzLWIzZWMtMWJlM2ZjM2UxMTYwXkEyXkFqcGdeQXVyMjc4NjgzNjY@._V1_.jpg",
+  "description": "Brimming with battle, romance, and betrayal, this animated children's short re-imagines a cherished Mexican legend.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": null,
+  "genre": [
+    "Animation",
+    "Short"
+  ],
+  "datePublished": "2016-10-18",
+  "keywords": null,
+  "duration": "PT18M",
+  "actor": [],
+  "director": [],
+  "creator": []
+}

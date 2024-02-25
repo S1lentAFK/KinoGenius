@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Libertine",
+  "url": "https://www.imdb.com/tt0375920/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTE5MTQ4ODQzNl5BMl5BanBnXkFtZTYwMDIxNTQ3._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "claudio_carvalho",
+    "dateCreated": "2007-01-30",
+    "inLanguage": "English",
+    "heading": "Repulsive Character, Magnificent Performance",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 37634,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "18",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2005-11-18",
+  "keywords": "public nudity,breasts,scantily clad female,virgin,teenage girl",
+  "duration": "PT1H54M",
+  "actor": [
+    {
+      "name": "Johnny Depp",
+      "url": "https://www.imdb.com/name/nm0000136/"
+    },
+    {
+      "name": "Samantha Morton",
+      "url": "https://www.imdb.com/name/nm0608090/"
+    },
+    {
+      "name": "John Malkovich",
+      "url": "https://www.imdb.com/name/nm0000518/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Laurence Dunmore",
+      "url": "https://www.imdb.com/name/nm1461380/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stephen Jeffreys",
+      "url": "https://www.imdb.com/name/nm1461822/"
+    }
+  ]
+}

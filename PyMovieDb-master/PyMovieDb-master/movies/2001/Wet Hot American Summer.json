@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Wet Hot American Summer",
+  "url": "https://www.imdb.com/tt0243655/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjdjYjlhNTctNDY0Yi00ZTM4LWE1MWItYWUzNmYwYWU0OTI4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "Set on the last day of camp, in the hot summer of 1981, a group of counselors try to complete their unfinished business before the day ends.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2001-07-27",
+  "keywords": "year 1981,sex scene,love triangle,female female kiss,masturbation",
+  "duration": "PT1H37M",
+  "rating": {
+    "ratingCount": 60280,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "review": {
+    "author": "goaway110",
+    "dateCreated": "2004-02-21",
+    "inLanguage": "English",
+    "heading": "Hilarious",
+    "reviewBody": "Wet Hot American Summer is one of the funniest movies I have seen in a long time. It has an excellent cast, including: Janeane Garofalo, David Hyde Pierce, Michael Showalter, Paul Rudd, Chris Melloni, Amy Poehler and Michael Ian Black. This spoof of summer camp movies from the 70&apos;s and 80&apos;s does a great job of recreating the implausible and predictable plots of the movies of the ear while still staying incredibly funny and fresh. WHAS touches on all the old themes, such as the nice guy trying to get the hot girl, the director awkwardly trying to find love, and the outcast who saves the day. Some of the funniest scenes in the movie are the ones that are so random and unexpected-Andy and the kids in the van, the trip into town, etc.-that you just have to laugh. I have no idea why it didn&apos;t receive more attention. It&apos;s a shame that a movie this good hasn&apos;t received the attention that it deserves.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "actor": [
+    {
+      "name": "Janeane Garofalo",
+      "url": "https://www.imdb.com/name/nm0000413/"
+    },
+    {
+      "name": "David Hyde Pierce",
+      "url": "https://www.imdb.com/name/nm0001383/"
+    },
+    {
+      "name": "Michael Showalter",
+      "url": "https://www.imdb.com/name/nm0795290/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Wain",
+      "url": "https://www.imdb.com/name/nm0906476/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Showalter",
+      "url": "https://www.imdb.com/name/nm0795290/"
+    },
+    {
+      "name": "David Wain",
+      "url": "https://www.imdb.com/name/nm0906476/"
+    }
+  ]
+}

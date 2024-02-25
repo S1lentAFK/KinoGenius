@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Collide",
+  "url": "https://www.imdb.com/tt2126235/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjRhMGI3ZGItZTMzMS00NzdmLWI1MzMtNjk0ZmY5ZjMyZDdkL2ltYWdlXkEyXkFqcGdeQXVyNTQ3MjE4NTU@._V1_.jpg",
+  "description": "An American backpacker gets involved with a ring of drug smugglers as their driver, though he winds up on the run from his employers across Cologne high-speed Autobahn.",
+  "review": {
+    "author": "mannin11",
+    "dateCreated": "2017-02-06",
+    "inLanguage": "English",
+    "heading": "What were Hopkins and Kingsley thinking?",
+    "reviewBody": "When I saw Anthony Hopkins and Ben Kingley's names attached to this movie I thought how bad could it be? Well, it's bad. Really bad. Dumb as a brick. Great chase sequences on the autobahns but a story that is as lame as they come. Girl needs kidney operation so boyfriend hijacks truck full of drugs and gangsters come after him. Endless escapes that happen SOOOO conveniently to keep the story going. Couldn't the producers have sprung for an extra couple of writers to punch up the story and make it less predictable? Were Hopkins and Kingsley so desperate for a paycheck that they were willing to stoop to acting in this trash? Your heart bleeds for them. When I saw the movie cost twenty one million to make I was astounded as I figured well below ten. The distribution company that picked up this movie when the first distributor went bankrupt should pray to God that they don't join the first company in the bankruptcy courts. Don't hold your breath for any solid figures at the box office. And who are the fools likening this to the Fast and the Furious franchise? Not even close!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 17259,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "datePublished": "2016-08-04",
+  "keywords": "car crushed,dialysis,aerial camera shot,body lands on a car,british actor plays an american character",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Nicholas Hoult",
+      "url": "https://www.imdb.com/name/nm0396558/"
+    },
+    {
+      "name": "Felicity Jones",
+      "url": "https://www.imdb.com/name/nm0428065/"
+    },
+    {
+      "name": "Anthony Hopkins",
+      "url": "https://www.imdb.com/name/nm0000164/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Eran Creevy",
+      "url": "https://www.imdb.com/name/nm2123102/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "F. Scott Frazier",
+      "url": "https://www.imdb.com/name/nm2400444/"
+    },
+    {
+      "name": "Eran Creevy",
+      "url": "https://www.imdb.com/name/nm2123102/"
+    }
+  ]
+}

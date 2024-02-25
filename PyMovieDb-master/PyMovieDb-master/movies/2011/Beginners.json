@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Beginners",
+  "url": "https://www.imdb.com/tt1532503/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDE2OTA2NDctNGEzMy00Y2E1LTlmMTctOTMxYWQzYWI5OTIwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+  "description": "A young man is rocked by two announcements from his elderly father: that he has terminal cancer and that he has a young male lover.",
+  "review": {
+    "author": "MyFilmHabit",
+    "dateCreated": "2011-05-15",
+    "inLanguage": "English",
+    "heading": "Not Too Late",
+    "reviewBody": "I got the chance to attend a sneak peek of director, Mike Mills&apos;, latest film last night at one of the Reel Affirmations film festival&apos;s monthly screenings. I like Mills&apos; films. They&apos;ve got a moody, tortured aesthetic, and this one is no different. The story is primarily about the relationship between a man, Oliver (Ewan McGregor), and his father, Hal (Christopher Plummer). When Hal dies, Oliver is left to contemplate his life, their relationship, and all the poor choices each of them had made up until this point. We see the world through Oliver&apos;s eyes, and so the whole film is suffused with an overall tone of deep sadness. He can&apos;t seem to make any of his romantic relationships work, but then he&apos;s never really had any good role models. You see, after the death of his mother four years prior, Hal finally came out to his son as gay\\u2014at the ripe age of seventy-five. It&apos;s a very touching, and lightly sweet moment. Oliver is happy that his father hasn&apos;t given up on life, and is finally pursuing true love, but he just can&apos;t forget the years of isolation and loneliness his mother went through. Commence the sad wallowing.\\n\\nOf course, all this changes when Oliver meets an alluring, winsome French girl (Melanie Laurent). Anna is an actress, and she&apos;s just about as bad at relationships as Oliver. They don&apos;t know much about each other, but they&apos;re both beautiful, damaged souls, so they get on like a house on fire. And somehow, Oliver is thinking less and less about his parents. Those ladies can be mighty distracting! But, not distracting enough to totally conceal either of these attractive kids&apos; inherent personality flaws. But they&apos;re pretty fetching while they&apos;re working out their demons!\\n\\nThis is a wonderful film. It really captures the deep emotions people feel for each other, and even lets the audience feel some of them for themselves. There were definitely moments during the screening that had people surreptitiously wiping tears from the corners of their eyes. But, it&apos;s also sexy and funny too. We get to enjoy Oliver and Anna&apos;s uncertain flirtation. And, we also get to savor Hal&apos;s belated (but not too late!) blossoming. He&apos;s as giddy and nervous as a school-girl at her first dance, but he ultimately takes to his new life like a fish to water, even as late to the game as he is. This movie is a real crowd pleaser, and it&apos;s one that just about everyone will enjoy. The pacing is deliberate and solemn, but the story sucks you in enough that you barely notice. You can even bring a date to this one. It&apos;s not one to miss.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 94540,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2011-06-09",
+  "keywords": "coming out,gay relationship,dog,homosexuality,older man younger man relationship",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Ewan McGregor",
+      "url": "https://www.imdb.com/name/nm0000191/"
+    },
+    {
+      "name": "Christopher Plummer",
+      "url": "https://www.imdb.com/name/nm0001626/"
+    },
+    {
+      "name": "M\\u00e9lanie Laurent",
+      "url": "https://www.imdb.com/name/nm0491259/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mike Mills",
+      "url": "https://www.imdb.com/name/nm0590122/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mike Mills",
+      "url": "https://www.imdb.com/name/nm0590122/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Birth of a Nation",
+  "url": "https://www.imdb.com/tt0004972/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTM4ZDhiYTQtYzExNC00YjVlLTg2YWYtYTk3NTAzMzcwNTExXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "description": "The Stoneman family finds its friendship with the Camerons affected by the Civil War, both fighting in opposite armies. The development of the war in their lives plays through to Lincoln&apos;s assassination and the birth of the Ku Klu...",
+  "review": {
+    "author": "Larry-4",
+    "dateCreated": "1999-04-21",
+    "inLanguage": "English",
+    "heading": "show it in my American History classes",
+    "reviewBody": "I am a Ph.D. candidate in American History. I show BOAN (as does most American history professors) to my undergrads. Not only is it an accurate portrait of the propaganda being written in the 1870s, but it is a primary source document on how people in the 1870s and 1910s saw African Americans. Anyone wonder why the Civil Rights movement happened, or why lynchings happened, or why ML King, Jr.was assassinated? Well, watch BOAN and you&apos;ll get an insight into that most American of institutions, racism. Why is there racial hatred today, because of the rhetoric of hate by the people who made BOAN and the people who are depicted in it. If they affect you still, shouldn&apos;t know what they said? Especially if you find it abhorrent, watch it. It is also a good reminder of how distorted history can be made to look legitimate on celluloid.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 26167,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "U",
+  "genre": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "datePublished": "1915-03-21",
+  "keywords": "ku klux klan,civil war,reconstruction era,american civil war,propaganda",
+  "duration": "PT3H15M",
+  "actor": [
+    {
+      "name": "Lillian Gish",
+      "url": "https://www.imdb.com/name/nm0001273/"
+    },
+    {
+      "name": "Mae Marsh",
+      "url": "https://www.imdb.com/name/nm0550615/"
+    },
+    {
+      "name": "Henry B. Walthall",
+      "url": "https://www.imdb.com/name/nm0910400/"
+    }
+  ],
+  "director": [
+    {
+      "name": "D.W. Griffith",
+      "url": "https://www.imdb.com/name/nm0000428/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Thomas Dixon Jr.",
+      "url": "https://www.imdb.com/name/nm0228746/"
+    },
+    {
+      "name": "D.W. Griffith",
+      "url": "https://www.imdb.com/name/nm0000428/"
+    },
+    {
+      "name": "Frank E. Woods",
+      "url": "https://www.imdb.com/name/nm0940488/"
+    }
+  ]
+}

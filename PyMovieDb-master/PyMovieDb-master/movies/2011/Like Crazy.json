@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Like Crazy",
+  "url": "https://www.imdb.com/tt1758692/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAzOTgyOTU4OF5BMl5BanBnXkFtZTcwNDYxMjcxNg@@._V1_.jpg",
+  "description": "A British college student falls for an American student, only to be separated from him when she's banned from the U.S. after overstaying her visa.",
+  "review": {
+    "author": "Rockwell_Cronenberg",
+    "dateCreated": "2011-11-14",
+    "inLanguage": "English",
+    "heading": "A lukewarm reaction.",
+    "reviewBody": "This is a love story that was quite interesting to me, because the parts that didn't work were the parts dealing with the actual love. Felicity Jones and Anton Yelchin were both excellent on their own, burning with pain while trying to move on with their life and just exist with this hole inside of them. However it was when they were together that the film lost it's appeal for me. I couldn't feel any chemistry between them, so I had no stake in a large majority of it because I didn't understand why they wanted to be together. Even with their first meeting they seemed so dour together, I never once felt any genuine love there.\\n\\nThe conversations between them were good and honest, albeit typical, and the fact that they improvised a lot of their dialogue makes it more impressive. Unfortunately the premise hinges on an event that I couldn't realistically buy for a second so any sadness the characters felt didn't have enough of an impact on me because there was always this looming anger towards them for being so dumb and getting themselves in this situation. The ending is a smart move, but it's also a pretty straight Graduate rip-off, so I can't commend it too much.\\n\\nI'm harping a lot on the things that I didn't like about the film, but I think ultimately there were more positives than negatives for me. The actors really shined individually, even if they didn't sell the core relationship for me, and quite a few of their separate scenes gave me an emotional reaction, albeit not to the extreme that they should have hit me. So I'm pretty lukewarm on it overall, but I at least admired the acting.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 63155,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2012-01-27",
+  "keywords": "immigration,student visa,long distance relationship,airport,girlfriend",
+  "duration": "PT1H26M",
+  "actor": [
+    {
+      "name": "Felicity Jones",
+      "url": "https://www.imdb.com/name/nm0428065/"
+    },
+    {
+      "name": "Anton Yelchin",
+      "url": "https://www.imdb.com/name/nm0947338/"
+    },
+    {
+      "name": "Jennifer Lawrence",
+      "url": "https://www.imdb.com/name/nm2225369/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Drake Doremus",
+      "url": "https://www.imdb.com/name/nm2035886/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Drake Doremus",
+      "url": "https://www.imdb.com/name/nm2035886/"
+    },
+    {
+      "name": "Ben York Jones",
+      "url": "https://www.imdb.com/name/nm1726378/"
+    }
+  ]
+}

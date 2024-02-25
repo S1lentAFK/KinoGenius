@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "An American Carol",
+  "url": "https://www.imdb.com/tt1190617/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA5MjAyNzcxMF5BMl5BanBnXkFtZTcwNTk2MzI5MQ@@._V1_.jpg",
+  "description": "An anti-American filmmaker who's out to abolish the July Fourth holiday is visited by three ghosts who try to change his perception of the country.",
+  "datePublished": "2008-10-03",
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "duration": "PT1H23M",
+  "keywords": "arab stereotype,slapstick comedy,binoculars,blown up,telling a story",
+  "rating": {
+    "ratingCount": 10078,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4
+  },
+  "review": {
+    "author": "Gatlinburg",
+    "dateCreated": "2009-01-07",
+    "inLanguage": "English",
+    "heading": "Finally, a movie where coffee-cafe-communists aren't telling me how to feel.",
+    "reviewBody": "I laughed when I came on here and saw a handful of sheepish shoegazers reviewing this movie. They called it 'propaganda', they called it a 'Conservative brainwashing tool.'; Let's be honest for a few minutes. Hollywood is riddled with mind-numbingly moronic 'actors' who tell you how to feel, tell you how to spend your money, tell you how to vote, and tell you how you should live your life. Honestly, how can you 16 year old latte lappers truthfully view this film as 'propaganda'? It just makes me laugh.\\n\\nAnyway, this film was a nice breath of fresh air. I'm sick of Sean Penn pouring his whining little do-nothing tears all over the television set. I'm sick of Opera sitting on her $6,000 white sofa while crying about every low-life druggy that plops onto the seat next to her. I'm sick of the ALCU grave diggers scouring the globe and looking for the next person who says the word 'black' or spills coffee on their lap. I'm sick of Rosie Odonnell spraying bacon bits out of her loud mouth while she thinks she's daytime TV's answer to all the world's problems. Like I said, this film was a breath of fresh air.\\n\\nWatching this film I realized that modern day America has no General Patton, we have no war hero JFK, we have no liberty loving George Washington. Modern day America needs public officials that know the price of freedom...now I know some of you leftist Bolsheviks will laugh at that, but that's only to your demise. Billions of people around the world are suffering at the hands of brutal and power hungry dictators...yet you sit behind your computer, posting your inane blogs, and believing all the answers can be solved with a click of a mouse and a hug. Get a grip on reality and stop living in Candy Land.\\n\\n-AZ3 USN",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "Kevin P. Farley",
+      "url": "https://www.imdb.com/name/nm0267659/"
+    },
+    {
+      "name": "Kelsey Grammer",
+      "url": "https://www.imdb.com/name/nm0001288/"
+    },
+    {
+      "name": "Leslie Nielsen",
+      "url": "https://www.imdb.com/name/nm0000558/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Zucker",
+      "url": "https://www.imdb.com/name/nm0001878/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Zucker",
+      "url": "https://www.imdb.com/name/nm0001878/"
+    },
+    {
+      "name": "Myrna Sokoloff",
+      "url": "https://www.imdb.com/name/nm2935128/"
+    },
+    {
+      "name": "Lewis Friedman",
+      "url": "https://www.imdb.com/name/nm0295281/"
+    }
+  ]
+}

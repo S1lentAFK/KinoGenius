@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "What Lies Beneath",
+  "url": "https://www.imdb.com/tt0161081/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTY4NjNkMTMtNTEyOC00NDBiLWFkZjMtZDkwYzU3OTFjOTkzXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_.jpg",
+  "description": "The wife of a university research scientist believes that her lakeside Vermont home is haunted by a ghost - or that she is losing her mind.",
+  "review": {
+    "author": "elle-10",
+    "dateCreated": "2000-07-22",
+    "inLanguage": "English",
+    "heading": "Enjoyed every minute",
+    "reviewBody": "Not having been to the real movies for some time. Many of them were catered towards the younger group, this one had Harrison Ford (58) and Michele Pfeiffer (43) still young in our books, but much older than the Heather Locklear Group. Our movie theatre is quite new, and the screen is enormous, with the sound almost blasting your eardrums, so we were in the right setting for this mystery thriller. I read the good comments of the previous members, and have to agree with them. Part of the story is given away. Don&apos;t know why they do that. I prefer not knowing too much, but they want to rope us into the seats, I guess. So without giving too much away, it was exciting to watch Pfeiffer work her way through this mystery.\\n\\nHarrison Ford is certainly in fantastic shape for a 58 year old, and with a nice tan, was very easy on the eye; mine anyway! While my husband enjoyed looking at Michelle Pfeiffer. We did jump in our seats quite a few times. Watching Michelle dive into the water would make you run and take diving lessons, if that was truly her! \\n\\nTheir acting made the story believable, and when the story&apos;s believable I always enjoy it. Harrison Ford can be a bit on the wooden side at times. My husband&apos;s impersonation of him is to turn his mouth up to one side keeping his mouth straight. Pretty good! As you look at the wonderful house they live in, in this movie, it makes you wish you had one just like it, without the ghost, of course! For those who like suspense, I don&apos;t think you&apos;ll be disappointed.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 134892,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2000-10-20",
+  "keywords": "hitchcockian,death by drowning,secret,ghost,panic",
+  "duration": "PT2H10M",
+  "actor": [
+    {
+      "name": "Harrison Ford",
+      "url": "https://www.imdb.com/name/nm0000148/"
+    },
+    {
+      "name": "Michelle Pfeiffer",
+      "url": "https://www.imdb.com/name/nm0000201/"
+    },
+    {
+      "name": "Katharine Towne",
+      "url": "https://www.imdb.com/name/nm0870007/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Zemeckis",
+      "url": "https://www.imdb.com/name/nm0000709/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Clark Gregg",
+      "url": "https://www.imdb.com/name/nm0163988/"
+    },
+    {
+      "name": "Sarah Kernochan",
+      "url": "https://www.imdb.com/name/nm0449576/"
+    }
+  ]
+}

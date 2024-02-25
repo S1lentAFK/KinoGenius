@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Marshall",
+  "url": "https://www.imdb.com/tt5301662/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzg3YTc4N2ItZmZkZS00OWE1LWIyNGMtNzYzZWQzMzVkZWI2XkEyXkFqcGdeQXVyNTQ3MjE4NTU@._V1_.jpg",
+  "description": "The story of Thurgood Marshall, the crusading lawyer who would become the first African-American Supreme Court Justice, as he battles through one of his career-defining cases.",
+  "review": {
+    "author": "Bryan_Rathbun5",
+    "dateCreated": "2018-02-19",
+    "inLanguage": "English",
+    "heading": "Marshall",
+    "reviewBody": "Marshall is a great movie that delivers on an old-fashioned courtroom drama. Great story with really good acting from the leads. Great cast overall. So far I have loved every role I have seen Chadwick Boseman play, he is a great actor and has this sort of swagger when acting. Sterling K Brown is great and one of the greatest actors in recent years. It was different but enjoyable seeing Josh Gad in a drama. I wish they would make more of these movies that follow Thurgood Marshall&apos;s journey. The only negative thing is that it felt a bit long.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 26454,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2017-10-13",
+  "keywords": "1940s,lawyer,attorney,african american,judge",
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Chadwick Boseman",
+      "url": "https://www.imdb.com/name/nm1569276/"
+    },
+    {
+      "name": "Josh Gad",
+      "url": "https://www.imdb.com/name/nm1265802/"
+    },
+    {
+      "name": "Kate Hudson",
+      "url": "https://www.imdb.com/name/nm0005028/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Reginald Hudlin",
+      "url": "https://www.imdb.com/name/nm0399737/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Koskoff",
+      "url": "https://www.imdb.com/name/nm7817658/"
+    },
+    {
+      "name": "Jacob Koskoff",
+      "url": "https://www.imdb.com/name/nm1105617/"
+    }
+  ]
+}

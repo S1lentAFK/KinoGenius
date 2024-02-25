@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Looper",
+  "url": "https://www.imdb.com/tt1276104/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg5NTA3NTg4NF5BMl5BanBnXkFtZTcwNTA0NDYzOA@@._V1_.jpg",
+  "description": "In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun awaits - someone like Joe - who one day learns the mob wants to 'close the loop' by sending back Joe's future self for assassin...",
+  "review": {
+    "author": "jason-godin232",
+    "dateCreated": "2012-10-16",
+    "inLanguage": "English",
+    "heading": "Very Decent, very clever",
+    "reviewBody": "No Spoilers will be shown, the story is basically the public knowledge shown on the trailers.\n\nThe story is about this man named Joe who is played by both Joseph Gordon-Levitt and Bruce Willis. Basically his job is a looper. In the Year 2074 civilization has created time travel however it is highly illegal to use it. It is then controlled by the highest criminal mafia in the world. In the future they cannot kill a person, so instead they send them back 30 years and the looper will kill them. When the young Joe saw the Old Joe standing there, he hesitated and the plot clashed.\n\nThe story was very confusing at first, but the movie does a good job to explain to us as it goes along. To be honest at first I thought this was going to be bad, the story took some time to build up, and the plot just didn't seem to have any structure. Once the movie did pick up, boy did it pick up. It became intense as the hunter became the hunted.\n\nThe story had emotion, action, we laughed and cried. Many places where things appeared to be stupid ended actually be part of the story and working out. There are though, a lot of silly moments in the story that to my opinion could have been left out and the story would have been just as good. The acting was very good. Also kinda shows how much Bruce Willis is getting old, but can still pack a punch. I give this movie an 8.5/10!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 599863,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "datePublished": "2012-09-28",
+  "keywords": "time travel,future,time loop,cyberpunk,shanghai",
+  "duration": "PT1H59M",
+  "actor": [
+    {
+      "name": "Joseph Gordon-Levitt",
+      "url": "https://www.imdb.com/name/nm0330687/"
+    },
+    {
+      "name": "Bruce Willis",
+      "url": "https://www.imdb.com/name/nm0000246/"
+    },
+    {
+      "name": "Emily Blunt",
+      "url": "https://www.imdb.com/name/nm1289434/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rian Johnson",
+      "url": "https://www.imdb.com/name/nm0426059/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Rian Johnson",
+      "url": "https://www.imdb.com/name/nm0426059/"
+    }
+  ]
+}

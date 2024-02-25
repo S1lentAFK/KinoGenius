@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Captivity",
+  "url": "https://www.imdb.com/tt0374563/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkzMjc3MTEzN15BMl5BanBnXkFtZTcwMzYzNjA1MQ@@._V1_.jpg",
+  "description": "A man and a woman awaken to find themselves trapped in a cellar. As their kidnapper drives them mad, the truth about their horrific abduction is revealed.",
+  "review": {
+    "author": "Review_IT",
+    "dateCreated": "2007-07-11",
+    "inLanguage": "English",
+    "heading": "Nice an afternoon if you have nothing else to do",
+    "reviewBody": "I liked the movie for what it is, a movie to pass the time on a rainy afternoon.\\n\\nUnfortunately, the story is not that great. And with an avalanche of similar themed movies recently, this one really needed to shine to stick its head out above the rest. Don&apos;t expect too much of it. One known actress doesn&apos;t make a good movie, so don&apos;t blame one person for the script etc. Still worth seeing if you&apos;re invited by someone else to see it.\\n\\nThe end of the movie could have been with a bit more suspense I thought.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 23646,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.6
+  },
+  "contentRating": "18",
+  "genre": [
+    "Crime",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2007-06-22",
+  "keywords": "rape by deception,crawling through an air shaft,taking a pet dog to a public place,strapped to a chair,funnel in mouth",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Elisha Cuthbert",
+      "url": "https://www.imdb.com/name/nm0193846/"
+    },
+    {
+      "name": "Daniel Gillies",
+      "url": "https://www.imdb.com/name/nm0319171/"
+    },
+    {
+      "name": "Pruitt Taylor Vince",
+      "url": "https://www.imdb.com/name/nm0898546/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Roland Joff\\u00e9",
+      "url": "https://www.imdb.com/name/nm0423646/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Larry Cohen",
+      "url": "https://www.imdb.com/name/nm0169540/"
+    },
+    {
+      "name": "Joseph Tura",
+      "url": "https://www.imdb.com/name/nm2289183/"
+    }
+  ]
+}

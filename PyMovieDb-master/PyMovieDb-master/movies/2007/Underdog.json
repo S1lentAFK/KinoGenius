@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Underdog",
+  "url": "https://www.imdb.com/tt0467110/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk5NjkyNzEwOV5BMl5BanBnXkFtZTcwODc5NDI1MQ@@._V1_.jpg",
+  "description": "A Beagle must use his newly-bestowed superpowers to defend Capitol City from mad scientist Simon Barsinister.",
+  "review": {
+    "author": "slightlymad22",
+    "dateCreated": "2015-02-20",
+    "inLanguage": "English",
+    "heading": "What Were People Expecting??",
+    "reviewBody": "I don't get the hate aimed at this movie!! What were people expecting?? It's a kids movie about a dog with super powers. Realism obviously isn't to be expected.\n\nPlot In A Paragraph: A bomb-sniffing dog is fired from the police force for a high profile mistake. That night Cad (Patrick Warburton) dognaps him, Cad works as a henchman for Simon Barsinister (Peter Dinklage) a mad scientist, who injects him with an elixir. The dog escapes, but now has superpowers. He's adopted by Dan Unger (James Belushi) a security guard - an ex-cop, who's a widower with a moody teen son, Jack. While Barsinister and Cad plot to catch him and take over the city. \n\nDinklage hams it up and Warburton dumbs it down to amusing effect, while its always good to see James Belushi in screen. I watched it with my young son, and we both enjoyed it. He was the target audience, and I enjoyed it for what it was. \n\nI have seen much worse kids movies...",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 22622,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  },
+  "contentRating": "U",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2008-02-01",
+  "keywords": "beagle,dog,outer space,non comic book superhero,animal character name as title",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Peter Dinklage",
+      "url": "https://www.imdb.com/name/nm0227759/"
+    },
+    {
+      "name": "Jason Lee",
+      "url": "https://www.imdb.com/name/nm0005134/"
+    },
+    {
+      "name": "Amy Adams",
+      "url": "https://www.imdb.com/name/nm0010736/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Frederik Du Chau",
+      "url": "https://www.imdb.com/name/nm0238865/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Adam Rifkin",
+      "url": "https://www.imdb.com/name/nm0726472/"
+    },
+    {
+      "name": "Joe Piscatella",
+      "url": "https://www.imdb.com/name/nm1764920/"
+    },
+    {
+      "name": "Craig A. Williams",
+      "url": "https://www.imdb.com/name/nm1958979/"
+    }
+  ]
+}

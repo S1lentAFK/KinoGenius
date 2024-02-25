@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Frankenweenie",
+  "url": "https://www.imdb.com/tt1142977/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIxODY3MjEwNV5BMl5BanBnXkFtZTcwOTMzNjc4Nw@@._V1_.jpg",
+  "description": "When a boy's beloved dog passes away suddenly, he attempts to bring the animal back to life through a powerful science experiment.",
+  "review": {
+    "author": "cherold",
+    "dateCreated": "2013-06-22",
+    "inLanguage": "English",
+    "heading": "Entertaining trifle",
+    "reviewBody": "Judged as a comedy, Frankenweenie isn't really that great. The humor is rarely more than mild. But the movie actually did a pretty good job with the story, which is well paced and has moments of genuine - if mild - suspense. \n\nIt's also - and this is to be expected from any Tim Burton movie - really good looking, with stylish black and white animation and a cast of creepy looking kids.\n\nAs someone familiar with the original movies, I appreciate the way it pays tribute to its source material. It is also wonderfully imaginative, most notably in the first resuscitation scene.\n\nOne criticism; even by the standards of kids cartoons or old horror movies, this thing makes zero sense. The lack of any sort of logic is, however, so in-your-face that I accept it as purposeful and thus just accept that this is a movie that's not supposed to make any sense.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 116364,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2012-10-17",
+  "keywords": "bull terrier,stop motion animation,remake by original director,dracula character,altered version of studio logo",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Winona Ryder",
+      "url": "https://www.imdb.com/name/nm0000213/"
+    },
+    {
+      "name": "Catherine O'Hara",
+      "url": "https://www.imdb.com/name/nm0001573/"
+    },
+    {
+      "name": "Martin Short",
+      "url": "https://www.imdb.com/name/nm0001737/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tim Burton",
+      "url": "https://www.imdb.com/name/nm0000318/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Leonard Ripps",
+      "url": "https://www.imdb.com/name/nm0728125/"
+    },
+    {
+      "name": "Tim Burton",
+      "url": "https://www.imdb.com/name/nm0000318/"
+    },
+    {
+      "name": "John August",
+      "url": "https://www.imdb.com/name/nm0041864/"
+    }
+  ]
+}

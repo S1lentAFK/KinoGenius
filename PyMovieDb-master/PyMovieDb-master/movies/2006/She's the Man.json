@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "She's the Man",
+  "url": "https://www.imdb.com/tt0454945/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDM1ZTRiN2ItNDQ2MC00Y2I2LTkwODQtOThhNGQ3ZjRmOWNhXkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_.jpg",
+  "description": "When her brother decides to ditch for a couple weeks, Viola heads over to his elite boarding school, disguised as him, and proceeds to fall for his school's star soccer player, and soon learns she's not the only one with romantic ...",
+  "review": {
+    "author": "Smells_Like_Cheese",
+    "dateCreated": "2006-08-04",
+    "inLanguage": "English",
+    "heading": "Yeah, a bit predictable, but still enjoyable",
+    "reviewBody": "I have to be honest, I really had a good time watching She's the Man. Despite it being a typical teenage comedy or if you will the switching of the sexes movie, it had some pretty decent laughs that I think anyone could get. Adults and teens alike would over all enjoy this movie.\n\nAmanda Bynes is your typical rebellious teen who dresses and acts like a guy, and when she is turned down to try out for the boy's soccer team, she decides to take over her brother's appearance to prove herself worthy of being on the boy's soccer team. Of course, love shows itself when she meets another guy who thinks she's her brother. She also has a girl who is chasing after her. Well, the tag line says it all.\n\nThis is a fun little teen drama that I think will be remembered for a while. Amanda Bynes did prove something in the film, it's really hard to really act like a guy. :D Well, it's true! \n\n8/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 174047,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Romance",
+    "Sport"
+  ],
+  "datePublished": "2006-04-07",
+  "keywords": "girl disguised as a boy,girl on boys team,teenager,love triangle,pretending to be someone else",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Amanda Bynes",
+      "url": "https://www.imdb.com/name/nm0004789/"
+    },
+    {
+      "name": "Laura Ramsey",
+      "url": "https://www.imdb.com/name/nm1377561/"
+    },
+    {
+      "name": "Channing Tatum",
+      "url": "https://www.imdb.com/name/nm1475594/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andy Fickman",
+      "url": "https://www.imdb.com/name/nm0275698/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ewan Leslie",
+      "url": "https://www.imdb.com/name/nm1894168/"
+    },
+    {
+      "name": "Karen McCullah",
+      "url": "https://www.imdb.com/name/nm0527581/"
+    },
+    {
+      "name": "Kirsten Smith",
+      "url": "https://www.imdb.com/name/nm0809006/"
+    }
+  ]
+}

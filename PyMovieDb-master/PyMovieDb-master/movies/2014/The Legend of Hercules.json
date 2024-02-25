@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Legend of Hercules",
+  "url": "https://www.imdb.com/tt1043726/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQwMjEyODQxMV5BMl5BanBnXkFtZTgwMDQxMjE3MDE@._V1_.jpg",
+  "description": "The origin story of the mythical Greek hero. Betrayed by his stepfather, the King, and exiled and sold into slavery because of a forbidden love, Hercules must use his formidable powers to fight his way back to his rightful kingdom.",
+  "review": {
+    "author": "jacklordalankeen",
+    "dateCreated": "2014-01-11",
+    "inLanguage": "English",
+    "heading": "Unoriginal awful film. Don&apos;t see it!!!",
+    "reviewBody": "The Legend of Hercules spoiler free review\\n\\nThis movie is HORRIBLE. Where do i start. The acting is just laughable and bad. Kellan Lutz is bad as Hercules (Hopefully Dwayne Johnson will do better in the next Hercules movie). Every line is said horribly. Did i mention the dialogue is BAD.\\n\\nThe script is horrible. It has nothing to do with the original mythology. It tries to be like 300 and Gladiator but fails horribly. The romance is so cheesy with the worst romance dialogue i have ever heard.\\n\\nAre the action scenes good?....No....Far from good. It always uses slow motion just like 300 (which was used better) but it was obnoxious and gets old and annoying. \\n\\nThe visual effects and green screen is horrible and this movie has a budget of over 70 million dollars!!! What?! Movies with lower budgets look more convincing then this. \\n\\nOverall rating 1/10 One of the worst movies i have seen all year and we&apos;re still in January!!! Hopefully the Brett Ratner version is better and obviously it will be. You can&apos;t get lower than this.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 55833,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.2
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "2014-03-28",
+  "keywords": [
+    "ancient greece",
+    "hercules character",
+    "greece",
+    "reference to zeus the greek deity",
+    "man tied up"
+  ],
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Kellan Lutz",
+      "url": "https://www.imdb.com/name/nm1553725/"
+    },
+    {
+      "name": "Gaia Weiss",
+      "url": "https://www.imdb.com/name/nm4719349/"
+    },
+    {
+      "name": "Scott Adkins",
+      "url": "https://www.imdb.com/name/nm0012078/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Renny Harlin",
+      "url": "https://www.imdb.com/name/nm0001317/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sean Hood",
+      "url": "https://www.imdb.com/name/nm0393517/"
+    },
+    {
+      "name": "Daniel Giat",
+      "url": "https://www.imdb.com/name/nm0316417/"
+    },
+    {
+      "name": "Renny Harlin",
+      "url": "https://www.imdb.com/name/nm0001317/"
+    }
+  ]
+}

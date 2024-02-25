@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Magnificent Seven",
+  "url": "https://www.imdb.com/tt2404435/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUzNTc0NTAyM15BMl5BanBnXkFtZTgwMTk1ODA5OTE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "allstarrunner",
+    "dateCreated": "2016-09-19",
+    "inLanguage": "English",
+    "heading": "One Hell of a Ride",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 226738,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "datePublished": "2016-09-23",
+  "keywords": "showdown,bounty hunter,good versus evil,die hard scenario,remake",
+  "duration": "PT2H12M",
+  "actor": [
+    {
+      "name": "Denzel Washington",
+      "url": "https://www.imdb.com/name/nm0000243/"
+    },
+    {
+      "name": "Chris Pratt",
+      "url": "https://www.imdb.com/name/nm0695435/"
+    },
+    {
+      "name": "Ethan Hawke",
+      "url": "https://www.imdb.com/name/nm0000160/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Antoine Fuqua",
+      "url": "https://www.imdb.com/name/nm0298807/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Akira Kurosawa",
+      "url": "https://www.imdb.com/name/nm0000041/"
+    },
+    {
+      "name": "Shinobu Hashimoto",
+      "url": "https://www.imdb.com/name/nm0368074/"
+    },
+    {
+      "name": "Hideo Oguni",
+      "url": "https://www.imdb.com/name/nm0644823/"
+    }
+  ]
+}

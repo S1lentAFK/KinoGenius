@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Ambassador",
+  "url": "https://www.imdb.com/tt0086884/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDBlMzVhOWQtNzcwYi00ZDYzLThlYjItMDVmZTYxYjBhMDc3XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "planktonrules",
+    "dateCreated": "2020-10-27",
+    "inLanguage": "English",
+    "heading": "It's distributed by Cannon Films....need I say more?!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 913,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "1985-01-11",
+  "keywords": "female nudity,unfaithful wife,sexual blackmail,dysfunctional marriage,u.s. ambassador",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Robert Mitchum",
+      "url": "https://www.imdb.com/name/nm0000053/"
+    },
+    {
+      "name": "Ellen Burstyn",
+      "url": "https://www.imdb.com/name/nm0000995/"
+    },
+    {
+      "name": "Rock Hudson",
+      "url": "https://www.imdb.com/name/nm0001369/"
+    }
+  ],
+  "director": [
+    {
+      "name": "J. Lee Thompson",
+      "url": "https://www.imdb.com/name/nm0496746/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ronald M. Cohen",
+      "url": "https://www.imdb.com/name/nm0169727/"
+    },
+    {
+      "name": "Max Jack",
+      "url": "https://www.imdb.com/name/nm0413107/"
+    },
+    {
+      "name": "Elmore Leonard",
+      "url": "https://www.imdb.com/name/nm0001465/"
+    }
+  ]
+}

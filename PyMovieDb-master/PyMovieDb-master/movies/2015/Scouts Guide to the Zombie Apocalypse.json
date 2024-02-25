@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Scouts Guide to the Zombie Apocalypse",
+  "url": "https://www.imdb.com/tt1727776/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NjczNjE4OV5BMl5BanBnXkFtZTgwODk0MjQ5NjE@._V1_.jpg",
+  "description": "Three scouts, on the eve of their last camp-out, discover the true meaning of friendship when they attempt to save their town from a zombie outbreak.",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Horror"
+  ],
+  "datePublished": "2015-11-06",
+  "duration": "PT1H33M",
+  "contentRating": "15",
+  "keywords": "zombie,boy scout,hardware store,friendship between boys,blonde",
+  "rating": {
+    "ratingCount": 54260,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2017-01-01",
+    "inLanguage": "English",
+    "heading": "the concept is there",
+    "reviewBody": "A slacker janitor at a lab causes chaos unleashing the zombie apocalypse. Augie Foster, Ben Goudy and Carter Grant are best friends and scouts. They are also getting old to be scouts under Scout Leader Rogers (David Koechner). Nobody else is signing up. Ben and Carter want to leave. They hit a deer on the road. Carter's sister Kendall Grant, her boyfriend Jeff and her friend Chloe stop on their way to a party. The deer disappears. Ben and Carter plan to sneak away from the scout campout later that night to join the party. Rogers is attacked by zombies. Ben befriends hot strip club waitress Denise Russo who buys beer for the boys and later come to their rescue.\\n\\nThe concept is right there in the title. The start is alright. It's all set up and ready to go. I am expecting something smart and funny like Shaun of the Dead. The first thing I would add is some kind of Scout handbook (Guide) which the boys use to battle the zombies. The closest is Augie trying to scare the Britney Spears zombie. That could have been funnier but at least they tried. It's a lot hot women, zombies, and three geeky dudes. The guys are non-descript but solid geeks. The writing is simply not smart enough. It's still better than most zombie B-movies. This could be something really fun but it's only more of the same.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "actor": [
+    {
+      "name": "Tye Sheridan",
+      "url": "https://www.imdb.com/name/nm4446467/"
+    },
+    {
+      "name": "Logan Miller",
+      "url": "https://www.imdb.com/name/nm2383250/"
+    },
+    {
+      "name": "Joey Morgan",
+      "url": "https://www.imdb.com/name/nm6368720/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Christopher Landon",
+      "url": "https://www.imdb.com/name/nm0484907/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Carrie Lee Wilson",
+      "url": "https://www.imdb.com/name/nm0933144/"
+    },
+    {
+      "name": "Emi Mochizuki",
+      "url": "https://www.imdb.com/name/nm0595088/"
+    },
+    {
+      "name": "Christopher Landon",
+      "url": "https://www.imdb.com/name/nm0484907/"
+    }
+  ]
+}

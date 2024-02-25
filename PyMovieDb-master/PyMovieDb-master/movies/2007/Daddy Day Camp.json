@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Daddy Day Camp",
+  "url": "https://www.imdb.com/tt0462244/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM1NTUyMTExMF5BMl5BanBnXkFtZTcwNzk0MDI1MQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "PoisonKeyblade",
+    "dateCreated": "2007-08-09",
+    "inLanguage": "English",
+    "heading": "God-awful Family Film with Little to Offer",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 2
+    }
+  },
+  "rating": {
+    "ratingCount": 17864,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.2
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2007-10-19",
+  "keywords": "child vomiting,summer camp,vomiting,toilet,sequel",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Cuba Gooding Jr.",
+      "url": "https://www.imdb.com/name/nm0000421/"
+    },
+    {
+      "name": "Lochlyn Munro",
+      "url": "https://www.imdb.com/name/nm0613147/"
+    },
+    {
+      "name": "Richard Gant",
+      "url": "https://www.imdb.com/name/nm0304579/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Fred Savage",
+      "url": "https://www.imdb.com/name/nm0000625/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Geoff Rodkey",
+      "url": "https://www.imdb.com/name/nm0734900/"
+    },
+    {
+      "name": "J. David Stem",
+      "url": "https://www.imdb.com/name/nm0826425/"
+    },
+    {
+      "name": "David N. Weiss",
+      "url": "https://www.imdb.com/name/nm0918955/"
+    }
+  ]
+}

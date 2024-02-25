@@ -1,0 +1,76 @@
+{
+  "type": "Movie",
+  "name": "The House",
+  "url": "https://www.imdb.com/tt11703050/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWM4NDgyN2QtN2UzNS00Y2YyLWJjMTgtNjljNjk2MmJjMjdmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+  "description": "Across different eras, a poor family, an anxious developer and a fed-up landlady become tied to the same mysterious house in this animated dark comedy.",
+  "review": {
+    "author": "lanaijw",
+    "dateCreated": "2022-01-14",
+    "inLanguage": "English",
+    "heading": "Delightfully Creepy",
+    "reviewBody": "Lovely animation that perfectly suits the tone of the three stories. I was especially unsettled while watching the first story. Darkly funny, enjoyably uncomfortable, and I like that not every little question is answered (for example: who exactly is the builder of the house?). If you liked Love Death & Robots, give this a go.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 22153,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "TV-MA",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2022-01-14",
+  "keywords": "stop motion,house,dark comedy,anthology,adult animation",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Mia Goth",
+      "url": "https://www.imdb.com/name/nm5301405/"
+    },
+    {
+      "name": "Matthew Goode",
+      "url": "https://www.imdb.com/name/nm0328828/"
+    },
+    {
+      "name": "Claudie Blakley",
+      "url": "https://www.imdb.com/name/nm0086865/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Paloma Baeza",
+      "url": "https://www.imdb.com/name/nm0046469/"
+    },
+    {
+      "name": "Emma De Swaef",
+      "url": "https://www.imdb.com/name/nm2809195/"
+    },
+    {
+      "name": "Niki Lindroth von Bahr",
+      "url": "https://www.imdb.com/name/nm3548166/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Enda Walsh",
+      "url": "https://www.imdb.com/name/nm0909629/"
+    },
+    {
+      "name": "Emma De Swaef",
+      "url": "https://www.imdb.com/name/nm2809195/"
+    },
+    {
+      "name": "Marc James Roels",
+      "url": "https://www.imdb.com/name/nm2808505/"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "Movie",
+  "name": "Smurfs: The Lost Village Holiday Gift Card Policy Trailer",
+  "url": "https://www.imdb.com/tt6782548/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmRiZWMyMjMtMmJkMS00NmNlLTk2ZjAtOWUxOGJjZWY2MzljXkEyXkFqcGdeQXVyNTk1ODg5ODA@._V1_.jpg",
+  "description": "A bit of Štrumpfovi: Skriveno selo (2017), used for promoting a Holiday Gift Card Policy.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 14,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": null,
+  "genre": [
+    "Short",
+    "Family"
+  ],
+  "datePublished": "2016-12-01",
+  "keywords": null,
+  "duration": null,
+  "actor": [
+    {
+      "name": "Demi Lovato",
+      "url": "https://www.imdb.com/name/nm1416215/"
+    },
+    {
+      "name": "Jack McBrayer",
+      "url": "https://www.imdb.com/name/nm1442113/"
+    },
+    {
+      "name": "Danny Pudi",
+      "url": "https://www.imdb.com/name/nm2209821/"
+    }
+  ],
+  "director": [],
+  "creator": []
+}

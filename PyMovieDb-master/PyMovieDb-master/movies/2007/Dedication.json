@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Dedication",
+  "url": "https://www.imdb.com/tt0490579/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM3MjA1NDE2Ml5BMl5BanBnXkFtZTcwNTI4ODA1MQ@@._V1_.jpg",
+  "description": "The romantic comedy follows a misogynistic children&apos;s book author who is forced to work closely with a female illustrator instead of his long-time collaborator and only friend.",
+  "review": {
+    "author": "sundevil27",
+    "dateCreated": "2007-01-24",
+    "inLanguage": "English",
+    "heading": "Unlikely romance story with some edge, features breakout role for Mandy Moore",
+    "reviewBody": "Saw this at the premiere showing at Sundance, where it played well for the crowd and apparently Harvery Weinstein liked it so much he bought it. I really didn&apos;t know what to expect from this movie as it featured a actor turned first time director and an unlikely pairing of serious actor Crudup and former pop star Mandy Moore. The movie feels part Garden State, with a similar tale of depressed-anxiety ridden guy meeting girl and romance. However Crudups character Henry who is a children&apos;s book author is far from being the lovable depressed dope, he&apos;s edgy and seriously troubled from what is hinted at as an abusive childhood. Henry&apos;s only friend is Rusty his collaborator and book illustrator played by the always reliable Tom Wilkinson, Rusty knows that Henry is on a path of self destruction an forewarns him that he may not always be around to help keep him sane. Rusty becomes ill and thus enters Lucy, the new illustrator, the transition as you would expect is not an easy on for Henry and he makes a mess of what is obviously a blessing in disguise. With Lucys persistence and willingness the two work on the book and romance is kindled however an old flame of Lucys proves a problem as does Henrys demons. \\n\\nCrudup as Henry is quite good, but the character has such a sharp tongue and dark disposition at first that it was hard to not hold resentment against him for much of the film. However as the film goes on and Henry shows more of his likable eccentric quirks your hoping for him to change and that works in the films favor. Mandy Moore brings life to this film that made all the difference to me. As soon as her character Lucy enters the film the whole movie changed for the better. Without her sweet smile and persistent patience with Henry this film wouldn&apos;t work in the least. The director Justin Theroux, who you probably know from Charlie&apos;s Angels 2 as the Irish gangster, does a great job in his debut and works magic with the soundtrack and adds in some unique visuals along the way to enhance the viewing. All and All audiences should find this movie to be a good indie romance comedy/drama, the type one would expect from the indie world with rough edges and darker subject matter then your typical Hugh Grant -Julia Roberts type stuff.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 7192,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2008-10-10",
+  "keywords": "feature film directorial debut,romantic comedy,rom com,dark comedy,basketball tickets",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Billy Crudup",
+      "url": "https://www.imdb.com/name/nm0001082/"
+    },
+    {
+      "name": "Mandy Moore",
+      "url": "https://www.imdb.com/name/nm0601553/"
+    },
+    {
+      "name": "Tom Wilkinson",
+      "url": "https://www.imdb.com/name/nm0929489/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Justin Theroux",
+      "url": "https://www.imdb.com/name/nm0857620/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Bromberg",
+      "url": "https://www.imdb.com/name/nm2743733/"
+    }
+  ]
+}

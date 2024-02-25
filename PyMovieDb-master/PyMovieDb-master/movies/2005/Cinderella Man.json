@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Cinderella Man",
+  "url": "https://www.imdb.com/tt0352248/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTkyMmZmNTYtMTE3MS00NmZlLWIyOGQtZGU2Y2YyMjBlZmI0XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+  "description": "The true story of James J. Braddock, a supposedly washed-up boxer, who returned to the spotlight to win the heavyweight championship of the world.",
+  "review": {
+    "author": "cquinn-1",
+    "dateCreated": "2005-05-25",
+    "inLanguage": "English",
+    "heading": "Old story well told!",
+    "reviewBody": "Geez, another boxing movie! Yeah, Yeah, I know the story. Down and out guy gets a break and makes the most of it. He&apos;s fighting for his family, he&apos;s fighting for all those other hopeless people. Been there, done that.\\n\\nOh, I forgot to mention one thing. This movie is about the best 140 minute I&apos;ve spent in a movie theater since . . . . since . . . ., Oh, well, you get the picture. Better yet, instead of getting the picture, go see it.\\n\\nRussell Crowe owns the character of James Braddock, the unlikely hero who makes the most of his second chance. He&apos;s a good fighter turned hack. Injury, bad luck and this thing called the Depression sends him down the drain.\\n\\nHis wife, Mae, played by Renee Zelleweger, wants to be his biggest fan, but the kids need a dad, the rent has to get paid and the money from boxing dried up along time ago. Her husband&apos;s courage is undoubted, but his nerve is killing her.\\n\\nAnd then there&apos;s Joe Gould, played by Paul Giamatti.\\n\\nA boxer by the name of George Cochan once told me his manager was the bravest man he ever knew, he was willing to pit his man (Cochan) against anyone. As a result, Cochan had his head handed to him multiple times by the likes of Jake LaMotta and other class middle weights of the Forties and Fifties. Gould, is that brave manager, if not literally, in spirit. He pits Braddock, out of shape and with one day notice, against the number two heavy weight contender. Regardless of the risk, it&apos;s a pay day needed by both Gould and Braddock.\\n\\nThe story, while familiar, is executed brilliantly. The camera work is both subtle and, in turn, spectacular. Craig Bierko, Paddy Considine, Bruce McGill and the rest of the cast give flawless performances.\\n\\nYes, been there, done that! And I&apos;m ready to do it again for anyone who wants to go with me.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 197297,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2005-09-09",
+  "keywords": "boxing,max baer,boxing champion,boxer,friendship between men",
+  "duration": "PT2H24M",
+  "actor": [
+    {
+      "name": "Russell Crowe",
+      "url": "https://www.imdb.com/name/nm0000128/"
+    },
+    {
+      "name": "Ren\\u00e9e Zellweger",
+      "url": "https://www.imdb.com/name/nm0000250/"
+    },
+    {
+      "name": "Craig Bierko",
+      "url": "https://www.imdb.com/name/nm0081572/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ron Howard",
+      "url": "https://www.imdb.com/name/nm0000165/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Cliff Hollingsworth",
+      "url": "https://www.imdb.com/name/nm0391132/"
+    },
+    {
+      "name": "Akiva Goldsman",
+      "url": "https://www.imdb.com/name/nm0326040/"
+    }
+  ]
+}

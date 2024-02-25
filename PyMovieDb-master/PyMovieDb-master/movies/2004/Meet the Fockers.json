@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Meet the Fockers",
+  "url": "https://www.imdb.com/tt0290002/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmQyYmJmYWYtODk5OS00ZWJmLWJjN2QtNTA4M2Y2MzJhOTIxXkEyXkFqcGdeQXVyMTI1Mzg0ODA5._V1_.jpg",
+  "description": "All hell breaks loose when the Byrnes family meets the Focker family for the first time.",
+  "review": {
+    "author": "Analog_Devotee",
+    "dateCreated": "2021-12-14",
+    "inLanguage": "English",
+    "heading": "Just as good as the original.",
+    "reviewBody": "Just as good the original, in my opinion. Any sequel-slack was ironed out with Dustin Hoffman&apos;s sidesplitting performance. I&apos;m really surprised to see so many people find this an unworthy sequel... it&apos;s more of what made the original funny with just enough additions to keep it fresh.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 285010,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2005-01-28",
+  "keywords": "neo screwball comedy,family character name in title,family relationships,male nurse,nurse",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Ben Stiller",
+      "url": "https://www.imdb.com/name/nm0001774/"
+    },
+    {
+      "name": "Robert De Niro",
+      "url": "https://www.imdb.com/name/nm0000134/"
+    },
+    {
+      "name": "Blythe Danner",
+      "url": "https://www.imdb.com/name/nm0001100/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jay Roach",
+      "url": "https://www.imdb.com/name/nm0005366/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jim Herzfeld",
+      "url": "https://www.imdb.com/name/nm0381272/"
+    },
+    {
+      "name": "Marc Hyman",
+      "url": "https://www.imdb.com/name/nm0405190/"
+    },
+    {
+      "name": "John Hamburg",
+      "url": "https://www.imdb.com/name/nm0357453/"
+    }
+  ]
+}

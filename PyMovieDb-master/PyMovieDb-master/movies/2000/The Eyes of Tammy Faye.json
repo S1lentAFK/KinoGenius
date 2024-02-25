@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Eyes of Tammy Faye",
+  "url": "https://www.imdb.com/tt9115530/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTg3ZTU5YjAtMGM2OC00YjQzLWE5MTctOGEwMjU0YWY0MmZkXkEyXkFqcGdeQXVyMjgyOTI1ODY@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "ferguson-6",
+    "dateCreated": "2021-09-16",
+    "inLanguage": "English",
+    "heading": "heart of gold",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 38472,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2022-02-04",
+  "keywords": "televangelist,five word title,rise and fall,message,love",
+  "duration": "PT2H6M",
+  "actor": [
+    {
+      "name": "Jessica Chastain",
+      "url": "https://www.imdb.com/name/nm1567113/"
+    },
+    {
+      "name": "Andrew Garfield",
+      "url": "https://www.imdb.com/name/nm1940449/"
+    },
+    {
+      "name": "Cherry Jones",
+      "url": "https://www.imdb.com/name/nm0427728/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Showalter",
+      "url": "https://www.imdb.com/name/nm0795290/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Fenton Bailey",
+      "url": "https://www.imdb.com/name/nm0047259/"
+    },
+    {
+      "name": "Randy Barbato",
+      "url": "https://www.imdb.com/name/nm0053190/"
+    },
+    {
+      "name": "Abe Sylvia",
+      "url": "https://www.imdb.com/name/nm0843281/"
+    }
+  ]
+}

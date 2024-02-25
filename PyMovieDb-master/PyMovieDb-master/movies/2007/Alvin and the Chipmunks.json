@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Alvin and the Chipmunks",
+  "url": "https://www.imdb.com/tt0952640/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjdmNWY4MjItMjBiMi00MWNiLWI0ZjctYzBjZmEzOGRmNTc5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "laci-5",
+    "dateCreated": "2007-12-05",
+    "inLanguage": "English",
+    "heading": "I was expecting much worse",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 93869,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "U",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2007-12-21",
+  "keywords": "concert,talking animal,new york city,based on cartoon,chipmunk",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Jason Lee",
+      "url": "https://www.imdb.com/name/nm0005134/"
+    },
+    {
+      "name": "Ross Bagdasarian Jr.",
+      "url": "https://www.imdb.com/name/nm0046559/"
+    },
+    {
+      "name": "Janice Karman",
+      "url": "https://www.imdb.com/name/nm0439739/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tim Hill",
+      "url": "https://www.imdb.com/name/nm0384722/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jon Vitti",
+      "url": "https://www.imdb.com/name/nm0900140/"
+    },
+    {
+      "name": "Will McRobb",
+      "url": "https://www.imdb.com/name/nm0574509/"
+    },
+    {
+      "name": "Chris Viscardi",
+      "url": "https://www.imdb.com/name/nm0899531/"
+    }
+  ]
+}

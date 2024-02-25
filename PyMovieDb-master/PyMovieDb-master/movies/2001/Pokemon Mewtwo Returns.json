@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Pocket Monster: Myuutsu! Ware wa Koko ni Ari",
+  "url": "https://www.imdb.com/tt0304564/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM4NTAxMTQ4OV5BMl5BanBnXkFtZTYwNTM2MjI5._V1_.jpg",
+  "description": "Team Rocket's memories of Mewtwo had been erased, but the Team Rocket scientists' logs have not. After uncovering the logs, they track down Mewtwo and build a Base in a Johto. Ash and company meet Mr. Giovanni for the first time.",
+  "review": {
+    "author": "Cylex",
+    "dateCreated": "2002-02-17",
+    "inLanguage": "English",
+    "heading": "A worthy sequel.",
+    "reviewBody": "A new Pokemon movie! Hooray! Now we can find out what's become of Mewtwo & his clones. I loved Mewtwo Strikes Back and this sequel is packed with the same emotion & excitement. We meet a new Team Rocket agent who is just as cool as Jessie & James. I was drawn into the story and was satisfied by the ending. It was good to hear some of the marvellous music from the original too. Keep 'em coming. 10/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 3978,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2002-02-11",
+  "keywords": "pokemon,orange hair,special attack,talking cat,hat",
+  "duration": "PT1H",
+  "actor": [
+    {
+      "name": "Rica Matsumoto",
+      "url": "https://www.imdb.com/name/nm0559551/"
+    },
+    {
+      "name": "Ikue \u00d4tani",
+      "url": "https://www.imdb.com/name/nm0649026/"
+    },
+    {
+      "name": "Mayumi Izuka",
+      "url": "https://www.imdb.com/name/nm0407372/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Masamitsu Hidaka",
+      "url": "https://www.imdb.com/name/nm0383020/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Takeshi Shud\u00f4",
+      "url": "https://www.imdb.com/name/nm0795575/"
+    }
+  ]
+}

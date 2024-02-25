@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "Lincoln",
+  "url": "https://www.imdb.com/tt0443272/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQzNzczMDUyNV5BMl5BanBnXkFtZTcwNjM2ODEzOA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "StevePulaski",
+    "dateCreated": "2012-11-17",
+    "inLanguage": "English",
+    "heading": "A capsule of a great president and a director's increasing maturity",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 271209,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2013-01-25",
+  "keywords": [
+    "based on real person",
+    "president of the united states",
+    "american politics",
+    "bearded man",
+    "1860s"
+  ],
+  "duration": "PT2H30M",
+  "actor": [
+    {
+      "name": "Daniel Day-Lewis",
+      "url": "https://www.imdb.com/name/nm0000358/"
+    },
+    {
+      "name": "Sally Field",
+      "url": "https://www.imdb.com/name/nm0000398/"
+    },
+    {
+      "name": "David Strathairn",
+      "url": "https://www.imdb.com/name/nm0000657/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven Spielberg",
+      "url": "https://www.imdb.com/name/nm0000229/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tony Kushner",
+      "url": "https://www.imdb.com/name/nm1065785/"
+    },
+    {
+      "name": "Doris Kearns Goodwin",
+      "url": "https://www.imdb.com/name/nm0329447/"
+    }
+  ]
+}

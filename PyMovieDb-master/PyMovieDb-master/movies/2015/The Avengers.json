@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Avengers",
+  "url": "https://www.imdb.com/tt0118661/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWE1NTdjOWQtYTQ2Ny00Nzc5LWExYzMtNmRlOThmOTE2N2I4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+  "description": "Two British Agents team up to stop Sir August de Wynter from destroying the world with a weather-changing machine.",
+  "review": {
+    "author": "philipdavies",
+    "dateCreated": "2003-09-01",
+    "inLanguage": "English",
+    "heading": "A whimsical delight - more please!",
+    "reviewBody": "I am amazed at how well an American film has captured the matter-of-fact surrealism which the mathematician Dodgson(Lewis Carroll)gave to his dream-child, Alice, as also it recalls the more knowing, and oh-so-polite deconstruction wrought by the media-saavy British children of the 60&apos;s upon the distressed remnants of England&apos;s Imperial aplomb!\\n\\n Of course, as Oscar Wilde may not have said, Satire revisited is only a lukewarm cup of tea. But then nostalgia - especially when the satire was so gentle anyway - has its own charms. And there was, anyway, a hefty dose of nostalgia amidst the cool insouciance of the original. Its very modernity was made to seem almost an expression of polite insistence on whatever surreal manifestation of tradition was encountered. It was the utterly unruffled mien of the original which prevailed over all lapses from reason and good taste. So, at its best, in the new cinema version.\\n\\nThis is indeed a brave try by Hollywood to draw us back into that black-and-white psychedelia of swinging sixties British commercial television. The sheer madness of the enterprise almost works - if the money-men hadn&apos;t had cold feet at the last minute, we might have been enjoying a really remarkable fantasy film. As it is, we must content ourselves with a merely very amusing piece of whimsy. Even through the plot-holes left by a nervous editor we can see some wonderfully mad logic at work: The Escher-inspired architecture of the baddy&apos;s stately home, in which Mrs Peel at one point loses her way, encapsulates this whole dream-trip of a movie.\\n\\nAnd for those who don&apos;t &apos;get it&apos;, I can only say, Humour is like that: Very dependent on individual taste.\\n\\n But even allowing for taste, it is a sad reflection on public taste that &apos;The Avengers&apos; overwhelmingly offends filmgoers who are probably quite prepared to accept the ever more overblown superheroes of a more violent tradition, such as &apos;Batman&apos; or &apos;The Hulk&apos;. Of course, these two are clearly representative of that particularly adolescent taste for the extreme and crude for which the contemporary Hollywood production-line largely exists. (There is every sign that Eddie Izzard&apos;s character was originally intended to satirize mega-buck entertainment and mega-buck villains as being really just spoiled brats with their expensive toys.) The genteel quirks of the English-inspired concept of &apos;The Avengers&apos; are - in their essence, and however silly - just too irritatingly grown-up for such hyperactive youth ever to endure sitting still for!\\n\\nA pity the film was not left alone upon release to find its own friends - like a stray cat, that will carefully choose whom it will exercise it&apos;s feline charm upon. And what more feline than Uma Thurman in Mrs. Peel&apos;s cat-suit?!\\n\\nThis is certainly not the sort of film to toss into an auditorium full of baying first-run morons.\\n\\nBut I suspect that it is a film with more than one life ...",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 45295,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.8
+  },
+  "contentRating": "12",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "1998-08-14",
+  "keywords": "snow adventure,good versus evil,heroine,evil man,villain",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Ralph Fiennes",
+      "url": "https://www.imdb.com/name/nm0000146/"
+    },
+    {
+      "name": "Uma Thurman",
+      "url": "https://www.imdb.com/name/nm0000235/"
+    },
+    {
+      "name": "Sean Connery",
+      "url": "https://www.imdb.com/name/nm0000125/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeremiah S. Chechik",
+      "url": "https://www.imdb.com/name/nm0154819/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sydney Newman",
+      "url": "https://www.imdb.com/name/nm0628285/"
+    },
+    {
+      "name": "Don MacPherson",
+      "url": "https://www.imdb.com/name/nm0534207/"
+    }
+  ]
+}

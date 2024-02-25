@@ -1,0 +1,78 @@
+
+
+{
+  "type": "Movie",
+  "name": "Ong Bak 2",
+  "url": "https://www.imdb.com/tt0785035/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWJiODQ4NDUtYWYwZS00OTI4LWFhYzMtM2Q2M2FkODUwN2NiXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "BA_Harrison",
+    "dateCreated": "2011-05-31",
+    "inLanguage": "English",
+    "heading": "Not quite as jaw-dropping as part one, but then what is?",
+    "reviewBody": "Ong Bak 2: The Beginning is not a continuation of the first film, neither is it a prequel in the true sense; the story takes place several hundred years ago, and tells of Tien (played as an adult by Tony Jaa), the son of a murdered lord, who becomes a powerful warrior after a clan of outlaws adopt him and teach him their combat skills.\\n\\nThis period setting allows for a far more epic feel than the first film, but the broader scope of the plot ultimately means less minutes devoted to pure, bone crunching action, a fact that has understandably disappointed those hoping for another relentless, adrenaline fuelled, juggernaut of a martial arts movie. Add the fact that Jaa&apos;s impressive Muay Thai skills are often overlooked in favour of weapons based action, and it&apos;s not surprising that this film hasn&apos;t been as overwhelmingly well received as its predecessor.\\n\\nOn a more positive note, the film looks absolutely fantastic, with beautiful cinematography, sumptuous costumes, and some truly outlandish characters, and when the action does kick into top gear, it is utterly breath-taking, especially during the flawlessly executed, bone-crunching final battle between Tien and a host of enemy warriors, where we finally get to see the star delivering his trademark punishing blows with knee and elbow.\\n\\nIn short, Ong Bak 2 is a very enjoyable slice of solid action entertainment\\u2014not quite as jaw-dropping as part one, but then what is?\\n\\n7.5 out of 10, rounded up to 8 for IMDb.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 31784,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action"
+  ],
+  "datePublished": "2009-10-16",
+  "keywords": [
+    "year 1431",
+    "late middle ages",
+    "middle ages",
+    "medieval times",
+    "martial arts action"
+  ],
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Tony Jaa",
+      "url": "https://www.imdb.com/name/nm1388074/"
+    },
+    {
+      "name": "Sarunyu Wongkrachang",
+      "url": "https://www.imdb.com/name/nm1033693/"
+    },
+    {
+      "name": "Sorapong Chatree",
+      "url": "https://www.imdb.com/name/nm0154083/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tony Jaa",
+      "url": "https://www.imdb.com/name/nm1388074/"
+    },
+    {
+      "name": "Panna Rittikrai",
+      "url": "https://www.imdb.com/name/nm1437277/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tony Jaa",
+      "url": "https://www.imdb.com/name/nm1388074/"
+    },
+    {
+      "name": "Panna Rittikrai",
+      "url": "https://www.imdb.com/name/nm1437277/"
+    },
+    {
+      "name": "Ek Iemchuen",
+      "url": "https://www.imdb.com/name/nm0251424/"
+    }
+  ]
+}

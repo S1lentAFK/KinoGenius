@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Her",
+  "url": "https://www.imdb.com/tt1798709/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_.jpg",
+  "description": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+  "review": {
+    "author": "antesdespues",
+    "dateCreated": "2013-12-16",
+    "inLanguage": "English",
+    "heading": "HER - a visually beautiful ode the technological age",
+    "reviewBody": "Spike Jonze's latest feature 'Her', set in the not-too-distant future, tells the story of Theodore Twombly (Phoenix) who finds himself falling in love with 'Samantha', an advanced operating system voiced by the sultry Scarlett Johansson. It is clear to see why this film was chosen by the National Board of Review as the best film of 2013: the visual style and extensive use of pastel colours is a triumph in itself, and the acting, editing, costumes and screenplay are all worthy of recognition.\\n\\nI went to an awards screening of 'Her' and was pleased to find out that the film was not at all what I was expecting. It has such a distinct style, and Joaquin Phoenix carries the film with tremendous grace as the complicated and sensitive protagonist. The film is mostly Phoenix alone with Johansson's voice (reminiscent of Sandra Bullock in 'Gravity' or Robert Redford in 'All Is Lost' - two other 2013 films mainly revolving around one solitary character), but the audience never feels abandoned by the lack of other characters as we begin to forget that 'Samantha' is just really just a computer.\\n\\n'Her' is a complex film with a much deeper meaning that lies beneath the surface. A beautifully crafted motion picture, this quirky love story is sure to resonate with you once you've seen it. It is an extremely interesting (and realistic) look at the future - Jonze's quaint and poignant film is a must-see! 9/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 663503,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "datePublished": "2014-02-14",
+  "keywords": "loneliness,romance with artificial intelligence,divorce,future,artificial intelligence",
+  "duration": "PT2H6M",
+  "actor": [
+    {
+      "name": "Joaquin Phoenix",
+      "url": "https://www.imdb.com/name/nm0001618/"
+    },
+    {
+      "name": "Amy Adams",
+      "url": "https://www.imdb.com/name/nm0010736/"
+    },
+    {
+      "name": "Scarlett Johansson",
+      "url": "https://www.imdb.com/name/nm0424060/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Spike Jonze",
+      "url": "https://www.imdb.com/name/nm0005069/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Spike Jonze",
+      "url": "https://www.imdb.com/name/nm0005069/"
+    }
+  ]
+}

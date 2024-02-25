@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "The Ghost and the Darkness",
+  "url": "https://www.imdb.com/tt0116409/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWIwMDIxMDktZTlhYS00YTU3LTg4ZTItNGI4NTU3ZTMzZTViXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+  "description": "A bridge engineer and an experienced old hunter begin a hunt for two lions after they start attacking local construction workers.",
+  "review": {
+    "author": "mallitch",
+    "dateCreated": "2005-01-15",
+    "inLanguage": "English",
+    "heading": "The story of a fine man facing an adventure of his lifetime",
+    "reviewBody": "A story of Col. Patterson building a bridge over the river Tsavo in Africa, and fighting the couple of killer lions and builders scared to death. Firstly it&apos;s the views. Africa&apos;s all around with yellow, sun burnt, high grown grass moving in the wind (you can smell the scent almost) and the workers who can cast a threat to Patterson if he fails their expectations of killing the lions. Secondly Val Kilmer&apos;s performance. He&apos;s not acting, he&apos;s just there fighting the obstacles. Thirdly Mike Douglas&apos;s influential way of telling things. He&apos;s more convincing than in &apos;Basic Instinct&apos; and sorry Oliver, &apos;The Wall Street&apos;. His macho appearance doesn&apos;t interfere with the main plot but comes to be part of it. Last not least it&apos;s Jerry Goldsmith&apos;s music. I don&apos;t know how he did it but he made it perfect. You just have to sense it to feel it. One of my favourites.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 65602,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "1997-01-17",
+  "keywords": "kiss,darkness,creature feature,nature horror,1890s",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Michael Douglas",
+      "url": "https://www.imdb.com/name/nm0000140/"
+    },
+    {
+      "name": "Val Kilmer",
+      "url": "https://www.imdb.com/name/nm0000174/"
+    },
+    {
+      "name": "Tom Wilkinson",
+      "url": "https://www.imdb.com/name/nm0929489/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Stephen Hopkins",
+      "url": "https://www.imdb.com/name/nm0394280/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William Goldman",
+      "url": "https://www.imdb.com/name/nm0001279/"
+    }
+  ]
+}

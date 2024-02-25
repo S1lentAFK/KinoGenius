@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Win a Date with Tad Hamilton!",
+  "url": "https://www.imdb.com/tt0335559/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM0ODcyNjA4NF5BMl5BanBnXkFtZTcwMjM3NjQyMQ@@._V1_.jpg",
+  "description": "A small-town girl wins a date with a male celebrity through a contest. When the date goes better than expected, a love triangle forms between the girl, the male celebrity, and the girl&apos;s best friend.",
+  "review": {
+    "author": "fluffyclown",
+    "dateCreated": "2004-05-18",
+    "inLanguage": "English",
+    "heading": "Fluffy little film",
+    "reviewBody": "I admit it. I saw this movie simply because I wanted to see something light and fluffy. I got what I wanted. \n\nYes, it&apos;s a chick flick. Yes, it&apos;s predictable. Yes, it has the typical Hollywood ending. But the film never said it was going to be anything but that, and that&apos;s why I liked it. No political agendas. No heavy drama and/or gut-wrenching scenes. In fact, there really wasn&apos;t anything in this film that was really negative. It was just a cute, fluffy little film that was intended to make you fill light-hearted when it was over. And for me, that is exactly what it did. \n\nRank: 8",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 29341,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2004-06-18",
+  "keywords": "fictional celebrity,montage of los angeles driving shots,sitting on a toilet,girl,love",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Kate Bosworth",
+      "url": "https://www.imdb.com/name/nm0098378/"
+    },
+    {
+      "name": "Josh Duhamel",
+      "url": "https://www.imdb.com/name/nm0241049/"
+    },
+    {
+      "name": "Topher Grace",
+      "url": "https://www.imdb.com/name/nm0333410/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Luketic",
+      "url": "https://www.imdb.com/name/nm0525659/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Victor Levin",
+      "url": "https://www.imdb.com/name/nm0505741/"
+    }
+  ]
+}

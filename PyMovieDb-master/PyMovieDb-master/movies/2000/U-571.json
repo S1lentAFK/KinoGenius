@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "U-571",
+  "url": "https://www.imdb.com/tt0141926/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDE0YzUwMzMtY2NhZS00OGYxLWFhOWItN2ZlZThjOTA0NDQ4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A German submarine is boarded by disguised American submariners trying to capture their Enigma cipher machine.",
+  "datePublished": "2000-06-02",
+  "contentRating": "12",
+  "genre": [
+    "Action",
+    "War"
+  ],
+  "duration": "PT1H56M",
+  "rating": {
+    "ratingCount": 86934,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "review": {
+    "author": "cherry5000",
+    "dateCreated": "2011-10-10",
+    "inLanguage": "English",
+    "heading": "Yet more American (Hollywood?) historical revisionism!",
+    "reviewBody": "Yet again, Hollywood rewrites history to make it look like America alone won the Second World War! This really is an awful movie that spectacularly distorts the history of the Battle of the Atlantic and, as a proud Briton, I find it downright insulting to my nation and it&apos;s efforts during the Second World War. It totally ignores even the basic historical facts concerning the true story of the breaking of the Enigma code, apart from a little mention in the end credits at the point where most movie-goers have already begun to walk out of the theatre and are unlikely to ever see it. And with all of the other factual errors, distortions, and cultural stereotypes, this is about as far from being even a semi-accurate depiction of the war at sea as you will ever get.\\n\\nIf you want a movie that has no basis in reality and just panders to national stereotypes and American patriotic jingoism, then you&apos;ll probably enjoy this movie - Just remember that what you are watching is complete fiction and not in any way a representation of true history. However, if you want something that accurately depicts submarine warfare in the Atlantic during the Second World War, you&apos;d be far better advised to watch Das Boot instead.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "keywords": "submarine movie,world war two,military,soldier,u boat",
+  "actor": [
+    {
+      "name": "Matthew McConaughey",
+      "url": "https://www.imdb.com/name/nm0000190/"
+    },
+    {
+      "name": "Bill Paxton",
+      "url": "https://www.imdb.com/name/nm0000200/"
+    },
+    {
+      "name": "Harvey Keitel",
+      "url": "https://www.imdb.com/name/nm0000172/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jonathan Mostow",
+      "url": "https://www.imdb.com/name/nm0609236/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jonathan Mostow",
+      "url": "https://www.imdb.com/name/nm0609236/"
+    },
+    {
+      "name": "Sam Montgomery",
+      "url": "https://www.imdb.com/name/nm0599924/"
+    },
+    {
+      "name": "David Ayer",
+      "url": "https://www.imdb.com/name/nm0043742/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Moneyball",
+  "url": "https://www.imdb.com/tt1210166/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAxOTU3Mzc1M15BMl5BanBnXkFtZTcwMzk1ODUzNg@@._V1_.jpg",
+  "description": "Oakland A's general manager Billy Beane's successful attempt to assemble a baseball team on a lean budget by employing computer-generated analysis to acquire new players.",
+  "review": {
+    "author": "KnightsofNi11",
+    "dateCreated": "2011-10-02",
+    "inLanguage": "English",
+    "heading": "A high quality crowd pleaser",
+    "reviewBody": "America's pastime has returned to the big screen and it is more witty and elegant than ever. Moneyball is the inspiring story of the Oakland A's, a team that was all but bankrupt but managed to beat the odds through intelligence and perseverance. Brad Pitt plays Billy Beane, the team's general manager who has run out of ideas on how to make his strapped for cash team successful. This is until he meets Pete Brand, played by Jonah Hill, an economic major from Yale. Brand devises a formula that analyzes players in a way nobody else does, thus revealing statistics about players that no one else can see. Beane and Brand use this formula to build up their unlikely roster of misfits. The themes of this film run deep through our aspiring minds. It's a film about beating the odds, going against the current, and standing up for what you believe is right. It is a moving and inspiring film that really only uses baseball as a backdrop for its deeper and more universal themes. It's a moving film and you don't have to be a baseball fan to love it.\\n\\nThe strongest element of Moneyball is easily Aaron Sorkin and Steve Zaillian's incredibly sharp script. Moneyball brings up fond memories of 2010's The Social Network in which Sorkin pulled out all the stops in his intellectual screen writing ability. The dialogue in Moneyball moves at the same pace as any Sorkin or Zaillian script does. It has a driving cadence to it that keeps a film entirely dominated by dialogue very exciting and entertaining. Their script is lively, energetic, and diverse. Moneyball has intensely emotional scenes that compel and inspire, but then it has its lighthearted and much funnier moments that have the exact same affect. There's a lot to be said for any film that has the capability to make its audience laugh and cry in the same two hour span. Moneyball is a film like that and it all begins at Sorkin's fantastic script.\\n\\nHowever, it is helped by the film's superb cast. Brad Pitt leads the film perfectly, creating a very interesting protagonist and driving the film in a way few leads can. He attacks his role as Billy Beane with the utmost care, respect, and sincerity. Despite all of Pitt's good looks and always recognizable celebrity face, you will have a hard time remembering that Pitt is the one acting, not Billy Beane. But, as always, where would such a strong lead be without his supporting cast? Moneyball has that supporting cast, and it finds its immeasurable talent in the most unlikely of places. I'm talking, of course, about Jonah Hill. Hill has built his career on being a comedy caricature with over the top flicks such as Superbad and Get Him to the Greek. But all that changes when Hill takes on the role of Pete Brand. His performance is stellar. He proves himself to be a true up and comer who won't find himself restricted within the confines of teen comedy.\\n\\nOverall, Moneyball is your typical crowd pleaser, but it is incredibly high quality. It is so well directed, so superbly acted, and Sorkin and Zaillian's script is practically flawless. Personally this isn't the film I will go crazy about. Rather, it is a film that I will enjoy so sincerely and with all my heart. I really did love this film and my respect for it is eternal. It may be typical and straightforward in its overall themes, but the quality of the film outshines this. Moneyball is just an excellent film.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 460191,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2011-11-25",
+  "keywords": "baseball,strategy,statistics,sabermetrics,year 2002",
+  "duration": "PT2H13M",
+  "actor": [
+    {
+      "name": "Brad Pitt",
+      "url": "https://www.imdb.com/name/nm0000093/"
+    },
+    {
+      "name": "Robin Wright",
+      "url": "https://www.imdb.com/name/nm0000705/"
+    },
+    {
+      "name": "Jonah Hill",
+      "url": "https://www.imdb.com/name/nm1706767/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bennett Miller",
+      "url": "https://www.imdb.com/name/nm0587955/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steven Zaillian",
+      "url": "https://www.imdb.com/name/nm0001873/"
+    },
+    {
+      "name": "Aaron Sorkin",
+      "url": "https://www.imdb.com/name/nm0815070/"
+    },
+    {
+      "name": "Stan Chervin",
+      "url": "https://www.imdb.com/name/nm3133181/"
+    }
+  ]
+}

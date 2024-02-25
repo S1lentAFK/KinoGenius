@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "The Final Cut",
+  "url": "https://www.imdb.com/tt0364343/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjkxNjA4NjM0M15BMl5BanBnXkFtZTcwMTU3MDcyMQ@@._V1_.jpg",
+  "description": "Set in a world with memory recording implants, Alan Hakman is a cutter, someone with the power of final edit over people&apos;s recorded histories. His latest assignment is one that puts him in danger.",
+  "review": {
+    "author": "needferspd",
+    "dateCreated": "2004-10-20",
+    "inLanguage": "English",
+    "heading": "It was just okay.",
+    "reviewBody": "Well, I just saw The Final Cut over the weekend and I am finding myself very disappointed in the movie. From the previews I had imagined something a little different with a lot more action that what took place. There were certain scenes that I felt were good and like them, but all in all I would rather have waited to just rent the movie than to have gone to see it in the theaters. It was a pretty slow moving movie when I was expecting more suspense and action. Robin Williams did a great job in the part, just to clarify. Once again, it was just my view of the movie as a whole that I did not like. The overall plot was good and the storyline had a great theme but as I watched, I just became more and more disappointed. Then at the end, it just kind of ended. To me, I was left with the feeling that there should have been more than just a sudden ending like it had.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 34325,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "12",
+  "genre": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "datePublished": "2004-11-11",
+  "keywords": "suit and tie,revelation,presumed dead,laptop computer,funeral",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Robin Williams",
+      "url": "https://www.imdb.com/name/nm0000245/"
+    },
+    {
+      "name": "Jim Caviezel",
+      "url": "https://www.imdb.com/name/nm0001029/"
+    },
+    {
+      "name": "Mira Sorvino",
+      "url": "https://www.imdb.com/name/nm0000227/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Omar Naim",
+      "url": "https://www.imdb.com/name/nm0619715/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Omar Naim",
+      "url": "https://www.imdb.com/name/nm0619715/"
+    }
+  ]
+}

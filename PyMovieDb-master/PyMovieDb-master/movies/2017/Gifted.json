@@ -1,0 +1,66 @@
+{
+  "type": "Movie",
+  "name": "Gifted",
+  "url": "https://www.imdb.com/tt3164868/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmM3ZTNiZGQtOTQxMi00MmQ5LWIzYTQtNTJkNjJlZDhlMzU1XkEyXkFqcGdeQXVyNDY0NDgwNzM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": null,
+  "genre": [
+    "Adventure"
+  ],
+  "datePublished": null,
+  "keywords": null,
+  "duration": "PT1H22M",
+  "actor": [
+    {
+      "name": "Georgia Rossi",
+      "url": "https://www.imdb.com/name/nm5933136/"
+    },
+    {
+      "name": "Sydney Rossi",
+      "url": "https://www.imdb.com/name/nm5933137/"
+    },
+    {
+      "name": "Sabrina Rossi",
+      "url": "https://www.imdb.com/name/nm5933138/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Scott A. Matthews",
+      "url": "https://www.imdb.com/name/nm1877512/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Scott A. Matthews",
+      "url": "https://www.imdb.com/name/nm1877512/"
+    },
+    {
+      "name": "Jerry Pender",
+      "url": "https://www.imdb.com/name/nm1332149/"
+    },
+    {
+      "name": "Russ Rossi",
+      "url": "https://www.imdb.com/name/nm4687079/"
+    }
+  ]
+}

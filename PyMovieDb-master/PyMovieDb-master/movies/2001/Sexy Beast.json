@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Sexy Beast",
+  "url": "https://www.imdb.com/tt0203119/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmM4NDAwMTYtZTEwMi00OTliLWIyYzktN2E5YTEzZGNkMjM2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "jbedford",
+    "dateCreated": "2002-03-13",
+    "inLanguage": "English",
+    "heading": "One of the scariest bad guys ever, and he's British!!!",
+    "reviewBody": "A fantastic British gangster movie that goes for authenticity over 'Mockney' laughs. Continuing where 'Performance' left off (it even features James Fox) this movie has stand-out performances from all of it's cast, with Ben Kingsley (as Don Logan) producing the scariest bad-guy in cinema since Dennis Hopper's 'Frank'. Ray Winstone & Amanda Redmond are perfectly cast, with Winstone flinching superbly from the terrifying aggression exuded by Kingsley and, to a lesser extent, McShane. Ian McShane does a lot to bury his lightweight 'Lovejoy' persona with an excellent, menacing performance that contrasts well against Winstone's thin bravado, but the honours here have to go to Kingsley who is simply stunning, turning in a masterclass performance and proving (once again) that he is a top-drawer actor with every aspect of his character (posture; accent; attitude) finally honed and utterly (appallingly) convincing.\n\nKingsley's scenes set the movie alight (like the stunning airport sequence, and of course the return to the villa) and it would be interesting to know just how much of the dialogue comes from the excellent script and how much (if any) was improvised. These more aggressive sections are beautifully contrasted by the 'slower' character building sections, which allow Winstone to display his charm to full affect. A superb movie, well worth repeat viewing...",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 67356,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "18",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2001-01-12",
+  "keywords": "gay,gangster,spain,one last job,heist",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Ray Winstone",
+      "url": "https://www.imdb.com/name/nm0935653/"
+    },
+    {
+      "name": "Ben Kingsley",
+      "url": "https://www.imdb.com/name/nm0001426/"
+    },
+    {
+      "name": "Ian McShane",
+      "url": "https://www.imdb.com/name/nm0574534/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jonathan Glazer",
+      "url": "https://www.imdb.com/name/nm0322242/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Louis Mellis",
+      "url": "https://www.imdb.com/name/nm0578011/"
+    },
+    {
+      "name": "David Scinto",
+      "url": "https://www.imdb.com/name/nm0778476/"
+    }
+  ]
+}

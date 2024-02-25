@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Catch a Fire",
+  "url": "https://www.imdb.com/tt0437232/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTEzMjQ5NzEwNl5BMl5BanBnXkFtZTcwMDYwMTgzMQ@@._V1_.jpg",
+  "description": "A drama about terrorism in Apartheid-era South Africa, revolving around a policeman and a young man who carries out solo attacks against the regime.",
+  "review": {
+    "author": "relian-1",
+    "dateCreated": "2006-09-11",
+    "inLanguage": "English",
+    "heading": "Hyper-realistic, emotional and fair minded",
+    "reviewBody": "This movie, set in the 1980's, depicts and contrasts the brutal oppression of White South Africa with the opposition of the ANC, most notably Joe Slovo, a hero of the time. Joe Slovo paid a high price for his opposition, including the loss of his wife to the oppressors of the day, but this movie, with a screenplay written by one of his children, takes a high-minded, forgiving approach that few of us could ever contemplate in the circumstances. Told through the eyes of Patrick Chamusso, a gentle man whose quiet life becomes radicalized by oppressive forces, the movie is powerful, emotional and, curiously - for reasons mentioned, balanced. One of the best movies I have ever seen, with a fine performance by Tim Robbins as a detective without a soul. This movie was first screened at the Toronto International Film Festival where it received lengthy and well-deserved applause, as did a gracious Mr. Chamusso, who was on hand at the premiere.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 11009,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2007-03-23",
+  "keywords": [
+    "vigilantism",
+    "identification",
+    "police officer",
+    "watching tv",
+    "pay phone"
+  ],
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Derek Luke",
+      "url": "https://www.imdb.com/name/nm1035682/"
+    },
+    {
+      "name": "Tim Robbins",
+      "url": "https://www.imdb.com/name/nm0000209/"
+    },
+    {
+      "name": "Bonnie Mbuli",
+      "url": "https://www.imdb.com/name/nm1973790/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Phillip Noyce",
+      "url": "https://www.imdb.com/name/nm0637518/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Shawn Slovo",
+      "url": "https://www.imdb.com/name/nm0806256/"
+    }
+  ]
+}

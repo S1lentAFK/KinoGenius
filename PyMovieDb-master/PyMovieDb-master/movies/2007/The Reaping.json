@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Reaping",
+  "url": "https://www.imdb.com/tt0444682/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTAxMDk0MDg2ODVeQTJeQWpwZ15BbWU3MDgxNDQ1MzE@._V1_.jpg",
+  "description": "A former Christian missionary, who specializes in debunking religious phenomena, investigates a small town which seems to be suffering from the 10 biblical plagues.",
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2007-04-20",
+  "keywords": "biblical plague,plague,louisiana,small town,bible",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Hilary Swank",
+      "url": "https://www.imdb.com/name/nm0005476/"
+    },
+    {
+      "name": "David Morrissey",
+      "url": "https://www.imdb.com/name/nm0607375/"
+    },
+    {
+      "name": "AnnaSophia Robb",
+      "url": "https://www.imdb.com/name/nm1455681/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Stephen Hopkins",
+      "url": "https://www.imdb.com/name/nm0394280/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Carey W. Hayes",
+      "url": "https://www.imdb.com/name/nm0370928/"
+    },
+    {
+      "name": "Chad Hayes",
+      "url": "https://www.imdb.com/name/nm0370937/"
+    },
+    {
+      "name": "Brian Rousso",
+      "url": "https://www.imdb.com/name/nm2024187/"
+    }
+  ],
+  "review": {
+    "author": "damianphelps",
+    "dateCreated": "2021-02-21",
+    "inLanguage": "English",
+    "heading": "Worked For Me!",
+    "reviewBody": "I hooked right into this movie from the opening minutes to the closing credits.\n\nIt sets up the story with the creation of a fantastic atmosphere and the juxtaposition of science vs religion.\n\nWhat really rams this movie home is the first class cast, who deliver credibility, passion and doubt.\n\nIt may have problems but I was connected enough with the movie to overlook them :)",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 44521,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  }
+}

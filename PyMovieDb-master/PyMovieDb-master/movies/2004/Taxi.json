@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Taxi Driver",
+  "url": "https://www.imdb.com/tt0075314/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "description": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
+  "review": {
+    "author": "TheLittleSongbird",
+    "dateCreated": "2011-01-09",
+    "inLanguage": "English",
+    "heading": "Still has the power to shock...",
+    "reviewBody": "Not only one of Scorsese&apos;s best films, but one of the best of the 70s. It is very hard hitting, dark and still has the resonance and power to shock. The cinematography is measured and chilly, yet very atmospheric, while Bernard Hermann&apos;s swansong score is superb, yet more proof at how amazing a composer he was. The story is unsettling but wonderfully told, and the script is brilliantly written. Scorcese also directs impeccably, while the acting is just excellent. Robert DeNiro gives one of his best performances, the whole film is worth watching just for his performance, that&apos;s how good it is, but that&apos;s not to dismiss Jodie Foster, Harvey Keitel and Cybill Sheppard in the supporting cast for they are just as good while Scorsese&apos;s own cameo is genuinely frightening. There you have it, another one of Scorsese&apos;s best with a brilliant atmosphere and mesmerising central performance. 10/10 Bethany Cox",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 910777,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.2
+  },
+  "contentRating": "X",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "1976-08-19",
+  "keywords": "taxi driver,loner,street life,child prostitution,neo noir",
+  "duration": "PT1H54M",
+  "actor": [
+    {
+      "name": "Robert De Niro",
+      "url": "https://www.imdb.com/name/nm0000134/"
+    },
+    {
+      "name": "Jodie Foster",
+      "url": "https://www.imdb.com/name/nm0000149/"
+    },
+    {
+      "name": "Cybill Shepherd",
+      "url": "https://www.imdb.com/name/nm0001732/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Martin Scorsese",
+      "url": "https://www.imdb.com/name/nm0000217/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Paul Schrader",
+      "url": "https://www.imdb.com/name/nm0001707/"
+    }
+  ]
+}

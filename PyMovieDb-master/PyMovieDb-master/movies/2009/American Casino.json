@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "American Casino",
+  "url": "https://www.imdb.com/tt1396209/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMzMzcyNzM2OV5BMl5BanBnXkFtZTcwNjQ4MDU4Mg@@._V1_.jpg",
+  "description": "This documentary takes a look at how the Wall Street meltdown has affected the working class.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 60,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "contentRating": "Unrated",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2009-05-02",
+  "keywords": "f rated",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Ben Bernanke",
+      "url": "https://www.imdb.com/name/nm2573980/"
+    },
+    {
+      "name": "Sheila Dixon",
+      "url": "https://www.imdb.com/name/nm3589297/"
+    },
+    {
+      "name": "Phil Gramm",
+      "url": "https://www.imdb.com/name/nm1109307/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Leslie Cockburn",
+      "url": "https://www.imdb.com/name/nm0168298/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Cockburn",
+      "url": "https://www.imdb.com/name/nm0168285/"
+    },
+    {
+      "name": "Leslie Cockburn",
+      "url": "https://www.imdb.com/name/nm0168298/"
+    }
+  ]
+}

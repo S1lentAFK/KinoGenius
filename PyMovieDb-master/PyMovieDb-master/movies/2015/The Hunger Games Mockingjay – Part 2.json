@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Hunger Games: Mockingjay - Part 2",
+  "url": "https://www.imdb.com/tt1951266/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzg4OTcxNzAyNV5BMl5BanBnXkFtZTgwOTc4MTEyNjE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "techno_lime28",
+    "dateCreated": "2015-11-20",
+    "inLanguage": "English",
+    "heading": "Too realistic...but it had to be!!",
+    "reviewBody": "I always saw The Hunger Games&apos; movies as a thrilling representation of the corruption and tyranny that&apos;s invading this world, and as a young Egyptian who lived through two recent revolutions, we know a great deal about the consequences of civil war, and how dirty the fight can be over political power. This movie hits right home with this theme in a way that democratic and luxurious societies won&apos;t understand or enjoy.\\n\\nMockingjay pt2 delivers a suspenseful and emotional ride as Katniss and the other rebels set out on a mission to kill the ruthless president Snow. The film plays heavy on its politics, showing the ugly side of revolutions. It would have been easy to make a pure good vs. pure evil scenario, but the movie shows a lot of gray areas and stresses on the fact the no one is incorruptible, which is far more enjoyable in terms of storytelling.\\n\\nThe film also does justice to its characters in their final journey, and has great performances by its two leads. J.Lawrence excels in portraying a determined Katniss fighting to subdue her tortured emotions for the sake of a bigger cause, she perfectly balances the strength of making sacrifices and becoming merciless in war without losing her humanity. Hutcherson gives his best acting shot as a confused Peeta fighting battles both on the ground and within his mind, and his monologues arrive with several meaningful moments that remind us of what &apos;The Hunger Games&apos; were all about. However, its D.Sutherland&apos;s and J.Moore&apos;s sickening performances as two similar nemeses, that elevated this young-adult film to a whole new level.\\n\\nBut the film is anything but flawless, it has several problems which we can blame on the editing team, the slow pace of the film focuses too much on Katniss and her group that makes you forget about the outside war, and when the time came when the size of the rebellion showed itself, you don&apos;t get enough of it, which in my opinion is the biggest issue with the film. However, this was never meant to be a full scale war film, it was always, presented from one person&apos;s point of view, which is understandable. Another issue I found was in how the movie had several deaths of main characters but doesn&apos;t spend enough time to pay tribute to them, not as much as they did with Rue in the first film. \\n\\nNevertheless, instead of lingering on the imperfections, I applaud Mockingjay Part 2 for the bigger message its trying to convey, for creating a satisfying resolution to one of the strongest and most enduring heroines in cinema, and for respecting its audience and not sugarcoating anything. People are complaining about this final chapter being too grim, my parents thought it was too realistic, too similar to what&apos;s happening in our country and so many others, but to me...that was necessary. I can only wish that movies like this will in some way contribute in making a wiser next generation of political leaders, which is what the film offers ultimately as consolation; a last sense of hope for the future.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 368563,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2015-11-19",
+  "keywords": "dystopia,rebellion,revolution,brainwashing,execution",
+  "duration": "PT2H17M",
+  "actor": [
+    {
+      "name": "Jennifer Lawrence",
+      "url": "https://www.imdb.com/name/nm2225369/"
+    },
+    {
+      "name": "Josh Hutcherson",
+      "url": "https://www.imdb.com/name/nm1242688/"
+    },
+    {
+      "name": "Liam Hemsworth",
+      "url": "https://www.imdb.com/name/nm2955013/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Francis Lawrence",
+      "url": "https://www.imdb.com/name/nm1349376/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Peter Craig",
+      "url": "https://www.imdb.com/name/nm0185976/"
+    },
+    {
+      "name": "Danny Strong",
+      "url": "https://www.imdb.com/name/nm0834960/"
+    },
+    {
+      "name": "Suzanne Collins",
+      "url": "https://www.imdb.com/name/nm1056741/"
+    }
+  ]
+}

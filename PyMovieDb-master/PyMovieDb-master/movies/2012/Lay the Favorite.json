@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Lay the Favorite",
+  "url": "https://www.imdb.com/tt1132449/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY2MzUyMDAyNF5BMl5BanBnXkFtZTcwMDAyNDg2OA@@._V1_.jpg",
+  "description": "Ex-private dancer Beth aspires to be a Las Vegas cocktail waitress, when she falls in with Dink, a sports gambler. Sparks fly as she proves to be something of a gambling prodigy--much to the ire of Dink's wife, Tulip.",
+  "review": {
+    "author": "kosmasp",
+    "dateCreated": "2012-09-07",
+    "inLanguage": "English",
+    "heading": "Number game",
+    "reviewBody": "If I hadn't seen Rebecca Hall in any other movie I guess I wouldn't have been amazed by the transformation or her performance in general in this movie. You really buy her ... let's call it naive nature, she puts on display here. Bruce Willis is pretty passive, which works in a way, but not throughout. Joshua and Catherine are not used in the best way possible, but the main focus is on Rebecca so that can be forgiven.\\n\\nStory-wise, there is not that much exciting or new happening, the jokes are not always working, but the movie has a low budget charm to it (if you can accept that and not look at it as a star vehicle movie with a big budget). It's a nice little movie, that has more potential than it shows on screen.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 12020,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2012-06-22",
+  "keywords": "brunette woman,striptease,sex worker,gambler,waitress",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Rebecca Hall",
+      "url": "https://www.imdb.com/name/nm0356017/"
+    },
+    {
+      "name": "Bruce Willis",
+      "url": "https://www.imdb.com/name/nm0000246/"
+    },
+    {
+      "name": "Vince Vaughn",
+      "url": "https://www.imdb.com/name/nm0000681/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Stephen Frears",
+      "url": "https://www.imdb.com/name/nm0001241/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "D.V. DeVincentis",
+      "url": "https://www.imdb.com/name/nm0222584/"
+    },
+    {
+      "name": "Beth Raymer",
+      "url": "https://www.imdb.com/name/nm2822495/"
+    }
+  ]
+}

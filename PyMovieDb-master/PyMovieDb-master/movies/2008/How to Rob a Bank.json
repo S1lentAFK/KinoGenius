@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "How to Rob a Bank (and 10 Tips to Actually Get Away with It)",
+  "url": "https://www.imdb.com/tt0762104/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA1NDQ0MzMzMF5BMl5BanBnXkFtZTcwNTE4MDA1MQ@@._V1_.jpg",
+  "description": "Caught in the middle of a bank robbery, a slacker and a bank employee become the ones who arbitrate the intense situation.",
+  "review": {
+    "author": "Indifferent_Observer",
+    "dateCreated": "2010-12-14",
+    "inLanguage": "English",
+    "heading": "Just sit back and enjoy yourself...and don&apos;t trust IBMD critics who vote 1 star",
+    "reviewBody": "The movie itself...Not a classic, not very memorable, and very, I mean VERY unrealistic.\\n\\nStill, I say who cares? Some people take every issue so seriously. I was reading one reviewer who was whining about the screens on the computers in the movie that were on for probably a whole 30 seconds...huh? People take things way to seriously. As stated the movie itself isn&apos;t the best and the ending is kind of rushed, but it has some great actors(including the late David Carradine) and its a fun flick. So, If your like me and you don&apos;t care that someone&apos;s tie didn&apos;t match their shirt then check it out.\\n\\nI give it a 6 and It deserves no less then a 5",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 6186,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "datePublished": "2007-06-25",
+  "keywords": "tape gag,tape over mouth,broken camera,security camera,caper mystery",
+  "duration": "PT1H21M",
+  "actor": [
+    {
+      "name": "Nick Stahl",
+      "url": "https://www.imdb.com/name/nm0001763/"
+    },
+    {
+      "name": "Erika Christensen",
+      "url": "https://www.imdb.com/name/nm0159776/"
+    },
+    {
+      "name": "Gavin Rossdale",
+      "url": "https://www.imdb.com/name/nm0569962/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrews Jenkins",
+      "url": "https://www.imdb.com/name/nm2184596/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrews Jenkins",
+      "url": "https://www.imdb.com/name/nm2184596/"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "What Goes Up",
+  "url": "https://www.imdb.com/tt0832318/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM5Mzg4Njg2OF5BMl5BanBnXkFtZTcwODc1NDE1Mg@@._V1_.jpg",
+  "description": "Set in the mid-80's when a reporter is sent to cover the Challenger Space Shuttle launch only to become mixed up in the lives of some local students.",
+  "datePublished": "2009-05-06",
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "duration": "PT1H55M",
+  "keywords": "suicide,reporter,new hampshire,vomiting,braless teen",
+  "actor": [
+    {
+      "name": "Steve Coogan",
+      "url": "https://www.imdb.com/name/nm0176869/"
+    },
+    {
+      "name": "Hilary Duff",
+      "url": "https://www.imdb.com/name/nm0240381/"
+    },
+    {
+      "name": "Olivia Thirlby",
+      "url": "https://www.imdb.com/name/nm1880888/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jonathan Glatzer",
+      "url": "https://www.imdb.com/name/nm1430258/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jonathan Glatzer",
+      "url": "https://www.imdb.com/name/nm1430258/"
+    },
+    {
+      "name": "Robert C. Lawson",
+      "url": "https://www.imdb.com/name/nm2327047/"
+    }
+  ],
+  "review": {
+    "author": "GoTurtleGo",
+    "dateCreated": "2009-06-17",
+    "inLanguage": "English",
+    "heading": "A good little indie",
+    "reviewBody": "'What Goes Up' written and directed by first timers Jonathan Glatzer and Robert Lawson, is not a perfect film but it is by no means a terrible film either. At current the film has received 145 votes and has a score of 4.8, well that's just ridiculous and in the review below I hope to explain why.\n\nThe Film starts off with much promise, Steve Coogan's acting is superb and the rest of the cast do a very good job too. For the first hour this is a very good film, it's deep, engrossing, and imaginative as it sets up for what seems to be a powerful and emotive story with an interesting array if characters and some brilliant cinematography. I found myself truly captivated, the integration of the Challenger disaster was done very tactfully and we frequently get some wonderful shots from Space that I really liked. However, about an hour in it starts to lose pace followed by a slight loss of direction as the main character, Campbell Babbitt, undergoes a sudden change that really doesn't suit and is poorly developed. The film then goes the same way as Campbell becoming a bit annoying and awkward at times. By the end I found myself feeling a little disappointed as it had thrown almost all the potential it had shown early on, settling of a generic and uninspired end.\n\nAll in all 'What Goes Up' is OK, great in parts whilst boring and unoriginal in others, yet, for all its faults I liked it. It may not be perfect but come on people, even 'Little Nicky' has a 5/10 and trust me this is much, much better than 'Little Nicky'. The first hour and brilliant cinematography ensure that 'What Goes Up' is not a 4.8, it's a film defiantly worth watching and one I would happily recommend.\n\n6/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 1947,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  }
+}

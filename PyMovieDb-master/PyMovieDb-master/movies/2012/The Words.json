@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Words",
+  "url": "https://www.imdb.com/tt1840417/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM2NjgyMjI3OV5BMl5BanBnXkFtZTcwMDkxMjIyOA@@._V1_.jpg",
+  "description": null,
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "datePublished": "2013-04-19",
+  "keywords": "story within a story,writer,book,narrator,parallel story",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Bradley Cooper",
+      "url": "https://www.imdb.com/name/nm0177896/"
+    },
+    {
+      "name": "Dennis Quaid",
+      "url": "https://www.imdb.com/name/nm0000598/"
+    },
+    {
+      "name": "Olivia Wilde",
+      "url": "https://www.imdb.com/name/nm1312575/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brian Klugman",
+      "url": "https://www.imdb.com/name/nm0460206/"
+    },
+    {
+      "name": "Lee Sternthal",
+      "url": "https://www.imdb.com/name/nm1600872/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brian Klugman",
+      "url": "https://www.imdb.com/name/nm0460206/"
+    },
+    {
+      "name": "Lee Sternthal",
+      "url": "https://www.imdb.com/name/nm1600872/"
+    }
+  ],
+  "review": {
+    "author": "rv78",
+    "dateCreated": "2012-09-20",
+    "inLanguage": "English",
+    "heading": "Terrific movie... ignore the naysayers!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 81177,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  }
+}

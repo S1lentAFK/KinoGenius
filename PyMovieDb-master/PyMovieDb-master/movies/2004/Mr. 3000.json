@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Mr. 3000",
+  "url": "https://www.imdb.com/tt0339412/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg5NTk2MTQ0NV5BMl5BanBnXkFtZTcwNjMyNTUyMQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "jon.h.ochiai",
+    "dateCreated": "2004-10-11",
+    "inLanguage": "English",
+    "heading": "Bernie Mac drives one home",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 15054,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2004-09-17",
+  "keywords": "character name as title,nickname as title,nickname,sporting comeback,47 year old",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Bernie Mac",
+      "url": "https://www.imdb.com/name/nm0005170/"
+    },
+    {
+      "name": "Angela Bassett",
+      "url": "https://www.imdb.com/name/nm0000291/"
+    },
+    {
+      "name": "Michael Rispoli",
+      "url": "https://www.imdb.com/name/nm0728346/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Charles Stone III",
+      "url": "https://www.imdb.com/name/nm0831690/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Eric Champnella",
+      "url": "https://www.imdb.com/name/nm0150749/"
+    },
+    {
+      "name": "Keith Mitchell",
+      "url": "https://www.imdb.com/name/nm1044491/"
+    },
+    {
+      "name": "Howard Michael Gould",
+      "url": "https://www.imdb.com/name/nm0332393/"
+    }
+  ]
+}

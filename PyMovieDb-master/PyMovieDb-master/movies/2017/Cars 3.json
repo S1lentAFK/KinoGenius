@@ -1,0 +1,54 @@
+{
+  "type": "Movie",
+  "name": "Cars 3: Cars D'oeuvres",
+  "url": "https://www.imdb.com/tt14008642/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI1MzI2ZGMtMjljZC00OGFiLWI3MjAtZjQ3MmVhMzYyNmI3XkEyXkFqcGdeQXVyMzY3MDEzMTA@._V1_.jpg",
+  "description": "Characters from Pixar's Cars 3 participate in goofy antics.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    
+    "reviewBody": null,
+    "reviewRating": {
+      
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 8,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "TV-G",
+  "genre": [
+    "Animation",
+    "Short",
+    "Comedy"
+  ],
+  "datePublished": "2017-11-07",
+  "keywords": "cgi animation,cg animation",
+  "duration": "PT4M",
+  "actor": [
+    {
+      "name": "Keith Ferguson",
+      "url": "https://www.imdb.com/name/nm1584992/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Ford Murphy",
+      "url": "https://www.imdb.com/name/nm0614330/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Ford Murphy",
+      "url": "https://www.imdb.com/name/nm0614330/"
+    }
+  ]
+}

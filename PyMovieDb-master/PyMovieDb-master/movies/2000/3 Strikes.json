@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "3 Strikes",
+  "url": "https://www.imdb.com/tt0199290/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2FiZTkxNGEtYjc0Zi00NWU2LTgwYTQtZTRkNjg1NTc2NDViXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+  "description": "Rob has 2 strikes and 3 strikes now means 25 to life. Leaving prison, he&apos;s picked up in a stolen car later stopped by the police. Can he prove his innocence before he&apos;s caught?",
+  "review": {
+    "author": "ryangilmer007",
+    "dateCreated": "2000-05-18",
+    "inLanguage": "English",
+    "heading": "Get Out",
+    "reviewBody": "Luckilly this one was viewed for free because man did it ever strike out.\\n\\nThere is nothing new here, the movie is poorly written and has nobody to root for. \\n\\nThere are some funny parts, but they are very few and far between and are all done better in Friday.\\n\\nThe acting is mediocre and does not make the movie a must see. Acting is done much better in Love & Basketball.\\n\\nIn all, one the worst of 2000. While the movie was profitable, the budget was relatively miniscle.\\n\\nStay away from the strikes unless absolutely necessary, it almost asurredly will disappoint.\\n\\nRating: 2\\n\\nViewed: in theatre (Scope)",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 2
+    }
+  },
+  "rating": {
+    "ratingCount": 3666,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.7
+  },
+  "contentRating": "18",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2000-03-01",
+  "keywords": "sex,female rear nudity,nudity,hood,police",
+  "duration": "PT1H22M",
+  "actor": [
+    {
+      "name": "Brian Hooks",
+      "url": "https://www.imdb.com/name/nm0393655/"
+    },
+    {
+      "name": "N&apos;Bushe Wright",
+      "url": "https://www.imdb.com/name/nm0942668/"
+    },
+    {
+      "name": "Faizon Love",
+      "url": "https://www.imdb.com/name/nm0522324/"
+    }
+  ],
+  "director": [
+    {
+      "name": "DJ Pooh",
+      "url": "https://www.imdb.com/name/nm0690770/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "DJ Pooh",
+      "url": "https://www.imdb.com/name/nm0690770/"
+    }
+  ]
+}

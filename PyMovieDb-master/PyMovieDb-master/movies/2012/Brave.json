@@ -1,0 +1,78 @@
+
+
+{
+  "type": "Movie",
+  "name": "Brave",
+  "url": "https://www.imdb.com/tt1217209/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzgwODk3ODA1NF5BMl5BanBnXkFtZTcwNjU3NjQ0Nw@@._V1_.jpg",
+  "description": "Determined to make her own path in life, Princess Merida defies a custom that brings chaos to her kingdom. Granted one wish, Merida must rely on her bravery and her archery skills to undo a beastly curse.",
+  "review": {
+    "author": "lovgrena",
+    "dateCreated": "2012-06-17",
+    "inLanguage": "English",
+    "heading": "A quality change of fate for Pixar",
+    "reviewBody": "Everything about Brave is different from the Pixar norm, save the unequaled attention to detail and quality.\\n\\nThe Disney-Pixar animated feature focuses on Princess Merida as she searches for a way to change her fate. In a journey of magic, adventure and family, the fiery Scot is launched into the ranks of the elite Disney princesses. \\n\\nAs odd and understandably foreign as the accents felt watching the early previews for the movie, the voice acting was executed following, creating very real characters that fit their animated molds perfectly. By the end of the movie, what once sounded foreign blended into the scenery and visuals to create a completely immersing environment.\\n\\nIn fact, amid the magic spells and tall tales of times gone by, it&apos;s the historical, Scottish feeling that made Marida&apos;s journey and transformation (and that of her mother) that much more tangible and familiar.\\n\\nUnderneath the folk-tale storyline lies the same life lessons that ring true for young and old. Though the movie heavily focuses on a mother- daughter relationship, it&apos;s not just for girls anymore than Mulan was. Merida is a true Disney princess, with gumption, heart and an uncanny connection with nature, but the story could have been told from a male perspective and rung just as true, making it easy to empathize with Pixar&apos;s first female lead.\\n\\nAs has been the case with almost every other one of their movies, the company has reinvented the standard for animated visuals. The environments are based on real Scottish landmarks, adding real depth to the story, and the colors are as bright as they are grounded, creating a wonderfully real world. Such visuals lend credence to the upcoming 3D re-release of Finding Nemo, though not much, but also show just how far the studio has come. \\n\\nAll of the elements put together, Brave is a different sort of movie than many were expecting. More focused on a single pair and their quest together, not to mention darker by far, the story of Merida was a leap of faith for the once small studio. \\n\\nMany will have their doubts, left wanting another heart wrenching love story from Up or creative take on a beat to death genre like The Incredibles. That was never the purpose. Just as with every one of their award-winning films (Cars 2 notwithstanding), a new movie means a new chapter, new story and new style of film.\\n\\nTaken for what it is, Brave is a remarkable step into a whole new style of movie, proving the creative teams at Pixar will continue to write their own fate.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 438607,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2012-08-03",
+  "keywords": "princess,archery,female warrior,mother daughter relationship,female protagonist",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Kelly Macdonald",
+      "url": "https://www.imdb.com/name/nm0531808/"
+    },
+    {
+      "name": "Billy Connolly",
+      "url": "https://www.imdb.com/name/nm0175262/"
+    },
+    {
+      "name": "Emma Thompson",
+      "url": "https://www.imdb.com/name/nm0000668/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mark Andrews",
+      "url": "https://www.imdb.com/name/nm0028764/"
+    },
+    {
+      "name": "Brenda Chapman",
+      "url": "https://www.imdb.com/name/nm0152312/"
+    },
+    {
+      "name": "Steve Purcell",
+      "url": "https://www.imdb.com/name/nm0700760/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brenda Chapman",
+      "url": "https://www.imdb.com/name/nm0152312/"
+    },
+    {
+      "name": "Mark Andrews",
+      "url": "https://www.imdb.com/name/nm0028764/"
+    },
+    {
+      "name": "Steve Purcell",
+      "url": "https://www.imdb.com/name/nm0700760/"
+    }
+  ]
+}

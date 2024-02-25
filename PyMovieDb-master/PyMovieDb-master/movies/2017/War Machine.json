@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "War Machine",
+  "url": "https://www.imdb.com/tt4758646/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcyMzgwNDE1M15BMl5BanBnXkFtZTgwMDAzMDM0MjI@._V1_.jpg",
+  "description": "An idiosyncratic general confronts opposition from enemies, allies, and bureaucrats while leading a massive rebuilding operation in Afghanistan.",
+  "review": {
+    "author": "cillianleddy-15839",
+    "dateCreated": "2017-05-26",
+    "inLanguage": "English",
+    "heading": "A very interesting anti-war movie.",
+    "reviewBody": "War Machine is a movie about the absurdity of the war of Afghanistan and the absurdity of American foreign policy in general. Therefore the tone of the film is absurdist to reflect this. Brad Pitt&apos;s portrayal of General McMahon is absurdly over the top and quite deliberately so in order to reflect the general&apos;s absurd actions and attitude, his interactions with the other characters including the politicians are baffling and confusing which again reflects the baffling and incoherent nature of America&apos;s policy towards Afghanistan and the Middle East. How do you wage bloody war and build a nation up at the same time? The two do not go hand in hand.\n\nWar Machine&apos;s exposes just how much of a wild goose chase the battle against the Taliban is, how do you defeat an enemy that are often nothing more than disgruntled locals who have had quite enough of American soldiers bombing civilians homes and killing their children, without committing genocide? The film makers have reflected this by showing the Gen. and his men embarking on a wild goose chase of Europe in a futile attempt to secure more troops to the cause and get some face to face communication with the President of the U.S. The theme is quite clearly wild goose chases galore.\n\nOverall I feel War Machine is an interesting anti-war movie that is much more a dark comedy drama than a clear satire which is what it was wrongly billed as. It isn&apos;t the funniest movie in the world but it has its&apos; laugh out loud moments. Ultimately the mixture of satirical comedy, thought provoking drama, and taut action scenes blend together to tell a story which at it&apos;s essence aims to provoke everyone who watches this movie to ask, what were/are the Americans doing in Afghanistan? 7 out of 10 and some good performances and score.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 49814,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "TV-MA",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "War"
+  ],
+  "datePublished": "2017-05-26",
+  "keywords": "afghanistan,satire,counter insurgency,foreign affairs,civilians at wartime",
+  "duration": "PT2H2M",
+  "actor": [
+    {
+      "name": "Brad Pitt",
+      "url": "https://www.imdb.com/name/nm0000093/"
+    },
+    {
+      "name": "Daniel Betts",
+      "url": "https://www.imdb.com/name/nm0079418/"
+    },
+    {
+      "name": "John Magaro",
+      "url": "https://www.imdb.com/name/nm1910274/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Michôd",
+      "url": "https://www.imdb.com/name/nm2391575/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Hastings",
+      "url": "https://www.imdb.com/name/nm0368606/"
+    },
+    {
+      "name": "David Michôd",
+      "url": "https://www.imdb.com/name/nm2391575/"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Swing Vote",
+  "url": "https://www.imdb.com/tt1027862/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAwMTQyNzkwNV5BMl5BanBnXkFtZTcwNTgyMzE3MQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Platypuschow",
+    "dateCreated": "2018-04-29",
+    "inLanguage": "English",
+    "heading": "Swing Vote: Really?",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 19336,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2008-09-26",
+  "keywords": "awakened by one's daughter, father daughter relationship, presidential candidate, election returns, election coverage",
+  "duration": "PT2H",
+  "actor": [
+    {
+      "name": "Kevin Costner",
+      "url": "https://www.imdb.com/name/nm0000126/"
+    },
+    {
+      "name": "Paula Patton",
+      "url": "https://www.imdb.com/name/nm1745736/"
+    },
+    {
+      "name": "Kelsey Grammer",
+      "url": "https://www.imdb.com/name/nm0001288/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joshua Michael Stern",
+      "url": "https://www.imdb.com/name/nm0827750/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jason Richman",
+      "url": "https://www.imdb.com/name/nm0725034/"
+    },
+    {
+      "name": "Joshua Michael Stern",
+      "url": "https://www.imdb.com/name/nm0827750/"
+    },
+    {
+      "name": "David Giammarco",
+      "url": "https://www.imdb.com/name/nm1250389/"
+    }
+  ]
+}

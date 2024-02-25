@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Ondine",
+  "url": "https://www.imdb.com/tt1235796/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg0NDAxNjA4OV5BMl5BanBnXkFtZTcwODc1MjAyMw@@._V1_.jpg",
+  "description": "An Irish fisherman discovers a woman in his fishing net whom his precocious daughter believes to be a selkie.",
+  "review": {
+    "author": "JB1865",
+    "dateCreated": "2010-06-20",
+    "inLanguage": "English",
+    "heading": "A Touching and Unique Fantasy/Drama.",
+    "reviewBody": "An unsuccessful fisherman named Syracuse is shocked when he pulls up a strange women in his fishing nets. She can&apos;t explain who she is or how she got in the water, but she doesn&apos;t want anyone besides Syracuse to see her. Syracuse must attempt to unravel the mystery or who or what she really is while trying to patch up his relationship with his ex-wife and take care of his sickly daughter. \n\nOndine possesses a style all it&apos;s own. It successfully blurs the line between fantasy and reality until the audience doesn&apos;t really know where one ends and the other begins. But, at it&apos;s heart Ondine is really about relationships and finding hope in desperate situations.\n\nYou truly care about all the characters and this is achieved by excellent performances from all the leads. Especially Alison Barry who is an amazing child actress and absolutely inspired as Annie, Syracuse&apos;s ailing daughter. Annie is convinced that Ondine is a Selke and revels in living in a fantasy that is much easier than her own life. The chemistry between Colin Farrell and Alicja Bachleda is another high point. \n\nOndine is not without it&apos;s flaws though. At points the drama can seem forced and it was starting to lose me towards the end. The ending is a little crazy as well, but that is fairly easy to forgive when considering all that works in the movie.\n\nOndine is an extremely heartfelt story and deserves a lot of praise for originality alone. I believe it is certainly worth watching at least once and hopefully it will get the attention it deserves.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 22536,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "datePublished": "2010-03-05",
+  "keywords": "female feet,nudity,celtic mythology,character name as title,reference to sherlock holmes",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Colin Farrell",
+      "url": "https://www.imdb.com/name/nm0268199/"
+    },
+    {
+      "name": "Alicja Bachleda",
+      "url": "https://www.imdb.com/name/nm0045461/"
+    },
+    {
+      "name": "Dervla Kirwan",
+      "url": "https://www.imdb.com/name/nm0457062/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Neil Jordan",
+      "url": "https://www.imdb.com/name/nm0001403/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Neil Jordan",
+      "url": "https://www.imdb.com/name/nm0001403/"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Devil Inside",
+  "url": "https://www.imdb.com/tt1560985/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjJjYWFmOGQtNjNhNi00ODhmLWIzNGItMDYwNWM3NGE5ZTMyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "IheartCali5882",
+    "dateCreated": "2012-01-11",
+    "inLanguage": "English",
+    "heading": "Would be a pretty solid movie...if it were finished",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 37334,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror"
+  ],
+  "datePublished": "2012-03-16",
+  "keywords": "found footage,exorcism,exorcist,demonic possession,no ending",
+  "duration": "PT1H23M",
+  "actor": [
+    {
+      "name": "Fernanda Andrade",
+      "url": "https://www.imdb.com/name/nm1223326/"
+    },
+    {
+      "name": "Simon Quarterman",
+      "url": "https://www.imdb.com/name/nm0702945/"
+    },
+    {
+      "name": "Evan Helmuth",
+      "url": "https://www.imdb.com/name/nm1069312/"
+    }
+  ],
+  "director": [
+    {
+      "name": "William Brent Bell",
+      "url": "https://www.imdb.com/name/nm0068587/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William Brent Bell",
+      "url": "https://www.imdb.com/name/nm0068587/"
+    },
+    {
+      "name": "Matthew Peterman",
+      "url": "https://www.imdb.com/name/nm1834343/"
+    }
+  ]
+}

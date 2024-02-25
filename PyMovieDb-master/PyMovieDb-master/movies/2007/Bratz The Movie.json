@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Bratz: Babyz the Movie",
+  "url": "https://www.imdb.com/tt0860833/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM1NDg3NzA5N15BMl5BanBnXkFtZTcwNjQ0ODc4Mw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Def_not_ella",
+    "dateCreated": "2024-01-02",
+    "inLanguage": "English",
+    "heading": "A TRUE work of art",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 430,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.9
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2006-09-12",
+  "keywords": "mall,female protagonist,baby,bully",
+  "duration": "PT1H6M",
+  "actor": [
+    {
+      "name": "Ashleigh Ball",
+      "url": "https://www.imdb.com/name/nm1868320/"
+    },
+    {
+      "name": "Kathleen Barr",
+      "url": "https://www.imdb.com/name/nm0056532/"
+    },
+    {
+      "name": "Lisa Ann Beley",
+      "url": "https://www.imdb.com/name/nm0067754/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Davis Doi",
+      "url": "https://www.imdb.com/name/nm0230669/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Doolittle",
+      "url": "https://www.imdb.com/name/nm2271776/"
+    }
+  ]
+}

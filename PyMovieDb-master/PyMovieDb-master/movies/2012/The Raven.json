@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Raven",
+  "url": "https://www.imdb.com/tt1486192/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTU4OGY5MjYtNTg5Zi00NGEyLTlhYTgtMTU3NzBmYmMzYWU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": "When a madman begins committing horrific murders inspired by Edgar Allan Poe&apos;s works, a young Baltimore detective joins forces with Poe to stop him from making his stories a reality.",
+  "review": {
+    "author": "siderite",
+    "dateCreated": "2012-08-14",
+    "inLanguage": "English",
+    "heading": "Dark and atmospheric police case... with Poe.",
+    "reviewBody": "I really wanted to like this film, I really did. Something was off, though. Was it the script? Perhaps, although I can&apos;t find a clear fault in it. Some of the sophistication of the crimes and of the investigative methods were clearly out of the era, but overall it was OK. The production values were good, the direction was good, the acting was good. The atmosphere was dark and claustrophobic as in Poe&apos;s writing. Yet, I didn&apos;t quite find the enjoyment I was looking for.\\n\\nThe only thing I can think off was John Cusack. He and Alice Eve had no chemistry (and how can you not have it with Alice Eve?!) and the thing I had most trouble believing were not the way the criminal always barely escapes, not the story or the era or the feel of the movie, but that Cusack&apos;s character had any feelings at all. He seemed apathetic and occasionally angry. That was it. And that made the film, a good film overall, not be better than average.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 88092,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2012-03-09",
+  "keywords": "mystery killer,murder of a police officer,psychotronic film,character repeats someone else&apos;s dialogue,voice over narration",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "John Cusack",
+      "url": "https://www.imdb.com/name/nm0000131/"
+    },
+    {
+      "name": "Alice Eve",
+      "url": "https://www.imdb.com/name/nm1404408/"
+    },
+    {
+      "name": "Luke Evans",
+      "url": "https://www.imdb.com/name/nm1812656/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James McTeigue",
+      "url": "https://www.imdb.com/name/nm0574625/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Hannah Shakespeare",
+      "url": "https://www.imdb.com/name/nm1110844/"
+    },
+    {
+      "name": "Ben Livingston",
+      "url": "https://www.imdb.com/name/nm0515226/"
+    }
+  ]
+}

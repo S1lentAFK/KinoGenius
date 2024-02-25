@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Step Up",
+  "url": "https://www.imdb.com/tt0462590/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODEzMzVhODgtOTc1NS00MmY3LWI3OGUtN2ZjNDEwM2ExZjJlXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+  "description": "Tyler Gage receives the opportunity of a lifetime after vandalizing a performing arts school, gaining him the chance to earn a scholarship and dance with an up and coming dancer, Nora.",
+  "review": {
+    "author": "harry_tk_yung",
+    "dateCreated": "2006-11-12",
+    "inLanguage": "English",
+    "heading": "Love the dance (and music), forget the story",
+    "reviewBody": "You've seen it all - feel-good story of deprived, delinquent kid finding the meaning of life, dedicated effort culminating in an upbeat dance finale, rich-girl-poor-guy routine, and a whole bunch of familiar situations. But, if the dance and music are good, you'll tend to forget the improbable, unlikely, illogical, contrived story and plot. Given the lame script, top choreographer Anne Fletcher's first crack at directing didn't come off too badly, partly because of the wise use of very short scenes. As to the dance routines, with her credentials, you wouldn't expect anything less than good, and the movie does deliver in that department. The stimulating fusion of hip hop and ballet is well synchronized with fusion in the music. While the attention would obviously be on the showcase number that the protagonists are developing, I also like one particular scene at a gig, when the two sidekicks sing on stage while the two leads do their thing on the dance floor. This scene has the beauty of exciting spontaneity not seen elsewhere in the movie.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 126089,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2006-10-27",
+  "keywords": "title directed by female,dance school,dance movie,dancing,dance music",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Channing Tatum",
+      "url": "https://www.imdb.com/name/nm1475594/"
+    },
+    {
+      "name": "Jenna Dewan",
+      "url": "https://www.imdb.com/name/nm1564087/"
+    },
+    {
+      "name": "Damaine Radcliff",
+      "url": "https://www.imdb.com/name/nm1690482/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Anne Fletcher",
+      "url": "https://www.imdb.com/name/nm0281945/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Duane Adler",
+      "url": "https://www.imdb.com/name/nm0012137/"
+    },
+    {
+      "name": "Melissa Rosenberg",
+      "url": "https://www.imdb.com/name/nm0742279/"
+    }
+  ]
+}

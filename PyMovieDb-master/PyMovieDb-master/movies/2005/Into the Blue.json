@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Into the Blue",
+  "url": "https://www.imdb.com/tt0378109/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmVlM2FhODYtOWFhZi00YmE5LWIwNWUtZDMxNTlkNDgxNTA0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A group of divers find themselves in deep trouble with a drug lord after they come upon the illicit cargo of a sunken airplane.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "datePublished": "2005-10-21",
+  "duration": "PT1H50M",
+  "contentRating": "15",
+  "keywords": "cocaine,bahamas,shark,scuba diving,bar fight",
+  "rating": {
+    "ratingCount": 79218,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "review": {
+    "author": "TOMASBBloodhound",
+    "dateCreated": "2006-01-18",
+    "inLanguage": "English",
+    "heading": "Now that's what I call marine biology!",
+    "reviewBody": "You almost feel like Rodney Dangerfield from Back to School after watching this movie. The film has some neat underwater photography, some good stunts, and even a twist or two. But ultimately, it's just as excuse to show off some young flesh. Is that entirely a bad thing? The Hound thinks not. A good dosage of Jessica Alba flesh can warm you up on the coldest winter day.\\n\\nInto the Blue is directed by John Stockwell. Yes, the guy who played Cougar in Top Gun. One may dislike the content of the films he's made thus far in his early directing career (Blue Crush, Crazy/Beautiful), but one cannot deny the fact that the man knows how to shoot young women's bodies. Since there are only two female main characters, that means there are also plenty of young men for the women to feast their eyes on. Paul Walker kind of has the Justin Timberlake thing going on. Seeing him and Tyson Beckford really makes me feel out of shape now that the holidays are over.\\n\\nOh, the plot! I almost forgot. It's basically a re-hash of The Deep. We have young treasure hunters in the Caribbean who find not only a sunken ship carrying gold, but a recently crashed plane full of cocaine on the ocean floor. Naturally, the drug dealer of record in the area wants the coke for himself, and doesn't want anyone getting in the way by searching for treasure near by. The resulting action has numerous gun battles, shark attacks, kidnappings, and acts of machismo. The film is a little long, but the conclusion is worth sticking around for.\\n\\nThis film is not to be confused with anything up for an Academy Award this year. It was filmed nearly a year and a half before it was released for reasons I would not dare to speculate on. It did make $18 million bucks in the theaters, but any long-lasting success this film has will depend on if any of these stars goes on to have a long career. There is an extraordinary amount of violence and gore for a PG-13 film. An F-bomb or two here and there, would have certainly given it an R. The acting is pretty sparse. The scenes above water look rushed, and possibly printed on the first or second take. The scenes below water are very impressive, however.\\n\\nThe verdict: 5 of 10 stars. This is a popcorn flick with some decent production values, and a hot young cast. Not much else. Too many bad guys, and a plot that doesn't know when to resolve itself. Here's a little game if you get bored with the movie... see if you can hold your breath as long as these people do in some of these scenes. Some of the time it seems like they go several minutes without breathing.\\n\\nThe Hound.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "actor": [
+    {
+      "name": "Paul Walker",
+      "url": "https://www.imdb.com/name/nm0908094/"
+    },
+    {
+      "name": "Jessica Alba",
+      "url": "https://www.imdb.com/name/nm0004695/"
+    },
+    {
+      "name": "Scott Caan",
+      "url": "https://www.imdb.com/name/nm0004790/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Stockwell",
+      "url": "https://www.imdb.com/name/nm0007082/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Matt Johnson",
+      "url": "https://www.imdb.com/name/nm0425780/"
+    }
+  ]
+}

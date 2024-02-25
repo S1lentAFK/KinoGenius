@@ -1,0 +1,46 @@
+{
+  "type": "Movie",
+  "name": "The Beguiled: The Storyteller",
+  "url": "https://www.imdb.com/tt0479222/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzA5OWU4MDUtYzY1NC00MzAwLWE0YWItYmM1YmQ1YjMzMDUzXkEyXkFqcGdeQXVyMDk1MzUyNQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 133,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": null,
+  "genre": [
+    "Documentary",
+    "Short"
+  ],
+  "datePublished": "2000-09-01",
+  "keywords": null,
+  "duration": "PT12M",
+  "actor": [
+    {
+      "name": "Don Siegel",
+      "url": "https://www.imdb.com/name/nm0796923/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Clint Eastwood",
+      "url": "https://www.imdb.com/name/nm0000142/"
+    }
+  ],
+  "creator": []
+}

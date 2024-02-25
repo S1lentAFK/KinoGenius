@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "The Infidel",
+  "url": "https://www.imdb.com/tt1424003/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE3MjE1NjgxN15BMl5BanBnXkFtZTcwMzU0MDI0NA@@._V1_.jpg",
+  "description": "An identity crisis comedy centred on Mahmud Nasir, successful business owner, and salt of the earth East End Muslim who discovers that he&apos;s adopted - and Jewish.",
+  "review": {
+    "author": "golloglym",
+    "dateCreated": "2010-09-04",
+    "inLanguage": "English",
+    "heading": "Excellent story, intelligent and sensitive acting, and absolutely hilarious",
+    "reviewBody": "I rented The Infidel about 3 hours ago on pay-per-view being expecting a good but misfiring comedy about Jews and Muslims with some fairly obvious humour. However the as ever excellent Omid Jahlili (apologies for any misspellings), and Richard Schiff were the &apos;odd couple&apos; of this really charming and heart-felt tale which was at times heart-stoppingly funny largely because of the deadpan delivery and wry observational comedy of the two principles. Richard Schiff teachng Omid to say &apos;oy&apos; before moving on to &apos;vey&apos; was so funny, but the real heart of the film was the telling of how fragile the racism of religion is and how based it is on misunderstanding, grandstanding, ego and attempting to &apos;secure the place in one&apos;s own community&apos;. If it has a message it&apos;s that everyone is prey to their own culture&apos;s prejudices even when those prejudices are based on sometimes almost commicaly absurd rubbish,. A true classic. And a perfect selection of leading men.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 6949,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2010-06-04",
+  "keywords": "cell phone video,cell phone,business,jewish,muslim",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Omid Djalili",
+      "url": "https://www.imdb.com/name/nm0229084/"
+    },
+    {
+      "name": "Richard Schiff",
+      "url": "https://www.imdb.com/name/nm0771493/"
+    },
+    {
+      "name": "Archie Panjabi",
+      "url": "https://www.imdb.com/name/nm0659544/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Josh Appignanesi",
+      "url": "https://www.imdb.com/name/nm1893855/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Baddiel",
+      "url": "https://www.imdb.com/name/nm0045974/"
+    }
+  ]
+}

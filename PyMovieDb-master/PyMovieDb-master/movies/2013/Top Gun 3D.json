@@ -1,0 +1,75 @@
+
+
+{
+  "type": "Movie",
+  "name": "Top Gun: Maverick",
+  "url": "https://www.imdb.com/tt1745960/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU.jpg",
+  "description": null,
+  "review": {
+    "author": "r96sk",
+    "dateCreated": "2022-05-25",
+    "inLanguage": "English",
+    "heading": "What an excellent sequel",
+    "reviewBody": "What an excellent sequel - I, in fact, like it more than its predecessor.\\n\\n&apos;Top Gun: Maverick&apos; is fantastic, simply put. I was expecting it to be good, but it&apos;s actually much more enjoyable than I had anticipated. The callbacks to the original are expertly done, the new characters are strong/well cast, it has plenty of meaning, music is fab and the action is outstanding - the aerial stuff is sensational.\\n\\nThe story is superb, with each high stake coming across as intended - parts even gave me slight goosebumps, which is a surprise given I&apos;m not someone who has a connection to the 1986 film. It&apos;s all super neatly put together, I honestly came close to giving it a higher rating.\\n\\nTom Cruise is brilliant as he reprises the role of Maverick, while Miles Teller comes in and gives a top performance. Jennifer Connelly is another positive, though her role does kinda feel a tiny bit forced in order to have a love interest; given Kelly McGillis&apos; (unexplained) absence.\\n\\nMonica Barbaro stands out most from the fresh faces, though I actually did enjoy watching them all - which is something I thought the film may struggle with, adding new people, but it&apos;s done nicely; sure Jon Hamm and Glen Powell are a little clich\\u00e9, though overall I approve.\\n\\nA great watch - I&apos;d highly recommend it, though naturally would suggest watching the previous film first if you haven&apos;t already.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 676286,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Drama"
+  ],
+  "datePublished": "2022-05-27",
+  "keywords": [
+    "fighter jet",
+    "aircraft carrier",
+    "dogfight",
+    "sequel",
+    "naval aviation"
+  ],
+  "duration": "PT2H10M",
+  "actor": [
+    {
+      "name": "Tom Cruise",
+      "url": "https://www.imdb.com/name/nm0000129/"
+    },
+    {
+      "name": "Jennifer Connelly",
+      "url": "https://www.imdb.com/name/nm0000124/"
+    },
+    {
+      "name": "Miles Teller",
+      "url": "https://www.imdb.com/name/nm1886602/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joseph Kosinski",
+      "url": "https://www.imdb.com/name/nm2676052/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jim Cash",
+      "url": "https://www.imdb.com/name/nm0143596/"
+    },
+    {
+      "name": "Jack Epps Jr.",
+      "url": "https://www.imdb.com/name/nm0258390/"
+    },
+    {
+      "name": "Peter Craig",
+      "url": "https://www.imdb.com/name/nm0185976/"
+    }
+  ]
+}

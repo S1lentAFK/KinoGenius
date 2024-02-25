@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Sing",
+  "url": "https://www.imdb.com/tt3470600/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYzODYzODU2Ml5BMl5BanBnXkFtZTgwNTc1MTA2NzE@._V1_.jpg",
+  "description": "In a city of humanoid animals, a hustling theater impresario&apos;s attempt to save his theater with a singing competition becomes grander than he anticipates even as its finalists find that their lives will never be the same.",
+  "review": {
+    "author": "ashleydesern",
+    "dateCreated": "2016-12-22",
+    "inLanguage": "English",
+    "heading": "Sing",
+    "reviewBody": "I went into this movie not expecting very much. I had recently seen Zootopia and Pets, both animated movies set in worlds full of solely animals, and had similar expectations. Sing, however, had much more of a plot than I had expected. The animals go through some real issues and struggles faced by people who own small businesses or businesses related to fine arts. This is a good movie to take the kids to as it is animated, full of songs, and family friendly in its humor. The outstanding cast full of big names in the must industry makes the movie more inviting to parents as well. Overall, this movie was worth the watch.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 189140,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2017-01-27",
+  "keywords": "singing,jukebox musical,furry,singing contest,anthropomorphic animal",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "Matthew McConaughey",
+      "url": "https://www.imdb.com/name/nm0000190/"
+    },
+    {
+      "name": "Reese Witherspoon",
+      "url": "https://www.imdb.com/name/nm0000702/"
+    },
+    {
+      "name": "Seth MacFarlane",
+      "url": "https://www.imdb.com/name/nm0532235/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Garth Jennings",
+      "url": "https://www.imdb.com/name/nm1134029/"
+    },
+    {
+      "name": "Christophe Lourdelet",
+      "url": "https://www.imdb.com/name/nm2888554/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Garth Jennings",
+      "url": "https://www.imdb.com/name/nm1134029/"
+    }
+  ]
+}

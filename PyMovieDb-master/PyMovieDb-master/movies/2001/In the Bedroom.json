@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "In the Bedroom",
+  "url": "https://www.imdb.com/tt0247425/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzQ3ZjhlMWItNGRmNS00OWQzLWJhYjEtMjA3NWIxNmZhNTFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A New England couple's college-aged son dates an older woman who has two small children and an unwelcome ex-husband.",
+  "review": {
+    "author": "poetellect",
+    "dateCreated": "2001-05-09",
+    "inLanguage": "English",
+    "heading": "wow...pay attention for Sissy Spacek's name at this year's Oscars...",
+    "reviewBody": "So simple. So honest. So heartbreaking. I dare you to see this movie and not go through a self-invasive, heartfelt understanding for the familial and emotional conflicts these characters go through. one of the best films shown at Sundance, hands down. Not a movie for the emotionally squeamish...brutally powerful... Violent, excruciating truth and beauty...the raw emotional power imbued into the scenes with Wilkinson and Spacek are Oscar-worthy. Marisa Tomei finally gets a role worthy of her talent since My Cousin Vinny. Utterly unforgettable, and a slam-dunk certainty for some kind of oscar, whether screenplay, acting, or directorial.\\n\\nWow.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 42219,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2002-01-25",
+  "keywords": "grieving family,lobstering,woods,revenge murder,divorce",
+  "duration": "PT2H11M",
+  "actor": [
+    {
+      "name": "Tom Wilkinson",
+      "url": "https://www.imdb.com/name/nm0929489/"
+    },
+    {
+      "name": "Sissy Spacek",
+      "url": "https://www.imdb.com/name/nm0000651/"
+    },
+    {
+      "name": "Nick Stahl",
+      "url": "https://www.imdb.com/name/nm0001763/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Todd Field",
+      "url": "https://www.imdb.com/name/nm0276062/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andre Dubus",
+      "url": "https://www.imdb.com/name/nm0239653/"
+    },
+    {
+      "name": "Robert Festinger",
+      "url": "https://www.imdb.com/name/nm0275284/"
+    },
+    {
+      "name": "Todd Field",
+      "url": "https://www.imdb.com/name/nm0276062/"
+    }
+  ]
+}

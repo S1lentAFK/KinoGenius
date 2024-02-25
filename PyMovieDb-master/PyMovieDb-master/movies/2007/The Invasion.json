@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Invasion",
+  "url": "https://www.imdb.com/tt0427392/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1NzM0NjI4M15BMl5BanBnXkFtZTcwOTg2NjUzMw@@._V1_.jpg",
+  "description": "As a Washington, D.C. psychiatrist unearths the origin of an alien epidemic, she also discovers her son might be the only way it can be stopped.",
+  "review": {
+    "author": "Chrysanthepop",
+    "dateCreated": "2009-02-08",
+    "inLanguage": "English",
+    "heading": "Kidman Alone Brings The Movie From Below Mediocre To Above",
+    "reviewBody": "'The Invasion' is by no means a perfect film but I enjoyed it. Part of the reason is due to the company I was surrounded with (my family loves these kind of movies). It is very much a typical Hollywood sci-fi horror that 'pretends' to deal with themes like overuse of antidepressants and the desire for a 'perfect' world where all humans live in harmony blah blah blah. With such films one can almost always expect plot holes and overdone stunts and 'The Invasion' is no different. But, it does manage to create an intense alien atmosphere. The use of washed out colours to portray New York is well done and the camera-work is good. Nicole Kidman is superb. I don't understand all this criticism against her and accusations of her being a wooden actress. In my humble opinion, she is one of the finest actresses who even manages to lift a film like 'The Invasion'. In addition she looks absolutely stunning and healthy. I prefer this look than the extremely skinny look. Daniel Craig and Jeremy Northam are alright, though clearly overshadowed by Kidman. Thus to conclude, Nicole Kidman alone brings the movie from below mediocre to above average.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 82218,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "datePublished": "2007-10-12",
+  "keywords": "emotionlessness,psychiatrist,alien,alien invasion,based on novel",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Nicole Kidman",
+      "url": "https://www.imdb.com/name/nm0000173/"
+    },
+    {
+      "name": "Daniel Craig",
+      "url": "https://www.imdb.com/name/nm0185819/"
+    },
+    {
+      "name": "Jeremy Northam",
+      "url": "https://www.imdb.com/name/nm0000562/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Oliver Hirschbiegel",
+      "url": "https://www.imdb.com/name/nm0386570/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Kajganich",
+      "url": "https://www.imdb.com/name/nm1738734/"
+    },
+    {
+      "name": "Jack Finney",
+      "url": "https://www.imdb.com/name/nm0278277/"
+    }
+  ]
+}

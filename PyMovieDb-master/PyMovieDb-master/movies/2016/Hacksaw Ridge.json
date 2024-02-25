@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hacksaw Ridge",
+  "url": "https://www.imdb.com/tt2119532/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_.jpg",
+  "description": "World War II American Army Medic Desmond T. Doss, serving during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2017-01-26",
+  "keywords": "world war two,conscientious objector,soldier,medic,1940s",
+  "duration": "PT2H19M",
+  "actor": [
+    {
+      "name": "Andrew Garfield",
+      "url": "https://www.imdb.com/name/nm1940449/"
+    },
+    {
+      "name": "Sam Worthington",
+      "url": "https://www.imdb.com/name/nm0941777/"
+    },
+    {
+      "name": "Luke Bracey",
+      "url": "https://www.imdb.com/name/nm3478396/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mel Gibson",
+      "url": "https://www.imdb.com/name/nm0000154/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Schenkkan",
+      "url": "https://www.imdb.com/name/nm0770938/"
+    },
+    {
+      "name": "Andrew Knight",
+      "url": "https://www.imdb.com/name/nm0460795/"
+    }
+  ],
+  "review": {
+    "author": "Vladimir-14",
+    "dateCreated": "2016-11-02",
+    "inLanguage": "English",
+    "heading": "Saviour Private Doss",
+    "reviewBody": "Just watched this movie at the pre-screening and feel like I owe it to the creators to write a review. Having read other reviews, it is hard to stay original, so first are few thoughts that I shared with the others. Great to have Mel Gibson back in the directors seat. I will be surprised if we don't see this film in a few Oscars categories. Now, few thoughts of my own. The movie depicts brutality of war in gory details, so much so, that I had to turn my eyes away from screen couple of times. However, I do understand why this was important to the story line. It was done so that we could truly appreciate Doss's act of bravery, feel it like we were there and witnessed it firsthand - nothing was left out. The story grabs you from beginning and does not let you off until very end - after the movie I turned back and half of the girls in the theater were still wiping tears. Bottom line - instant classic that will find it's place on the shelf next to the likes of Saving Private Ryan and Band of Brothers.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 586029,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.1
+  }
+}

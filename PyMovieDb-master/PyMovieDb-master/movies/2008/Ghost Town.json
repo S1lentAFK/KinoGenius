@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Ghost Town",
+  "url": "https://www.imdb.com/tt0995039/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQyODQ4MzYxN15BMl5BanBnXkFtZTcwOTQ1MDczMw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "evanston_dad",
+    "dateCreated": "2008-09-29",
+    "inLanguage": "English",
+    "heading": "Ricky Gervais Sees Dead People",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 77609,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "datePublished": "2008-10-24",
+  "keywords": "slipping and falling,dog walking,new york city,slimehouse,autumn",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Ricky Gervais",
+      "url": "https://www.imdb.com/name/nm0315041/"
+    },
+    {
+      "name": "Greg Kinnear",
+      "url": "https://www.imdb.com/name/nm0001427/"
+    },
+    {
+      "name": "T\u00e9a Leoni",
+      "url": "https://www.imdb.com/name/nm0000495/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Koepp",
+      "url": "https://www.imdb.com/name/nm0462895/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Koepp",
+      "url": "https://www.imdb.com/name/nm0462895/"
+    },
+    {
+      "name": "John Kamps",
+      "url": "https://www.imdb.com/name/nm0436960/"
+    }
+  ]
+}

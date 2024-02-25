@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Lord of War",
+  "url": "https://www.imdb.com/tt0399295/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYzZWE3MDAtZjZkMi00MzhlLTlhZDUtNmI2Zjg3OWVlZWI0XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+  "description": "An arms dealer confronts the morality of his work as he is being chased by an INTERPOL Agent.",
+  "review": {
+    "author": "OriginalMovieBuff21",
+    "dateCreated": "2006-02-14",
+    "inLanguage": "English",
+    "heading": "Interesting film by a new starter, Andrew Niccol",
+    "reviewBody": "Lord of War is about an arms dealer named Yuri Orlov who confronts the morality of his work while being chased by an Interpol agent. This is a very interesting film brought by director and writer of the film, Andrew Niccol (Gattaca). This is another great film of his that will boost up his career even more. Nicolas Cage puts up another great performance of the year and although his acting is very ostentatious, his narrating just like in The Weather Man, which came out a couple months later, is perfect. The dialogue is very good and the script couldn't be any better. Most of all, I clearly gave respect to Andrew Niccol, because honestly, he deserves the most credit out of any one who worked on the film. My hat goes off for him. Overall, great film of 2005 and I'll be paying more attention to Andrew Niccol's movies. I highly recommend it.\\n\\nHedeen's Outlook: 8.5/10 ***+ B+",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 334699,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2005-10-14",
+  "keywords": "arms dealer,gunrunner,prostitution,drug addiction,rehab",
+  "duration": "PT2H2M",
+  "actor": [
+    {
+      "name": "Nicolas Cage",
+      "url": "https://www.imdb.com/name/nm0000115/"
+    },
+    {
+      "name": "Ethan Hawke",
+      "url": "https://www.imdb.com/name/nm0000160/"
+    },
+    {
+      "name": "Jared Leto",
+      "url": "https://www.imdb.com/name/nm0001467/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrew Niccol",
+      "url": "https://www.imdb.com/name/nm0629272/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Niccol",
+      "url": "https://www.imdb.com/name/nm0629272/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Family Stone",
+  "url": "https://www.imdb.com/tt0356680/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGM1MmRlMzItZjNmMi00NDNlLTgxYjktMzE0OWJmYTk2YTgxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": "An uptight, liberal businesswoman accompanies her boyfriend to his eccentric and outgoing family's annual Christmas celebration and finds that she's a fish out of water in their free-spirited way of life.",
+  "review": {
+    "author": "RustyDD788",
+    "dateCreated": "2006-01-27",
+    "inLanguage": "English",
+    "heading": "Preview Misleading",
+    "reviewBody": "Having seen the previews on a number of occasions I went to see this film because I was in the mood for a comedy. I guess the preview were all of the funny scenes. However, this turned out to be one of the most touching and sensitive movies I have seen in quite some time. The family stone could be almost anyones family and especially mine. The funny scenes were truly that, funny and very believable, one liners you wish you had said. The acting was first rate, I most enjoyed Diane Keaton and Craig Nelson. The movie moves along well with no dead time and while it is predicable in its storyline with no big surprises it is a very enjoyable way to spend a couple of hours. You get your moneys worth.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 74911,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2005-12-16",
+  "keywords": "christmas,family relationships,falling in love,friendship,secret",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Dermot Mulroney",
+      "url": "https://www.imdb.com/name/nm0000551/"
+    },
+    {
+      "name": "Sarah Jessica Parker",
+      "url": "https://www.imdb.com/name/nm0000572/"
+    },
+    {
+      "name": "Claire Danes",
+      "url": "https://www.imdb.com/name/nm0000132/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Thomas Bezucha",
+      "url": "https://www.imdb.com/name/nm0080120/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Thomas Bezucha",
+      "url": "https://www.imdb.com/name/nm0080120/"
+    }
+  ]
+}

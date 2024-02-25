@@ -1,0 +1,46 @@
+{
+  "type": "Movie",
+  "name": "Sweetgrass",
+  "url": "https://www.imdb.com/tt1517252/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc0NDYyMDY1OF5BMl5BanBnXkFtZTcwOTI4MzExMw@@._V1_.jpg",
+  "description": "In the summer of 2003, a group of shepherds took a herd of sheep one final time through the Beartooth Mountains of Montana, in the extreme north-west of the United States. It was a journey of almost three hundred kilometres throug...",
+  "review": {
+    "author": "cjlay021",
+    "dateCreated": "2010-08-07",
+    "inLanguage": "English",
+    "heading": "Slice of a vanishing way of life",
+    "reviewBody": "Have disagree with the reviewer who said this was not an accurate portrayal of sheep and shepherds. There are different management practices and this movie depicted one of them. These folks shear in late winter and lamb in the spring. Shearing before lambing is done for several reasons--less moisture in the barn from long, wet wool; easier for the lambs to find the udder when it isn&apos;t buried in wool. In my experience with sheep, I&apos;ve found that ewes definitely find their lambs both by sound and by smell. That&apos;s why they are put in small pens, called jugs, for a day or so after lambing so that they can bond and learn to recognize each other&apos;s unique sound and smell. That&apos;s why the ewes will reject any lamb that doesn&apos;t smell or sound like their own. I thought the movie was beautifully filmed and accurately showed the hard and sometimes frustrating work that goes into managing a large range flock.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 1097,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "Unrated",
+  "genre": [
+    "Documentary",
+    "Adventure",
+    "Western"
+  ],
+  "datePublished": "2011-04-22",
+  "keywords": "snow adventure,mountain,shepherd,sheep,snow",
+  "duration": "PT1H41M",
+  "actor": [],
+  "director": [
+    {
+      "name": "Ilisa Barbash",
+      "url": "https://www.imdb.com/name/nm3625974/"
+    },
+    {
+      "name": "Lucien Castaing-Taylor",
+      "url": "https://www.imdb.com/name/nm3626583/"
+    }
+  ],
+  "creator": []
+}

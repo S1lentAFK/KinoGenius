@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Godzilla x Kong: The New Empire",
+  "url": "https://www.imdb.com/tt14539740/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjVlMWUxZDctMWI2NS00MTcyLTgxNjktOWI3MjQ5N2NmOGIyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+  "description": "Two ancient titans, Godzilla and Kong, clash in an epic battle as humans unravel their intertwined origins and connection to Skull Island's mysteries.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2024-03-29",
+  "keywords": "godzilla,kaiju,monsterverse,king kong character,sequel",
+  "duration": null,
+  "actor": [
+    {
+      "name": "Rebecca Hall",
+      "url": "https://www.imdb.com/name/nm0356017/"
+    },
+    {
+      "name": "Dan Stevens",
+      "url": "https://www.imdb.com/name/nm1405398/"
+    },
+    {
+      "name": "Rachel House",
+      "url": "https://www.imdb.com/name/nm1344302/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Adam Wingard",
+      "url": "https://www.imdb.com/name/nm1417392/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Terry Rossio",
+      "url": "https://www.imdb.com/name/nm0744429/"
+    },
+    {
+      "name": "Simon Barrett",
+      "url": "https://www.imdb.com/name/nm1440023/"
+    },
+    {
+      "name": "Jeremy Slater",
+      "url": "https://www.imdb.com/name/nm2916300/"
+    }
+  ]
+}

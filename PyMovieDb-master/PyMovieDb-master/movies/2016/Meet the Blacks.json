@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Meet the Blacks",
+  "url": "https://www.imdb.com/tt4191580/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzAxNDY3ODk3MF5BMl5BanBnXkFtZTgwMjYwNDA5NzE@._V1_.jpg",
+  "description": "As Carl Black gets the opportunity to move his family out of Chicago in hope of a better life, their arrival in Beverly Hills is timed with that city&apos;s annual purge, where all crime is legal for twelve hours.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Horror"
+  ],
+  "datePublished": "2022-09-01",
+  "keywords": "middle class,spoof,family character name in title,parody comedy,home invasion",
+  "duration": "PT1H34M",
+  "rating": {
+    "ratingCount": 37803,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  },
+  "review": {
+    "author": "erudzitis84",
+    "dateCreated": "2016-04-07",
+    "inLanguage": "English",
+    "heading": "Very funny movie",
+    "reviewBody": "The folks who think it is dumb, racist, chauvinistic, lots of overused clich\\u00e9s, are wrong in my opinion. It is a really fun movie to unwind after a hard days work, i recommend it truly, especially to age 16-35, older folks would smirk at it, but they love to watch films like Mission impossible or James Bond. This is great movie in all. Made me smile. Now, in saying that, having seen movies like the purge, resident evil, saw movies, meet the parents, walking dead, this movie indeed takes a lot from those , that&apos;s why this movie is semi- called a parody. Seems similar to scream 2, scream 3, pretty clever graphics for a crazy family horror comedy. Was at one point thinking it was set near sun, was filmed in a hot weather. In this age of politically correct movies and countless re-makes and dynasty franchise blockbusters this is a nice departure into the world of silliness and craziness , which is a lovely thing and we should rejoice about that fact.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "actor": [
+    {
+      "name": "Mike Epps",
+      "url": "https://www.imdb.com/name/nm0258402/"
+    },
+    {
+      "name": "Zulay Henao",
+      "url": "https://www.imdb.com/name/nm1748489/"
+    },
+    {
+      "name": "Alex Henderson",
+      "url": "https://www.imdb.com/name/nm5228245/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Deon Taylor",
+      "url": "https://www.imdb.com/name/nm1938064/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Deon Taylor",
+      "url": "https://www.imdb.com/name/nm1938064/"
+    },
+    {
+      "name": "Nicole DeMasi",
+      "url": "https://www.imdb.com/name/nm1701420/"
+    }
+  ]
+}

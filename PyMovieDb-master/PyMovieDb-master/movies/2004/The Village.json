@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "The Village",
+  "url": "https://www.imdb.com/tt0368447/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWExMWYxN2MtYmU1YS00Mjk5LWI3OTEtYTg3NDIwZTA2MTE2L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": "A series of events tests the beliefs of a small isolated countryside village.",
+  "review": {
+    "author": "gavin6942",
+    "dateCreated": "2015-09-24",
+    "inLanguage": "English",
+    "heading": "Not Appreciated As Much As It Should Be",
+    "reviewBody": "The population of a small, isolated countryside village believe that their alliance with the mysterious creatures that inhabit the forest around them is coming to an end.\n\nAs of 2015, this is probably M. Night&apos;s last good film. Which is unfortunate, because he had a pretty good run for a few years. Some people even want to be harsh on this film, which is unfair. Some either see it as a ripoff (which is possible) or lacking the twist they want. If it is a ripoff, that has no bearing on the film. And the twist? That is an audience expectation... whether it meets your needs or not is on you, not the creators.\n\nOne thing that did not go well for the film was its marketing, which seemed to present it as a horror film. Some scenes have horror elements, and the score has some horror inspiration. But it really is not that, so much as it is a love story. Sure, it has fantasy elements mixed in, but those are secondary.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 275983,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2004-08-20",
+  "keywords": "village,plot twist,ambiguous ending,creature,psychological thriller",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "Sigourney Weaver",
+      "url": "https://www.imdb.com/name/nm0000244/"
+    },
+    {
+      "name": "William Hurt",
+      "url": "https://www.imdb.com/name/nm0000458/"
+    },
+    {
+      "name": "Joaquin Phoenix",
+      "url": "https://www.imdb.com/name/nm0001618/"
+    }
+  ],
+  "director": [
+    {
+      "name": "M. Night Shyamalan",
+      "url": "https://www.imdb.com/name/nm0796117/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "M. Night Shyamalan",
+      "url": "https://www.imdb.com/name/nm0796117/"
+    }
+  ]
+}

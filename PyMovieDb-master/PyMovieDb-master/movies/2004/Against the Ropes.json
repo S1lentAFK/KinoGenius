@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Against the Ropes",
+  "url": "https://www.imdb.com/tt0312329/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjk1NWExNjctOTlmYy00ZjFlLThjN2ItN2FkMTI5YzVlZTY1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A fictional story inspired by North America's most famous female boxing promoter, Jackie Kallen. Her struggle to survive and succeed in a male dominated sport.",
+  "review": {
+    "author": "ma-cortes",
+    "dateCreated": "2007-10-04",
+    "inLanguage": "English",
+    "heading": "Agreeable comedy-drama about boxing world with a likable Meg Ryan as an obstinate promoter",
+    "reviewBody": "The movie focuses to Jackie Kallen(Meg Ryan), a Jewish girl from Detroit, a secretary plenty of wide dreams. After a stake with a famous commissioner(Tony Shalhoub)she becomes a boxing promoter of a young boxer(Omar Epps).Then she hires a retired coach(Charles S. Dutton) for training the inexperienced boxer.\\n\\nAlthough is a fictional story is based on true events referred by United States's most noted boxing manager. In addition, are narrated her relationship with the tough boxer, her fight to survive into boxing world, a sport strongly dominated by male sex. It's developed with humor, love and a little bit of drama. The casting is frankly excellent, a sympathetic though selfish Meg Ryan, a two-fisted but sensible Omar Epps, today well known as the doctor in \\u00a8House\\u00a8, such as Tony Shaloub by \\u00a8Monk\\u00a8series; furthermore Jose Cortese and Tim Daly(son of James Daly and brother of Tyne Daly) as a sports reporter. The motion picture packs an enjoyable cinematography by Jack N. Greene( Clint Eastwood's usual cameraman) and catching soundtrack by Michael Kamen(Weapon Lethal, Die hard). The movie is professionally directed by usually actor Charles S Dutton in his first movie, he has followed directing television movies. Rating : Acceptable and entertaining . The film will like to Meg Ryan fans and boxing buffs but displays nice combats.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 7409,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2004-05-14",
+  "keywords": "cardboard cutout,watching tv,watching oneself on tv,boxer,boxing",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Meg Ryan",
+      "url": "https://www.imdb.com/name/nm0000212/"
+    },
+    {
+      "name": "Omar Epps",
+      "url": "https://www.imdb.com/name/nm0004898/"
+    },
+    {
+      "name": "Charles S. Dutton",
+      "url": "https://www.imdb.com/name/nm0001165/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Charles S. Dutton",
+      "url": "https://www.imdb.com/name/nm0001165/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jackie Kallen",
+      "url": "https://www.imdb.com/name/nm0435955/"
+    },
+    {
+      "name": "Cheryl Edwards",
+      "url": "https://www.imdb.com/name/nm0249882/"
+    }
+  ]
+}

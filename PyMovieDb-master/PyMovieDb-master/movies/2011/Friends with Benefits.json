@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Friends with Benefits",
+  "url": "https://www.imdb.com/tt1632708/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MzQ0NTk4N15BMl5BanBnXkFtZTcwMDc2NDYzNQ@@._V1_.jpg",
+  "description": "A young man and woman decide to take their friendship to the next level without becoming a couple, but soon discover that adding sex only leads to complications.",
+  "review": {
+    "author": "anthonydapiii",
+    "dateCreated": "2020-05-10",
+    "inLanguage": "English",
+    "heading": "Funny",
+    "reviewBody": "Funny with a twist of relatability and drama.\n\nJustin Timberlake and Mila Kunos come to the table with a stellar performance for this cliche and comical movie.\n\nGreat job cast and crew.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 391998,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2011-09-09",
+  "keywords": "female rear nudity, oral sex, blow job, no panties, orgasm",
+  "duration": "PT1H49M",
+  "actor": [
+    {
+      "name": "Mila Kunis",
+      "url": "https://www.imdb.com/name/nm0005109/"
+    },
+    {
+      "name": "Justin Timberlake",
+      "url": "https://www.imdb.com/name/nm0005493/"
+    },
+    {
+      "name": "Patricia Clarkson",
+      "url": "https://www.imdb.com/name/nm0165101/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Will Gluck",
+      "url": "https://www.imdb.com/name/nm0323239/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Keith Merryman",
+      "url": "https://www.imdb.com/name/nm2226647/"
+    },
+    {
+      "name": "David A. Newman",
+      "url": "https://www.imdb.com/name/nm2226970/"
+    },
+    {
+      "name": "Will Gluck",
+      "url": "https://www.imdb.com/name/nm0323239/"
+    }
+  ]
+}

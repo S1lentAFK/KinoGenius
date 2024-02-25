@@ -1,0 +1,56 @@
+
+
+{
+  "type": "Movie",
+  "name": "Beats, Rhymes & Life: The Travels of A Tribe Called Quest",
+  "url": "https://www.imdb.com/tt1613023/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODIwNDczMDY5NF5BMl5BanBnXkFtZTcwMzYzOTkzNQ@@._V1_.jpg",
+  "description": "Michael Rapaport documents the inner workings and behind the scenes drama that follows this innovative and influential band to this day.",
+  "contentRating": "R",
+  "genre": [
+    "Documentary",
+    "Music"
+  ],
+  "datePublished": "2012-01-19",
+  "keywords": "hip hop music,rap,hip hop",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Q-Tip",
+      "url": "https://www.imdb.com/name/nm0702580/"
+    },
+    {
+      "name": "Phife Dawg",
+      "url": "https://www.imdb.com/name/nm0205954/"
+    },
+    {
+      "name": "Ali Shaheed Muhammad",
+      "url": "https://www.imdb.com/name/nm0611241/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Rapaport",
+      "url": "https://www.imdb.com/name/nm0001650/"
+    }
+  ],
+  "creator": [],
+  "review": {
+    "author": "quizote",
+    "dateCreated": "2011-10-19",
+    "inLanguage": "English",
+    "heading": "Best Hip-Hop documentary ever!!!",
+    "reviewBody": "First off, a big thank you to Michael Rapaport for doing this. And he truly directed a wonderful documentary. I grew up on a tribe called quest, however, I am an African,living in Africa and those were the days before the Internet, so I really never heard any news surrounding the group. This documentary fills in all these gaps for me, finally made me understand what made ATCQ tick and such a brilliant hip-hop group. The director really did a great job balancing the views from both protagonists, Q-tip and Phife. Q-tip really comes across as a musical genius and Phife as the real funky diabetic (never understood this until watching this movie) and I had never heard Ali Shaheed speak, but I was hanging on to every word of his. I think M. Rapaport should have given Ali more time. And Jarobi, the y. Nice dude, from the documentary I&apos;d wish, he had not left the group when he did, he fitted in just like anybody else.\\n\\nFinally, the live shows were amazing. I wish I had had the opportunity to attend just one of them, anyway, if ATCQ ever come to Accra, Ghana, I&apos;ll be the first in line to buy tickets.\\n\\nGreat documentary, great story-telling from the director, highly recommended to any music lover out there.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 4059,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  }
+}

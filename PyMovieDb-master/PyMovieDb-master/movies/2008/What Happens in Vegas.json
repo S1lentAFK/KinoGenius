@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "What Happens in Vegas",
+  "url": "https://www.imdb.com/tt1033643/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzQyYjE3YjYtNjJkNi00MWY0LWJhNDctZDRmOTY5ZGJiNDI5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "description": "A man and a woman are compelled, for legal reasons, to live life as a couple for a limited period of time. At stake is a large amount of money.",
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2008-05-09",
+  "keywords": "jackpot,father son relationship,casino,neo screwball comedy,male and female protagonists",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Cameron Diaz",
+      "url": "https://www.imdb.com/name/nm0000139/"
+    },
+    {
+      "name": "Ashton Kutcher",
+      "url": "https://www.imdb.com/name/nm0005110/"
+    },
+    {
+      "name": "Rob Corddry",
+      "url": "https://www.imdb.com/name/nm1117791/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tom Vaughan",
+      "url": "https://www.imdb.com/name/nm0891114/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dana Fox",
+      "url": "https://www.imdb.com/name/nm1401416/"
+    }
+  ],
+  "review": {
+    "author": "Dragoneyed363",
+    "dateCreated": "2008-10-25",
+    "inLanguage": "English",
+    "heading": "Just a fun time",
+    "reviewBody": "Alright, before you watch this movie, you know it is not going to be some deep, poetic Best Picture nominee. I was not all that excited about seeing it in the first place myself if I am going to be honest, but I only got it because there was nothing better to get I guess, and in the end, I had a fun time with it. Ashton Kutcher and Cameron Diaz have good chemistry on set, not exactly Gone with the Wind type of romance, but enough to make it feel somewhat believable and make these characters interact well with the plot.\\n\\nThe movie is quite humorous. Not one of the funniest or even most memorable Rom-Coms I have ever seen, but here again, it does not try to be anything more than it is. The story is cute and entertaining if you give it even the slightest bit of chance to be, and though I would say if you are looking for a Rom-Com for you and your significant other there are plenty of better ones like The Proposal and The Ugly Truth you could see, if you have any interest in seeing this, I encourage you to do it because if you know what you are in for, it will be just what you needed. A refreshing little movie that deserves better reception.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 186861,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  }
+}

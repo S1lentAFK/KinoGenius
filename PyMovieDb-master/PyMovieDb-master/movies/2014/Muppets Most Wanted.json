@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Muppets Most Wanted",
+  "url": "https://www.imdb.com/tt2281587/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDY2MTE0ODM4NF5BMl5BanBnXkFtZTgwMDI3Mjc2MDE@._V1_.jpg",
+  "description": "While on a grand world tour, The Muppets find themselves wrapped into an European jewel-heist caper headed by a Kermit the Frog look-alike and his dastardly sidekick.",
+  "contentRating": "U",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2014-03-28",
+  "keywords": "puppet,gulag,fairy godmother character,miss piggy character,swedish chef character",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Ricky Gervais",
+      "url": "https://www.imdb.com/name/nm0315041/"
+    },
+    {
+      "name": "Ty Burrell",
+      "url": "https://www.imdb.com/name/nm0123092/"
+    },
+    {
+      "name": "Tina Fey",
+      "url": "https://www.imdb.com/name/nm0275486/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Bobin",
+      "url": "https://www.imdb.com/name/nm0090386/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Bobin",
+      "url": "https://www.imdb.com/name/nm0090386/"
+    },
+    {
+      "name": "Nicholas Stoller",
+      "url": "https://www.imdb.com/name/nm0831557/"
+    },
+    {
+      "name": "Jim Henson",
+      "url": "https://www.imdb.com/name/nm0001345/"
+    }
+  ],
+  "review": {
+    "author": "benaboo",
+    "dateCreated": "2018-03-31",
+    "inLanguage": "English",
+    "heading": "I hope this isn't the end.",
+    "reviewBody": "When The Muppets came out in 2011 people really liked it and therefore a sequel was made. The sequel Muppets Most Wanted was not as successful as it's predecessor. It wasn't as much a financial hit and people didn't dig it as much and it seems like The Muppets are back to the way they were after Muppets From Space. I actually really loved Muppets Most Wanted. At the time I thought it was better than The Muppets and in ways it is. The jokes are smarter. The songs are better and it feels more like a traditional Muppet movie than it's predecessor but this movie is not without it's flaws. The flaws are that Walter has more screen time than Gonzo and even Fozzie. That's just wrong! And the humans need to take a huge backseat to the Muppets. Tina Fey more than Ricky Gervais and Ty Burrell. Overall I think this is a great Muppet movie but it's so depressing how underrated it is. I hope this is not the end of The Muppets on the big screen. I'm an aspiring actor and filmmaker, maybe I should be like Jason Segel and try to bring them back if nobody else does. Even then I've always wanted to make a Muppet movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 36819,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  }
+}

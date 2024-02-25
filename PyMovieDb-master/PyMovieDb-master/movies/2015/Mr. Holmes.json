@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Mr. Holmes",
+  "url": "https://www.imdb.com/tt3168230/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg5MjE0Njk0MF5BMl5BanBnXkFtZTgwNTgwMjQ4NTE@._V1_.jpg",
+  "description": "An aged, retired Sherlock Holmes deals with dementia, as he tries to remember his final case, and a mysterious woman, whose memory haunts him. He also befriends a fan, the young son of his housekeeper, who wants him to work again.",
+  "contentRating": "PG",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2015-06-19",
+  "keywords": "son,memory,mother,nest,anger",
+  "duration": "PT1H44M",
+  "rating": {
+    "ratingCount": 67368,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "review": {
+    "author": "guchrisc",
+    "dateCreated": "2015-06-22",
+    "inLanguage": "English",
+    "heading": "The Strange Case of the Last Case of Sherlock Holmes.",
+    "reviewBody": "This BBC film has an aged Sherlock Holmes, in failing health, living in retirement in the country, and trying to remember his last case.\n\nShakespearian thespian and British Knight, Sir Ian McKellen, plays well, and convincingly, the eponymous detective, both in his later years, and in flashbacks to his last case. The veteran actor had to prepare for the role by learning bee-keeping.\n\nMr. Holmes lives with a house-keeper and her son. New Yorker Laura Linney plays the house-keeper, fitting in well with the British thespians, and easily, and believably, conveys the circumstances of her character's situation as she interacts with both Mr. Holmes and her son.\n\nThe son is played by Milo Parker. His performance is just so breathtakingly superb that it is difficult to sum this up in words. Truly astonishing! Truly great! \n\nHattie Morahan shows great emotion in her small role, whilst Frances de la Tour's foreigner-role is so brief, but so good! There is a foreign element to the plot, apart from Miss de la Tour that is, that seems superfluous, however it turns out to be a nice sub-plot. The period-detail throughout the film is very good. Sadly, the film is marred by bad lighting and also blurry camera shots as the camera moves. This detracts, and distracts, but not greatly.\n\nDespite it's UK rating of PG, this is not a film for children, but rather is more suitable for adults. There are moving and poignant scenes, and the film deals with matters of life and death. It is also necessarily slow, as the subject matter is the great detective in the Autumn of his years. 8/10.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "actor": [
+    {
+      "name": "Ian McKellen",
+      "url": "https://www.imdb.com/name/nm0005212/"
+    },
+    {
+      "name": "Laura Linney",
+      "url": "https://www.imdb.com/name/nm0001473/"
+    },
+    {
+      "name": "Hiroyuki Sanada",
+      "url": "https://www.imdb.com/name/nm0760796/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bill Condon",
+      "url": "https://www.imdb.com/name/nm0174374/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mitch Cullin",
+      "url": "https://www.imdb.com/name/nm1616194/"
+    },
+    {
+      "name": "Jeffrey Hatcher",
+      "url": "https://www.imdb.com/name/nm0368774/"
+    },
+    {
+      "name": "Arthur Conan Doyle",
+      "url": "https://www.imdb.com/name/nm0236279/"
+    }
+  ]
+}

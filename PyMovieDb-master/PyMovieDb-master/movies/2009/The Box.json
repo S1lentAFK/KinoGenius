@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Box",
+  "url": "https://www.imdb.com/tt0362478/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI4MDA5NjIwM15BMl5BanBnXkFtZTcwNTA2MjY0Mg@@._V1_.jpg",
+  "description": "A small wooden box arrives on the doorstep of a married couple, who know that opening it will grant them a million dollars and kill someone they don't know.",
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2009-12-04",
+  "keywords": "moral dilemma,nosebleed,alien,library,supernatural power",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Cameron Diaz",
+      "url": "https://www.imdb.com/name/nm0000139/"
+    },
+    {
+      "name": "James Marsden",
+      "url": "https://www.imdb.com/name/nm0005188/"
+    },
+    {
+      "name": "Frank Langella",
+      "url": "https://www.imdb.com/name/nm0001449/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Richard Kelly",
+      "url": "https://www.imdb.com/name/nm0446819/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Richard Kelly",
+      "url": "https://www.imdb.com/name/nm0446819/"
+    },
+    {
+      "name": "Richard Matheson",
+      "url": "https://www.imdb.com/name/nm0558577/"
+    }
+  ],
+  "review": {
+    "author": "laserburn",
+    "dateCreated": "2021-06-09",
+    "inLanguage": "English",
+    "heading": "Forgettable",
+    "reviewBody": "The movie that ended the career of the director Richard Kelly. It was never a really promising career, Donnie Darko must have been a stroke of luck. The original Twilight Zone episode The Box was way better and all the additional material in this movie does not improve on it, with subplots that don't resolve into anything. The script is just poorly written, with a lot of illogical situations and thin characters. The movie overall is not horrible, just don't have any high expectations from it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 94951,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  }
+}

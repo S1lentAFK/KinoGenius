@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Shanghai Knights",
+  "url": "https://www.imdb.com/tt0300471/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTg3N2IwNWMtODkwNi00NTE1LWI4MzMtYzI5ZDU4MGE4NjBkXkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_.jpg",
+  "description": "When a Chinese rebel murders Chon's estranged father and escapes to England, Chon and Roy make their way to London with revenge on their minds.",
+  "review": {
+    "author": "cherold",
+    "dateCreated": "2004-06-01",
+    "inLanguage": "English",
+    "heading": "fun sequel",
+    "reviewBody": "The implied promise of a sequel is that it will give you what you got from the first movie, but that promise is often broken. Shanghai Knights is an exception, giving the audience that same mix of goofy dialogue and slapstick martial arts that made the first movie so much fun. This time the duo heads to England, allowing them to make a bunch of incredibly silly jokes about England and Sherlock Holmes and Charlie Chaplin. The movie is essentially one long wink, and if you like that sort of humor your likely to find much of it amusing. At times I thought they pushed the anachronistic dialogue a little too far, as when Owen asks the gorgeous Fann Wong if she works out, but overall it works pretty well. Chan supplies a number of very entertaining fight sequences along with his usual goofy charm and the end result feels like a more actiony version of a Hope/Crosby road movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 112009,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2003-04-04",
+  "keywords": "charlie chaplin character,queen victoria character,good versus evil,sir arthur conan doyle character,over the mouth gag",
+  "duration": "PT1H54M",
+  "actor": [
+    {
+      "name": "Jackie Chan",
+      "url": "https://www.imdb.com/name/nm0000329/"
+    },
+    {
+      "name": "Owen Wilson",
+      "url": "https://www.imdb.com/name/nm0005562/"
+    },
+    {
+      "name": "Fann Wong",
+      "url": "https://www.imdb.com/name/nm0939056/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Dobkin",
+      "url": "https://www.imdb.com/name/nm0229694/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Alfred Gough",
+      "url": "https://www.imdb.com/name/nm0332184/"
+    },
+    {
+      "name": "Miles Millar",
+      "url": "https://www.imdb.com/name/nm0587692/"
+    }
+  ]
+}

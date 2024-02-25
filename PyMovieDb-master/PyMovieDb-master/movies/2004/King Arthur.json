@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "King Arthur",
+  "url": "https://www.imdb.com/tt0349683/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk4MTk1NjI0OV5BMl5BanBnXkFtZTcwNDQxOTUyMQ@@._V1_.jpg",
+  "description": "A demystified take on the tale of King Arthur and the Knights of the Round Table.",
+  "review": {
+    "author": "Ducati-Eithne",
+    "dateCreated": "2004-07-20",
+    "inLanguage": "English",
+    "heading": "What can one say?",
+    "reviewBody": "What can I say that most already have not? Well not a lot.\\n\\nMy opinion on the movie is that, like many others have said, it's nothing like the legend. I went into this movie expecting it to at lease follow some of the story line for what I knew.. But nothing really happened. They touch small bases of the story and sure they say 'the true story' but no one knows if it even happened! So no one can really make such a statement. Also if they are trying to make a more 'realistic' one then they could of still used the King Arthur story that he actually dies? There is the love affair between Lancelot and Guinevere? King Arthur's love affair and his son? Really if they had to make 2 or 3 movies to fit it all it, I would be more happy with that than how this one turned out.\\n\\nI went in knowing the story and didn't enjoy it as much, but my cousin went in not knowing much more than there was a King Arthur and a sword.. He enjoyed it a lot more.\\n\\nIt's just another war movie, and I really think it would be a good one! If it didn't use it as the King Arthur story.\\n\\nMost King Arthur fans will be disappointed I believe, but none the less.. it's a good movie if you take away the whole 'King Arthur' legend from your mind.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 175251,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "datePublished": "2004-07-30",
+  "keywords": "king arthur,knight,ancient rome,queen guinevere character,snow adventure",
+  "duration": "PT2H6M",
+  "actor": [
+    {
+      "name": "Clive Owen",
+      "url": "https://www.imdb.com/name/nm0654110/"
+    },
+    {
+      "name": "Stephen Dillane",
+      "url": "https://www.imdb.com/name/nm0226820/"
+    },
+    {
+      "name": "Keira Knightley",
+      "url": "https://www.imdb.com/name/nm0461136/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Antoine Fuqua",
+      "url": "https://www.imdb.com/name/nm0298807/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Franzoni",
+      "url": "https://www.imdb.com/name/nm0291905/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Elektra",
+  "url": "https://www.imdb.com/tt0357277/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI3MTUwNzM5MV5BMl5BanBnXkFtZTcwNzczMDIzMw@@._V1_.jpg",
+  "description": "Elektra the warrior survives a near-death experience, becomes an assassin-for-hire, and tries to protect her two latest targets, a single father and his young daughter, from a group of supernatural assassins.",
+  "review": {
+    "author": "inkblot11",
+    "dateCreated": "2005-02-13",
+    "inLanguage": "English",
+    "heading": "The star, Jennifer Garner, makes it worthwhile",
+    "reviewBody": "Elektra (Jennifer Garner) is a professional assassin par excellence. It seems she was told to leave a martial arts school for failing to follow direction, but she's a powerful force nonetheless. When she is sent to a remote island, however, she soon learns that her assignment is to kill a father and daughter who seem anything but dangerous. She can't do it. Instead, she befriends them and vows to protect them against all others. A group of very wicked martial arts experts are sent out to eliminate all three of them. Who will prevail? Does the man's daughter have a secret as well?\n\nOne would hope that a superhero movie that features a female heroine would be most welcome, and it is, with reservations. Garner is lithe and lovely as the tough as nails but compassionate heroine. When she is garbed in a tight red ensemble, she can turn heads in a major way. Love is a concept she rarely experiences, so watching her let herself give into feelings is a wonder, too. So, what's the problem with the film? It is probably a matter of style over substance. The design of the film is first rate but the script has some trouble keeping pace. Nevertheless, Garner makes it work through her extraordinary embodiment of the title character. Period.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 97398,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "datePublished": "2005-01-21",
+  "keywords": "assassin,heroine,martial arts,samurai sword,vigilante justice",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Jennifer Garner",
+      "url": "https://www.imdb.com/name/nm0004950/"
+    },
+    {
+      "name": "Goran Visnjic",
+      "url": "https://www.imdb.com/name/nm0899681/"
+    },
+    {
+      "name": "Will Yun Lee",
+      "url": "https://www.imdb.com/name/nm0498449/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rob Bowman",
+      "url": "https://www.imdb.com/name/nm0101385/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Steven Johnson",
+      "url": "https://www.imdb.com/name/nm0425756/"
+    },
+    {
+      "name": "Frank Miller",
+      "url": "https://www.imdb.com/name/nm0588340/"
+    },
+    {
+      "name": "Zak Penn",
+      "url": "https://www.imdb.com/name/nm0672015/"
+    }
+  ]
+}

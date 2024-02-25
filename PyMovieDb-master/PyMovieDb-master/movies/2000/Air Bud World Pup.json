@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "Air Bud 3: World Pup",
+  "url": "https://www.imdb.com/tt0161220/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODM3NzQ4MzA2Nl5BMl5BanBnXkFtZTgwMTI4OTY4ODE@._V1_.jpg",
+  "description": "A boy and his dog take on the world of soccer.",
+  "contentRating": "G",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2000-12-12",
+  "keywords": [
+    "close up of eyes",
+    "2000s",
+    "association football",
+    "football",
+    "brother sister relationship"
+  ],
+  "duration": "PT1H23M",
+  "actor": [
+    {
+      "name": "Kevin Zegers",
+      "url": "https://www.imdb.com/name/nm0954225/"
+    },
+    {
+      "name": "Dale Midkiff",
+      "url": "https://www.imdb.com/name/nm0001535/"
+    },
+    {
+      "name": "David Glyn-Jones",
+      "url": "https://www.imdb.com/name/nm0323332/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bill Bannerman",
+      "url": "https://www.imdb.com/name/nm0003806/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kevin DiCicco",
+      "url": "https://www.imdb.com/name/nm0225235/"
+    },
+    {
+      "name": "Mick Whiting",
+      "url": "https://www.imdb.com/name/nm0926019/"
+    },
+    {
+      "name": "Robert Vince",
+      "url": "https://www.imdb.com/name/nm0898547/"
+    }
+  ],
+  "review": {
+    "author": "dapmantis",
+    "dateCreated": "2004-10-03",
+    "inLanguage": "English",
+    "heading": "Could've Been Worse",
+    "reviewBody": "I saw this one afternoon on one of the movie channels. I was dubious at first after reading the synopsis on my remote control, but I kept watching and was pleasantly surprised. OK it didn't have an a-list cast but the acting was bearable. \n\nOK it was about a dog playing football and saving the winning penalty. But it is a kids film, meant for children to entertain and amuse, and it entertained me and had its few giggling moments. \n\nI have seen a couple of the 'Air Bud' movies and this is by far the best one. Its easy viewing and kills a few hours. Something to stick the kids in front of, just make sure during the credits you don't hear 'I want a dog!'",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 3257,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.5
+  }
+}

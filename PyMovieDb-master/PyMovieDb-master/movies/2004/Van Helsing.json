@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Van Helsing",
+  "url": "https://www.imdb.com/tt0338526/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODRmY2NhNDItOWViNi00OTIyLTk3YjYtYzY0YTFlMDg1YzQ0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "The famed monster hunter is sent to Transylvania to stop Count Dracula, who is using Dr. Frankenstein&apos;s research and a werewolf for nefarious purposes.",
+  "review": {
+    "author": "Axel-9",
+    "dateCreated": "2004-11-21",
+    "inLanguage": "English",
+    "heading": "Silly, lacking in plot, but good fun",
+    "reviewBody": "It&apos;s big, it&apos;s dumb, it&apos;s cheesy as hell, but I found it to be enormous fun. This was made to be a roller-coaster ride and by that token it should be judged.\n\nActually after the opening pastiche of the Boris Karloff Frankenstein movie, I thought this had the potential to be a 5 star movie. It was very atmospheric and had me hooked. However the film never really captures any sense of magic from there onwards.\n\nThe main body of the movie does go on a bit, and it could have done with some attempt to create engaging characters. Plot and story are not always necessary for fun movies, but you do need characters with a level of interest to capture the mind, otherwise you tend to find yourself not giving a s**t. I felt Van Helsing did verge into this territory, but for the most part it&apos;s so fast paced this doesn&apos;t matter so much. The points where it does try to introduce plot are the moments where it really does fail. In fact there is too much going on that is never really explained, and I think it would&apos;ve been better not to have bothered at all, than use the nonsense Sommers resorts too. For example the attempts at backstory to Van Helsing. Better to have one of those interlude chatty scenes you have in the Indy films, where it establishes he&apos;s a dude, rather than the poor attempts at angst and pathos. Really bad was the moment he gets upset over Frankie&apos;s Monster. What the hell was that all about?\n\nHmm maybe I took that a bit seriously, but the movie knows what it is, why try be something else. I also thought that that masked ball sequence was a natural conclusion, the eventual finale at the castle felt like an add on, which lacked any real punch.\n\nFar better was Van&apos;s introduction to Transylvania, with the benefit of some neat angles and panning shots, the crossbow battle with the brides was cool. The coach chase was exciting without being exhilarating, but kept the flow going, so it&apos;s a shame some more bad plot gets thrown in, especially when it was involving the underwritten Velkan. That&apos;s the film&apos;s main problem - overkill of characters, with little space given to any of them to evolve.\n\nFinally a word on the CGI. I thought it was very good, especially the morphs that were used. The very first moment Drac starts to turn made me jump a touch, and when the vampires turns into their fanged, contorted state it looked pretty scary to me. The wolfman transformation, with the ripping flesh looked genuinely painful. At this point I was thinking the CGI was genuinely stunning. I&apos;d have preferred the finale if it had just been Van vs Drac though, having CGI characters fight felt uninvolving, and Drac in snarly state was far better than the beast he turns into.\n\nThis is a movie to genuinely switch of the brain and enjoy. At times there&apos;s too much going on and perhaps a bit too much swinging about for my liking, but it&apos;s an adrenaline filled ride. I&apos;d probably give it 7 out of 10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 282604,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "2004-05-07",
+  "keywords": "werewolf,19th century,vampire,snow adventure,van helsing",
+  "duration": "PT2H11M",
+  "actor": [
+    {
+      "name": "Hugh Jackman",
+      "url": "https://www.imdb.com/name/nm0413168/"
+    },
+    {
+      "name": "Kate Beckinsale",
+      "url": "https://www.imdb.com/name/nm0000295/"
+    },
+    {
+      "name": "Richard Roxburgh",
+      "url": "https://www.imdb.com/name/nm0746896/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Stephen Sommers",
+      "url": "https://www.imdb.com/name/nm0814085/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stephen Sommers",
+      "url": "https://www.imdb.com/name/nm0814085/"
+    }
+  ]
+}

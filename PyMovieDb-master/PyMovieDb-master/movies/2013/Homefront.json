@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Homefront",
+  "url": "https://www.imdb.com/tt2312718/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUwOTAzNzAwMl5BMl5BanBnXkFtZTgwOTc1NDIyMDE@._V1_.jpg",
+  "description": "A former DEA agent moves his family to a quiet town, where he soon tangles with a local meth druglord.",
+  "review": {
+    "author": "davispittman",
+    "dateCreated": "2016-04-30",
+    "inLanguage": "English",
+    "heading": "Boosted some by good performances",
+    "reviewBody": "Homefront truly is boosted higher by good performances by the cast. Winona Ryder really did a great job as the skanky bad girl Sheryl, she and James Franco had a really good chemistry and kinda bad guy dynamic going throughout the film. As for Jason Statham, he was perfect for his starring role, I mean could NOT have picked a better action star to lead this movie! He is sexy, rugged, tough as friggin nails, and overall a real badass, but a badass with a good big heart. Him and his daughter really had great father/daughter chemistry here, you could tell that they really had a great relationship and loved and cared about one another, which was needed for a movie like this one. Kate Bosworth is pretty darn good as well, she is almost unrecognizable here, Redneck trailer trash, anyways, she plays a well written character well here. Now as for the movie itself as a whole, it's kinda average action movie fare, nothing to distinguish it from the rest in this genre. The action and shooting sequences are pretty run of the mill, nothing all too special to see unfortunately. The plot has some nice attachments to it, like the father daughter relationship/connection that I mentioned before. Homefront tries it's hardest to be this edgy awesome new action film, but it did not accomplish that goal. It's just too average to be called awesome or even all that edgy. I mean yah there is time of crude language because of the degenerate characters, and yes, it has some rough violence to some scenes, but that still doesn't make it all that edgy. But hey, it's not a total loss, good performances all around! 6/10 for Homefront.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 129097,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "2013-12-06",
+  "keywords": "gang leader,dea,one against many,redneck,kidnapped child",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Jason Statham",
+      "url": "https://www.imdb.com/name/nm0005458/"
+    },
+    {
+      "name": "James Franco",
+      "url": "https://www.imdb.com/name/nm0290556/"
+    },
+    {
+      "name": "Winona Ryder",
+      "url": "https://www.imdb.com/name/nm0000213/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gary Fleder",
+      "url": "https://www.imdb.com/name/nm0001219/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sylvester Stallone",
+      "url": "https://www.imdb.com/name/nm0000230/"
+    },
+    {
+      "name": "Chuck Logan",
+      "url": "https://www.imdb.com/name/nm5335939/"
+    }
+  ]
+}

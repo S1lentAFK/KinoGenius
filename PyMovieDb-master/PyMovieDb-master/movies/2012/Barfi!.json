@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Barfi!",
+  "url": "https://www.imdb.com/tt2082197/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQzMTEyODY2Ml5BMl5BanBnXkFtZTgwMjA0MDUyMjE@._V1_.jpg",
+  "description": "Three young people learn that love can neither be defined nor contained by society's definition of normal and abnormal.",
+  "review": {
+    "author": "JahnabC",
+    "dateCreated": "2012-09-14",
+    "inLanguage": "English",
+    "heading": "Crying and laughing at the same time!",
+    "reviewBody": "i had a lot of expectations from this movie..and it hardly disappointed.... Don't be shocked if you see Ranbir Kapoor becoming one of the best actors of bollywood history in 10-15 years..he can do any kind of roles and do without breaking a drop of sweat.. This was RK's best performance till date..Priyanka Chopra portrayed her part brilliantly but it was pleasantly shocking to see a south girl doing so good..Ileana was the soothing factor amidst the madness of Barfi n Jhilmil!Good to see Saurabh Shukla back.. Pritam comes back with a bang..all his songs are good to the ears n suit the movie as well.. last but not the least we talk about Anurag Basu..after Kites's disaster i thought he might be lost..he just nails this one..\\n\\nSpecial mention:Cinematographer Ravi Varman..",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 86316,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.1
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2012-09-14",
+  "keywords": "hill station,autism,character name in title,deaf,disabilities",
+  "duration": "PT2H31M",
+  "actor": [
+    {
+      "name": "Ranbir Kapoor",
+      "url": "https://www.imdb.com/name/nm1633541/"
+    },
+    {
+      "name": "Priyanka Chopra Jonas",
+      "url": "https://www.imdb.com/name/nm1231899/"
+    },
+    {
+      "name": "Ileana D'Cruz",
+      "url": "https://www.imdb.com/name/nm2299825/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Anurag Basu",
+      "url": "https://www.imdb.com/name/nm1397301/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Anurag Basu",
+      "url": "https://www.imdb.com/name/nm1397301/"
+    },
+    {
+      "name": "Tani Basu",
+      "url": "https://www.imdb.com/name/nm6215655/"
+    },
+    {
+      "name": "Sanjeev Dutta",
+      "url": "https://www.imdb.com/name/nm1821635/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Case 39",
+  "url": "https://www.imdb.com/tt0795351/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTA4NDUyOTE5NV5BMl5BanBnXkFtZTcwOTQ3NzY3Mw@@._V1_.jpg",
+  "description": "A social worker fights to save a girl from her abusive parents, only to discover that the situation is more dangerous than she ever expected.",
+  "review": {
+    "author": "bob-rutzel-1",
+    "dateCreated": "2011-01-13",
+    "inLanguage": "English",
+    "heading": "Not Scary, but you will jump some",
+    "reviewBody": "Social Worker Emily (Zellweger) takes in 10-yr old Lillith (Ferland) whose parents tried to kill her.\\n\\nThings kind of get wrapped up within the first 15-minutes and what else is there to do you ask yourself. Well, things aren't quite what they seem and by now, you will have figured it all out. But, again, it's in the telling that makes this a good movie and you stay with it. \\n\\nThis is billed as a horror movie and you know I don't review horror movies (hey, I have to sleep at night). Okay, so I took a chance. See? The acting is first rate by all and the pace is very good. There is a certain amount of tension and suspense and you won't sleep here.\\n\\nNow, although you have figured things out, you have not figured out how this ends or should end, or will end ..whatever. That occupies your mind quite a bit. And, along the way, you find yourself jumping at certain things. Not really horror though, but could have been. \\n\\nRenee Zellweger really got into her character to such a point I was mimicking her moves at times. I felt as though I was there. You'll see. \\n\\nViolence: Yes. Sex: No. Nudity: No. Language: Yes, but only one or two F-bombs",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 92754,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2010-03-05",
+  "keywords": "social worker,supernatural horror,child welfare worker,demon,therapist",
+  "duration": "PT1H49M",
+  "actor": [
+    {
+      "name": "Ren\\u00e9e Zellweger",
+      "url": "https://www.imdb.com/name/nm0000250/"
+    },
+    {
+      "name": "Ian McShane",
+      "url": "https://www.imdb.com/name/nm0574534/"
+    },
+    {
+      "name": "Jodelle Ferland",
+      "url": "https://www.imdb.com/name/nm0272706/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Christian Alvart",
+      "url": "https://www.imdb.com/name/nm0023355/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ray Wright",
+      "url": "https://www.imdb.com/name/nm1242522/"
+    }
+  ]
+}

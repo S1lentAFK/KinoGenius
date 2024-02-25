@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Fireproof",
+  "url": "https://www.imdb.com/tt1129423/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGZhYzFjY2ItNDVmZi00Y2Q1LWFmMDgtMzAwYTU3NTI3ZGU4XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "lrosell",
+    "dateCreated": "2008-09-28",
+    "inLanguage": "English",
+    "heading": "Fireproof",
+    "reviewBody": "I enjoyed the movie. It hits on many core issues in a marriage, whether you are spiritual or not. Individuals who are not believers will not like it and should stay home if they are not receptive. Just as I do not attend science fiction films because I do not like that genre. \\n\\nActing was much better than Facing the Giants. Excellent use of humor. With regard to all-white cast as referred by another summary on this site, I am not sure if that person actually saw the movie given the following facts:\\n\\nThe first word spoken in the movie is by a black person. The wife has two black friends who she she sees quite often. The first person who brings up God to Caleb is his Lt., a black man. There is one other black person at the station who has several lines. \\n\\nI would hope that summaries be written by people who actually see the movie.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 24005,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2008-09-26",
+  "keywords": "internet pornography,one word title,marriage,christian film,husband wife relationship",
+  "duration": "PT2H2M",
+  "actor": [
+    {
+      "name": "Kirk Cameron",
+      "url": "https://www.imdb.com/name/nm0131647/"
+    },
+    {
+      "name": "Erin Bethea",
+      "url": "https://www.imdb.com/name/nm2814621/"
+    },
+    {
+      "name": "Ken Bevel",
+      "url": "https://www.imdb.com/name/nm2848533/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Alex Kendrick",
+      "url": "https://www.imdb.com/name/nm1731937/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Alex Kendrick",
+      "url": "https://www.imdb.com/name/nm1731937/"
+    },
+    {
+      "name": "Stephen Kendrick",
+      "url": "https://www.imdb.com/name/nm1726854/"
+    }
+  ]
+}

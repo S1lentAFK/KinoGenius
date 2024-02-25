@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Baggage Claim",
+  "url": "https://www.imdb.com/tt1171222/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNDU4NTY3M15BMl5BanBnXkFtZTcwOTA3MDA1OQ@@._V1_.jpg",
+  "description": "Pledging to keep herself from being the oldest and the only woman in her entire family never to wed, Montana embarks on a thirty-day, thirty-thousand-mile expedition to charm a potential suitor into becoming her fianc\u00e9.",
+  "review": {
+    "author": "anajo-23049",
+    "dateCreated": "2020-02-25",
+    "inLanguage": "English",
+    "heading": "Give it a chance",
+    "reviewBody": "I stumbled upon this movie one rainy evening on TV. There was not much to do so I gave it a chance- had zero expectations. Yes, at some moments it is cheesy but somehow it keeps you intrested. Its cute. The acting is actually pretty good so I'd say if you don't expect too much give it a chance",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 9680,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2013-10-11",
+  "keywords": "gay character,woman wears only a man's shirt,deep cleavage,bend down exposing cleavage,camera shot of a woman's feet in high heels",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Paula Patton",
+      "url": "https://www.imdb.com/name/nm1745736/"
+    },
+    {
+      "name": "Taye Diggs",
+      "url": "https://www.imdb.com/name/nm0004875/"
+    },
+    {
+      "name": "Jill Scott",
+      "url": "https://www.imdb.com/name/nm0779325/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David E. Talbert",
+      "url": "https://www.imdb.com/name/nm0847859/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David E. Talbert",
+      "url": "https://www.imdb.com/name/nm0847859/"
+    }
+  ]
+}

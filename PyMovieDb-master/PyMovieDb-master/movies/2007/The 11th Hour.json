@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "The 11th Hour",
+  "url": "https://www.imdb.com/tt0492931/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc3MjE1NDc1MV5BMl5BanBnXkFtZTcwMzU0MDE1MQ@@._V1_.jpg",
+  "description": "A look at the state of the global environment including visionary and practical solutions for restoring the planet's ecosystems.",
+  "review": {
+    "author": "mischa49",
+    "dateCreated": "2007-09-14",
+    "inLanguage": "English",
+    "heading": "Film superbly does its job as a social responsibility educator.",
+    "reviewBody": "With the world economy expanding as it is bringing pollution along with it, combined with the lack of socially responsible leadership specifically in the forms of education and regulation, The 11th Hour superbly outlines the current status of our Earth's health, the movement to revive it, and a basis for the education that is needed to make necessary changes for a healthier planet. Much file footage is shown throughout the film that is sometimes not specifically discussed but does provide good visuals for the narration and speakers, which is the basis of the entire film. Although the production is a bit ADD (ie a screen cut every 1/2 to 1 second at times), the distress call for the environment and future of our world is clear. A 10/10 is deserved for this film for social responsibility and standing up against non-leadership while providing feasible options to reduce global climate change from the ground up.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 5893,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2008-03-21",
+  "keywords": "science and technology documentary,environmental documentary,planet,environment,f rated",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Leonardo DiCaprio",
+      "url": "https://www.imdb.com/name/nm0000138/"
+    },
+    {
+      "name": "Kenny Ausubel",
+      "url": "https://www.imdb.com/name/nm2644217/"
+    },
+    {
+      "name": "Thom Hartmann",
+      "url": "https://www.imdb.com/name/nm2641758/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Leila Conners",
+      "url": "https://www.imdb.com/name/nm2126446/"
+    },
+    {
+      "name": "Nadia Conners",
+      "url": "https://www.imdb.com/name/nm2105775/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Leila Conners",
+      "url": "https://www.imdb.com/name/nm2126446/"
+    },
+    {
+      "name": "Nadia Conners",
+      "url": "https://www.imdb.com/name/nm2105775/"
+    },
+    {
+      "name": "Leonardo DiCaprio",
+      "url": "https://www.imdb.com/name/nm0000138/"
+    }
+  ]
+}

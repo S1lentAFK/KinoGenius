@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Jane Austen Book Club",
+  "url": "https://www.imdb.com/tt0866437/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY5MTYwMzM3MF5BMl5BanBnXkFtZTcwOTAxODM1MQ@@._V1_.jpg",
+  "description": "Six Californians start a club to discuss the works of Jane Austen, only to find their relationships -- both old and new -- begin to resemble 21st century versions of her novels.",
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2007-11-16",
+  "keywords": "book club,infidelity,based on novel,title written by female,reference to jane austen",
+  "duration": "PT1H46M",
+  "rating": {
+    "ratingCount": 28996,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "review": {
+    "author": "david-beukes",
+    "dateCreated": "2007-12-12",
+    "inLanguage": "English",
+    "heading": "Delicious",
+    "reviewBody": "I like movies with spaceships in, preferably exploding at some point. Also shooting, sword fighting and violent death. Oh, and car chases. And if I can&apos;t have the above, then can there at least be some explicit sex please? \\n\\nAnd yet I loved this movie.\\n\\nI loved the nerdiness, I loved the intimacy, I loved watching it unfold exactly as you know it&apos;s going to. And the chemistry between Hugh Dancy and the gorgeous Maria Bello crackles off the screen.\\n\\nI know, I know, you could level this movie without much effort. You wouldn&apos;t even need that big of a stick. But you find yourself not caring.\\n\\nThis film is pure pleasure, start to finish. I gladly relinquish one of my Man cards for saying that. I&apos;m off to watch something with guns in to compensate, though.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 28996,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "actor": [
+    {
+      "name": "Kathy Baker",
+      "url": "https://www.imdb.com/name/nm0000834/"
+    },
+    {
+      "name": "Hugh Dancy",
+      "url": "https://www.imdb.com/name/nm0199215/"
+    },
+    {
+      "name": "Amy Brenneman",
+      "url": "https://www.imdb.com/name/nm0000312/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robin Swicord",
+      "url": "https://www.imdb.com/name/nm0842523/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robin Swicord",
+      "url": "https://www.imdb.com/name/nm0842523/"
+    },
+    {
+      "name": "Karen Joy Fowler",
+      "url": "https://www.imdb.com/name/nm1983962/"
+    }
+  ]
+}

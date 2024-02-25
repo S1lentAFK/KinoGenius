@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Larry the Cable Guy: Health Inspector",
+  "url": "https://www.imdb.com/tt0462395/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIxMTI3MDgyM15BMl5BanBnXkFtZTcwMDU0MzIzMQ@@._V1_.jpg",
+  "description": "A slovenly cable repairman becomes a big city Health Inspector, and is tasked with uncovering the source of a food poisoning epidemic.",
+  "contentRating": "PG-13",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2006-03-24",
+  "keywords": "villainess,reference to pubic hair,city,restaurant,health inspector",
+  "duration": "PT1H29M",
+  "rating": {
+    "ratingCount": 12458,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.4
+  },
+  "review": {
+    "author": "rogerdob",
+    "dateCreated": "2006-03-28",
+    "inLanguage": "English",
+    "heading": "Deceiving Trailer",
+    "reviewBody": "Boy, was this film awful. I knew nothing about Larry, the Cable Guy until I clicked onto a preview on the web. The preview was hilarious! It was my type of low-brow humor and I thought this is going to be a funny film. However, after I go to the theater and the picture started to play, I felt I was really duped by the trailer. Whereas the trailer was tightly edited to give great timing to the jokes, the film was edited with no regards to proper timing of set-up and punch lines. There were even added scenes in the trailer that didn&apos;t exist in the film. This was one of those films that I had to leave early from. I could not take anymore after 40 minutes.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 2
+    }
+  },
+  "actor": [
+    {
+      "name": "Larry the Cable Guy",
+      "url": "https://www.imdb.com/name/nm1249256/"
+    },
+    {
+      "name": "David Koechner",
+      "url": "https://www.imdb.com/name/nm0462712/"
+    },
+    {
+      "name": "Michael Papajohn",
+      "url": "https://www.imdb.com/name/nm0660244/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Trent Cooper",
+      "url": "https://www.imdb.com/name/nm1401857/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jonathan Bernstein",
+      "url": "https://www.imdb.com/name/nm0077080/"
+    },
+    {
+      "name": "James Greer",
+      "url": "https://www.imdb.com/name/nm0007079/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "House of the Dead",
+  "url": "https://www.imdb.com/tt0317676/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzlmNTFlN2QtM2IxZi00NDc0LTgyMTQtNDNjNTBmODQzZDVjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": null,
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Horror"
+  ],
+  "datePublished": "2004-10-29",
+  "keywords": "zombie attack,zombie,z movie,exploitation film,girls with guns",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Jonathan Cherry",
+      "url": "https://www.imdb.com/name/nm0974364/"
+    },
+    {
+      "name": "Tyron Leitso",
+      "url": "https://www.imdb.com/name/nm0500739/"
+    },
+    {
+      "name": "Clint Howard",
+      "url": "https://www.imdb.com/name/nm0397212/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Uwe Boll",
+      "url": "https://www.imdb.com/name/nm0093051/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark A. Altman",
+      "url": "https://www.imdb.com/name/nm0022913/"
+    },
+    {
+      "name": "Dan Bates",
+      "url": "https://www.imdb.com/name/nm0060889/"
+    },
+    {
+      "name": "Dave Parker",
+      "url": "https://www.imdb.com/name/nm0662180/"
+    }
+  ],
+  "review": {
+    "author": "MLDinTN",
+    "dateCreated": "2005-02-13",
+    "inLanguage": "English",
+    "heading": "quite possibly the worst movie ever made",
+    "reviewBody": "This is one of the worst films I&apos;ve seen. The only positive thing I can say is it was so bad that is seemed comical. First off, there&apos;s no plot. The actors appear to be reading off cue cards and do the dumbest things. Such as being chased by dead people but yet wanting to go out and look for their friends. Also the zombies were terrible, no where near as fun as any of Romero&apos;s work, who gets s plug in the movie. And the dumbest part of all was they kept showing flashes of the video game in the action sequences. Like we don&apos;t get the video game is about shooting zombies. Also, all the 20 somethings some how know how to use automatic weapons and hit a target without even aiming the gun. And the way the people die is so stupid. It&apos;s like they run out of ammo so stand around waiting to be jumped on. And when cornered in front of the house they run out of ammo instead of shooting the door open, So dumb.\\n\\nFINAL VERDICT: If any of these actors appear in another film, then they&apos;ve been blessed with a second chance. Definitely the worst film I&apos;ve seen in years. A B-movie on cinemax is better.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 38452,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 2.1
+  }
+}

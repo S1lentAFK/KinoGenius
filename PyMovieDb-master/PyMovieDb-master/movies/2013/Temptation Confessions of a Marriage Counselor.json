@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Temptation: Confessions of a Marriage Counselor",
+  "url": "https://www.imdb.com/tt2070862/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIyMzIwMTk0MV5BMl5BanBnXkFtZTcwNzM4NDI4OA@@._V1_.jpg",
+  "description": "An ambitious married woman&apos;s temptation by a handsome billionaire leads to betrayal, recklessness, and forever alters the course of her life.",
+  "contentRating": "12",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2013-03-29",
+  "keywords": "sex in a bathtub,dysfunctional marriage,cheating wife,sex,adultery",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Jurnee Smollett",
+      "url": "https://www.imdb.com/name/nm0810619/"
+    },
+    {
+      "name": "Vanessa Williams",
+      "url": "https://www.imdb.com/name/nm0001853/"
+    },
+    {
+      "name": "Brandy Norwood",
+      "url": "https://www.imdb.com/name/nm0005275/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tyler Perry",
+      "url": "https://www.imdb.com/name/nm1347153/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tyler Perry",
+      "url": "https://www.imdb.com/name/nm1347153/"
+    }
+  ],
+  "review": {
+    "author": "ashleighkillebrew",
+    "dateCreated": "2013-07-23",
+    "inLanguage": "English",
+    "heading": "Good movie!",
+    "reviewBody": "I actually liked this movie, I don&apos;t know why it has such bad reviews. I know a lot of people don&apos;t like Tyler perry. But he&apos;s not even in this movie. It&apos;s not a comedy at all, which is unlike Tyler perry. But I thoroughly enjoyed it.\\n\\nKim kardashian isn&apos;t as bad of an actress as you think she might be. I was expecting her to be awful, but it wasn&apos;t that bad. Obviously she shouldn&apos;t quit her day job but it was bearable nonetheless.\\n\\nThe story line was actually interesting, and I love movies with a twist. This movie pulled me in and played with my emotions. It made me ask myself questions and wonder what I would do if I were in the main characters shoes. I would totally watch this movie again!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 12401,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.9
+  }
+}

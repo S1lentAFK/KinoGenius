@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Guardians of the Galaxy Vol. 3",
+  "url": "https://www.imdb.com/tt6791350/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDgxOTdjMzYtZGQxMS00ZTAzLWI4Y2UtMTQzN2VlYjYyZWRiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "Still reeling from the loss of Gamora, Peter Quill rallies his team to defend the universe and one of their own - a mission that could mean the end of the Guardians if not successful.",
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2023-05-03",
+  "keywords": "raccoon,based on comic,team,spaceship,alien planet",
+  "duration": "PT2H30M",
+  "actor": [
+    {
+      "name": "Chris Pratt",
+      "url": "https://www.imdb.com/name/nm0695435/"
+    },
+    {
+      "name": "Chukwudi Iwuji",
+      "url": "https://www.imdb.com/name/nm1030244/"
+    },
+    {
+      "name": "Bradley Cooper",
+      "url": "https://www.imdb.com/name/nm0177896/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Gunn",
+      "url": "https://www.imdb.com/name/nm0348181/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Gunn",
+      "url": "https://www.imdb.com/name/nm0348181/"
+    },
+    {
+      "name": "Jim Starlin",
+      "url": "https://www.imdb.com/name/nm4160687/"
+    },
+    {
+      "name": "Stan Lee",
+      "url": "https://www.imdb.com/name/nm0498278/"
+    }
+  ],
+  "review": {
+    "author": "ta-98251",
+    "dateCreated": "2023-05-04",
+    "inLanguage": "English",
+    "heading": "A Fitting and Heartfelt End to the Trilogy",
+    "reviewBody": "Having sat through some phase 4 films that failed to inspire... Guardians feels like a breath of fresh air. It's less a run of the mill superhero film and more a out of world space adventure handled with care by James Gunn.\n\nAt its heart, Guardians of the Galaxy: Volume 3 is a story about family, loss and technology all of which are prominent in today's zeitgeist. These themes sometimes cause you to forget that you are watching a Marvel movie. The movie's backstory is dark but it helps to hammer home the themes and the villain.\n\nThe universe is full of characters that are both weird (sometimes very weird) and unique when compared to the rest of the MCU. That's mostly a good thing. Despite the movie being dark at times, there is also a lot of humour which fits especially well with the Guardians of the Galaxy franchise when compared to other Marvel franchises. The action and of course the music was up to level we now expect from Guardians of the Galaxy movies. This is one of the better Post Endgame movies and a fitting end to the trilogy.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 370384,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  }
+}

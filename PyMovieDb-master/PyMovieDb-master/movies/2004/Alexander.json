@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Alexander",
+  "url": "https://www.imdb.com/tt0346491/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA1NDQ3OTY2NDVeQTJeQWpwZ15BbWU3MDI5MDc0MzM@._V1_.jpg",
+  "description": "Alexander, the King of Macedonia and one of the greatest army leaders in the history of warfare, conquers much of the known world.",
+  "review": {
+    "author": "abc-27",
+    "dateCreated": "2004-11-25",
+    "inLanguage": "English",
+    "heading": "Masterpiece",
+    "reviewBody": "The movie shows with excruciating detail the personal drama of one of the most influential characters in world history. Without Alexander there would be no western civilization since the Greeks liked keeping their culture for themselves only.\\n\\nThis picture is not for the faint of heart since it depicts the flaws of a real person and the way he really lived. As for those who expected to see a Gladiator movie... Well they are not Alexanders... But nations like the American nation were built by founding fathers who had the heart of Alexander the Great.\\n\\nKudos to Stone",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 175911,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Biography",
+    "Drama"
+  ],
+  "datePublished": "2005-01-07",
+  "keywords": "ancient greece,greek,macedonia,gay,reference to zeus the greek deity",
+  "duration": "PT2H55M",
+  "actor": [
+    {
+      "name": "Colin Farrell",
+      "url": "https://www.imdb.com/name/nm0268199/"
+    },
+    {
+      "name": "Anthony Hopkins",
+      "url": "https://www.imdb.com/name/nm0000164/"
+    },
+    {
+      "name": "Rosario Dawson",
+      "url": "https://www.imdb.com/name/nm0206257/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Oliver Stone",
+      "url": "https://www.imdb.com/name/nm0000231/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Oliver Stone",
+      "url": "https://www.imdb.com/name/nm0000231/"
+    },
+    {
+      "name": "Christopher Kyle",
+      "url": "https://www.imdb.com/name/nm0477370/"
+    },
+    {
+      "name": "Laeta Kalogridis",
+      "url": "https://www.imdb.com/name/nm0436164/"
+    }
+  ]
+}

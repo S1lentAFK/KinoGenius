@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "We Are Marshall",
+  "url": "https://www.imdb.com/tt0758794/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQwNDczNTg5MF5BMl5BanBnXkFtZTcwNDMwMzEzMw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "dbborroughs",
+    "dateCreated": "2007-01-31",
+    "inLanguage": "English",
+    "heading": "Under rated movie that will make you feel good about the ability to come back from tragedy",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 64577,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2006-12-22",
+  "keywords": "friendship,football,university,coach,marshall university",
+  "duration": "PT2H11M",
+  "actor": [
+    {
+      "name": "Matthew McConaughey",
+      "url": "https://www.imdb.com/name/nm0000190/"
+    },
+    {
+      "name": "Matthew Fox",
+      "url": "https://www.imdb.com/name/nm0289142/"
+    },
+    {
+      "name": "Anthony Mackie",
+      "url": "https://www.imdb.com/name/nm1107001/"
+    }
+  ],
+  "director": [
+    {
+      "name": "McG",
+      "url": "https://www.imdb.com/name/nm0629334/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jamie Linden",
+      "url": "https://www.imdb.com/name/nm1956691/"
+    },
+    {
+      "name": "Cory Helms",
+      "url": "https://www.imdb.com/name/nm2124061/"
+    }
+  ]
+}

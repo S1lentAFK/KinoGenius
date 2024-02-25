@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Covenant",
+  "url": "https://www.imdb.com/tt4873118/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmQzOWZhOTMtZTcxNC00MTdkLWEwYmUtOWVmOTFhNTdkNjRkXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_.jpg",
+  "description": "During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.",
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2023-06-20",
+  "keywords": "afghan interpreter,taliban,soldier,united states military,rescue",
+  "duration": "PT2H3M",
+  "actor": [
+    {
+      "name": "Jake Gyllenhaal",
+      "url": "https://www.imdb.com/name/nm0350453/"
+    },
+    {
+      "name": "Dar Salim",
+      "url": "https://www.imdb.com/name/nm1502469/"
+    },
+    {
+      "name": "Sean Sagar",
+      "url": "https://www.imdb.com/name/nm4727272/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Guy Ritchie",
+      "url": "https://www.imdb.com/name/nm0005363/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Guy Ritchie",
+      "url": "https://www.imdb.com/name/nm0005363/"
+    },
+    {
+      "name": "Ivan Atkinson",
+      "url": "https://www.imdb.com/name/nm6842463/"
+    },
+    {
+      "name": "Marn Davies",
+      "url": "https://www.imdb.com/name/nm3044095/"
+    }
+  ],
+  "review": {
+    "author": "cjonesas",
+    "dateCreated": "2023-06-02",
+    "inLanguage": "English",
+    "heading": "[8.2] When you think the end is near, a glimmer of hope bathes you in its light",
+    "reviewBody": "A movie that starts semi-uninteresting, foggy, vague laced with unknowingness, but gradually takes beautiful shape, commitment, camaraderie, hidden pledge deep from the heart, backed by Jake Gyllenhaal and Dar Salim&apos;s charismatic acting, superb and haunting photography & filming, supersonic tech and weaponry and moments of intense despair, frustration and anger.\\n\\nMy initial reserve, doubt and thought of clich\\u00e9d repetitiveness quickly melted like snow in the sun. More than 85% of the movie seems and is realistic and that&apos;s an achievement by itself. Liked it very much and recommend it to any person with a deep sense of honor.\\n\\nWhen you think the end is near, a glimmer of hope bathes you in its light.\\n\\n\\n* Screenplay/story: 7\\n* Development: 8\\n* Realism: 8.5\\n* Entertainment: 8\\n* Acting: 8\\n* Filming/photography/cinematography: 8.5\\n* Visual/special effects: 8.5\\n* Music/score: 8\\n* Depth: 8.5\\n* Logic: 7\\n* Flow: 8.5\\n* Action/thriller/war: 8\\n* Ending: 8.\\n",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 155118,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  }
+}

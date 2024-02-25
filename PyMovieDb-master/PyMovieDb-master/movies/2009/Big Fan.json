@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Big Fan",
+  "url": "https://www.imdb.com/tt1228953/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjExNjQxNTczMl5BMl5BanBnXkFtZTcwMjc5MTA3Mg@@._V1_.jpg",
+  "description": "A hard-core New York Giants fan struggles to deal with the consequences when he is beaten up by his favorite player.",
+  "review": {
+    "author": "13Funbags",
+    "dateCreated": "2017-06-11",
+    "inLanguage": "English",
+    "heading": "You don't have to like sports to enjoy this movie.",
+    "reviewBody": "I never knew this movie existed until Howard Stern mentioned it on his show last week. I'm glad he did because this was a good movie. Patton Oswalt is once again type-cast as the geeky guy who lives with his mom except this time he's a huge football fan. Michael Rappaport basically just plays himself, a mean spirited jerk, and Kevin Corrigan is once again type-cast as the barely noticeable, somewhat supportive best friend. Despite the three main actors not stretching at all for this movie, it still works somehow. Though I must say that Satan from Your Pretty Face Is Going To Hell was disappointing as the police detective. This is definitely a movie you should see.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 9824,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "R",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2021-09-18",
+  "keywords": "dark humor,man wears underwear,adult child lives at home,new york giants football,new york city",
+  "duration": "PT1H28M",
+  "actor": [
+    {
+      "name": "Patton Oswalt",
+      "url": "https://www.imdb.com/name/nm0652663/"
+    },
+    {
+      "name": "Kevin Corrigan",
+      "url": "https://www.imdb.com/name/nm0180984/"
+    },
+    {
+      "name": "Michael Rapaport",
+      "url": "https://www.imdb.com/name/nm0001650/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Siegel",
+      "url": "https://www.imdb.com/name/nm1557909/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Siegel",
+      "url": "https://www.imdb.com/name/nm1557909/"
+    }
+  ]
+}

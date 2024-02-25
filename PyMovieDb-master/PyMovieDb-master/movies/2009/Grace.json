@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Grace",
+  "url": "https://www.imdb.com/tt3068192/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjg0MmFiOWMtMDI4My00YjFhLWExYzQtYTQ0YzU5YzFlMmQwXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+  "description": "Grace is an 18-year-old Catholic girl whose purity is overtaken by a demonic force. Will it consume her?",
+  "review": {
+    "author": "smoke0",
+    "dateCreated": "2014-11-01",
+    "inLanguage": "English",
+    "heading": "Surprisingly good",
+    "reviewBody": "I was really pleasantly surprised. The first-person POV is well done, the cast can act, the story is complete, and there isn't a single wasted moment.\n\nWhat may turn some potential viewers off is that this movie is also Lifetime-channel-ready, as there is no gore or nudity (at least in the version I saw), which normally would be fine for me, because I don't need the typical tacky tropes of horror movies to be able to enjoy a horror movie.\n\nHowever, in this case, the lack of nudity and gore is actually too safe and too tame, as it detracts from the movie's overall impact, especially with the back story glimpses and progressive changes in the lead character, but that's hardly a reason to stay away. And there must be the inevitable director's cut available sooner or later...",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 3732,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2014-10-21",
+  "keywords": "teenager,college,grandmother granddaughter relationship,exorcism,pov",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Alexia Fast",
+      "url": "https://www.imdb.com/name/nm2145177/"
+    },
+    {
+      "name": "Lin Shaye",
+      "url": "https://www.imdb.com/name/nm0005417/"
+    },
+    {
+      "name": "Alan Dale",
+      "url": "https://www.imdb.com/name/nm0197638/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeff Chan",
+      "url": "https://www.imdb.com/name/nm3728712/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jeff Chan",
+      "url": "https://www.imdb.com/name/nm3728712/"
+    },
+    {
+      "name": "Chris Pare",
+      "url": "https://www.imdb.com/name/nm2425790/"
+    },
+    {
+      "name": "Peter Huang",
+      "url": "https://www.imdb.com/name/nm2368613/"
+    }
+  ]
+}

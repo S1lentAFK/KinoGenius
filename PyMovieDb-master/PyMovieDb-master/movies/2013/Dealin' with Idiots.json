@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "Dealin' with Idiots",
+  "url": "https://www.imdb.com/tt2948266/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjE0MTIyMDY0Ml5BMl5BanBnXkFtZTcwMjA1Njk2OQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "cB391",
+    "dateCreated": "2013-07-13",
+    "inLanguage": "English",
+    "heading": "Dealin' with Idiots Review",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 1476,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2013-07-12",
+  "keywords": "comedian,bikini,baseball,baseball team,father son relationship",
+  "duration": "PT1H28M",
+  "actor": [
+    {
+      "name": "Jeff Garlin",
+      "url": "https://www.imdb.com/name/nm0307531/"
+    },
+    {
+      "name": "Steve Agee",
+      "url": "https://www.imdb.com/name/nm0012948/"
+    },
+    {
+      "name": "Gina Gershon",
+      "url": "https://www.imdb.com/name/nm0000153/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeff Garlin",
+      "url": "https://www.imdb.com/name/nm0307531/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jeff Garlin",
+      "url": "https://www.imdb.com/name/nm0307531/"
+    },
+    {
+      "name": "Peter Murrieta",
+      "url": "https://www.imdb.com/name/nm0615373/"
+    }
+  ]
+}

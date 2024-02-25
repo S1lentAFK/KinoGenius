@@ -1,0 +1,75 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Descendants",
+  "url": "https://www.imdb.com/tt1033575/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAyNTA1MTcyN15BMl5BanBnXkFtZTcwNjEyODczNQ@@._V1_.jpg",
+  "description": "A land baron tries to reconnect with his two daughters after his wife is seriously injured in a boating accident.",
+  "review": {
+    "author": "Ryan_MYeah",
+    "dateCreated": "2012-01-18",
+    "inLanguage": "English",
+    "heading": "Payne knows exactly what he's doing, and what he's doing is tremendous.",
+    "reviewBody": "Alexander Payne hasn't made a film from the director's chair since his incredible Sideways back in 2004. Seven years later, he finally returns, and with The Descendants, he returns with a bang.\n\nLike Sideways, his screenplay (co-written by Nat Faxon and Jim Rash) nails the tone right on the head. It has to balance out three tricky narratives in the film (Matt King's self-crisis, his comatose wife's affair with another man before her boating accident, and a land deal he's reported to make), and without the proper guidance it needed, along with Payne's own confidant direction, it could have faltered. Thankfully, it balances out heavy themes and complicated emotions in uncommon detail.\n\nThe characters in this movie are many, complicated, and sorrowful in their own unique ways. Matt King was a perfect role for George Clooney. He keeps his composure, but we can still see a very heavy, filtered sorrow beneath the surface. Shailene Woodley's character (Woodley, by the way, gives one of the year's best performances) begins with a rebellious, even angry sadness, but we can see her develop over the course of the film, gaining a strong maturity beyond her years. Judy Greer and Robert Forster are each given a few spare scenes, and they make every second of their screen time count.\n\nIt really is an emotional ride, even depressing sometimes, but I'm surprised by the occasional review I read where critics say they didn't feel the emotion to be sincere. In my opinion, the emotions of the film never hit a single false note. I don't think just anybody could have made this movie the way it is. This isn't a typical drama, the movie's genre is Payne, and he knows exactly what he's doing.\n\n***1/2 out of ****",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 250504,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2012-01-27",
+  "keywords": [
+    "father daughter relationship",
+    "boating accident",
+    "hawaii",
+    "cheating wife",
+    "dying mother"
+  ],
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "George Clooney",
+      "url": "https://www.imdb.com/name/nm0000123/"
+    },
+    {
+      "name": "Shailene Woodley",
+      "url": "https://www.imdb.com/name/nm0940362/"
+    },
+    {
+      "name": "Amara Miller",
+      "url": "https://www.imdb.com/name/nm3837786/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Alexander Payne",
+      "url": "https://www.imdb.com/name/nm0668247/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Alexander Payne",
+      "url": "https://www.imdb.com/name/nm0668247/"
+    },
+    {
+      "name": "Nat Faxon",
+      "url": "https://www.imdb.com/name/nm0269542/"
+    },
+    {
+      "name": "Jim Rash",
+      "url": "https://www.imdb.com/name/nm0711110/"
+    }
+  ]
+}

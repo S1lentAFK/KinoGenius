@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Mrs. Harris Goes to Paris",
+  "url": "https://www.imdb.com/tt5151570/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2UyOWJjMWEtNmIwYS00ZjM5LWEyYjMtMTI4NDBhMzViNmIyXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+  "description": "A widowed cleaning lady in 1950s London falls madly in love with a couture Dior dress, and decides that she must have one of her own.",
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2022-09-30",
+  "keywords": "cleaning lady,london england,paris france,widow,designer dress",
+  "duration": "PT1H55M",
+  "rating": {
+    "ratingCount": 25446,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "review": {
+    "author": "jasogle",
+    "dateCreated": "2022-07-26",
+    "inLanguage": "English",
+    "heading": "Pleasant Afternoon out of the Heat",
+    "reviewBody": "A fun and refreshing afternoon at the movies. Very little drama, some fun lines and totally predictable story. So what? That's what fun movies are for.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "Lesley Manville",
+      "url": "https://www.imdb.com/name/nm0544334/"
+    },
+    {
+      "name": "Isabelle Huppert",
+      "url": "https://www.imdb.com/name/nm0001376/"
+    },
+    {
+      "name": "Lambert Wilson",
+      "url": "https://www.imdb.com/name/nm0933727/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Anthony Fabian",
+      "url": "https://www.imdb.com/name/nm0003745/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Paul Gallico",
+      "url": "https://www.imdb.com/name/nm0302904/"
+    },
+    {
+      "name": "Carroll Cartwright",
+      "url": "https://www.imdb.com/name/nm0142154/"
+    },
+    {
+      "name": "Anthony Fabian",
+      "url": "https://www.imdb.com/name/nm0003745/"
+    }
+  ]
+}

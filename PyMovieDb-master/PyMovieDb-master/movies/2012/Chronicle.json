@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Chronicle",
+  "url": "https://www.imdb.com/tt1706593/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmRkY2RhM2QtMjQwNC00NDVjLTk4MTQtZGNiMjYxMmJmODVhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "devarsh85",
+    "dateCreated": "2012-02-13",
+    "inLanguage": "English",
+    "heading": "Chronicle : A Realistic take on Sci \\u2013 Fi Action",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 263165,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "datePublished": "2012-02-01",
+  "keywords": "troubled teen,levitation,supernatural power,found footage,video camera",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Dane DeHaan",
+      "url": "https://www.imdb.com/name/nm2851530/"
+    },
+    {
+      "name": "Alex Russell",
+      "url": "https://www.imdb.com/name/nm3887625/"
+    },
+    {
+      "name": "Michael B. Jordan",
+      "url": "https://www.imdb.com/name/nm0430107/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Josh Trank",
+      "url": "https://www.imdb.com/name/nm2503633/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Max Landis",
+      "url": "https://www.imdb.com/name/nm0484840/"
+    },
+    {
+      "name": "Josh Trank",
+      "url": "https://www.imdb.com/name/nm2503633/"
+    }
+  ]
+}

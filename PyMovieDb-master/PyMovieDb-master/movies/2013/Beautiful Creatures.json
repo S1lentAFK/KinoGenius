@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Beautiful Creatures",
+  "url": "https://www.imdb.com/tt1559547/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQyMjYwODMwMl5BMl5BanBnXkFtZTcwODUwNzY5OA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "kryrain",
+    "dateCreated": "2013-07-07",
+    "inLanguage": "English",
+    "heading": "Great Movie! Never read the book",
+    "reviewBody": "OK so I postponed watching this movie due to the harsh comments it had gotten from many people about how it wasn't worth watching and I have to say I completely disagree with them! \n\nI watched this movie and loved the story and will admit even got sad/happy at points following the characters growth and change in the movie. It took me to a place that I had never thought about and I will say that, that is something when there are so many movies out these days. \n\nFor those who give it crap for not being like the book I do have to say that look at most any book to movie series i.e Harry Potter/Twilight/Hunger Games there are things that have to be left out or reworked in order for a movie to go through it will never be EXACTLY the same. Some things just don't work in the movie world. \n\nAgain I loved this movie and would love to see a sequel come out of it. (Yes I do plan on reading the book anyways.)",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 90756,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "datePublished": "2013-02-13",
+  "keywords": "male protagonist,adolescent,abuse,fight,party",
+  "duration": "PT2H4M",
+  "actor": [
+    {
+      "name": "Alice Englert",
+      "url": "https://www.imdb.com/name/nm2129444/"
+    },
+    {
+      "name": "Viola Davis",
+      "url": "https://www.imdb.com/name/nm0205626/"
+    },
+    {
+      "name": "Emma Thompson",
+      "url": "https://www.imdb.com/name/nm0000668/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Richard LaGravenese",
+      "url": "https://www.imdb.com/name/nm0481418/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Richard LaGravenese",
+      "url": "https://www.imdb.com/name/nm0481418/"
+    },
+    {
+      "name": "Kami Garcia",
+      "url": "https://www.imdb.com/name/nm3721581/"
+    },
+    {
+      "name": "Margaret Stohl",
+      "url": "https://www.imdb.com/name/nm0831130/"
+    }
+  ]
+}

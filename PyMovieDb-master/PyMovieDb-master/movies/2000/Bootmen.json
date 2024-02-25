@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Bootmen",
+  "url": "https://www.imdb.com/tt0210584/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjNkMjBiN2EtYWNlYi00NWNhLTljMDItOTQzNTMyOGRiOWFiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": "Charismatic tap dancing Sean tries to find a way out of working at the steel mill. When failure brings him home he starts his own dance group wearing hardhats. He must then find inspiration in the steel mill he once tried to escape.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2000-10-05",
+  "keywords": "australian,family relationships,violence,father son reconciliation,blonde",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Vaughan Sheffield",
+      "url": "https://www.imdb.com/name/nm0790818/"
+    },
+    {
+      "name": "Christian Patterson",
+      "url": "https://www.imdb.com/name/nm0666156/"
+    },
+    {
+      "name": "Lisa Perry",
+      "url": "https://www.imdb.com/name/nm0675172/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dein Perry",
+      "url": "https://www.imdb.com/name/nm0675032/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steve Worland",
+      "url": "https://www.imdb.com/name/nm0941489/"
+    },
+    {
+      "name": "Hilary Linstead",
+      "url": "https://www.imdb.com/name/nm0513182/"
+    },
+    {
+      "name": "Dein Perry",
+      "url": "https://www.imdb.com/name/nm0675032/"
+    }
+  ],
+  "review": {
+    "author": "baybee",
+    "dateCreated": "2002-06-02",
+    "inLanguage": "English",
+    "heading": "Impressive",
+    "reviewBody": "I was born in Newcastle where this film was set, and was still living there at the time when this was filmed and when released was very interested in watching it.\\n\\nAll I can say is that Adam Garcia was fantastic and showed his amazing dancing skills - he is also a great singer as well as shown on An Audience with Kylie Minogue last year and he is definitely such a versatile performer and one to watch in years to come.\\n\\nSeeing areas of where I grew up in Newcastle was surreal and I even recognised some local faces as extras. The theatre they used when Adam&apos;s character was in Sydney was really the Civic Theatre which is located in Newcastle.\\n\\nSophie Lee has come a long way the past few years and definitely deserves higher recognition - I&apos;m not saying this because she is also a Newcastle girl but I thought she outshone Kate Winslet in Holy Smoke and gave Toni Collete a run for her money in Muriel&apos;s Wedding and it was a shame she didn&apos;t have a bigger role.\\n\\nAustralian movies are really hit or miss and this is definitely a hit, along with The Dish which was released around the same time. The dancing sequence is heartpounding and this is definitely one film worth a look.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 2470,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  }
+}

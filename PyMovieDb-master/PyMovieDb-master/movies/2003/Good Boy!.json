@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Good Boy",
+  "url": "https://www.imdb.com/tt19705884/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWZhZjYyZmItMGRmNS00OTdmLWJjNDQtNjc1YzYyYzA5ZDE0XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "pedroquintaoo",
+    "dateCreated": "2023-10-13",
+    "inLanguage": "English",
+    "heading": "Good but not so disturbing as you think",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 1585,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2023-09-08",
+  "keywords": "young,man,spanking",
+  "duration": "PT1H16M",
+  "actor": [
+    {
+      "name": "Gard L\\u00f8kke",
+      "url": "https://www.imdb.com/name/nm5556207/"
+    },
+    {
+      "name": "Katrine Lovise \\u00d8pstad Fredriksen",
+      "url": "https://www.imdb.com/name/nm8039344/"
+    },
+    {
+      "name": "Nicolai Narvesen Lied",
+      "url": "https://www.imdb.com/name/nm11038284/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Viljar B\\u00f8e",
+      "url": "https://www.imdb.com/name/nm11038269/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Viljar B\\u00f8e",
+      "url": "https://www.imdb.com/name/nm11038269/"
+    }
+  ]
+}

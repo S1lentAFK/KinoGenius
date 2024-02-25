@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "Slow Burn",
+  "url": "https://www.imdb.com/tt0376196/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAxNDQ3NTg0MF5BMl5BanBnXkFtZTcwNTUxNzQ0MQ@@._V1_.jpg",
+  "description": "A district attorney is involved in a 24-hour showdown with a gang leader and is, at the same time, being manipulated by an attractive assistant district attorney and a cryptic stranger.",
+  "review": {
+    "author": "galaxydude14",
+    "dateCreated": "2008-10-07",
+    "inLanguage": "English",
+    "heading": "don&apos;t blink",
+    "reviewBody": "I had not heard of this movie when me and my friend picked it up at Blockbuster. It was between this and Be Kind Rewind and fortunately we chose this movie. Ray Liotta plays a district attourney running for mayor when his DA is raped by a supposed psychotic music store clerk and then murders him. Liotta is taken on a roller coaster of a mystery where you don&apos;t know who is telling the truth and if everyone is who they say they are. There are so many twists and turns that it becomes confusing at points but it all adds up to the ending which relieves your confusion. I haven&apos;t heard of Jolene Blalock but she is excellent in her role as the supposedly raped(was she or wasn&apos;t she?) DA who may have some tricks up her sleeve. The only thing i had a problem with was some of the dialouge. LL Cool J&apos;s ramblings about everything smelling like food was a bit strange. Other than that it was awesome",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 4174,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "R",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2007-04-13",
+  "keywords": [
+    "female nudity",
+    "female topless nudity",
+    "peeping",
+    "cardboard cutout",
+    "envelope of money"
+  ],
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Ray Liotta",
+      "url": "https://www.imdb.com/name/nm0000501/"
+    },
+    {
+      "name": "Jolene Blalock",
+      "url": "https://www.imdb.com/name/nm0086883/"
+    },
+    {
+      "name": "LL Cool J",
+      "url": "https://www.imdb.com/name/nm0005112/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Wayne Beach",
+      "url": "https://www.imdb.com/name/nm0063511/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Wayne Beach",
+      "url": "https://www.imdb.com/name/nm0063511/"
+    },
+    {
+      "name": "Anthony Walton",
+      "url": "https://www.imdb.com/name/nm2007267/"
+    }
+  ]
+}

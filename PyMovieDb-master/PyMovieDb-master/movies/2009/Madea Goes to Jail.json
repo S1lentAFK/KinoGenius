@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Madea Goes to Jail",
+  "url": "https://www.imdb.com/tt1142800/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk1Nzg0MDIxM15BMl5BanBnXkFtZTcwMjk5ODkyMg@@._V1_.jpg",
+  "description": null,
+  "contentRating": "PG-13",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2009-02-20",
+  "keywords": "cross dressing,2000s,mabel 'madea' simmons character,crooked lawyer,prison",
+  "duration": "PT1H43M",
+  "rating": {
+    "ratingCount": 12882,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.5
+  },
+  "review": {
+    "author": "Hallelujah289",
+    "dateCreated": "2021-05-12",
+    "inLanguage": "English",
+    "heading": "Great cast but...",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "actor": [
+    {
+      "name": "Tyler Perry",
+      "url": "https://www.imdb.com/name/nm1347153/"
+    },
+    {
+      "name": "Keshia Knight Pulliam",
+      "url": "https://www.imdb.com/name/nm0700443/"
+    },
+    {
+      "name": "Derek Luke",
+      "url": "https://www.imdb.com/name/nm1035682/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tyler Perry",
+      "url": "https://www.imdb.com/name/nm1347153/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tyler Perry",
+      "url": "https://www.imdb.com/name/nm1347153/"
+    }
+  ]
+}

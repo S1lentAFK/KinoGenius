@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Twelve Monkeys",
+  "url": "https://www.imdb.com/tt0114746/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2Y2OWU4MWMtNmIyMy00YzMyLWI0Y2ItMTcyZDc3MTdmZDU4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "j30bell",
+    "dateCreated": "2006-11-23",
+    "inLanguage": "English",
+    "heading": "Full of Gillian-isms, Empty of Willis-isms - in a good way...",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 643248,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "datePublished": "1996-04-19",
+  "keywords": "time travel,virus,plague,underground,epidemic",
+  "duration": "PT2H9M",
+  "actor": [
+    {
+      "name": "Bruce Willis",
+      "url": "https://www.imdb.com/name/nm0000246/"
+    },
+    {
+      "name": "Madeleine Stowe",
+      "url": "https://www.imdb.com/name/nm0000656/"
+    },
+    {
+      "name": "Brad Pitt",
+      "url": "https://www.imdb.com/name/nm0000093/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Terry Gilliam",
+      "url": "https://www.imdb.com/name/nm0000416/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Chris Marker",
+      "url": "https://www.imdb.com/name/nm0003408/"
+    },
+    {
+      "name": "David Webb Peoples",
+      "url": "https://www.imdb.com/name/nm0672459/"
+    },
+    {
+      "name": "Janet Peoples",
+      "url": "https://www.imdb.com/name/nm0672466/"
+    }
+  ]
+}

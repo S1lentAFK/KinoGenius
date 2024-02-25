@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Assassin's Creed",
+  "url": "https://www.imdb.com/tt2094766/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWVhNDY1MzQtZjAyMi00NDIwLWIzMjktN2RlZTI4M2EyMzQzXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_.jpg",
+  "description": "Callum Lynch explores the memories of his ancestor Aguilar de Nerha and gains the skills of a Master Assassin, before taking on the secret Templar society.",
+  "contentRating": "PG-13",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2017-01-01",
+  "keywords": "based on video game,assassin,secret society,spain,spanish inquisition",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Michael Fassbender",
+      "url": "https://www.imdb.com/name/nm1055413/"
+    },
+    {
+      "name": "Marion Cotillard",
+      "url": "https://www.imdb.com/name/nm0182839/"
+    },
+    {
+      "name": "Jeremy Irons",
+      "url": "https://www.imdb.com/name/nm0000460/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Justin Kurzel",
+      "url": "https://www.imdb.com/name/nm0997291/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Lesslie",
+      "url": "https://www.imdb.com/name/nm2078681/"
+    },
+    {
+      "name": "Adam Cooper",
+      "url": "https://www.imdb.com/name/nm0177836/"
+    },
+    {
+      "name": "Bill Collage",
+      "url": "https://www.imdb.com/name/nm0171651/"
+    }
+  ],
+  "review": {
+    "author": "sier-85276",
+    "dateCreated": "2016-12-22",
+    "inLanguage": "English",
+    "heading": "Don't listen to the haters/critics!",
+    "reviewBody": "Following a somewhat parallel story to the original game, I do wish they would've stuck with original characters. Despite that, the film remains a fun and intriguing watch. The change of the Animus from a bed-like system to the VR style arm was something I originally disliked, but that change ends up playing well into the film visually and aids in parts of the story. The action scenes are well choreographed and exciting, countered with what may be a few too many close up facial expressions and dialogue that might easily confuse someone less familiar with the base plot of the franchise. As far as movie adaptations of video games, this is a far better rendition than many other attempts. As a standalone film it needs some work. But I know they intended to produce a trilogy so I'd like to believe the opportunity to release sequels will give the audience more of what they're looking for, while this movie may have been a bit too much set up rather than development. Personally I generously offer it 7/10, and would recommend seeing it. I hope it is successful enough for them to finish the intended trilogy.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 207854,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  }
+}

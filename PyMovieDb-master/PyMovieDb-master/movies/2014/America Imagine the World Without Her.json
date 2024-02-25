@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "America: Imagine the World Without Her",
+  "url": "https://www.imdb.com/tt2785390/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM0MjgyOTQ4NF5BMl5BanBnXkFtZTgwOTQ1NzQ3MTE@._V1_.jpg",
+  "description": "A story that questions the shaming of the US through revisionist history, lies and omissions by educational institutions, political organizations, Alinsky, Barack Obama, Hillary Clinton and other progressives to destroy America.",
+  "contentRating": "PG-13",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2014-07-02",
+  "keywords": "conspiracy theory,jingoism,nationalism,right winger,country name in title",
+  "duration": "PT1H47M",
+  "rating": {
+    "ratingCount": 7033,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5
+  },
+  "review": {
+    "author": "red9995",
+    "dateCreated": "2014-07-06",
+    "inLanguage": "English",
+    "heading": "Saw the movie",
+    "reviewBody": "Saw the movie last night and I was impressed. Unlike Michael Moore, who distorts the truth and only presents one side, Dinesh took pains to present both sides. He admits that America is not perfect or without sin. But what nation can claim perfection? Not a one! I am so tired of the USA bashers. If you really feel it's so terrible here, why don't you try living somewhere else? Try Cuba! After all Michael Moore is in love with their health care system. I notice he didn't relocate. And he's so sympathetic to the poor!? I don't see him giving away his millions to charity. You know, the mind is like a parachute. It only works when it is open.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "actor": [
+    {
+      "name": "Dinesh D'Souza",
+      "url": "https://www.imdb.com/name/nm1625338/"
+    },
+    {
+      "name": "Barack Obama",
+      "url": "https://www.imdb.com/name/nm1682433/"
+    },
+    {
+      "name": "Josh Bonzie",
+      "url": "https://www.imdb.com/name/nm3829769/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dinesh D'Souza",
+      "url": "https://www.imdb.com/name/nm1625338/"
+    },
+    {
+      "name": "John Sullivan",
+      "url": "https://www.imdb.com/name/nm2769225/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dinesh D'Souza",
+      "url": "https://www.imdb.com/name/nm1625338/"
+    },
+    {
+      "name": "John Sullivan",
+      "url": "https://www.imdb.com/name/nm2769225/"
+    },
+    {
+      "name": "Bruce Schooley",
+      "url": "https://www.imdb.com/name/nm6583447/"
+    }
+  ]
+}

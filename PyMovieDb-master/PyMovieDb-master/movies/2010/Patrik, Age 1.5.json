@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Patrik 1,5",
+  "url": "https://www.imdb.com/tt1067733/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg1OTc2MTAyMl5BMl5BanBnXkFtZTcwNzQzMDUxMw@@._V1_.jpg",
+  "description": "A Swedish gay couple adopt what they think is an 18-month-old orphan, only to meet their new son, a 15-year-old homophobic delinquent.",
+  "review": {
+    "author": "sinnerofcinema",
+    "dateCreated": "2010-08-07",
+    "inLanguage": "English",
+    "heading": "A beautifully crafted film. Emotional and heartfelt without being sappy",
+    "reviewBody": "This is one of those rare occurrences when you attend a cinematic experience that takes you through an array of emotions. And if the main couple weren&apos;t gay, you&apos;d never know the difference by the heartaches, trials are tribulations they must endure. You are most likely to see this as just another couple struggling to adopt. However, in this case, this couple is launched into a whirlwind of surprises as they happily prepare to receive their newly adopted son. Things don&apos;t turn out quite right, and the story takes off from there. I must comment on the craftsmanship of the film because it seems like there was a lot of love and emotion put into it. The actors, the writing, the direction, the look, everything of about this film is so well done that it wallows in a very nostalgic mood where as an audience member you hope matters get resolved to the benefit of the main characters. Enjoy the ride for you will find it quite a delightful experience. Folks from all ages and walks of life can watch, learn and appreciate the beauty and contradicting curve-balls and pitfalls life throws at you. All generations can take something from this film that personally applies to a life experience. An exquisitely beautiful film not to be missed.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 10361,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2008-09-12",
+  "keywords": "15 year old,gay couple,teenage boy,gay sex,adoption",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Gustaf Skarsgård",
+      "url": "https://www.imdb.com/name/nm0803890/"
+    },
+    {
+      "name": "Torkel Petersson",
+      "url": "https://www.imdb.com/name/nm0677471/"
+    },
+    {
+      "name": "Tom Ljungman",
+      "url": "https://www.imdb.com/name/nm1468283/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ella Lemhagen",
+      "url": "https://www.imdb.com/name/nm0501281/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Druker",
+      "url": "https://www.imdb.com/name/nm0238510/"
+    },
+    {
+      "name": "Ella Lemhagen",
+      "url": "https://www.imdb.com/name/nm0501281/"
+    }
+  ]
+}

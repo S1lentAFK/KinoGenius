@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "King Kong",
+  "url": "https://www.imdb.com/tt0360717/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjYxYmRlZWYtMzAwNC00MDA1LWJjNTItOTBjMzlhNGMzYzk3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.",
+  "review": {
+    "author": "pastormark",
+    "dateCreated": "2005-12-15",
+    "inLanguage": "English",
+    "heading": "Makes Jurassic Park look like Barney's playground!",
+    "reviewBody": "Don't get me wrong, I still love Jurassic Park, but the technology there is now twelve years old. Peter Jackson's KING KONG is the experience for which movies were invented. The CGI was incredible, the casting appropriate (this wasn't supposed to be an actor-driven, big-star film, after all), and the flow was satisfying. Even the somewhat slow build-up had a huge payoff once you see Kong running through the jungle with Ann in his giant hand. Is it a flawless movie? Probably not. But it Is a perfect example of why we go to movies in the first place-- to see things that we will never see in our real lives. When I walked out of the theater and was making my way through the deserted lobby, I had an odd feeling. Every poster I saw for an upcoming film kind of made me feel like all those movies were probably just going to be a waste of film next to KING KONG.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 443827,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Romance"
+  ],
+  "datePublished": "2005-12-15",
+  "keywords": "gorilla,island,new york city,jungle,expedition",
+  "duration": "PT3H7M",
+  "actor": [
+    {
+      "name": "Naomi Watts",
+      "url": "https://www.imdb.com/name/nm0915208/"
+    },
+    {
+      "name": "Jack Black",
+      "url": "https://www.imdb.com/name/nm0085312/"
+    },
+    {
+      "name": "Adrien Brody",
+      "url": "https://www.imdb.com/name/nm0004778/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Jackson",
+      "url": "https://www.imdb.com/name/nm0001392/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Fran Walsh",
+      "url": "https://www.imdb.com/name/nm0909638/"
+    },
+    {
+      "name": "Philippa Boyens",
+      "url": "https://www.imdb.com/name/nm0101991/"
+    },
+    {
+      "name": "Peter Jackson",
+      "url": "https://www.imdb.com/name/nm0001392/"
+    }
+  ]
+}

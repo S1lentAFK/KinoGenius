@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Unbreakable",
+  "url": "https://www.imdb.com/tt0217869/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDIwMjAxNzktNmEzYS00ZDY5LWEyZjktM2Y0MmUzZDkyYmZkXkEyXkFqcGdeQXVyNTA4NzY1MzY._V1_.jpg",
+  "description": "A man learns something extraordinary about himself after a devastating accident.",
+  "review": {
+    "author": "edinburghstoryteller",
+    "dateCreated": "2006-01-10",
+    "inLanguage": "English",
+    "heading": "Hugely underrated and misunderstood movie",
+    "reviewBody": "I love this film. I&apos;m the only person I know who doesn&apos;t hate it, but I cannot fathom why it gets such a bad rap from everybody. It seems that Shyamalan&apos;s films have this a running theme - with the notable exception of the Sixth Sense, which pretty much everyone seems to get. He makes movies that are very subtle, and which seem to need you to focus on them just right to fully grasp what he was trying to do. I&apos;ve enjoyed all his movies, but for me the alien part of Signs takes a lot away from what I believe to be the central storyline and as such the whole movie suffers a little. Yet I know other people who think Signs is his best, specifically because of the way the alien plot line accentuates the central one.\\n\\nUnbreakable is a beautifully simple film, but I think it has to hit you just right for you to completely get it. All the actors nail their parts, particularly Bruce Willis and his kid. Shyamalan takes an interesting (if slightly fringe) theory and puts it in a real world context, with a real family. Somehow he manages to never go overboard with it and - for me at least - it gripped me from the first moment to the last. Samuel L Jackson&apos;s character history is really nicely crafted in the middle of the other plot lines and you get genuinely involved in the people Shyamalan has created.\\n\\nDon&apos;t get caught up in all the talk of the twist ending. The ending is good, but if you spend the whole movie waiting for this tumultuous twist you&apos;ll inevitably be disappointed, and the movie stands alone without it. \\n\\nDon&apos;t go into this movie expecting another Sixth Sense or Signs. It&apos;s very very subtle and very understated. If you don&apos;t like slow movies, just don&apos;t watch this because it moves at a very sedate pace, but I personally think you&apos;ll be missing out. You&apos;ll likely either love it or you&apos;ll loathe it, but at least it will make an impression.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 438310,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "12",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "datePublished": "2000-12-29",
+  "keywords": "supernatural power,train crash,superhero,comic book art,father son relationship",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Bruce Willis",
+      "url": "https://www.imdb.com/name/nm0000246/"
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "url": "https://www.imdb.com/name/nm0000168/"
+    },
+    {
+      "name": "Robin Wright",
+      "url": "https://www.imdb.com/name/nm0000705/"
+    }
+  ],
+  "director": [
+    {
+      "name": "M. Night Shyamalan",
+      "url": "https://www.imdb.com/name/nm0796117/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "M. Night Shyamalan",
+      "url": "https://www.imdb.com/name/nm0796117/"
+    }
+  ]
+}

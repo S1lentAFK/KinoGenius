@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "Gake no ue no Ponyo",
+  "url": "https://www.imdb.com/tt0876563/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTc3YmM3N2QtODZkMC00ZDE5LThjMTQtYTljN2Y1YTYwYWJkXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_.jpg",
+  "description": "A five-year-old boy develops a relationship with Ponyo, a young goldfish princess who longs to become a human after falling in love with him.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2010-02-12",
+  "keywords": "studio ghibli,sea goddess,magical realism,tsunami,small town",
+  "duration": "PT1H41M",
+  "rating": {
+    "ratingCount": 160978,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "review": {
+    "author": "tuomas_gimli",
+    "dateCreated": "2012-10-10",
+    "inLanguage": "English",
+    "heading": "Doesn&apos;t make you feel like a child again; it makes you a child again",
+    "reviewBody": "Ponyo is without a doubt one of the loveliest films I&apos;ve seen. I don&apos;t think anyone with a soul can be without smiling at least once during this wonderful piece of work from the hands of animation legend Hayao Miyazaki. There is so much to love about Ponyo.\\n\\nThe story bears a vague resemblance to Little Mermaid. The main character, a 5-year old boy named Sosuke, finds a goldfish in a bottle on the beach and decides to name it Ponyo. Through a series of events Ponyo ends up wanting to become human, and then they have a little adventure together. In traditional terms, there hardly is a story: there&apos;s no conflict, no main villain, no overall goal to achieve and very little character development. Yet none of this will ever bother, because the visuals, the animation and the pure joy the film absolutely oozes of are so overwhelming they drown out any complaints I might have about the film.\\n\\nThat said, the movie really has to have a visual edge if it is to drown out everything else. In that regard Ponyo truly delivers. Everything looks eye-poppingly gorgeous from the water effects to the expressive and instantly distinguishable characters. Most have praised the water effects as the show stealer, but for me it is the animation of the children. Just watching Ponyo run, jump and bounce around with the sheer unbridled joy of a child is a wonder to watch. Look at Sosuke&apos;s expressions the first time he hears Ponyo talk: I bet that&apos;s exactly how you would have looked like if you&apos;d found as a child that your pet could talk. The audio is also excellent, with thudding sound effects and a riveting musical score that makes even the smallest moments feel meaningful. Ponyo&apos;s voice actor is the icing on the cake, giving a performance so adorable it&apos;s almost unbearable.\\n\\nBut the most effective part of Ponyo is its atmosphere, which is quite hard to describe. In short, Ponyo makes you feel like a child adventuring in the woods again. The seemingly limitless positive energy the film has reminds us of the innocence of childhood, when nothing bad could really happen, because there always was someone looking after you. It&apos;s also in the little details: for example, we hardly ever see Sosuke&apos;s mother unless he himself is in the same scene. The main conflict is only slightly hinted at, resembling the kind of things only grownups talked about and understood when we were kids.\\n\\nIn summation, Ponyo is a fantastic, beautiful work of pure joy that can be enjoyed by any ages. You need to see this film last week.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 160978,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "actor": [
+    {
+      "name": "Cate Blanchett",
+      "url": "https://www.imdb.com/name/nm0000949/"
+    },
+    {
+      "name": "Matt Damon",
+      "url": "https://www.imdb.com/name/nm0000354/"
+    },
+    {
+      "name": "Liam Neeson",
+      "url": "https://www.imdb.com/name/nm0000553/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Hayao Miyazaki",
+      "url": "https://www.imdb.com/name/nm0594503/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Hayao Miyazaki",
+      "url": "https://www.imdb.com/name/nm0594503/"
+    },
+    {
+      "name": "Melissa Mathison",
+      "url": "https://www.imdb.com/name/nm0558953/"
+    }
+  ]
+}

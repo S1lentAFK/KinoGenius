@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Agent Cody Banks",
+  "url": "https://www.imdb.com/tt0313911/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGU2MjBjYzgtZGY1Mi00ODAxLTg4MDItZjBhMjhiNzY5MmUyXkEyXkFqcGdeQXVyMjM4NjgwODc@._V1_.jpg",
+  "description": "A government agent trains Cody Banks in the ways of covert operations that require younger participants.",
+  "review": {
+    "author": "kraley",
+    "dateCreated": "2003-03-13",
+    "inLanguage": "English",
+    "heading": "Not as bad as you might suspect!",
+    "reviewBody": "Normally I dislike (and somewhat resent) unoriginal movies that are simply an exercise in age regression of an established franchise to target a younger consumer audience (Young Indiana Jones, Young Sherlock Holmes, Muppet Babies, et al) . This practice ruined Saturday morning for me even moreso than mandatory comic-relief characters (Scrappy Doo anyone?). To be honest I went in expecting VERY little from Agent Cody Banks which was obviously a spy genre movie targeted at consumers too old for Spy Kids and too young to get into Bond films.\\n\\nThe story concerns a stand-out from an experimental new government recruiting facility that takes high school kids to a &apos;summer camp&apos; which is actually a high-tech training operation for young CIA operatives. Cody Banks is one of the &apos;graduates&apos; of this program who is currently simply getting by in his regular routine until his country calls him up to active duty.\\n\\nIt seems a nerdy scientist has developed nanobots capable of eating their way through just about anything at the atomic level (originally designed to clean up oil spills in offshore disasters). Needless to say, the funding for the project is supplied by a shadowy character with plans for world domination and, of course, he has a menacing henchman (Francois - rather ironic considering the US relations with France at the moment) who does the physical dirty work on the mastermind&apos;s behalf. When the villains seek to kidnap the daughter (Duff) of the nerdy scientist to gain control over the nanobots, Cody Banks (Muniz) is called into active service and given an array of spy gear that would make Bond envious. The side &apos;gimmick&apos; is that Cody is shy and cannot talk to girls which makes him &apos;endearing&apos; juxtaposed to Bond&apos;s womanizing talents. In all other respects Cody is a 5&apos; tall 15 year old James Bond.\\n\\nSounds like a Bond film? It is. Only better than the last three Bond outings (believe it or not). I am actually fairly certain the sets and props used at the end of the film are recycled from early Bond films (most notably the sub bay and mag-lev train from Moonraker and/or Man With the Golden Gun- I cannot remember which film for sure, but you&apos;ll recognize it when you see it). The plot, while COMPLETELY unoriginal, is consistent and engaging enough to hold the attention (especially if you are too young to have seen the Bond/spy movies it borrows from). The gadgets are fairly interesting and, again, while derivative of earlier franchises, are fun to see in the hands of a teenager.\\n\\nThe acting is fairly credible (such as it is) with a few exaggerated (and over-acted) spy film stereotypes. There&apos;s no profanity, no nudity, no drugs (though what COULD be alcohol if you wanted to see it as such), plenty of action and the requisite action-film violence (and one fairly gruesome death at the end).\\n\\nThis movie is targeted squarely at the &apos;puberty set&apos; but is still enjoyable by all ages. My 5 year old son really enjoyed it and nothing in the film was more objectionable than what he watches on broadcast TV (perhaps less so to be honest).\\n\\nI recommend this film to anyone that likes spy films and anyone looking for a &apos;safe&apos; film the entire family can enjoy.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 36787,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "12",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2003-07-25",
+  "keywords": "spy,teenage boy,teenage protagonist,spoof,hero",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Frankie Muniz",
+      "url": "https://www.imdb.com/name/nm0005260/"
+    },
+    {
+      "name": "Hilary Duff",
+      "url": "https://www.imdb.com/name/nm0240381/"
+    },
+    {
+      "name": "Andrew Francis",
+      "url": "https://www.imdb.com/name/nm0290075/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Harald Zwart",
+      "url": "https://www.imdb.com/name/nm0958969/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ashley Miller",
+      "url": "https://www.imdb.com/name/nm1005420/"
+    },
+    {
+      "name": "Zack Stentz",
+      "url": "https://www.imdb.com/name/nm0826714/"
+    },
+    {
+      "name": "Scott Alexander",
+      "url": "https://www.imdb.com/name/nm0018735/"
+    }
+  ]
+}

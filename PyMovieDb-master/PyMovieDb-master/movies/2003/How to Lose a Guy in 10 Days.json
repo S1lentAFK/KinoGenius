@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "How to Lose a Guy in 10 Days",
+  "url": "https://www.imdb.com/tt0251127/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE4NTA1NzExN15BMl5BanBnXkFtZTYwNjc3MjM3._V1_.jpg",
+  "description": null,
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2003-04-18",
+  "keywords": "new york city,diamond,dating,relationship advice,dating advice",
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Kate Hudson",
+      "url": "https://www.imdb.com/name/nm0005028/"
+    },
+    {
+      "name": "Matthew McConaughey",
+      "url": "https://www.imdb.com/name/nm0000190/"
+    },
+    {
+      "name": "Adam Goldberg",
+      "url": "https://www.imdb.com/name/nm0004965/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Donald Petrie",
+      "url": "https://www.imdb.com/name/nm0677953/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michele Alexander",
+      "url": "https://www.imdb.com/name/nm0018630/"
+    },
+    {
+      "name": "Jeannie Long",
+      "url": "https://www.imdb.com/name/nm0519009/"
+    },
+    {
+      "name": "Kristen Buckley",
+      "url": "https://www.imdb.com/name/nm0118649/"
+    }
+  ],
+  "review": {
+    "author": "moviewizguy",
+    "dateCreated": "2007-02-12",
+    "inLanguage": "English",
+    "heading": "A VERY Funny Film",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 266535,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  }
+}

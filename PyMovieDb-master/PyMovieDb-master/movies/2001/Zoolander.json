@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Zoolander",
+  "url": "https://www.imdb.com/tt0196229/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODI4NDY2NDM5M15BMl5BanBnXkFtZTgwNzEwOTMxMDE@._V1_.jpg",
+  "description": null,
+  "contentRating": "12",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2001-11-30",
+  "keywords": "male model,fashion model,conspiracy,character name as title,fashion",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Ben Stiller",
+      "url": "https://www.imdb.com/name/nm0001774/"
+    },
+    {
+      "name": "Owen Wilson",
+      "url": "https://www.imdb.com/name/nm0005562/"
+    },
+    {
+      "name": "Christine Taylor",
+      "url": "https://www.imdb.com/name/nm0852132/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ben Stiller",
+      "url": "https://www.imdb.com/name/nm0001774/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Drake Sather",
+      "url": "https://www.imdb.com/name/nm0766153/"
+    },
+    {
+      "name": "Ben Stiller",
+      "url": "https://www.imdb.com/name/nm0001774/"
+    },
+    {
+      "name": "John Hamburg",
+      "url": "https://www.imdb.com/name/nm0357453/"
+    }
+  ],
+  "review": {
+    "author": "ccthemovieman-1",
+    "dateCreated": "2007-07-19",
+    "inLanguage": "English",
+    "heading": "Funny For Those Who Like Absurd Humor",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 289743,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  }
+}

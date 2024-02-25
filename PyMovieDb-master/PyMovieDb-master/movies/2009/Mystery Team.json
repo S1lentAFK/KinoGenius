@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Mystery Team",
+  "url": "https://www.imdb.com/tt1237838/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzI5ODYyMl5BMl5BanBnXkFtZTcwNTEwOTQzMg@@._V1_.jpg",
+  "description": null,
+  "contentRating": "R",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "datePublished": "2009-01-17",
+  "keywords": "boy wears eyeglasses,child,absurd comedy,slimehouse,bumbling detective mystery",
+  "duration": "PT1H37M",
+  "rating": {
+    "ratingCount": 9713,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "review": {
+    "author": "fx_man",
+    "dateCreated": "2009-09-02",
+    "inLanguage": "English",
+    "heading": "I laughed a lot",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Donald Glover",
+      "url": "https://www.imdb.com/name/nm2255973/"
+    },
+    {
+      "name": "D.C. Pierson",
+      "url": "https://www.imdb.com/name/nm2272628/"
+    },
+    {
+      "name": "Dominic Dierkes",
+      "url": "https://www.imdb.com/name/nm2257388/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dan Eckman",
+      "url": "https://www.imdb.com/name/nm2254920/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "D.C. Pierson",
+      "url": "https://www.imdb.com/name/nm2272628/"
+    },
+    {
+      "name": "Donald Glover",
+      "url": "https://www.imdb.com/name/nm2255973/"
+    },
+    {
+      "name": "Dominic Dierkes",
+      "url": "https://www.imdb.com/name/nm2257388/"
+    }
+  ]
+}

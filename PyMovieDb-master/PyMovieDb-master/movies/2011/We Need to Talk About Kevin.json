@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "We Need to Talk About Kevin",
+  "url": "https://www.imdb.com/tt1242460/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE0NDE0MjYxNF5BMl5BanBnXkFtZTcwNjM2NTY5Ng@@._V1_.jpg",
+  "description": "Kevin's mother struggles to love her strange child despite the increasingly dangerous things he says and does as he grows up. But Kevin is just getting started, and his final act will be beyond anything anyone imagined.",
+  "review": {
+    "author": "ferguson-6",
+    "dateCreated": "2012-03-04",
+    "inLanguage": "English",
+    "heading": "Cupid's Arrow",
+    "reviewBody": "Greetings again from the darkness. The Brady Bunch, this isn't. It's also not the place to look for helpful parenting tips. In fact, the story revolves around Eva, a woman (Tilda Swinton) who apparently didn't want to have a child ... at least not at this time, and certainly not THIS child. If you have seen The Omen, you probably gave thanks that you didn't have a child like Damien. At least we knew Damien was the spawn of Satan. Eva's son Kevin, is instead a good old fashioned psychopath. One who has an inherent need to cause pain and misery for his mother.\n\nWhat a pair Eva and Kevin make. From day one, Kevin seems to sense his mother's lack of joy in parenthood. And he seems to have a genetic disposition of making her pay. As with many psychopaths, his above average intelligence makes him even more dangerous. He is tricky enough to keep his dad (John C Riley) clueless as to his nature, while causing much doubt in the dad's mind as to the stability of his wife.\n\nMy favorite part is actually how director Lynne Ramsay structured the storytelling. It goes beyond non-linear and actually bounces throughout three key periods: Kevin as a baby/toddler, Kevin as a 6-8 year old (Jason Newell), and Kevin as a teenager (Ezra Miller). Each age is progressively more frightening and disenchanting, and the film begins with what is an undetermined catastrophe. This event is slowly revealed over the course of the movie, though we witness events leading up to it, as well as the resulting fallout.\n\nThere are a few scenes where Eva is scrubbing the exterior of her house in an attempt to remove the red paint that was purposefully splattered. As a viewer, we understand that she has blood on her hands and she seems resigned to the fact that she is now a social outcast, even a pariah. We spend much of the movie in Eva's jumbled thoughts as she tries to piece together what has happened and why. Of course, there is no answer. The title explains what was missing all along. There was no communication and no willingness to confront the problem ... a psychopathic son. To say they all paid the price is an understatement.\n\nThis film has a very limited audience, though my claim is that Ms. Swinton was quite deserving of an Oscar nomination. She wears defeat like a mask and lives in isolation better than most could. Even the music is offbeat and unusual in its use ... thanks to Radiohead's Jonny Greenwood. As filmmaking, this is high art. As storytelling, it's a bit muddled and quite a downer.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 166503,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2011-10-21",
+  "keywords": "incommunicability,murder of daughter,target,high school,prison visit",
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "Tilda Swinton",
+      "url": "https://www.imdb.com/name/nm0842770/"
+    },
+    {
+      "name": "John C. Reilly",
+      "url": "https://www.imdb.com/name/nm0000604/"
+    },
+    {
+      "name": "Ezra Miller",
+      "url": "https://www.imdb.com/name/nm3009232/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lynne Ramsay",
+      "url": "https://www.imdb.com/name/nm0708903/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lynne Ramsay",
+      "url": "https://www.imdb.com/name/nm0708903/"
+    },
+    {
+      "name": "Rory Stewart Kinnear",
+      "url": "https://www.imdb.com/name/nm4094284/"
+    },
+    {
+      "name": "Lionel Shriver",
+      "url": "https://www.imdb.com/name/nm2651543/"
+    }
+  ]
+}

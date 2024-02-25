@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Girl with the Dragon Tattoo",
+  "url": "https://www.imdb.com/tt1568346/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTczNDk4NTQ0OV5BMl5BanBnXkFtZTcwNDAxMDgxNw@@._V1_.jpg",
+  "description": "Journalist Mikael Blomkvist is aided in his search for a woman who has been missing for 40 years by young computer hacker Lisbeth Salander.",
+  "review": {
+    "author": "TheLittleSongbird",
+    "dateCreated": "2016-09-29",
+    "inLanguage": "English",
+    "heading": "A second adaptation of the book that is almost as good as the first",
+    "reviewBody": "Not quite in the top 5 of David Fincher's best films ('Se7en', 'The Social Network', 'Fight Club', 'Gone Girl' and 'Zodiac') but it does come close. And this is somebody who found a lot to like about all his films, including his lesser ones like 'Alien 3' and 'Panic Room'. Despite being often considered a remake, personally prefer to call it a second adaptation of the book. The book is a fantastic read, and as an adaptation while it is condensed and has some changes Fincher's film still adheres to the basic tone of the book as does the Swedish version. Of the two versions, the Swedish version just gets the edge for its incredible atmosphere complete with bleakness, chills, shocks and is more authentic, with Noomi Rapace burning the screen enigmatically with her presence. Where Fincher's film improves over the previous version are in four areas. One is the production values, which are far more audacious here. The cinematography, both bleakly moody and exquisite to look at, is more cinematic and perfectly captures the frozen landscape which is like a character in itself. The film is very tightly edited too in a way that is distinctively Fincher. Trent Reznor and Atticus Ross' music score is another winner of theirs, it is haunting and gives a really unnerving vibe, combined with some clever sound mixing. The script, even when condensed, is more polished and tighter and also has more flow. While Lisbeth is a fascinating and complex character in the Swedish film, the Lisbeth in Fincher's film has even more complexity and more variation of emotions. Fincher's direction is exemplary, showing a mastery of visual style and mood setting, ensuring that the film stays intriguing throughout the length. In lesser hands and with less assured pacing, with the long running time 'The Girl with the Dragon Tattoo' could have been a long haul but had plenty of intrigue. Much of the storytelling is gripping, and while not as authentic or quite as masterful in atmosphere like the Swedish counterpart was it has its fair share of chills, twists and turns (without being convoluted or illogical) and shock value as well as a murky bleakness. Contrary to what some believe, this second adaptation did have point (was fearing it wouldn't), as it made the story more accessible and gave it more exposure. Good acting helps. Daniel Craig is very wisely restrained, the character should have a quiet determination and dignity which Craig handles very well. Christopher Plummer is simply terrific as well, one of his best performances in recent years, while Stellan Skasgard is frighteningly demented and Yorick van Wageningen is unsettlingly sadistic. Robin Wright does her best with a shallow character. Best of all is a magnificent Rooney Mara, such a multi-layered performance and sees Mara not just playing the role but disappearing into it. See her appearance for example, so committed that when you see her in other films you would not believe that it's the same person. There are faults however. Did not think much of the Gothic James Bond-like opening sequence that just felt jarring and out of place. Nor with the accents, which were a mix for some of the actors of having one too heavy or thick (Wright) or not attempting one at all (Craig). The decision to use both English and Swedish in some scenes did have a tendency to confuse, while the central relationship (mostly successfully done) did feel underdeveloped and, even for characters that are the heart of the story, takes over the story a little too much somewhat. All in all, almost as good as the Swedish version and better than both of that film's heavily flawed but still worthy sequels. 8/10 Bethany Cox",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 491383,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "contentRating": "18",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2011-12-26",
+  "keywords": "investigation,hacker,remake,journalist,punk",
+  "duration": "PT2H38M",
+  "actor": [
+    {
+      "name": "Daniel Craig",
+      "url": "https://www.imdb.com/name/nm0185819/"
+    },
+    {
+      "name": "Rooney Mara",
+      "url": "https://www.imdb.com/name/nm1913734/"
+    },
+    {
+      "name": "Christopher Plummer",
+      "url": "https://www.imdb.com/name/nm0001626/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Fincher",
+      "url": "https://www.imdb.com/name/nm0000399/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steven Zaillian",
+      "url": "https://www.imdb.com/name/nm0001873/"
+    },
+    {
+      "name": "Stieg Larsson",
+      "url": "https://www.imdb.com/name/nm2297183/"
+    }
+  ]
+}

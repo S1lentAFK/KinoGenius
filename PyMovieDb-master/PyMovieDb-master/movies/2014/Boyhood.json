@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Boyhood",
+  "url": "https://www.imdb.com/tt1065073/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYzNDc2MDc0N15BMl5BanBnXkFtZTgwOTcwMDQ5MTE@._V1_.jpg",
+  "description": "The life of Mason, from early childhood to his arrival at college.",
+  "review": {
+    "author": "TheLittleSongbird",
+    "dateCreated": "2016-07-05",
+    "inLanguage": "English",
+    "heading": "Very intriguing",
+    "reviewBody": "'Boyhood' has a very unique and intriguing concept, in fact there has not been a concept like it (with taking 12 years to make and being encompassed over 12 years as well). But that is not the only selling point of the film, despite what the detractors have unfairly said.\\n\\nGranted, 'Boyhood' is not for all tastes, although it was almost unanimously praised by critics the IMDb reviews are much more divisive. This reviewer totally understands why people dislike, even flat out hate it, and shares some of their criticisms, and generally hates the incredibly condescending way they have been expressed, nobody who legitimately liked 'Boyhood' for perfectly valid reasons wants to feel that it is a criminal offence to like it, let alone love it.\\n\\nDoes this reviewer think it is quite as good as the hype and critics say? Not quite. Does she think it is a very good, conceptually daring and in some ways misunderstood film, and towards the better end of the films released in 2014? Yes. It does have its problems, it is a case of two inconsistent halves with a great emotion-filled, honest, nostalgic and richly developed first half and a second half where the pace slackens, the story meanders and there are moments of awkwardness.\\n\\nEllar Coltrane's performance is also uneven, he is excellent in the first half with a real sense of honesty and integrity, where the protagonist is much more interesting and likable, but rather stilted and not as involved in the second half. The editing is also choppy in places and although a vast majority of the performances are fantastic Lorelei Linklater is somewhat dull as Samantha and would never pass for Mason's sister.\\n\\nHowever, aside from the editing 'Boyhood' looks very accomplished with evocative production values and is beautifully filmed. Richard Linklater directs with a real generosity and lightness of touch. The script honest, poignant, thought-provoking and sometimes harrowing, and while not everything about the story works it has a real sense of nostalgia and richly rewarding in its emotional content. Really do not agree that nothing happens, it has a long running time and is deliberate in pacing but this reviewer really loved 'Boyhood's' understatedness, sincerity and subtlety as well as its spontaneity.\\n\\nCharacters are interesting and developed, especially Ethan Hawke's and Patricia Arquette's. Hawke and Arquette are also the standouts in the cast, and deservedly garnered Oscar nominations which Arquette won. Arquette is particularly outstanding, with a genuine fullness of emotion and authority with no sense of over-acting or self-indulgence. Hawke also gives a compelling real performance.\\n\\nIn conclusion, a very intriguing and very good film. Not quite as good as it's hyped to be but it has many more merits than the detractors lead you to believe.\\n\\nWhile the criticisms are understandable, this reviewer is having a hard time believing that there are those who cite 'Boyhood' as the worst film they've ever seen, or one of them. There are far worse out there, that are amateurishly made, ineptly directed, terribly acted and written even worse, distinctions that regardless of whether you hate it 'Boyhood belongs nowhere near in any of them. 8/10 Bethany Cox",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 365798,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2014-07-11",
+  "keywords": "domestic abuse,12 year time span,separated parents,growing up,parenting",
+  "duration": "PT2H45M",
+  "actor": [
+    {
+      "name": "Ellar Coltrane",
+      "url": "https://www.imdb.com/name/nm1294664/"
+    },
+    {
+      "name": "Patricia Arquette",
+      "url": "https://www.imdb.com/name/nm0000099/"
+    },
+    {
+      "name": "Ethan Hawke",
+      "url": "https://www.imdb.com/name/nm0000160/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Richard Linklater",
+      "url": "https://www.imdb.com/name/nm0000500/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Richard Linklater",
+      "url": "https://www.imdb.com/name/nm0000500/"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "It's Kind of a Funny Story",
+  "url": "https://www.imdb.com/tt0804497/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk0MTAyNjQ2N15BMl5BanBnXkFtZTcwNjYwOTU3Mw@@._V1_.jpg",
+  "description": "A clinically-depressed teenager gets a new start after he checks himself into an adult psychiatric ward.",
+  "review": {
+    "author": "filmchasing",
+    "dateCreated": "2011-03-20",
+    "inLanguage": "English",
+    "heading": "Let's have some fun with this....",
+    "reviewBody": "A depressed teen admits himself into a psych ward & meets some colorful folks.\n\nComplex issues switched up and told in a free-spirited way. There's nothing sugar-coated about these characters, which is probably why I like them so much. Pluses for having them relate to our current society; these characters could be someone on your own street.\n\nWith a narrative & creative style similar to 500 Days of Summer, this is an oddly inspirational tale. \n\nComic relief provided by the excellent Zack Galifianakis.\n\nGreat music, great film!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 147436,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2011-01-07",
+  "keywords": "mental illness,fear of failure,depression,based on novel,friendship",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Keir Gilchrist",
+      "url": "https://www.imdb.com/name/nm1507857/"
+    },
+    {
+      "name": "Zach Galifianakis",
+      "url": "https://www.imdb.com/name/nm0302108/"
+    },
+    {
+      "name": "Emma Roberts",
+      "url": "https://www.imdb.com/name/nm0731075/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Anna Boden",
+      "url": "https://www.imdb.com/name/nm1349818/"
+    },
+    {
+      "name": "Ryan Fleck",
+      "url": "https://www.imdb.com/name/nm0281396/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Anna Boden",
+      "url": "https://www.imdb.com/name/nm1349818/"
+    },
+    {
+      "name": "Ryan Fleck",
+      "url": "https://www.imdb.com/name/nm0281396/"
+    },
+    {
+      "name": "Ned Vizzini",
+      "url": "https://www.imdb.com/name/nm2272408/"
+    }
+  ]
+}

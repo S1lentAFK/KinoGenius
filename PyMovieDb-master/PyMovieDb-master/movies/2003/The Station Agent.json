@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Station Agent",
+  "url": "https://www.imdb.com/tt0340377/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUzNDgyMzg3Ml5BMl5BanBnXkFtZTcwMzIxNTAwMQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "felekisz",
+    "dateCreated": "2006-01-02",
+    "inLanguage": "English",
+    "heading": "Less is more",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 72998,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2004-04-02",
+  "keywords": "fitting in,loner,new in town,unlikely friendship,railroad agent",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Peter Dinklage",
+      "url": "https://www.imdb.com/name/nm0227759/"
+    },
+    {
+      "name": "Patricia Clarkson",
+      "url": "https://www.imdb.com/name/nm0165101/"
+    },
+    {
+      "name": "Bobby Cannavale",
+      "url": "https://www.imdb.com/name/nm0134072/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tom McCarthy",
+      "url": "https://www.imdb.com/name/nm0565336/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tom McCarthy",
+      "url": "https://www.imdb.com/name/nm0565336/"
+    }
+  ]
+}

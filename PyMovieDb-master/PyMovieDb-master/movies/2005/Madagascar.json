@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Madagascar",
+  "url": "https://www.imdb.com/tt0351283/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2I5YzFlYWEtZjRhNy00ZmQzLWJhNTktZGIwYjFjODdmNDgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A group of animals who have spent all their life in a New York zoo end up in the jungles of Madagascar, and must adjust to living in the wild.",
+  "review": {
+    "author": "Chrysanthepop",
+    "dateCreated": "2009-01-16",
+    "inLanguage": "English",
+    "heading": "Love The Penguins",
+    "reviewBody": "'Madagascar' is by no means the worst CGI animated flick but it's far from the great movies Pixar has given us over the last 10 years. Storywise, it is simple enough for kids to enjoy but there are too many plot holes so forget about educating them about animals. The pacing is quite bad as it really slows down in the middle. Some of the gags are overdone and as a result, they fall flat. The dialogues are mostly okay.\\n\\nThe CGI is far from terrific but the vivid colours somehow make up for it. The virtual Madagascar is colourful and spectacular to look at. There is plenty of energy (sometimes a bit too much) to keep the audience tuned.\\n\\nThe characters are a tad over the top. Chris Rock, David Schwimmer and Jada Pinkett Smith are alright. Ben Stiller tends to be a little irritating. McGrath, Knights and Miller totally rock as the three penguins. For me, the penguins were the best and funniest parts.\\n\\n'Madagascar' may not be the best example of entertaining CGI flicks but it makes for a decent one time watch as long as the viewer is willing to suspend their beliefs to a certain extent.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 433406,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2005-07-15",
+  "keywords": "snowglobe,birthday,10th birthday,jungle adventure,zoo",
+  "duration": "PT1H26M",
+  "actor": [
+    {
+      "name": "Chris Rock",
+      "url": "https://www.imdb.com/name/nm0001674/"
+    },
+    {
+      "name": "Ben Stiller",
+      "url": "https://www.imdb.com/name/nm0001774/"
+    },
+    {
+      "name": "David Schwimmer",
+      "url": "https://www.imdb.com/name/nm0001710/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Eric Darnell",
+      "url": "https://www.imdb.com/name/nm0201509/"
+    },
+    {
+      "name": "Tom McGrath",
+      "url": "https://www.imdb.com/name/nm0569891/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Burton",
+      "url": "https://www.imdb.com/name/nm0123666/"
+    },
+    {
+      "name": "Billy Frolick",
+      "url": "https://www.imdb.com/name/nm1129905/"
+    },
+    {
+      "name": "Eric Darnell",
+      "url": "https://www.imdb.com/name/nm0201509/"
+    }
+  ]
+}

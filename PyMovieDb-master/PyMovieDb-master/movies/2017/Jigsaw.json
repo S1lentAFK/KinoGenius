@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Jigsaw",
+  "url": "https://www.imdb.com/tt0056121/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWRlZWJmMTMtMTc0OC00NTY0LWFjMzEtMzg3ZWMwMmU3MzRmXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+  "description": "A woman is found murdered in a house along the coast from Brighton. Local detectives Fellows and Wilks lead an investigation methodically following up leads and clues mostly in Brighton and Hove but also further afield.",
+  "review": {
+    "author": "Leofwine_draca",
+    "dateCreated": "2015-10-13",
+    "inLanguage": "English",
+    "heading": "Sterling crime drama, inspired by real life events",
+    "reviewBody": "JIGSAW is a well-shot, engaging crime story inspired by the true story of the Brighton Trunk Murders that took place back in the 1920s. Brighton always makes a picturesque backdrop for films - I guess that&apos;s why so many directors make use of it in their movies - and Hammer veteran Val Guest (THE QUATERMASS XPERIMENT) makes the very best of his surroundings.\n\nOtherwise, this is a taut, well-focused detective investigation type film that plays out as a police procedural. We watch the gruff Jack Warner and his team as they go around following up leads and gathering clues, and there&apos;s never a moment for distraction or anything here that feels padded. Guessing the identity of the murderer is a tough business indeed, which is why JIGSAW keeps you watching from beginning to end.\n\nThe supporting cast is also a delight, featuring as it does performances from Ronald Lewis (THE BRIGAND OF KANDAHAR), Ray Barrett (THE REPTILE) and Michael Goodliffe (A NIGHT TO REMEMBER) alongside a John Le Mesurier cameo. Guest&apos;s real-life wife, the statuesque Yolande Donlan, has a major role and is fine in it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 1516,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "1963-10-16",
+  "keywords": "reference to agatha christie,body in a trunk,male police officer,motor vehicle,car",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Jack Warner",
+      "url": "https://www.imdb.com/name/nm0912487/"
+    },
+    {
+      "name": "Ronald Lewis",
+      "url": "https://www.imdb.com/name/nm0507708/"
+    },
+    {
+      "name": "Yolande Donlan",
+      "url": "https://www.imdb.com/name/nm0232574/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Val Guest",
+      "url": "https://www.imdb.com/name/nm0346436/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Hillary Waugh",
+      "url": "https://www.imdb.com/name/nm0915288/"
+    },
+    {
+      "name": "Val Guest",
+      "url": "https://www.imdb.com/name/nm0346436/"
+    }
+  ]
+}

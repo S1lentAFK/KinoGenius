@@ -1,0 +1,62 @@
+{
+  "type": "Movie",
+  "name": "Troy",
+  "url": "https://www.imdb.com/tt0332452/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk5MzU1MDMwMF5BMl5BanBnXkFtZTcwNjczODMzMw@@._V1_.jpg",
+  "description": "An adaptation of Homer&apos;s great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.",
+  "review": {
+    "author": "amigdala06",
+    "dateCreated": "2014-01-01",
+    "inLanguage": "English",
+    "heading": "Best fight scene",
+    "reviewBody": "The sequence between Hector and Achilles is the best choreographed fight scene amongst epic fight movies. Cons for Jaime Abregana Jr. \n\nThe harmony of the deathliest attacks of the heroes, usage of the camera plans with minimum keeps the sequence to watch in breathless. \n\nUntil the warning of the shocking rise of the back music with the first death injury of Hector, you completely forget to inhale. If you don&apos;t care the out of the plan insertions of the castle balcony people (King/father, wife, Helene etc) the whole fight sequence is planned and played very well.\n\nThe rest of the cast is good enough with a special note for Peter O&apos;Toole and Brian Cox. Their lines are well delivered and their characters are believable.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 565823,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2004-05-21",
+  "keywords": "mythology,greek myth,ancient troy,greek,helen of troy",
+  "duration": "PT2H43M",
+  "actor": [
+    {
+      "name": "Brad Pitt",
+      "url": "https://www.imdb.com/name/nm0000093/"
+    },
+    {
+      "name": "Eric Bana",
+      "url": "https://www.imdb.com/name/nm0051509/"
+    },
+    {
+      "name": "Orlando Bloom",
+      "url": "https://www.imdb.com/name/nm0089217/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Wolfgang Petersen",
+      "url": "https://www.imdb.com/name/nm0000583/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Homer",
+      "url": "https://www.imdb.com/name/nm0392955/"
+    },
+    {
+      "name": "David Benioff",
+      "url": "https://www.imdb.com/name/nm1125275/"
+    }
+  ]
+}

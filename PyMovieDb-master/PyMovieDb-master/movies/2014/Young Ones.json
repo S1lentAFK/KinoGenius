@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Young Ones",
+  "url": "https://www.imdb.com/tt2693664/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTk1NjE5MTc0NV5BMl5BanBnXkFtZTgwODc1MzE1MjE@._V1_.jpg",
+  "description": "Set in the future when water is hard to find, a teenage boy sets out to protect his family and survive.",
+  "review": {
+    "author": "patriciovilches",
+    "dateCreated": "2015-08-20",
+    "inLanguage": "English",
+    "heading": "In the middle.",
+    "reviewBody": "The movie doesn't add much to the sci-fi genre.But, the story can be interesting if you pay a lot of attention. That's one of the major problems with this movie: The story starts in a boring way making it a challenge to keep up watching but it changes it's paste when getting near to the end.At least, the actors did their best to show emotions(which are basically anger & revenge). What i liked a lot was that the movie shows many young actors with potential to make more interesting movies IF they still follow these same styles of films. I somehow feel that this movie could have been much more if the story was developed in a other way. In conclusion, i think this movie was not that bad but neither would i watch it again.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 10309,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2015-05-01",
+  "keywords": "post apocalypse,water,the future,ham radio,neo western",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Nicholas Hoult",
+      "url": "https://www.imdb.com/name/nm0396558/"
+    },
+    {
+      "name": "Kodi Smit-McPhee",
+      "url": "https://www.imdb.com/name/nm2240346/"
+    },
+    {
+      "name": "Michael Shannon",
+      "url": "https://www.imdb.com/name/nm0788335/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jake Paltrow",
+      "url": "https://www.imdb.com/name/nm0658823/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jake Paltrow",
+      "url": "https://www.imdb.com/name/nm0658823/"
+    }
+  ]
+}

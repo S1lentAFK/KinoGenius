@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Miss Congeniality",
+  "url": "https://www.imdb.com/tt0212346/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTNkZjU0YzgtODhlNC00YmMxLWI5NTktODQ2ZjJlYWQ0YTZmXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+  "description": "An F.B.I. Agent must go undercover in the Miss United States beauty pageant to prevent a group from bombing the event.",
+  "review": {
+    "author": "GJBStar",
+    "dateCreated": "2003-10-12",
+    "inLanguage": "English",
+    "heading": "Good Quality comedy",
+    "reviewBody": "There are some actresses who produce weighty or worthy pieces of work and there are those who produce popular movies. Sandra Bullock is an actress who falls into the latter category. Yet, in this category, she is at the top of the tree and it is in films such as Miss Congeniality that she proves this.\\n\\nFor a fish out of water comedy, this is a film that plays to Bullock&apos;s qualities - her tomboy image from Speed, her warm humour and her ability to play for laughs and be deadpan. As such, Bullock is allowed to shine from a castlist containing Michael Caine and Ben Bratt. However, if I had one criticism, it would be that there are occasions when Caine just appears to be shamelessly mugging and camping it up for the camera to no real effect.\\n\\nThere are some genuinely funny moments, mostly centred around the pageant and it is nice to see such a movie which doesn&apos;t take itself or its setting too seriously. Many of the contestants give good supporting performances and as such, it is hard to pick one out.\\n\\nOverall, it is a bit slight but anyone renting/buying this movie would surely know what to expect - familiar, funny and essentially sweet-natured - just like Sandra Bullock herself.\\n\\n8/10 - A good example of the genre.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 228384,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "12",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2001-03-23",
+  "keywords": "beauty contest,fbi federal bureau of investigation,knee high boots,boots,pageant",
+  "duration": "PT1H49M",
+  "actor": [
+    {
+      "name": "Sandra Bullock",
+      "url": "https://www.imdb.com/name/nm0000113/"
+    },
+    {
+      "name": "Michael Caine",
+      "url": "https://www.imdb.com/name/nm0000323/"
+    },
+    {
+      "name": "Benjamin Bratt",
+      "url": "https://www.imdb.com/name/nm0000973/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Donald Petrie",
+      "url": "https://www.imdb.com/name/nm0677953/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Marc Lawrence",
+      "url": "https://www.imdb.com/name/nm0492909/"
+    },
+    {
+      "name": "Katie Ford",
+      "url": "https://www.imdb.com/name/nm0974301/"
+    },
+    {
+      "name": "Caryn Lucas",
+      "url": "https://www.imdb.com/name/nm0524095/"
+    }
+  ]
+}

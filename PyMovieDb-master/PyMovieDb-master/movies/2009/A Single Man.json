@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "A Single Man",
+  "url": "https://www.imdb.com/tt1315981/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzU5MTk4MjQ2M15BMl5BanBnXkFtZTcwNDU0MzEwMw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "andrewors",
+    "dateCreated": "2009-11-15",
+    "inLanguage": "English",
+    "heading": "Colin's George and Adrian",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 117302,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2010-02-12",
+  "keywords": "practicing a suicide,car accident,broken heart,bereavement,grief",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Colin Firth",
+      "url": "https://www.imdb.com/name/nm0000147/"
+    },
+    {
+      "name": "Julianne Moore",
+      "url": "https://www.imdb.com/name/nm0000194/"
+    },
+    {
+      "name": "Matthew Goode",
+      "url": "https://www.imdb.com/name/nm0328828/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tom Ford",
+      "url": "https://www.imdb.com/name/nm1053530/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Christopher Isherwood",
+      "url": "https://www.imdb.com/name/nm0410877/"
+    },
+    {
+      "name": "Tom Ford",
+      "url": "https://www.imdb.com/name/nm1053530/"
+    },
+    {
+      "name": "David Scearce",
+      "url": "https://www.imdb.com/name/nm3179694/"
+    }
+  ]
+}

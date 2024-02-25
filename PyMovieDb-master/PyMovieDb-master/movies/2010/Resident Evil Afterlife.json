@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Resident Evil: Afterlife",
+  "url": "https://www.imdb.com/tt1220634/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjRlMGQ0NmUtM2U2Ny00MTk3LTg5NjAtN2M3Y2JmZjllNjJlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+  "description": "While still out to destroy the evil Umbrella Corporation, Alice joins a group of survivors living in a prison surrounded by the infected who also want to relocate to the mysterious but supposedly unharmed safe haven known only as ...",
+  "review": {
+    "author": "msb-utils",
+    "dateCreated": "2010-10-06",
+    "inLanguage": "English",
+    "heading": "no story, but enjoyable",
+    "reviewBody": "I liked this compilation of scenes. I liked the soundtrack; I liked the acting; I liked the settings; I liked the effects. As a game, it works greatly. The movie is a sum of chunks of stories. Most of them are action stories. A few are horror stories. Another few are mystery stories. And none of them are connected to each other. They just share common characters. \n\nHonestly, the plot is just an excuse for great action scenes. And I liked the action scenes. I rate it zero for the story, ten for the technical quality. And I have to admit it: in the end, I liked it as a whole.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 178289,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "datePublished": "2010-09-10",
+  "keywords": "siege,ship,alaska,female gunfighter,mutation",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Milla Jovovich",
+      "url": "https://www.imdb.com/name/nm0000170/"
+    },
+    {
+      "name": "Ali Larter",
+      "url": "https://www.imdb.com/name/nm0005123/"
+    },
+    {
+      "name": "Wentworth Miller",
+      "url": "https://www.imdb.com/name/nm0589505/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Paul W.S. Anderson",
+      "url": "https://www.imdb.com/name/nm0027271/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Paul W.S. Anderson",
+      "url": "https://www.imdb.com/name/nm0027271/"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "No Country for Old Men",
+  "url": "https://www.imdb.com/tt0477348/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_.jpg",
+  "description": "Violence and mayhem ensue after a hunter stumbles upon the aftermath of a drug deal gone wrong and over two million dollars in cash near the Rio Grande.",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2008-01-18",
+  "keywords": "neo western,texas,neo noir,sheriff,desert",
+  "duration": "PT2H2M",
+  "contentRating": "15",
+  "rating": {
+    "ratingCount": 1047782,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.2
+  },
+  "review": {
+    "author": "Michael_Elliott",
+    "dateCreated": "2008-02-25",
+    "inLanguage": "English",
+    "heading": "Great Till the End",
+    "reviewBody": "No Country for Old Men (2007) \n\n*** 1/2 (out of 4) \n\nA hunter (Josh Brolin) comes across a group of trucks with dead bodies everywhere and discovers $2 million in cash, which he takes. Soon a psychotic killer (Javier Bardem) is after him while a local sheriff (Tommy Lee Jones) tries to figure out what's going on. I'll start off by saying that I'm not a big fan of the Coen brothers. With that out of the way, this is certainly the best movie I've seen from them but it goes downhill very quickly in the final thirty-minutes, which are quite horrid to be honest. However, everything before that is masterfully done with a beautiful craft that makes this familiar story come off very original, dark and at times funny. I really enjoyed the slow pace that the film carries but I'm not sure if that's how I should describe it. The movie has plenty of graphic violence and action and what makes it so shocking is that it usually comes out of no where or happens when you don't expect it. The pace of the film is slow but this helps when the violence breaks out. The performances are all terrific with Bardem stealing the show as the psychotic killer. Whenever he's on screen you can't take your eyes off of him and his silent performance speaks more than any words could. I was also very impressed with Brolin who I'm usually hit and miss on. Woody Harrelson has a few nice scenes and Tommy Lee Jones is the old Tommy Lee Jones we all love. The film was a lot of fun until the conclusion, which I thought was quite awful.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "actors": [
+    {
+      "name": "Tommy Lee Jones",
+      "url": "https://www.imdb.com/name/nm0000169/"
+    },
+    {
+      "name": "Javier Bardem",
+      "url": "https://www.imdb.com/name/nm0000849/"
+    },
+    {
+      "name": "Josh Brolin",
+      "url": "https://www.imdb.com/name/nm0000982/"
+    }
+  ],
+  "directors": [
+    {
+      "name": "Ethan Coen",
+      "url": "https://www.imdb.com/name/nm0001053/"
+    },
+    {
+      "name": "Joel Coen",
+      "url": "https://www.imdb.com/name/nm0001054/"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Joel Coen",
+      "url": "https://www.imdb.com/name/nm0001054/"
+    },
+    {
+      "name": "Ethan Coen",
+      "url": "https://www.imdb.com/name/nm0001053/"
+    },
+    {
+      "name": "Cormac McCarthy",
+      "url": "https://www.imdb.com/name/nm0565092/"
+    }
+  ]
+}

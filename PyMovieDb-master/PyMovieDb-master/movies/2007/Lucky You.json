@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Lucky You",
+  "url": "https://www.imdb.com/tt0338216/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzcyMzgwNzU2N15BMl5BanBnXkFtZTcwMDcyODYzMw@@._V1_.jpg",
+  "description": "A hotshot poker player tries to win a tournament in Vegas, but is fighting a losing battle with his personal problems.",
+  "review": {
+    "author": "PWNYCNY",
+    "dateCreated": "2007-05-08",
+    "inLanguage": "English",
+    "heading": "If you like poker, then this movie is for you.",
+    "reviewBody": "Drew Barrymore is an actress whose talent has not yet been fully tapped. Eric Bana is good but, as usual, Ms. Barrymore is wonderful. She proves once again that she has developed into a wonderful actress. Robert Duvall is also good. What was not so good was the story itself. The father-son conflict is contrived and ultimately fails dramatically. Also, Eric Bana&apos;s character is an insipid loser and not particularly nice, so there is nothing about him to inspire empathy. He takes money, squanders it, disrespects his father, steals from his girlfriend, acts irresponsibly and does stupid things. But if you want to learn a few things about poker players, then this is the movie to watch. Actually, the real story is the poker game itself. Some of the players at the table seemed to be much more interesting than Mr. Bana&apos;s character and if the movie dealt (no pun intended) more with them, then maybe this movie would have been more entertaining. Nevertheless, having Drew Barrymore in this movie makes it still worth watching.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 21129,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Drama",
+    "Romance",
+    "Sport"
+  ],
+  "datePublished": "2007-06-22",
+  "keywords": "2000s,two word title,21st century,poker,poker player",
+  "duration": "PT2H4M",
+  "actor": [
+    {
+      "name": "Eric Bana",
+      "url": "https://www.imdb.com/name/nm0051509/"
+    },
+    {
+      "name": "Drew Barrymore",
+      "url": "https://www.imdb.com/name/nm0000106/"
+    },
+    {
+      "name": "Robert Duvall",
+      "url": "https://www.imdb.com/name/nm0000380/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Curtis Hanson",
+      "url": "https://www.imdb.com/name/nm0000436/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Eric Roth",
+      "url": "https://www.imdb.com/name/nm0744839/"
+    },
+    {
+      "name": "Curtis Hanson",
+      "url": "https://www.imdb.com/name/nm0000436/"
+    }
+  ]
+}

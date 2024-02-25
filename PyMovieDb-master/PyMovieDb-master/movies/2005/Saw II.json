@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Saw II",
+  "url": "https://www.imdb.com/tt0432348/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjY4Mjg4YTgtZWU2MC00MzVlLTg3MDgtYzUyYzU1NGMyMmU5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "description": "A detective and his team must rescue 8 people trapped in a factory by the twisted serial killer known as Jigsaw.",
+  "review": {
+    "author": "Plumberduck",
+    "dateCreated": "2005-11-04",
+    "inLanguage": "English",
+    "heading": "A few nice ideas dulled by a lot of stupidity",
+    "reviewBody": "I have the same main problem I had with Saw II that I had with the original (Shockingly enough, not the gaping plot holes). At the core, both movies are about the same thing: Elaborate puzzles that stupid people ignore so they can spend more time yelling at each other.\\n\\nI really wanted to like Saw II, but I felt like I was being teased. I catch a whiff of interesting puzzle-solving, instead I have a lot of yelling.\\n\\nIt&apos;s a personal preference, I know. The movie I wanted to see was about people adapting to their situation and using their brains against that of an evil genius. Instead, I got the evil genius (Tobin Bell is great as Jigsaw, by the way, one of the parts of the film I really enjoyed) going to a lot of work for some people who, frankly, don&apos;t seem to appreciate it. The creators seemed to want to make a film about how people&apos;s lives are dictated by their unavoidable flaws (driven home by the ending, the last few twists, and the general character of the cop, all of which are the reason my rating is as high as it is), and how panic destroys people.\\n\\nAnd the horror... isn&apos;t. I don&apos;t find blood scary. There are some *shocking* moments in this film, some cringe-inducing moments, but nothing actually scary. That really disappointed me, because Adam&apos;s capture in Saw I was one of the scarier scenes I&apos;ve seen in a movie in a long time. There&apos;s nothing for people who actually want to be scared here, just grossed out.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 274556,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "18",
+  "genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2005-10-28",
+  "keywords": "serial killer,vcr,trap,torture,police officer",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Donnie Wahlberg",
+      "url": "https://www.imdb.com/name/nm0005531/"
+    },
+    {
+      "name": "Beverley Mitchell",
+      "url": "https://www.imdb.com/name/nm0005238/"
+    },
+    {
+      "name": "Franky G",
+      "url": "https://www.imdb.com/name/nm1065281/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Darren Lynn Bousman",
+      "url": "https://www.imdb.com/name/nm1135423/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Leigh Whannell",
+      "url": "https://www.imdb.com/name/nm1191481/"
+    },
+    {
+      "name": "Darren Lynn Bousman",
+      "url": "https://www.imdb.com/name/nm1135423/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "North Country",
+  "url": "https://www.imdb.com/tt0395972/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTk0ODIxNjg4M15BMl5BanBnXkFtZTcwMzM1NzUzMw@@._V1_.jpg",
+  "description": "A fictionalized account of the first major successful sexual harassment case in the United States, Jenson vs. Eveleth Mines, where a woman who endured a range of abuse while working as a miner filed and won the landmark 1984 lawsuit.",
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2006-02-03",
+  "keywords": "sexual harassment,lawsuit,based on true story,female worker,mine",
+  "duration": "PT2H6M",
+  "rating": {
+    "ratingCount": 44753,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "review": {
+    "author": "filipemanuelneto",
+    "dateCreated": "2017-07-17",
+    "inLanguage": "English",
+    "heading": "A very acceptable melodrama that focuses on the fight against gender discrimination.",
+    "reviewBody": "This film addresses the first case of success in which a group of female workers won the firm in court in a class action of harassment and sexual discrimination. Everything happens in the mines of Minnesota but, over a real case, director Niki Caro and screenwriter Michael Seitzman decided to create a deeply melodramatic story centered on the figure of a young woman, mother of two children from different parents and with a past marred by rape and a bad marriage. She becomes the main target of the jokes, obscene gestures and provocations of the miners, who feel that women are stealing jobs from men. The story is very emotional but works well anyway. An interesting point is that, even when things are tense, the two sides are not defined by their sex, that is, even in those moments there are women who are not in favor of complaining, just as there are men who don't approve of the rude and coarse attitudes of their fellows. This allows the public to understand that the issue is not men vs. women, goes far beyond mere sexism.\\n\\nCharlize Theron is a good actress but seems visually too young for the character sometimes. Anyway, she managed to shine. Richard Jenkins has been OK but acts in a predictable way. Frances McDormand did very well, especially in the final half of the movie, where she really shows talent. Jeremy Renner manages to be truly despicable as the villain. Technically regular, it's a good movie and it deserves to be watched.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "Charlize Theron",
+      "url": "https://www.imdb.com/name/nm0000234/"
+    },
+    {
+      "name": "Jeremy Renner",
+      "url": "https://www.imdb.com/name/nm0719637/"
+    },
+    {
+      "name": "Frances McDormand",
+      "url": "https://www.imdb.com/name/nm0000531/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Niki Caro",
+      "url": "https://www.imdb.com/name/nm0138927/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Seitzman",
+      "url": "https://www.imdb.com/name/nm0782739/"
+    },
+    {
+      "name": "Clara Bingham",
+      "url": "https://www.imdb.com/name/nm1538319/"
+    },
+    {
+      "name": "Laura Leedy",
+      "url": "https://www.imdb.com/name/nm1546016/"
+    }
+  ]
+}

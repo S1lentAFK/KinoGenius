@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Extreme Adventures of Super Dave",
+  "url": "https://www.imdb.com/tt0144096/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTk2NDM2Nzk3Nl5BMl5BanBnXkFtZTcwNDY4MTEyMQ@@._V1_.jpg",
+  "description": "Super Dave Osborne, our accident-prone stuntman hero, comes out of a self-imposed retirement to raise money for his new girlfriend's son's heart operation.",
+  "review": {
+    "author": "brice-945-410027",
+    "dateCreated": "2018-07-08",
+    "inLanguage": "English",
+    "heading": "Funny Stuff",
+    "reviewBody": "Of course this is slapstick type comedy that is more meant for kids but for what it is this is perfect. Bob Einstein is great and there's lots of good physical gags that adults will find funny too, they're just so silly!",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 841,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.2
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": null,
+  "keywords": "stuntman,sketch comedy,based on sketch comedy,based on tv series",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Bob Einstein",
+      "url": "https://www.imdb.com/name/nm0251872/"
+    },
+    {
+      "name": "Dan Hedaya",
+      "url": "https://www.imdb.com/name/nm0000445/"
+    },
+    {
+      "name": "Gia Carides",
+      "url": "https://www.imdb.com/name/nm0137140/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter MacDonald",
+      "url": "https://www.imdb.com/name/nm0003423/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bob Einstein",
+      "url": "https://www.imdb.com/name/nm0251872/"
+    },
+    {
+      "name": "Allan Blye",
+      "url": "https://www.imdb.com/name/nm0089982/"
+    },
+    {
+      "name": "Don Lake",
+      "url": "https://www.imdb.com/name/nm0482141/"
+    }
+  ]
+}

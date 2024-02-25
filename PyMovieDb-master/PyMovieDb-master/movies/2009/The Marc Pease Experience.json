@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Marc Pease Experience",
+  "url": "https://www.imdb.com/tt0913413/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI4NzA0MzE1OV5BMl5BanBnXkFtZTcwNzg2OTI4Mg@@._V1_.jpg",
+  "description": "Former high school musical star, Marc Pease, finds himself still living in the past, eight years after graduating.",
+  "review": {
+    "author": "marcusdean118",
+    "dateCreated": "2009-12-10",
+    "inLanguage": "English",
+    "heading": "Misses the mark.",
+    "reviewBody": "As a fan of Jason Schwartzman, I check his profile from time to time. Reading the brief synopses of his upcoming films. On reading this one for The Marc Pease Experience, I was quite excited to see it. But I needn&apos;t of, for it was quite a disappointment. The overall tone of the film stunk of second hand rip offs of, funnily enough other Jason Schwartzman films. His high school obsessed character rings true of Max Fischer in Rushmore and even Ben Stillers character comes off as the Herman Blume type. Someone who encourages Schwartzman&apos;s character before turning into his rival, not in the same entire quantity but with subtle similarities. With it&apos;s often offbeat approach to supporting characters and subplots, it rings off a bit like I Heart Huckabees. Again with subtle similarities in its attempted quirky style. But with these similarities the film falters, it lacks it&apos;s own coherent style. It has a Hollywood plot and structure in its three acts. And it&apos;s more predictable then it is funny. Schwartzman tries his best and it pays off in the smallest of bits in the film, but Ben Stiller is entirely wasted. The film was not appalling, but it was certainly not very good.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 2328,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2010-05-21",
+  "keywords": "cleaning a toilet,cleaning,man wrapped in a towel,school,high school musical",
+  "duration": "PT1H24M",
+  "actor": [
+    {
+      "name": "Jason Schwartzman",
+      "url": "https://www.imdb.com/name/nm0005403/"
+    },
+    {
+      "name": "Ben Stiller",
+      "url": "https://www.imdb.com/name/nm0001774/"
+    },
+    {
+      "name": "Anna Kendrick",
+      "url": "https://www.imdb.com/name/nm0447695/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Todd Louiso",
+      "url": "https://www.imdb.com/name/nm0521974/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jacob Koskoff",
+      "url": "https://www.imdb.com/name/nm1105617/"
+    },
+    {
+      "name": "Todd Louiso",
+      "url": "https://www.imdb.com/name/nm0521974/"
+    }
+  ]
+}

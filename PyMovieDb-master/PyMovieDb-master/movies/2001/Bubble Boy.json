@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Bubble Boy",
+  "url": "https://www.imdb.com/tt0258470/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUwYjczNmItYzczNS00MDQwLTkxNDctN2MwYzI5YzhmNGU4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "Bubble Boy's been in a bubble all his life due to no immune system. A cute blonde girl befriends BB. Her boyfriend proposes and BB decides to travel across USA to Niagara Falls to stop the wedding.",
+  "review": {
+    "author": "Roxburyfunny1",
+    "dateCreated": "2001-08-27",
+    "inLanguage": "English",
+    "heading": "Not As Bad as you Think??",
+    "reviewBody": "People Said it looked stupid because of the Trailor, i myself said this looks so Good and it Was better than Expected. Jake Gyllenhaal was amazing aside from Doing October Sky which he is best known for, this was a major career step that some of the best actors take years to do, he did it quick and Nailed the role amazingly. In the Majority of the Movie you can see that when he wants to step out in the world, or him doesn't know something or bluntly puts something to someone its so real its like he doesn't know the Consquences or anything this is what he knows and he tells the person what he knows if the have it, Such as Religion or a person in general. The mom is a very God Loving Person and she tells him the bad and good but not all of it. When Bubble Bo First stepped out into the world you could see that it was like he was actually first stepping out, He made it so Realistic like all this was bad new. It was amazing you were Looking through his eyes and seeing it for the first time to and the ending talk about superb. All in all it was a very good movie hilarious, great acting, and just alot of fun the people who were in it, As for the Bubble why it didn't pop Doctors probably came up with some type of great plastic or something that's basically unbreakable under certain Circumstances. In Conclusion a Highly Recommended must see for those who love a Good Laugh and a Good cast",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 35063,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "12",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2001-08-24",
+  "keywords": "dead cow,religious cult,torso cut in half,entrails,plastic bubble",
+  "duration": "PT1H24M",
+  "actor": [
+    {
+      "name": "Jake Gyllenhaal",
+      "url": "https://www.imdb.com/name/nm0350453/"
+    },
+    {
+      "name": "Swoosie Kurtz",
+      "url": "https://www.imdb.com/name/nm0001436/"
+    },
+    {
+      "name": "Marley Shelton",
+      "url": "https://www.imdb.com/name/nm0005420/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Blair Hayes",
+      "url": "https://www.imdb.com/name/nm0370911/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Cinco Paul",
+      "url": "https://www.imdb.com/name/nm0666791/"
+    },
+    {
+      "name": "Ken Daurio",
+      "url": "https://www.imdb.com/name/nm0202425/"
+    }
+  ]
+}

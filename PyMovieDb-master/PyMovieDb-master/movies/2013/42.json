@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "42",
+  "url": "https://www.imdb.com/tt0453562/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQwMDU4MDI3MV5BMl5BanBnXkFtZTcwMjU1NDgyOQ@@._V1_.jpg",
+  "description": "In 1947, Jackie Robinson becomes the first African-American to play in Major League Baseball in the modern era when he was signed by the Brooklyn Dodgers and faces considerable racism in the process.",
+  "review": {
+    "author": "T-Fizzle",
+    "dateCreated": "2013-04-13",
+    "inLanguage": "English",
+    "heading": "Fantastic",
+    "reviewBody": "I did not expect a movie like this to be so good! \\n\\nThe acting was brilliant. Chad Boseman as Jackie Robinson did fantastic job playing his character. You can feel the turmoil building up inside him every time some racist moron starts to provoke him. Most of the time, I felt so much sympathy for him.\\n\\nHarrison Ford should be nominated for an Academy Award. From beginning to end, he was spot on. He&apos;s one of the only people in the movie who actually treats Jackie like a human being from the beginning.\\n\\nThe other actors were good too.\\n\\nWith almost every sports movie, you can pretty much tell were the story was going. I will admit it was kind of predictable, but it was still enjoyable nonetheless.\\n\\nThe racism. Oh god. I understand that the film was set in the 40s and that&apos;s how it was back then, but the racism in this film angered me to no end. I could not stand some of these characters, especially one that stood out as the biggest piece of garbage in this entire film. I can&apos;t blame the filmmakers for that; in fact, if they did sugarcoat the language, I don&apos;t think the film would have been as strong. I guess the only good thing that comes out of it is how it helps build Jackie&apos;s character. You could feel the rage building up inside him.\\n\\nI guess the only problem I have is how there was not as much baseball as there should have been in a movie about a baseball player. The gaming scenes were a lot of fun to watch but I felt that they were a bit too short.\\n\\nOverall, the acting was great, the characters were great, and the story was great. If you&apos;re a sports fan, 42 is film worth checking out.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 101914,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2013-04-12",
+  "keywords": "racial integration,pregnancy,train,pay phone,apology",
+  "duration": "PT2H8M",
+  "actor": [
+    {
+      "name": "Chadwick Boseman",
+      "url": "https://www.imdb.com/name/nm1569276/"
+    },
+    {
+      "name": "T.R. Knight",
+      "url": "https://www.imdb.com/name/nm1165660/"
+    },
+    {
+      "name": "Harrison Ford",
+      "url": "https://www.imdb.com/name/nm0000148/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brian Helgeland",
+      "url": "https://www.imdb.com/name/nm0001338/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brian Helgeland",
+      "url": "https://www.imdb.com/name/nm0001338/"
+    }
+  ]
+}

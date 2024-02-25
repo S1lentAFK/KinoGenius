@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Ice Princess",
+  "url": "https://www.imdb.com/tt0396652/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI1NjIzMzg5OF5BMl5BanBnXkFtZTcwMjI2ODcyMQ@@._V1_.jpg",
+  "description": "With the help of her coach, her mom, and the boy who drives the Zamboni machine, nothing can stop Casey (Trachtenberg) from realizing her dream to be a champion figure skater.",
+  "review": {
+    "author": "gruiva",
+    "dateCreated": "2007-09-24",
+    "inLanguage": "English",
+    "heading": "good story, but ignorant in physics",
+    "reviewBody": "The main character is ridiculous trying to look like a physics expert, while being an ignorant. This movie makes a mess out of very basic physics lows, like: speed * mass = acceleration!!! I can understand that the script maker could have missed his 14 years old physics classes, but I cannot accept that nobody working on the movie was able to notice. The movie is very emotional, showing good life lessons, encouraging the children to become good skaters. The story of the movie is good, the actors play well, but it remains a bad after taste because of how ignorant were all the persons involved in the movie. Consumer protection organization should react.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 28784,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "U",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2005-11-11",
+  "keywords": "figure skating,ice skater,ice skating,camcorder,female coach",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Michelle Trachtenberg",
+      "url": "https://www.imdb.com/name/nm0005502/"
+    },
+    {
+      "name": "Kim Cattrall",
+      "url": "https://www.imdb.com/name/nm0000326/"
+    },
+    {
+      "name": "Trevor Blumas",
+      "url": "https://www.imdb.com/name/nm0089720/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tim Fywell",
+      "url": "https://www.imdb.com/name/nm0299563/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Meg Cabot",
+      "url": "https://www.imdb.com/name/nm0127690/"
+    },
+    {
+      "name": "Hadley Davis",
+      "url": "https://www.imdb.com/name/nm0204678/"
+    }
+  ]
+}

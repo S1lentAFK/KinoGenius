@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Courageous",
+  "url": "https://www.imdb.com/tt1630036/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTJiZWE4NmYtYTA4MC00MjE5LTk1NTItYzg2YjU5YWNjNGNiXkEyXkFqcGdeQXVyMzI4NzU1MzA.jpg",
+  "description": "When a tragedy strikes close to home, four police officers struggle with their faith and their roles as husbands and fathers. Together they make a decision that will change all of their lives.",
+  "contentRating": "PG-13",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2011-09-30",
+  "keywords": [
+    "faith",
+    "fatherhood",
+    "church",
+    "police",
+    "integrity"
+  ],
+  "duration": "PT2H10M",
+  "actor": [
+    {
+      "name": "Alex Kendrick",
+      "url": "https://www.imdb.com/name/nm1731937/"
+    },
+    {
+      "name": "Ken Bevel",
+      "url": "https://www.imdb.com/name/nm2848533/"
+    },
+    {
+      "name": "Kevin Downes",
+      "url": "https://www.imdb.com/name/nm0235948/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Alex Kendrick",
+      "url": "https://www.imdb.com/name/nm1731937/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Alex Kendrick",
+      "url": "https://www.imdb.com/name/nm1731937/"
+    },
+    {
+      "name": "Stephen Kendrick",
+      "url": "https://www.imdb.com/name/nm1726854/"
+    }
+  ],
+  "review": {
+    "author": "ChristProclamer",
+    "dateCreated": "2011-10-02",
+    "inLanguage": "English",
+    "heading": "An excellent film I'll be seeing again",
+    "reviewBody": "When I first heard about Courageous, I was intrigued, not because I'm a Christian, but because as a member of a law enforcement family, I can relate to the plot. I wasn't disappointed. The film tells the story of five men and their families, and their decision to step up and face their responsibilities...no matter how hard they may be. Most of them were 'good enough' fathers before, but good enough isn't enough for a man of courage. \n\nCourageous seemed less preachy to me than Fireproof was before it. Most of the acting was much better than I expected (Ken Bevel, in particular, really stepped it up this time). The film was very gritty, very true to life. There were times when I felt like I was watching my family in days past on the screen. Nothing about the reality of job or family was sugarcoated. \n\nMy main complaint would be with the plot structure; the story didn't have a clearly defined beginning, middle, and end. There were enough subplots, I thought, to fill two movies, though they all tied together nicely in the end. \n\nEven my sister (who is not a Christian) agreed that she liked it. In the end, I walked away inspired and uplifted, not just by the film's message, but by it's presentation. Fireproof may have been a film I liked and walked away from, but Courageous is definitely one I'll be buying for my DVD collection. As of this film, I am a definite fan of the Kendrick brother's films, and I can't wait for more.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 21494,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  }
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Faster",
+  "url": "https://www.imdb.com/tt1433108/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMyOTQ5MTAxOF5BMl5BanBnXkFtZTcwOTYzMDg5Mw@@._V1_.jpg",
+  "description": "An ex-con gets on a series of apparently unrelated killings. He gets tracked by a veteran cop with secrets of his own and an egocentric hit man.",
+  "review": {
+    "author": "Marshall-D-Teach",
+    "dateCreated": "2020-02-24",
+    "inLanguage": "English",
+    "heading": "Faster",
+    "reviewBody": "It's the Rock's performance that makes this movie watchable. Otherwise it's a standard revenge driven action move that doesn't add anything to the genre. Also, I usually have issue when movie characters are underdeveloped, but in this case the assassin and his girlfriend were way too overdeveloped and I just didn't need to know that much about his character - not only did it not add anything to the story, it actually detracted from it.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 111687,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2011-03-25",
+  "keywords": "suspense,vigilante,hitman,veteran cop,vigilante cop",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Dwayne Johnson",
+      "url": "https://www.imdb.com/name/nm0425005/"
+    },
+    {
+      "name": "Billy Bob Thornton",
+      "url": "https://www.imdb.com/name/nm0000671/"
+    },
+    {
+      "name": "Maggie Grace",
+      "url": "https://www.imdb.com/name/nm1192254/"
+    }
+  ],
+  "director": [
+    {
+      "name": "George Tillman Jr.",
+      "url": "https://www.imdb.com/name/nm0863387/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tony Gayton",
+      "url": "https://www.imdb.com/name/nm0311024/"
+    },
+    {
+      "name": "Joe Gayton",
+      "url": "https://www.imdb.com/name/nm0311020/"
+    }
+  ]
+}

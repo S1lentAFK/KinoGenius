@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Pride and Glory",
+  "url": "https://www.imdb.com/tt0482572/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI2Mjg1MDk3OV5BMl5BanBnXkFtZTcwMjU4MTM5MQ@@._V1_.jpg",
+  "description": "A family's moral codes are tested when Ray Tierney investigates a case that reveals an incendiary police corruption scandal involving his own brother-in-law. For Ray, the truth is revelatory, a Pandora's Box that threatens to upen...",
+  "review": {
+    "author": "joebloggscity",
+    "dateCreated": "2008-12-06",
+    "inLanguage": "English",
+    "heading": "Family of cops & a whole load of blood; Enjoyable",
+    "reviewBody": "Films revolving around a family of policemen are nothing new. Pride & Glory, starring Norton & Farrell, isn't anything revolutionary in the genre but takes a generally strong storyline and adds some good acting.\n\nStory revolves around a group of cops (led by Farrell) up to their necks in trouble after their corrupt scams have backfired on them, and to cover their backs they need to tread deeper into the mire. On the other hand is Norton (Farrell's brother-in-law) who slowly discovers what's going on, and it all goes helter-skelter.\n\nIn many ways in these films they can get a little clich\u00e9d and melodramatic, but this film seems conscious of that fact, and in general has strayed away from what it could have been. Nevertheless, its nothing special but still interesting. The main interest is the family politics and dynamics and that should keep your interest with the generally good acting. An enjoyable movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 62886,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2008-11-07",
+  "keywords": "new york city,murder of a policeman,murder of a police officer,taken in for questioning,criminal investigation",
+  "duration": "PT2H10M",
+  "actor": [
+    {
+      "name": "Edward Norton",
+      "url": "https://www.imdb.com/name/nm0001570/"
+    },
+    {
+      "name": "Colin Farrell",
+      "url": "https://www.imdb.com/name/nm0268199/"
+    },
+    {
+      "name": "Noah Emmerich",
+      "url": "https://www.imdb.com/name/nm0001187/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gavin O'Connor",
+      "url": "https://www.imdb.com/name/nm0640334/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joe Carnahan",
+      "url": "https://www.imdb.com/name/nm0138620/"
+    },
+    {
+      "name": "Gavin O'Connor",
+      "url": "https://www.imdb.com/name/nm0640334/"
+    },
+    {
+      "name": "Greg O'Connor",
+      "url": "https://www.imdb.com/name/nm0640345/"
+    }
+  ]
+}

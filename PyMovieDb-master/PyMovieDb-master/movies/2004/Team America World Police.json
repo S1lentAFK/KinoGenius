@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "Team America: World Police",
+  "url": "https://www.imdb.com/tt0372588/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM2Nzc4NjYxMV5BMl5BanBnXkFtZTcwNTM1MTcyMQ@@._V1_.jpg",
+  "description": "Popular Broadway actor Gary Johnston is recruited by the elite counter-terrorism organization Team America: World Police. As the world begins to crumble around him, he must battle with terrorists, celebrities and falling in love.",
+  "review": {
+    "author": "pdmaynooth",
+    "dateCreated": "2019-06-14",
+    "inLanguage": "English",
+    "heading": "Funniest movie ever",
+    "reviewBody": "This is the funniest movie I have ever seen . Gross , immature , ridiculous, silly , childish , disgusting , puerile.What more could a 42 year old man child want ? Brilliant on every level ! Genius ! Hilarious ! Great social commentary !",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 177726,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Comedy"
+  ],
+  "datePublished": "2005-01-14",
+  "keywords": "terrorist,puppetry,vomiting,arab stereotype,strong language",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Trey Parker",
+      "url": "https://www.imdb.com/name/nm0005295/"
+    },
+    {
+      "name": "Matt Stone",
+      "url": "https://www.imdb.com/name/nm0001778/"
+    },
+    {
+      "name": "Elle Russ",
+      "url": "https://www.imdb.com/name/nm1224826/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Trey Parker",
+      "url": "https://www.imdb.com/name/nm0005295/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Trey Parker",
+      "url": "https://www.imdb.com/name/nm0005295/"
+    },
+    {
+      "name": "Matt Stone",
+      "url": "https://www.imdb.com/name/nm0001778/"
+    },
+    {
+      "name": "Pam Brady",
+      "url": "https://www.imdb.com/name/nm0103702/"
+    }
+  ]
+}

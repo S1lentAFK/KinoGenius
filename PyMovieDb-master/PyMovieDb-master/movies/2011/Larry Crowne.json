@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Larry Crowne",
+  "url": "https://www.imdb.com/tt1583420/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjQ4MzlmZDUtN2ViMi00ZTAwLWFkMmItNGRlZmM1NjQ1ZmJjXkEyXkFqcGdeQXVyMzI0NDc4ODY@._V1_.jpg",
+  "description": "After losing his job, a middle-aged man reinvents himself by going back to college.",
+  "review": {
+    "author": "Jake_III",
+    "dateCreated": "2011-07-04",
+    "inLanguage": "English",
+    "heading": "An enjoyable way to spend an hour & a half.....",
+    "reviewBody": "To begin, I&apos;m not sure what some of the other reviewers expected to see in this film. Larry Crowne is not a sizzling drama, a fast paced action movie, or an over-the-top comedy, & it&apos;s not likely to win a bunch of Oscars for acting, screenplay or anything else for that matter. What is is, however, is a well written, fun movie that is fairly well acted & very enjoyable. \\n\\nThe story does take a little bit to unfold, but does so in an organic way as not to give away too much too soon. The cast was well chosen & I found the characters to have been well developed & really fun people. Like most other films, there is certainly some creative license taken in that most everybody in it is funny and likable, which is what you want from a film like this. If only reality were filled with such great people, we should all be so lucky.\\n\\nThere are a few loose ends that may have been stitched up a bit better (per several of the reviews I have read) but I&apos;m not sure that was necessary at all to the story. Moviegoers these days seem to have a need for everything to be spelled out to the Nth degree. If it wasn&apos;t critical for the story to unfold, it didn&apos;t make its way into the picture. There&apos;s something to be said for movies that leave a bit to the imagination for the viewer after the film is over, Keeps you thinking about it for awhile after you&apos;ve left your seat.\\n\\nI would watch it again. I left feeling good, with a smile on my face, which is what I was after upon deciding to watch it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 70568,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2011-07-01",
+  "keywords": "character name as title,unsuccessful,male protagonist,feet,high heels",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Tom Hanks",
+      "url": "https://www.imdb.com/name/nm0000158/"
+    },
+    {
+      "name": "Julia Roberts",
+      "url": "https://www.imdb.com/name/nm0000210/"
+    },
+    {
+      "name": "Sarah Mahoney",
+      "url": "https://www.imdb.com/name/nm2089529/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tom Hanks",
+      "url": "https://www.imdb.com/name/nm0000158/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tom Hanks",
+      "url": "https://www.imdb.com/name/nm0000158/"
+    },
+    {
+      "name": "Nia Vardalos",
+      "url": "https://www.imdb.com/name/nm0889522/"
+    }
+  ]
+}

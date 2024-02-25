@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Chef",
+  "url": "https://www.imdb.com/tt2883512/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTQyNDQwMjYtZTY5YS00MGU2LWE5NzctMjM4Y2IyYjkwMjNkXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+  "description": "A head chef quits his restaurant job and buys a food truck in an effort to reclaim his creative promise, while piecing back together his estranged family.",
+  "review": {
+    "author": "mistercsays1",
+    "dateCreated": "2014-05-17",
+    "inLanguage": "English",
+    "heading": "Look Who&apos;s Cooking",
+    "reviewBody": "Stepping away from the blockbusters that have occupied his time and talents of late, Jon Favreau scales back the spectacle to deliver Chef, a thoroughly enjoyable story of redemption set amid the chaos and camaraderie of the kitchen in which Favreau delivers what may be his best performance yet. In addition to taking on the lead role of disgruntled chef Carl Casper, Favreau also wrote the screenplay and served as producer and director, putting himself firmly in the firing line if the film misfired. Fortunately, he has got most of it right and Chef overcomes any shortcomings through its refreshing take on relationships - particularly between Carl and his 10-year-old son Percy (Emjay Anthony) - and the power of technology and social media as both a destructive force and an instrument of considerable social currency. Confined to bit parts of late in the likes of The Wolf of Wall Street and the three Iron Man films, Favreau seems to relish the opportunity to take on this role of a man forced to re-evaluate everything that is important to him.\\n\\nWe first meet Carl as he begins preparations for the evening ahead at the restaurant at which he is the head chef. Once hailed as the next big thing in culinary circles, Carl&apos;s career and reputation has stagnated somewhat as he finds himself frustrated by the limitations placed on him by restaurant owner Riva (Dustin Hoffman). You see, Riva is more interested in maximising profit, while Carl is desperate to shake things up and broaden the menu, particularly with high profile critic Ramsey Michel (Oliver Platt) dropping in to sample the fare. It is not giving too much away to say that things don&apos;t go well and, when Carl unleashes at Michel in a tirade that goes viral, his tenure at the restaurant is over. At the urging of his ex-wife Inez (Sofia Vergara), Carl heads to Miami and establishes a food truck that enables him to reconnect with his love of cooking and the son he has neglected. Much merriment ensues as Carl hits the road to redemption with Percy and best friend Martin (John Leguizamo) along for the ride.\\n\\nThe film very much celebrates the art of cooking and gastronomes will go nuts at the myriad montages of Carl at work in the kitchen, whether it be in the restaurant, the food truck or at home where even a toasted sandwich is prepared with passion and precision. The relationship between Carl and Percy, which is the crux of the narrative with the food truck as the conduit that brings them together, is refreshingly realistic and devoid of mawkish sentimentality. Young Graham is remarkably composed and naturalistic as Percy and the underrated Leguizamo makes the most of his best role in ages. The music is fabulously funky, creating the up-tempo mood that permeates the second half of the film. There really is a lot to like here, which makes it easy enough to overlook those aspects that go unexplained. For example, Inez lives in a luxurious house with an armada of domestic staff and is always making reference to her work, yet we never get any sense of what this work entails and ultimately Vergara seems to be simply rehashing her Modern Family persona, albeit not quite so shrill.\\n\\nThe sudden disappearance of Scarlett Johansson from the narrative is another mystery that remains unsolved. In the opening portion of the film, Johansson&apos;s Molly works as a hostess at the restaurant and there is clearly a mutual attraction between her and Carl. In fact, a scene in which Molly lounges seductively while Carl prepares a meal is sexier than most love scenes, yet once Carl leaves for Miami, Molly is neither seen nor heard from again. A cynic might suggest that Johansson&apos;s inclusion, along with a somewhat strange cameo from Robert Downey Jnr as another of Inez&apos;s ex-husbands, is simply Favreau calling upon his Iron Man co-stars in an attempt to secure maximum leverage for his film with multiplex audiences.\\n\\nThe film demonstrates the power of ubiquitous presence and power of social media; initially bringing Carl to his knees before ultimately playing a very significant role in his resurrection as a chef and a father. Despite a few unanswered questions along the way, Chef is a charming, refreshing surprise.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 229947,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2014-06-25",
+  "keywords": "food truck,chef,food,food blogger,parent child relationship",
+  "duration": "PT1H54M",
+  "actor": [
+    {
+      "name": "Jon Favreau",
+      "url": "https://www.imdb.com/name/nm0269463/"
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "url": "https://www.imdb.com/name/nm0000375/"
+    },
+    {
+      "name": "Scarlett Johansson",
+      "url": "https://www.imdb.com/name/nm0424060/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jon Favreau",
+      "url": "https://www.imdb.com/name/nm0269463/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jon Favreau",
+      "url": "https://www.imdb.com/name/nm0269463/"
+    }
+  ]
+}

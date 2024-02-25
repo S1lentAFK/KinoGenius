@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Trick 'r Treat",
+  "url": "https://www.imdb.com/tt0862856/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmIyY2E5YjMtZDA3NC00MmIzLWFkZmItNzVlODllZWNlZmRkXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+  "description": "Five interwoven stories that occur on Halloween: an everyday high school principal has a secret life as a serial killer; a college virgin might have just met the guy for her; a group of teenagers pull a mean prank; a woman who loa...",
+  "review": {
+    "author": "neil-upto11",
+    "dateCreated": "2011-03-18",
+    "inLanguage": "English",
+    "heading": "Some good actors, pretty slick but not great",
+    "reviewBody": "'Trick r Treat' is a comic-style anthology and the different tales are woven together pretty well. The direction is slick and the structure is sound.\n\nThe tales themselves are a mixed bag. Not bad but not stunning. \n\nThe injection of two or three decent actors gives it enough 'oomph' to lift it just above your average horror flick. Without the likes of Brian Cox and Dylan Baker I fear this may have slipped into the murky depths of DVD oblivion but, as I say, they do enough to keep it all watchable.\n\n'Trick r Treat' is silly fun that should please most horror fans.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 104178,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Horror"
+  ],
+  "datePublished": "2015-11-27",
+  "keywords": "halloween,mask,corpse,werewolf,neighbor",
+  "duration": "PT1H22M",
+  "actor": [
+    {
+      "name": "Anna Paquin",
+      "url": "https://www.imdb.com/name/nm0001593/"
+    },
+    {
+      "name": "Brian Cox",
+      "url": "https://www.imdb.com/name/nm0004051/"
+    },
+    {
+      "name": "Dylan Baker",
+      "url": "https://www.imdb.com/name/nm0048414/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Dougherty",
+      "url": "https://www.imdb.com/name/nm1002424/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Dougherty",
+      "url": "https://www.imdb.com/name/nm1002424/"
+    }
+  ]
+}

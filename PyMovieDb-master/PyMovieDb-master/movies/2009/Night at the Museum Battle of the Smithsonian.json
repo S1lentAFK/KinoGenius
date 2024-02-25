@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Night at the Museum: Battle of the Smithsonian",
+  "url": "https://www.imdb.com/tt1078912/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGZjZDE2NjUtMzVkNy00N2UyLTg5MjYtYzY1ZmM1YWY3ZTZmXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+  "description": "Security guard Larry Daley infiltrates the Smithsonian Institution in order to rescue Jedediah and Octavius, who have been shipped to the museum by mistake.",
+  "datePublished": "2009-05-20",
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "duration": "PT1H45M",
+  "keywords": "octopus,second part,sequel,al capone character,darth vader character",
+  "rating": {
+    "ratingCount": 211121,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "review": {
+    "author": "bkoganbing",
+    "dateCreated": "2018-07-14",
+    "inLanguage": "English",
+    "heading": "The Smithsonian gets a treasure",
+    "reviewBody": "In this sequel to Night At The Museum, Ben Stiller now a millionaire who does motivational infomercials still finds time to visit his old friends at the Museum of Natural History where he made their acquaintence while working as a night security guard there.\\n\\nBut with his millions he can&apos;t stop changes as the Museum is now going for interactive exhibits and many are being packed away and sent to the National Archives, some for exhibit in the Smithsonian.\\n\\nSo Stiller goes back into action and visits the archive which is lots of underground space between the Capitol and Lincoln Memorial.\\n\\nI wonder myself in both of these films was Stiller really visiting Madame Tussaud&apos;s with all the historical figures coming to life. \\n\\nTheodore Roosevelt&apos;s connection with the Museum Of Natural History is well known and Robin Williams is back as our rough riding 26th president. Others are back and new ones added. \\n\\nHank Azaria is brilliant as the Egyptian prince whose incantation caused all these exhibits to come to life after sundown. He sounds like he was channeling Boris Karloff.\\n\\nAmy Adams is a feisty feminist role model Amelia Earhart who gets kind of interested in Stiller. They make a good team.\\n\\nAs for them getting together. A gambit that Meet Joe Black and Bing Crosby&apos;s A Connecticut Yankee In King Arthur&apos;s Court used is applied here. You have to see the film to see what I mean.\\n\\nA few good laughs in this nice family entertainment film.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "actor": [
+    {
+      "name": "Ben Stiller",
+      "url": "https://www.imdb.com/name/nm0001774/"
+    },
+    {
+      "name": "Owen Wilson",
+      "url": "https://www.imdb.com/name/nm0005562/"
+    },
+    {
+      "name": "Amy Adams",
+      "url": "https://www.imdb.com/name/nm0010736/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Shawn Levy",
+      "url": "https://www.imdb.com/name/nm0506613/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Ben Garant",
+      "url": "https://www.imdb.com/name/nm0304830/"
+    },
+    {
+      "name": "Thomas Lennon",
+      "url": "https://www.imdb.com/name/nm0502073/"
+    }
+  ]
+}

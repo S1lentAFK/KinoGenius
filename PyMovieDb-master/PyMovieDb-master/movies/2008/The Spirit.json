@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Spirit",
+  "url": "https://www.imdb.com/tt0831887/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDcyMTc1NzgwNF5BMl5BanBnXkFtZTcwNzUyMDUwMg@@._V1_.jpg",
+  "description": "Rookie cop Denny Colt returns from the beyond as The Spirit, a hero whose mission is to fight against the bad forces in Central City.",
+  "review": {
+    "author": "A_Roode",
+    "dateCreated": "2008-12-20",
+    "inLanguage": "English",
+    "heading": "A flawed but fun-filled romp.",
+    "reviewBody": "I love the interview with Lorenzo Semple Jnr, screenwriter for 'Flash Gordon,' when he suggests that the film would have been a big hit if only they'd been able to market it as a movie that would be a cult classic in thirty years. He goes on to explain what the core problem is: A cult film, by definition has fanatical supporters ... just not a lot of them. Those who 'get' the film will keep it alive forever, but Joe Moviegoer won't care if he ever sees it again. And so I turn to 'The Spirit,' a film which has similar qualities to 'Flash Gordon': bad enough to be awesome, tongue firmly in it's cheek and gentle satire in it's hand.\\n\\n'The Spirit' manages to be wondrous and infuriating. A visual feast, Frank Miller was the perfect choice to bring the film to life. On the other hand, the dialogue is often so cheesy and the characters so over the top that the movie never allows you to be lulled into that wonderful moment of forgetting that you're watching a movie. There isn't a single character in the movie who talks like a real person. They all talk like, well, comic book archetypes: gruff commissioner, megalomaniacal super villain, brilliant evil assistant, sultry femme fatales, loyal and uninteresting love interest, and on and on. Take Samuel L Jackson's character, 'The Octopus' for example. It is a character that Jackson was born to play and Sam throws every ounce of his endlessly entertaining and over the top style into the character. It works and he plays the part brilliantly because he takes ridiculous dialogue and ridiculous material and has wild amounts of fun with it. The cast, by and large, follow his lead. Scarlett Johansson is hilariously withering with her acerbic barbs to The Octopus' clone lackeys, all of whom are played with deadpan wit and verve by Louis Lombardi. It is hard, in fact, not to feel some pity for Gabriel Macht who has to play Bud Abbott to a cast of rollicking, scene-chewing Lou Costellos in an over-acting competition. It all works wonderfully if you're willing to view the film as, uncharitably, being unintentionally funny or more genuinely as a gentle lampoon of comic book films by one of the great figures of the graphic novel genre.\\n\\nFrank Miller takes 'The Spirit' and has great fun with it. It is quirky at times, ham-handed at times, but lovingly made. A brilliant Noirist, Miller actually has much better luck in 'The Spirit' in moments of levity. The noir angles of this film don't work unless designed as a kind of self-righteous satire. The noir feels forced and dramatic moments are mercilessly skewered by the corny dialogue that a helpless Gabriel Macht delivers with straight-laced determination. 'The Spirit' has the look of 'Sin City' and the heart of 'Flash Gordon.' When it works, it works well, but the film is a terrible mess whenever it is trying to be serious.\\n\\nSo is it worth the ride? I think so if you go in with the proper expectations. There's not really anything new visually if you've seen 'Sin City' or '300' -- both Miller works of course -- but that didn't make them any less interesting to me. Plenty of humour where it may or may not have been planned and the potential to be a cult classic. This is the kind of movie you can best enjoy in the company of friends and a cold six pack. Look for diamonds and you're looking for too much. And if nothing else, Eva Mendes has never looked better on film than she does here. That's got to stand for something, right?",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 62661,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Fantasy"
+  ],
+  "datePublished": "2009-01-01",
+  "keywords": "masked superhero,the spirit character,pants falling down,female star appears nude,white rat",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Gabriel Macht",
+      "url": "https://www.imdb.com/name/nm0532683/"
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "url": "https://www.imdb.com/name/nm0000168/"
+    },
+    {
+      "name": "Scarlett Johansson",
+      "url": "https://www.imdb.com/name/nm0424060/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Frank Miller",
+      "url": "https://www.imdb.com/name/nm0588340/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Frank Miller",
+      "url": "https://www.imdb.com/name/nm0588340/"
+    },
+    {
+      "name": "Will Eisner",
+      "url": "https://www.imdb.com/name/nm0252162/"
+    }
+  ]
+}

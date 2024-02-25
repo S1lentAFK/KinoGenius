@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Stateside",
+  "url": "https://www.imdb.com/tt0339727/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAyNjA2NTA3OV5BMl5BanBnXkFtZTcwODMxOTUyMQ@@._V1_.jpg",
+  "description": "The film follows a rebellious teenager on leave from the Marines who falls in love with a female musician. The relationship is threatened when she develops a mental illness...",
+  "review": {
+    "author": "wilsonashley_",
+    "dateCreated": "2004-05-19",
+    "inLanguage": "English",
+    "heading": "Fresh, moving, enlightening and entertaining",
+    "reviewBody": "I saw a prescreening of this lovely movie. It explores fresh exciting territory while telling an extremely realistic teen love story. When the leads sneak around and struggle to be together, it has the romance and fun of ROMEO AND JULIET. In other ways it reminds me of THE MAGDALENE SISTERS in that it tells a story that is important for people to see. However, just like in Magdalene Sisters the message doesn&apos;t interfere with the high level of entertainment. The mental illness doesn&apos;t take over the film. It just provides a unique obstacle that the lovers must get over to be together.\n\nThe acting is excellent and the all the characters are really alive, flawed,\n\npassionate and interesting. All in all, this is a warm and funny movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 1983,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "R",
+  "genre": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "datePublished": "2004-02-27",
+  "keywords": "scantily clad female,cleavage,blonde,red dress,panties",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Jonathan Tucker",
+      "url": "https://www.imdb.com/name/nm0006958/"
+    },
+    {
+      "name": "Rachael Leigh Cook",
+      "url": "https://www.imdb.com/name/nm0000337/"
+    },
+    {
+      "name": "Agnes Bruckner",
+      "url": "https://www.imdb.com/name/nm0115671/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Reverge Anselmo",
+      "url": "https://www.imdb.com/name/nm0030612/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Reverge Anselmo",
+      "url": "https://www.imdb.com/name/nm0030612/"
+    }
+  ]
+}

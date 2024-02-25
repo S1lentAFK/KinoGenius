@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Monster's Ball",
+  "url": "https://www.imdb.com/tt0285742/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTkyMzk3NTYtY2FiYy00MWIwLWIyYzctODIzNzVlOGQxZmYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "After a family tragedy, a racist prison guard re-examines his attitudes while falling in love with the African-American wife of the last prisoner he executed.",
+  "review": {
+    "author": "alykaye",
+    "dateCreated": "2002-06-23",
+    "inLanguage": "English",
+    "heading": "Overlooked performers",
+    "reviewBody": "Though Halle Berry was the only performer from this film recognized by the Academy, I do not feel that she was the only actor deserving praise. Sean Combs proved that he belongs in the acting world in just his first on-screen role. His portrayal of Lawrence, a man on Death Row, is understated and powerful. Heath Ledger's portrayal of Sonny is also brilliant. The only fault lies in the writing--neither Lawrence nor Sonny are fully developed. A great ensemble cast makes this film a winner, not Halle Berry alone.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 93629,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2002-06-07",
+  "keywords": "interracial sex,electric chair,interracial relationship,prison guard,cunnilingus",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Billy Bob Thornton",
+      "url": "https://www.imdb.com/name/nm0000671/"
+    },
+    {
+      "name": "Halle Berry",
+      "url": "https://www.imdb.com/name/nm0000932/"
+    },
+    {
+      "name": "Taylor Simpson",
+      "url": "https://www.imdb.com/name/nm0801231/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Marc Forster",
+      "url": "https://www.imdb.com/name/nm0286975/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Milo Addica",
+      "url": "https://www.imdb.com/name/nm0995906/"
+    },
+    {
+      "name": "Will Rokos",
+      "url": "https://www.imdb.com/name/nm0737993/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Charlie and the Chocolate Factory",
+  "url": "https://www.imdb.com/tt0367594/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjcxMjg1Njg2NF5BMl5BanBnXkFtZTcwMjQ4NzMzMw@@._V1_.jpg",
+  "description": "Charlie, a young boy from an impoverished family, and four other kids win a tour of an amazing chocolate factory run by an imaginative chocolatier, Willy Wonka, and his staff of Oompa-Loompas.",
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2005-07-29",
+  "keywords": "psychotherapy,chocolate factory,chocolate,golden ticket,caterpillar",
+  "duration": "PT1H55M",
+  "rating": {
+    "ratingCount": 523571,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "review": {
+    "author": "MadMax-6",
+    "dateCreated": "2005-07-11",
+    "inLanguage": "English",
+    "heading": "Brilliant!",
+    "reviewBody": "I saw this movie in Antwerp at a sponsored movie event on the 4th of July.... I was a bit reluctant to go and watch this movie but I&apos;m glad I did! Johnny Depp is a great Willy Wonka! I never thought that there would be a version that could match or even beat the original, but this one certainly has exceeded my expectations.... The film is hilarious, speaking as an adult, I wonder how the youth responds to this, but I rate this movie 8 out of 10 stars!\\n\\nFor those of you expecting a copy of the original with new actors, you&apos;ll be surprised how original this version is, go and bring your entire family with you! I&apos;m sorry for the fact that this comment looks a bit like a commercial, but I&apos;m really enthusiastic about this flick!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Johnny Depp",
+      "url": "https://www.imdb.com/name/nm0000136/"
+    },
+    {
+      "name": "Freddie Highmore",
+      "url": "https://www.imdb.com/name/nm0383603/"
+    },
+    {
+      "name": "David Kelly",
+      "url": "https://www.imdb.com/name/nm0446303/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tim Burton",
+      "url": "https://www.imdb.com/name/nm0000318/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Roald Dahl",
+      "url": "https://www.imdb.com/name/nm0001094/"
+    },
+    {
+      "name": "John August",
+      "url": "https://www.imdb.com/name/nm0041864/"
+    }
+  ]
+}

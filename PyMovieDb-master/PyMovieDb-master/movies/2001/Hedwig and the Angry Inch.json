@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hedwig and the Angry Inch",
+  "url": "https://www.imdb.com/tt0248845/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGY5NWUyNDUtZWJhZi00ZjMxLWFmMjMtYmJhZjVkZGZhNWQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A gender-queer punk-rock singer from East Berlin tours the U.S. with her band as she tells her life story and follows the former lover/band-mate who stole her songs.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2001-07-27",
+  "keywords": "teenage boy, rock band, drag, rock star, berlin wall",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "John Cameron Mitchell",
+      "url": "https://www.imdb.com/name/nm0593463/"
+    },
+    {
+      "name": "Miriam Shor",
+      "url": "https://www.imdb.com/name/nm0794896/"
+    },
+    {
+      "name": "Stephen Trask",
+      "url": "https://www.imdb.com/name/nm0871136/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Cameron Mitchell",
+      "url": "https://www.imdb.com/name/nm0593463/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Cameron Mitchell",
+      "url": "https://www.imdb.com/name/nm0593463/"
+    },
+    {
+      "name": "Stephen Trask",
+      "url": "https://www.imdb.com/name/nm0871136/"
+    }
+  ],
+  "review": {
+    "author": "MyMovieTVRomance",
+    "dateCreated": "2022-03-04",
+    "inLanguage": "English",
+    "heading": "Like a modern-day Grimm Brother's fairytale in a way.",
+    "reviewBody": "I watched this mainly because Joan Jett rocked with the star of it back in 2001 or so. So, I just expected a rock musical about a drag queen that wanted to make it big, nothing more. But, I was pleasantly surprised to find that this was so much more than that!\n\nFirst off, this film is such a visual piece of art! Secondly, the songs are great! And third- and most important, this film is a beautiful bending of visual and intellectual ideas. It's quite absurdist and crude at times, but mostly, it's philosophical, spiritual and sweet. This is a twin flame movie, for sure! I loved it!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 37190,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  }
+}

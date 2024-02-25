@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Mad Money",
+  "url": "https://www.imdb.com/tt0951216/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgyMTY2NTIxM15BMl5BanBnXkFtZTcwNTg3NzczMw@@._V1_.jpg",
+  "description": "Three female employees of the Federal Reserve plot to steal money that is about to be destroyed.",
+  "review": {
+    "author": "Smells_Like_Cheese",
+    "dateCreated": "2008-01-19",
+    "inLanguage": "English",
+    "heading": "I thought it was cute",
+    "reviewBody": "My friend and I were looking for a movie to see this weekend and Mad Money was the only movie that looked like fun. When we finished the movie, the audience was happy and we were happy, this was a fun and cute movie. So I have to say that I am very very surprised by this harsh rating on IMDb, I mean, a 4.4?! You have got to be kidding me, this is by no means movie of the year, but for what it was, this was just a fun comedy to watch. There wasn't any major problems with this movie that deserves that kind of a rating that makes it look like the first major flop of the year. Diane Keaton, Queen Latifah, and Katie Holmes were absolutely adorable together and had great chemistry. They made the story an Oceans Eleven for the girls, sounds like such a chick flick, but I think this is one that most could actually enjoy.\\n\\nBridget and her husband, Dan are in major debt, really bad debt, like 282,000 dollars in debt. They are about to loose everything they own, so Bridget gets a job as a janitor for the financial bank. When she notices the ultimate torture of how they shred worn out money, she gets a clever idea with the help of two other girl employees, Nina and Jackie, to find a way to break the system and get that money to get out of their poor situations. Once they get what they need, Bridget is so satisfied with how smooth everything went, she wants more and they go for it, but they should learn not to get so greedy since someone is on their tale.\\n\\nMad Money is a chick flick, but it's one of the rare one's that I liked. I didn't think there was anything wrong with this film. I think they could have explained the situation with the boss of the bank a little better, I don't know if he was in on it or what, but it's something that could slide I think. Queen Latifah was just so funny and Diane Keaton was a perfect choice for Bridget, Katie Holmes was pretty decent for the comic relief. Please don't take the rating on IMDb seriously, I think that Mad Money was just a fun little comedy that deserves a better chance.\\n\\n6/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 22706,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "2008-01-18",
+  "keywords": "woman wears eyeglasses,caper crime,female director,female filmmaker,title directed by female",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Diane Keaton",
+      "url": "https://www.imdb.com/name/nm0000473/"
+    },
+    {
+      "name": "Queen Latifah",
+      "url": "https://www.imdb.com/name/nm0001451/"
+    },
+    {
+      "name": "Katie Holmes",
+      "url": "https://www.imdb.com/name/nm0005017/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Callie Khouri",
+      "url": "https://www.imdb.com/name/nm0451884/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Glenn Gers",
+      "url": "https://www.imdb.com/name/nm1020896/"
+    },
+    {
+      "name": "John Mister",
+      "url": "https://www.imdb.com/name/nm0592961/"
+    },
+    {
+      "name": "Neil McKay",
+      "url": "https://www.imdb.com/name/nm0571032/"
+    }
+  ]
+}

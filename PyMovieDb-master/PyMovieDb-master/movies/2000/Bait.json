@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Bait",
+  "url": "https://www.imdb.com/tt1438173/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYzNjU4NTc5MV5BMl5BanBnXkFtZTcwNDE0NzAzOA@@._V1_.jpg",
+  "description": "A freak tsunami traps shoppers at a coastal Australian supermarket inside the building - along with 12-foot Great White Sharks.",
+  "review": {
+    "author": "bowmanblue",
+    "dateCreated": "2015-01-20",
+    "inLanguage": "English",
+    "heading": "Shopping with sharks",
+    "reviewBody": "Going to a supermarket is never a particularly thrilling experience. There are the screaming kids begging their parents for sweets, the queues, the trolleys with the wonky wheels and of course those awful self-service checkouts that never really work. However, the one thing I&apos;ve never experienced at Tesco&apos;s, is a shark swimming down the aisle, chomping at my heels.\\n\\nIn &apos;Bait&apos; we see just what happens if you let Great White sharks into your local hypermarket. It doesn&apos;t end well for anyone concerned. Great White sharks are less inclined to use clubcards and queue nicely at Customer Services departments while trying to exchange a faulty toaster; instead they tend to eat anyone who gets in their path.\\n\\nBait follows a long line of so-so B-movies, all with sharks as the main threat. However, whereas most of them are pretty forgettable, this one is actually pretty watchable. You&apos;ll notice I said &apos;watchable&apos; not good. Sadly, the special effects are pretty awful (CGI sharks just don&apos;t cut it) and even some of the acting is pretty wooden.\\n\\nHowever, that said, it&apos;s a fun - if incredibly silly - ride. If you think &apos;sharks in a supermarket&apos; sounds like a good film, then you&apos;re probably the sort of person who can appreciate a daft little B-movie like this. But if you think it sounds totally ludicrous, then you&apos;re probably best bending a selection of wire shopping baskets all around your body in an attempt to put as much distance between you and the film as possible (seriously, that&apos;s what someone tries in Bait).\\n\\nPersonally, I loved Bait. It was silly, cheesy, fun and totally stupid. A bit like me (I like to think, anyway). I can&apos;t wait for the sequel (yes, there&apos;s one on its way, if you believe the online rumour mill). I&apos;m hoping this time we&apos;ll have either &apos;sharks in school&apos; or &apos;sharks in an old people&apos;s home.&apos; Classic. I should write those ideas down and copyright them before they&apos;re stolen!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 19304,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Fantasy",
+    "Horror"
+  ],
+  "datePublished": "2013-04-19",
+  "keywords": "barefoot male,camera shot of feet,camera shot of bare feet,man wears a swimsuit,natural horror",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Xavier Samuel",
+      "url": "https://www.imdb.com/name/nm1882152/"
+    },
+    {
+      "name": "Sharni Vinson",
+      "url": "https://www.imdb.com/name/nm1801800/"
+    },
+    {
+      "name": "Adrian Pang",
+      "url": "https://www.imdb.com/name/nm0659373/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kimble Rendall",
+      "url": "https://www.imdb.com/name/nm0719320/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Russell Mulcahy",
+      "url": "https://www.imdb.com/name/nm0611683/"
+    },
+    {
+      "name": "John Kim",
+      "url": "https://www.imdb.com/name/nm2560081/"
+    },
+    {
+      "name": "Duncan Kennedy",
+      "url": "https://www.imdb.com/name/nm0003300/"
+    }
+  ]
+}

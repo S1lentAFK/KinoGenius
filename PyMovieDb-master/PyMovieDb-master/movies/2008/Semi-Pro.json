@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Semi-Pro",
+  "url": "https://www.imdb.com/tt0839980/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc1MjQ4NTc3M15BMl5BanBnXkFtZTcwMTc3NTg1MQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "tastyhotdogs",
+    "dateCreated": "2008-05-12",
+    "inLanguage": "English",
+    "heading": "Semi-funny",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 85658,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Sport"
+  ],
+  "datePublished": "2008-02-29",
+  "keywords": "original story,new line cinema,violence,male protagonist,basketball sport",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Will Ferrell",
+      "url": "https://www.imdb.com/name/nm0002071/"
+    },
+    {
+      "name": "Woody Harrelson",
+      "url": "https://www.imdb.com/name/nm0000437/"
+    },
+    {
+      "name": "Andr\u00e9 3000",
+      "url": "https://www.imdb.com/name/nm0071275/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kent Alterman",
+      "url": "https://www.imdb.com/name/nm0022768/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Scot Armstrong",
+      "url": "https://www.imdb.com/name/nm0035905/"
+    }
+  ]
+}

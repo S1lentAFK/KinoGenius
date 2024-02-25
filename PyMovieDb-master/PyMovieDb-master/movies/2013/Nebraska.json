@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Nebraska",
+  "url": "https://www.imdb.com/tt1821549/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWY3ZDcwNjctMTRmMS00ZWVlLTk4NGItODgxYjU3MjcwNGUxXkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_.jpg",
+  "description": "An aging, booze-addled father makes the trip from Montana to Nebraska with his estranged son in order to claim a million-dollar Mega Sweepstakes Marketing prize.",
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2013-12-06",
+  "keywords": "billings montana,small town,confronting the past,road movie,old age",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Bruce Dern",
+      "url": "https://www.imdb.com/name/nm0001136/"
+    },
+    {
+      "name": "Will Forte",
+      "url": "https://www.imdb.com/name/nm0287182/"
+    },
+    {
+      "name": "June Squibb",
+      "url": "https://www.imdb.com/name/nm0820053/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Alexander Payne",
+      "url": "https://www.imdb.com/name/nm0668247/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bob Nelson",
+      "url": "https://www.imdb.com/name/nm1504572/"
+    }
+  ],
+  "review": {
+    "author": "akshay-ak-kumar",
+    "dateCreated": "2016-05-07",
+    "inLanguage": "English",
+    "heading": "Marvellous !!",
+    "reviewBody": "Nebraska is one of those rare movies which very sweetly tell you that finally the story and screenplay are the kings of a movie irrespective of star power or studio backing.\n\nIts a road film and I won't digress into the story. But its beautiful and I love the way Payne tells the heart warming story of an old man and his son and the son fulfilling a crazy desire of his father.\n\nThe movie captures the emotions of people and beautifully tells us how people change when they see the need in us.\n\nBurce Dern is fantastic as the old man running after something which doesn't exist. He has the spirit and is not ready to give up. Forte is another fine actor who beautifully plays the loving and caring son who is willing to go the distance with his father. And finally there is June Squibb who plays Dern's fire brand wife. She has all the best dialogues in the film and humiliates her husband every time. But stands upto him when it matters.\n\nA nice film to watch on weekends with family and friends.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 122838,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  }
+}

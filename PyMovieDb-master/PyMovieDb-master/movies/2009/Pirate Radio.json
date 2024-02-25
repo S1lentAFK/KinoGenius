@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Pirate Radio USA",
+  "url": "https://www.imdb.com/tt0833984/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAyNzgxNjc2Ml5BMl5BanBnXkFtZTcwNjQ2NTQ0MQ@@._V1_.jpg",
+  "description": "Pirate Radio USA is a feature length documentary about the underground world of unlicensed radio in the USA, where people play what they want and say what they want-unless the FCC catches them. On the way see the rise of Big Media...",
+  "contentRating": "Not Rated",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2006-03-22",
+  "keywords": "pirate broadcasting,radio,pirate radio,media,world trade organization",
+  "duration": "PT1H24M",
+  "actor": [
+    {
+      "name": "Jeff Pearson",
+      "url": "https://www.imdb.com/name/nm2344517/"
+    },
+    {
+      "name": "Mary Jones",
+      "url": "https://www.imdb.com/name/nm2344420/"
+    },
+    {
+      "name": "D.J. Popeye Kahn",
+      "url": "https://www.imdb.com/name/nm8694381/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeff Pearson",
+      "url": "https://www.imdb.com/name/nm2344517/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jeff Pearson",
+      "url": "https://www.imdb.com/name/nm2344517/"
+    }
+  ],
+  "review": {
+    "author": "digiscript34",
+    "dateCreated": "2010-01-01",
+    "inLanguage": "English",
+    "heading": "Reality-based documentary of the public's ongoing battle for the preservation of Constitutional rights",
+    "reviewBody": "This is the movie about Pirate Radio that is designed to help folks of all walks of life who see this movie understand first-hand why pirate radio, and to dispel any dis-beliefs about how far the FCC will go in order to prevent our United States Constitutional rights from being exercised in the form of free speech and to also preserve the infrastructure and corruption of the mega-monopolizing national bigwigs, whose primary intention is to not only command the airwaves but also to dictate and severely limit on a national level the very content of programming choices that will be available to listeners.\n\nIt also documents very well the ongoing battle for our rights to even qualify for low-power authority, that is for those aspiring micro-casters who wholeheartedly WANT to play along with FCC rules and go through the proper channels, but trouble is the FCC refuses to play fair.\n\nPirate Radio USA is not based on any fiction, it is reality and a serious wake-up call to listeners as well as aspired radio engineers and programmers who fight for listener's rights to choice and to restore fair opportunity for the privately owned company to operate as a legitimate and properly licensed station and have fair opportunity to serve in public as well as advertisers interests.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 73,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.1
+  }
+}

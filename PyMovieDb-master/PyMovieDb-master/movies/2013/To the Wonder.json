@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "To the Wonder",
+  "url": "https://www.imdb.com/tt1595656/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGNjM2I0NzgtOGFlMi00MTRkLThmOWQtNjBkOTk2YTZlYmM4XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+  "description": "After falling in love in Paris, Marina and Neil come to Oklahoma, where problems arise. Their church's Spanish-born pastor struggles with his faith, while Neil encounters a woman from his childhood.",
+  "review": {
+    "author": "moores-294-499779",
+    "dateCreated": "2012-09-02",
+    "inLanguage": "English",
+    "heading": "To The Wonder is wonderful",
+    "reviewBody": "Terrence malick, director behind last years most discussed picture, 'The Tree of Life', has snuck his new film 'to the wonder' into the venice film festival. I came here to see The Master, but was also interested in Malicks new film. i was hesitant to get excited for it though. Malick is widely regarded as a control freak as a director, meditating for years, and releasing his films incredibly infrequently. i felt that it was way too early between drinks for malick to release another work. after such a personal film like TTOF, i thought this might be more of a minor work, like how the Coen brothers did No Country and followed up with the minimalistic screw-ball comedy 'burn after reading'. How unprepared and wrong i was.\\n\\nTo The Wonder is a magnificent film. The tree of life was a towering achievement IMHO, and this film doesn't fall short by much in terms of scope, ambition and achievement. by any standards its a great film. its a strong addition to malick's small yet vital body of work. The acting is very good, but like TTOF, takes a a bit of a back seat for malick to do his thing. Affleck and McAdams a very good, as are bardem and kurylenko. i don't want to give away to many plot specifics or character details. most of that is in the lengthy plot synopsis released online yesterday anyway. it is very dream-like, and has a lack of dialogue like TTOF. it tells most of its story through imagery, music and how characters physically act towards each other. i never liked affleck as an actor before this. he's good here, but i wouldn't have minded someone else in the role.\\n\\nAbout what affleck said yesterday. that to the wonder makes TTOF look like transformers. that statement is so exaggerated and pretty much wrong. if anything, TTOF is still more experimental than TO THE WONDER. that doesn't detract from the huge ambition of this film though. I'm so excited to see malick working quicker now. it really is a dream to have malick films in 3 successive years. next year is knight of cups. couldn't be more excited. like TTOF, this film will richly reward repeat viewing, but is a little more accessible than TTOF. people who had problems with the whole universe and dinosaurs thing in TTOF wont have to worry here. although ambitious, it is a little more grounded, and will be more palatable to a bigger audience. thats not to say that the mainstream will embrace this film, because they wont. its a malick film through and through, and i couldn't be more grateful for that.\\n\\nBefore i saw this, the race for my favourite film of the year had really boiled down to THE MASTER (which was great, but still processing) and BEASTS OF THE SOUTHERN WILD. Malick's film has opened up the field. 5/5",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 29864,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2013-02-22",
+  "keywords": "troubled marriage,dysfunctional marriage,female nudity,very little dialogue,husband wife relationship",
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "Ben Affleck",
+      "url": "https://www.imdb.com/name/nm0000255/"
+    },
+    {
+      "name": "Olga Kurylenko",
+      "url": "https://www.imdb.com/name/nm1385871/"
+    },
+    {
+      "name": "Javier Bardem",
+      "url": "https://www.imdb.com/name/nm0000849/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Terrence Malick",
+      "url": "https://www.imdb.com/name/nm0000517/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Terrence Malick",
+      "url": "https://www.imdb.com/name/nm0000517/"
+    }
+  ]
+}

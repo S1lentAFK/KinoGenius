@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Pursuit of Happyness",
+  "url": "https://www.imdb.com/tt0454921/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_.jpg",
+  "description": "A struggling salesman takes custody of his son as he&apos;s poised to begin a life-changing professional career",
+  "review": {
+    "author": "Marshall-D-Teach",
+    "dateCreated": "2020-02-23",
+    "inLanguage": "English",
+    "heading": "Best movie ever. recommend 100%",
+    "reviewBody": "In this journey through the struggles and trials that single father, Chris Gardner, has to take, you see the real side of hardwork and integrity. Chris Gardner, played by Will Smith, Is just trying to give his son a good home as he&apos;s on the pursuit of happiness. This movie doesn&apos;t only show the hard work of a single parent, but it shows that no matter how hard you get pushed down, you should always get up and keep going. I love the strong connection that the father and son roles have in this movie, it seems so real, and that&apos;s because it is! The father (Will smith) and son (Jaden Smith) are father and son outside the movie realm too. Actor, Will Smith, shows his true emotional side during this film, as if he was actually going through the situations occurring in the movie. There couldn&apos;t have been a better cast picked for this movie, the pain, struggle, love, and hope seem so real as if you&apos;re watching a documentary on someone&apos;s life. Smith, usually looked at as a comedic actor, shows what he can really do by jerking the tears from the audience&apos;s eyes.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 555302,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama"
+  ],
+  "datePublished": "2007-01-12",
+  "keywords": "motivational,passion,hardwork,hare krishna,american dream",
+  "duration": "PT1H57M",
+  "actor": [
+    {
+      "name": "Will Smith",
+      "url": "https://www.imdb.com/name/nm0000226/"
+    },
+    {
+      "name": "Thandiwe Newton",
+      "url": "https://www.imdb.com/name/nm0628601/"
+    },
+    {
+      "name": "Jaden Smith",
+      "url": "https://www.imdb.com/name/nm1535523/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gabriele Muccino",
+      "url": "https://www.imdb.com/name/nm0610831/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steve Conrad",
+      "url": "https://www.imdb.com/name/nm0175726/"
+    }
+  ]
+}

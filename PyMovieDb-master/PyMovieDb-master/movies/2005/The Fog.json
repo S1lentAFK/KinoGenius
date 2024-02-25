@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Fog",
+  "url": "https://www.imdb.com/tt0080749/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTk2OTA2MDY0Nl5BMl5BanBnXkFtZTgwNjI5NjcyNjM@._V1_.jpg",
+  "description": "An unearthly fog rolls into a small coastal town exactly 100 years after a ship mysteriously sank in its waters.",
+  "review": {
+    "author": "jeanlevy",
+    "dateCreated": "2019-08-17",
+    "inLanguage": "English",
+    "heading": "One of Carpenter's Moodiest Works",
+    "reviewBody": "It's surprising that John Carpenter followed up Halloween with such a different tale of terror, but he did just that with 1980's The Fog. It's a urban legend-simple ghost story about a small coastal town celebrating its anniversary, forgetting that they only claimed the town because they murdered a shipful of lepers. The lepers are back and they want revenge.\\n\\nThe Fog has an excellent ensemble cast which is one of its strong suits and also, perhaps, one of its downfalls. There's really no major main character (even Adrienne Barbeau's Stevie Wayne - a radio DJ - disappears for large chunks of the film and never interacts with most of the other characters in the film). It's almost like if Robert Altman decided to make an ensemble horror film. Even more surprising is that Jamie Lee Curtis, Carpenter's star of Halloween, is in only about 15 to 20 minutes of the film and has no real character to speak of.\\n\\nDean Cundey's cinematography stuns and Carpenter's eerie synth score spooks, but one can't help feel that something is missing. It does lack that visceral thrill that made Halloween so special. The Fog seems content to just creep its audience out and not truly scare them. It's hard to complain, though, since The Fog does creepy better than just about any other film I can think of. It won't make you come back home and turn all the lights on before bed, but it still stays with you.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 82319,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "AA",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "1980-11-06",
+  "keywords": "fog,ghost ship,lighthouse,sea,revenge",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Adrienne Barbeau",
+      "url": "https://www.imdb.com/name/nm0000105/"
+    },
+    {
+      "name": "Jamie Lee Curtis",
+      "url": "https://www.imdb.com/name/nm0000130/"
+    },
+    {
+      "name": "Janet Leigh",
+      "url": "https://www.imdb.com/name/nm0001463/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Carpenter",
+      "url": "https://www.imdb.com/name/nm0000118/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Carpenter",
+      "url": "https://www.imdb.com/name/nm0000118/"
+    },
+    {
+      "name": "Debra Hill",
+      "url": "https://www.imdb.com/name/nm0384185/"
+    }
+  ]
+}

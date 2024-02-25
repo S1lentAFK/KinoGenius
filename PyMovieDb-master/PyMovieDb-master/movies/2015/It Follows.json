@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "It Follows",
+  "url": "https://www.imdb.com/tt3235888/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmU0MjBlYzYtZWY0MC00MjliLWI3ZmUtMzhlZDVjMWVmYWY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A young woman is followed by an unknown supernatural force after a sexual encounter.",
+  "review": {
+    "author": "SushiStoner103",
+    "dateCreated": "2015-04-19",
+    "inLanguage": "English",
+    "heading": "A Modern Horror Classic",
+    "reviewBody": "Inspired by 70's and 80's horror, it follows is a refreshing psychological horror film with a simple premise and a chilling concept. The cinematography is electrifying, every shot is beautiful and the score holds brilliance, it carries a very obvious John Carpenter vibe to it. The tension is raw, avoiding cheap jump scares and relies on music. Its eerie atmosphere is extremely effective keeping you inches above your seat for the majority of the runtime. The characters are interesting, providing depth and emotional attachment, most modern horror films seem to forget the importance of character development, its nice to see the genre hasn't completely lost it yet. There are several jumps scares, but they work, as they are not carried with unnecessary piecing music jolts but with the use of disturbing and sudden imagery.\\n\\nThe only errors I could detect were the unconventional editing style, the transitions were a little dodgy lacking fluency, this left the film to appear choppy at times but this flaw can be easily forgiven. Its outstanding cinematography and soundtrack make up for this. The film leaves a daunting stain of disturbing after effects that follow you for a long while, with a constant reminder to always check behind your back. An exceptional low budget indie horror film, strongly recommend.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 266200,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2015-02-27",
+  "keywords": "tied to a wheelchair,being followed,teenage girl,supernatural being,chloroform",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Maika Monroe",
+      "url": "https://www.imdb.com/name/nm2140860/"
+    },
+    {
+      "name": "Keir Gilchrist",
+      "url": "https://www.imdb.com/name/nm1507857/"
+    },
+    {
+      "name": "Olivia Luccardi",
+      "url": "https://www.imdb.com/name/nm3459140/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Robert Mitchell",
+      "url": "https://www.imdb.com/name/nm1379002/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Robert Mitchell",
+      "url": "https://www.imdb.com/name/nm1379002/"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "I Heart Huckabees",
+  "url": "https://www.imdb.com/tt0356721/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTk5YmEwOTMtZjIzOC00MjFhLWFhN2ItNDgzZDhhYjVjOWRjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+  "description": "A husband-and-wife team play detective, but not in the traditional sense. Instead, the happy duo helps others solve their existential issues, the kind that keep you up at night, wondering what it all means.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2004-11-26",
+  "keywords": "environmental activism,surreal comedy,dark comedy,search for meaning,interconnected lives",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Jason Schwartzman",
+      "url": "https://www.imdb.com/name/nm0005403/"
+    },
+    {
+      "name": "Jude Law",
+      "url": "https://www.imdb.com/name/nm0000179/"
+    },
+    {
+      "name": "Naomi Watts",
+      "url": "https://www.imdb.com/name/nm0915208/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David O. Russell",
+      "url": "https://www.imdb.com/name/nm0751102/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David O. Russell",
+      "url": "https://www.imdb.com/name/nm0751102/"
+    },
+    {
+      "name": "Jeff Baena",
+      "url": "https://www.imdb.com/name/nm1337885/"
+    }
+  ],
+  "review": {
+    "author": "Gordon-11",
+    "dateCreated": "2006-08-13",
+    "inLanguage": "English",
+    "heading": "One crazy film!",
+    "reviewBody": "This film is about a man wanting to find out the meaning of coincidences in life, and hires two private detectives to help him find the truth. In the process, he meets a lot of different people who are also lost and want to find out the ultimate truth.\\n\\nThis is one crazy crackhead film. I can&apos;t help but think that the screenwriters were high when they wrote the film. The dialog is absurd and incoherent. The pseudophilosophy in the film is laughable. They talk about interconnectedness by representing the whole of the universe on a piece of cloth. Haha.\\n\\nHowever, I have to applaud Naomi Watts for her brief but outstanding performance. Jude Law is also good especially in his final scenes when he turned rather emotional.\\n\\nThis film may be funny to others, but not to me.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 66115,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  }
+}

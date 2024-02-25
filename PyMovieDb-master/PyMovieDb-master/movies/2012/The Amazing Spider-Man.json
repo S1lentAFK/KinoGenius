@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Amazing Spider-Man",
+  "url": "https://www.imdb.com/tt0948470/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "AmbushBug26",
+    "dateCreated": "2012-07-15",
+    "inLanguage": "English",
+    "heading": "The Spider-man Film That The Comic Fans Will Love But Sam Raimi Fans Will Hate",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 696619,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2012-07-03",
+  "keywords": "spider man character,spider,death of parents,teenage protagonist,teenage girl",
+  "duration": "PT2H16M",
+  "actor": [
+    {
+      "name": "Andrew Garfield",
+      "url": "https://www.imdb.com/name/nm1940449/"
+    },
+    {
+      "name": "Emma Stone",
+      "url": "https://www.imdb.com/name/nm1297015/"
+    },
+    {
+      "name": "Rhys Ifans",
+      "url": "https://www.imdb.com/name/nm0406975/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Marc Webb",
+      "url": "https://www.imdb.com/name/nm1989536/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Vanderbilt",
+      "url": "https://www.imdb.com/name/nm0888743/"
+    },
+    {
+      "name": "Alvin Sargent",
+      "url": "https://www.imdb.com/name/nm0765091/"
+    },
+    {
+      "name": "Steve Kloves",
+      "url": "https://www.imdb.com/name/nm0460141/"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Somewhere Quiet",
+  "url": "https://www.imdb.com/tt15479438/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGM3YjMwYjItNDI2ZS00ZTM1LThhMmMtMTk0YWJiZWIyMzE5XkEyXkFqcGdeQXVyMTU4Njk4ODk@._V1_.jpg",
+  "description": "Follows a woman as she readjusts to normalcy after a kidnapping. Her sense of reality begins to deteriorate when she travels to her husband&apos;s family compound.",
+  "review": {
+    "author": "jssmqthwx",
+    "dateCreated": "2024-02-17",
+    "inLanguage": "English",
+    "heading": "Creepy, slow burn psychological thriller with incredible sound design",
+    "reviewBody": "It seems that most people leaving reviews simply just don&apos;t get this movie. Not everything has to be wrapped up in a neat little bow! The performances from the 3 main actors were all amazing. The setting, the music, the sound design, the overall sense of foreboding dread.\n\nI absolutely loved this movie and wish it was easier to find on streaming somewhere so more people could see it.\n\nIt&apos;ll leave you thinking and speculating at the end but that&apos;s one of its strong points in my opinion.\n\nOne point that really stands out to me is the sound design and how most of the movie is near silent. Every little sound has a HUGE impact in the absence of unnecessary noise and it makes it all the more scarier. Almost like horror ASMR.\n\nReally excited to see what comes next from this director and these actors.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 517,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2024-02-02",
+  "keywords": "family relationships,woman",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Micheál Neeson",
+      "url": "https://www.imdb.com/name/nm6183410/"
+    },
+    {
+      "name": "Marin Ireland",
+      "url": "https://www.imdb.com/name/nm1677477/"
+    },
+    {
+      "name": "Jennifer Kim",
+      "url": "https://www.imdb.com/name/nm3026487/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Olivia West Lloyd",
+      "url": "https://www.imdb.com/name/nm8881427/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Olivia West Lloyd",
+      "url": "https://www.imdb.com/name/nm8881427/"
+    }
+  ]
+}

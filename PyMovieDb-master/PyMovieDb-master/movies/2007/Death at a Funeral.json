@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Death at a Funeral",
+  "url": "https://www.imdb.com/tt0795368/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE4OTIyNTM1MF5BMl5BanBnXkFtZTcwMjUzNTg0MQ@@._V1_.jpg",
+  "description": "Chaos ensues when a man tries to expose a dark secret regarding a recently deceased patriarch of a dysfunctional British family.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2007-11-02",
+  "keywords": "dark comedy,secret,funeral,farce,london england",
+  "duration": "PT1H30M",
+  "rating": {
+    "ratingCount": 120394,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "review": {
+    "author": "ejev",
+    "dateCreated": "2007-08-19",
+    "inLanguage": "English",
+    "heading": "Very funny is a gently twisted British way",
+    "reviewBody": "I wasn't quite sure what to expect out of this, even though I had enjoyed the trailer in the theater. There had been some comments about cruel humor, which I just didn't see. The story was well structured, with groundwork laid early on for very funny bits much later in the film that got us laughing hard without hitting us over the head with the joke. The moments of comic tension were good, without that excruciating sense that someone was going to be horribly embarrassed, or hurt, or whatever, that American films seem to have. The situation is very well known to everyone who's been to a family funeral, although in America we would have the service in a funeral home or church, and we've all had moments when we want to laugh at the wrong time, or notice something a little out of the ordinary in the service that seems to cry out for comment. My husband, 14 year old daughter and I enjoyed the film immensely, and we all gave it an 8 out of 10, with some good carryover lines to quote amongst ourselves. Go see it, enjoy, and leave the political correctness at home.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Matthew Macfadyen",
+      "url": "https://www.imdb.com/name/nm0532193/"
+    },
+    {
+      "name": "Peter Dinklage",
+      "url": "https://www.imdb.com/name/nm0227759/"
+    },
+    {
+      "name": "Ewen Bremner",
+      "url": "https://www.imdb.com/name/nm0001971/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Frank Oz",
+      "url": "https://www.imdb.com/name/nm0000568/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dean Craig",
+      "url": "https://www.imdb.com/name/nm1918877/"
+    }
+  ]
+}

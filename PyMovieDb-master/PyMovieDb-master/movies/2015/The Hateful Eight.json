@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Hateful Eight",
+  "url": "https://www.imdb.com/tt3460252/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "noahmed",
+    "dateCreated": "2020-08-24",
+    "inLanguage": "English",
+    "heading": "Quinton Tarantino's Most Underrated Film",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 653092,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "contentRating": "18",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2016-01-08",
+  "keywords": "bounty hunter,blizzard,murder,stagecoach,coffee",
+  "duration": "PT2H48M",
+  "actor": [
+    {
+      "name": "Samuel L. Jackson",
+      "url": "https://www.imdb.com/name/nm0000168/"
+    },
+    {
+      "name": "Kurt Russell",
+      "url": "https://www.imdb.com/name/nm0000621/"
+    },
+    {
+      "name": "Jennifer Jason Leigh",
+      "url": "https://www.imdb.com/name/nm0000492/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Quentin Tarantino",
+      "url": "https://www.imdb.com/name/nm0000233/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Quentin Tarantino",
+      "url": "https://www.imdb.com/name/nm0000233/"
+    }
+  ]
+}

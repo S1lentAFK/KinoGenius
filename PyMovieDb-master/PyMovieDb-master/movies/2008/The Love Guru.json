@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Love Guru",
+  "url": "https://www.imdb.com/tt0811138/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg3OTY1MTQ3MF5BMl5BanBnXkFtZTcwMDIzMTM3MQ@@._V1_.jpg",
+  "description": null,
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Romance",
+    "Sport"
+  ],
+  "datePublished": "2008-08-01",
+  "keywords": "fake flatulence,male flatulence,breaking wind,female flatulence,belching",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Mike Myers",
+      "url": "https://www.imdb.com/name/nm0000196/"
+    },
+    {
+      "name": "Jessica Alba",
+      "url": "https://www.imdb.com/name/nm0004695/"
+    },
+    {
+      "name": "Romany Malco",
+      "url": "https://www.imdb.com/name/nm0539082/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Marco Schnabel",
+      "url": "https://www.imdb.com/name/nm0773605/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mike Myers",
+      "url": "https://www.imdb.com/name/nm0000196/"
+    },
+    {
+      "name": "Graham Gordy",
+      "url": "https://www.imdb.com/name/nm0330704/"
+    }
+  ],
+  "review": {
+    "author": "kgz00",
+    "dateCreated": "2008-06-19",
+    "inLanguage": "English",
+    "heading": "R.I.P. Mike Myers Career",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 2
+    }
+  },
+  "rating": {
+    "ratingCount": 54778,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.8
+  }
+}

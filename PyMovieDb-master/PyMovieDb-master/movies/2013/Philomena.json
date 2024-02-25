@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Philomena",
+  "url": "https://www.imdb.com/tt2431286/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MzAyMjc1NF5BMl5BanBnXkFtZTgwOTY4NzQxMDE@._V1_.jpg",
+  "description": "A world-weary political journalist picks up the story of a woman's search for her son, who was taken away from her decades ago after she became pregnant and was forced to live in a convent.",
+  "datePublished": "2013-11-01",
+  "duration": "PT1H38M",
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "keywords": "convent,catholic church,human interest story,illegitimate son,irish adoption board",
+  "rating": {
+    "ratingCount": 103485,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "review": {
+    "author": "phillewis91",
+    "dateCreated": "2013-11-16",
+    "inLanguage": "English",
+    "heading": "An incredible and heartfelt story",
+    "reviewBody": "Steve Coogan has said that Philomena is his reaction against cynicism - his attempt to make an honest and fundamentally sincere film. The biggest compliment that can be paid to him is that, in these goals, he has succeeded.\\n\\nIt tells the story of Philomena Lee (Judi Dench, who is as brilliant as ever), an elderly Irish woman whose child was taken away from her 50 years ago by an austere Catholic convent. Martin Sixsmith (Coogan) is the cynical, know-it-all journalist turned government spin doctor, recently sacked, who is on the look out for a story. After a chance encounter at a party, Sixsmith reluctantly takes up the &apos;human interest&apos; story of Philomena&apos;s search for her son, Anthony.\\n\\nThe key to Philomena is the relationship between the titular character and Sixsmith. And it works. It really works, in fact. His cynicism, bordering on arrogance, is matched perfectly by her simple and completely sincere belief in common human decency. It could easily have been overly sentimental, but Judi Dench in particular does a remarkable job of keeping it grounded. \\n\\nThere&apos;s some very dark stuff here, and it&apos;s a testament to the script that the film does not become overwhelmed by it. The Magdalene laundries were awful places, yet this story is not about revenge. I was almost cheering when, at the end, Sixsmith gives one particularly odious nun a piece of his mind. But moments later Philomena accosts him and gives me a slap on the wrist. She does not want revenge or angry confrontation. She just wants the truth. It&apos;s a remarkable act of forgiveness, and one that, like Sixsmith, I could not agree with. But then, I&apos;m just another cynical and bitter atheist. I have to say, this film made me angry at myself for being one. And yet it also made me pleased I wasn&apos;t a Catholic. Go figure. \\n\\nPhilomena is an incredible and heartfelt story. It&apos;s desperately sad, yet never overly sentimental. There&apos;s some genuinely funny moments, mainly emanating from the contrast between the wide-eyed and refreshing simplicity of Philomena&apos;s world view and the weary wryness of Sixsmith. If you get a chance, see it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Judi Dench",
+      "url": "https://www.imdb.com/name/nm0001132/"
+    },
+    {
+      "name": "Steve Coogan",
+      "url": "https://www.imdb.com/name/nm0176869/"
+    },
+    {
+      "name": "Sophie Kennedy Clark",
+      "url": "https://www.imdb.com/name/nm4080531/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Stephen Frears",
+      "url": "https://www.imdb.com/name/nm0001241/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steve Coogan",
+      "url": "https://www.imdb.com/name/nm0176869/"
+    },
+    {
+      "name": "Jeff Pope",
+      "url": "https://www.imdb.com/name/nm0691131/"
+    },
+    {
+      "name": "Martin Sixsmith",
+      "url": "https://www.imdb.com/name/nm1939381/"
+    }
+  ]
+}

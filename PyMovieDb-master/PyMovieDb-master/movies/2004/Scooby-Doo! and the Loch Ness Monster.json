@@ -1,0 +1,72 @@
+{
+  "type": "Movie",
+  "name": "Scooby-Doo and the Loch Ness Monster",
+  "url": "https://www.imdb.com/tt0418141/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjk1ZjAwODYtYzlhNC00YzdmLTk5YmMtZjkyNDkyMjcyN2M2XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_.jpg",
+  "description": "While the gang travel to Scotland to visit Daphne&apos;s cousin and witness the Highland Games, they find themselves terrorized by the legendary Loch Ness Monster.",
+  "review": {
+    "author": "QueenoftheGoons",
+    "dateCreated": "2023-09-23",
+    "inLanguage": "English",
+    "heading": "One of the best",
+    "reviewBody": "Same great voices, none annoying. I am going thru a bad time in my life and needed some comfort. Anything to help me forget trespassers. Love it when Fred has a meltdown about Shaggy driving. The monster is very cool. Good music. Good songs. They go hunting for Nessie and in many ways Love when Scooby & Shaggy go looking for food, imagine that, get lost in the castle, and of course shaped by the creature. Nessie may be computerized but she is very cool. Mankind is the only monsters out there. But i do wish the good monsters were real. Nessie and all the other cryptids. Has a very good ending. Haggis is a bit disgusting.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 5793,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2004-06-22",
+  "keywords": "2000s,cryptid,cryptozoology,animal character name in title,scooby doo character",
+  "duration": "PT1H14M",
+  "actor": [
+    {
+      "name": "Frank Welker",
+      "url": "https://www.imdb.com/name/nm0919798/"
+    },
+    {
+      "name": "Casey Kasem",
+      "url": "https://www.imdb.com/name/nm0440487/"
+    },
+    {
+      "name": "Mindy Cohn",
+      "url": "https://www.imdb.com/name/nm0169934/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Scott Jeralds",
+      "url": "https://www.imdb.com/name/nm0421874/"
+    },
+    {
+      "name": "Joe Sichta",
+      "url": "https://www.imdb.com/name/nm1245812/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "George Doty IV",
+      "url": "https://www.imdb.com/name/nm1250208/"
+    },
+    {
+      "name": "Ed Scharlach",
+      "url": "https://www.imdb.com/name/nm0770158/"
+    },
+    {
+      "name": "Mark Turosz",
+      "url": "https://www.imdb.com/name/nm0878006/"
+    }
+  ]
+}

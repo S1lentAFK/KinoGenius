@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Secondhand Lions",
+  "url": "https://www.imdb.com/tt0327137/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDExNDM3OGQtYjI3ZC00MmE0LWE0OGEtMzgxZDY2MDE1MDFjXkEyXkFqcGdeQXVyNTA4NzY1MzY._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Platypuschow",
+    "dateCreated": "2023-12-07",
+    "inLanguage": "English",
+    "heading": "Secondhand Lions: Wondrous",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 61182,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2003-10-24",
+  "keywords": "male protagonist, held at swordpoint, foreign legion, foreign legionaire, jarhead",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Haley Joel Osment",
+      "url": "https://www.imdb.com/name/nm0005286/"
+    },
+    {
+      "name": "Michael Caine",
+      "url": "https://www.imdb.com/name/nm0000323/"
+    },
+    {
+      "name": "Robert Duvall",
+      "url": "https://www.imdb.com/name/nm0000380/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tim McCanlies",
+      "url": "https://www.imdb.com/name/nm0564827/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tim McCanlies",
+      "url": "https://www.imdb.com/name/nm0564827/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Brick Mansions",
+  "url": "https://www.imdb.com/tt1430612/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTI0ODQ2MzY5NF5BMl5BanBnXkFtZTgwNTcxNzQxMTE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "ActionFan-Reviews",
+    "dateCreated": "2014-04-27",
+    "inLanguage": "English",
+    "heading": "Provides a decent hour and a 1/2 of mindless entertainment",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 43932,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "2014-05-02",
+  "keywords": "undercover,remake of french film,time bomb,crime lord,rescue",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Paul Walker",
+      "url": "https://www.imdb.com/name/nm0908094/"
+    },
+    {
+      "name": "David Belle",
+      "url": "https://www.imdb.com/name/nm1042642/"
+    },
+    {
+      "name": "RZA",
+      "url": "https://www.imdb.com/name/nm0753526/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Camille Delamarre",
+      "url": "https://www.imdb.com/name/nm0216214/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Luc Besson",
+      "url": "https://www.imdb.com/name/nm0000108/"
+    },
+    {
+      "name": "Bibi Naceri",
+      "url": "https://www.imdb.com/name/nm1098947/"
+    },
+    {
+      "name": "Ryan Amon",
+      "url": "https://www.imdb.com/name/nm3375122/"
+    }
+  ]
+}

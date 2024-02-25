@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+  "url": "https://www.imdb.com/tt0363771/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "lavatch",
+    "dateCreated": "2005-12-29",
+    "inLanguage": "English",
+    "heading": "Splendid!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 424901,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2005-12-08",
+  "keywords": "1940s,sister sister relationship,the white witch character,lucy pevensie character,peter pevensie character",
+  "duration": "PT2H23M",
+  "actor": [
+    {
+      "name": "Tilda Swinton",
+      "url": "https://www.imdb.com/name/nm0842770/"
+    },
+    {
+      "name": "Georgie Henley",
+      "url": "https://www.imdb.com/name/nm1670137/"
+    },
+    {
+      "name": "William Moseley",
+      "url": "https://www.imdb.com/name/nm0608440/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrew Adamson",
+      "url": "https://www.imdb.com/name/nm0011470/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ann Peacock",
+      "url": "https://www.imdb.com/name/nm0668754/"
+    },
+    {
+      "name": "Andrew Adamson",
+      "url": "https://www.imdb.com/name/nm0011470/"
+    },
+    {
+      "name": "Christopher Markus",
+      "url": "https://www.imdb.com/name/nm1321655/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Der Rote Baron",
+  "url": "https://www.imdb.com/tt0365675/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg5NjE3NTc0OV5BMl5BanBnXkFtZTcwNzkzNjUxMw@@._V1_.jpg",
+  "description": "German biopic loosely based on the World War I fighter ace Manfred Von Richthofen, nicknamed the Red Baron by friend and foe alike.",
+  "review": {
+    "author": "Boelcke1916",
+    "dateCreated": "2009-04-25",
+    "inLanguage": "English",
+    "heading": "Der Rote Baron (The Red Baron)",
+    "reviewBody": "I consider this a fun and exciting movie. I knocked it down a little because of the historical inconsistencies, but the tale is well told, the movie does not drag and it was very easy to fall in love with this movie. I only want it released into the United States now. I saw it and fell in love with it.\n\nI think they did a marvelous job of recreating the feel of aerial combat, the uniforms and planes of the time (not to mention the cool automobiles) and I thought the acting was quite good.\n\nTil Schweiger is great as the role of Werner Voss. Lena Heady is a great nurse Kate and Mathias Schweighofer manages to give what I believe is a command performance as a young, idealistic Prussian lad called to war.\n\nI also thought they did a good job of re-creating the Kaiser and his generals. It was so convincing that I almost thought I was seeing Von Hindenberg and the Kaiser in the bunker.\n\nI would have liked to see Boelcke and others in the movie, but maybe you can only do so much in two hours. I watched this fine movie and felt a real kinship with these flying kids. As a part Prussian-American, it was easy to identify with them.\n\nWell done and well worth watching.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 13109,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Biography"
+  ],
+  "datePublished": "2008-04-10",
+  "keywords": "world war one,aviation,world war one soldier,flight,army uniform",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Matthias Schweighöfer",
+      "url": "https://www.imdb.com/name/nm0777788/"
+    },
+    {
+      "name": "Lena Headey",
+      "url": "https://www.imdb.com/name/nm0372176/"
+    },
+    {
+      "name": "Til Schweiger",
+      "url": "https://www.imdb.com/name/nm0001709/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Nikolai Müllerschön",
+      "url": "https://www.imdb.com/name/nm0618391/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nikolai Müllerschön",
+      "url": "https://www.imdb.com/name/nm0618391/"
+    }
+  ]
+}

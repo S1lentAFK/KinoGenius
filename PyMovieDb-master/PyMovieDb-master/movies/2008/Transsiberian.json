@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Transsiberian",
+  "url": "https://www.imdb.com/tt0800241/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmQ1NmQwY2QtOTBhNC00M2NjLWI2NjQtMzU2Yzg5Y2U5MGY5XkEyXkFqcGdeQXVyMTEzNjc3MDQ5._V1_.jpg",
+  "description": "A Transsiberian train journey from China to Moscow becomes a thrilling chase of deception and murder when an American couple encounters a mysterious pair of fellow travelers.",
+  "review": {
+    "author": "sundevil27",
+    "dateCreated": "2008-01-20",
+    "inLanguage": "English",
+    "heading": "A Beautifully Shot Thriller in the Cold",
+    "reviewBody": "Just screened this great film at Sundance 2008 and came away very pleased with the experience. It appears that Director Brad Anderson has successfully created a modern thriller worthy of attention. The backdrop of this film is the wondrous Transsiberian Express railway which in itself makes this completely watchable and makes for fantastic cinematography. The story takes us along the railway with Jesse (Emily Mortimer) and Roy (Woody) who are taking the trek as an adventure after a stint in China. The two Americans find themselves befriended by a young couple Carlos and Amby (I think thats her name,the character was played by Kate Mara) who themselves are traveling around Russia. After some time together an awkward friendship forms between Jesse and Carlos who has several different motives. As the train keeps pushing across the frozen tundra some situations occur that separate the newfound friends and places certain individuals in compromising positions that ultimately result in some stressful events. Russian narcotics officer Grinko (Kingsley) arrives just in time to really make things chaotic and turn the train ride into a thrill ride. Jesse finds herself pushing and pulling between dealing with the truth and what it will take to survive the train trip home.\\n\\nFirst of all whether one loves the plot or not, its hard to deny the fantastic cinematography that takes place throughout the film. The train sequences inside are so authentic that one can truly feel the atmosphere breathing. Overall the whole film just feels authentic to the locations and the people who wander in and out of the film are completely genuine. Superb performances by all, just really good stuff from actors you would expect it from. Plot runs a little weaker towards the end and inevitably its somewhat predictable as most thrillers are, but with the train and the location its a enough of a twist to keep viewers interested. Flick definitely should appeal more to mainstream audiences then the typical indie sorts, so buzz might be a bit weak on the indie circuit but this movie should have decent release interest and definitely get good views on video and cable when people give it a chance.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 54521,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2008-10-24",
+  "keywords": "train,russia,murder,train movie,stranger on a train",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Woody Harrelson",
+      "url": "https://www.imdb.com/name/nm0000437/"
+    },
+    {
+      "name": "Emily Mortimer",
+      "url": "https://www.imdb.com/name/nm0607865/"
+    },
+    {
+      "name": "Ben Kingsley",
+      "url": "https://www.imdb.com/name/nm0001426/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brad Anderson",
+      "url": "https://www.imdb.com/name/nm0026442/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brad Anderson",
+      "url": "https://www.imdb.com/name/nm0026442/"
+    },
+    {
+      "name": "Will Conroy",
+      "url": "https://www.imdb.com/name/nm0175877/"
+    }
+  ]
+}

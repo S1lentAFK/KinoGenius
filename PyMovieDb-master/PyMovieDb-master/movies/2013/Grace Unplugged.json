@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Grace Unplugged",
+  "url": "https://www.imdb.com/tt2349460/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA4MzY3MzA1MTZeQTJeQWpwZ15BbWU3MDY1MTE2Nzk@._V1_.jpg",
+  "description": null,
+  "contentRating": "PG",
+  "genre": [
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2014-09-01",
+  "keywords": "christian music,father daughter estrangement,pastor,religious music,worship music",
+  "duration": "PT1H42M",
+  "rating": {
+    "ratingCount": 3613,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "review": {
+    "author": "damaris-639-686265",
+    "dateCreated": "2014-03-03",
+    "inLanguage": "English",
+    "heading": "good yet not memorable",
+    "reviewBody": "This movie had lots of potential to be a great Christian film, but all in all, the movie is just Meh. The story isn't the worst but we've already heard of this story before so it isn't very original with that. Also, some of the characters can get on your nerves like the extremely wimpy guy who just won't shut up. The main character isn't the worst, in fact, i find her pretty likable it's just that she can be annoying sometimes with what she says and her attitude can make her pretty unlikeable at some times. The good things about it are mainly that grace's dad, is well developed and you can feel for him but sadly, he doesn't have a lot of screen-time so you can't really connect with that character. Also the story, although predictable, is sweet and is a good lesson to all Christians. One thing which i just don't get is why we hardly get to hear any of grace's original songs. We just see her working on them while background violins play instead of her. overall, this movie isn't bad, it's just that there's nothing truly memorable about how this movie is.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "actor": [
+    {
+      "name": "AJ Michalka",
+      "url": "https://www.imdb.com/name/nm1404488/"
+    },
+    {
+      "name": "Kelly Thiebaud",
+      "url": "https://www.imdb.com/name/nm1576552/"
+    },
+    {
+      "name": "James Denton",
+      "url": "https://www.imdb.com/name/nm0219835/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brad J. Silverman",
+      "url": "https://www.imdb.com/name/nm0798888/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brad J. Silverman",
+      "url": "https://www.imdb.com/name/nm0798888/"
+    },
+    {
+      "name": "Brandon Rice",
+      "url": "https://www.imdb.com/name/nm2005175/"
+    },
+    {
+      "name": "James Killian",
+      "url": "https://www.imdb.com/name/nm2994180/"
+    }
+  ]
+}

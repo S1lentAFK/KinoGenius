@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Highlander: Endgame",
+  "url": "https://www.imdb.com/tt0144964/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWMyZDdhNDYtNWE5MS00N2Q5LThmYjMtOGMzZjFmOGIzMWQ3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "Immortals Connor and Duncan MacLeod must join forces against Kell, an evil immortal who has become too strong for anyone to face alone.",
+  "review": {
+    "author": "dvdmrp",
+    "dateCreated": "2001-03-10",
+    "inLanguage": "English",
+    "heading": "Pretty good....better than the other sequels!!",
+    "reviewBody": "I had some low expectations going into this movie. Sure..I watched and liked the other highlanders, but this is the 4th one, so it is bound to be dumb right? Wrong! I actually liked this movie. Sure at some points it makes no sense, but after you watch it and talk it over with someone, everything comes together. Now I don&apos;t recomend this to anyone who has not seen any of the other Highlanders. Those people will be very lost. Before you diss this movie...make sure that you see the director&apos;s cut. I have not seen the theatrical cut but Ii have heard that is sucks. So, I recommend that you skip the theatrical and go see the director&apos;s.. It has good action..good plot...and it ties two highlander&apos;s together..which is cool. Plus, the villain in this highlander is actually cool. The one in 3 was just a copy from the one in 1. Anyway..I would suggest this movie to fans of the series, but remember to see the director&apos;s cut. I don&apos;t think that you will be disapointed. 8.5/10",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 21210,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.6
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "2000-09-01",
+  "keywords": "1550s,1630s,1620s,1710s,18th century",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Christopher Lambert",
+      "url": "https://www.imdb.com/name/nm0000483/"
+    },
+    {
+      "name": "Adrian Paul",
+      "url": "https://www.imdb.com/name/nm0001600/"
+    },
+    {
+      "name": "Bruce Payne",
+      "url": "https://www.imdb.com/name/nm0668271/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Douglas Aarniokoski",
+      "url": "https://www.imdb.com/name/nm0007439/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Gregory Widen",
+      "url": "https://www.imdb.com/name/nm0927074/"
+    },
+    {
+      "name": "Eric Bernt",
+      "url": "https://www.imdb.com/name/nm0077171/"
+    },
+    {
+      "name": "Gillian Horvath",
+      "url": "https://www.imdb.com/name/nm0395741/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "12 Years a Slave",
+  "url": "https://www.imdb.com/tt2024544/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "parallel_projection",
+    "dateCreated": "2013-11-03",
+    "inLanguage": "English",
+    "heading": "A disturbing but powerful portrayal of slavery in America",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 736577,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2014-01-10",
+  "keywords": "kidnapping,racism,separation from family,torture,whipping",
+  "duration": "PT2H14M",
+  "actor": [
+    {
+      "name": "Chiwetel Ejiofor",
+      "url": "https://www.imdb.com/name/nm0252230/"
+    },
+    {
+      "name": "Michael Kenneth Williams",
+      "url": "https://www.imdb.com/name/nm0931324/"
+    },
+    {
+      "name": "Michael Fassbender",
+      "url": "https://www.imdb.com/name/nm1055413/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steve McQueen",
+      "url": "https://www.imdb.com/name/nm2588606/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Ridley",
+      "url": "https://www.imdb.com/name/nm0725983/"
+    },
+    {
+      "name": "Solomon Northup",
+      "url": "https://www.imdb.com/name/nm1185849/"
+    }
+  ]
+}

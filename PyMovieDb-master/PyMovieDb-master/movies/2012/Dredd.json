@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Dredd",
+  "url": "https://www.imdb.com/tt1343727/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODkyNDQzMzUzOF5BMl5BanBnXkFtZTcwODYyMDEyOA@@._V1_.jpg",
+  "description": "In a violent, futuristic city where the police have the authority to act as judge, jury and executioner, a cop teams with a trainee to take down a gang that deals the reality-altering drug, SLO-MO.",
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Crime",
+    "Sci-Fi"
+  ],
+  "datePublished": "2012-09-07",
+  "keywords": "post apocalypse,cyberpunk,brutality,dystopia,based on comic",
+  "duration": "PT1H35M",
+  "rating": {
+    "ratingCount": 292319,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "review": {
+    "author": "Marshall-D-Teach",
+    "dateCreated": "2020-02-20",
+    "inLanguage": "English",
+    "heading": "I really liked this movie.",
+    "reviewBody": "Graphic, gripping, and very well developed. This is exactly what we should see from a comic of this subject matter. The performances are outstanding; everyone plays their role to absolute perfection. Completely loaded with entertaining action and blood to keep you interested. The directing, editing, sound design, and effects, terrific. A criminally underrated movie that I&apos;m glad got the cult following and recognition it deserves.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "actor": [
+    {
+      "name": "Karl Urban",
+      "url": "https://www.imdb.com/name/nm0881631/"
+    },
+    {
+      "name": "Olivia Thirlby",
+      "url": "https://www.imdb.com/name/nm1880888/"
+    },
+    {
+      "name": "Lena Headey",
+      "url": "https://www.imdb.com/name/nm0372176/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Pete Travis",
+      "url": "https://www.imdb.com/name/nm0871428/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Wagner",
+      "url": "https://www.imdb.com/name/nm0905957/"
+    },
+    {
+      "name": "Carlos Ezquerra",
+      "url": "https://www.imdb.com/name/nm0264338/"
+    },
+    {
+      "name": "Alex Garland",
+      "url": "https://www.imdb.com/name/nm0307497/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Lord of the Rings: The Fellowship of the Ring",
+  "url": "https://www.imdb.com/tt0120737/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjY4MDM5MGEtOTgwZS00Y2RhLTlmNTctN2E1YmY4ZDVkNTdhXkEyXkFqcGdeQXVyNjg1NzEwMDE@._V1_.jpg",
+  "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+  "review": {
+    "author": "adamscastlevania2",
+    "dateCreated": "2014-11-11",
+    "inLanguage": "English",
+    "heading": "Thank you Mr Jackson",
+    "reviewBody": "(95%) If the late 70&apos;s early 80&apos;s had the Star wars trilogy, then the 2000&apos;s had this epic fantasy masterclass. Regardless of whether you&apos;re a fantasy fan or not this is too good a movie to simply pass up, and it will be one of those movies that given time will prove it to be a classic. The deeper you look into this the more one notices that every single aspect really is a truly impressive accomplishment. The fact that every single sword used by the main characters was made by hand, with extra ones made only for carrying, fighting, etc, then there&apos;s the costumes/armor/props all made by teams of many people. They even made artificial trees for gods sake. But really all those things are just extras, what really makes this a unique watch is that it really does feel huge and sweeping, the sense of scale is fantastic and I can&apos;t think of anything that even comes close to matching it. What every epic flick needs this has, the cast is great, it&apos;s exciting, it has bags of character, it&apos;s funny, sad, superbly well made, with a great score and plenty of action. It&apos;s also one of very few 2 hour 30 minute + movies ever that leaves the audience wanting more. Since watching it around Christmas 2001 at a packed out cinema, and the many times I&apos;ve seen it on DVD since, it never fails to impress and charm. All in all near perfect cinematic treat that keeps on giving.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 1987538,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.9
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "datePublished": "2002-01-10",
+  "keywords": "ring,quest,hobbit,middle earth,elf",
+  "duration": "PT2H58M",
+  "actor": [
+    {
+      "name": "Elijah Wood",
+      "url": "https://www.imdb.com/name/nm0000704/"
+    },
+    {
+      "name": "Ian McKellen",
+      "url": "https://www.imdb.com/name/nm0005212/"
+    },
+    {
+      "name": "Orlando Bloom",
+      "url": "https://www.imdb.com/name/nm0089217/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Jackson",
+      "url": "https://www.imdb.com/name/nm0001392/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "J.R.R. Tolkien",
+      "url": "https://www.imdb.com/name/nm0866058/"
+    },
+    {
+      "name": "Fran Walsh",
+      "url": "https://www.imdb.com/name/nm0909638/"
+    },
+    {
+      "name": "Philippa Boyens",
+      "url": "https://www.imdb.com/name/nm0101991/"
+    }
+  ]
+}

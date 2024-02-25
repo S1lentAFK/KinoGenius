@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Coyote Ugly",
+  "url": "https://www.imdb.com/tt0200550/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWZhZmFkMjQtMWYyMC00NmQ3LTk5M2MtZDU3ZjNjYmM0ZTYxXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Wuchakk",
+    "dateCreated": "2017-03-18",
+    "inLanguage": "English",
+    "heading": "Fun and snappy, but too predictable with little depth",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 120355,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2000-10-20",
+  "keywords": "blonde,ambition,songwriter,bar,single father",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Piper Perabo",
+      "url": "https://www.imdb.com/name/nm0005305/"
+    },
+    {
+      "name": "Adam Garcia",
+      "url": "https://www.imdb.com/name/nm0305081/"
+    },
+    {
+      "name": "John Goodman",
+      "url": "https://www.imdb.com/name/nm0000422/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David McNally",
+      "url": "https://www.imdb.com/name/nm0573589/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Gina Wendkos",
+      "url": "https://www.imdb.com/name/nm0920859/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Nancy Drew",
+  "url": "https://www.imdb.com/tt0479500/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODllYWFkZjEtZTExOS00YjhjLWIwZWEtMjNkMzBmZjE4NWJmXkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg",
+  "description": "Teen detective Nancy Drew accompanies her father on a business trip to Los Angeles, where she happens upon clues to a murder mystery involving a movie star.",
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Family"
+  ],
+  "datePublished": "2007-10-19",
+  "keywords": "amateur detective,murder,movie star,boyfriend girlfriend relationship,girl",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Emma Roberts",
+      "url": "https://www.imdb.com/name/nm0731075/"
+    },
+    {
+      "name": "Tate Donovan",
+      "url": "https://www.imdb.com/name/nm0004883/"
+    },
+    {
+      "name": "Max Thieriot",
+      "url": "https://www.imdb.com/name/nm1302735/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrew Fleming",
+      "url": "https://www.imdb.com/name/nm0281598/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Fleming",
+      "url": "https://www.imdb.com/name/nm0281598/"
+    },
+    {
+      "name": "Tiffany Paulsen",
+      "url": "https://www.imdb.com/name/nm0667330/"
+    },
+    {
+      "name": "Mildred Wirt Benson",
+      "url": "https://www.imdb.com/name/nm0444696/"
+    }
+  ],
+  "review": {
+    "author": "KLS_kaffee",
+    "dateCreated": "2007-06-16",
+    "inLanguage": "English",
+    "heading": "Worthwhile family film your kids will enjoy",
+    "reviewBody": "The kids I took to this movie loved it (four children, ages 9 to 12 years; they would have given it 10 stars). Emma Roberts was adorable in the title role. (Expect to see more of this next-generation Roberts in the future.) After being over exposed to the likes of Britney Spears, Lindsay Lohan, and Paris Hilton, it was refreshing to see a girl who didn't look like she worked the streets. Also enjoyed seeing a supporting cast that included Tate Donovan, Rachel Leigh Cook, Barry Bostwick, and Monica Parker (with a cameo by Bruce Willis). Final takeaway: Cute film.\n\n(Note: I did not read the book series, so my comments are based on the merits of the film alone.)",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 21457,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  }
+}

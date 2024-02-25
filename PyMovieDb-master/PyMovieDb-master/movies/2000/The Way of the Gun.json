@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Way of the Gun",
+  "url": "https://www.imdb.com/tt0202677/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTAyNjEyMDEwMzBeQTJeQWpwZ15BbWU4MDczMjY1NDEy._V1_.jpg",
+  "description": "Two criminal drifters without sympathy get more than they bargained for after kidnapping and holding for ransom the surrogate mother carrying a baby for a powerful, shady man.",
+  "review": {
+    "author": "george.schmidt",
+    "dateCreated": "2004-04-28",
+    "inLanguage": "English",
+    "heading": "Ode to Peckinpaugh -neo-noir pulp fiction",
+    "reviewBody": "THE WAY OF THE GUN (2000) ***1/2 Ryan Phillippe, Benicio del Toro, Juliette Lewis, James Caan, Taye Diggs, Nicky Katt, Scott Wilson, Kristin Lehmann, Geoffrey Lewis, Sarah Silverman.\\n\\nChristopher McQuarrie makes his directing debut in a big way with an obvious nod to Sam Peckinpaugh with his screenplay about two ne&apos;er do well criminals (Phillippe and del Toro, both exemplary) who decide to make a mark for themselves by kidnapping a very pregnant surrogate mother (Lewis) to a wealthy businessman (Wilson) that eventually pans out to be a big mistake in a tangled web involving the woman&apos;s bodyguards (Diggs and Katt) and the bagman friend of the rich man (Caan in one fine, low-key performance of nuanced dread). More than enough rich dialogue and pinpoint camera angle set ups to go around with some live wire moments of unexpected turnarounds, double crosses and shoot outs may be the film&apos;s only fault in being an excess of too much of a good thing. A roundelette of pulp fiction best served by its exciting cast (as a side note, del Toro reminded me for some reason as a young Robert Mitchum in some scenes; go figure) and a filmmaker to watch.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 35081,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2000-11-17",
+  "keywords": "criminal,money,kidnapping,pregnant woman,truck stop",
+  "duration": "PT1H59M",
+  "actor": [
+    {
+      "name": "Ryan Phillippe",
+      "url": "https://www.imdb.com/name/nm0000202/"
+    },
+    {
+      "name": "Benicio Del Toro",
+      "url": "https://www.imdb.com/name/nm0001125/"
+    },
+    {
+      "name": "Juliette Lewis",
+      "url": "https://www.imdb.com/name/nm0000496/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Christopher McQuarrie",
+      "url": "https://www.imdb.com/name/nm0003160/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Christopher McQuarrie",
+      "url": "https://www.imdb.com/name/nm0003160/"
+    }
+  ]
+}

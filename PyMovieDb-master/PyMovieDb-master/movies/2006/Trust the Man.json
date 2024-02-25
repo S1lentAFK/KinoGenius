@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Trust the Man",
+  "url": "https://www.imdb.com/tt0427968/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkyMTA1NTMzNF5BMl5BanBnXkFtZTcwODA4MjQzMQ@@._V1_.jpg",
+  "description": "After much drama, cheating, and trial separations, two men fight to save their respective relationships.",
+  "review": {
+    "author": "canscene",
+    "dateCreated": "2006-08-01",
+    "inLanguage": "English",
+    "heading": "An amusing look at all too familiar spousal situations",
+    "reviewBody": "I missed this one at last year's Toronto International Film Fesival, but have just seen a preview prior, presumably to its Toronto release.\n\nFor me live-in lovers Billy Crudup and Maggie Gyllenhall delivered sparkling performances far more sympatici than the other couple -- the married pair of Julianne Moore and David Duchovny who also did their job well, but it's the antics of the former two that keep this film alive and moving.\n\nWithout wising a spoiler on you, I was in a genuine state of suspense over whether or not this movie would have a feel good ending.\n\nThe behaviour of these four characters is not really rooted in reality -- who expects this of a comedy? -- but their quirks and good qualities are sufficiently close to it speak for the times.\n\nThere were several good laughs and a couple of good running jokes which didn't pall on me.\n\nI found Trust the Man a likable effort which should prove popular in spite of what I know will be some critics' objections for occasional in-your-face crudities",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 8793,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2006-09-22",
+  "keywords": [
+    "friend",
+    "new york city",
+    "sex scene",
+    "theater group",
+    "actress"
+  ],
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "David Duchovny",
+      "url": "https://www.imdb.com/name/nm0000141/"
+    },
+    {
+      "name": "Julianne Moore",
+      "url": "https://www.imdb.com/name/nm0000194/"
+    },
+    {
+      "name": "Billy Crudup",
+      "url": "https://www.imdb.com/name/nm0001082/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bart Freundlich",
+      "url": "https://www.imdb.com/name/nm0294505/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bart Freundlich",
+      "url": "https://www.imdb.com/name/nm0294505/"
+    }
+  ]
+}

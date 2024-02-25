@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Adam the First",
+  "url": "https://www.imdb.com/tt14134062/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWEyYTBmMTQtMmM2MC00YTU3LTg4OGYtYTA3YWNiNDA4ZjAzXkEyXkFqcGdeQXVyMjg0MTQ0MTU@._V1_.jpg",
+  "description": "Adam, a 14-year-old boy travels across the country to meet a series of men who could be his father after finding a letter with a list of names and addresses.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 15,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.8
+  },
+  "contentRating": null,
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2024-02-14",
+  "keywords": "father,boy",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "David Duchovny",
+      "url": "https://www.imdb.com/name/nm0000141/"
+    },
+    {
+      "name": "Oakes Fegley",
+      "url": "https://www.imdb.com/name/nm4625502/"
+    },
+    {
+      "name": "T.R. Knight",
+      "url": "https://www.imdb.com/name/nm1165660/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Irving Franco",
+      "url": "https://www.imdb.com/name/nm6902931/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Irving Franco",
+      "url": "https://www.imdb.com/name/nm6902931/"
+    }
+  ]
+}

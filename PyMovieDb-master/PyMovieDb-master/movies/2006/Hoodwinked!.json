@@ -1,0 +1,78 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hoodwinked!",
+  "url": "https://www.imdb.com/tt0443536/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2E5MGI2OTAtZDA1Yy00MTg5LTk3OTMtM2ZkNTQwMDAxMGVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "TheLittleSongbird",
+    "dateCreated": "2009-09-17",
+    "inLanguage": "English",
+    "heading": "Amusing family film about trouble in the hood",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 65755,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2006-09-29",
+  "keywords": "female protagonist,fairy tale parody,wolf,red riding hood,woodsman",
+  "duration": "PT1H20M",
+  "actor": [
+    {
+      "name": "Anne Hathaway",
+      "url": "https://www.imdb.com/name/nm0004266/"
+    },
+    {
+      "name": "Glenn Close",
+      "url": "https://www.imdb.com/name/nm0000335/"
+    },
+    {
+      "name": "Patrick Warburton",
+      "url": "https://www.imdb.com/name/nm0911320/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Cory Edwards",
+      "url": "https://www.imdb.com/name/nm0249897/"
+    },
+    {
+      "name": "Todd Edwards",
+      "url": "https://www.imdb.com/name/nm0250410/"
+    },
+    {
+      "name": "Tony Leech",
+      "url": "https://www.imdb.com/name/nm0498555/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Cory Edwards",
+      "url": "https://www.imdb.com/name/nm0249897/"
+    },
+    {
+      "name": "Todd Edwards",
+      "url": "https://www.imdb.com/name/nm0250410/"
+    },
+    {
+      "name": "Tony Leech",
+      "url": "https://www.imdb.com/name/nm0498555/"
+    }
+  ]
+}

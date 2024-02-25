@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Mission to Mars",
+  "url": "https://www.imdb.com/tt0183523/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmMwOWFjMWQtZDAzNC00MGM3LWI0Y2YtNTUxN2NkYTM1NjE1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": "When the first manned mission to Mars meets with a catastrophic and mysterious disaster after reporting an unidentified structure, a rescue mission is launched to investigate the tragedy and bring back any survivors.",
+  "datePublished": "2000-04-14",
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "duration": "PT1H54M",
+  "keywords": "astronaut,outer space,mars the planet,zero gravity,human on mars",
+  "rating": {
+    "ratingCount": 76236,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "review": {
+    "author": "Cent-3",
+    "dateCreated": "2000-03-10",
+    "inLanguage": "English",
+    "heading": "Hits home as a solidly great sci-fi movie",
+    "reviewBody": "In this day and age of computer generated eye candy, it is very common to see movies that are based solely on special effects and nothing else. Movies like Wing Commander have great graphics, but the story line and acting leave you back at the ticket booth.\n\nMission to Mars does not fit in this category. When I saw previews, the special effects looked great, but I could also tell that there was a plot to this movie. For once, I was right on the mark. Mission to Mars made you think about what was happening and what the consequences were going to be. The suspense takes a firm grip on one's eyelids and pulls them up to the ceiling.\n\nWhat truly makes this movie stand above others of its ilk is the great acting of the characters. In sci-fi shoot 'em ups, the viewer develops a way of not caring for the characters, as they are uncreative and inflexible. Mission to Mars made me care about every single character; I was eagerly awaiting every twist and relished every event.\n\nThe climax (which I will not at all spoil) was hair raising and at the end extremely satisfying. Upon leaving the theater I quickly realised that I haven't seen a better movie all year.\n\nI give every recommendation I know to go see this movie. And, by the way, look out for some foreshadowing. It's in there.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "Tim Robbins",
+      "url": "https://www.imdb.com/name/nm0000209/"
+    },
+    {
+      "name": "Gary Sinise",
+      "url": "https://www.imdb.com/name/nm0000641/"
+    },
+    {
+      "name": "Don Cheadle",
+      "url": "https://www.imdb.com/name/nm0000332/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brian De Palma",
+      "url": "https://www.imdb.com/name/nm0000361/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lowell Cannon",
+      "url": "https://www.imdb.com/name/nm0134230/"
+    },
+    {
+      "name": "Jim Thomas",
+      "url": "https://www.imdb.com/name/nm0859029/"
+    },
+    {
+      "name": "John Thomas",
+      "url": "https://www.imdb.com/name/nm0859049/"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "The Fate of the Furious: Extended Fight Scenes",
+  "url": "https://www.imdb.com/tt29353872/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjAxZjhhNGQtNjc3OS00OGY0LThiZTEtYjc3MGZkYzhmZjg3XkEyXkFqcGdeQXVyMTEwNDU1MzEy._V1_.jpg",
+  "description": "Extended fight scenes from &apos;F8: The Fate of the Furious&apos;.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 169,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.2
+  },
+  "contentRating": null,
+  "genre": [
+    "Short",
+    "Action"
+  ],
+  "datePublished": "2017-07-17",
+  "keywords": "deleted scenes",
+  "duration": null,
+  "actor": [
+    {
+      "name": "James Ayoub",
+      "url": "https://www.imdb.com/name/nm9118339/"
+    },
+    {
+      "name": "Carlos De La Hoz",
+      "url": "https://www.imdb.com/name/nm8958992/"
+    },
+    {
+      "name": "Dwayne Johnson",
+      "url": "https://www.imdb.com/name/nm0425005/"
+    }
+  ],
+  "director": [
+    {
+      "name": "F. Gary Gray",
+      "url": "https://www.imdb.com/name/nm0336620/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Chris Morgan",
+      "url": "https://www.imdb.com/name/nm0604555/"
+    },
+    {
+      "name": "Gary Scott Thompson",
+      "url": "https://www.imdb.com/name/nm0860155/"
+    }
+  ]
+}

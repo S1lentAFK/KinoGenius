@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Monte Carlo",
+  "url": "https://www.imdb.com/tt1067774/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE4NjM3NjI1Nl5BMl5BanBnXkFtZTcwNjA5MzY1NQ@@._V1_.jpg",
+  "description": "Three young women vacationing in Paris find themselves whisked away to Monte Carlo after one of the girls is mistaken for a British heiress.",
+  "review": {
+    "author": "JimmyCollins",
+    "dateCreated": "2011-10-03",
+    "inLanguage": "English",
+    "heading": "A sweet harmless movie that if not taken too seriously is quite enjoyable.",
+    "reviewBody": "Monte Carlo is a sweet romantic comedy in the same vain as The Lizzie McGuire Movie, the story is about a small town gal from Texas, her best friend and her uptight sister who all travel to Paris for a week, only to get separated from their tour group, they take refuge in the nearest hotel and one of the gals is mistaken for a wealthy British heiress and that&apos;s when the story takes off. Cue lots of awkward situations and a cute love story and there you have it.\\n\\nSelena Gomez is quite nice to watch, as is Miss Meester and Katie Cassidy, all three girls have their own storyline throughout the film and each get their chance to shine. Full props to Selena for being entirely convincing as a snooty British snob, she nailed it. The one thing I didn&apos;t get was everyone in the movie from Texas has a Texan accent except Selena, I don&apos;t know if this was a deliberate mistake or just plain laziness, but for me it was the only thing that bothered me.\\n\\nThe movie is quite girly, not that that&apos;s a bad thing, that&apos;s the target audience, but for me it was still easy to watch and enjoyable enough. Give it a go, its not a classic teen film but hey, it&apos;s nice enough for a movie night with the girls. :)",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 48277,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2011-10-21",
+  "keywords": "tied feet,impersonating someone,gagged with an apple,tied to a chair,missing a bus",
+  "duration": "PT1H49M",
+  "actor": [
+    {
+      "name": "Selena Gomez",
+      "url": "https://www.imdb.com/name/nm1411125/"
+    },
+    {
+      "name": "Leighton Meester",
+      "url": "https://www.imdb.com/name/nm1015262/"
+    },
+    {
+      "name": "Katie Cassidy",
+      "url": "https://www.imdb.com/name/nm1556320/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Thomas Bezucha",
+      "url": "https://www.imdb.com/name/nm0080120/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Thomas Bezucha",
+      "url": "https://www.imdb.com/name/nm0080120/"
+    },
+    {
+      "name": "April Blair",
+      "url": "https://www.imdb.com/name/nm0086194/"
+    },
+    {
+      "name": "Maria Maggenti",
+      "url": "https://www.imdb.com/name/nm0535940/"
+    }
+  ]
+}

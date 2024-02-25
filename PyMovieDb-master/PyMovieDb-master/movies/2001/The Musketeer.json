@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Musketeer",
+  "url": "https://www.imdb.com/tt0246544/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmFmZjI2YjMtZTFjOS00MWY3LTkwYmEtZjQ0NzAzZDVjNjEyXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_.jpg",
+  "description": "Alexander Dumas&apos; novel is updated with an eastern influence as D&apos;Artagnan attempts to join the king&apos;s elite guards, the Royal Musketeers, and find the man who killed his parents.",
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Romance"
+  ],
+  "datePublished": "2002-06-21",
+  "keywords": "avenging parent death,france,historical fiction,scene before opening credits,outnumbered",
+  "duration": "PT1H44M",
+  "rating": {
+    "ratingCount": 15015,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.7
+  },
+  "review": {
+    "author": "bkbirge",
+    "dateCreated": "2013-12-11",
+    "inLanguage": "English",
+    "heading": "Fun popcorn muncher",
+    "reviewBody": "I&apos;m a huge Dumas fan and watch every one of the adaptations but I missed this one originally. Just caught it on netflix and it&apos;s nowhere near as bad as it&apos;s made out to be. Yes, the lead is a little off and there isn&apos;t much chemistry between him and Mena Suvari who isn&apos;t at her best either. The wire based fight scenes look dated and there are a few scene pacing problems.\\n\\nBut overall this was quite fun. There *is* chemistry between the Queen and D&apos;artagnan thanks to Catherine Deneuve who exudes star quality in every scene she&apos;s in. There are some nice performances from most of the character actors, the original 3 musketeers are great, and the humor if not the plot is very in keeping with the book. \\n\\nI first thought this was a made for TV movie because of the credits at the beginning so I wasn&apos;t really expecting much and this definitely beat my expectations. The movie looks good and aside from a few characters most of them seem fairly real, the balance between schtick and too- serious was handled well.\\n\\nOverall, too many faults to be a classic but definitely enough class and fun to be very entertaining. Recommended for fans of period movies and the tongue in cheek dramedy.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "actor": [
+    {
+      "name": "Justin Chambers",
+      "url": "https://www.imdb.com/name/nm0150362/"
+    },
+    {
+      "name": "Catherine Deneuve",
+      "url": "https://www.imdb.com/name/nm0000366/"
+    },
+    {
+      "name": "Mena Suvari",
+      "url": "https://www.imdb.com/name/nm0002546/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Hyams",
+      "url": "https://www.imdb.com/name/nm0001382/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Alexandre Dumas",
+      "url": "https://www.imdb.com/name/nm0241416/"
+    },
+    {
+      "name": "Gene Quintano",
+      "url": "https://www.imdb.com/name/nm0704164/"
+    }
+  ]
+}

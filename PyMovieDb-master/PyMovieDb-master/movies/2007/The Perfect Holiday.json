@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Perfect Holiday",
+  "url": "https://www.imdb.com/tt0841032/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIwODIxMTM5N15BMl5BanBnXkFtZTYwMjk4MDM4._V1_.jpg",
+  "description": "A young girl turns to a department store Santa in the hopes that he will help find a new husband for her divorced mother.",
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2007-12-12",
+  "keywords": "christmas,holiday romance,husband,holiday family,holiday season",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Gabrielle Union",
+      "url": "https://www.imdb.com/name/nm0005517/"
+    },
+    {
+      "name": "Morris Chestnut",
+      "url": "https://www.imdb.com/name/nm0004820/"
+    },
+    {
+      "name": "Queen Latifah",
+      "url": "https://www.imdb.com/name/nm0001451/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lance Rivera",
+      "url": "https://www.imdb.com/name/nm1457166/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lance Rivera",
+      "url": "https://www.imdb.com/name/nm1457166/"
+    },
+    {
+      "name": "Marc Calixte",
+      "url": "https://www.imdb.com/name/nm1819855/"
+    },
+    {
+      "name": "Nat Mauldin",
+      "url": "https://www.imdb.com/name/nm0560894/"
+    }
+  ],
+  "review": {
+    "author": "MLDinTN",
+    "dateCreated": "2008-12-14",
+    "inLanguage": "English",
+    "heading": "kid friendly Christmas movie",
+    "reviewBody": "This movie was OK, probably the best thing I liked was the Perfect Christmas song in it. I&apos;d like to hear that song on the radio. In this movie, Queen Latiefa plays the narrator role: maybe an angel since she uses a little magic. She introduces the story of a song writer Benjamin, whom is trying to get a dead with record star Jizzy. To make money in the mean time, he is a mall Santa. Next comes Jizzy&apos;s ex wife, Nancy, and her kids. The kids tell Santa, aka Ben, that their mom needs a complement. So, Ben takes it on himself to find a way to introduce himself. Nancy tries to track him down and two meet again and start dating. Nancy&apos;s oldest son John John dislikes Ben and plays pranks; however, Ben knows about them in advance because the other kids tell Santa what&apos;s going down. Eventually, Ben gets a call from Jizzy about liking the song he wrote and then he finds out Nancy is his ex, which leads to complications. But being a kid film, you know it will work out in the end.\\n\\nFINAL VERDICT: Kids will probably enjoy this more. There&apos;s just not much to the plot.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 3313,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  }
+}

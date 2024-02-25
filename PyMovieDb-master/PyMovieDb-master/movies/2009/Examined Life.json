@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Examined Life",
+  "url": "https://www.imdb.com/tt1279083/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA2Mjc1ODQ5Ml5BMl5BanBnXkFtZTcwMjU5MjQ0Mg@@._V1_.jpg",
+  "description": "In Examined Life, filmmaker Astra Taylor accompanies some of today's most influential thinkers on a series of unique excursions through places and spaces that hold particular resonance for them and their ideas.",
+  "review": {
+    "author": "Urantia",
+    "dateCreated": "2011-03-06",
+    "inLanguage": "English",
+    "heading": "A Finite Journey Towards an Infinite Destination",
+    "reviewBody": "Through art and philosophy, the material-minded man or woman is inveigled into the contemplation of the spiritual realities and universe values of eternal meanings. And so it is largely due to my appreciation for philosophy and art that I enjoyed watching the streaming version of this movie that streamed its way into my cosmic consciousness like a raging river of deep thoughts with superior gems of theoretical conjecturing and speculative reasoning often flowing considerably faster than my ability to comprehend. In fact, I recall a few memorable instances where I even enjoyed the rapid rhythmic structure of verbosity-saturated sentences containing numerous funky words whose meanings were far beyond my limited intellectual grasp. They simply flowed like passionately-potent pastry-prose poetry combining the occasional street-slang slur with intricately woven phrases of subtle sophistication concealing their hidden mystery-meanings beneath lyrical layers of perplexingly abstract idea-patterns. The presentation style contradicted what I have come to expect from many documentaries, namely a question-answering talking head in a well-lit dull-looking room, just sitting there in that sleepy chair with the very absence of movement in the scene inherently evoking a sense of boredom in me unless I am hearing content interesting enough to sufficiently sustain my motivation to stay awake. So, in this film, the non-traditional use of walking alongside the talking philosopher (or being in a moving car) while they extemporaneously expounded about this or that was a refreshingly welcome change from the usual soporific format. And to me, it had philosophical implications as well since I perceive philosophy to be more about The Journey as opposed to The Destination. The Journey of Life is more about The Search for Truth and where that takes me rather than foolishly thinking I found all of IT at some hypothetically final destination point in time and space where the journey is no more.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 1823,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "12",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2009-11-20",
+  "keywords": "philosophy,f rated",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Kwame Anthony Appiah",
+      "url": "https://www.imdb.com/name/nm2253866/"
+    },
+    {
+      "name": "Judith Butler",
+      "url": "https://www.imdb.com/name/nm3110693/"
+    },
+    {
+      "name": "Michael Hardt",
+      "url": "https://www.imdb.com/name/nm3110651/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Astra Taylor",
+      "url": "https://www.imdb.com/name/nm2025391/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Astra Taylor",
+      "url": "https://www.imdb.com/name/nm2025391/"
+    }
+  ]
+}

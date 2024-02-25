@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Zoolander 2",
+  "url": "https://www.imdb.com/tt1608290/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzFmYjdlNDYtMTUxZi00NjdmLTkzN2MtNGZkYmE5YzRjYWQ3XkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_.jpg",
+  "description": "Derek and Hansel are lured into modelling again, in Rome, where they find themselves the target of a sinister conspiracy.",
+  "review": {
+    "author": "nebomilic",
+    "dateCreated": "2016-06-20",
+    "inLanguage": "English",
+    "heading": "IMDb Ratings are broken - This is a solid comedy",
+    "reviewBody": "Here is the thing - too many times I have made a mistake to watch a film only based on it&apos;s IMDb rating or reviews.\n\nThis crucial piece of information that is missing here is:\n\n\n* who is rating/reviewing the title? \n\n\n\n* which other films did the one love/hate?\n\n\nThat is why I want to give some information about me before giving my two cents on Zoolander2:\n\n\n* 35 year old male \n\n\n\n* as a kid I loved Mel Brooks films, Hot Shots Franchise, Jim Carrey Works... \n\n\n\n* I love brother Farrelly comedies \n\n\n\n* I enjoy most of Ben Stiller works (Cable Guy, Tropic Thunder...)\n\n\nNow, with this information in mind, we can proceed:\n\nIn spite of bad ratings I chose to watch this one, and I didn&apos;t regret it. It is a well crafted over the top comedy with some clever and satirical gags.\n\nBecause of the fact that it&apos;s over the top - from start to finish, I don&apos;t have any problems with the story. \n\nI guess it just depends on the mindset and maybe the mood. Both me and my wife had many laughs during the whole film. \n\nWas it predictable? Yes. But I wasn&apos;t expecting it to be any different :)\n\nI hope this helps. \n\nPeace out.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 75096,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2016-02-06",
+  "keywords": "absurdism,overweight child,character name as title,death of wife,model",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Ben Stiller",
+      "url": "https://www.imdb.com/name/nm0001774/"
+    },
+    {
+      "name": "Owen Wilson",
+      "url": "https://www.imdb.com/name/nm0005562/"
+    },
+    {
+      "name": "Penélope Cruz",
+      "url": "https://www.imdb.com/name/nm0004851/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ben Stiller",
+      "url": "https://www.imdb.com/name/nm0001774/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Justin Theroux",
+      "url": "https://www.imdb.com/name/nm0857620/"
+    },
+    {
+      "name": "Ben Stiller",
+      "url": "https://www.imdb.com/name/nm0001774/"
+    },
+    {
+      "name": "Nicholas Stoller",
+      "url": "https://www.imdb.com/name/nm0831557/"
+    }
+  ]
+}

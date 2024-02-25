@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Jumping the Broom",
+  "url": "https://www.imdb.com/tt1640484/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg4NjA3OTQ0OF5BMl5BanBnXkFtZTcwOTQ1NjA2NA@@._V1_.jpg",
+  "description": "Two very different families converge on Martha's Vineyard one weekend for a wedding.",
+  "review": {
+    "author": "MLDinTN",
+    "dateCreated": "2011-12-29",
+    "inLanguage": "English",
+    "heading": "another wedding movie in which...",
+    "reviewBody": "both families don't get along. The movie was OK but nothing original. Sabrina and Jason are getting married in swanky Martha's Vineyard, and they are about to meet each other's families for the first time. Sabrina's family is rich and throwing the wedding of the year. Jason's mom, Mrs. Taylor, is a tough talking postal worker, whom brings her friend, his uncle and his cousin to the wedding. Needless to say, their lifestyle is completely different from the Watson's. From the beginning, Mrs. Taylor is at odds with Sabrina and her mom and flies off the handle at the littlest of things. She finds it offensive they want her recipes, they sent a driver to pick them up, Sabrina wants her to wear a dress she bought, they don't want to jump the broom, etc... pretty much everything. And Sabrina's mom doesn't think Mrs. Taylor is sophisticated enough. The two families arguing soon leads to Sabrina and Jason arguing. Then Mrs. Taylor over hears a family secret and just has to tell the hurtful secret to Sabrina. But will they still get married? \\n\\nFINAL VERDICT: I say just watch it if you like wedding movies.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 11465,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2011-06-10",
+  "keywords": "columbia tristar,weekend,martha's vineyard,wedding,older woman younger man relationship",
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "Paula Patton",
+      "url": "https://www.imdb.com/name/nm1745736/"
+    },
+    {
+      "name": "Laz Alonso",
+      "url": "https://www.imdb.com/name/nm0022306/"
+    },
+    {
+      "name": "Angela Bassett",
+      "url": "https://www.imdb.com/name/nm0000291/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Salim Akil",
+      "url": "https://www.imdb.com/name/nm0015328/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Elizabeth Hunter",
+      "url": "https://www.imdb.com/name/nm0402804/"
+    },
+    {
+      "name": "Arlene Gibbs",
+      "url": "https://www.imdb.com/name/nm1656428/"
+    }
+  ]
+}

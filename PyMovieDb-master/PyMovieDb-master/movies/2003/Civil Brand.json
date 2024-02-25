@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Civil Brand",
+  "url": "https://www.imdb.com/tt0326806/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkyNDI4NTgyM15BMl5BanBnXkFtZTcwMTcwNDAwMQ@@._V1_.jpg",
+  "description": null,
+  "datePublished": "2002-05-26",
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Thriller",
+    "Crime"
+  ],
+  "duration": "PT1H35M",
+  "keywords": "prison drama,prison,friendship,prison guard,abuse of power",
+  "rating": {
+    "ratingCount": 804,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "review": {
+    "author": "Artemis-9",
+    "dateCreated": "2006-05-11",
+    "inLanguage": "English",
+    "heading": "What's news about a WIP?",
+    "reviewBody": "Women In Prison films are standard fare for the entertainment of mainly boozed up, lurid male audiences, featuring (1) cat-fight; (2) almost nude gals in isolation; (3) sexual harassment of inmates; (4) brutal guards; (5) rape; (6) riot; (7) revenge on the (8) corrupt warden and superior officers. WIP are usually low budgeted, filmed with poorly paid crew and very small cast.\\n\\nGuess what? You've all the required items, the film was made on a stringy budget and a dozen actors, one of them doubling as stunt choreographer, who 'gets shot' without putting up a fight! So why is all the uproar? Plenty of (lurid?) viewers complaining that it's a BAD BAD FILM, and plenty of established critics complaining that it's a BAD BAD FILM...\\n\\nBecause this film was made (as the director explains in detail in the voice on commentary in the DVD version) from a critical, very political view point, exposing as well as it can the link between Politics, Economics, and Prisons. Even without being corrupt, a prison's system exploited like a private business - as it is perfectly legal in some countries, like the U.S. of A. - may, and eventually does, as historic cases prove, end up in being a monstrous creation.\\n\\nThat the director was naif, and tried to put to many ideas and characters in at the same time, ending with a couple of loose ends, it's a pity. DaBrat is not the best narrator to keep an audience interested, in a film with not much screen action; Tichina Arnold should be meaner as Aisha the bad girl, yet she provokes a good fight on the gravel yard of this urban prison; woman sarge Cervantes looks sexy enough to liven things up - but her character is underdeveloped in the (cut to 91m though R rated) DVD version; LisaRaye is OK as the taller new girl, but lacks experience, and it shows, in several crucial moments.\\n\\nThe music is new, and at times inspired, by Mandrill. The expos\\u00e9 of established facts will be valuable for audiences who wish to get a larger view than the telly gives them. Supporting cast has good performances by Clifton Powell (justly awarded), Reed McCants, and best for last, the beautiful and definitely the best actress of the pen, N'Bushe Wright. (I'm closing this comment and go searching for other films with her.)",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "LisaRaye McCoy",
+      "url": "https://www.imdb.com/name/nm0513964/"
+    },
+    {
+      "name": "N'Bushe Wright",
+      "url": "https://www.imdb.com/name/nm0942668/"
+    },
+    {
+      "name": "Yasiin Bey",
+      "url": "https://www.imdb.com/name/nm0080049/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Neema Barnette",
+      "url": "https://www.imdb.com/name/nm0056006/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Preston A. Whitmore II",
+      "url": "https://www.imdb.com/name/nm0926211/"
+    },
+    {
+      "name": "Joyce Renee Lewis",
+      "url": "https://www.imdb.com/name/nm0507393/"
+    }
+  ]
+}

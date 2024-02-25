@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Swimming Pool",
+  "url": "https://www.imdb.com/tt0324133/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGNjMmUzNjQtMjJjYy00ZWYyLTlhNDAtNDk2Y2QxZWQ0Y2NiXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "AnthonyMeg",
+    "dateCreated": "2017-03-25",
+    "inLanguage": "English",
+    "heading": "Fran\\u00e7ois Ozon&apos;s Masterpiece .",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 48139,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2003-08-22",
+  "keywords": "swimming,murder,swimming pool,digging a grave,bilingual",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Charlotte Rampling",
+      "url": "https://www.imdb.com/name/nm0001648/"
+    },
+    {
+      "name": "Charles Dance",
+      "url": "https://www.imdb.com/name/nm0001097/"
+    },
+    {
+      "name": "Ludivine Sagnier",
+      "url": "https://www.imdb.com/name/nm0756203/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Fran\\u00e7ois Ozon",
+      "url": "https://www.imdb.com/name/nm0654830/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Fran\\u00e7ois Ozon",
+      "url": "https://www.imdb.com/name/nm0654830/"
+    },
+    {
+      "name": "Emmanu\\u00e8le Bernheim",
+      "url": "https://www.imdb.com/name/nm0076814/"
+    },
+    {
+      "name": "Sionann O&apos;Neill",
+      "url": "https://www.imdb.com/name/nm2019127/"
+    }
+  ]
+}

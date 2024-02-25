@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Barbershop: The Next Cut",
+  "url": "https://www.imdb.com/tt3628584/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzUxMzM5MjIxNF5BMl5BanBnXkFtZTgwMDk1NzMzNzE@._V1_.jpg",
+  "description": "As their surrounding community has taken a turn for the worse, the crew at Calvin's Barbershop come together to bring some much needed change to their neighborhood.",
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2016-06-17",
+  "keywords": "barack obama character,barber shop,barber,barbershop,four word title",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Ice Cube",
+      "url": "https://www.imdb.com/name/nm0001084/"
+    },
+    {
+      "name": "Regina Hall",
+      "url": "https://www.imdb.com/name/nm0356021/"
+    },
+    {
+      "name": "Anthony Anderson",
+      "url": "https://www.imdb.com/name/nm0026364/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Malcolm D. Lee",
+      "url": "https://www.imdb.com/name/nm0002700/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kenya Barris",
+      "url": "https://www.imdb.com/name/nm1244069/"
+    },
+    {
+      "name": "Tracy Oliver",
+      "url": "https://www.imdb.com/name/nm2002824/"
+    },
+    {
+      "name": "Mark Brown",
+      "url": "https://www.imdb.com/name/nm0114197/"
+    }
+  ],
+  "review": {
+    "author": "billmarsano",
+    "dateCreated": "2016-05-23",
+    "inLanguage": "English",
+    "heading": "Way Too Earnest to Be Funny",
+    "reviewBody": "'Barber Shop: The Next Cut' is that Hollywood classic, the sequel gone bad. The original was original, witty, joyously coarse and endless fun. This takes the same bunch of delightful performers (Ice Cube, Cedric the Entertainer and more, including including the splendid J.B.Smoove), and saddles them with a preachment on ghetto uplift. Not only that, there's a side order of gender equality and a dash of the need for sisterly solidarity. The result is that the original movie, which was a delicious guilty pleasure, has been turned into a slow-moving tract of the sort that earnest do-gooders think is hip and persuasive. All in all, this sequel has so much heart it has lost its soul.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 16040,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  }
+}

@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Capitalism: A Love Story",
+  "url": "https://www.imdb.com/tt1232207/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYyMTA2MTE4NF5BMl5BanBnXkFtZTcwNTgwMDE4Mg@@._V1_.jpg",
+  "description": null,
+  "contentRating": "12A",
+  "genre": [
+    "Documentary",
+    "Crime",
+    "History"
+  ],
+  "datePublished": "2010-02-26",
+  "keywords": [
+    "reference to franklin d. roosevelt",
+    "essay film",
+    "pantyhose",
+    "black pantyhose",
+    "suntan pantyhose"
+  ],
+  "duration": "PT2H7M",
+  "actor": [
+    {
+      "name": "Michael Moore",
+      "url": "https://www.imdb.com/name/nm0601619/"
+    },
+    {
+      "name": "William Black",
+      "url": "https://www.imdb.com/name/nm3398139/"
+    },
+    {
+      "name": "Jimmy Carter",
+      "url": "https://www.imdb.com/name/nm0141699/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Moore",
+      "url": "https://www.imdb.com/name/nm0601619/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Moore",
+      "url": "https://www.imdb.com/name/nm0601619/"
+    }
+  ],
+  "review": {
+    "author": "virek213",
+    "dateCreated": "2009-10-17",
+    "inLanguage": "English",
+    "heading": "The Politics Of Greed, Fear, And Predatory Behavior Exposed By Michael Moore",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 43797,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  }
+}

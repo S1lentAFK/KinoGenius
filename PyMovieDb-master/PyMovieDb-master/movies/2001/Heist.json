@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Heist",
+  "url": "https://www.imdb.com/tt0252503/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDBiNTNlZTMtZjlmNC00ZGI0LWI2YjctODA4MzNlYjEyNzQ2XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+  "description": "A career jewel thief finds himself at tense odds with his longtime partner, a crime boss who sends his nephew to keep watch.",
+  "review": {
+    "author": "bob the moo",
+    "dateCreated": "2002-06-11",
+    "inLanguage": "English",
+    "heading": "Good dialogue \\u0096 but the plot is a little tired",
+    "reviewBody": "After an elaborate jewel robbery Joe Moore and his crew go to collect their cut from Bergman. However Bergman ropes them into another job \\u0096 taking gold from a Swiss airline prior to transfer. Joe reluctantly agrees to do the job and takes Bergman&apos;s nephew along to reassure him. However Joe is never without a backup plan and double cross follows double cross.\\n\\nThis really tries to be good \\u0096 it has a good sense of tough moodiness about it and has plenty of good lines and a top class cast. However it tries too hard to be a twisty crime thriller and doesn&apos;t quite convince. Where twists and double crosses are best is when they are unexpected and surprising. Heist has so many `twists&apos; that they lack impact or power. Instead of being surprised we expect the next one to be only a few seconds away. Although some of them are clever most of them lack the punch Mamet clearly wanted them to have.\\n\\nAs I said the cast are famous and all do well. Hackman is grizzled but clever and can easily `do tough&apos;, Lindo is always good to watch but Ricky Jay seems out of place. I always find him easy to watch because he is naturally curious I think but his manner doesn&apos;t seem to fit in with the rest of the cast. DeVito and Rockwell are good. It would be hard to compete in such a male driven plot and indeed Pidgeon struggles to get a character for herself.\\n\\nThe cast do so well because Mamet is a good writer of dialogue \\u0096 even if he overdid the twists, lines are quotable, funny or just cool \\u0096 `My motherf****r is so cool when he goes to sleep sheep count him&apos; or `don&apos;t you want to hear my last words?&apos; \\u0096 `I just did&apos;. Even if the plot doesn&apos;t convince the direction, the dialogue and the cast make this better than the mess it should be.\\n\\nOverall it has good qualities, but the one driving force it needed was a much better story. It&apos;s entertaining enough to pass 100 minutes \\u0096 but really the many word that comes to mind is disappointing.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 38883,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2001-11-23",
+  "keywords": "heist,heist movie,robbery,wife&apos;s sexual pretence,time bomb",
+  "duration": "PT1H49M",
+  "actor": [
+    {
+      "name": "Gene Hackman",
+      "url": "https://www.imdb.com/name/nm0000432/"
+    },
+    {
+      "name": "Rebecca Pidgeon",
+      "url": "https://www.imdb.com/name/nm0682071/"
+    },
+    {
+      "name": "Danny DeVito",
+      "url": "https://www.imdb.com/name/nm0000362/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Mamet",
+      "url": "https://www.imdb.com/name/nm0000519/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Mamet",
+      "url": "https://www.imdb.com/name/nm0000519/"
+    }
+  ]
+}

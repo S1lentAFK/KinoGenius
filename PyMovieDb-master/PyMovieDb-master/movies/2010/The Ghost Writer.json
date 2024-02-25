@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Ghost Writer",
+  "url": "https://www.imdb.com/tt1139328/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI3NzMwMzkyNV5BMl5BanBnXkFtZTcwODk4NjQxMw@@._V1_.jpg",
+  "description": "A ghost writer, hired to complete the memoirs of a former British Prime Minister, uncovers secrets that put his own life in jeopardy.",
+  "review": {
+    "author": "Fella_shibby",
+    "dateCreated": "2021-12-20",
+    "inLanguage": "English",
+    "heading": "Captivating thriller with a solid script n top notch performance by Gregor.",
+    "reviewBody": "I saw this few days back on a dvd which I own.\n\nInspite of the dvd being in my drawer for a decade, I never felt the urge to go ahead.\n\nWhat a fool I was cos this is an amazing thriller with a top notch performance by Gregor.\n\nThe cinematography is excellent n the best part is the script.\n\nThe movie inspite of being a simple thriller has lots of tension n it is very captivating from the go.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 170202,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2010-04-16",
+  "keywords": "memoir,writer,ferry,political thriller,beach house",
+  "duration": "PT2H8M",
+  "actor": [
+    {
+      "name": "Ewan McGregor",
+      "url": "https://www.imdb.com/name/nm0000191/"
+    },
+    {
+      "name": "Pierce Brosnan",
+      "url": "https://www.imdb.com/name/nm0000112/"
+    },
+    {
+      "name": "Olivia Williams",
+      "url": "https://www.imdb.com/name/nm0931404/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Roman Polanski",
+      "url": "https://www.imdb.com/name/nm0000591/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Harris",
+      "url": "https://www.imdb.com/name/nm0365249/"
+    },
+    {
+      "name": "Roman Polanski",
+      "url": "https://www.imdb.com/name/nm0000591/"
+    }
+  ]
+}

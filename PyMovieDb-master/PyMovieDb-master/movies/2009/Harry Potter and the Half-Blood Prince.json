@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Harry Potter and the Half-Blood Prince",
+  "url": "https://www.imdb.com/tt0417741/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "bkoganbing",
+    "dateCreated": "2011-08-29",
+    "inLanguage": "English",
+    "heading": "It's Love Potions That Are Most In Demand",
+    "reviewBody": "Harry Potter And The Half Blood Prince sets a couple of milestones in the film series. Harry and sidekicks Hermione and Ron are coming a bit late into puberty which is understandable considering all the adventures they've had. But they're now starting to see what the opposite sex is all about.\\n\\nHelping them along is an old colleague that Dumbledore has brought back to the Hogwarts one Professor Slughorn, a new character into the Potter saga played by Jim Broadbent. Slughorn (how I do love J.K. Rowling's use of Dickensian names in the Harry Potter series) is a master of potions and of course when you talk potions, it's love potions that are most in demand. But they do have only a short term effectiveness and at least one of the trio gets overdosed on it. And the cure almost kills as well.\\n\\nThe Half Blood Prince also provides us with some insight into the life of the younger Lord Voldemort back when he was a Hogwarts student named Tom Riddle. Broadbent and he bonded back in the day and that's why Dumbledore wants him back.\\n\\nThe Half Blood Prince keeps up the high standard of film making that the Harry Potter series is known for. It even got a nomination for Cinematography from the Academy. Broadbent is a nice addition to the Hogwarts stock company even if only for the two remaining films in the series. \\n\\nNo sense telling you to see it, you probably have and enjoyed same.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 590141,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Family"
+  ],
+  "datePublished": "2009-07-15",
+  "keywords": "witchcraft,hereditary gift of witchcraft,murder,friendship,memory",
+  "duration": "PT2H33M",
+  "actor": [
+    {
+      "name": "Daniel Radcliffe",
+      "url": "https://www.imdb.com/name/nm0705356/"
+    },
+    {
+      "name": "Emma Watson",
+      "url": "https://www.imdb.com/name/nm0914612/"
+    },
+    {
+      "name": "Rupert Grint",
+      "url": "https://www.imdb.com/name/nm0342488/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Yates",
+      "url": "https://www.imdb.com/name/nm0946734/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steve Kloves",
+      "url": "https://www.imdb.com/name/nm0460141/"
+    },
+    {
+      "name": "J.K. Rowling",
+      "url": "https://www.imdb.com/name/nm0746830/"
+    }
+  ]
+}

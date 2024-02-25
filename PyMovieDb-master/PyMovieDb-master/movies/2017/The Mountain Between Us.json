@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "The Mountain Between Us",
+  "url": "https://www.imdb.com/tt2226597/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjllMWJmZTEtODA2Mi00MzY3LThiYmMtZDFjYjQ2NDM2MWJkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "description": "Stranded after a tragic plane crash, two strangers must forge a connection to survive the extreme elements of a remote snow-covered mountain. When they realize help is not coming, they embark on a perilous journey across the wilde...",
+  "review": {
+    "author": "SamJamie",
+    "dateCreated": "2020-07-08",
+    "inLanguage": "English",
+    "heading": "Brisk action, blossoming romance, and a dog.",
+    "reviewBody": "The Mountain Between Us is a 2017 American drama film directed by Hany Abu-Assad and written by Chris Weitz and J. Mills Goodloe, based on the 2011 novel of the same name by Charles Martin. It stars Idris Elba and Kate Winslet as a surgeon and a journalist, respectively. The film premiered on September 9, 2017, at the 2017 Toronto International Film Festival, and was theatrically released in the United States on October 6, 2017, by 20th Century Fox.\n\nBen and Alex are stranded in the Utah mountains after a plane crash. Together they must overcome the challenges of living in snow-covered mountains.\n\nThe Mountain Between Us has a lot of flaws, but there is something to be said for a love story where the parties involved treat each other with decency and respect -- and keep track of the dog. I was surprised by the film&apos;s shift from adventure story to romantic melodrama, and yet the turn feels natural. Everyday life more often resembles a melodrama than an adventure story. If you like romantic stories and are tired of the usual treatment, this film takes a different approach to the subject. It&apos;s a good old fashioned Hollywood romantic adventure, that had the good grace to cast Kate Winslet and Idris Elba, makes for an entertaining adult-appeal movie in the best sense of the word.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 80447,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2017-10-19",
+  "keywords": "mountain,snow,wilderness,airport,photograph",
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "Kate Winslet",
+      "url": "https://www.imdb.com/name/nm0000701/"
+    },
+    {
+      "name": "Idris Elba",
+      "url": "https://www.imdb.com/name/nm0252961/"
+    },
+    {
+      "name": "Beau Bridges",
+      "url": "https://www.imdb.com/name/nm0000977/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Hany Abu-Assad",
+      "url": "https://www.imdb.com/name/nm0009463/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Chris Weitz",
+      "url": "https://www.imdb.com/name/nm0919363/"
+    },
+    {
+      "name": "J. Mills Goodloe",
+      "url": "https://www.imdb.com/name/nm0328987/"
+    },
+    {
+      "name": "Charles Martin",
+      "url": "https://www.imdb.com/name/nm4887947/"
+    }
+  ]
+}

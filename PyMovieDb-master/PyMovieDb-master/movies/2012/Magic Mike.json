@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Magic Mike",
+  "url": "https://www.imdb.com/tt1915581/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQzMDMzOTA5M15BMl5BanBnXkFtZTcwMjc4MTg4Nw@@._V1_.jpg",
+  "description": "A male stripper teaches a younger performer how to party, pick up women, and make easy money.",
+  "review": {
+    "author": "lesleyharris30",
+    "dateCreated": "2015-06-27",
+    "inLanguage": "English",
+    "heading": "Very Slow Comedy, but brings in Great Laughs and Performances,",
+    "reviewBody": "Magic Mike is a good movie with a well developed storyline and an impressive cast. It&apos;s an enjoyable movie that brings in many laughs, as well as terrific performances from the entire cast, the chemistry between everyone is great, particularly the parts between Channing Tatum and Cody Horn, they both seemed to really enjoy being in each other&apos;s company and their scenes were very natural. It&apos;s a really slow movie and can admittedly get very boring at times, there are a lot of very lengthy scenes were the characters are literally just talking, while they are well acted and serve as a great method for character development, they can still get very tedious, they could have easily trimmed a lot of scenes and made it a more bearable ninety minute run. The highlight of the movie is definitely Matthew McConaughey, playing a character unlike one he has ever played before, he is very natural and charismatic in the role of Dallas, his scenes certainly had me entertained the most. It may be very slow, but Magic Milke is still an enjoyable movie that I would recommend to anyone looking for a good, easy to watch, comedy if you ever see it on television and had some time to kill. \\n\\nA male stripper teaches a newcomer how to handle the lifestyle, while a relationship develops between him and the newcomers sister. \\n\\nBest Performance: Matthew McConaughey",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 146643,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2012-07-11",
+  "keywords": "large penis,male nudity,man wears a thong,man wrapped in a towel,man wears underwear",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Channing Tatum",
+      "url": "https://www.imdb.com/name/nm1475594/"
+    },
+    {
+      "name": "Alex Pettyfer",
+      "url": "https://www.imdb.com/name/nm1641117/"
+    },
+    {
+      "name": "Olivia Munn",
+      "url": "https://www.imdb.com/name/nm1601397/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven Soderbergh",
+      "url": "https://www.imdb.com/name/nm0001752/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Reid Carolin",
+      "url": "https://www.imdb.com/name/nm1730221/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Logan Lucky",
+  "url": "https://www.imdb.com/tt5439796/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYyODg0NDU1OV5BMl5BanBnXkFtZTgwNjcxMzU0MjI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "yusufpiskin",
+    "dateCreated": "2020-11-18",
+    "inLanguage": "English",
+    "heading": "Soderbergh Style.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 161155,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2017-09-07",
+  "keywords": "prison,heist,bartender,singing,bar",
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Channing Tatum",
+      "url": "https://www.imdb.com/name/nm1475594/"
+    },
+    {
+      "name": "Adam Driver",
+      "url": "https://www.imdb.com/name/nm3485845/"
+    },
+    {
+      "name": "Daniel Craig",
+      "url": "https://www.imdb.com/name/nm0185819/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven Soderbergh",
+      "url": "https://www.imdb.com/name/nm0001752/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jules Asner",
+      "url": "https://www.imdb.com/name/nm0039583/"
+    }
+  ]
+}

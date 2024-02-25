@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Megamind",
+  "url": "https://www.imdb.com/tt1001526/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTAzMzI0NTMzNDBeQTJeQWpwZ15BbWU3MDM3NTAyOTM@._V1_.jpg",
+  "description": "Evil genius Megamind finally defeats his do-gooder nemesis, Metro Man, but is left without a purpose in a superhero-free world.",
+  "review": {
+    "author": "HungryforCheese",
+    "dateCreated": "2020-11-13",
+    "inLanguage": "English",
+    "heading": "What the hell this is good?",
+    "reviewBody": "Damn that score, that comedy, that action and those characters. Great movie for babys and non-babys.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 291623,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Action",
+    "Comedy"
+  ],
+  "datePublished": "2010-12-03",
+  "keywords": "megamind character,superhero,prison,super villain,transformation",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Will Ferrell",
+      "url": "https://www.imdb.com/name/nm0002071/"
+    },
+    {
+      "name": "Jonah Hill",
+      "url": "https://www.imdb.com/name/nm1706767/"
+    },
+    {
+      "name": "Brad Pitt",
+      "url": "https://www.imdb.com/name/nm0000093/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tom McGrath",
+      "url": "https://www.imdb.com/name/nm0569891/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Alan Schoolcraft",
+      "url": "https://www.imdb.com/name/nm0774786/"
+    },
+    {
+      "name": "Brent Simons",
+      "url": "https://www.imdb.com/name/nm2523794/"
+    }
+  ]
+}

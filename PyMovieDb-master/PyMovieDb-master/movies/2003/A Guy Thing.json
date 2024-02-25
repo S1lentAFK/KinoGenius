@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "A Guy Thing",
+  "url": "https://www.imdb.com/tt0295289/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMxOTg3MDczMl5BMl5BanBnXkFtZTcwNzU5MTkzNA@@._V1_.jpg",
+  "description": "A soon-to-be husband wakes up on the morning after his bachelor party in bed with another woman.",
+  "review": {
+    "author": "vchimpanzee",
+    "dateCreated": "2007-04-03",
+    "inLanguage": "English",
+    "heading": "I thought it was funny most of the time",
+    "reviewBody": "There were times when this movie was absolutely hilarious. Even if most of the funniest lines and situations involved toilets, STDs, or pornography. I don't recommend this for kids.\n\nPaul didn't remind me of Earl Hickey that much of the time, but sometimes his manner of speaking was similar. Paul wasn't that great a character, but he was likable enough.\n\nI didn't care for Karen. She wasn't pretty and had an abrasive personality, and then there was that annoying fake smile. Though on the right woman, her haircut could have been cute.\n\nBecky, on the other hand, was absolutely adorable. Good-looking with a sweet personality, even if she could get riled when she had to. In the first scene where she showed she had a brain, she was justified in not being the cute chick. I knew what I wanted to happen.\n\nThere were plenty of good acting performances, considering the material. And while the writing wasn't on an Oscar level, that's not necessary here. It just needed to be funny, which it often was.\n\nI had a bad day--in fact, a bad week--prior to the night this movie aired. But the movie made me feel good, at least while I was watching it. That's the most important thing I can say.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 18258,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2003-06-13",
+  "keywords": "sex comedy,mgm,bowtie,lips,comic relief",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Jason Lee",
+      "url": "https://www.imdb.com/name/nm0005134/"
+    },
+    {
+      "name": "Julia Stiles",
+      "url": "https://www.imdb.com/name/nm0005466/"
+    },
+    {
+      "name": "Selma Blair",
+      "url": "https://www.imdb.com/name/nm0004757/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chris Koch",
+      "url": "https://www.imdb.com/name/nm0462277/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Greg Glienna",
+      "url": "https://www.imdb.com/name/nm0322839/"
+    },
+    {
+      "name": "Pete Schwaba",
+      "url": "https://www.imdb.com/name/nm1046710/"
+    },
+    {
+      "name": "Matt Tarses",
+      "url": "https://www.imdb.com/name/nm0850696/"
+    }
+  ]
+}

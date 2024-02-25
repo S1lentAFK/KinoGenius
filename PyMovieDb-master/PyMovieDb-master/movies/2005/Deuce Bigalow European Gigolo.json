@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Deuce Bigalow: European Gigolo",
+  "url": "https://www.imdb.com/tt0367652/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTAwYTFhNzgtN2E0ZC00NGZkLWIxY2UtZWRlYzJiMmZlODRjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "Deuce is tricked again into man-whoring by T.J., only in Amsterdam while other man-whores are being murdered in his midst.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2005-09-30",
+  "keywords": "prostitution,prostitute,pimp,voyeur,voyeurism",
+  "duration": "PT1H23M",
+  "actor": [
+    {
+      "name": "Rob Schneider",
+      "url": "https://www.imdb.com/name/nm0001705/"
+    },
+    {
+      "name": "Eddie Griffin",
+      "url": "https://www.imdb.com/name/nm0341176/"
+    },
+    {
+      "name": "Jeroen Krabb\\u00e9",
+      "url": "https://www.imdb.com/name/nm0469103/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mike Bigelow",
+      "url": "https://www.imdb.com/name/nm1600805/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Harris Goldberg",
+      "url": "https://www.imdb.com/name/nm0325214/"
+    },
+    {
+      "name": "Rob Schneider",
+      "url": "https://www.imdb.com/name/nm0001705/"
+    },
+    {
+      "name": "David Garrett",
+      "url": "https://www.imdb.com/name/nm0308099/"
+    }
+  ],
+  "review": {
+    "author": "Gordon-11",
+    "dateCreated": "2006-08-31",
+    "inLanguage": "English",
+    "heading": "Cute and likable despite being silly and politically incorrect",
+    "reviewBody": "This film was about Deuce Bigalow in the liberal Amsterdam to find the killer of man whores. Through the process, he was in for some culture shock and some man whoring.\\n\\nThe plot was silly and very politically incorrect. There were plenty of gross moments, such as vomiting wine through a tracheostomy hole or eating chips submerged in the toilet bowl. \\n\\nHowever, I did not stop laughing throughout the film because Rob Schneider was so funny. He gave Deuce Bigalow a cute and innocent charm which was important in making Deuce Bigalow likable. The film was good for some light and non serious entertainment.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 53136,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.7
+  }
+}

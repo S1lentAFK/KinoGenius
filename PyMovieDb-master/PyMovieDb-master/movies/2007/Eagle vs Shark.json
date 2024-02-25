@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Eagle vs Shark",
+  "url": "https://www.imdb.com/tt0494222/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTUxMzY3MzI0NV5BMl5BanBnXkFtZTcwMDUwMDU0MQ@@._V1_.jpg",
+  "description": "The tale of two socially-awkward misfits and the strange ways they try to find love: through revenge on high-school bullies, burgers, and video games.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2007-08-17",
+  "keywords": "man wears eyeglasses,nunchaku,typographic abbreviation in title,oceania,quirky comedy",
+  "duration": "PT1H33M",
+  "rating": {
+    "ratingCount": 26127,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "review": {
+    "author": "beetlelass2000",
+    "dateCreated": "2007-07-06",
+    "inLanguage": "English",
+    "heading": "substance",
+    "reviewBody": "I really liked this film, I went into thinking it was going to be an off beat comedy with no real substance. Surprisingly it was not only a comedy it actually had a plot and significant character ark. I think that is what really separates it from Napoleon Dynamite which also explores outsiders. In this film the characters grow and recognize things about themselves. The humor is still very much there and the actors do a great job with their characters. There is also some really cool cinematography and animation in the film that was an unexpected bonus. The scenery was really amazing it made me want to go to New Zealand! I would highly recommend this film. It was really entertaining for me and I really liked the accents!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Loren Taylor",
+      "url": "https://www.imdb.com/name/nm1045593/"
+    },
+    {
+      "name": "Jemaine Clement",
+      "url": "https://www.imdb.com/name/nm1318596/"
+    },
+    {
+      "name": "Craig Hall",
+      "url": "https://www.imdb.com/name/nm0355440/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Taika Waititi",
+      "url": "https://www.imdb.com/name/nm0169806/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Loren Taylor",
+      "url": "https://www.imdb.com/name/nm1045593/"
+    },
+    {
+      "name": "Taika Waititi",
+      "url": "https://www.imdb.com/name/nm0169806/"
+    }
+  ]
+}

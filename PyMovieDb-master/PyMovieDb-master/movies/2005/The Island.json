@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Island",
+  "url": "https://www.imdb.com/tt0399201/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTAwNjk0NjM1ODReQTJeQWpwZ15BbWU3MDc1NjIxMzM@._V1_.jpg",
+  "description": "A man living in a futuristic sterile colony begins to question his circumscribed existence when his friend is chosen to go to the Island, the last uncontaminated place on earth.",
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "datePublished": "2005-08-12",
+  "keywords": "clone,same actor playing two characters simultaneously on screen,year 2019,human clone,artificial human",
+  "duration": "PT2H16M",
+  "actor": [
+    {
+      "name": "Scarlett Johansson",
+      "url": "https://www.imdb.com/name/nm0424060/"
+    },
+    {
+      "name": "Ewan McGregor",
+      "url": "https://www.imdb.com/name/nm0000191/"
+    },
+    {
+      "name": "Djimon Hounsou",
+      "url": "https://www.imdb.com/name/nm0005023/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Bay",
+      "url": "https://www.imdb.com/name/nm0000881/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Caspian Tredwell-Owen",
+      "url": "https://www.imdb.com/name/nm1047021/"
+    },
+    {
+      "name": "Alex Kurtzman",
+      "url": "https://www.imdb.com/name/nm0476064/"
+    },
+    {
+      "name": "Roberto Orci",
+      "url": "https://www.imdb.com/name/nm0649460/"
+    }
+  ],
+  "review": {
+    "author": "burnzyburns",
+    "dateCreated": "2020-12-08",
+    "inLanguage": "English",
+    "heading": "Trust me, this movie is very underrated",
+    "reviewBody": "Critics hate this movie and who knows why, maybe the expectations for it were huge, but I am telling you The Island is an amazing time.\\n\\nNormally I shy away from Michael Bay movies or anything of his material but The Island is like his rare dime of the pile.\\n\\nThere is great acting and chemistry between McGregor and Johansson and Steve Buschemi was near flawless in his short cameo appearances.\\n\\nThe plot is sci-fi, action and some great drama. I really REALLY enjoyed the story as it surprised me at times. I thought the plot was bold and risky but it definitely payed off and it&apos;s too bad Bay hasn&apos;t gone this direction with a lot of his movies. He always seems to ditch stories and focus way too much on action to fill in the time. The Island succeeds because it&apos;s a strong blend of those 3 genres.\\n\\nIt wouldn&apos;t be surprising if you have never heard of this movie. I never see it on tv and I don&apos;t know many people who have seen it. It is sadly very underrated. This is an excellent movie and I strongly recommend it to anyone.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 326437,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  }
+}

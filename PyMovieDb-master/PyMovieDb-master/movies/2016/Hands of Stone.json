@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hands of Stone",
+  "url": "https://www.imdb.com/tt1781827/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQxNzE4ODU1Nl5BMl5BanBnXkFtZTgwMDA4Njk0ODE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "paul-allaer",
+    "dateCreated": "2016-09-13",
+    "inLanguage": "English",
+    "heading": "By-the-numbers script holds back the movie",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 17468,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2016-08-26",
+  "keywords": "boxing,male buttocks,sex scene,boxing match,male rear nudity",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Edgar Ram\\u00edrez",
+      "url": "https://www.imdb.com/name/nm1183149/"
+    },
+    {
+      "name": "Usher",
+      "url": "https://www.imdb.com/name/nm0713378/"
+    },
+    {
+      "name": "Robert De Niro",
+      "url": "https://www.imdb.com/name/nm0000134/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jonathan Jakubowicz",
+      "url": "https://www.imdb.com/name/nm1189755/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jonathan Jakubowicz",
+      "url": "https://www.imdb.com/name/nm1189755/"
+    }
+  ]
+}

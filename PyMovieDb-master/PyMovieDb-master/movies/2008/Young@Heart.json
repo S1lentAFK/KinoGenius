@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Young Hearts",
+  "url": "https://www.imdb.com/tt15245268/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMThmNGM2NmItMjdhYi00OTUwLWFiMDctNzkyMDE0YWVjZDQ2XkEyXkFqcGdeQXVyOTU3OTY0ODc@._V1_.jpg",
+  "description": "Elias develops feelings for his new neighbor Alexander. He soon realizes he's falling in love for the first time.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 60,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.6
+  },
+  "contentRating": null,
+  "genre": [
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2024-02-17",
+  "keywords": "gay,gay teen,lgbt,boy,friendship",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Lou Goossens",
+      "url": "https://www.imdb.com/name/nm14100099/"
+    },
+    {
+      "name": "Marius De Saeger",
+      "url": "https://www.imdb.com/name/nm15732801/"
+    },
+    {
+      "name": "Geert Van Rampelberg",
+      "url": "https://www.imdb.com/name/nm0887769/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Anthony Schatteman",
+      "url": "https://www.imdb.com/name/nm3885019/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Anthony Schatteman",
+      "url": "https://www.imdb.com/name/nm3885019/"
+    }
+  ]
+}

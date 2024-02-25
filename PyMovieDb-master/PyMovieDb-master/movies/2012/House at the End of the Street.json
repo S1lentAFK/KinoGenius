@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "House at the End of the Street",
+  "url": "https://www.imdb.com/tt1582507/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIxNTUwNTU4N15BMl5BanBnXkFtZTcwNTE0MTI3Nw@@._V1_.jpg",
+  "description": "After moving with her mother to a small town, a teenager finds that an accident happened in the house at the end of the street. Things get more complicated when she befriends a boy. A double murder is not an accident.",
+  "review": {
+    "author": "bowmanblue",
+    "dateCreated": "2014-11-30",
+    "inLanguage": "English",
+    "heading": "Official: Jennifer Lawrence can sell ANYTHING",
+    "reviewBody": "In case you close your eyes every time Hollywood is mentioned, you might not know that Jennifer Lawrence was in The (hugely profitable) Hunger Games. She&apos;s currently Tinseltown&apos;s darling and, judging by this film, can sell anything.\\n\\nThe House at the End of the Street is about a teenage girl and her mother, who move into a house next to one where some murders were committed a while back. The teenage boy who witnessed said killings still lives there. Let the creepiness commence.\\n\\nThere is nothing &apos;supernatural&apos; about this film, it&apos;s a sort of horror/thriller with teenage leads. And that&apos;s the most important part. Whereas Twilight was a vampire story for teens and The Hunger Games was a Battle Royale/Running Man for teens. The House at the End of the Street is a horror/thriller for teens. I&apos;m sure plenty of 15+ people will enjoy it too, but I&apos;m going to stick my neck out and guess that its primary fanbase will be around the 15 years of age mark.\\n\\nI&apos;ve seen a lot of these times of horror/thrillers. Perhaps that&apos;s my problem. I know every scare and twist going (and can therefore predict them a mile off). However, if I hadn&apos;t watched many of these sorts of films, I&apos;m sure I would enjoy it much, much more. Basically, to seasoned and cynical cinema-goers such as myself, this film offers nothing new. It conforms to every clich\\u00e9 going, yet it was pretty damn successful, proving that Jennifer Lawrence is one hell of a box office draw. Fair play to it for finding an audience - I just don&apos;t think many people will get much out of this is (a) they have seen plenty of these type of films before and (b) if they&apos;re not in the &apos;Twilight generation.&apos; Oh, and don&apos;t get me started on the actual NAME of the film. Even fans of the film must admit that whatever Hollywood writer picked it was having a really slack and lazy day. Seriously...",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 80946,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2012-09-21",
+  "keywords": "murder,dead body in a car trunk,female captive,woods,divorce",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Jennifer Lawrence",
+      "url": "https://www.imdb.com/name/nm2225369/"
+    },
+    {
+      "name": "Elisabeth Shue",
+      "url": "https://www.imdb.com/name/nm0000223/"
+    },
+    {
+      "name": "Max Thieriot",
+      "url": "https://www.imdb.com/name/nm1302735/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mark Tonderai",
+      "url": "https://www.imdb.com/name/nm0867127/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Loucka",
+      "url": "https://www.imdb.com/name/nm0521649/"
+    },
+    {
+      "name": "Jonathan Mostow",
+      "url": "https://www.imdb.com/name/nm0609236/"
+    }
+  ]
+}

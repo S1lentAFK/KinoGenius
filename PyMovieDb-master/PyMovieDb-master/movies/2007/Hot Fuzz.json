@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hot Fuzz",
+  "url": "https://www.imdb.com/tt0425112/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzg4MDJhMDMtYmJiMS00ZDZmLThmZWUtYTMwZDM1YTc5MWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "description": "A skilled London police officer, after irritating superiors with his embarrassing effectiveness, is transferred to a village where the easygoing officers object to his fervor for regulations, as a string of grisly murders strikes ...",
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Mystery"
+  ],
+  "datePublished": "2007-02-16",
+  "keywords": "police officer,workaholic,village,police,murder",
+  "duration": "PT2H1M",
+  "actor": [
+    {
+      "name": "Simon Pegg",
+      "url": "https://www.imdb.com/name/nm0670408/"
+    },
+    {
+      "name": "Nick Frost",
+      "url": "https://www.imdb.com/name/nm0296545/"
+    },
+    {
+      "name": "Martin Freeman",
+      "url": "https://www.imdb.com/name/nm0293509/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Edgar Wright",
+      "url": "https://www.imdb.com/name/nm0942367/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Edgar Wright",
+      "url": "https://www.imdb.com/name/nm0942367/"
+    },
+    {
+      "name": "Simon Pegg",
+      "url": "https://www.imdb.com/name/nm0670408/"
+    }
+  ],
+  "review": {
+    "author": "bkoganbing",
+    "dateCreated": "2011-09-04",
+    "inLanguage": "English",
+    "heading": "A Town Like Stepford, oops Sandford",
+    "reviewBody": "This film did not get too much play in the USA and I count myself fortunate that I&apos;m close enough to the Canadian border to get these occasional gems broadcast from the CBC. Lucky indeed that the CBC is part of my cable package.\\n\\nSimon Pegg is a too good to be true London police officer who is wracking up arrests and making his colleagues look shameful. It&apos;s decided that the place to go to cool that zeal off a bit is the quiet and peaceful rural town of Sandford. In the United Kingdom it&apos;s the most crime free zone in the whole country.\\n\\nIn fact Pegg looks like he&apos;s going to die of sheer boredom. He makes four collars for minor offenses even before he officially is on the job there. It looks like he is not going to be a good fit for this quiet town. The only friend that Pegg has on the Sandford PD is Nick Frost, the somewhat oafish son of Broadbent whom Pegg is assigned as a partner. Frost who just loves American action flicks with guns and car chases would love for there to be something afoot.\\n\\nThe story behind Hot Fuzz is really quite bizarre and you&apos;d have to go to the American film The Stepford Wives for a comparison. There are no experiments going on to turn the Sandford women into docile feminine drones, it&apos;s a mindset that has taken control of the place. The most sinister character is that of Timothy Dalton who is very much like the Arthur Hill character in The Stepford Wives.\\n\\nThis sleeper of a black comedy is really quite a gem. I hope that Hot Fuzz gets discovered on this side of the pond.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 531998,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  }
+}

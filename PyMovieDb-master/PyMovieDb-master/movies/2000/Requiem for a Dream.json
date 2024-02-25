@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "Requiem for a Dream",
+  "url": "https://www.imdb.com/tt0180093/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "description": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+  "review": {
+    "author": "mikerudakov",
+    "dateCreated": "2020-08-01",
+    "inLanguage": "English",
+    "heading": "Powerful and Unforgettable.",
+    "reviewBody": "Fantastic, Oscar Worthy Acting. Beautiful Directing. Must Watch.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 891864,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.3
+  },
+  "contentRating": "18",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2001-01-19",
+  "keywords": "drug addiction,heroin,sex show,addiction,sex scene",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Ellen Burstyn",
+      "url": "https://www.imdb.com/name/nm0000995/"
+    },
+    {
+      "name": "Jared Leto",
+      "url": "https://www.imdb.com/name/nm0001467/"
+    },
+    {
+      "name": "Jennifer Connelly",
+      "url": "https://www.imdb.com/name/nm0000124/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Darren Aronofsky",
+      "url": "https://www.imdb.com/name/nm0004716/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Hubert Selby Jr.",
+      "url": "https://www.imdb.com/name/nm0782968/"
+    },
+    {
+      "name": "Darren Aronofsky",
+      "url": "https://www.imdb.com/name/nm0004716/"
+    }
+  ]
+}

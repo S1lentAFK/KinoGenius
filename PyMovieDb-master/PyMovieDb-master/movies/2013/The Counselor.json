@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Counselor",
+  "url": "https://www.imdb.com/tt2193215/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc3ODk0MTY0N15BMl5BanBnXkFtZTgwOTU2MTEzMDE@._V1_.jpg",
+  "description": "A lawyer finds himself in over his head when he gets involved in drug trafficking.",
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "datePublished": "2013-11-15",
+  "keywords": "amsterdam netherlands,drug smuggling,binoculars,severed head,no panties",
+  "duration": "PT1H57M",
+  "actor": [
+    {
+      "name": "Michael Fassbender",
+      "url": "https://www.imdb.com/name/nm1055413/"
+    },
+    {
+      "name": "Pen\u00e9lope Cruz",
+      "url": "https://www.imdb.com/name/nm0004851/"
+    },
+    {
+      "name": "Cameron Diaz",
+      "url": "https://www.imdb.com/name/nm0000139/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ridley Scott",
+      "url": "https://www.imdb.com/name/nm0000631/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Cormac McCarthy",
+      "url": "https://www.imdb.com/name/nm0565092/"
+    }
+  ],
+  "review": {
+    "author": "kosmasp",
+    "dateCreated": "2014-06-14",
+    "inLanguage": "English",
+    "heading": "Expectations",
+    "reviewBody": "I'm not sure what most people were expecting, but it's obvious the movie did not meet whatever that was. If you have so many big names in one movie, those expectations can get very heavy obviously. Still this movie is really good, just not on what some thought it promised them. I haven't seen the trailer yet, but I know those trailers can be deceiving as well as promoting something.\nThe movie has a very philosophical strain and can be watched a couple of times. There is also a sexual tone that some might find disturbing (especially the car window thing, you'll know when you watch it), but it's all about dominance. And it's about life choices and planting things that you will for better or worse reap ... not everyones cup of tea, but a very strong movie nevertheless.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 105555,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  }
+}

@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Marigold",
+  "url": "https://www.imdb.com/tt0329354/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzQ5ODAwMDktNzViMy00NGQyLWFhOTQtMmJkZjA0MTUxNmY0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "description": "Ali Larter plays an American actress who becomes immersed in the Bollywood film world.",
+  "review": {
+    "author": "Chrysanthepop",
+    "dateCreated": "2008-01-10",
+    "inLanguage": "English",
+    "heading": "Ali Larter shines in this Bolly-Holly mess!",
+    "reviewBody": "'Marigold' is pretty much one of those typical bad Bollywood films with all the ingredients of exotic locations, excessive songs, over the top drama and acting, disapproving parents...etc etc. While I mentioned the exotic locations, they are beautifully shown here. I particularly liked how Goa looked somewhat different from other films. The songs are totally forgettable.\\n\\nI wonder how many bad Bollywood films Carroll watched and copied to make this mess. Even the actors seem to be in a state of 'I can't believe I'm in a Hollywood film'. For example, take a look at Salman Khan who's grinning all through the film. It wouldn't take more than a second for one to bet that his thoughts were 'God! I'm actually working with a Hollywood star'. Ditto for the rest of the cast. Nandana Sen is especially funny (unintentionally of course) as she reminds me of a chicken.\\n\\nNow let's get to the one person that makes 'Marigold' somewhat watchable. Ali Larter. The actress looks drop dead gorgeous in the traditional Indian outfits, she's spot on in the comic scenes and she really seems to have gotten under the skin of the character. I also liked how she gracefully performed the Bollywood dances, especially in the item number that takes place in the middle of the film where she's dancing with Raj and his co-star. The way she conveys her feelings to Salman's character in that same song is superb. 'Wouldn't mind watching her in more Hindi films although she's already doing great for herself in Hollywood. So if there is anything at all to look our for in this film, then it's Miss Larter. She's far from the typical caricature blonde white girl seen in the usual Bollywood films.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 2066,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Music",
+    "Romance"
+  ],
+  "datePublished": "2007-08-17",
+  "keywords": "blonde,character name as title,forename as title,one word title,interracial romance",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Salman Khan",
+      "url": "https://www.imdb.com/name/nm0006795/"
+    },
+    {
+      "name": "Ali Larter",
+      "url": "https://www.imdb.com/name/nm0005123/"
+    },
+    {
+      "name": "Nandana Sen",
+      "url": "https://www.imdb.com/name/nm0222138/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Willard Carroll",
+      "url": "https://www.imdb.com/name/nm0141033/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Willard Carroll",
+      "url": "https://www.imdb.com/name/nm0141033/"
+    }
+  ]
+}

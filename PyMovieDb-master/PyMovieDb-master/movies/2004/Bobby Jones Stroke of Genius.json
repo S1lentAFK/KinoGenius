@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Bobby Jones: Stroke of Genius",
+  "url": "https://www.imdb.com/tt0375104/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQxMzk1MTY4OV5BMl5BanBnXkFtZTYwMDM0MzE3._V1_.jpg",
+  "description": "Jim Caviezel stars as golf legend Bobby Jones, the icon who retired from competition at the tender age of 28.",
+  "contentRating": "PG",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2004-04-30",
+  "keywords": "outdoor sport,legend,golf,temper,competition",
+  "duration": "PT2H3M",
+  "actor": [
+    {
+      "name": "Jim Caviezel",
+      "url": "https://www.imdb.com/name/nm0001029/"
+    },
+    {
+      "name": "Claire Forlani",
+      "url": "https://www.imdb.com/name/nm0001231/"
+    },
+    {
+      "name": "Jeremy Northam",
+      "url": "https://www.imdb.com/name/nm0000562/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rowdy Herrington",
+      "url": "https://www.imdb.com/name/nm0380705/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Rowdy Herrington",
+      "url": "https://www.imdb.com/name/nm0380705/"
+    },
+    {
+      "name": "Kim Dawson",
+      "url": "https://www.imdb.com/name/nm0206175/"
+    },
+    {
+      "name": "Bill Pryor",
+      "url": "https://www.imdb.com/name/nm0699386/"
+    }
+  ],
+  "review": {
+    "author": "pied",
+    "dateCreated": "2005-05-13",
+    "inLanguage": "English",
+    "heading": "A Gentleman and a Great Golfer!",
+    "reviewBody": "My dad loved golf, and I wish I did. Unfortunately, I&apos;m like my mom--as unathletic as you can get. But I enjoyed this film about the greatest amateur golfer who ever lived.\\n\\nBobby Jones didn&apos;t do it for the money. Isn&apos;t that an anachronism in this sports-crazed age of million dollar salaries! Bobby&apos;s record as the only golfer to win the big three of golf tournaments still stands. He walked away from it after this accomplishment to devote his life to his family.\\n\\nI really like this movie. It portrayed a time when values meant something. Jim Caviezel does a great job as do the rest of the cast. The guy who plays Jones&apos; arch rival, Walter Kagan almost steals the movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 4095,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  }
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Rio 2",
+  "url": "https://www.imdb.com/tt2357291/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgzMDczMDYzNl5BMl5BanBnXkFtZTgwMzk2MDIwMTE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "LloydBayer",
+    "dateCreated": "2014-04-10",
+    "inLanguage": "English",
+    "heading": "Even if Rio 2 seems preachy, it is still a gorgeously rendered animation that celebrates song and dance through a kaleidoscopic burst of colors.",
+    "reviewBody": "As a sequel to the 2011 original, Rio 2 continues in the tradition of its older sibling with screwball humor and madcap mischief. While maintaining a pedigree for celebrating song and dance through a kaleidoscopic burst of colors, Rio 2 is gorgeously rendered but offset by a clich\\u00e9d script that is also laced with classroom lecture.\\n\\nThis sequel begins in Rio de Janeiro where our feathered friends Blu and Jewel (Jesse Eisenberg and Anne Hathaway) discover that they are not the last of their species after all. Along with their three kids, they leave Rio and fly to the Amazonian rain forest where an entire flock of blue macaws was reportedly spotted. As it turns out, the flock exists and is headed by Jewel&apos;s long lost father Eduardo (Andy Garcia) and guarded by her old flame Roberto (Bruno Mars). Now reduced to a stuttering parrot, Blu must man-up to his overzealous father-in-law (think Robert De Niro in Meet the Parents) while thwarting Roberto&apos;s attempts (think Owen Wilson in Meet the Parents) at charming Jewel. Meanwhile, Blu&apos;s nemesis Nigel (Jemaine Clement) has resurfaced and is all out for revenge.\\n\\nCome school days and kids will have plenty of reason to mimic their favorite characters. From human characters voiced by Rodrigo Santoro and Leslie Mann, to Blu&apos;s crooning friends Nico (Jamie Foxx), Pedro (Will.i.am), everyone is back for a second round of slapstick shenanigans. And joining the old cast are some feisty new voice talents including Kristin Chenoweth as Gabi, a poisonous dart-frog so obsessed with Nigel, you could even think of her as his psycho girlfriend. Haunted by a disastrous turn of events in the first movie, Nigel himself is loonier than before with a thespian swagger that pokes fun at none other than the Bard of Avon. Speaking of which, lookout for a hilarious scene aimed at adults where Nigel and Gabi find themselves dramatizing one of Shakespeare&apos;s greatest plays. While many such segments are genuinely funny, the story strays at times with subplots from deforestation to male bonding, before stepping into a puddle of teary-eyed melodrama. Kids laughed and adults clapped, but there were periods of silence too, and I am not referring to those brief scenes where death was implied.\\n\\nEmerging as a game changer in animated films, Blue Sky Studios, a subsidiary of 20th Century Fox, struck gold with its very first feature production \\u2013 Ice Age (2002). It&apos;s been tunneling through a gold mine ever since. While Rio 2 might seem like a cash cow for some viewers, it is still a delightful animation with foot-tapping music to get your groove on. And like a Gloria Gaynor hit song performed by Clement&apos;s Nigel, there is every reason to believe this sequel will survive.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 99467,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2014-04-04",
+  "keywords": "father son relationship,dog,tomboy,heroine,south america",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Jesse Eisenberg",
+      "url": "https://www.imdb.com/name/nm0251986/"
+    },
+    {
+      "name": "Anne Hathaway",
+      "url": "https://www.imdb.com/name/nm0004266/"
+    },
+    {
+      "name": "Jemaine Clement",
+      "url": "https://www.imdb.com/name/nm1318596/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Carlos Saldanha",
+      "url": "https://www.imdb.com/name/nm0757858/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Don Rhymer",
+      "url": "https://www.imdb.com/name/nm0722610/"
+    },
+    {
+      "name": "Carlos Kotkin",
+      "url": "https://www.imdb.com/name/nm6423183/"
+    },
+    {
+      "name": "Jenny Bicks",
+      "url": "https://www.imdb.com/name/nm0081081/"
+    }
+  ]
+}

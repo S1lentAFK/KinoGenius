@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Good Hair",
+  "url": "https://www.imdb.com/tt1213585/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg0Mjk3OTgwNl5BMl5BanBnXkFtZTcwMTgwOTg3Mg@@._V1_.jpg",
+  "description": "Chris Rock explores the wonders of African-American hairstyles.",
+  "contentRating": "12A",
+  "genre": [
+    "Documentary",
+    "Comedy"
+  ],
+  "datePublished": "2010-06-25",
+  "keywords": "tv commercial,the white house washington d.c.,satire comedy,hair,self image",
+  "duration": "PT1H36M",
+  "rating": {
+    "ratingCount": 6198,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "review": {
+    "author": "id23401",
+    "dateCreated": "2009-11-16",
+    "inLanguage": "English",
+    "heading": "A light documentary on an interesting topic",
+    "reviewBody": "Chris Rock provides a good snapshot of the hair culture of African-American women. Various aspects of the movie are entertaining, amusing, or saddening, depending on how one views them.\\n\\nI have heard people criticize the movie&apos;s lack of depth in the analysis of topics like economic exploitation with regard to hair products, and sociological issues around the use of these products. However, such detailed analysis would not be very meaningful without the general background that is provided in this movie.\\n\\nThis movie was a good, light documentary on a topic that interested me and had not been discussed before.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Chris Rock",
+      "url": "https://www.imdb.com/name/nm0001674/"
+    },
+    {
+      "name": "Maya Angelou",
+      "url": "https://www.imdb.com/name/nm0029723/"
+    },
+    {
+      "name": "Al Sharpton",
+      "url": "https://www.imdb.com/name/nm0789314/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeff Stilson",
+      "url": "https://www.imdb.com/name/nm0830352/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Chris Rock",
+      "url": "https://www.imdb.com/name/nm0001674/"
+    },
+    {
+      "name": "Jeff Stilson",
+      "url": "https://www.imdb.com/name/nm0830352/"
+    },
+    {
+      "name": "Lance Crouther",
+      "url": "https://www.imdb.com/name/nm0189504/"
+    }
+  ]
+}

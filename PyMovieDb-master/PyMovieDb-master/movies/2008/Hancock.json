@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hancock",
+  "url": "https://www.imdb.com/tt0448157/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgyMzc4ODU3NV5BMl5BanBnXkFtZTcwNjk5Mzc1MQ@@._V1_.jpg",
+  "description": "Hancock is a superhero whose ill-considered behavior regularly causes damage in the millions. He changes when the person he saves helps him improve his public image.",
+  "review": {
+    "author": "TheLittleSongbird",
+    "dateCreated": "2011-12-17",
+    "inLanguage": "English",
+    "heading": "Brilliant idea and great idea, but a classic example of the first half being much better than the second",
+    "reviewBody": "What drew me into seeing Hancock in the first place was its idea, which I found one of the most interesting for a film in a while. I am in all honesty not a big fan of Will Smith, but he has given some solid performances so I thought why not.\\n\\nI have to say that I didn't think Hancock was a bad film as such, it was somewhat underwhelming and I'm sorry to say I do understand the criticisms against it.\\n\\nHancock does have a fair number of good points. It is stylishly filmed, with some well above average special effects, the music is dynamic and the directing is solid. The best asset about Hancock is the acting of the three leads.\\n\\nWill Smith is very commanding, with a lot of subtlety amongst all the wisecracks/gags that don't feel forced(ie.flying under the influence). Charlize Theron shows a glowing presence while also showing a sympathetic side, and Jason Bateman's dry humour contrasts perfectly too.\\n\\nHowever, Hancock is a very uneven film. I loved the first half, it was well paced, the script was witty and fresh and the scene where the titular character brings a speeding train to a halt as he can't be bothered to lift the car up from its path is one of the better and relevant scenes of the film.\\n\\nIt is in the second half where Hancock is less than successful. Here the film starts to drag, the script becomes soapy and heavily melodramatic and the film has one of the daftest twists of any film not to have M Night Shyamalan's name on it.\\n\\nThe story's tone isn't the only asset to feel uneven, the script is too, it has wit and freshness in the first half, but becomes mawkish in the second. I also felt that there were only three likable characters(Smith's, Theron's and Bateman's) and the others I barely noticed, with the villain especially flat.\\n\\nSo all in all, an uneven film but not a necessarily bad one. 5/10 Bethany Cox",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 508496,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2008-07-02",
+  "keywords": "black superhero,non comic book superhero,superhuman strength,tough girl,destruction",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Will Smith",
+      "url": "https://www.imdb.com/name/nm0000226/"
+    },
+    {
+      "name": "Charlize Theron",
+      "url": "https://www.imdb.com/name/nm0000234/"
+    },
+    {
+      "name": "Jason Bateman",
+      "url": "https://www.imdb.com/name/nm0000867/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Berg",
+      "url": "https://www.imdb.com/name/nm0000916/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Vy Vincent Ngo",
+      "url": "https://www.imdb.com/name/nm1378206/"
+    },
+    {
+      "name": "Vince Gilligan",
+      "url": "https://www.imdb.com/name/nm0319213/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "The King Is Alive",
+  "url": "https://www.imdb.com/tt0208911/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmVlY2E2M2YtYWY4Zi00Y2EzLTk3MjYtYTI2Mzk2ZDllZjY5XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "joaofds",
+    "dateCreated": "2003-09-30",
+    "inLanguage": "English",
+    "heading": "A brilliant and yet cruel tale of the human condition by the words of Shakespeare's King Lear.",
+    "reviewBody": "A brilliant and yet cruel tale of the human condition by the words of Shakespeare's King Lear. The true nature of this film is in the relationship between the rawness of the desert and the fragility of the social being. Amazingly, the spirit of the desert witnesses the demise of a group of people who are facing death, acting Shakespeare to deceive it and ironically get deceived by fate itself at the end. The realistic notion, given by hand-held camera as well by the wonderful colors captured, will dive one's in the crucial themes of the movie: death, love and hope.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 1995,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2001-05-11",
+  "keywords": "desert,tragedy,stage play,dogme 95,bus",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Miles Anderson",
+      "url": "https://www.imdb.com/name/nm0027215/"
+    },
+    {
+      "name": "Romane Bohringer",
+      "url": "https://www.imdb.com/name/nm0001960/"
+    },
+    {
+      "name": "David Bradley",
+      "url": "https://www.imdb.com/name/nm0103195/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kristian Levring",
+      "url": "https://www.imdb.com/name/nm0506290/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William Shakespeare",
+      "url": "https://www.imdb.com/name/nm0000636/"
+    },
+    {
+      "name": "Kristian Levring",
+      "url": "https://www.imdb.com/name/nm0506290/"
+    },
+    {
+      "name": "Anders Thomas Jensen",
+      "url": "https://www.imdb.com/name/nm0421314/"
+    }
+  ]
+}

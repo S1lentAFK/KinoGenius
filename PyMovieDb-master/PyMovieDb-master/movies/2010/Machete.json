@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Machete",
+  "url": "https://www.imdb.com/tt0985694/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWUxODc2NmItNThkNS00Mzc4LThlYTQtOTYwZjVhYjRiNmMwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "mike-3842",
+    "dateCreated": "2010-09-06",
+    "inLanguage": "English",
+    "heading": "Why is this not billed as a comedy?",
+    "reviewBody": "When I saw the trailer for this film I thought it had to be trash but I laughed almost from the beginning to the end. Tongue in cheek humour - it&apos;s all intentional, there is nothing unfunny about Machete.\n\nI was ready for a lot of gore but it was all done in such a hilarious way that I hardly noticed how disgusting it was. I fact, I was still laughing 5 minutes after I left the cinema.\n\nIf he wasn&apos;t already so old I would say Danny Trejo was an undiscovered talent set for a meteoric rise, but the guy is already 64. I never could have guessed as the adrenaline and action pumped incessantly.... and hysterically this weather-beaten old dude also managed effortlessly to bed any chiquita he came across, and in style too.\n\nMachete kills and maims and has sex all the way through the movie, but amazingly he is also a gentleman. you have to love him.\n\nThe best movie I have seen this year and the best movie of this genre for some time. Top marks for not taking itself one bit seriously but knowing exactly how to entertain!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 203409,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "2010-11-26",
+  "keywords": "machete,mexican,texas,mexico,priest",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Danny Trejo",
+      "url": "https://www.imdb.com/name/nm0001803/"
+    },
+    {
+      "name": "Michelle Rodriguez",
+      "url": "https://www.imdb.com/name/nm0735442/"
+    },
+    {
+      "name": "Robert De Niro",
+      "url": "https://www.imdb.com/name/nm0000134/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ethan Maniquis",
+      "url": "https://www.imdb.com/name/nm0542450/"
+    },
+    {
+      "name": "Robert Rodriguez",
+      "url": "https://www.imdb.com/name/nm0001675/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Rodriguez",
+      "url": "https://www.imdb.com/name/nm0001675/"
+    },
+    {
+      "name": "Álvaro Rodríguez",
+      "url": "https://www.imdb.com/name/nm0736155/"
+    }
+  ]
+}

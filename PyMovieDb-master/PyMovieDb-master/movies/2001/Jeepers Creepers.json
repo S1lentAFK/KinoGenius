@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Jeepers Creepers",
+  "url": "https://www.imdb.com/tt0263488/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkwNDU0NTE0OV5BMl5BanBnXkFtZTgwNzAzNzQyMTI@._V1_.jpg",
+  "description": "A brother and sister driving home through isolated countryside for spring break encounter a flesh-eating creature which is in the midst of its ritualistic eating spree.",
+  "review": {
+    "author": "amandagellar-31077",
+    "dateCreated": "2019-04-01",
+    "inLanguage": "English",
+    "heading": "Half A Terrifying Movie",
+    "reviewBody": "Jeepers Creepers had me! It had me the way so few horror films have ever had me. For about 30/45 minutes, I couldn't move - I was paralyzed with pure fear. The mood was thick, the threat was frightening, the characters were pretty well drawn, the acting was good - everything was going swell.\n\nAnd then the creature feature silliness starts.\n\nIt's a shame that Jeepers Creepers can't keep its energy up to a satisfying finale. Maybe people's mileage will vary. Personally, I'm not too scared by a creature that sprouts wings and flies off with people. It's just too goofy for me. It's a lot scarier to think that this creature might be something even spookier. Maybe if they'd kept the creature in the shadows more, it would have been scarier to me.\n\nStill, the first act is one of the most terrifying things I've ever seen in my life and that's got to count for something.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 141234,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2001-10-19",
+  "keywords": "demon,wings,record player,eaten alive,scarecrow",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Gina Philips",
+      "url": "https://www.imdb.com/name/nm0005312/"
+    },
+    {
+      "name": "Justin Long",
+      "url": "https://www.imdb.com/name/nm0519043/"
+    },
+    {
+      "name": "Jonathan Breck",
+      "url": "https://www.imdb.com/name/nm0106534/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Victor Salva",
+      "url": "https://www.imdb.com/name/nm0759207/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Victor Salva",
+      "url": "https://www.imdb.com/name/nm0759207/"
+    }
+  ]
+}

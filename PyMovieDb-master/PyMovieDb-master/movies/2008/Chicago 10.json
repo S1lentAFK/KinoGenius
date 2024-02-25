@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Chicago 10",
+  "url": "https://www.imdb.com/tt0905979/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgzNjY5NDkxMF5BMl5BanBnXkFtZTcwNTE1OTc1MQ@@._V1_.jpg",
+  "description": "Archival footage, animation, and music are used to look back at the eight anti-war protesters who were put on trial following the 1968 Democratic National Convention.",
+  "review": {
+    "author": "bobcolganrac",
+    "dateCreated": "2008-12-09",
+    "inLanguage": "English",
+    "heading": "Well Done Effort!",
+    "reviewBody": "I am not usually a fan of added-in animation. There are a few movies, Pink Floyd&apos;s extraordinary antiWar film &apos;The Wall&apos; one of them, in which the animation provides graphic imagery to enhance the surreal feeling for the viewer. But in that movie the imagery is mostly a nod to Jungian archetypes morphing as it does from animal form to out-of-control mechanical killing machines. There are times when it works beautifully to complement the protagonist&apos;s suicidal angst, and times when it doesn&apos;t work as well, but it meshes well with the score to heighten the mood of the music. \\n\\nIn &apos;Chicago 10&apos; the animation provides the courtroom re-enactment to fill in the gap of not having actual courtroom video. The actual human beings are rendered in cartoon form. \\n\\nDoes it succeed?-- for me it isn&apos;t as powerful as having live actors either impersonate or interpolate the roles of the courtroom persona. I think for me it would have worked better to have re-done those scenes with actors. But . . . \\n\\nBut I want to say how powerful the movie is. . . I knew the outcome, I am of that time----but the tension continued to accumulate as the trial and the actual scenes wove a story of an overview of America in the heartland in 1968.\\n\\nThis should be required viewing for anyone born after 1965 and maybe earlier. It has always been difficult for me to describe to my children how polarized the nation was during this period... I&apos;ve never felt I could generate for them that vicarious tension necessary for understanding. This movie accomplishes that. The animation isn&apos;t to my taste--but it works nonetheless. Would it have been more powerful if real actors were used for the court scenes?? Maybe. And maybe it is that cartoonish abstraction from reality that the filmmakers were trying to achieve, at an event which perfectly embodied the insanity of those who were siding with militarism while it was killing their own. There is enough actual video used to allow a lot of the film to show us the people involved as they were then, and what happened to them, with the animation overlaying. \\n\\nI think that more footage of the Vietnam war, the obscene news footage that Americans were exposed to nightly, might have been useful too, in recreating the ambiance of that time. Quite the contrast to the sanitized photojournalism of the current war in Iraq which stays conveniently and purposefully out of view, out of mind for American citizens since 2003, the Vietnam drama took place live in primetime, and the shockingly visceral quality of that televised carnage finally overcame the credibility of government rhetoric about stopping the Red menace. \\n\\nThank you for this look, and feeling, back in time. Well done.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 1418,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "R",
+  "genre": [
+    "Documentary",
+    "Animation",
+    "History"
+  ],
+  "datePublished": "2008-05-29",
+  "keywords": "1960s,united states of america,convention,august,summer",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Jeffrey Wright",
+      "url": "https://www.imdb.com/name/nm0942482/"
+    },
+    {
+      "name": "Nick Nolte",
+      "url": "https://www.imdb.com/name/nm0000560/"
+    },
+    {
+      "name": "Roy Scheider",
+      "url": "https://www.imdb.com/name/nm0001702/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brett Morgen",
+      "url": "https://www.imdb.com/name/nm0605137/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brett Morgen",
+      "url": "https://www.imdb.com/name/nm0605137/"
+    }
+  ]
+}

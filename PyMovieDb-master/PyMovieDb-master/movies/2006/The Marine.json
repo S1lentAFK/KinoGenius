@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Marine",
+  "url": "https://www.imdb.com/tt0419946/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTE5OTU4NjQwMl5BMl5BanBnXkFtZTcwODI1ODYzMQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "walken_on_sunshine",
+    "dateCreated": "2006-11-13",
+    "inLanguage": "English",
+    "heading": "The Marine:The Doc's Review",
+    "reviewBody": "The Marine is just a silly film by WWE simply to entertain it's fan base and further it's empire.For one to judge The Marine you need to take into account that this film was intended to entertain action fans with a no brainer,cheesy,action,popcorn flick and as a popcorn flick The Marine succeeds.John Cena is actually a good actor and he played his invincible,heroic,one man strike force character to perfection as did Robert Patrick with his absolutely hilarious character.The Marine has the most unbelievable stunts and at some times they are almost unbearably bad.The fight sequences are great,very intense,very hardcore, but the explosions and special effects are brutally unrealistic and cheesy.The film also has some of the most annoying,campy,corny, dialog ever captured on film.It's so bad you feel like you're re-watching 1997's Batman and Robin.As a follower of pro wrestling I'm aware that John Cena currently has a love/hate relationship with WWE fans.Females and Adolescents love Cena while Males hate him.My guess is that The Marine was made in order to change male fans opinions by making an action film that generally appeals to them.However judging by the overall IMDb rating WWE failed to do so.I wouldn't necessarily say THe Marine is a bad film but it is incomparable and can't compete with mainstream action films like The Transporter,Crank,or District B13 however if you enjoy direct to DVD action flicks that have a thin storyline but some great action scenes like Special Forces or Belly Of The Beast than The Marine is more suited to you.It's definitely not the worst film ever made and I think for the most part it's because it doesn't take itself seriously and admits it's a popcorn flick.Overall The Marine is just silly action much like wrestling and much like wrestling the characters are whacky and at times unbelievable.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 35635,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2007-05-07",
+  "keywords": "beating,tied up,muscleman,tough guy,dark comedy",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "John Cena",
+      "url": "https://www.imdb.com/name/nm1078479/"
+    },
+    {
+      "name": "Kelly Carlson",
+      "url": "https://www.imdb.com/name/nm1023018/"
+    },
+    {
+      "name": "Robert Patrick",
+      "url": "https://www.imdb.com/name/nm0001598/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Bonito",
+      "url": "https://www.imdb.com/name/nm1669022/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michelle Gallagher",
+      "url": "https://www.imdb.com/name/nm1511698/"
+    },
+    {
+      "name": "Alan B. McElroy",
+      "url": "https://www.imdb.com/name/nm0568416/"
+    }
+  ]
+}

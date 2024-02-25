@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Conan the Barbarian",
+  "url": "https://www.imdb.com/tt0082198/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWYwZGU1N2UtNTU5My00ZTVkLThjZDktZTQzZmEyMzZjMTdmXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": "A young boy, Conan, becomes a slave after his parents are killed and tribe destroyed by a savage warlord and sorcerer, Thulsa Doom. When he grows up he becomes a fearless, invincible fighter. Set free, he plots revenge against Thu...",
+  "review": {
+    "author": "General_Cromwell",
+    "dateCreated": "2002-08-31",
+    "inLanguage": "English",
+    "heading": "something of a mixed bag",
+    "reviewBody": "It took a long time for Robert E Howard's wonderful creation to make it to the big screen,and the result is something of a mixture.Some of Conan is very impressive,with the atmosphere of Howard's writing perfectly captured on screen,but some of the film is badly misjudged,with daft moments,botched action,and an uneven performance from schwarzenneger.He looks the part but in some scenes comes across as a muscle bound buffoon.Something the literary hero definitely wasn't.The story is ok,apart from having Conan spend half his life chained to the wheel of pain!But it's a dissapointing script,considering greats Milius and Oliver Stone wrote it.There are some excellent sequences in the film though,that are beautifully photographed.The opening attack on conans village is impressive,and Conans encounter with a weird witch is pretty good.But best of all is the orgy sequence,where the action,sets,and music blend together perfectly.It's like a Frank Frazetta painting come to life!The climactic battle of the mounds is ok,but it's all over far to quickly.The film does look good with some gorgeous photography,and set design.Best of all though,is the music by Basil Poledouris.This is an absolutely stunning score,that really captures the savage world of Conan.I'll stick my neck out and say that it's the best film soundtrack ever composed!General Cromwell,over and out.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 161174,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "1982-08-26",
+  "keywords": "evil sorcerer,sword and sorcery,female frontal nudity,cult,warlord",
+  "duration": "PT2H9M",
+  "actor": [
+    {
+      "name": "Arnold Schwarzenegger",
+      "url": "https://www.imdb.com/name/nm0000216/"
+    },
+    {
+      "name": "James Earl Jones",
+      "url": "https://www.imdb.com/name/nm0000469/"
+    },
+    {
+      "name": "Max von Sydow",
+      "url": "https://www.imdb.com/name/nm0001884/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Milius",
+      "url": "https://www.imdb.com/name/nm0587518/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert E. Howard",
+      "url": "https://www.imdb.com/name/nm0397574/"
+    },
+    {
+      "name": "John Milius",
+      "url": "https://www.imdb.com/name/nm0587518/"
+    },
+    {
+      "name": "Oliver Stone",
+      "url": "https://www.imdb.com/name/nm0000231/"
+    }
+  ]
+}

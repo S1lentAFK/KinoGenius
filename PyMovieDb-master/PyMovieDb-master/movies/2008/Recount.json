@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Recount Democracy",
+  "url": "https://www.imdb.com/tt6352512/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2M3MTA4YTAtNWE0My00ZTYxLWFmYjUtNzA0N2I5ZGEyMzRjXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+  "description": "Forget the hanging chads and butterfly ballots. The Presidential 2000 election is still a mystery to most Americans. What actually happened with the 180,000 uncounted Florida votes that would have elected Vice President Al Gore? A...",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 7,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Documentary",
+    "Biography",
+    "History"
+  ],
+  "datePublished": null,
+  "keywords": "washington d.c.,the white house washington d.c.,democratic party,government,political candidate",
+  "duration": "PT1H17M",
+  "actor": [
+    {
+      "name": "Al Gore",
+      "url": "https://www.imdb.com/name/nm0330722/"
+    },
+    {
+      "name": "George W. Bush",
+      "url": "https://www.imdb.com/name/nm0124133/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Danny Schechter",
+      "url": "https://www.imdb.com/name/nm0770357/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Faye M. Anderson",
+      "url": "https://www.imdb.com/name/nm8658644/"
+    },
+    {
+      "name": "Danny Schechter",
+      "url": "https://www.imdb.com/name/nm0770357/"
+    }
+  ]
+}

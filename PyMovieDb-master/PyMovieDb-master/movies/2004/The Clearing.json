@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Clearing",
+  "url": "https://www.imdb.com/tt0331952/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWViMWFjYzItZWVkZS00YjhmLWJiNzktZDM0M2UwYmUzYTY4XkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "MichaelMargetis",
+    "dateCreated": "2005-04-02",
+    "inLanguage": "English",
+    "heading": "Well Acted, Well Crafted and Yet a Little Disappointing.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 14326,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2004-09-03",
+  "keywords": "ransom,fbi federal bureau of investigation,wife,forest,marriage",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Robert Redford",
+      "url": "https://www.imdb.com/name/nm0000602/"
+    },
+    {
+      "name": "Willem Dafoe",
+      "url": "https://www.imdb.com/name/nm0000353/"
+    },
+    {
+      "name": "Helen Mirren",
+      "url": "https://www.imdb.com/name/nm0000545/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Pieter Jan Brugge",
+      "url": "https://www.imdb.com/name/nm0115764/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Pieter Jan Brugge",
+      "url": "https://www.imdb.com/name/nm0115764/"
+    },
+    {
+      "name": "Justin Haythe",
+      "url": "https://www.imdb.com/name/nm1244808/"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+
+
+{
+  "type": "Movie",
+  "name": "Eleven Minutes",
+  "url": "https://www.imdb.com/tt1149584/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzA4MTIzNTkwM15BMl5BanBnXkFtZTcwNjc3ODQyMg@@._V1_.jpg",
+  "description": "Feature documentary following fashion designer, Jay McCarroll&apos;s year-long journey preparing his first independent runway show and selling his clothing line to stores.",
+  "review": {
+    "author": "creivez",
+    "dateCreated": "2008-04-06",
+    "inLanguage": "English",
+    "heading": "Must See!",
+    "reviewBody": "Fabulous movie - Jay McCarroll at his best. The movie is real and raw, giving a true glimpse into the life of not only a designer, but an edgy artist on the brink of stardom, fortune and fame within the cut throat world of the fashion industry. The movie, a documentary, allows you to watch Jay&apos;s entire creative process. From his initial sketches to the production of the line, to the big show, to the subsequent selling of the line, this move explores the nitty gritty industry and the decision making process. It shows what an artist must go through in order for their work and voice to be heard above all the other noise. Its only playing once more in Philadelphia before it moves on to other cities - make sure you don&apos;t miss it! It is an inspiration to any artist. A must see!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 118,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "R",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2008-04-05",
+  "keywords": "journey,fashion,project,reality tv production,time for title",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Jay McCarroll",
+      "url": "https://www.imdb.com/name/nm1816147/"
+    },
+    {
+      "name": "Kelly Cutrone",
+      "url": "https://www.imdb.com/name/nm1116425/"
+    },
+    {
+      "name": "Daniel Alexander",
+      "url": "https://www.imdb.com/name/nm3028134/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Selditch",
+      "url": "https://www.imdb.com/name/nm0004388/"
+    },
+    {
+      "name": "Robert Tate",
+      "url": "https://www.imdb.com/name/nm0851192/"
+    }
+  ],
+  "creator": []
+}

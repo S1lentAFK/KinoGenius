@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Art of Racing in the Rain",
+  "url": "https://www.imdb.com/tt1478839/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjU5ZTYzM2MtNDNhYi00YjU1LWE4MzEtODc0NmNlODZlMjlhXkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_.jpg",
+  "description": "Through his bond with his owner, aspiring Formula One race car driver Denny, golden retriever Enzo learns that the techniques needed on the racetrack can also be used to successfully navigate the journey of life.",
+  "review": {
+    "author": "slightlymad22",
+    "dateCreated": "2019-08-09",
+    "inLanguage": "English",
+    "heading": "I Laughed & Cries",
+    "reviewBody": "I just got out of watching The Art Of Racing In The Rain\n\nA seriously emotional movie for me, as I had to have my beloved family dog Rocky, put down on Monday, I knew I would cry watching this, and I did.\n\nIt is not what you think it is. It is not a racing movie, nor is it a children movie about a mischievous dog, its about the people and their relationships told through the eyes of the dog, voiced beautifully by Kevin Costner.\n\nIt has been 13 years since Milo Ventimiglia starred in Rocky Balbo, yet every time he smiles that crooked smile, I'm reminded of Sly. Amanda Seyfried puts in a touching performance whilst Martin Donovan is simply a guy you will hate.\n\nThis is a movie that is all heart, I laughed and cried watching it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 37526,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2019-08-09",
+  "keywords": "race car driver,dog,car race,narration,dog's eye view",
+  "duration": "PT1H49M",
+  "actor": [
+    {
+      "name": "Kevin Costner",
+      "url": "https://www.imdb.com/name/nm0000126/"
+    },
+    {
+      "name": "Milo Ventimiglia",
+      "url": "https://www.imdb.com/name/nm0893257/"
+    },
+    {
+      "name": "Jackie Minns",
+      "url": "https://www.imdb.com/name/nm4467076/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Simon Curtis",
+      "url": "https://www.imdb.com/name/nm0193508/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Bomback",
+      "url": "https://www.imdb.com/name/nm0093560/"
+    },
+    {
+      "name": "Garth Stein",
+      "url": "https://www.imdb.com/name/nm0825464/"
+    }
+  ]
+}

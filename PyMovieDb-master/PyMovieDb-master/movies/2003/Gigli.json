@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Gigli",
+  "url": "https://www.imdb.com/tt0299930/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTE5MTYxMDg5NV5BMl5BanBnXkFtZTYwNjc5MzQ3._V1_.jpg",
+  "description": "Larry Gigli is assigned by a crime boss to kidnap the brother of a prominent district attorney. A beautiful woman known only as Ricki is sent to stay with him to make sure he doesn't mess up the job.",
+  "review": {
+    "author": "rossperry-18019",
+    "dateCreated": "2018-12-10",
+    "inLanguage": "English",
+    "heading": "Nowhere as bad as everyone claims.",
+    "reviewBody": "This was one laughed at movie. Jokes abounded on how astonishingly bad Gigli was. Is it true? The advance word on this film was so vicious that I had to see for myself if it's as bad as its early reputation suggested. The verdict: Gigli doesn't live up to (or should that be down to?) its hype. The worst film of all time? Give me a break. Gigli isn't even the worst film of the summer, and won't come close to the year's Bottom 10 list. I'm not going to defend the movie. I don't recommend it and, for the most part, it's an example of inept filmmaking, but it is watchable. I have to wonder if those who are coming down so hard on the motion picture have a secondary agenda. Ben Affleck and Jennifer Lopez are adequate- not Bogart/Hepburn but not too terrible either.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 50547,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 2.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Romance"
+  ],
+  "datePublished": "2003-09-26",
+  "keywords": "bisexual woman,crime boss,tourette's syndrome,gangster,kidnapping",
+  "duration": "PT2H1M",
+  "actor": [
+    {
+      "name": "Ben Affleck",
+      "url": "https://www.imdb.com/name/nm0000255/"
+    },
+    {
+      "name": "Jennifer Lopez",
+      "url": "https://www.imdb.com/name/nm0000182/"
+    },
+    {
+      "name": "Justin Bartha",
+      "url": "https://www.imdb.com/name/nm0058581/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Martin Brest",
+      "url": "https://www.imdb.com/name/nm0000976/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Martin Brest",
+      "url": "https://www.imdb.com/name/nm0000976/"
+    }
+  ]
+}

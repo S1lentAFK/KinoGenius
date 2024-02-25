@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Men of Honor",
+  "url": "https://www.imdb.com/tt0203019/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjkxZGVmNzQtYjE0OC00MzVlLTkxODYtNzdkMjE3MmZjYjUxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": "The story of Carl Brashear, the first African-American U.S. Navy Diver, and the man who trained him.",
+  "genre": [
+    "Biography",
+    "Drama"
+  ],
+  "datePublished": "2001-03-30",
+  "duration": "PT2H9M",
+  "contentRating": "15",
+  "keywords": "african american,racial discrimination,1960s,hatred,prosthetic leg",
+  "rating": {
+    "ratingCount": 124438,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "review": {
+    "author": "chrisbrown6453",
+    "dateCreated": "2002-07-02",
+    "inLanguage": "English",
+    "heading": "Much like the spirit of films like The Hurricane and Glory, Men of Honor grips us and makes us really feel for a man struggling to make his dream come true.",
+    "reviewBody": "Men of Honor stars Cuba Gooding Jr., as real life Navy Diver Carl Brashear who defied a man&apos;s Navy to become the first African American Navy Diver. Sometimes by his side and sometimes his adversary there was one man who Carl Brashear really admired. His name was Master Chief Billy Sunday (Robert DeNiro). Sunday in a lot of ways pushed, aggravated and helped Carl become the man he wanted to be. \\n\\nI loved Cuba in this film. His portrayal here is as liberating and as powerful as Denzel Washington was in The Hurricane. Through every scene we can see his passion, motivation and stubbornness to achieve his dream. We can see the struggle within in him as he embarks to make his father proud. I also loved how the director created and brought forth a lot of tension in some of the key diving scenes. Brashear&apos;s encounter with a submarine during a salvage mission is heart-stopping and brilliant. \\n\\nThe only fault I could see would have to lie in the supporting cast. Cuba and DeNiro&apos;s characters are very intricate and exciting to watch. Which does make you a little sad when they have to butt heads with such two-dimensional supporting characters. The evil Lt. Cmdr. Hanks, Sunday&apos;s wife (Charlize Theron), the eccentric diving school colonel (Hal Holbrook) and Cuba&apos;s love interest are the characters I found to not have very much depth. What could have made these characters more substantial and more effective was a little more time to develop them. Why was that colonel always in his tower? How come Sunday&apos;s wife was so bitter and always drunk?\\n\\nAnother curious question has to be this. What happened to Carl Brashear&apos;s wedding? I mean if this film is chronicling this man&apos;s life wouldn&apos;t his wedding be an important event? Maybe it&apos;s just me. Men of Honor, however, is a perfect example of the triumph and faith that the human spirit envelops. This film will inspire and make you feel for this man&apos;s struggle. Which I do believe was the reason this powerful story was told. My hat goes off to you Carl Brashear. I really admire your strength.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "Cuba Gooding Jr.",
+      "url": "https://www.imdb.com/name/nm0000421/"
+    },
+    {
+      "name": "Robert De Niro",
+      "url": "https://www.imdb.com/name/nm0000134/"
+    },
+    {
+      "name": "Charlize Theron",
+      "url": "https://www.imdb.com/name/nm0000234/"
+    }
+  ],
+  "director": [
+    {
+      "name": "George Tillman Jr.",
+      "url": "https://www.imdb.com/name/nm0863387/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Scott Marshall Smith",
+      "url": "https://www.imdb.com/name/nm0809899/"
+    }
+  ]
+}

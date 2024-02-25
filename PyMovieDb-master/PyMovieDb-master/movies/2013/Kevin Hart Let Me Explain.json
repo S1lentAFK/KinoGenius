@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Kevin Hart: Let Me Explain",
+  "url": "https://www.imdb.com/tt2609912/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg4MjM2MjAxOF5BMl5BanBnXkFtZTcwMTAzOTEyOQ@@._V1_.jpg",
+  "description": null,
+  "contentRating": "15",
+  "genre": [
+    "Documentary",
+    "Comedy"
+  ],
+  "datePublished": "2013-08-30",
+  "keywords": "stand up,2010s,stand up comedy special,toronto ontario canada,montreal quebec canada",
+  "duration": "PT1H15M",
+  "rating": {
+    "ratingCount": 9343,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "review": {
+    "author": "Lwills093",
+    "dateCreated": "2013-07-07",
+    "inLanguage": "English",
+    "heading": "I laughed hard on SOME parts",
+    "reviewBody": "First let me correct one reviewer here that said half of the movie was spent showing clips of his shows around the world. Not True. I intentionally timed it because I read his review before I saw the movie. It was 7 minutes of a skit that made me laugh. Then it was approximately 6 minutes of showing clips of Kevin&apos;s shows from around the world. The rest of the movie was stand up comedy. Although I laughed really hard only on certain parts, the whole movie was entertaining to me and that was my goal: to be entertained. Kevin&apos;s brand of comedy can be silly at times, and there is nothing wrong with that, if it makes you laugh, and it did. I can&apos;t understand why half the viewers here (Since July 6, 2013) had unfavorable things to say about the movie. As I observed, the audience and the fans around the world are happy with what Mr. Hart does in his act.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "actor": [
+    {
+      "name": "Kevin Hart",
+      "url": "https://www.imdb.com/name/nm0366389/"
+    },
+    {
+      "name": "Harry Ratchford",
+      "url": "https://www.imdb.com/name/nm5183398/"
+    },
+    {
+      "name": "Will 'Spank' Horton",
+      "url": "https://www.imdb.com/name/nm3146142/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Leslie Small",
+      "url": "https://www.imdb.com/name/nm0806492/"
+    },
+    {
+      "name": "Tim Story",
+      "url": "https://www.imdb.com/name/nm1103162/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kevin Hart",
+      "url": "https://www.imdb.com/name/nm0366389/"
+    }
+  ]
+}

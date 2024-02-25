@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Road Hard",
+  "url": "https://www.imdb.com/tt3110770/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUwOTgyNDk5MF5BMl5BanBnXkFtZTgwOTk2NjY2NDE@._V1_.jpg",
+  "description": "Following an expensive divorce and the cancellation of his TV show, a stand-up comic is forced to go back on the road to provide for his daughter.",
+  "review": {
+    "author": "Prismark10",
+    "dateCreated": "2018-07-27",
+    "inLanguage": "English",
+    "heading": "The long and winding road",
+    "reviewBody": "Adam Carolla co-wrote, co-directed and stars as Bruce Madsen. A comedian who made it big with a hit sitcom but since it ended, he is back on the road playing small clubs while his former partner is a successful talk show host.\n\nBruce lives in the garage of his former marital home. His ex wife does not like him being in her house even to visit their adopted daughter who is looking to go to college. Bruce is happy in the garage, he spent more time there when he was married doing woodwork.\n\nBruce is funny, his humour is acerbic. Bruce knows this and he sees himself as being funnier than a lot of comedians that are on television. However as his very successful ex comedy partner Jack Taylor (Jay Mohr) reminds him that Bruce did not play the game to stay at the top. Being funny is not enough to sustain a showbiz career.\n\nRoad Hard is a bittersweet comedy looking at life of a comedian who is past his prime. It actually is funny in a low key way. Obviously Carolla has seen guys like Bruce or he might even be Bruce himself. However Carolla is not a strong enough actor here, his character comes across as one note. It is also hard to sympathise with his character. Bruce's agent (Larry Miller) and friends are correct that if only he kissed some butt and played the game, he would be more successful.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 1937,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2015-03-06",
+  "keywords": "red panties,panties,girl wears panties,stand up comedy",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Adam Carolla",
+      "url": "https://www.imdb.com/name/nm0004805/"
+    },
+    {
+      "name": "David Alan Grier",
+      "url": "https://www.imdb.com/name/nm0004979/"
+    },
+    {
+      "name": "Jay Mohr",
+      "url": "https://www.imdb.com/name/nm0001542/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Adam Carolla",
+      "url": "https://www.imdb.com/name/nm0004805/"
+    },
+    {
+      "name": "Kevin Hench",
+      "url": "https://www.imdb.com/name/nm0376247/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Adam Carolla",
+      "url": "https://www.imdb.com/name/nm0004805/"
+    },
+    {
+      "name": "Kevin Hench",
+      "url": "https://www.imdb.com/name/nm0376247/"
+    }
+  ]
+}

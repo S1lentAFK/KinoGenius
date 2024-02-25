@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Monsieur Lazhar",
+  "url": "https://www.imdb.com/tt2011971/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjM0NTYyNTkwNF5BMl5BanBnXkFtZTcwMzQwOTUzNw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "FilmPulse",
+    "dateCreated": "2012-05-08",
+    "inLanguage": "English",
+    "heading": "Heart-Warming and Heart-Wrenching",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 21131,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2012-05-04",
+  "keywords": "replacement teacher,physical education teacher,teacher,immigrant,classroom",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Mohamed Fellag",
+      "url": "https://www.imdb.com/name/nm0271408/"
+    },
+    {
+      "name": "Sophie N\u00e9lisse",
+      "url": "https://www.imdb.com/name/nm4563869/"
+    },
+    {
+      "name": "\u00c9milien N\u00e9ron",
+      "url": "https://www.imdb.com/name/nm4563783/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Philippe Falardeau",
+      "url": "https://www.imdb.com/name/nm0265852/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Philippe Falardeau",
+      "url": "https://www.imdb.com/name/nm0265852/"
+    },
+    {
+      "name": "Evelyne de la Cheneli\u00e8re",
+      "url": "https://www.imdb.com/name/nm1656167/"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Beethoven's 3rd",
+  "url": "https://www.imdb.com/tt0206588/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTU2YzdiMjItM2YyNC00MDYxLWI4YmUtNTEwODBjOTExODMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "The Newton family from the first two Beethoven movies is on vacation in Europe, but they do plan to attend a Newton family reunion, and to make sure one of their family members definitely makes it, they ship him to travel to there...",
+  "review": {
+    "author": "bkoganbing",
+    "dateCreated": "2016-03-04",
+    "inLanguage": "English",
+    "heading": "Temporary custody of the St.Bernard",
+    "reviewBody": "I'm at a loss to understand the hate directed at Beethoven's 3rd. The previous editions weren't exactly Citizen Kane this one keeps to the same standard, it's not so much horribly worse. In fact I found it entertaining.\n\nA different set of Newtons have temporary custody of the ungainly St.Bernard. Judge Reinhold has taken Beethoven from his brother and he plans to attend the Newton family reunion in Southern California. What would be better than a nice trip in a motor home but of course Beethoven would have to be kenneled. Beethoven has other ideas.\n\nThe film follows closely along National Lampoon's Vacation with a whole lot of the same kind of situations. Poor Reinhold figures to relive the memory of a trip he took with his parents and he really does.\n\nWhat the parents didn't have is a couple of hackers on their trail doing a little espionage. Michael Ciccolini and Jamie Marsh are trying to retrieve a disc they put into a case at a Blockbuster like store that contains some secret codes. A movie no one was supposed to rent, but the Newtons did rent. These two are the funniest thing in the film.\n\nWith the presence of video rental stores, the film has already dated itself. Good while they lasted, I know someone who lost considerable money in a mom and pop like operation of one. He lost out to Blockbuster and now Blockbuster is pretty well gone as well. \n\nNothing that horrible about Beethoven's 3rd as opposed to its predecessors.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 6394,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.1
+  },
+  "contentRating": "U",
+  "genre": [
+    "Family",
+    "Comedy"
+  ],
+  "datePublished": null,
+  "keywords": "skunk,brother sister relationship,girl dog relationship,human dog relationship,master dog relationship",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Judge Reinhold",
+      "url": "https://www.imdb.com/name/nm0001662/"
+    },
+    {
+      "name": "Julia Sweeney",
+      "url": "https://www.imdb.com/name/nm0842140/"
+    },
+    {
+      "name": "Joe Pichler",
+      "url": "https://www.imdb.com/name/nm0681665/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Mickey Evans",
+      "url": "https://www.imdb.com/name/nm0262693/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Hughes",
+      "url": "https://www.imdb.com/name/nm0000455/"
+    },
+    {
+      "name": "Jeff Schechter",
+      "url": "https://www.imdb.com/name/nm0770360/"
+    },
+    {
+      "name": "Amy Holden Jones",
+      "url": "https://www.imdb.com/name/nm0427468/"
+    }
+  ]
+}

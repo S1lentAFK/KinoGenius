@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "A.I. Artificial Intelligence",
+  "url": "https://www.imdb.com/tt0212720/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWU2NzEyMDYtM2MyOS00OGM3LWFkNzAtMzRiNzE2ZjU5ZTljXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "description": null,
+  "contentRating": "12",
+  "genre": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "datePublished": "2001-09-21",
+  "keywords": "artificial intelligence,mother son relationship,synthetic human,child abuse,artificially created boy",
+  "duration": "PT2H26M",
+  "rating": {
+    "ratingCount": 321316,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "review": {
+    "author": "Jafredderf",
+    "dateCreated": "2001-07-01",
+    "inLanguage": "English",
+    "heading": "A.I. Is a good union of two great film makers.",
+    "reviewBody": "I saw A.I. on the first night it ran here and I must say I was disappointed in the size of the audience. How strange to see so few people show up for a Spielberg film. This film did not enjoy the normal hype that most of Spielberg&apos;s films enjoy, I think I know why. Lack of product placement. They&apos;re may have been some somewhere but I didn&apos;t see them. A.I.&apos;s story line and flawless visual effects reflect what I can only describe as the meeting of two great film makers. Kubrick (who started work on the project after he read the Aldiss book in &apos;83),and Steven Spielberg who&apos;s long list of intelligent blockbusters made him the perfect person to bring this story to the screen. I could, I believe see the story boards and concepts Kubrick developed and I could also see the sensitivity that Spielberg added to scenes and characters. These two things are not entirely separate in good Science Fiction. All good science fiction has some human sensitivity in it otherwise it would just be a horror film. The script reflects some of the darkness and coldness that sometimes underlies each character human and machine, there is no fear of this in the story. This darkness draws us on in the story.\\n\\nThe visual effects are stunning and come darn close to genius. The story line takes us in and the visuals make it almost real.\\n\\nI wish I had Mr. Mannings grip of syntax, but all in all at the end of the day it&apos;s good science fiction and a good story too. I beleve that Stanley Kubrick&apos;s choice of asking Steven Spielberg to make this film was the kind of genius that Kubrick showed in all his work. It is a tribute to both men that they saw a vision of something and worked toward it&apos;s creation. I think they came to a great place in film making.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Haley Joel Osment",
+      "url": "https://www.imdb.com/name/nm0005286/"
+    },
+    {
+      "name": "Jude Law",
+      "url": "https://www.imdb.com/name/nm0000179/"
+    },
+    {
+      "name": "Frances O&apos;Connor",
+      "url": "https://www.imdb.com/name/nm0640323/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven Spielberg",
+      "url": "https://www.imdb.com/name/nm0000229/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brian Aldiss",
+      "url": "https://www.imdb.com/name/nm0000735/"
+    },
+    {
+      "name": "Ian Watson",
+      "url": "https://www.imdb.com/name/nm0914668/"
+    },
+    {
+      "name": "Steven Spielberg",
+      "url": "https://www.imdb.com/name/nm0000229/"
+    }
+  ]
+}

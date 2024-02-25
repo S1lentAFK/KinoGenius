@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Passengers",
+  "url": "https://www.imdb.com/tt1355644/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjk4ZTMwMTYtOTk1NC00OTA0LWFhMGYtZTBjMzViMDY2YWZjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "description": "A malfunction in a sleeping pod on a spacecraft traveling to a distant colony planet wakes one passenger 90 years early.",
+  "review": {
+    "author": "patrickjames85",
+    "dateCreated": "2016-12-22",
+    "inLanguage": "English",
+    "heading": "Passengers was fantastic!",
+    "reviewBody": "Passengers is yet another example as to why you should go see the movies professional critics hate & save your money on the ones they absolutely love. Going to see a movie at the theater is like $30 now for just 2 people & that&apos;s without visiting concessions. I don&apos;t know about everybody else but if I&apos;m going to spend a few days worth of grocery money for a 2 hour movie experience I&apos;m really hoping not to be bored to tears or looking at the time wondering how much longer it&apos;ll be until a movie is over. Passengers just ends up on my very long list, lately, of movies critics tried to bring down that were waves better than the ones they are directing people to see. This movie is visually stunning & the story telling is not only thought provoking but innovative while doing so! It was great to see a story like this one told in a way that didn&apos;t spend most of its time trying to dialogue it&apos;s way into Oscar nominations. If you are going to venture out to see a movie for the Holidays go see this one!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 441816,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "datePublished": "2016-12-21",
+  "keywords": "malfunction,spaceship setting,spacecraft,asteroid,outer space",
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Jennifer Lawrence",
+      "url": "https://www.imdb.com/name/nm2225369/"
+    },
+    {
+      "name": "Chris Pratt",
+      "url": "https://www.imdb.com/name/nm0695435/"
+    },
+    {
+      "name": "Michael Sheen",
+      "url": "https://www.imdb.com/name/nm0790688/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Morten Tyldum",
+      "url": "https://www.imdb.com/name/nm0878763/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jon Spaihts",
+      "url": "https://www.imdb.com/name/nm3123612/"
+    }
+  ]
+}

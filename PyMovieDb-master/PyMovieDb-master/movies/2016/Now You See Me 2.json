@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Now You See Me 2",
+  "url": "https://www.imdb.com/tt3110958/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjhlNDljNTgtZjc4My00NmZmLTk2YzAtYWE5MDYwYjM4MTkzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "description": "The Four Horsemen resurface, and are forcibly recruited by a tech genius to pull off their most impossible heist yet.",
+  "review": {
+    "author": "autisticreviewers",
+    "dateCreated": "2016-06-07",
+    "inLanguage": "English",
+    "heading": "Autistic Reviewers Opinion Of This Movie.",
+    "reviewBody": "It's just like the first movie...it takes you into the mind of magic tricks and just how easy, hard and confusing and well timed it can be. It's interesting to see just how they do it, because we keep forgetting it's all fake and not real. This movie is magic mixed with a robbery heist all combined into one.\\n\\nAll the actors return, excluding Isla Fisher. This time we have a lady by the name of Lula (Played by Lizzy Caplan) who, to an extent replaces Isla Fisher. She's actually really funny and charming, to say the least. All the characters are exactly as the same as they were in the first one. We have a new villain by the name of Walter Mabry (played by Daniel Radcliffe.) He wants the Horsemen to capture a certain device so he can have access to everyone's details. Daniel Radcliffe surprisingly makes a good villain.\\n\\nWe rate this 3/5 stars (7/10.) The movie is entertaining, action packed and nonstop guessing and thrills all the way through. Why didn't we rate it higher? We thought it didn't deserve any higher. It's an enjoyable flick, just like the first one. Nothing more, nothing less. Go and check it out. It's worth seeing. -Autistic Reviewers.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 317851,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2016-07-04",
+  "keywords": "magician,card throwing,hands tied behind back,handcuffed together,magic",
+  "duration": "PT2H9M",
+  "actor": [
+    {
+      "name": "Jesse Eisenberg",
+      "url": "https://www.imdb.com/name/nm0251986/"
+    },
+    {
+      "name": "Mark Ruffalo",
+      "url": "https://www.imdb.com/name/nm0749263/"
+    },
+    {
+      "name": "Woody Harrelson",
+      "url": "https://www.imdb.com/name/nm0000437/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jon M. Chu",
+      "url": "https://www.imdb.com/name/nm0160840/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ed Solomon",
+      "url": "https://www.imdb.com/name/nm0004412/"
+    },
+    {
+      "name": "Peter Chiarelli",
+      "url": "https://www.imdb.com/name/nm1095804/"
+    },
+    {
+      "name": "Boaz Yakin",
+      "url": "https://www.imdb.com/name/nm0945026/"
+    }
+  ]
+}

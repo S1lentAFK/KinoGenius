@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Bart Got a Room",
+  "url": "https://www.imdb.com/tt0472050/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg3MDA1NDEwMV5BMl5BanBnXkFtZTcwOTU4MzIzMg@@._V1_.jpg",
+  "description": "While Danny's father and mother independently search for love, Danny is on his own desperate quest to find a prom date. Danny's search becomes progressively more pathetic once he and his family learn that Bart, the school's biggest...",
+  "review": {
+    "author": "thefoxxx",
+    "dateCreated": "2010-01-05",
+    "inLanguage": "English",
+    "heading": "A good, fun comedy for teens and young adults",
+    "reviewBody": "I remember seeing a preview for this movie on The Movie Channel, I think that was the channel. Then about 2 days later I saw the movie for sale at Wal-mart. That night I actually watched it. I thought it was hilarious in so many ways. Yeah, some of the humor is kind of ridiculous but it's directed towards teens and young adults. In so many ways I can relate to this movie and so can other people i'm sure. I was very pleased with William H. Macy's performance. I also liked it because it had both actors we already know, and some that we have never seen before, or at least I haven't. All in all I think this film was very good and I hope that everyone gets a chance to see it.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 4245,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2009-02-16",
+  "keywords": "based on short film,teen movie,f word,high school,bikini",
+  "duration": "PT1H20M",
+  "actor": [
+    {
+      "name": "Steven Kaplan",
+      "url": "https://www.imdb.com/name/nm1790460/"
+    },
+    {
+      "name": "William H. Macy",
+      "url": "https://www.imdb.com/name/nm0000513/"
+    },
+    {
+      "name": "Cheryl Hines",
+      "url": "https://www.imdb.com/name/nm0385644/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brian Hecker",
+      "url": "https://www.imdb.com/name/nm0373033/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brian Hecker",
+      "url": "https://www.imdb.com/name/nm0373033/"
+    }
+  ]
+}

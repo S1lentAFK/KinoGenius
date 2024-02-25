@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Le r\u00e8gne animal",
+  "url": "https://www.imdb.com/tt16606592/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjQ4NWE2YTctYTUyZC00MWIyLWFmODAtOTIyZmUwNjAxZDAxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "An adventure between a father and his son, in a world where some humans have started mutating into other animal species.",
+  "review": {
+    "author": "flo-mo",
+    "dateCreated": "2024-02-10",
+    "inLanguage": "English",
+    "heading": "Pulled me right in",
+    "reviewBody": "I didn't expect much - the story sounded intriguing but more than often the execution is lacking.\n\nBoy, was I wrong. This one pulled me right in. It's a very well rounded film, impressive actors, great storytelling, amazing pictures / camera work and very catchy music. It really felt like I was part of the story.\n\nIs this the best film I've ever seen? Probably not. But it is a great production and I had an exciting evening with a lot of emotions. We even talked about it for quite a while afterwards.\n\nIt's very nice to see european film productions on that level. I hope it'll hit the streaming services some day soon.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 3836,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": null,
+  "genre": [
+    "Adventure",
+    "Drama",
+    "Horror"
+  ],
+  "datePublished": "2023-10-04",
+  "keywords": "son,father son relationship,dog,dog pet,forest lake",
+  "duration": "PT2H8M",
+  "actor": [
+    {
+      "name": "Romain Duris",
+      "url": "https://www.imdb.com/name/nm0244151/"
+    },
+    {
+      "name": "Paul Kircher",
+      "url": "https://www.imdb.com/name/nm1712515/"
+    },
+    {
+      "name": "Ad\u00e8le Exarchopoulos",
+      "url": "https://www.imdb.com/name/nm2650819/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Thomas Cailley",
+      "url": "https://www.imdb.com/name/nm3619993/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Thomas Cailley",
+      "url": "https://www.imdb.com/name/nm3619993/"
+    },
+    {
+      "name": "Pauline Munier",
+      "url": "https://www.imdb.com/name/nm12028543/"
+    }
+  ]
+}

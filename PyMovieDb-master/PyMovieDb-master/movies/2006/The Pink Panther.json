@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Pink Panther",
+  "url": "https://www.imdb.com/tt0383216/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGI2MjVlNzEtZDg1ZS00MGU1LWFhNTQtNzMwZDViOWRkNzhkXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+  "description": "Bumbling Inspector Clouseau must solve the murder of a famous soccer coach and find out who stole the infamous Pink Panther diamond.",
+  "review": {
+    "author": "bonehead",
+    "dateCreated": "2006-02-19",
+    "inLanguage": "English",
+    "heading": "Not quite what I'd hoped for ...",
+    "reviewBody": "I'm rather surprised at the outpouring of positive commentary about this movie, especially by folks who are older than ten or so.\\n\\nI saw this with my son in a crowded theatre, mostly children, and from the reaction, most of them thought it was hilarious. I'd been hoping for a bit more of a nod to adults - something along the lines of what there was in Bugs Bunny or, more recently, in a lot of the SpongeBob Squarepants episodes - something more than fart jokes and basic slapstick.\\n\\nUnfortunately, that's pretty much all there was. I felt like I was sitting through Mr. Magoo again, except with Steve Martin instead of Leslie Nielsen. Sure, there were a couple of funny bits, but they were certainly not enough to carry the movie - a lot like MIB II in this regard, where it felt like they had a couple of jokes left over from the first that they tried to use to carry the movie.\\n\\nThe wonderful actors Kevin Kline and Jean Reno were wasted in their roles - though without them it would have been completely abysmal, and Beyonce does a good job as well.\\n\\nIn short, it wasn't bad enough that I felt I wasted my time, but I'm sure glad that I went on a free pass and didn't pay $17 for the experience. Then again, if you've got kids under the age of 12 or so, take them - they will love it, it's right up their alley - just don't expect much to be there for yourself.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 91928,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2006-03-17",
+  "keywords": "soccer,pink panther,diamond,france,investigation",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Steve Martin",
+      "url": "https://www.imdb.com/name/nm0000188/"
+    },
+    {
+      "name": "Kevin Kline",
+      "url": "https://www.imdb.com/name/nm0000177/"
+    },
+    {
+      "name": "Jean Reno",
+      "url": "https://www.imdb.com/name/nm0000606/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Shawn Levy",
+      "url": "https://www.imdb.com/name/nm0506613/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Len Blum",
+      "url": "https://www.imdb.com/name/nm0089676/"
+    },
+    {
+      "name": "Steve Martin",
+      "url": "https://www.imdb.com/name/nm0000188/"
+    },
+    {
+      "name": "Michael Saltzman",
+      "url": "https://www.imdb.com/name/nm0759167/"
+    }
+  ]
+}

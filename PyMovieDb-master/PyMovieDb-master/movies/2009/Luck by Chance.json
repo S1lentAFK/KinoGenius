@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Luck by Chance",
+  "url": "https://www.imdb.com/tt0886539/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NjIxNDc3Nl5BMl5BanBnXkFtZTcwNDc4NTk5Mw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Buddy-51",
+    "dateCreated": "2009-11-11",
+    "inLanguage": "English",
+    "heading": "If it just didn't go on so long",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 10974,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2009-01-30",
+  "keywords": "looking at oneself in a mirror,character repeats someone else's dialogue,cameo,talking to a mirror,female director",
+  "duration": "PT2H36M",
+  "actor": [
+    {
+      "name": "Farhan Akhtar",
+      "url": "https://www.imdb.com/name/nm1027719/"
+    },
+    {
+      "name": "Konkona Sen Sharma",
+      "url": "https://www.imdb.com/name/nm1234298/"
+    },
+    {
+      "name": "Rishi Kapoor",
+      "url": "https://www.imdb.com/name/nm0438501/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Zoya Akhtar",
+      "url": "https://www.imdb.com/name/nm0015295/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Zoya Akhtar",
+      "url": "https://www.imdb.com/name/nm0015295/"
+    },
+    {
+      "name": "Javed Akhtar",
+      "url": "https://www.imdb.com/name/nm0015287/"
+    },
+    {
+      "name": "Athar Nawaaz",
+      "url": "https://www.imdb.com/name/nm1386575/"
+    }
+  ]
+}

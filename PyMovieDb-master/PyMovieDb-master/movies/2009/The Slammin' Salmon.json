@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Slammin' Salmon",
+  "url": "https://www.imdb.com/tt1135525/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkyODk2NTU3OV5BMl5BanBnXkFtZTcwNjM5OTIwMw@@._V1_.jpg",
+  "description": "The owner of a Miami restaurant indebted to the mob institutes a contest to see what waiter can earn the most money in one night.",
+  "contentRating": "12",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2009-01-17",
+  "keywords": "restaurant,chef,vomiting,woman wears a tie,money",
+  "duration": "PT1H39M",
+  "rating": {
+    "ratingCount": 15404,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "review": {
+    "author": "13Funbags",
+    "dateCreated": "2019-04-01",
+    "inLanguage": "English",
+    "heading": "Decent",
+    "reviewBody": "I saw part of this on tv a long time ago and didn't really like it but after watching the whole thing I have definitely changed my opinion. This might not be as funny as Super Troopers but it's a good movie. See it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "actor": [
+    {
+      "name": "Michael Clarke Duncan",
+      "url": "https://www.imdb.com/name/nm0003817/"
+    },
+    {
+      "name": "Jay Chandrasekhar",
+      "url": "https://www.imdb.com/name/nm0151540/"
+    },
+    {
+      "name": "Kevin Heffernan",
+      "url": "https://www.imdb.com/name/nm0373571/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kevin Heffernan",
+      "url": "https://www.imdb.com/name/nm0373571/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jay Chandrasekhar",
+      "url": "https://www.imdb.com/name/nm0151540/"
+    },
+    {
+      "name": "Kevin Heffernan",
+      "url": "https://www.imdb.com/name/nm0373571/"
+    },
+    {
+      "name": "Steve Lemme",
+      "url": "https://www.imdb.com/name/nm0501399/"
+    }
+  ]
+}

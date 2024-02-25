@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Alvin and the Chipmunks Meet the Wolfman",
+  "url": "https://www.imdb.com/tt0252227/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzM1N2I1NzktMjBlYi00OGFkLTg5N2YtMjJmZDExNGM3NTA5XkEyXkFqcGdeQXVyMTMxODk2OTU._V1_.jpg",
+  "description": "When Alvin discovers that his neighbor is a werewolf, he begins an exhilarating race against time before the full moon arrives. But the real terror will come when Theodore starts acting weird too.",
+  "review": {
+    "author": "maxstenner",
+    "dateCreated": "2020-03-30",
+    "inLanguage": "English",
+    "heading": "Superior sequel",
+    "reviewBody": "Alvin and the Chipmunks is the superior to the Alvin and the Chipmunks meet Frankenstein movie from the year prior. It is all the qualities of the previous film doubled.\n\nHumour-10/10 Story-9/10 Music-7/10 Voice acting-7/10 Animation-8/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 1829,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "G",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2001-04-04",
+  "keywords": "werewolf horror, chipmunk, werewolf, neighbor, bully",
+  "duration": "PT1H17M",
+  "actor": [
+    {
+      "name": "Ross Bagdasarian Jr.",
+      "url": "https://www.imdb.com/name/nm0046559/"
+    },
+    {
+      "name": "Janice Karman",
+      "url": "https://www.imdb.com/name/nm0439739/"
+    },
+    {
+      "name": "Maurice LaMarche",
+      "url": "https://www.imdb.com/name/nm0005606/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kathi Castillo",
+      "url": "https://www.imdb.com/name/nm0145117/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Loy",
+      "url": "https://www.imdb.com/name/nm0523431/"
+    }
+  ]
+}

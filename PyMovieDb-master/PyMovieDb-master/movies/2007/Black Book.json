@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Zwartboek",
+  "url": "https://www.imdb.com/tt0389557/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIzMjc2ODQ2NV5BMl5BanBnXkFtZTYwODkzNTA3._V1_.jpg",
+  "description": "In the Nazi-occupied Netherlands during World War II, a Jewish singer infiltrates the regional Gestapo headquarters for the Dutch resistance.",
+  "review": {
+    "author": "mariekehopman",
+    "dateCreated": "2006-10-30",
+    "inLanguage": "English",
+    "heading": "Why there's no exact line between good or bad...",
+    "reviewBody": "When I read all the comments about Zwartboek, it becomes clear to me that either you like the movie or you kind of hate it. What is that with good and bad that we want to make an exact line... This whole movie is about not knowing if you can do bad things (kill, betray or whatever) to achieve the good. Or the other way around off course. I must admit that the movie is (again) explicit, but aren't all the Dutch movies? What strikes me most is that some people expect to get a movie in which everything is clear. I think this is a movie which should set us to thinking: what would I do if I were in the same situation. Paul Verhoeven made clear with this movie that in the end, lots of people act for their own prosperity. It's just what you make people around you believe... I think in lots of countries people acted like this, none of the countries however dared to make a movie out of it. To me this movie is again (as Soldaat van Oranje and for instance De Tweeling)a beautiful one about WWII without getting boring. A smart story with two faces. Although some of the actors don't really fit into a masterpiece like this, I give it a great compliment. Get over the explicit name calling (ever seen Pulp Fiction??) and appreciate the scenery and nice camera-work, the great plot change and you'll have a great time and may even reconsider your own ideas about the resistance!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 80120,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Thriller",
+    "War"
+  ],
+  "datePublished": "2007-01-19",
+  "keywords": "dutch resistance,hiding in a coffin,nazi occupied netherlands,netherlands,gestapo",
+  "duration": "PT2H25M",
+  "actor": [
+    {
+      "name": "Carice van Houten",
+      "url": "https://www.imdb.com/name/nm0396924/"
+    },
+    {
+      "name": "Sebastian Koch",
+      "url": "https://www.imdb.com/name/nm0462407/"
+    },
+    {
+      "name": "Thom Hoffman",
+      "url": "https://www.imdb.com/name/nm0389109/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Paul Verhoeven",
+      "url": "https://www.imdb.com/name/nm0000682/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Gerard Soeteman",
+      "url": "https://www.imdb.com/name/nm0812121/"
+    },
+    {
+      "name": "Paul Verhoeven",
+      "url": "https://www.imdb.com/name/nm0000682/"
+    }
+  ]
+}

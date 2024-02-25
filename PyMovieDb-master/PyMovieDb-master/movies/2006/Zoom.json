@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Zoom",
+  "url": "https://www.imdb.com/tt0383060/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM0NjczMzUyM15BMl5BanBnXkFtZTcwMDEwMjQzMQ@@._V1_.jpg",
+  "description": null,
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2006-12-22",
+  "keywords": "superhero,teenage superhero,superhero team,snow adventure,invisible man",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Tim Allen",
+      "url": "https://www.imdb.com/name/nm0000741/"
+    },
+    {
+      "name": "Courteney Cox",
+      "url": "https://www.imdb.com/name/nm0001073/"
+    },
+    {
+      "name": "Chevy Chase",
+      "url": "https://www.imdb.com/name/nm0000331/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Hewitt",
+      "url": "https://www.imdb.com/name/nm0382072/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Adam Rifkin",
+      "url": "https://www.imdb.com/name/nm0726472/"
+    },
+    {
+      "name": "David Berenbaum",
+      "url": "https://www.imdb.com/name/nm1183854/"
+    },
+    {
+      "name": "Jason Lethcoe",
+      "url": "https://www.imdb.com/name/nm0504670/"
+    }
+  ],
+  "review": {
+    "author": "jessidoo",
+    "dateCreated": "2020-03-02",
+    "inLanguage": "English",
+    "heading": "Text must not be empty.",
+    "reviewBody": "The soundtrack having 5 smash mouth songs really fits the tone and overall quality of the movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 22681,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.4
+  }
+}

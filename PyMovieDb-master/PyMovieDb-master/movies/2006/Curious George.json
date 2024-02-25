@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Curious George",
+  "url": "https://www.imdb.com/tt0381971/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODIxNzYxNDEzNl5BMl5BanBnXkFtZTgwMjA1NTM2MTI@._V1_.jpg",
+  "description": "The Man in the Yellow Hat is an oddball museum employee who looks after his pet monkey, an inquisitive and wonderful creature whose enthusiasm often gets the best of him.",
+  "review": {
+    "author": "Dingataca",
+    "dateCreated": "2007-11-30",
+    "inLanguage": "English",
+    "heading": "I'll be honest....I LIKED it!",
+    "reviewBody": "I thought I would be bored out of my SKULL seeing this, but I really enjoyed a lot of this movie. I am glad I watched this with some friends and their siblings, and by the end of it we were all pretty cheerful, Curious George is such a gentle, light feel-good movie! \\n\\nTed (voiced by Will Ferrell) is a guide at a museum. He needs more fun in his life, and it comes in the form of a cute little monkey, who Ted names George, after the George Washington statue. George stowed away on Ted's boat, after Ted was sent to find some ancient shrine in Africa - and lo behold! George is now part of Ted's life. However, George is a bit difficult, and Ted's life gets more and more stressful in the process...\\n\\nI thought the music was the highlight of the entire movie. Jack Johnson's soulful, calm, meaningful tracks just did it for me. Each song fit in perfectly with the movie too. The animation is fantastic. Though strictly childish, it is appealing to adults too! George is ADORABLE! Just look at him! I also liked the story, it is universal, and everyone enjoys a film, rather than kids freaking out and adults sitting there bored. Curious George does not do that. Everyone enjoys.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 17921,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2006-05-26",
+  "keywords": "cell phone photograph,animal character name as title,curious george the monkey character,no opening credits,part computer animation",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Will Ferrell",
+      "url": "https://www.imdb.com/name/nm0002071/"
+    },
+    {
+      "name": "Drew Barrymore",
+      "url": "https://www.imdb.com/name/nm0000106/"
+    },
+    {
+      "name": "Eugene Levy",
+      "url": "https://www.imdb.com/name/nm0506405/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Matthew O'Callaghan",
+      "url": "https://www.imdb.com/name/nm0639965/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ken Kaufman",
+      "url": "https://www.imdb.com/name/nm0442190/"
+    },
+    {
+      "name": "Mike Werb",
+      "url": "https://www.imdb.com/name/nm0108273/"
+    },
+    {
+      "name": "Margret Rey",
+      "url": "https://www.imdb.com/name/nm1597712/"
+    }
+  ]
+}

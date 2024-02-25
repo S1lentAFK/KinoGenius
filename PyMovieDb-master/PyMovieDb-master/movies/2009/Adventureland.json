@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Adventureland",
+  "url": "https://www.imdb.com/tt1091722/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI1NTYyMjA2N15BMl5BanBnXkFtZTcwNjU1OTA0Mg@@._V1_.jpg",
+  "description": "In the summer of 1987, a college graduate takes a 'nowhere' job at his local amusement park, only to find it's the perfect course to get him prepared for the real world.",
+  "review": {
+    "author": "CodyGriffis",
+    "dateCreated": "2009-01-26",
+    "inLanguage": "English",
+    "heading": "Superbad's Daddy",
+    "reviewBody": "I saw this movie at The Sundance Film Festival in Salt Lake City and I've been wanting to see it for months but I have a habit of anticipating movies and building them up, then once I see them I am disappointed. This was not the case. It is a lot like Superbad set in the 80's and minus the drawings. The quirky, awkward humor is there, the teen party humor is there, the love humor is there. One thing this movie has that Superbad didn't though, is a truly heart felt and believable love story that gives Adventureland a bit of a more serious tone. While it is hilarious it also has you really pulling for the young lovers and gets you involved in their affairs. With out giving too much away, all I can say is 'Go see this movie. If you liked Superbad, you'll like Adventureland, if you hated Superbad, you'll like Adventureland. It's a win-win situation.'",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 167862,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2009-09-11",
+  "keywords": "1980s,summer job,friendship,amusement park,romantic rivalry",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Jesse Eisenberg",
+      "url": "https://www.imdb.com/name/nm0251986/"
+    },
+    {
+      "name": "Kristen Stewart",
+      "url": "https://www.imdb.com/name/nm0829576/"
+    },
+    {
+      "name": "Ryan Reynolds",
+      "url": "https://www.imdb.com/name/nm0005351/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Greg Mottola",
+      "url": "https://www.imdb.com/name/nm0609549/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Greg Mottola",
+      "url": "https://www.imdb.com/name/nm0609549/"
+    }
+  ]
+}

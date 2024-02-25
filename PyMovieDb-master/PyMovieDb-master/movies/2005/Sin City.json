@@ -1,0 +1,73 @@
+
+
+{
+  "type": "Movie",
+  "name": "Sin City",
+  "url": "https://www.imdb.com/tt0401792/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDc2YmZiOTctNWJkNi00NTc4LThmMjctYjhlMGE1NDdkN2RlXkEyXkFqcGdeQXVyNjkwOTQ4MDE@._V1_.jpg",
+  "description": "An exploration of the dark and miserable Basin City and three of its residents, all of whom are caught up in violent corruption.",
+  "review": {
+    "author": "craig.tuohy",
+    "dateCreated": "2005-03-23",
+    "inLanguage": "English",
+    "heading": "Stunning...",
+    "reviewBody": "If I was to use one word to describe this film it would have to be....Violent! if i was allowed two words I would add 'Visceral'. The movie is two hours long and is structured in a similar way to Pulp Fiction. A bunch of stories set in a consistent world, with characters falling in and out of each others plot lines. On the whole it works brilliantly, and for the duration there isn't a boring moment. It is High octane, million miles and hour storytelling, and it EASILY Robert Rodriguez's best film. Allowing Frank Miller to write the script was a fantastic move, as the dialogue is edgy, witty and VERY faithful to the original material. In fact, many many lines are just taken straight from the pages. likewise, the camera behaves like a moving cartoon box out. The framing of all the key scenes is SO faithful to the printed page that it produces a truly original look that is fairly incomparable. Visually its a true original. Sometimes these visuals fall down, there are some very very obvious digital shots that don't quite gel, but on the whole the cinematography is jaw dropping. You could literally pause the movie at almost any point and just hang that frame on a wall, its that beautiful. Performances are good all round. Mickey Rourke absolutely nails Marv, and the girls of Old Town are all as beautiful as they are deadly. The other standout for me was Elijah Wood, who was truly chilling. Bruce Willis puts in a solid, if unspectacular turn as Hartigan. The film isn't entirely void of criticism. there's some fudging of time lines with Hartigans character (do we really buy Bruce Willis as a nearly 70 year old man?) and the jumps from story to story are jarring initially, but once it settles into itself the ride is fantastic. My other main criticism is the same I have with Quentin Tarantinos work. That every character and every voice in the movie is the same. This is more a fault of the source material, but when every single person is a wise cracking, hard boiled tough guy (even the women) then it kind of distills the effect of their toughness. In a film that is predominantly voice over driven, it is hard to differentiate characters when they all sound exactly the same, both tonally, and in the language they use. Even Marv, who's supposed to be a meat head, talks in gravelly prose that would make Bukowski feel like a Nancy. Other Minor niggles are hardly worth mentioning. From a technical standpoint the sound effects are WAY to loud. All of the punches, gunshots etc are given such ridiculous prominence on the track that they threaten to make mockery of the violence. I actually found that i didn't want any more guns fired cos it was hurting my ears! all in all though, its one hell of a ride, and only a couple of notches below Pulp Fiction on the 'Oh my god that film was cool-o-meter'.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 790983,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8
+  },
+  "contentRating": "18",
+  "genre": [
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "2005-06-03",
+  "keywords": "neo noir,based on graphic novel,corruption,dark horse comics,night",
+  "duration": "PT2H4M",
+  "actor": [
+    {
+      "name": "Mickey Rourke",
+      "url": "https://www.imdb.com/name/nm0000620/"
+    },
+    {
+      "name": "Clive Owen",
+      "url": "https://www.imdb.com/name/nm0654110/"
+    },
+    {
+      "name": "Bruce Willis",
+      "url": "https://www.imdb.com/name/nm0000246/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Frank Miller",
+      "url": "https://www.imdb.com/name/nm0588340/"
+    },
+    {
+      "name": "Quentin Tarantino",
+      "url": "https://www.imdb.com/name/nm0000233/"
+    },
+    {
+      "name": "Robert Rodriguez",
+      "url": "https://www.imdb.com/name/nm0001675/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Frank Miller",
+      "url": "https://www.imdb.com/name/nm0588340/"
+    },
+    {
+      "name": "Robert Rodriguez",
+      "url": "https://www.imdb.com/name/nm0001675/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "I Am Legend",
+  "url": "https://www.imdb.com/tt0480249/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTE1ZTBlYzgtNmMyNS00ZTQ2LWE4NjEtZjUxNDJkNTg2MzlhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "description": "Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.",
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "Horror"
+  ],
+  "datePublished": "2007-12-26",
+  "keywords": "virus,post apocalypse,new york city,survivalist,loneliness",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Will Smith",
+      "url": "https://www.imdb.com/name/nm0000226/"
+    },
+    {
+      "name": "Alice Braga",
+      "url": "https://www.imdb.com/name/nm0103797/"
+    },
+    {
+      "name": "Charlie Tahan",
+      "url": "https://www.imdb.com/name/nm2253071/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Francis Lawrence",
+      "url": "https://www.imdb.com/name/nm1349376/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Protosevich",
+      "url": "https://www.imdb.com/name/nm0698873/"
+    },
+    {
+      "name": "Akiva Goldsman",
+      "url": "https://www.imdb.com/name/nm0326040/"
+    },
+    {
+      "name": "Richard Matheson",
+      "url": "https://www.imdb.com/name/nm0558577/"
+    }
+  ],
+  "review": {
+    "author": "Marshall-D-Teach",
+    "dateCreated": "2020-02-22",
+    "inLanguage": "English",
+    "heading": "This movie was pretty brilliant...right up to the end.",
+    "reviewBody": "The legendary book comes to life, in this Francis Lawrence adaption. A perfect decision in casting Will Smith as the main protagonist greatly improves the film. The movie's visuals are pretty good even though some people may say otherwise. All in all, it's a great adaption of a terrific novel.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 806815,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  }
+}

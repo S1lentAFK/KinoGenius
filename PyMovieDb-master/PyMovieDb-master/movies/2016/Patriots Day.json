@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Patriots Day",
+  "url": "https://www.imdb.com/tt4572514/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODYxMDc0NTg2Nl5BMl5BanBnXkFtZTgwNjY0NDYzOTE@._V1_.jpg",
+  "description": "The story of the 2013 Boston Marathon bombing and the aftermath, which includes the city-wide manhunt to find the terrorists responsible.",
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2017-02-23",
+  "keywords": "boston marathon bombing,police,boston marathon,terrorist,terrorism",
+  "duration": "PT2H13M",
+  "actor": [
+    {
+      "name": "Mark Wahlberg",
+      "url": "https://www.imdb.com/name/nm0000242/"
+    },
+    {
+      "name": "Michelle Monaghan",
+      "url": "https://www.imdb.com/name/nm1157358/"
+    },
+    {
+      "name": "J.K. Simmons",
+      "url": "https://www.imdb.com/name/nm0799777/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Berg",
+      "url": "https://www.imdb.com/name/nm0000916/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Peter Berg",
+      "url": "https://www.imdb.com/name/nm0000916/"
+    },
+    {
+      "name": "Matt Cook",
+      "url": "https://www.imdb.com/name/nm3208946/"
+    },
+    {
+      "name": "Joshua Zetumer",
+      "url": "https://www.imdb.com/name/nm2440587/"
+    }
+  ],
+  "review": {
+    "author": "subxerogravity",
+    "dateCreated": "2016-12-23",
+    "inLanguage": "English",
+    "heading": "I was very impressed by what I saw.",
+    "reviewBody": "Was never fully sure about the movie. Very iffy only because I find it weird how so many movies about real life stories are about relatively recent events. The marathon bomber happen three years ago, that seems like such little time to make a narrative about history.\\n\\nDespite this, it was a great police drama. It showed law enforcement coming together for the greater good and it was a beautiful image to see, cause in most police dramas, cops even have discrimination upon themselves. If this was fiction, Boston PD would not be able to get along with Water Town PD and both would hate the FBI cause for some reason the tension of trying to find terrorist is not enough for writers. It was good to see cops be 100% at their job. They were not portrayed as being perfect only as being human and heroes are human. They were regular Boston citizens who wear a badge.\\n\\nIt was a very good story about people coming together to step up to the challenge. I expect noting less from director Peter Berg who has a real skill when it comes to bringing out every heroic moment.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 111636,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  }
+}

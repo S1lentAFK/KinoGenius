@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Blues Brothers",
+  "url": "https://www.imdb.com/tt0080455/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTdlMDExOGUtN2I3MS00MjY5LWE1NTAtYzc3MzIxN2M3OWY1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "description": "Jake Blues rejoins with his brother Elwood after being released from prison, but the duo has just days to reunite their old R&B band and save the Catholic home where the two were raised, outrunning the police as they tear through ...",
+  "review": {
+    "author": "mcstack",
+    "dateCreated": "2000-08-15",
+    "inLanguage": "English",
+    "heading": "Nitro and Glycerin",
+    "reviewBody": "A musical comedy action fantasy should not work, especially when one considers that it is the first SNL skit-to-screen adventure (which, history has shown us, is a decidedly mixed bag). But this one does. Two of the best car chases in cinematic history bookend the film, and in between there are show-stopping musical numbers, raw humor, Illinois Nazis, and a seriously disgruntled ex-fiancee. And it all makes perfect sense in the context of the universe created by Aykroyd (who co-wrote), Landis (who directed), and Belushi (his barely contained zeal provides the battery pack for this film).\\n\\nJake (Belushi) and Elwood (Aykroyd) are the former front men of a broken down blues band (actually a stunning collection of blues talent) which disbanded after Jake was arrested several years before. Upon his release, he discovers that his boyhood orphanage home is about to be foreclosed upon for non-payment of property taxes. Beaten up by a nun, sung to by James Brown, and touched by God, Jake sees the light and seeks to put the band together for one last show -- a charity benefit to save the orphanage.\\n\\nTheir journey takes them from James Brown to Aretha Franklin to Ray Charles, John Lee Hooker to Cab Calloway. The movie showcases the overwhelming talent of singers, musicians, and genres long out of vogue with popular musical tastes. Indeed, this movie is a vehicle for giving these performers a chance to shine -- to bring their music back to the masses and ultimately into pop-culture immortality (to go along with their more prestigious musical immortality).\\n\\nThis film is guaranteed to make you tap your feet, laugh out loud, gasp as both a mall and and entire fleet of Chicago police cars are destroyed, and believe in the magical powers of an old cop car. Like I said, it&apos;s a musical comedy action fantasy.\\n\\nAnd it works.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 212742,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  },
+  "contentRating": "AA",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "1980-10-23",
+  "keywords": "on the run,release from prison,1980s,reckless driving,police chase",
+  "duration": "PT2H13M",
+  "actor": [
+    {
+      "name": "John Belushi",
+      "url": "https://www.imdb.com/name/nm0000004/"
+    },
+    {
+      "name": "Dan Aykroyd",
+      "url": "https://www.imdb.com/name/nm0000101/"
+    },
+    {
+      "name": "Cab Calloway",
+      "url": "https://www.imdb.com/name/nm0130572/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Landis",
+      "url": "https://www.imdb.com/name/nm0000484/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dan Aykroyd",
+      "url": "https://www.imdb.com/name/nm0000101/"
+    },
+    {
+      "name": "John Landis",
+      "url": "https://www.imdb.com/name/nm0000484/"
+    }
+  ]
+}

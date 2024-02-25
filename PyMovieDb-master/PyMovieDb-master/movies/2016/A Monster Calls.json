@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "A Monster Calls",
+  "url": "https://www.imdb.com/tt3416532/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg1OTA5OTkyNV5BMl5BanBnXkFtZTgwODMwNDU5OTE@._V1_.jpg",
+  "description": "Conor, a twelve-year-old boy, encounters an ancient tree monster who proceeds to help him cope with his mother's terminal illness and being bullied in school.",
+  "review": {
+    "author": "almaric777",
+    "dateCreated": "2017-10-24",
+    "inLanguage": "English",
+    "heading": "Yew can do it",
+    "reviewBody": "I don't know who you would market this movie to. It's not a kid's movie, tho it tries very hard to look like one. It's not an adult movie (a boy and a talking tree), tho its themes certainly are mature. Both child and adult will squirm under the relentless emotional requirement with only a faint wisp of humor to lighten things up. Melancholy overload anyone? No? \n\nBut if you make it to the end, you'll have received an unexpected cathartic cleansing and a life lesson in your pocket that is hard, but beautiful in its truth.\n\nOnce you stop blubbering, that is.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 93280,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Adventure",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2017-01-01",
+  "keywords": "telling a story,monster,boy,terminal illness,nightmare",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "Lewis MacDougall",
+      "url": "https://www.imdb.com/name/nm6484968/"
+    },
+    {
+      "name": "Sigourney Weaver",
+      "url": "https://www.imdb.com/name/nm0000244/"
+    },
+    {
+      "name": "Felicity Jones",
+      "url": "https://www.imdb.com/name/nm0428065/"
+    }
+  ],
+  "director": [
+    {
+      "name": "J.A. Bayona",
+      "url": "https://www.imdb.com/name/nm1291105/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Patrick Ness",
+      "url": "https://www.imdb.com/name/nm4710432/"
+    },
+    {
+      "name": "Siobhan Dowd",
+      "url": "https://www.imdb.com/name/nm8435299/"
+    }
+  ]
+}

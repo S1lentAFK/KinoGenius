@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "Grown Ups",
+  "url": "https://www.imdb.com/tt1375670/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA0ODYwNzU5Nl5BMl5BanBnXkFtZTcwNTI1MTgxMw@@._V1_.jpg",
+  "description": "After their high school basketball coach passes away, five good friends and former teammates reunite for a Fourth of July holiday weekend.",
+  "review": {
+    "author": "torstensonjohn",
+    "dateCreated": "2018-08-08",
+    "inLanguage": "English",
+    "heading": "OLD style comedy",
+    "reviewBody": "Like films of the past such as Meatballs, Police Academy, Summer Rental and many others, Grown Ups delivers in SNL style comedy. with a star studded cast of Adam Sandler, Kevin James, David Spade, Rob Schneider, Chris Rock, Salma Hayek, Maya Rudolph, Maria Bello, Steve Buscemi and Tim Meadows this original style comedy is fair.\n\nA childhood basketball coach dies and the boys and their wives get together for a week to say goodbye and reminisce about the good old days and along the way teach their kids what being a kid back then meant. There is old style humor that if you grew up in the 80's you would remember.\n\nIt is a fun film for adults who recognize the meaning behind friendship and the childhood they had. I give this a solid 6 of 10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 272544,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2010-08-27",
+  "keywords": "sexy woman,cheerleader uniform,daughter,overweight,funeral",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Adam Sandler",
+      "url": "https://www.imdb.com/name/nm0001191/"
+    },
+    {
+      "name": "Salma Hayek",
+      "url": "https://www.imdb.com/name/nm0000161/"
+    },
+    {
+      "name": "Kevin James",
+      "url": "https://www.imdb.com/name/nm0416673/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dennis Dugan",
+      "url": "https://www.imdb.com/name/nm0240797/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Adam Sandler",
+      "url": "https://www.imdb.com/name/nm0001191/"
+    },
+    {
+      "name": "Fred Wolf",
+      "url": "https://www.imdb.com/name/nm0937748/"
+    }
+  ]
+}

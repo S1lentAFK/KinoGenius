@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Man with the Iron Fists",
+  "url": "https://www.imdb.com/tt1258972/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg5ODI3ODkzOV5BMl5BanBnXkFtZTcwMTQxNjUwOA@@._V1_.jpg",
+  "description": "On the hunt for a fabled treasure of gold, a band of warriors, assassins, and a rogue British soldier descend upon a village in feudal China, where a humble blacksmith looks to defend himself and his fellow villagers.",
+  "review": {
+    "author": "hypersonic8999",
+    "dateCreated": "2013-02-04",
+    "inLanguage": "English",
+    "heading": "Not intended to be a masterpiece, not a bad film",
+    "reviewBody": "Firstly, a disclaimer: All in all, this movie succeeds in what it sets out to do. It's a homage to grindhouse Kung Fu movies of the 70's and 80's and it succeeds very well in being just that kind of film. People go around saying how crap it was, but let's remind ourselves, not every movie is trying to be a masterpiece, and your subjective expectations don't mean this is a bad movie. Everyone went in expecting to see Kill Bill for some reason, because it was produced by Tarantino.\\n\\nAt any rate, the film has quite a nice plot, reminiscent of the movies it tries to pay homage to. It's a simple plot, not many twists and turns to it, but it does draw you in. It has drama, it plays on base emotions like greed and lust for power, and it involves a bloody multi-faction war. Basically, the governor of a Chinese province is transporting some gold (for no specific reason, I assumed it was collected taxes or army wages), and assigns a warrior clan (the Lions) with protecting the shipment while it passes through their area, which is infested with several crime syndicates. The Lions clan leader is murdered by his lieutenants as they want to claim the gold for themselves. Later on, the story starts involving another warrior clan that is protecting the gold (Geminis), a crime syndicate (Wolves), a mercenary army (Jackals), a blacksmith (RZA) that just wants to leave with his beloved woman, a whore house where said woman works (The Blossom House), a mysterious assassin (Poison Dagger), a mysterious cowboy (Jack Knife, played by Russel Crowe) and the son of the murdered Lions clan leader (Zen Yi or X-Blade).\\n\\nThe film contains several fight scenes and violent acts and if you are an action fan, you are gonna enjoy this. The cinematography is quite good, especially in the final battle scene. The acting is excellent for the most part (except RZA at some parts) and considering this was intended to resemble a grindhouse b-movie film. I especially enjoyed the obese Russel Crowe in the role of Jack Knife.\\n\\nOverall, it's a good watch if you don't go in expecting to see the masterpiece of the year in Kung Fu movies, or a parody along the lines of Black Dynamite. It was certainly much more enjoyable than Argo 7/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 64109,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action"
+  ],
+  "datePublished": "2012-12-07",
+  "keywords": "china,chop socky,gang war,sword fight,martial arts",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Russell Crowe",
+      "url": "https://www.imdb.com/name/nm0000128/"
+    },
+    {
+      "name": "Cung Le",
+      "url": "https://www.imdb.com/name/nm1087183/"
+    },
+    {
+      "name": "Lucy Liu",
+      "url": "https://www.imdb.com/name/nm0005154/"
+    }
+  ],
+  "director": [
+    {
+      "name": "RZA",
+      "url": "https://www.imdb.com/name/nm0753526/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "RZA",
+      "url": "https://www.imdb.com/name/nm0753526/"
+    },
+    {
+      "name": "Eli Roth",
+      "url": "https://www.imdb.com/name/nm0744834/"
+    }
+  ]
+}

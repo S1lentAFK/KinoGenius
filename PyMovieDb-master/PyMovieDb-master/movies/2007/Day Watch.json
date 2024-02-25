@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Dnevnoy dozor",
+  "url": "https://www.imdb.com/tt0409904/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMzNjQwODc2N15BMl5BanBnXkFtZTgwMDI3MDQzMzI@._V1_.jpg",
+  "description": "When Anton, a Warrior of Light, is falsely accused of murdering some vampires, he embarks on a journey to find the real killer and search for an ancient object that has the power to alter destiny.",
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Fantasy",
+    "Horror"
+  ],
+  "datePublished": "2007-10-05",
+  "keywords": "year 2006,2000s,year 1992,1990s,moscow",
+  "duration": "PT2H12M",
+  "rating": {
+    "ratingCount": 35288,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "review": {
+    "author": "abnikki",
+    "dateCreated": "2008-02-06",
+    "inLanguage": "English",
+    "heading": "Who translated this movie???",
+    "reviewBody": "After reading the book trilogy I was looking forward to these movies. As in any adaptation, not everything makes it the screen. The movie was OK, I like the supernatural subject matter so I was able to stomach watching the whole movie. What drove me crazy is the translation!!!! I speak Russian and the subtitles were totally off. I understand that some things don't translate literally but in some parts the subtitles had nothing to do with the words that the actors spoke. If anyone is in the industry, can you please enlighten us on the process of how the subtitles come about??? Do the people at FOX think that there will be no Russian speaking people watching the movie?",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "actor": [
+    {
+      "name": "Konstantin Khabenskiy",
+      "url": "https://www.imdb.com/name/nm0450975/"
+    },
+    {
+      "name": "Mariya Poroshina",
+      "url": "https://www.imdb.com/name/nm1115009/"
+    },
+    {
+      "name": "Vladimir Menshov",
+      "url": "https://www.imdb.com/name/nm0579828/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Timur Bekmambetov",
+      "url": "https://www.imdb.com/name/nm0067457/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Timur Bekmambetov",
+      "url": "https://www.imdb.com/name/nm0067457/"
+    },
+    {
+      "name": "Sergey Lukyanenko",
+      "url": "https://www.imdb.com/name/nm1573262/"
+    },
+    {
+      "name": "Alexander Talal",
+      "url": "https://www.imdb.com/name/nm2158185/"
+    }
+  ]
+}

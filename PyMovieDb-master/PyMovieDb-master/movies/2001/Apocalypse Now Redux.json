@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "Apocalypse Now",
+  "url": "https://www.imdb.com/tt0078788/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+  "datePublished": "1979-12-19",
+  "contentRating": "X",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "War"
+  ],
+  "duration": "PT2H27M",
+  "rating": {
+    "ratingCount": 704334,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.4
+  },
+  "review": {
+    "author": "dk777",
+    "dateCreated": "2022-10-11",
+    "inLanguage": "English",
+    "heading": "A Surreal Journey Into Darkness",
+    "reviewBody": "Apocalypse Now is an interesting film, not because it is supposedly an anti-war film, but because it is surreal and shows an interesting journey into madness.\n\nMartin Sheen gives us an insight into his character here and we see the senselessness of the whole situation and how easy it is to lose yourself in certain situations.\n\nWe follow his journey and the various events that befall him and a small group of soldiers in a patrol boat traveling deep into the jungle. On their way, really bizarre things happen.\n\nAlong the way, we also see Robert Duvall in the role of a completely insane officer, whose episodic role has a profound impact on the film.\n\nThe film should essentially be anti-war, but it didn't strike me as such, but simply as a film about the fate of various people who found themselves in unusual situations.\n\nTheir whole mission doesn't really make sense, and in the end they accomplished nothing, but that's the point. Everything was really in vain.\n\nThe direction is excellent, the music is perfectly integrated into the film and matches the tone of the film.\n\nFor me, this is a film about the loss of reason and the journey to madness. If civilization completely collapses, and somewhere it has already collapsed a long time ago, this is roughly what we can expect, madness and insanity.\n\nI watched three versions of the film and I liked the Redux version the best.\n\nAn interesting and brutal journey into madness and darkness.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 704334,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.4
+  },
+  "keywords": "vietnam war,insanity,secret mission,vietnam,jungle",
+  "actor": [
+    {
+      "name": "Martin Sheen",
+      "url": "https://www.imdb.com/name/nm0000640/"
+    },
+    {
+      "name": "Marlon Brando",
+      "url": "https://www.imdb.com/name/nm0000008/"
+    },
+    {
+      "name": "Robert Duvall",
+      "url": "https://www.imdb.com/name/nm0000380/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Francis Ford Coppola",
+      "url": "https://www.imdb.com/name/nm0000338/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Milius",
+      "url": "https://www.imdb.com/name/nm0587518/"
+    },
+    {
+      "name": "Francis Ford Coppola",
+      "url": "https://www.imdb.com/name/nm0000338/"
+    },
+    {
+      "name": "Michael Herr",
+      "url": "https://www.imdb.com/name/nm0380282/"
+    }
+  ]
+}

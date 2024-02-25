@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Max",
+  "url": "https://www.imdb.com/tt3369806/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA2Nzk0NzIyN15BMl5BanBnXkFtZTgwMjEyNTE5NDE@._V1_.jpg",
+  "description": "A military dog that helped American Marines in Afghanistan returns to the United States and is adopted by his handler's family after suffering a traumatic experience.",
+  "review": {
+    "author": "micheltom",
+    "dateCreated": "2020-12-07",
+    "inLanguage": "English",
+    "heading": "My new best movie!!!",
+    "reviewBody": "I recently watched this movie and really liked it !! This movie is so much better than other new, cool movies !! It's not just about sex and brutality ! And not just a doggy family adventure movie !! It has serious content !! How an animal (dog) can change a person's life Not a perfect movie! There are mistakes!! BUT let's look at its content and not just for kids !! One of the most significant movies I have ever seen for me !! I recommend anyone to watch and not just watch brutal, scary, horrible movies !! Such a movie is much more valuable than other famous big movies !\n\n+I'm sorry about the second part\uD83D\uDE25\uD83D\uDE25 The real is family adventure movie with no more content !! I was expecting more from a MAX 2 !!",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 28087,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Adventure",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2015-08-07",
+  "keywords": "dog,dog movie,death of marine,dog adoption,man dog relationship",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Thomas Haden Church",
+      "url": "https://www.imdb.com/name/nm0002006/"
+    },
+    {
+      "name": "Josh Wiggins",
+      "url": "https://www.imdb.com/name/nm5946818/"
+    },
+    {
+      "name": "Luke Kleintank",
+      "url": "https://www.imdb.com/name/nm3312554/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Boaz Yakin",
+      "url": "https://www.imdb.com/name/nm0945026/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Boaz Yakin",
+      "url": "https://www.imdb.com/name/nm0945026/"
+    },
+    {
+      "name": "Sheldon Lettich",
+      "url": "https://www.imdb.com/name/nm0504802/"
+    }
+  ]
+}

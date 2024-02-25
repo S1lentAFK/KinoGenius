@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Bag Man",
+  "url": "https://www.imdb.com/tt2212008/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE4NDc3NjUyNl5BMl5BanBnXkFtZTgwMDA4MDQwMTE@._V1_.jpg",
+  "description": "A criminal bides his time at a seedy motel, waiting for his boss after killing several men and making away with a mystery bag.",
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2015-07-20",
+  "keywords": "bagman,motel,assault rifle,violence against a woman,man punches a woman",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "John Cusack",
+      "url": "https://www.imdb.com/name/nm0000131/"
+    },
+    {
+      "name": "Rebecca Da Costa",
+      "url": "https://www.imdb.com/name/nm3762369/"
+    },
+    {
+      "name": "Robert De Niro",
+      "url": "https://www.imdb.com/name/nm0000134/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Grovic",
+      "url": "https://www.imdb.com/name/nm4333222/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Grovic",
+      "url": "https://www.imdb.com/name/nm4333222/"
+    },
+    {
+      "name": "Paul Conway",
+      "url": "https://www.imdb.com/name/nm0176759/"
+    },
+    {
+      "name": "James Russo",
+      "url": "https://www.imdb.com/name/nm0751638/"
+    }
+  ],
+  "review": {
+    "author": "kagey-28769",
+    "dateCreated": "2021-01-17",
+    "inLanguage": "English",
+    "heading": "What was in the bag ? !!",
+    "reviewBody": "What there should have been in the bag was some BULBS for the lights as there wasn't any !!\n\nMediocre film with a few good bits with a story that only has any story and logic when it's laid out at the end !!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 17067,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  }
+}

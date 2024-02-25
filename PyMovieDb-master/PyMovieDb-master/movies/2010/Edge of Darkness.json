@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Edge of Darkness",
+  "url": "https://www.imdb.com/tt1226273/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTczMDk5MTg5Ml5BMl5BanBnXkFtZTcwOTYyMjE5Mg@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "dick-froderman",
+    "dateCreated": "2011-03-06",
+    "inLanguage": "English",
+    "heading": "What an unbelievable surprise!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 98563,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "datePublished": "2010-01-29",
+  "keywords": "father daughter relationship,political corruption,remake by original director,2000s,activist",
+  "duration": "PT1H57M",
+  "actor": [
+    {
+      "name": "Mel Gibson",
+      "url": "https://www.imdb.com/name/nm0000154/"
+    },
+    {
+      "name": "Ray Winstone",
+      "url": "https://www.imdb.com/name/nm0935653/"
+    },
+    {
+      "name": "Danny Huston",
+      "url": "https://www.imdb.com/name/nm0396812/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Martin Campbell",
+      "url": "https://www.imdb.com/name/nm0132709/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William Monahan",
+      "url": "https://www.imdb.com/name/nm1184258/"
+    },
+    {
+      "name": "Andrew Bovell",
+      "url": "https://www.imdb.com/name/nm0100597/"
+    },
+    {
+      "name": "Troy Kennedy Martin",
+      "url": "https://www.imdb.com/name/nm0448392/"
+    }
+  ]
+}

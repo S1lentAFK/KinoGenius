@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Mr. Brooks",
+  "url": "https://www.imdb.com/tt0780571/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQyNTk5MTMxN15BMl5BanBnXkFtZTcwNTc0ODI1NA@@._V1_.jpg",
+  "description": "A well-respected businessman is sometimes controlled by his murder and mayhem-loving alter ego.",
+  "review": {
+    "author": "The_Amazing_Spy_Rises",
+    "dateCreated": "2007-05-31",
+    "inLanguage": "English",
+    "heading": "Brilliant suspense and tension...Mr. Brooks really keeps you thinking",
+    "reviewBody": "'Mr. Brooks', 2007's first true psychological thriller, features an all star cast with Kevin Costner, Demi Moore, Dane Cook, and William Hurt. With a thriller like this, and 2 actors (Cook and Costner) who are playing extremely different roles, the film could have failed. It doesn't at all. It is an extremely clever and intelligent film that is a great ride from start to finish.\n\nEarl Brooks (Oscar Winner Kevin Costner) is Portland's man of the year. He has it all, a beautiful wife, a wonderful company, an awesome home, and a daughter (Danielle Panabaker) in college. But Mr. Brooks also has a secret. A secret addiction. He loves killing, mostly because of the maniacal representation of his temptations and desires: Marshall (Oscar Winner William Hurt). After one last killing, Mr. Brooks is ready to quit, but is quickly blackmailed back into killing by the young photographer known simply as Mr. Smith (Dane Cook). Smith just wants to tag along for the ride to feel the rush of killing. But this murderous trio of Brooks/Marshall/Smith must be careful, as tough-as-nails detective Tracy Atwood (Demi Moore) is on their trail.\n\nI know my description of the plot is thorough, but it doesn't spoil anything, as all this is introduced within 10 to 15 minutes of the opening. I give director Bruce Evans a lot of credit for moving the film along quickly, because most of it is the self-inflection conversations of Mr. Brooks and Marshall. The acting is very well done, and with a cast like this, you should expect it. Costner has been everyone's hero the past 2 decades, but Costner totally breaks the mold with a daring and riveting performance as the conflicted, murderous, yet loving Mr. Brooks. His performance really allows the audience to root for him, even though he's a vicious killer. Costner effectively displays internal conflicts between the good side of him, and the dark side. William Hurt is equally haunting as Marshall, the figment of Brooks' imagination. No stranger to villainous characters (there is no true villain, but Costner, Cook, and Hurt's characters are all bad men), Hurt will grab the audience's attention with his smooth and liquid delivery and cruel responses to Mr. Brooks's regrets. Demi Moore delivers in a role that is a type of character rarely seen in movies anymore. Moore gives us a very flawed, yet strong woman who is the only truly good and moral character in the entire movie. Her character has a lot going on in her life, and it is definitely conveyed in her impatience and quick temper, but we always know why she is how she is. Lastly, and the biggest surprise of the entire film, Dane Cook steals the show in one of the better performances of recent memory. Cook goes tit for tat with Costner in every scene they share, providing some pretty intense moments between the pair. Being the comedian he is, Cook will get a couple of laughs, but this role is completely serious. Cook looks like he had a lot of fun doing this, as he gives us a very layered Mr. Smith who is very disturbed, but at the same time, we know he's a fragile guy who is just a pawn in Mr. Brooks' master plan. Cook will blow you away with his range, and he does a great job displaying his character arc. Mr. Smith starts off as a sarcastic and overconfident guy who is looking to toy with a killer. By the end of the film, Smith changes radically into a completely different person. Way to go Dane.\n\nBruce Evans does a great job at the helm of the film, providing a fast paced psychological thriller helped out by clever dialog, and one of the most intelligent characters portrayed on film since Hannibal Lecter in Mr. Brooks. It's almost unreal how smart and clever Costner's character is. Another thing I liked was the symmetry between Costner and Hurt. The actors carry a lot of the same mannerisms into their characters, and with the help of Evans, it looks great. There are times where they will do the same movement at the exact same time. Mr. Brooks is a first rate thriller that any fan of the genre should enjoy. The plot has its twists and turns before the grand finale, which reminds the viewer that...Mr. Brooks always has a plan...\n\n8/10 --spy",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 155779,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "18",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2007-10-12",
+  "keywords": "murder,serial killer,secret,fingerprint,amateur photographer",
+  "duration": "PT2H",
+  "actor": [
+    {
+      "name": "Kevin Costner",
+      "url": "https://www.imdb.com/name/nm0000126/"
+    },
+    {
+      "name": "Demi Moore",
+      "url": "https://www.imdb.com/name/nm0000193/"
+    },
+    {
+      "name": "William Hurt",
+      "url": "https://www.imdb.com/name/nm0000458/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bruce A. Evans",
+      "url": "https://www.imdb.com/name/nm0262595/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bruce A. Evans",
+      "url": "https://www.imdb.com/name/nm0262595/"
+    },
+    {
+      "name": "Raynold Gideon",
+      "url": "https://www.imdb.com/name/nm0317279/"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Downsizing",
+  "url": "https://www.imdb.com/tt3858620/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU5NjQ5NjA3M15BMl5BanBnXkFtZTgwMTU2MzY3MjE@._V1_.jpg",
+  "description": "Four people are unwillingly stuck, on different floors of the same building, with a certain time limit to get out. Three must die, one will survive.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": null,
+  "genre": [
+    "Short",
+    "Thriller"
+  ],
+  "datePublished": "2014-09-26",
+  "keywords": null,
+  "duration": null,
+  "actor": [
+    {
+      "name": "Steven Baresic",
+      "url": "https://www.imdb.com/name/nm7932865/"
+    },
+    {
+      "name": "Stephanie Bergeron",
+      "url": "https://www.imdb.com/name/nm6410764/"
+    },
+    {
+      "name": "Olivia Bremner",
+      "url": "https://www.imdb.com/name/nm6012324/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Vaibhav Parashar",
+      "url": "https://www.imdb.com/name/nm6624473/"
+    },
+    {
+      "name": "Peter Tsaconas",
+      "url": "https://www.imdb.com/name/nm6410762/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Pugliese",
+      "url": "https://www.imdb.com/name/nm4714409/"
+    }
+  ]
+}

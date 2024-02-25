@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "Cosmopolis",
+  "url": "https://www.imdb.com/tt1480656/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY1NjI0MDYyNV5BMl5BanBnXkFtZTcwNDIzMDEyOA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "p_v_dshoi",
+    "dateCreated": "2013-01-04",
+    "inLanguage": "English",
+    "heading": "Philosophical and poetic",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 49866,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Fantasy"
+  ],
+  "datePublished": "2012-05-25",
+  "keywords": [
+    "female buttocks",
+    "road movie",
+    "sex in hotel",
+    "female frontal nudity",
+    "capitalism"
+  ],
+  "duration": "PT1H49M",
+  "actor": [
+    {
+      "name": "Robert Pattinson",
+      "url": "https://www.imdb.com/name/nm1500155/"
+    },
+    {
+      "name": "Juliette Binoche",
+      "url": "https://www.imdb.com/name/nm0000300/"
+    },
+    {
+      "name": "Sarah Gadon",
+      "url": "https://www.imdb.com/name/nm0300589/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Cronenberg",
+      "url": "https://www.imdb.com/name/nm0000343/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Cronenberg",
+      "url": "https://www.imdb.com/name/nm0000343/"
+    },
+    {
+      "name": "Don DeLillo",
+      "url": "https://www.imdb.com/name/nm1680347/"
+    }
+  ]
+}

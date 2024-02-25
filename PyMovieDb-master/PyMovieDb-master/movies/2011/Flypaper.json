@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Flypaper",
+  "url": "https://www.imdb.com/tt1541160/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzU3NjM1MTk5NF5BMl5BanBnXkFtZTcwNDI4NDQ4NQ@@._V1_.jpg",
+  "description": "A man caught in the middle of two simultaneous robberies at the same bank desperately tries to protect the teller with whom he's secretly in love.",
+  "review": {
+    "author": "Matt_Layden",
+    "dateCreated": "2012-03-28",
+    "inLanguage": "English",
+    "heading": "Clever, Humorous & Entertaining.",
+    "reviewBody": "Two separate bank robberies go down at the same time, at the same bank. The hi-tech wizard robberies go for the vault and the redneck hick robbers go for the ATM machines. Things get more complicated when a Rain Man like character is stuck inside and believes that there is something else going down as well.\\n\\nFlypaper is an under the radar flick that surprises those who give it a chance. It stars Patrick Dempsy in the Rain Man role, he plays a character obsessed with every little detail and he thinks that there is something more sinister going down than the two bank robberies. He enters into detective mode to figures things out, which makes for hilarious situations between the two groups of robbers and the hostages. Dempsy has a crush on one of the bank tellers, played by Ashley Judd in a pretty forgettable performance. Two comedic highlights belong to the redneck robbers played by the always reliable Tim Blake Nelson and the larger than life Pruitt Taylor Vince, better known as Otis from Walking Dead. They play well off each other and the other actors. They are the more eccentric of the characters who run into problems every turn they take. \\n\\nThe film plays out like a mystery, as the audience has to piece together who shot who and why. Are the bank robberies related? Coincidence? Are people who they say they are? All these questions keep us intrigued in the story and the humour keeps us entertained throughout. It kind of plays out like a modern version of the 1985 comedy Clue, as people die and characters are running around trying to figure out the who and why. \\n\\nThere are twists and turns and the film isn't as predictable as one would think. Just when you think you know what's going on, it pulls the rug out from under you. I managed to predict one twist before the revelation and gave myself a pat on the back for it. Others managed to surprise me. As a bank heist film, it places a nice spin on things. Usually when bank robberies go awry it turns into a hostage situation with police, yet Flypaper isn't interested in that aspect. It chooses to stay inside the bank the whole time.\\n\\nFlypaper works and it never confuses the viewer despite the amount of information it throws across the screen. Dempsy is convincing as the oddball whose good with numbers and the supporting characters are seem to be having a good time. The film isn't afraid to poke fun at itself, which gives the film a light hearted tone. Flypaper is a wonderful surprise.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 33881,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "datePublished": "2011-08-25",
+  "keywords": "master criminal,secret identity,whodunit,murder,robbery gone awry",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Patrick Dempsey",
+      "url": "https://www.imdb.com/name/nm0001131/"
+    },
+    {
+      "name": "Ashley Judd",
+      "url": "https://www.imdb.com/name/nm0000171/"
+    },
+    {
+      "name": "Tim Blake Nelson",
+      "url": "https://www.imdb.com/name/nm0625789/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rob Minkoff",
+      "url": "https://www.imdb.com/name/nm0591450/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jon Lucas",
+      "url": "https://www.imdb.com/name/nm0524190/"
+    },
+    {
+      "name": "Scott Moore",
+      "url": "https://www.imdb.com/name/nm0601859/"
+    }
+  ]
+}

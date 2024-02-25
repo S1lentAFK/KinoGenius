@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "National Security",
+  "url": "https://www.imdb.com/tt0271668/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTgzZDQzNTQtY2NmMC00YTM1LWEwYmEtZGIwNmJmOTdiOTZlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "Two mismatched security guards are thrown together to bust a smuggling operation.",
+  "review": {
+    "author": "vchimpanzee",
+    "dateCreated": "2013-04-04",
+    "inLanguage": "English",
+    "heading": "Silly but entertaining mess",
+    "reviewBody": "L.A. cops Charlie and Hank respond to what they believe is a false alarm. It is not, but they went to check out the situation just in case. Charlie is killed.\\n\\nEarl wants to be an L.A. cop but his outrageous and reckless behavior gets him kicked out of the academy. Never mind that Earl can do no wrong because any criticism from whites is the result of racism against black people.\\n\\nHank is bitter about losing his partner, so it doesn't help matters that he is the one who catches Earl trying to break into his own car. And Earl is allergic to bees so when a bee complicates the situation and Hank tries to swat the bee, and Earl is mostly behind the car so the person videotaping the scene can't really tell what's going on ...\\n\\nIt's Rodney King all over again. And the joke of a trial gets Hank sent up the river.\\n\\nSix months later, Earl and Hank work for the same security company. Hank ends up at the Coca-Cola warehouse where Earl works because, while the guys who got Charlie killed are up to no good, Earl is making out with the secretary.\\n\\nThe result: a whole lot of wasted soda.\\n\\nEarl and Hank now have to learn to work together so they can catch the guys responsible for Charlie's death. Never mind that they are not real cops. The results are hilarious and fun. There is even an exciting car chase which results in the pursuing cop cars turning upside down.\\n\\nThis is just a fun movie with some explosions, crashes and other excitement and plenty of laughs. Don't look for outstanding acting or writing, but to me Martin Lawrence is quite appealing despite his constant racist attitude. Toward the end, this is actually pretty good as the guys work toward solving the mystery.\\n\\nOne actor stands out: Cleo King is a black woman who picks up the guys when they need a ride. And she won't take any attitude, though she is really a nice person. She's not around long.\\n\\nMartin Lawrence's stunt man (or men) does an impressive job. It's scary what they let him do.\\n\\nDon't expect too much, and you won't be disappointed.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 53903,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2003-03-21",
+  "keywords": "los angeles police department,lapd,race relations,corrupt cop,firefight",
+  "duration": "PT1H28M",
+  "actor": [
+    {
+      "name": "Martin Lawrence",
+      "url": "https://www.imdb.com/name/nm0001454/"
+    },
+    {
+      "name": "Steve Zahn",
+      "url": "https://www.imdb.com/name/nm0001872/"
+    },
+    {
+      "name": "Colm Feore",
+      "url": "https://www.imdb.com/name/nm0272173/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dennis Dugan",
+      "url": "https://www.imdb.com/name/nm0240797/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jay Scherick",
+      "url": "https://www.imdb.com/name/nm0771065/"
+    },
+    {
+      "name": "David Ronn",
+      "url": "https://www.imdb.com/name/nm0740115/"
+    }
+  ]
+}

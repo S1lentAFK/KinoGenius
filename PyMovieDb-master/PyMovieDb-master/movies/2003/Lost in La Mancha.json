@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Lost in La Mancha",
+  "url": "https://www.imdb.com/tt0308514/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcyMDU0MjkxOV5BMl5BanBnXkFtZTYwMjkzMjc2._V1_.jpg",
+  "description": "Terry Gilliam's doomed attempt to get his film, The Man Who Killed Don Quixote (2018), off the ground.",
+  "review": {
+    "author": "JohnDeSando",
+    "dateCreated": "2003-04-29",
+    "inLanguage": "English",
+    "heading": "No one who loves film should miss this inside story of a gifted director pursuing a losing cause.",
+    "reviewBody": "J.K. Rowling said that Director Terry Gilliam's `Time Bandits' was the inspiration for the Harry Potter series. Then who is better to fail than such a visionary-he already did with ` Adventures of Baron Munchausen.' But wait, he fails again with his incomplete `The Man Who Killed Don Quixote.'\\n\\n In grand dramatic style, the mighty one falls, and in the process instructs us all about the difficulties of working outside Hollywood with shaky European financing and following a dream against all odds-and along the way endearing himself to us all.\\n\\nMovies on movies abound by the hundreds, from the elegant `Day for Night' to the seedy `Boogie Nights.' None has shown, however, a filmmaker's pain and frustration the way this documentary, `Lost in La Mancha,' does. Directors Keith Fulton and Louis Pepe, at Gilliam's request, document his failed attempt to screen the Quixote story. They create a cautionary tale about moviemaking, especially vain attempts at adapting great literature. In this case, Orson Welles spent 20 years grubbing for funding for `Quixote' and died without the picture; in 1972 Arthur Hiller directed Peter O'Toole in a tepid `Man of La Mancha.'\\n\\nGilliam's previous successes (`The Fisher King,' `12 Monkeys') were good enough for him to round up $30 million for this film (half of what was really needed), yet the ghost of `Munchausen' seems to visit every scene: If Gilliam is not talking about its flaws, everyone else seems to be referencing it as the disasters pile up in pre-production and mount during the first week of production. \\n\\nOf Biblical proportions are the extraordinary desert rains and the NATO jets over the Spanish desert. Of human dimension are Jean Rochefort (Quixote) and his ailing 70-year old prostate. To spice it all further is the difficulty of getting Vanessa Paradis to the set. In the end, Rochefort's illness damns the project, but Gilliam, we are told in the end, will try to buy back the script from the insurance company!\\n\\nNo one who loves film should miss this inside story of a gifted director pursuing a losing cause just as his fictional subject fought windmills 400 years ago (or Welles a quarter a century ago). Although Cervantes regularly ridiculed Quixote, readers became fonder of him with each insult. The more idealistic Gilliam becomes in the face of failure, the more the audience will love the creative 61-year-old director, who believes enough in his vision to continue shooting `images' after everyone else has forsaken the project: `The movie already exists in here [his head]. I have visualized it so many times . . . .' As `Black Hawk Down' should make recruits think more carefully about the glory of war, aspiring filmmakers should see `Lost in La Mancha' before devoting a life to the windmills of Hollywood. However, the romance of the most influential art form in all of civilization will convert the Orson Welleses and Terry Gilliams regardless of the pain. \\n\\nEven T.S. Eliot knew there was life in the images: `But as if a magic lantern threw the nerves in patterns on a screen . . ..'",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 11966,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2002-08-02",
+  "keywords": "making of film,don quixote,making of,troubled production,low budget filmmaking",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Terry Gilliam",
+      "url": "https://www.imdb.com/name/nm0000416/"
+    },
+    {
+      "name": "Johnny Depp",
+      "url": "https://www.imdb.com/name/nm0000136/"
+    },
+    {
+      "name": "Jeff Bridges",
+      "url": "https://www.imdb.com/name/nm0000313/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Keith Fulton",
+      "url": "https://www.imdb.com/name/nm0298488/"
+    },
+    {
+      "name": "Louis Pepe",
+      "url": "https://www.imdb.com/name/nm0672492/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Keith Fulton",
+      "url": "https://www.imdb.com/name/nm0298488/"
+    },
+    {
+      "name": "Louis Pepe",
+      "url": "https://www.imdb.com/name/nm0672492/"
+    }
+  ]
+}

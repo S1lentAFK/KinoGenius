@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Rachel Getting Married",
+  "url": "https://www.imdb.com/tt1084950/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU4MTQ0MzQwOF5BMl5BanBnXkFtZTcwODY1NDI5MQ@@._V1_.jpg",
+  "description": "A young woman who has been in and out of rehab for the past ten years returns home for the weekend for her sister's wedding.",
+  "review": {
+    "author": "littlemartinarocena",
+    "dateCreated": "2008-10-04",
+    "inLanguage": "English",
+    "heading": "A Wedding and Debra Winger",
+    "reviewBody": "Jonathan Demme back in great form. That's the good news. I've read somewhere he didn't want to work with actors anymore. He wanted to stick to documentaries where freedom (as a filmmaker) is king. I'm glad he changed his mind. He is a gift to actors and here they are subjected to a documentary style that for the first few minutes made me fear the worst but that at the end of the day it works brilliantly. Jenny Lumet's terrific scrip feels amazingly personal (wasn't her father, Sidney Lumet, once Lena Horne's son in law?)The characters are too vivid to be the figment of someone's imagination or is Demnme's documentary style that makes it appear that way?. I don't know and quite frankly I don't care. I went where the characters took me, Anne Hathaway and Rosemary DeWitt are terrific but it is Debra Winger's distant mother that will make me want to see this film again. I don't know how explain it. She's on the screen for a few minutes but her presence is extraordinary. Even when she's part of the crowd you can't take your eyes off her. Go see it/her",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 50979,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2009-01-23",
+  "keywords": "dysfunctional family,junkie,hysteria,divorce,panties",
+  "duration": "PT1H53M",
+  "actor": [
+    {
+      "name": "Anne Hathaway",
+      "url": "https://www.imdb.com/name/nm0004266/"
+    },
+    {
+      "name": "Rosemarie DeWitt",
+      "url": "https://www.imdb.com/name/nm1679669/"
+    },
+    {
+      "name": "Debra Winger",
+      "url": "https://www.imdb.com/name/nm0000700/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jonathan Demme",
+      "url": "https://www.imdb.com/name/nm0001129/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jenny Lumet",
+      "url": "https://www.imdb.com/name/nm0525886/"
+    }
+  ]
+}

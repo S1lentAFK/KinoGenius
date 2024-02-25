@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Ruins",
+  "url": "https://www.imdb.com/tt0963794/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzQyODAyYzctMjg5YS00NmY3LTljZjctMDNkNGU1MjdmN2RlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+  "description": "A leisurely Mexican holiday takes a turn for the worse when a group of friends and a fellow tourist embark on a remote archaeological dig in the jungle, where something evil lives among the ruins.",
+  "datePublished": "2008-06-20",
+  "contentRating": "18",
+  "genre": [
+    "Adventure",
+    "Horror",
+    "Thriller"
+  ],
+  "duration": "PT1H30M",
+  "keywords": "survival,amputation,mexico,female nudity,shower",
+  "rating": {
+    "ratingCount": 82393,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "review": {
+    "author": "kevin_crighton",
+    "dateCreated": "2008-06-20",
+    "inLanguage": "English",
+    "heading": "A pretty good horror movie",
+    "reviewBody": "Four American tourists agree to a trip into a South American jungle with a German tourist, to look at an ancient Aztec temple. Once they get there, they find themselves trapped on the temple by some locals. However, they begin to realize however, that they are keeping them there for a horrifying reason....\\n\\nOn the surface, this is yet another movie about American tourists getting into trouble in another country. However, unlike for example Paradise Lost, the Hostel movies, Wolf Creek, and such, the threat here is not from a human source, but something else. It&apos;s a refreshing change, but that is only one of the plus points in this good horror movie. There are many more.\\n\\nThe script, written by Scott B. Smith based on his own novel, is pretty good. The characters are well written, and the plot as it unfolds takes it&apos;s time to play out, which again is refreshing. Most American horror movies seem to want to rush through the opening scenes, to get to the so-called scare moments, but Smith takes time with his plot, as he did with his other script, the brilliant A Simple Plan. This movie isn&apos;t as good as that but it is still good. One of the key things is he never explains how or why the temple is doing what it is doing, yet you never really question it. He allows some intelligence in not only the characters but also in the audience watching. Again, a refreshing change.\\n\\nThe performances from the cast are good. The script allows time for the cast to make their characters believable (for a horror movie)and as the horror and terror mounts, they react in different ways.\\n\\nThe direction by Carter Smith is good. He creates a sense of dread as the the events play out. While the movie is not particularly scary, he creates a sense a good sense of dread, right up to the end, and also doesn&apos;t try and cop-out at the end, or allow for some awful twist. Again a welcome change.\\n\\nThe movie does have some scenes that are bloody, or graphic and gory, it&apos;s not over the top. There is a reason for the violence in the movie, and also the blood and gore. It&apos;s not simply there to gross-out the audience (though the scene with the makeshift amputation will have that effect, no doubt!!).\\n\\nAt a time when most of the American horror movies are either remakes or sequels, it&apos;s nice to see a horror movie that while not original at least is different. And for that reason alone, it&apos;s worth watching.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Shawn Ashmore",
+      "url": "https://www.imdb.com/name/nm0039162/"
+    },
+    {
+      "name": "Jena Malone",
+      "url": "https://www.imdb.com/name/nm0540441/"
+    },
+    {
+      "name": "Jonathan Tucker",
+      "url": "https://www.imdb.com/name/nm0006958/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Carter Smith",
+      "url": "https://www.imdb.com/name/nm2127650/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Scott B. Smith",
+      "url": "https://www.imdb.com/name/nm0809895/"
+    }
+  ]
+}

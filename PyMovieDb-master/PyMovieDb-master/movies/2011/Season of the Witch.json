@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Season of the Witch",
+  "url": "https://www.imdb.com/tt0479997/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzc3MjYxNzg2N15BMl5BanBnXkFtZTcwNzQyMTkwNA@@._V1_.jpg",
+  "description": "14th-century knights transport a suspected witch to a monastery, where monks deduce that her powers could be the source of the Black Plague.",
+  "review": {
+    "author": "zekersdp",
+    "dateCreated": "2011-01-17",
+    "inLanguage": "English",
+    "heading": "Not so good",
+    "reviewBody": "I was excited to see the Season of the Witch. I loved The Scorceror's Apprentice, and I actually thought this would be better than that. Looking forward to an epic fantasy, I was highly disappointed. I found myself annoyed at the unnatural behavior of Nicholas Cage and Ron Perlman. It was like watching Starsky and Hutch with their witty bantering during battles and in the face of peril. Very cheesy. The movie lacked a good flow. It was mildly entertaining in parts, but never reached any peak, not even at the end, because it was just too absurd. The acting was not good, but I think it was just a poorly written script more than anything else. It seems like it had the makings of a very good movie, but fell very very short.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 97865,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "2011-01-07",
+  "keywords": "middle ages,14th century,knight,monk,witch",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Nicolas Cage",
+      "url": "https://www.imdb.com/name/nm0000115/"
+    },
+    {
+      "name": "Ron Perlman",
+      "url": "https://www.imdb.com/name/nm0000579/"
+    },
+    {
+      "name": "Claire Foy",
+      "url": "https://www.imdb.com/name/nm2946516/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dominic Sena",
+      "url": "https://www.imdb.com/name/nm0784061/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bragi F. Schut",
+      "url": "https://www.imdb.com/name/nm0776885/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Spartan",
+  "url": "https://www.imdb.com/tt0360009/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI2NzcyMzIzM15BMl5BanBnXkFtZTYwNDU3NTQ3._V1_.jpg",
+  "description": "The investigation into a kidnapping of the daughter of a high-ranking US government official.",
+  "review": {
+    "author": "Indyrod",
+    "dateCreated": "2005-01-31",
+    "inLanguage": "English",
+    "heading": "Mamet strikes again (exciting and illogical as always)",
+    "reviewBody": "Oh boy, where to start on this confusing convoluted thriller from ace screenwriter and director Mamet. Val Kilmer does his best to add some real spark to a story about the apparent accidental kidnapping of the President&apos;s daughter. Kilmer is a super duper special forces agent who will do anything, and I mean anything to succeed at his assignment. Accidental I say, because it turns out she was kidnapped by Middle Eastern white slave trade marketers who deals with young blonds, after a security lapse that left the President&apos;s daughter vulnerable in a sleazy Boston club. Now keep in mind, the slave traders do not know who she is, at least that&apos;s how the story goes. But wait a minute, just after we learn all of this and the evidence is pointing in that direction, a HUGE plot twist develops that puts all of that to bed. Or does it??? I&apos;ll leave the spoilers out because what I&apos;ve told you is just the beginning of the movie. David Mamet is a king of twisting confusing sometimes plots, being borderline ridiculous, and this one is no exception. But Val Kilmer saves the day as he does with a lot of movies, and his performance alone is worth seeing this Mamet thriller. I&apos;m a huge Kilmer fan and it&apos;s always a joy to see him perform, no matter how far out the role. And this IS a pretty far out role. The supporting cast includes such standouts as William Macy (one of his worst roles ever), Derek Luke as Kilmer&apos;s novice partner, cameo-like appearance by Ed O&apos;Neill, Kristen Bell as the kidnap victim. Despite its shortcomings, I enjoyed the movie and would recommend it for thrillers that have that giant leap of logic. The ending is pretty exciting, again with logic totally turned off, but what the hell, there&apos;s a lot of action, several twists and turns and I&apos;ll take that anytime over the mindless fluff that is coming out of Hollywood lately.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 32933,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2004-08-06",
+  "keywords": "crying woman,red dress,white slavery,bordello,kidnapping",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Val Kilmer",
+      "url": "https://www.imdb.com/name/nm0000174/"
+    },
+    {
+      "name": "Derek Luke",
+      "url": "https://www.imdb.com/name/nm1035682/"
+    },
+    {
+      "name": "William H. Macy",
+      "url": "https://www.imdb.com/name/nm0000513/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Mamet",
+      "url": "https://www.imdb.com/name/nm0000519/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Mamet",
+      "url": "https://www.imdb.com/name/nm0000519/"
+    }
+  ]
+}

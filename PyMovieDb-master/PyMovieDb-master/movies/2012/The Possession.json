@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Possession",
+  "url": "https://www.imdb.com/tt0431021/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc0NTcxMDU0MV5BMl5BanBnXkFtZTcwNTgwMzExOA@@._V1_.jpg",
+  "description": "A young girl buys an antique box at a yard sale, unaware that inside the collectible lives a malicious ancient spirit. The girl's father teams with his ex-wife to find a way to end the curse upon their child.",
+  "review": {
+    "author": "mcclaresteven",
+    "dateCreated": "2013-01-05",
+    "inLanguage": "English",
+    "heading": "Well worth the watching",
+    "reviewBody": "Hello readers. This is my first review of a movie on here and I was inspired to do it after reading petit76 negative view on the film. I am also an avid horror fan pretty much seen them all and I thought this film was excellent! Acting was very good and the storyline is as good as you will get with horror films nowadays which is such hard genre to be original with.\\n\\nThats the problem with IMDb nowadays almost every film gets a negative review. This was a most enjoyable horror with some nice fright scenes and I would recommend it to anyone with a spare 90 Min's. A solid 8/10 from me folks enjoy!!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 62977,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2012-08-31",
+  "keywords": [
+    "swarm of moths",
+    "sister sister relationship",
+    "possessed girl",
+    "dybbuk box",
+    "father daughter relationship"
+  ],
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Natasha Calis",
+      "url": "https://www.imdb.com/name/nm2828435/"
+    },
+    {
+      "name": "Jeffrey Dean Morgan",
+      "url": "https://www.imdb.com/name/nm0604742/"
+    },
+    {
+      "name": "Kyra Sedgwick",
+      "url": "https://www.imdb.com/name/nm0001718/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ole Bornedal",
+      "url": "https://www.imdb.com/name/nm0097079/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Juliet Snowden",
+      "url": "https://www.imdb.com/name/nm1340000/"
+    },
+    {
+      "name": "Stiles White",
+      "url": "https://www.imdb.com/name/nm0925482/"
+    },
+    {
+      "name": "Leslie Gornstein",
+      "url": "https://www.imdb.com/name/nm1757236/"
+    }
+  ]
+}

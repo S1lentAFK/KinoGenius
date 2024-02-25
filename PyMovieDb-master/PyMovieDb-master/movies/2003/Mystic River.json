@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Mystic River",
+  "url": "https://www.imdb.com/tt0327056/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIzNDUyMjA4MV5BMl5BanBnXkFtZTYwNDc4ODM3._V1_.jpg",
+  "description": "Childhood friends Jimmy, Dave, and Sean are reunited after Jimmy's daughter is murdered and Sean is the police officer assigned to the case. However, Jimmy suspects Dave is behind the murder.",
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2003-10-17",
+  "keywords": "childhood friend, sexual abuse, tragic event, kidnapping, missing person",
+  "duration": "PT2H18M",
+  "actor": [
+    {
+      "name": "Sean Penn",
+      "url": "https://www.imdb.com/name/nm0000576/"
+    },
+    {
+      "name": "Tim Robbins",
+      "url": "https://www.imdb.com/name/nm0000209/"
+    },
+    {
+      "name": "Kevin Bacon",
+      "url": "https://www.imdb.com/name/nm0000102/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Clint Eastwood",
+      "url": "https://www.imdb.com/name/nm0000142/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brian Helgeland",
+      "url": "https://www.imdb.com/name/nm0001338/"
+    },
+    {
+      "name": "Dennis Lehane",
+      "url": "https://www.imdb.com/name/nm1212331/"
+    }
+  ],
+  "review": {
+    "author": "Antagonisten",
+    "dateCreated": "2005-11-08",
+    "inLanguage": "English",
+    "heading": "Second time around",
+    "reviewBody": "I must admit that when i watched this movie for the first time i didn't really think that much of it. Sure the acting was amazing, but that was expected. But then something happened. I got a chance to read the book by Dennis Lehane and suddenly all the pieces fell into place. I watched the movie again and this time it was amazing.\n\nI don't know how i should interpret how my feelings toward this movie changed after reading the book. Is it a good adaptation if i like it more after reading the book? Should a movie stand so well on it's own merits that the book is not necessary? I don't know myself, all i know is that it all became so much clearer after reading the book.\n\nFirst of all the acting was amazing even the first time around. But still, after reading the book it was as if the characters gained one more level of depth. I have always felt that Tim Robbins is the true gem in this movie. His pained portrayal of the lost soul Dave Boyle is pure magic, seldom has an Oscar been so well deserved. Sean Penn is predictably great in his portrayal of Jimmy Markum. It's a difficult character, a person you really don't know what to think about. In one respect he is a worried father, in another respect he is a cold-blooded man with few things to like about him. The rest of the cast is solid, with Kevin Bacon the brightest star among them.\n\nWhen it comes to the plot itself this was where much was changed from reading the book. The trick is not to watch this as a crime-drama. Rather it's a movie about behavioral patterns, about humans. What they are capable of and what dictates their actions. There are huge amounts of sadness and melancholy to this story. Of people unable to break out of the path it seems life has chosen for them. This i think didn't really break through to me that well when i watched the movie for the first time. But the book is much more clear on this and when i watched the movie again i saw it there as well.\n\nIn the end this is a triumph of two things really. First the great acting of some of the finest actors in Hollywood today, second the sensitive and thoughtful directing of Clint Eastwood. He manages to bring out Dennis Lehanes story in a way that is so understated and minimalistic at times i didn't even catch on the first time around. But if i look closely all the elements are there and it is truly a great adaptation as well as a great movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 482367,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  }
+}

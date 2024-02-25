@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The New World",
+  "url": "https://www.imdb.com/tt0402399/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTdjNjQ5ZTAtODJlZi00MzcyLWJjY2UtNDZhNTJkYjlkNGY5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "The story of the English exploration of Virginia, and of the changing world and loves of Pocahontas.",
+  "review": {
+    "author": "gavin6942",
+    "dateCreated": "2017-06-16",
+    "inLanguage": "English",
+    "heading": "What You Would Expect From Malick",
+    "reviewBody": "The story of the English exploration of Virginia, and of the changing world and loves of Pocahontas.\n\nThere are, of course, historical issues with this film. Most scholars agree that there was no romantic relationship between Pocahontas and Smith. She would have been 10 years old in 1608 when they were said to have first met. So the whole premise is flawed. But in other areas, such as the attempt to have a native language spoken, some credit ought to be given.\n\nUltimately, I found the film to be good but somewhat trying. Malick is a strange director. Obviously talented, but he lets his artistic vision go unchecked. And then it starts feeling pretentious. Other directors could be accused of similar issues (David Lynch?), and I suppose it really comes down to artistic preference. My preference does not jibe with Malick, it seems.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 89324,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2006-01-27",
+  "keywords": "fort,interracial romance,native american,cult favorite,native american culture",
+  "duration": "PT2H15M",
+  "actor": [
+    {
+      "name": "Colin Farrell",
+      "url": "https://www.imdb.com/name/nm0268199/"
+    },
+    {
+      "name": "Q'orianka Kilcher",
+      "url": "https://www.imdb.com/name/nm0452963/"
+    },
+    {
+      "name": "Christopher Plummer",
+      "url": "https://www.imdb.com/name/nm0001626/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Terrence Malick",
+      "url": "https://www.imdb.com/name/nm0000517/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Terrence Malick",
+      "url": "https://www.imdb.com/name/nm0000517/"
+    }
+  ]
+}

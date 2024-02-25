@@ -1,0 +1,80 @@
+
+
+{
+  "type": "Movie",
+  "name": "Mulan II",
+  "url": "https://www.imdb.com/tt0279967/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODEzMmIxOGMtY2RhYS00YTFiLThkZmYtMDlmZGJlYzg0NWEzXkEyXkFqcGdeQXVyNjk1Njg5NTA.jpg",
+  "description": "While preparing for their wedding, Shang and Mulan are suddenly sent off on a secret mission. Mushu starts to meddle, and a surprise attack by Mongolians doesn't help either.",
+  "review": {
+    "author": "george_bidwell",
+    "dateCreated": "2013-03-30",
+    "inLanguage": "English",
+    "heading": "Underrated Cheesy flick!",
+    "reviewBody": "Mulan was personally one of my all time favourite Disney movies and movies in general and so when the moment i saw this movie around I was puzzled as to why I have not heard of it, then I realized ... It was direct to DVD. I gave this movie a chance though despite my opinion on some of the other Disney straight to video sequels and boy am I glad I did as this movie is a ball to watch. The movie's plot is simple but perfectly functioning it is the story about Shang and Mulan being engaged to marry but before the wedding having to transport three princesses to another country for an arranged marriage that will end the war, all the time Mushu trying to destroy Mulan's wedding and the three princesses falling in love with three warriors from the first film. The movies scenery and animation are ace almost living up to the ridiculously high bar of the first. Now while the characters are flat and generic, with only the characters from the first standing out, they are funny and provide some cool character arcs. The direction lends this picture an amazing sense of pace despite the movie curiously lacking laid out acts. It makes for some funny jokes cute animation and fast paced even with a generic and schmaltzy plot. So overall a fun movie worth checking out in hd!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 28930,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2004-11-15",
+  "keywords": [
+    "china",
+    "female protagonist",
+    "princess",
+    "presumed dead",
+    "interrupted wedding"
+  ],
+  "duration": "PT1H19M",
+  "actor": [
+    {
+      "name": "Ming-Na Wen",
+      "url": "https://www.imdb.com/name/nm0001840/"
+    },
+    {
+      "name": "BD Wong",
+      "url": "https://www.imdb.com/name/nm0000703/"
+    },
+    {
+      "name": "Mark Moseley",
+      "url": "https://www.imdb.com/name/nm0609137/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Darrell Rooney",
+      "url": "https://www.imdb.com/name/nm0740311/"
+    },
+    {
+      "name": "Lynne Southerland",
+      "url": "https://www.imdb.com/name/nm0816110/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Lucker",
+      "url": "https://www.imdb.com/name/nm0524710/"
+    },
+    {
+      "name": "Chris Parker",
+      "url": "https://www.imdb.com/name/nm0662134/"
+    },
+    {
+      "name": "Roger S.H. Schulman",
+      "url": "https://www.imdb.com/name/nm0776107/"
+    }
+  ]
+}

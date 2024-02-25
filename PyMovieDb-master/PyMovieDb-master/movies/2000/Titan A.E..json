@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Titan A.E.",
+  "url": "https://www.imdb.com/tt0120913/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWIzMWFjN2EtOWIwYS00Mzk5LWE0MjItMDU2YTczM2U0MGNiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": "A young man learns that he has to find a hidden Earth ship before an enemy alien species does in order to secure the survival of humanity.",
+  "review": {
+    "author": "shahmatt",
+    "dateCreated": "2005-05-16",
+    "inLanguage": "English",
+    "heading": "Great movie, Great story, Great visuals. This movie is underrated",
+    "reviewBody": "Titan A.E is a story set in a post-earth era (hence the A.E: after earth, which i thought was a nice touch). Its about the son of a scientist who is thrust upon him the quest of finding the Titan, the greatest ship ever built, and is humanity's last chance.\n\nThe movie begins with an awesome scene of the evacuation of earth, and caught me nicely off guard with some great 3D rendering of the Titan (when launched), and the escape ships. The imagination that went into some scenes in the movie, especially the cruising alongside the wake angels, and the ice rinks were fantastic. And the plot, though a bit unrealistic in terms of modern science, was thoroughly refreshing in concept. And its got just the right balance of action to move it quickly from a kids film to a good sci-fi show for slightly older audiences.\n\nTitan A.E is a great film. It has a story that's original and neatly executed. It brought about some great 3D rendering in a time where animation was primarily 2D. Its got good character development with a nice twist in the middle. And its also got a fine soundtrack, which I love to listen to.\n\nGo watch this movie. You will not be disappointed.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 63684,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2000-07-28",
+  "keywords": "alien,cult film,31st century,escape,pilot",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Matt Damon",
+      "url": "https://www.imdb.com/name/nm0000354/"
+    },
+    {
+      "name": "Drew Barrymore",
+      "url": "https://www.imdb.com/name/nm0000106/"
+    },
+    {
+      "name": "Bill Pullman",
+      "url": "https://www.imdb.com/name/nm0000597/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Don Bluth",
+      "url": "https://www.imdb.com/name/nm0089940/"
+    },
+    {
+      "name": "Gary Goldman",
+      "url": "https://www.imdb.com/name/nm0325776/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Hans Bauer",
+      "url": "https://www.imdb.com/name/nm0061829/"
+    },
+    {
+      "name": "Randall McCormick",
+      "url": "https://www.imdb.com/name/nm0566595/"
+    },
+    {
+      "name": "Ben Edlund",
+      "url": "https://www.imdb.com/name/nm0249421/"
+    }
+  ]
+}

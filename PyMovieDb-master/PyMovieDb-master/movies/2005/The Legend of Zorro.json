@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Legend of Zorro",
+  "url": "https://www.imdb.com/tt0386140/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTE1MjVmYTYtOGFjZi00NGM3LTg0ZTEtNWI4MGI3NmM1MTVhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+  "description": "Despite trying to keep his swashbuckling to a minimum, a threat to California's pending statehood causes the adventure-loving Don Alejandro de la Vega and his wife, Elena, to take action.",
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Romance"
+  ],
+  "datePublished": "2005-10-24",
+  "keywords": "sequel,abraham lincoln character,good versus evil,good man,good woman",
+  "duration": "PT2H9M",
+  "rating": {
+    "ratingCount": 107099,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "review": {
+    "author": "mstomaso",
+    "dateCreated": "2007-09-02",
+    "inLanguage": "English",
+    "heading": "Zorro and Family - Fun and Entertaining, but it's definitely a sequel",
+    "reviewBody": "The wonderful Catherine Zeta Jones and Antonio Banderas reprise their roles as Elena and Zorro and are joined by their characters' son Joaquin (Adrian Alonso) in this fast-paced adventure set at the time of California's incipient state-hood. Alejandro's heroism is destroying his family in more ways than one, and the very fabric of 19th century Californian society is also being challenged by a threat of organized terrorism. Zorro, his wife and child must all pool their resources to fight threats to their family and their homeland.\n\nIf this sounds like heavy stuff, don't be fooled, this is a lighter film, which feels a bit more like Shanghai Noon than the original Zorro. The stunt-work and sword-fighting are entertaining, over-the-top and not to be taken seriously.\n\nMartin Campbell, who appears to have matured into a very competent studio director (despite some questionable early efforts) does a very nice job with the directing,and the cinematography and editing are fine. The acting is all good - across the board. And if you happen to rent the DVD, you will definitely enjoy the extras which are nearly as fun as the movie itself.\n\nThe film's greatest weakness is, not surprisingly, its script. Like most WGA scripts, the script comes across as having been written by committee, in an ad-hoc manner, and without much forethought or a central premise. The dialog is sometimes very weak, and the film is driven less by exposition and plot than audiovisual momentum. If not for the cinematography, acting talent, directing, and editing, this could have been a total wash-out.\n\nRecommended for fans of the original who can keep their expectations in check, and light action fans.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "actor": [
+    {
+      "name": "Antonio Banderas",
+      "url": "https://www.imdb.com/name/nm0000104/"
+    },
+    {
+      "name": "Catherine Zeta-Jones",
+      "url": "https://www.imdb.com/name/nm0001876/"
+    },
+    {
+      "name": "Rufus Sewell",
+      "url": "https://www.imdb.com/name/nm0001722/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Martin Campbell",
+      "url": "https://www.imdb.com/name/nm0132709/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Roberto Orci",
+      "url": "https://www.imdb.com/name/nm0649460/"
+    },
+    {
+      "name": "Alex Kurtzman",
+      "url": "https://www.imdb.com/name/nm0476064/"
+    },
+    {
+      "name": "Ted Elliott",
+      "url": "https://www.imdb.com/name/nm0254645/"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+
+
+{
+  "type": "Movie",
+  "name": "WALL-E: Treasures and Trinkets",
+  "url": "https://www.imdb.com/tt14055868/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODE5OWFkNzMtNmE5Zi00NDFkLWIyMDktZWQ0YjNiNTQ5NzlmXkEyXkFqcGdeQXVyODk1MjAxNzQ@._V1_.jpg",
+  "description": "A robot named WALL-E is on a uninhabitable earth by itself but when the human space ship comes and drops of a new robot named Eva on search for a plant. Eva meets WALL-E witch WALL-E shows Eva a plant. the humans come back to take...",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 1198,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.3
+  },
+  "contentRating": "TV-G",
+  "genre": [
+    "Animation",
+    "Short"
+  ],
+  "datePublished": "2008-11-18",
+  "keywords": "wall e character",
+  "duration": "PT5M",
+  "actor": [],
+  "director": [
+    {
+      "name": "Andrew Stanton",
+      "url": "https://www.imdb.com/name/nm0004056/"
+    }
+  ],
+  "creator": []
+}

@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Blood Money",
+  "url": "https://www.imdb.com/tt3758852/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNThiMWI0YWMtNWJhYy00ZDc5LTk5OWYtNTgwMTM2NTQ0M2EzXkEyXkFqcGdeQXVyNjQzODc2MDg@._V1_.jpg",
+  "description": "Three friends go rafting in the wilderness. Bags are dropped from a plane followed by a man in a parachute. The three find the bags with $8,000,000. The couple wants it and Victor splits, wanting to stay alive, out of prison.",
+  "review": {
+    "author": "Prismark10",
+    "dateCreated": "2018-06-14",
+    "inLanguage": "English",
+    "heading": "Fools gold",
+    "reviewBody": "Three old friends go on a rafting trip in the countryside after finishing their first year in college. Lynn (Willa Fitzgerald), Jeff (Jacob Artist) and Victor (Ellar Coltrane) seem to have some unresolved issues regarding their friendship. Lynn feels used by them especially as she went out with Victor and is now seeing Jef. She feels that both of them see her as a trophy to possess since she hit puberty.\n\nEmbezzler Miller (John Cusack) parachutes down with four heavy bags, $8 million dollars in stolen currency. As he lands he gets separated from his loot which Lynn finds in her early morning run. Lynn can really use that money but we are never told why. Victor though wants to give the money to the authorities. When a park ranger gets shot, things turn deadly for the trio as Miller dressed like a Metallica roadie, pursues them.\n\nIt really is sad to see John Cusack reduced to appearing in these low budget VOD films. It was only a few years ago he was in big budget disaster film such as 2012. He plays a darkly comic role of someone who does not want to hurt anyone, he just wants his money.\n\nBlood Money is an updated version of Treasure of the Sierra Madre. It adds a femme fatale character in Lynn, it seems her two best friends have never noticed her conniving side.\n\nThe film is rubbish though, cheap, flat looking, it only comes to life at the latter stages. When the action starts it is in a dark tunnel and you cannot see anything but it saved on the budget.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 2
+    }
+  },
+  "rating": {
+    "ratingCount": 2541,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.5
+  },
+  "contentRating": "R",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "datePublished": "2017-10-13",
+  "keywords": "greed,money,found money,embezzlement,airplane crash",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Ellar Coltrane",
+      "url": "https://www.imdb.com/name/nm1294664/"
+    },
+    {
+      "name": "Willa Fitzgerald",
+      "url": "https://www.imdb.com/name/nm2560618/"
+    },
+    {
+      "name": "Jacob Artist",
+      "url": "https://www.imdb.com/name/nm4498664/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lucky McKee",
+      "url": "https://www.imdb.com/name/nm1031246/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jared Butler",
+      "url": "https://www.imdb.com/name/nm2666826/"
+    },
+    {
+      "name": "Lars Norberg",
+      "url": "https://www.imdb.com/name/nm0634867/"
+    }
+  ]
+}

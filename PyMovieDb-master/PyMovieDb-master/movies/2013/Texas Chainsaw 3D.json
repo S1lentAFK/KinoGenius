@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Texas Chainsaw 3D",
+  "url": "https://www.imdb.com/tt1572315/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQzMzAyNTE2N15BMl5BanBnXkFtZTcwNzM1NDg2OA@@._V1_.jpg",
+  "description": "A young woman travels to Texas to collect an inheritance; little does she know that an encounter with a chainsaw-wielding killer is part of the reward.",
+  "contentRating": "18",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2013-01-04",
+  "keywords": "leatherface character,masked killer,chainsaw,human skin mask,bound and gagged",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Alexandra Daddario",
+      "url": "https://www.imdb.com/name/nm1275259/"
+    },
+    {
+      "name": "Tania Raymonde",
+      "url": "https://www.imdb.com/name/nm0713389/"
+    },
+    {
+      "name": "Scott Eastwood",
+      "url": "https://www.imdb.com/name/nm2207222/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Luessenhop",
+      "url": "https://www.imdb.com/name/nm0525141/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Adam Marcus",
+      "url": "https://www.imdb.com/name/nm0546057/"
+    },
+    {
+      "name": "Debra Sullivan",
+      "url": "https://www.imdb.com/name/nm0838032/"
+    },
+    {
+      "name": "Kirsten Elms",
+      "url": "https://www.imdb.com/name/nm1187454/"
+    }
+  ],
+  "review": {
+    "author": "Johnnys_Drivein",
+    "dateCreated": "2013-01-10",
+    "inLanguage": "English",
+    "heading": "Leatherface rides a roller-coaster of emotions",
+    "reviewBody": "I was let down in the first few minutes,then when i realized the direction it was headed in it made for an interesting story. But when I recognized the same old pattern of a group of...twenty-somethings--(Thirty somethings? If it was trying to keep track with the original time line then the ages of the young adults were kind of off.) I became bored again. It was the same thing we saw in the last two remakes that claimed to do the original film justice. However,the plot goes up and down another hill and completely changes into something different towards the climax once again. Either way,it's a strange script and it will make you scratch your head a few times.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 55650,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  }
+}

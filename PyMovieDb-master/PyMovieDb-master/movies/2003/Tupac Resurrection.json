@@ -1,0 +1,57 @@
+
+
+{
+  "type": "Movie",
+  "name": "Tupac: Resurrection",
+  "url": "https://www.imdb.com/tt0343121/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY4OTY1NzI4N15BMl5BanBnXkFtZTYwNDI5MzQ3._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Faisal_Flamingo",
+    "dateCreated": "2006-11-26",
+    "inLanguage": "English",
+    "heading": "A Documentary Full of Facts Told Frankly by Tupac Himself!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 9786,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Documentary",
+    "Biography",
+    "Music"
+  ],
+  "datePublished": "2004-07-02",
+  "keywords": "title directed by female,reference to latasha harlins,hip hop,reference to tupac shakur,name in title",
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "Tupac Shakur",
+      "url": "https://www.imdb.com/name/nm0000637/"
+    },
+    {
+      "name": "Rappin' 4-Tay",
+      "url": "https://www.imdb.com/name/nm0005578/"
+    },
+    {
+      "name": "Conrad Bain",
+      "url": "https://www.imdb.com/name/nm0047699/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lauren Lazin",
+      "url": "https://www.imdb.com/name/nm1020749/"
+    }
+  ],
+  "creator": []
+}

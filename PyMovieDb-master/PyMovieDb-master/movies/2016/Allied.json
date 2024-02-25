@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Allied",
+  "url": "https://www.imdb.com/tt3640424/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWEyMzg4ZWUtYmZhMC00Yjk2LWEyYjktODVmN2M3YTA2ZmNjXkEyXkFqcGdeQXVyNjQ2Mjg3OTI@._V1_.jpg",
+  "description": "In 1942, a Canadian intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.",
+  "review": {
+    "author": "mro-producer",
+    "dateCreated": "2019-01-06",
+    "inLanguage": "English",
+    "heading": "visually stunning, broken story",
+    "reviewBody": "As another reviewer said, the story offered places for a plot twist, but the writer or director failed to take up the opportunity. Through most of the film Marianne Beaus\u00e9jour is the more interesting character. and once they move to London, the story is hers. She was conflicted, but we don't get to see much of this internal conflict -- rather the story follows the male lead, Max Vatan, played by Bradd Pitt. He should have been but a supporting role to her story. Once again, another film that could have been great had they worked on the script like they worked on the set design. On the whole, worth watching for the sets and setting, and the conflict with the Germans.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 167600,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2016-11-25",
+  "keywords": "nazi,spy,french,betrayal,world war two",
+  "duration": "PT2H4M",
+  "actor": [
+    {
+      "name": "Brad Pitt",
+      "url": "https://www.imdb.com/name/nm0000093/"
+    },
+    {
+      "name": "Marion Cotillard",
+      "url": "https://www.imdb.com/name/nm0182839/"
+    },
+    {
+      "name": "Jared Harris",
+      "url": "https://www.imdb.com/name/nm0364813/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Zemeckis",
+      "url": "https://www.imdb.com/name/nm0000709/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steven Knight",
+      "url": "https://www.imdb.com/name/nm1140275/"
+    }
+  ]
+}

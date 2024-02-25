@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Casanova",
+  "url": "https://www.imdb.com/tt0402894/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTM2MGFmMjctM2EyNi00MmI4LTkyYjItMDhjZWQ4MjUyNGJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "moviemom44",
+    "dateCreated": "2006-01-01",
+    "inLanguage": "English",
+    "heading": "Funny! Funny! Funny!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 56175,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2006-02-17",
+  "keywords": "venice italy,italy,bare foot man,1750s,18th century",
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "Heath Ledger",
+      "url": "https://www.imdb.com/name/nm0005132/"
+    },
+    {
+      "name": "Sienna Miller",
+      "url": "https://www.imdb.com/name/nm1092227/"
+    },
+    {
+      "name": "Jeremy Irons",
+      "url": "https://www.imdb.com/name/nm0000460/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lasse Hallstr\\u00f6m",
+      "url": "https://www.imdb.com/name/nm0002120/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jeffrey Hatcher",
+      "url": "https://www.imdb.com/name/nm0368774/"
+    },
+    {
+      "name": "Kimberly Simi",
+      "url": "https://www.imdb.com/name/nm1575914/"
+    },
+    {
+      "name": "Michael Cristofer",
+      "url": "https://www.imdb.com/name/nm0188165/"
+    }
+  ]
+}

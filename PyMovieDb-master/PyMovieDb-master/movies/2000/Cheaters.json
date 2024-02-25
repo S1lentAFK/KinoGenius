@@ -1,0 +1,57 @@
+
+
+{
+  "type": "Movie",
+  "name": "Nae yeojaeui namja chingu",
+  "url": "https://www.imdb.com/tt2502568/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTkxZTYyZmEtNzU3Yy00OTgyLWI5YTItNGZmZDg2ZmIwODRhXkEyXkFqcGdeQXVyNTg2MDI3MDM@._V1_.jpg",
+  "description": "Seok-ho (Won-yeong Choi) is married to the beautiful Chai-young but when it comes to sex, she always has an excuse. While he maintains a sexual relationship with Ji-yeon (Da-mi Ko), she has been involved with his colleague Young-s...",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 52,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": null,
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": null,
+  "keywords": "south korean sex comedy,female topless nudity,female rear nudity,girlfriend doesn't want to have sex with her boyfriend,cheating girlfriend",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Choi Won-young",
+      "url": "https://www.imdb.com/name/nm3754140/"
+    },
+    {
+      "name": "Poo-reun Kim",
+      "url": "https://www.imdb.com/name/nm5391923/"
+    },
+    {
+      "name": "Da-mi Ko",
+      "url": "https://www.imdb.com/name/nm3774740/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Seong-beom Park",
+      "url": "https://www.imdb.com/name/nm3789179/"
+    }
+  ],
+  "creator": []
+}

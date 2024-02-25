@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Legally Blonde 2: Red, White & Blonde",
+  "url": "https://www.imdb.com/tt0333780/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkwNzExMjk0MF5BMl5BanBnXkFtZTcwOTUzNDcyMw@@._V1_.jpg",
+  "description": "Elle Woods heads to Washington, D.C. to join the staff of a Representative in order to pass a bill to ban animal testing.",
+  "review": {
+    "author": "Jim-reviews-film",
+    "dateCreated": "2015-03-12",
+    "inLanguage": "English",
+    "heading": "Speechless",
+    "reviewBody": "I went to a free screening and demanded a refund.\n\nI was so long ago And it haunts me still. Seriously Don't.\n\nI mean it The first was OK.. But this.\n\nI mean, it had a sub plot about some dogs.. And there was some pink clothing.\n\nI'm sorry. I watched most of it through my fingers.\n\nI warn everyone about this movie.\n\nI hope you heed mine.\n\nPlease beware my warning. You cannot Unsee this horror..\n\nTurn back while you still can.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 72128,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2003-08-01",
+  "keywords": "congresswoman,transvestism,the white house washington d.c.,naivete,naive young woman",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Reese Witherspoon",
+      "url": "https://www.imdb.com/name/nm0000702/"
+    },
+    {
+      "name": "Sally Field",
+      "url": "https://www.imdb.com/name/nm0000398/"
+    },
+    {
+      "name": "Bob Newhart",
+      "url": "https://www.imdb.com/name/nm0627878/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Charles Herman-Wurmfeld",
+      "url": "https://www.imdb.com/name/nm0379237/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Amanda Brown",
+      "url": "https://www.imdb.com/name/nm0113005/"
+    },
+    {
+      "name": "Eve Ahlert",
+      "url": "https://www.imdb.com/name/nm0013996/"
+    },
+    {
+      "name": "Dennis Drake",
+      "url": "https://www.imdb.com/name/nm0236881/"
+    }
+  ]
+}

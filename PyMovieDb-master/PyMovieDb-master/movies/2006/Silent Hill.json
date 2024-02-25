@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Silent Hill",
+  "url": "https://www.imdb.com/tt0384537/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWQzNTU3NGUtNDAxMi00ZjFjLTkyYWUtYjgwZDJiMDljZWY4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": "A woman, Rose, goes in search for her adopted daughter within the confines of a strange, desolate town called Silent Hill.",
+  "review": {
+    "author": "Potty-Man",
+    "dateCreated": "2006-10-13",
+    "inLanguage": "English",
+    "heading": "A patient, intelligent, atmospheric horror film that doesn't go for cheap scares",
+    "reviewBody": "I have been a fan of the first game since it came out. As with most video game adaptations, I expected this to be a piece of sh#@. Instead, I got an atmospheric, haunting thriller that slowly creeps into you and doesn't let go.\\n\\nTrue, the game was scarier. Way scarier. And there was something appealing about the vagueness of the story - the fact that it was never fully explained. And some parts (especially in the third act) could have been edited down and made more intense. And I wasn't fully convinced by Radha Mitchell's acting. But seriously, folks, this goes above and beyond your standard fare horror flick.\\n\\nSpeaking visually, the film is breath-taking. Some of the best conceptual designs I've ever seen. The creature's design and effects are top notch. Pay attention to one very creepy scene that revolves around a flash-light. It is brilliant.\\n\\nThe score is perfect. Disturbing and melancholy at the same time, just like the themes the movie explores. It has depth and its meanings are relevant to our current existence.\\n\\nOne thing I wanted to see used more was the radio static that signifies when a monster is approaching. That was to me one of the scariest elements of the game, since you knew the monster is close, and yet you couldn't see it. Also, with such a tightly woven, dense atmosphere, some boo moments could have been super scary, although the movie doesn't use them. That is a plus and a minus. The result is more sophisticated, refined, working more on psychological horror rather than shock value. On the other hand, on a superficial level, the film is not as scary as it could have been.\\n\\nTo conclude, a very pleasant surprise. Hopefully this is not the last we've seen of Silent Hill.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 242557,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2006-04-21",
+  "keywords": "supernatural horror,missing child,adopted daughter,ash fall,silent hill",
+  "duration": "PT2H5M",
+  "actor": [
+    {
+      "name": "Radha Mitchell",
+      "url": "https://www.imdb.com/name/nm0593664/"
+    },
+    {
+      "name": "Laurie Holden",
+      "url": "https://www.imdb.com/name/nm0390229/"
+    },
+    {
+      "name": "Sean Bean",
+      "url": "https://www.imdb.com/name/nm0000293/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Christophe Gans",
+      "url": "https://www.imdb.com/name/nm0304521/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Roger Avary",
+      "url": "https://www.imdb.com/name/nm0000812/"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "The Trotsky",
+  "url": "https://www.imdb.com/tt1295072/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjExMDA4NzU3Nl5BMl5BanBnXkFtZTcwNzEyNzUyNA@@._V1_.jpg",
+  "description": "A Montreal high school student who believes he is the reincarnation of Lev Trotskiy starts a revolution against apathy among his fellow students.",
+  "review": {
+    "author": "reneweddan",
+    "dateCreated": "2010-10-05",
+    "inLanguage": "English",
+    "heading": "Boredom or Apathy?",
+    "reviewBody": "The Trotsky is a teen-comedy with a hint of Goodbye Lenin&apos;s political satire and Charlie Bartlett&apos;s humour/plot. Although some of the acting seems mediocre, I enjoyed the film.\n\nYou don&apos;t need to understand the biography of Leon Trotsky, it explains it in a subtle way that is enough to enjoy the film, but doing research beforehand might be a decent idea.\n\nDon&apos;t take this film too seriously, just enjoy it for what it is. It isn&apos;t like a normal film, it&apos;s sort of a modern teen-comedy about revolting against injustice, although the injustice is rather insignificant in the grand scheme of things.\n\nWell-done, worth watching, but only if you have an open mind and enjoy quirky films about adolescent injustice.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 6352,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2009-09-11",
+  "keywords": "boy wears eyeglasses,teen movie,reference to pubic hair,school,student",
+  "duration": "PT1H53M",
+  "actor": [
+    {
+      "name": "Liane Balaban",
+      "url": "https://www.imdb.com/name/nm0049313/"
+    },
+    {
+      "name": "Jay Baruchel",
+      "url": "https://www.imdb.com/name/nm0059431/"
+    },
+    {
+      "name": "Taylor Baruchel",
+      "url": "https://www.imdb.com/name/nm1846448/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jacob Tierney",
+      "url": "https://www.imdb.com/name/nm0862932/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jacob Tierney",
+      "url": "https://www.imdb.com/name/nm0862932/"
+    }
+  ]
+}

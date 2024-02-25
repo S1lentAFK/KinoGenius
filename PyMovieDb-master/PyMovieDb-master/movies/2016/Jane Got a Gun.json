@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Jane Got a Gun",
+  "url": "https://www.imdb.com/tt2140037/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgwNDk0NDkwMl5BMl5BanBnXkFtZTgwNzYyNjA3NzE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Quinoa1984",
+    "dateCreated": "2016-05-12",
+    "inLanguage": "English",
+    "heading": "uneven, but better than the disastrous production might have led to you to believe",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 23643,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "Western"
+  ],
+  "datePublished": "2016-04-22",
+  "keywords": "gun store,female fighter,quick draw,gunfight,revenge motive",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Natalie Portman",
+      "url": "https://www.imdb.com/name/nm0000204/"
+    },
+    {
+      "name": "Joel Edgerton",
+      "url": "https://www.imdb.com/name/nm0249291/"
+    },
+    {
+      "name": "Ewan McGregor",
+      "url": "https://www.imdb.com/name/nm0000191/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gavin O&apos;Connor",
+      "url": "https://www.imdb.com/name/nm0640334/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brian Duffield",
+      "url": "https://www.imdb.com/name/nm3929259/"
+    },
+    {
+      "name": "Anthony Tambakis",
+      "url": "https://www.imdb.com/name/nm3294574/"
+    },
+    {
+      "name": "Joel Edgerton",
+      "url": "https://www.imdb.com/name/nm0249291/"
+    }
+  ]
+}

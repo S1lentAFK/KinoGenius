@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Wolfman",
+  "url": "https://www.imdb.com/tt0780653/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGE4MmU2YzQtY2VkNy00ZTQ0LTkyNTctMjMwNDQ1ODE3NTZiXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+  "description": "Upon his return to his ancestral homeland, an American man is bitten and subsequently cursed by a werewolf.",
+  "review": {
+    "author": "kevinkirkley85",
+    "dateCreated": "2013-11-24",
+    "inLanguage": "English",
+    "heading": "The Wolfman",
+    "reviewBody": "This movie has it all. Great actors, great music, a great setting and mood, great CGI and special effects, just great everything. And on top of that, you got a werewolf running around. I would also heavily recommend watching the unrated directors cut of this movie, it goes much deeper into the story and clears up some of the confusion in the theatrical version and also adds some more action packed violence in the middle of the film. I was a skeptic before watching this movie because of some of the reviews but to me this movie deserves much more attention than it got. For me, it&apos;s a must watch and I would recommend this to anyone who is looking for a great way to spend some time on a full moon lit night.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 111221,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+  ],
+  "datePublished": "2010-02-12",
+  "keywords": "werewolf,asylum,full moon,lawrence larry talbot character,skipping a stone",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Benicio Del Toro",
+      "url": "https://www.imdb.com/name/nm0001125/"
+    },
+    {
+      "name": "Anthony Hopkins",
+      "url": "https://www.imdb.com/name/nm0000164/"
+    },
+    {
+      "name": "Emily Blunt",
+      "url": "https://www.imdb.com/name/nm1289434/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joe Johnston",
+      "url": "https://www.imdb.com/name/nm0002653/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Kevin Walker",
+      "url": "https://www.imdb.com/name/nm0001825/"
+    },
+    {
+      "name": "David Self",
+      "url": "https://www.imdb.com/name/nm0783100/"
+    },
+    {
+      "name": "Curt Siodmak",
+      "url": "https://www.imdb.com/name/nm0802561/"
+    }
+  ]
+}

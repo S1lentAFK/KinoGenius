@@ -1,0 +1,55 @@
+
+
+{
+  "type": "Movie",
+  "name": "First Position",
+  "url": "https://www.imdb.com/tt2008513/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDcxMzYyNzI2Ml5BMl5BanBnXkFtZTcwNjAzODg2Nw@@._V1_.jpg",
+  "description": "A documentary that follows six young dancers from around the world as they prepare for the Youth America Grand Prix, one of the most prestigious ballet competitions in the world.",
+  "review": {
+    "author": "larrys3",
+    "dateCreated": "2012-11-10",
+    "inLanguage": "English",
+    "heading": "Mesmerizing and Fascinating Documentary",
+    "reviewBody": "Produced and directed by Bess Kargman, this is a fascinating and riveting documentary.\\n\\nEach year, the world's largest ballet competition is held, for young dancers ages 9-19, called the Youth America Grand Prix. In 15 cities around the world five thousand young dancers compete in the semi-finals for 300 slots in the finals in New York City. \\n\\nThey will get five minutes on stage, judged by directors and top personnel from some of the world's most prodigious ballet companies, to try and win scholarships or job contracts for their future careers.\\n\\nAs many of these documentaries are presented, seven hopefuls, with very diverse backgrounds, are followed in their preparations, training and personal lives. I found all of the competitors to be extremely interesting and it was hard to pick a favorite.\\n\\nYou couldn't ask more from a documentary with vivid portrayals of the young dancers and their families, as well as the suspense of the competition itself.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 3447,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "U",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2013-04-12",
+  "keywords": "adopted daughter,studying abroad,black ballet dancer,world,young",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Aran Bell",
+      "url": "https://www.imdb.com/name/nm5357278/"
+    },
+    {
+      "name": "Rebecca Houseknecht",
+      "url": "https://www.imdb.com/name/nm4978263/"
+    },
+    {
+      "name": "Joan Sebastian Zamora",
+      "url": "https://www.imdb.com/name/nm4978056/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bess Kargman",
+      "url": "https://www.imdb.com/name/nm4557079/"
+    }
+  ],
+  "creator": []
+}

@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "Miss Peregrine's Home for Peculiar Children",
+  "url": "https://www.imdb.com/tt1935859/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzY1OTc2OTE2MF5BMl5BanBnXkFtZTgwMzY2ODMzODE@._V1_.jpg",
+  "description": "When Jacob (Asa Butterfield) discovers clues to a mystery that stretches across time, he finds Miss Peregrine's Home for Peculiar Children. But the danger deepens after he gets to know the residents and learns about their special ...",
+  "review": {
+    "author": "quiqueperique",
+    "dateCreated": "2016-09-30",
+    "inLanguage": "English",
+    "heading": "Not so peculiar, more like average",
+    "reviewBody": "First of all I haven't read the books but my brother has and he said the movie is not even 30% accurate to the book so I get it why the book readers are hating it. If you are expecting a truthful adaptation of the novel maybe skip this one.\\n\\nNow in my case as a non reader of the book I had no big expectations for this movie and after watching it I can say it is not a bad movie but it is not very good either. I think it has a good story but it is missing something to make it stand out.\\n\\nI like Tim Burton and he clearly was the right choice to direct I mean his aesthetic works perfect with the tone of the story this feels like Big Fish meets Edward Scissorhands, that being said I think the story felt a little flat.\\n\\nKudos to Eva Green because she is the only, and I mean the only person in the cast worth mentioning, she fits the character of Miss Peregrine perfect, very mysterious and powerful but with a kind heart, contrary to Asa Butterfield who as Jake felt completely forced and not even relatable. The other adults, even Samuel L. Jackson as the villain, were forgettable. And the kids, who I thought were the ones that were going to stand out, only Ella Purnell kind of did\\n\\nOverall it is pretty average movie with great direction an a clear vision but a cast and a story that were flat. That is why I'm giving it a 6. Not so bad but not so good",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 186804,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Adventure",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2016-09-29",
+  "keywords": [
+    "time loop",
+    "time travel",
+    "butterfly effect",
+    "death of grandfather",
+    "year 1943"
+  ],
+  "duration": "PT2H7M",
+  "actor": [
+    {
+      "name": "Eva Green",
+      "url": "https://www.imdb.com/name/nm1200692/"
+    },
+    {
+      "name": "Asa Butterfield",
+      "url": "https://www.imdb.com/name/nm2633535/"
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "url": "https://www.imdb.com/name/nm0000168/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tim Burton",
+      "url": "https://www.imdb.com/name/nm0000318/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ransom Riggs",
+      "url": "https://www.imdb.com/name/nm2207353/"
+    },
+    {
+      "name": "Jane Goldman",
+      "url": "https://www.imdb.com/name/nm0963359/"
+    }
+  ]
+}

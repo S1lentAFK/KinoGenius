@@ -1,0 +1,52 @@
+
+
+{
+  "type": "Movie",
+  "name": "Tyson",
+  "url": "https://www.imdb.com/tt21025652/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg4Yjk5MjgtNzk0Zi00MWM4LWIzNjItNDIyNjIwOTZlMjE5XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg",
+  "description": "Follows a boxer who struggles with social issues.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": null,
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": null,
+  "keywords": "boxer",
+  "duration": null,
+  "actor": [
+    {
+      "name": "Prithviraj Sukumaran",
+      "url": "https://www.imdb.com/name/nm1335387/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Prithviraj Sukumaran",
+      "url": "https://www.imdb.com/name/nm1335387/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Murali Gopy",
+      "url": "https://www.imdb.com/name/nm1729382/"
+    }
+  ]
+}

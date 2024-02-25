@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Dick Figures: The Movie",
+  "url": "https://www.imdb.com/tt2312262/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA3NDk1NTUzNTJeQTJeQWpwZ15BbWU4MDYzMjAzMDAx._V1_.jpg",
+  "description": "Red and Blue journey around the world to find The Great Sword of Destiny. Blue discovers that Red was never his friend at all, now they are enemies and are in worst situations imaginable.",
+  "review": {
+    "author": "dutchstyles99",
+    "dateCreated": "2013-10-29",
+    "inLanguage": "English",
+    "heading": "Good movie but should be free",
+    "reviewBody": "OK for those of you out there who were around when the idea was first thrown out to the viewers about the movie you&apos;ll remember the money for it came from the fans.\\n\\nThe understanding would be you give us money and we&apos;ll make this movie and post it to you tube. I myself am more than a little angry that they took our money to make the movie and then decided to charge us to watch it. Seriously? Who charges the viewers to watch a movie that the viewers payed to have created? That being said the movie is great. I just refuse to pay to watch it again when I helped pay for it to be made",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 1544,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2013-09-24",
+  "keywords": "pawnshop,mature animation,eiffel tower paris,for grown ups animation,journey",
+  "duration": "PT1H13M",
+  "actor": [
+    {
+      "name": "Ed Skudder",
+      "url": "https://www.imdb.com/name/nm2812744/"
+    },
+    {
+      "name": "Zack Keller",
+      "url": "https://www.imdb.com/name/nm2259596/"
+    },
+    {
+      "name": "Eric Bauza",
+      "url": "https://www.imdb.com/name/nm1082823/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Zack Keller",
+      "url": "https://www.imdb.com/name/nm2259596/"
+    },
+    {
+      "name": "Ed Skudder",
+      "url": "https://www.imdb.com/name/nm2812744/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ed Skudder",
+      "url": "https://www.imdb.com/name/nm2812744/"
+    },
+    {
+      "name": "Zack Keller",
+      "url": "https://www.imdb.com/name/nm2259596/"
+    }
+  ]
+}

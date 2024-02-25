@@ -1,0 +1,54 @@
+
+
+{
+  "type": "TVEpisode",
+  "name": "Lemony Snicket's a Series of Unfortunate Events",
+  "url": "https://www.imdb.com/tt15100780/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjIxM2MwMWMtNjJiMy00ZTI3LTgzYzMtYjBhMWM1YWFlMTVhXkEyXkFqcGdeQXVyNTU1MjgyMjk@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": null,
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2010-04-04",
+  "keywords": null,
+  "duration": null,
+  "actor": [
+    {
+      "name": "Eric Rodriguez",
+      "url": "https://www.imdb.com/name/nm4695438/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Eric Rodriguez",
+      "url": "https://www.imdb.com/name/nm4695438/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Eric Rodriguez",
+      "url": "https://www.imdb.com/name/nm4695438/"
+    }
+  ]
+}

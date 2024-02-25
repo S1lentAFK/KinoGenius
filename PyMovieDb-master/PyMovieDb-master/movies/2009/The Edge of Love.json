@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Edge of Love",
+  "url": "https://www.imdb.com/tt0819714/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTI3NDNlMmEtMWQyOS00MmEzLTgxOTAtNGU2NzVjMzZiNzQ3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "Two feisty, free-spirited women are connected by the brilliant, charismatic poet who loves them both.",
+  "review": {
+    "author": "Chinarose77",
+    "dateCreated": "2009-02-19",
+    "inLanguage": "English",
+    "heading": "Moments of Cinematic Beauty",
+    "reviewBody": "Naturally, before watching this film, ones expectations are high. The tale of Dylan Thomas and his lovers promises to be exhilarating. The stars used in the production hold high promise. However the result is different. There is just something not quite right about this film.\\n\\nWhilst it manages to capture the viewer with moments of cinematic beauty, The Edge of Love fails to entice. In some scenes the cinematography is perfect. The set design and costume cannot be faulted. The glamour and horror of the era are portrayed perfectly. But the story itself does not piece together. The sudden friendship of the two women seems too soon and lacking in explanation. The characters have little depth and I felt no real sympathy for any of them. It almost seems as if several crucial scenes were omitted.\\n\\nThe film itself is fairly disappointing, but perhaps worth watching for the moments when everything comes together because when this happens the film is stunning.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 18831,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2008-06-20",
+  "keywords": "love triangle,poet,wales,jealousy,infidelity",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Keira Knightley",
+      "url": "https://www.imdb.com/name/nm0461136/"
+    },
+    {
+      "name": "Sienna Miller",
+      "url": "https://www.imdb.com/name/nm1092227/"
+    },
+    {
+      "name": "Matthew Rhys",
+      "url": "https://www.imdb.com/name/nm0722629/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Maybury",
+      "url": "https://www.imdb.com/name/nm0562266/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sharman Macdonald",
+      "url": "https://www.imdb.com/name/nm0531930/"
+    },
+    {
+      "name": "Rebekah Gilbertson",
+      "url": "https://www.imdb.com/name/nm1729542/"
+    }
+  ]
+}

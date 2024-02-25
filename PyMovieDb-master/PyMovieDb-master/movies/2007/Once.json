@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Once Upon a Time in... Hollywood",
+  "url": "https://www.imdb.com/tt7131622/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+  "description": "A faded television actor and his stunt double strive to achieve fame and success in the final years of Hollywood's Golden Age in 1969 Los Angeles.",
+  "contentRating": "18",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2019-08-14",
+  "keywords": "hollywood california,place in title,violence,film within a film,actor as protagonist",
+  "duration": "PT2H41M",
+  "rating": {
+    "ratingCount": 833115,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "review": {
+    "author": "carolinabjerregaard",
+    "dateCreated": "2019-09-08",
+    "inLanguage": "English",
+    "heading": "Best film ever",
+    "reviewBody": "The best film ever!! Stay focus at the movie and you will understand!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "actor": [
+    {
+      "name": "Leonardo DiCaprio",
+      "url": "https://www.imdb.com/name/nm0000138/"
+    },
+    {
+      "name": "Brad Pitt",
+      "url": "https://www.imdb.com/name/nm0000093/"
+    },
+    {
+      "name": "Margot Robbie",
+      "url": "https://www.imdb.com/name/nm3053338/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Quentin Tarantino",
+      "url": "https://www.imdb.com/name/nm0000233/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Quentin Tarantino",
+      "url": "https://www.imdb.com/name/nm0000233/"
+    }
+  ]
+}

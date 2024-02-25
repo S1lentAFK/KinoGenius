@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "It Runs in the Family",
+  "url": "https://www.imdb.com/tt0311110/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE3ODM4NjM5OV5BMl5BanBnXkFtZTcwMTMxODg0NA@@._V1_.jpg",
+  "description": "This is the story of a dysfunctional New York family, and their attempts to reconcile.",
+  "review": {
+    "author": "roverstrom-1",
+    "dateCreated": "2003-04-26",
+    "inLanguage": "English",
+    "heading": "Cameron Douglas - Welcome to Hollywood!!!",
+    "reviewBody": "I was not particularly anxious to see this film but it was a rainy Saturday (the day after it opened in my area) so I dragged my movie-hating husband to see It Runs In The Family not really knowing what to expect.\\n\\n I had seen Michael Douglas on several tv talk shows and each time he mentioned his nervousness over his son&apos;s acting--well he didn&apos;t need to worry - Cameron carried the movie!!! He&apos;s cute as a button and has charm oozing out of his pores.\\n\\nI must admit the movie was at times depressing (the treatment of the elderly uncle). I also had a difficult time viewing Kirk Douglas on the screen. The first Mrs, Kirk Douglas (Michael&apos;s real-life mother Diana) was a delight. The Culkin boy was wonderful also.\\n\\nMichael Douglas was his usual terrific self. In recent pictures, he appeared to be ageing, but in this movie he looked quite youthful. He was supposed to be in his late 40&apos;s and definitely pulled it off.\\n\\nI would not highly recommend this film--I was never bored but I was a little depressed.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 5223,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2003-09-05",
+  "keywords": [
+    "jewish slur",
+    "jew",
+    "watching tv",
+    "college",
+    "play"
+  ],
+  "duration": "PT1H49M",
+  "actor": [
+    {
+      "name": "Kirk Douglas",
+      "url": "https://www.imdb.com/name/nm0000018/"
+    },
+    {
+      "name": "Michael Douglas",
+      "url": "https://www.imdb.com/name/nm0000140/"
+    },
+    {
+      "name": "Bernadette Peters",
+      "url": "https://www.imdb.com/name/nm0001613/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Fred Schepisi",
+      "url": "https://www.imdb.com/name/nm0770961/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jesse Wigutow",
+      "url": "https://www.imdb.com/name/nm0927889/"
+    }
+  ]
+}

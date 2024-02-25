@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Project Almanac",
+  "url": "https://www.imdb.com/tt2436386/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMjQ2NjI4OV5BMl5BanBnXkFtZTgwODc2NjUwNDE@._V1_.jpg",
+  "description": "A group of teens discovers secret plans for a time machine, and construct one. However, things start to get out of control.",
+  "review": {
+    "author": "cadillac20",
+    "dateCreated": "2015-01-28",
+    "inLanguage": "English",
+    "heading": "Won&apos;t Reinvent The Genre, But It Is Entertaining",
+    "reviewBody": "I liked Project Almanac. It didn&apos;t necessarily excite me. And I did scratch my head a few times. But ultimately, I liked it. It had an interesting, if slow moving, story. It stayed grounded, or at least tried to, and did it&apos;s very best to legitimize time travel as a possibility, even if it doesn&apos;t do a very good job of actually explaining the whole thing. Certainly some things are silly, like explaining being able to control the time machine with a cell phone as cell phones &apos;having enough power to put a rocket in space&apos;, but these don&apos;t really take away from a lot of the fun dealing with the time travel element.\\n\\nThe story is pretty simple, but actually feels heart felt. David, a genius level teenager newly accepted to MIT, finds himself short on the money to pay his tuition there. This inadvertently leads him to discover an unfinished time machine his absent father left hidden in his basement. While it takes a while for the time travel elements to ramp up, there is fun to be had in seeing these kids build, experiment, and ultimately successfully travel through time. The film does a good job in allowing us to escape certain illogical elements, like how a group of teens with a fairly limited budget could create a fully functioning time machine, much less create one when no one else on earth seemingly could. David and his buddy Adam are already established as being geniuses from the moment the film begins. So, it&apos;s not much of a leap that together they could figure out how to complete the already crafted instructions and blueprints sitting in front of them. You could even say there&apos;s legitimacy to the use of the found footage style they went for. They even comment on the use of the camera, which at least shows they recognize that it&apos;s there.\\n\\nHowever, despite some explanation that helps solidify the camera&apos;s constant presence, the film , like so many found footage films, would have benefited from simply being shot like a typical narrative. The film even goes the lengths to, strangely enough, be somewhere in between. We see edits that don&apos;t make sense for someone whose recording and we have music play over things like a montage. It&apos;s just bizarre to see and hear these things play out over a film that is supposed to pretend to be found off camcorder footage. And these production elements aren&apos;t bad, they&apos;re just out of place and show the film could have benefited from simply eschewing the found footage style all together. There&apos;s also some head scratching moments throughout that can be eye-roll-inducing, but I tend to be able to suspend my disbelief, so it didn&apos;t bother me as much.\\n\\nThe film overall isn&apos;t one I&apos;d probably tell people to run out and see. But I&apos;d certainly tell them it&apos;s not a bad film. Far from it, it&apos;s a surprise in the sub genre of found footage. And while it doesn&apos;t reach the heights of Chronicle, which I consider to be the peak of found footage, I do think it&apos;s one of the better found footage films.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 83826,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "datePublished": "2015-02-16",
+  "keywords": "time travel,time machine,teenager,race against time,mother son relationship",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Amy Landecker",
+      "url": "https://www.imdb.com/name/nm0484541/"
+    },
+    {
+      "name": "Sofia Black-D&apos;Elia",
+      "url": "https://www.imdb.com/name/nm3733763/"
+    },
+    {
+      "name": "Virginia Gardner",
+      "url": "https://www.imdb.com/name/nm4722966/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dean Israelite",
+      "url": "https://www.imdb.com/name/nm2410311/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jason Pagan",
+      "url": "https://www.imdb.com/name/nm3091255/"
+    },
+    {
+      "name": "Andrew Deutschman",
+      "url": "https://www.imdb.com/name/nm2065670/"
+    }
+  ]
+}

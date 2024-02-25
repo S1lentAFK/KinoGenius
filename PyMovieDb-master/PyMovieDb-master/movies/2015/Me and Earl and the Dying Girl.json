@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Me and Earl and the Dying Girl",
+  "url": "https://www.imdb.com/tt2582496/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTA1NzUzNjY4MV5BMl5BanBnXkFtZTgwNDU0MDI0NTE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "luke-a-mcgowan",
+    "dateCreated": "2015-10-12",
+    "inLanguage": "English",
+    "heading": "Brilliantly authentic and deeply touching",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 137531,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2015-09-04",
+  "keywords": "terminal illness,leukemia,teenage boy,death,aspiring filmmaker",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Thomas Mann",
+      "url": "https://www.imdb.com/name/nm3287038/"
+    },
+    {
+      "name": "RJ Cyler",
+      "url": "https://www.imdb.com/name/nm5518972/"
+    },
+    {
+      "name": "Olivia Cooke",
+      "url": "https://www.imdb.com/name/nm4972453/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Alfonso Gomez-Rejon",
+      "url": "https://www.imdb.com/name/nm0004234/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jesse Andrews",
+      "url": "https://www.imdb.com/name/nm5428959/"
+    }
+  ]
+}

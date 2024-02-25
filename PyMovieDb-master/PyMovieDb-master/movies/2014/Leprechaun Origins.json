@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Leprechaun: Origins",
+  "url": "https://www.imdb.com/tt2345613/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0MTQ0OTY3NV5BMl5BanBnXkFtZTgwNjMxODc3MTE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "joeman32",
+    "dateCreated": "2014-08-28",
+    "inLanguage": "English",
+    "heading": "New generic Leprechaun movie dismisses the fun and original series.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 6399,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.2
+  },
+  "contentRating": "18",
+  "genre": [
+    "Fantasy",
+    "Horror"
+  ],
+  "datePublished": "2014-08-26",
+  "keywords": "ireland,vacation,decapitation,death of boyfriend,leaving someone behind",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Dylan Postl",
+      "url": "https://www.imdb.com/name/nm2407549/"
+    },
+    {
+      "name": "Stephanie Bennett",
+      "url": "https://www.imdb.com/name/nm3957563/"
+    },
+    {
+      "name": "Andrew Dunbar",
+      "url": "https://www.imdb.com/name/nm2687006/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Zach Lipovsky",
+      "url": "https://www.imdb.com/name/nm0513554/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Harris Wilkinson",
+      "url": "https://www.imdb.com/name/nm2629944/"
+    },
+    {
+      "name": "Sholom Gelt",
+      "url": "https://www.imdb.com/name/nm1471121/"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+
+
+{
+  "type": "Movie",
+  "name": "Bee Season",
+  "url": "https://www.imdb.com/tt0387059/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIxODcyMjI2MV5BMl5BanBnXkFtZTcwMjY0MjEzMQ@@._V1_.jpg",
+  "description": "Wife and mother Miriam begins a downward emotional spiral as her husband avoids their collapsing marriage by immersing himself in his 11-year-old daughter's quest to become a spelling-bee champion.",
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2006-01-27",
+  "keywords": [
+    "close up of eye",
+    "close up of eyes",
+    "close up of lips",
+    "close up of mouth",
+    "child"
+  ],
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Richard Gere",
+      "url": "https://www.imdb.com/name/nm0000152/"
+    },
+    {
+      "name": "Juliette Binoche",
+      "url": "https://www.imdb.com/name/nm0000300/"
+    },
+    {
+      "name": "Flora Cross",
+      "url": "https://www.imdb.com/name/nm1552919/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Scott McGehee",
+      "url": "https://www.imdb.com/name/nm0569166/"
+    },
+    {
+      "name": "David Siegel",
+      "url": "https://www.imdb.com/name/nm0796915/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Myla Goldberg",
+      "url": "https://www.imdb.com/name/nm1503335/"
+    },
+    {
+      "name": "Naomi Foner",
+      "url": "https://www.imdb.com/name/nm0284524/"
+    }
+  ],
+  "review": {
+    "author": "leesa84",
+    "dateCreated": "2006-05-24",
+    "inLanguage": "English",
+    "heading": "No Chemistry Btw Characters",
+    "reviewBody": "Perhaps I wasn't in a particularly patient mood when I rented this flick, however I just couldn't finish it after an hour. The actors had no chemistry whatsoever. I adore Juliette Binoche, but there was no tension/attraction/emotion between her and her supposed husband played by Richard Gere. Richard Gere did not suit the role of a Jewish, brooding intellectual. Flora Cross was interesting and quirky, but again her relationship with other characters seemed forced. (I must say that I am a large fan of the chin cleft, it's a wonderful thing...). The entire book was dumbed down, the magic was rendered laughable. I suggest you spare yourself the experience.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 7183,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  }
+}

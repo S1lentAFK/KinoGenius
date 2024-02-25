@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Cat in the Hat",
+  "url": "https://www.imdb.com/tt0312528/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI5MDU3MTYyMF5BMl5BanBnXkFtZTYwODgyODc3._V1_.jpg",
+  "description": "Two bored children have their lives turned upside down when a talking cat comes to visit them.",
+  "review": {
+    "author": "ersbel",
+    "dateCreated": "2017-09-10",
+    "inLanguage": "English",
+    "heading": "An okay movie with nice visuals",
+    "reviewBody": "This is an okay movie. And the visuals are nice. The virtual world is really polished. And the colorful costumes do make a break from the usual movie. The jokes are okay, but nothing special. And the children seem to have fun. But, boy, I had no idea Dr. Seus was a fundamentalist Christian poster boy. That would explain the poor box office results compared with worse movies.\\n\\nContact me with Questions, Comments or Suggestions ryitfork @ bitmail.ch",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 87545,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.1
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2004-04-02",
+  "keywords": "cat,talking cat,dr seuss,party,fancy party",
+  "duration": "PT1H22M",
+  "actor": [
+    {
+      "name": "Mike Myers",
+      "url": "https://www.imdb.com/name/nm0000196/"
+    },
+    {
+      "name": "Spencer Breslin",
+      "url": "https://www.imdb.com/name/nm0107748/"
+    },
+    {
+      "name": "Dakota Fanning",
+      "url": "https://www.imdb.com/name/nm0266824/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bo Welch",
+      "url": "https://www.imdb.com/name/nm0919514/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dr. Seuss",
+      "url": "https://www.imdb.com/name/nm0317450/"
+    },
+    {
+      "name": "Alec Berg",
+      "url": "https://www.imdb.com/name/nm0073688/"
+    },
+    {
+      "name": "David Mandel",
+      "url": "https://www.imdb.com/name/nm0541635/"
+    }
+  ]
+}

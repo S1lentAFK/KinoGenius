@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Attack the Block",
+  "url": "https://www.imdb.com/tt1478964/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAzNjc1MjgzOF5BMl5BanBnXkFtZTcwMzE3Njk5NQ@@._V1_.jpg",
+  "description": "A teen gang in South London defend their block from an alien invasion.",
+  "datePublished": "2011-05-13",
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "duration": "PT1H28M",
+  "keywords": "pheromones,tower block,teeth,glowing,gang",
+  "rating": {
+    "ratingCount": 111066,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "review": {
+    "author": "Lolythax",
+    "dateCreated": "2011-09-26",
+    "inLanguage": "English",
+    "heading": "Surprised and Shocked",
+    "reviewBody": "I watched this without knowing the production team, who worked on it, nothing. A friend just said 'you like sci-fi movies right? Here.' And I'll admit, for the first ten minutes, I was worried. The throw-back creature-feature title sequence being my main concern.\\n\\nBut after that wavery start, I watched over an hour of what I would consider to be one of the truest, bloodiest and certainly most adrenaline-packed horrors I've seen in a very very long time.\\n\\nThe main kids - the 'gang' - are very real and the kids' acting really shines. Moses, the lead, certainly leads us through a series of complex emotions, from hatred to forgiveness, and round again a few more times just for kicks. The actor who played him will be going places with a sullen wall-eyed expression that he still manages to convey so much meaning with.\\n\\nAs to the plot - well, most of the actual plot is there for comedy, and the moment of gratuity when the adults are plainly dumber than the kids (teenagers everywhere punch the air and laugh). I was expecting, as I watched the film with ever more pleasure, to be let down and have the aliens' presence left unexplained, as with many non-blockbuster horrors. But, in two mere sentences, the loose threads are tied and the finale is lead into all in one great sweep of fantastic writing.\\n\\nLast, but definitely not least, the aliens themselves were phenomenal. There was a certain amount of keep-them-in-the-dark and leave-it-to-your-imagination, but there were also absolute gore-fest moments which were done superbly (though the squeamish may need to blink). The aliens were well designed and were flawlessly integrated into the movie. To be honest I don't even know if they were puppets or CGI - I was so caught up in the fast-paced running and fighting, into which they were so seamlessly included.\\n\\nDefinitely one to watch for fans of the genre, fans of the creators, or anyone looking for a thrill. I'll certainly be watching it again. And if you wanna read someone say it better than I just did - http://www.flickfilosopher.com /blog/2011/08/attack_the_block_ review.html (remove superfluous spaces) (contains language, in movie quotes).",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "actor": [
+    {
+      "name": "John Boyega",
+      "url": "https://www.imdb.com/name/nm3915784/"
+    },
+    {
+      "name": "Jodie Whittaker",
+      "url": "https://www.imdb.com/name/nm2092886/"
+    },
+    {
+      "name": "Alex Esmail",
+      "url": "https://www.imdb.com/name/nm3906429/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joe Cornish",
+      "url": "https://www.imdb.com/name/nm0180428/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joe Cornish",
+      "url": "https://www.imdb.com/name/nm0180428/"
+    }
+  ]
+}

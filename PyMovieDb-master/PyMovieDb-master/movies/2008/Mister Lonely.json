@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Mister Lonely",
+  "url": "https://www.imdb.com/tt0475984/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg2MzIzODA2Nl5BMl5BanBnXkFtZTcwODY3NjM2MQ@@._V1_.jpg",
+  "description": "In Paris, a young American who works as a Michael Jackson look-alike meets Marilyn Monroe, who invites him to her commune in Scotland, where she lives with Charlie Chaplin and her daughter, Shirley Temple.",
+  "review": {
+    "author": "paulmartin-2",
+    "dateCreated": "2007-08-12",
+    "inLanguage": "English",
+    "heading": "Something very different from Korine - must-see cinema!",
+    "reviewBody": "In spite of mixed early reviews of Mister Lonely, the latest film by wunderkind Harmony Korine was not only one of the stand-out films for me at the Melbourne International Film Festival, but one of my favourites of 2007. My experience of his work to date is limited to the writing of Larry Clark's Kids and his directorial debut Gummo. The former I saw relatively recently and impressed me with its gritty realism, while the latter surprised me on its theatrical release with its bleakness.\\n\\nMister Lonely is a much more colourful film than anything associated with Korine. Its visuals (such as set design, camera angles and cinematography) are very pleasing, accentuated by its seemingly unrelated parallel narratives and absurdist premise. A Michael Jackson impersonator in France meets a Marilyn Monroe impersonator, who introduces him to a Scottish commune full of various impersonators. While superficially the film appears to be frivolous, clearly it has deeper social comments to make about identity, loneliness and alienation, issues the director has been reportedly grappling with personally.\\n\\nThe other narrative relates to a group of missionaries in Panama, with Werner Herzog portraying a priest, Father Umbrillo, delivering food aid by plane, assisted by various nuns. While the connection between the dual narratives is unclear, this story is strangely surreal, visually alluring and entertaining.\\n\\nThere is a small flat spot towards the end of the film, but for most of the film's 112 minutes, I had a big smile that was hard to wipe off my face. Charlie Chaplin, Shirley Temple, James Dean, Little Red Riding Hood, Queen Elizabeth, the Pope, The Three Stooges, Abraham Lincoln, Madonna and Buckwheat are all there.\\n\\nThe humour and irony are used with a clever and skillful blend of under- and over-statement. There is an underlying subtle sadness to some of the characters who, in spite of their eccentric alter egos, remain ordinary people that an audience can relate to. The film is intelligent and emotionally honest. One part is particularly close to the bone for me and brought tears to my eyes. This is Korine's most accessible and enjoyable film. It is full of originality and I highly recommend it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 8353,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2008-03-14",
+  "keywords": "mexican actor playing american character,american,young,commune,impersonation",
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "Diego Luna",
+      "url": "https://www.imdb.com/name/nm0526019/"
+    },
+    {
+      "name": "Samantha Morton",
+      "url": "https://www.imdb.com/name/nm0608090/"
+    },
+    {
+      "name": "Denis Lavant",
+      "url": "https://www.imdb.com/name/nm0491777/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Harmony Korine",
+      "url": "https://www.imdb.com/name/nm0005101/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Harmony Korine",
+      "url": "https://www.imdb.com/name/nm0005101/"
+    },
+    {
+      "name": "Avi Korine",
+      "url": "https://www.imdb.com/name/nm2016298/"
+    }
+  ]
+}

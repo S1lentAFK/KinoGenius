@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Child 44",
+  "url": "https://www.imdb.com/tt1014763/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk1NTkxOTc5Nl5BMl5BanBnXkFtZTgwODI0NTg0NDE@._V1_.jpg",
+  "description": "A disgraced member of the Russian military police investigates a series of child murders during the Stalin-era Soviet Union.",
+  "review": {
+    "author": "Sleepin_Dragon",
+    "dateCreated": "2015-10-03",
+    "inLanguage": "English",
+    "heading": "Dark matter",
+    "reviewBody": "I watched this film with a definite unease, having read the description of the film I didn't find it hugely appealing, just because of the subject matter, which is particularly dark, but because Mr Hardy is in it, I had to watch it. They managed to take us back to Stalin's Russia, we see a brief glimpse of how tough life was for people back then, those poor people were living in horrendous conditions. The story in brief, The State have turned Russia into a Paradise, crime simply isn't possible, and the thought of a child killer unthinkable, but when young boys are being found murdered along the train tracks the unthinkable is happening. Security Officer Leo Demidov is disgraced, but believes a Serial killer is to blame, and despite the vast obstacles the state puts in place, he sets out to find the killer. Tom Hardy (of course) and Gary Oldman are particularly brilliant, and there are also wonderful performances from Paddy Considine and Petr Vanek and many others. As I've mentioned it is quite harrowing matter, but it's not overly done, mercifully the scenes aren't that gory, it could have been dreadfully overdone. I eagerly anticipate the next instalment. 9/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 75438,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2015-04-17",
+  "keywords": "murder of a child,totalitarian state,totalitarian regime,serial killer,child murder investigation",
+  "duration": "PT2H17M",
+  "actor": [
+    {
+      "name": "Tom Hardy",
+      "url": "https://www.imdb.com/name/nm0362766/"
+    },
+    {
+      "name": "Gary Oldman",
+      "url": "https://www.imdb.com/name/nm0000198/"
+    },
+    {
+      "name": "Noomi Rapace",
+      "url": "https://www.imdb.com/name/nm0636426/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Daniel Espinosa",
+      "url": "https://www.imdb.com/name/nm1174251/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Richard Price",
+      "url": "https://www.imdb.com/name/nm0697115/"
+    },
+    {
+      "name": "Tom Rob Smith",
+      "url": "https://www.imdb.com/name/nm1602547/"
+    }
+  ]
+}

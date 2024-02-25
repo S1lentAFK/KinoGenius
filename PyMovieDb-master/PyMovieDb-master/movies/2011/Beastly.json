@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Beastly",
+  "url": "https://www.imdb.com/tt1152398/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzUzMTcxMTEzNV5BMl5BanBnXkFtZTcwMTcwNjcxNA@@._V1_.jpg",
+  "description": null,
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "datePublished": "2011-04-22",
+  "keywords": "laptop computer,disfigurement,bare chested male,party,neglectful father",
+  "duration": "PT1H26M",
+  "actor": [
+    {
+      "name": "Alex Pettyfer",
+      "url": "https://www.imdb.com/name/nm1641117/"
+    },
+    {
+      "name": "Vanessa Hudgens",
+      "url": "https://www.imdb.com/name/nm1227814/"
+    },
+    {
+      "name": "Mary-Kate Olsen",
+      "url": "https://www.imdb.com/name/nm0001581/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Daniel Barnz",
+      "url": "https://www.imdb.com/name/nm1400426/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Daniel Barnz",
+      "url": "https://www.imdb.com/name/nm1400426/"
+    },
+    {
+      "name": "Alex Flinn",
+      "url": "https://www.imdb.com/name/nm2860544/"
+    }
+  ],
+  "review": {
+    "author": "cg_angels",
+    "dateCreated": "2011-03-23",
+    "inLanguage": "English",
+    "heading": "My teenage girls love it",
+    "reviewBody": "My girls begged me to take them to see this movie as they are big fans of Vanessa Hudgens, Alex Pettyfer and Mary-Kate Olsen. As young teenagers of 13, they both loved the movie and would rate it 9 out of 10. I however, will rate it a 6. My favourite character was Neil Patrick Harris (Will), the blind tutor.... he made me laugh at almost all the scenes he was in.\\n\\nI did enjoy some of the characters, and Vanessa was very convincing as Lindy, and played her part well. I enjoyed Mary-Kate&apos;s character as, Kendra. It was fun seeing her in a different acting role then the many years of having watched her on Full House and all those cute Olson Twin movies. So all in all, I enjoyed my evening out with my girls. Please keep in mind that we did not know this movie was based on a book, which is probably why my girls enjoyed it so much.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 79617,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  }
+}

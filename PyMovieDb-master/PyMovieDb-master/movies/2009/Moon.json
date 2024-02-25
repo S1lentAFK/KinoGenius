@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Moon",
+  "url": "https://www.imdb.com/tt1182345/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgzODgyNTQwOV5BMl5BanBnXkFtZTcwNzc0NTc0Mg@@._V1_.jpg",
+  "description": "Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish o...",
+  "review": {
+    "author": "Craig_McPherson",
+    "dateCreated": "2009-07-05",
+    "inLanguage": "English",
+    "heading": "Small in scope, Grandiose in concept",
+    "reviewBody": "While book racks are brimming with thought provoking, high concept science fiction, the movie genre tends to be populated by invading aliens, intergalactic wars, and adventure, which makes Director and co-writer Duncan Jones&apos; Moon that much more of an oddity.\\n\\nNot since Steven Soderbergh&apos;s much overlooked 2002 rendition of Stanislaw Lem&apos;s Solaris has a movie firmly rooted in the sci-fi realm delivered reflections on the human condition, which Moon does deftly.\\n\\nIt tells the story of Sam Bell (Sam Rockwell), the only inhabitant of an automated lunar mining base extracting Helium-3 from lunar rocks to be shipped back to Earth to fuel the energy starved planet.\\n\\nSam&apos;s isolated three year posting is about to come to an end and he longs to return to Earth to see his wife. His only company throughout this sojourn has been that of Gerty, the base&apos;s HAL-like robot voiced by Kevin Spacey. Unfortunately, the final weeks and days are proving to be the most difficult, and Sam finds himself going a bit squirrelly, leaving both he and the audience to wonder if what&apos;s unfolding is actually happening, or merely a drama taking place in his addled mind.\\n\\nThat&apos;s about as much plot detail as I&apos;m going to deliver, for to delve any deeper into the story would give too much away. Be prepared, however, for a thought provoking narrative that touches on issues such as scientific ethics, corporate greed, human identity, and compassion.\\n\\nThere are no aliens, lasers/phasers, wormholes, warp engines or jump drives here, just a lonely space age concierge, an unflappable monotone robot, and a whole lot of fodder for your brain to chow down on.\\n\\nThis is what science fiction was meant to be.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 374675,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "datePublished": "2009-07-17",
+  "keywords": "moon,solitude,memory,cult film,human clone",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Sam Rockwell",
+      "url": "https://www.imdb.com/name/nm0005377/"
+    },
+    {
+      "name": "Kevin Spacey",
+      "url": "https://www.imdb.com/name/nm0000228/"
+    },
+    {
+      "name": "Dominique McElligott",
+      "url": "https://www.imdb.com/name/nm1069800/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Duncan Jones",
+      "url": "https://www.imdb.com/name/nm1512910/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Duncan Jones",
+      "url": "https://www.imdb.com/name/nm1512910/"
+    },
+    {
+      "name": "Nathan Parker",
+      "url": "https://www.imdb.com/name/nm2914162/"
+    }
+  ]
+}

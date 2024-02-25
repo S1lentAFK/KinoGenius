@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Sweeney Todd: The Demon Barber of Fleet Street",
+  "url": "https://www.imdb.com/tt0408236/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg3NjUxMzM5NV5BMl5BanBnXkFtZTcwMzQ1NjQzMw@@._V1_.jpg",
+  "description": "The legendary tale of a barber who returns from wrongful imprisonment to 1840s London, bent on revenge for the rape and death of his wife, and resumes his trade while forming a sinister partnership with his fellow tenant, Mrs. Lov...",
+  "contentRating": "18",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Musical"
+  ],
+  "datePublished": "2008-01-25",
+  "keywords": "razor,based on stage musical,serial killer,barbershop,judge",
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Johnny Depp",
+      "url": "https://www.imdb.com/name/nm0000136/"
+    },
+    {
+      "name": "Helena Bonham Carter",
+      "url": "https://www.imdb.com/name/nm0000307/"
+    },
+    {
+      "name": "Alan Rickman",
+      "url": "https://www.imdb.com/name/nm0000614/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tim Burton",
+      "url": "https://www.imdb.com/name/nm0000318/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Logan",
+      "url": "https://www.imdb.com/name/nm0517589/"
+    },
+    {
+      "name": "Hugh Wheeler",
+      "url": "https://www.imdb.com/name/nm0923839/"
+    },
+    {
+      "name": "Christopher Bond",
+      "url": "https://www.imdb.com/name/nm0093904/"
+    }
+  ],
+  "review": {
+    "author": "Boris_Day",
+    "dateCreated": "2007-12-17",
+    "inLanguage": "English",
+    "heading": "Tim Burton's most dramatically satisfying film so far.",
+    "reviewBody": "I approached Sweeney Todd with trepidation, having been underwhelmed with most of Tim Burton's recent output and every screen musical of the last decade. The biggest problem I have with Burton's films is that his screenplays rarely manage to pull their disparate elements into a satisfying whole. Here, despite adapting the material to his own sensibilities and shortening the play by an hour, he adheres closely to Sondheim's book, resulting in the most dramatically satisfying film Burton has ever made. \n\nI liked the adaptation of the off-off Broadway Hedwig and the Angry Inch, but have been left underwhelmed by all the recent big budget film musicals, so I'm glad to say that Sweeney Todd, wipes the floor with every major screen musical of the last decade, including the likable if over extended Hairspary. Most surprising is how shockingly gruesome the the film becomes in the second half. This must be the most blood drenched film since Shogun Assassin, with arteries spurting blood like like fountains as throats are cut, with the violence escalating towards the end leading towards a climax that is exhilarating, heartbreaking and satisfyingly bleak.\n\nUnlike the dreary dirges Danny Elfman supplied for Burton's stop frame musicals, Sondheim's score is a joy to listen to from beginning to end, its dark romanticism sometimes reminding me of Bernhard Herrmann, perfectly fitting what is both a musical and a horror film in equal measures.\n\nDepp and Bonham Carter are both excellent and it's down to their performances that I never quite lost sympathy with them in their descent into madness, blood lust and cannibalism.\n\nMusical haters may not be converted as 75% percent of the dialogue is sung, but this completely dispatches any notion of cloying sentimentally the genre is often associated with.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 385014,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  }
+}

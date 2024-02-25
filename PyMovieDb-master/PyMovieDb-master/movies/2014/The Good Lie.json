@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Good Lie",
+  "url": "https://www.imdb.com/tt2652092/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA0Njc1MzA4MF5BMl5BanBnXkFtZTgwODc1MjUwMjE@._V1_.jpg",
+  "description": "A group of Sudanese refugees, given the chance to resettle in the U.S., arrive in Kansas City, Missouri, where their encounter with an employment agency counselor forever changes all of their lives.",
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama"
+  ],
+  "datePublished": "2015-04-24",
+  "keywords": "refugee camp,sudan,self sacrifice,based on true story,title spoken by character",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Reese Witherspoon",
+      "url": "https://www.imdb.com/name/nm0000702/"
+    },
+    {
+      "name": "Arnold Oceng",
+      "url": "https://www.imdb.com/name/nm0643668/"
+    },
+    {
+      "name": "Ger Duany",
+      "url": "https://www.imdb.com/name/nm1563346/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Philippe Falardeau",
+      "url": "https://www.imdb.com/name/nm0265852/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Margaret Nagle",
+      "url": "https://www.imdb.com/name/nm0619361/"
+    }
+  ],
+  "review": {
+    "author": "haberville",
+    "dateCreated": "2014-11-30",
+    "inLanguage": "English",
+    "heading": "One of the best films of the year",
+    "reviewBody": "THE GOOD LIE was only seen in theaters for a brief time back in October, but it has left a lasting impression on me. There are few movies that have a heart like this one. And don't let the advertising mislead you: Reese Witherspoon has a supporting role and doesn't even appear in its first half hour. This story is one of uplift in the face of incredible odds. Its cast of virtual unknowns are superb. And all four of the young African actors are themselves refugees or children of refugees and their ability to relate to the experience allows for a kind of acting you don't see in your average film. I can't wait for it to be available for download or on a DVD. I intend to have friends over to watch it and see for themselves what a really good movie is all about.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 29882,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  }
+}

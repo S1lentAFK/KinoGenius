@@ -1,0 +1,73 @@
+
+
+{
+  "type": "Movie",
+  "name": "Arctic Tale",
+  "url": "https://www.imdb.com/tt0488508/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5MzM5NzM3OV5BMl5BanBnXkFtZTcwMTIxNTk0MQ@@._V1_.jpg",
+  "description": "Two narratives -- the life cycle of a mother walrus and her calf, and the life of a polar bear and her cubs -- are used to illustrate the harsh realities of existence in the Arctic.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2019-10-07",
+    "inLanguage": "English",
+    "heading": "Queen Latifah narration",
+    "reviewBody": "National Geographic does a documentary with a good dose of cutesy storytelling from the Queen Latifah narration. It starts with a momma polar bear and her two cubs emerging from their den for the first time. They have to navigate the new climate along side a baby walrus within its herd. It&apos;s nothing new to tell a nature story from a humanistic manner. Sometimes, it works well like the death of the cub. Other times, it&apos;s rather too cute. On that note, I don&apos;t like Queen Latifah&apos;s narration. It may be old fashion but nature documentaries always sounds better British. I also don&apos;t like the music which has singing in it. When it gets to a fart fest, the show takes a giant step down. I appreciate the attempt at something new but most of this is rubbing me the wrong way.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 1941,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "U",
+  "genre": [
+    "Documentary",
+    "Family"
+  ],
+  "datePublished": "2008-02-08",
+  "keywords": "mother,walrus,polar bear,arctic,seal the animal",
+  "duration": "PT1H26M",
+  "actor": [
+    {
+      "name": "Queen Latifah",
+      "url": "https://www.imdb.com/name/nm0001451/"
+    },
+    {
+      "name": "Katrina Agate",
+      "url": "https://www.imdb.com/name/nm1742658/"
+    },
+    {
+      "name": "Zain Ali",
+      "url": "https://www.imdb.com/name/nm2714285/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Adam Ravetch",
+      "url": "https://www.imdb.com/name/nm0712418/"
+    },
+    {
+      "name": "Sarah Robertson",
+      "url": "https://www.imdb.com/name/nm1557312/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Linda Woolverton",
+      "url": "https://www.imdb.com/name/nm0941314/"
+    },
+    {
+      "name": "Mose Richards",
+      "url": "https://www.imdb.com/name/nm0724255/"
+    },
+    {
+      "name": "Kristin Gore",
+      "url": "https://www.imdb.com/name/nm0330751/"
+    }
+  ]
+}

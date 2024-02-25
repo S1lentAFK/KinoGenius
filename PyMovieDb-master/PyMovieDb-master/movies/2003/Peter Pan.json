@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Peter Pan",
+  "url": "https://www.imdb.com/tt0316396/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmQyMDlhMTAtZWFiYy00NTQ5LTgxZTgtZDhlNmQ5MmMwMjBmXkEyXkFqcGdeQXVyOTYyMTY2NzQ@._V1_.jpg",
+  "description": "The Darling family children receive a visit from Peter Pan, who takes them to Never Never Land where an ongoing war with the evil Pirate Captain Hook is taking place.",
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2003-12-24",
+  "keywords": "boy, male tied up, boy hero, peter pan character, captain hook character",
+  "duration": "PT1H53M",
+  "actor": [
+    {
+      "name": "Jeremy Sumpter",
+      "url": "https://www.imdb.com/name/nm0838911/"
+    },
+    {
+      "name": "Jason Isaacs",
+      "url": "https://www.imdb.com/name/nm0005042/"
+    },
+    {
+      "name": "Olivia Williams",
+      "url": "https://www.imdb.com/name/nm0931404/"
+    }
+  ],
+  "director": [
+    {
+      "name": "P.J. Hogan",
+      "url": "https://www.imdb.com/name/nm0389591/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "J.M. Barrie",
+      "url": "https://www.imdb.com/name/nm0057381/"
+    },
+    {
+      "name": "P.J. Hogan",
+      "url": "https://www.imdb.com/name/nm0389591/"
+    },
+    {
+      "name": "Michael Goldenberg",
+      "url": "https://www.imdb.com/name/nm0325533/"
+    }
+  ],
+  "review": {
+    "author": "Bored_Dragon",
+    "dateCreated": "2017-12-28",
+    "inLanguage": "English",
+    "heading": "Neverland Romance",
+    "reviewBody": "This is probably the best adaptation of Peter Pan and it deserves place in movie classics. The reason it had low success in theaters and it passed almost unnoticed lies not in its quality, but in fact it was released in the middle of Harry Potter mania and at the same time with the best fantasy movie of all time - The Lord of the Rings: The Return of the King. Practically nothing had real chance competing with those two.\\n\\nThis is classic version of Peter Pan, but really excellent one. Production is top, although not on LOTR level. Kids are incredibly cute and they played their roles really well and scenery is beautiful. Few times I thought that CGI is bit unconvincing, but I think it&apos;s done on purpose to make distinction between real world and world of fantasy. What particularly distinguishes this adaptation is the relationship between Peter and Wendy, which is elevated to a higher level than the one we are used to. Here they are not just children, but preteens who develop early stage of romantic love and even some sort of sexual tension. That deepens their relationship and adds new dimension to the story, that is not just two-dimensional fairy-tale any more, like it was in animated Disney version. Warm recommendation.\\n\\n8/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 79576,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  }
+}

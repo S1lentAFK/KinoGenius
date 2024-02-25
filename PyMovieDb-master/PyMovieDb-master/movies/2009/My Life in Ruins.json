@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "My Life in Ruins",
+  "url": "https://www.imdb.com/tt0865559/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTE3MzQ2NzczNl5BMl5BanBnXkFtZTcwMjgyNDgzMg@@._V1_.jpg",
+  "description": "A disgruntled tour guide in Greece gains an unexpected new outlook on life thanks to one of the people on what she intends to be her last tour.",
+  "review": {
+    "author": "xp3800",
+    "dateCreated": "2009-06-06",
+    "inLanguage": "English",
+    "heading": "Wait for DVD, cable or regular TV",
+    "reviewBody": "This movie reminded me of If it's Tuesday this must be Belgium. I would say they are similar in quality and subject matter (romance on a tour bus with wacky tourists as comedy relief). The romance was a bit better in Belgium and maybe the movie overall but they are close. Low brow clich\u00e9d comedy in both and while Belgium does Western Europe Ruins is set in Greece. The cinematography is better in Ruins so if you like pretty pictures take a trip with Vardalos and company. The movie isn't awful and I would classify it as a pleasant time waster of a summer movie but that is it. It is the type of movie you wait to arrive on DVD, cable or regular TV. Nevertheless the crowd I saw it with at an advance screening clapped at the end so there are some as other user comments attest to that really liked it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 20802,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2009-10-02",
+  "keywords": "tourist,tour guide,greece,tour bus,boxer shorts",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Nia Vardalos",
+      "url": "https://www.imdb.com/name/nm0889522/"
+    },
+    {
+      "name": "Richard Dreyfuss",
+      "url": "https://www.imdb.com/name/nm0000377/"
+    },
+    {
+      "name": "Rachel Dratch",
+      "url": "https://www.imdb.com/name/nm0237222/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Donald Petrie",
+      "url": "https://www.imdb.com/name/nm0677953/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mike Reiss",
+      "url": "https://www.imdb.com/name/nm0718514/"
+    }
+  ]
+}

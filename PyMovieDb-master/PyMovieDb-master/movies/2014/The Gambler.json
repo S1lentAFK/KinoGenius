@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Gambler",
+  "url": "https://www.imdb.com/tt2039393/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGY1ODNhYWItZGM0OC00ODI4LWFmM2UtODE1N2Y4NTFhMDk5XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+  "description": "Literature professor and gambler Jim Bennett&apos;s debt causes him to borrow money from his mother and a loan shark. Further complicating his situation, is his relationship with one of his students. Will Bennett risk his life for a se...",
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2015-01-23",
+  "keywords": [
+    "gambler",
+    "gambling",
+    "gambling debt",
+    "gambling addiction",
+    "younger version of character"
+  ],
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Mark Wahlberg",
+      "url": "https://www.imdb.com/name/nm0000242/"
+    },
+    {
+      "name": "Jessica Lange",
+      "url": "https://www.imdb.com/name/nm0001448/"
+    },
+    {
+      "name": "John Goodman",
+      "url": "https://www.imdb.com/name/nm0000422/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rupert Wyatt",
+      "url": "https://www.imdb.com/name/nm1012501/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William Monahan",
+      "url": "https://www.imdb.com/name/nm1184258/"
+    },
+    {
+      "name": "James Toback",
+      "url": "https://www.imdb.com/name/nm0864812/"
+    }
+  ],
+  "review": {
+    "author": "valleyjohn",
+    "dateCreated": "2015-01-23",
+    "inLanguage": "English",
+    "heading": "Much better than some reviews are saying",
+    "reviewBody": "I have read few unfavourable reviews about The Gambler mostly saying the film is not gripping enough. I disagree. At no stage did i lose interest in what was going on and i thought the tension was palpable at times. A really good leading performance from Mark Wahlberg and it&apos;s good to see Michael Kenneth Williams ( Omar Little from The Wire ) in a big role. If i had to be picky i would say that the three people who Jim owed money to could have been a little bit more menacing and the ending is a little bit confusing ( or that could just be me ! ). Overall though an entertaining , enjoyable movie which also has a great soundtrack.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 73121,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  }
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "John Dies at the End",
+  "url": "https://www.imdb.com/tt1783732/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNzIyNzc0MV5BMl5BanBnXkFtZTcwOTM5ODg1OA@@._V1_.jpg",
+  "description": "A new street drug that sends its users across time and dimensions has one drawback: some people return no longer human. Can two college drop-outs save humanity from this silent, otherworldly invasion?",
+  "review": {
+    "author": "sinsecticide",
+    "dateCreated": "2012-05-27",
+    "inLanguage": "English",
+    "heading": "I expected it to be weird...",
+    "reviewBody": "...and it was. I also expected it to be funny, and it was that too. I had not read the book previously and knew nearly nothing about the story, but if you've seen the trailer, that is pretty much adequate preparation for the strangeness you subject yourself to as you watch this movie. \n\nSeveral scenes are just outright setups for jokes, and if this film was just set em up, knock em down - it would not be worth an 8. What makes this movie better than that is that it is, at it's core - psychotic in the best way possible. You never know if what you are seeing is real or not, and just when you think you couldn't see or handle anything weirder, something hilarious happens to shift gears.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 40153,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Fantasy",
+    "Horror"
+  ],
+  "datePublished": "2013-03-22",
+  "keywords": "multiple dimensions,male friendship,fictional drug,cult film,breasts",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Chase Williamson",
+      "url": "https://www.imdb.com/name/nm3311695/"
+    },
+    {
+      "name": "Rob Mayes",
+      "url": "https://www.imdb.com/name/nm2373827/"
+    },
+    {
+      "name": "Paul Giamatti",
+      "url": "https://www.imdb.com/name/nm0316079/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Don Coscarelli",
+      "url": "https://www.imdb.com/name/nm0181741/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Don Coscarelli",
+      "url": "https://www.imdb.com/name/nm0181741/"
+    },
+    {
+      "name": "David Wong",
+      "url": "https://www.imdb.com/name/nm4200139/"
+    }
+  ]
+}

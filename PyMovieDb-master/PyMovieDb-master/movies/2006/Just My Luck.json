@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Just My Luck",
+  "url": "https://www.imdb.com/tt0397078/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk0MTE4ODIwNl5BMl5BanBnXkFtZTYwNzkyMDk2._V1_.jpg",
+  "description": "Manhattanite Ashley is known to many as the luckiest woman around. After a chance encounter with a down-and-out young man, however, she realizes that she's swapped her fortune for his.",
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "datePublished": "2006-06-30",
+  "keywords": "luck, bad luck, kiss, woman wears a gas mask, public relations executive",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "Lindsay Lohan",
+      "url": "https://www.imdb.com/name/nm0517820/"
+    },
+    {
+      "name": "Chris Pine",
+      "url": "https://www.imdb.com/name/nm1517976/"
+    },
+    {
+      "name": "Samaire Armstrong",
+      "url": "https://www.imdb.com/name/nm1027847/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Donald Petrie",
+      "url": "https://www.imdb.com/name/nm0677953/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "I. Marlene King",
+      "url": "https://www.imdb.com/name/nm0454783/"
+    },
+    {
+      "name": "Amy Harris",
+      "url": "https://www.imdb.com/name/nm0364423/"
+    },
+    {
+      "name": "Jonathan Bernstein",
+      "url": "https://www.imdb.com/name/nm0077080/"
+    }
+  ],
+  "review": {
+    "author": "pepekwa",
+    "dateCreated": "2008-01-11",
+    "inLanguage": "English",
+    "heading": "not that bad",
+    "reviewBody": "normally i would cross the street to avoid watching a lindsay lohan movie as gawking aside, i don't do teenage angst/silly comedy airhead films. However, I watched the first five minutes of this and stayed the course of the movie. While as pointed out, this wont win any awards, it has its quirky moments, which were rarely funny but were well choreographed and the whole bad luck/.good luck theme and the idea it can be switched was an interesting idea that was played out well in the film. Faizon Love stole the show as the always pressed for time moneybags record producer and it helped that the band could play and are musicians in their own right. All-in-all, i wont be buying the DVD but if you're stuck on a plane flight or just need to kill 90 odd minutes, this film serves its purpose.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 61080,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  }
+}

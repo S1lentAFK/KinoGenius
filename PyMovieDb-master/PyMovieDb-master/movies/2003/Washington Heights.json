@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Washington Heights",
+  "url": "https://www.imdb.com/tt0314871/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcxNTU2MzQzNl5BMl5BanBnXkFtZTYwMTAzNzk5._V1_.jpg",
+  "description": "In the Latino neighborhood of New York City's Washington Heights, two sons of immigrants one Dominican, one Irish wrestle with ambition and identity, only to discover that sometimes pursuing one's dreams comes at a heavy cost.",
+  "review": {
+    "author": "edgerton",
+    "dateCreated": "2003-05-25",
+    "inLanguage": "English",
+    "heading": "Great characters, incredibly tight writing, wonderful acting.",
+    "reviewBody": "I loved this film from the moment La Vida es un Carnival started till the end. It avoids so many of the cliches that other immigrant stories fall prey to, and instead gives us a real snapshot of the lives of a handful of characters in this New York neighborhood. I can't stand films where everything is so neatly wrapped up and by the end all of the characters' conflicts are resolved. Instead, this film let's us see a handful of very alive characters fight to pursue their dreams against the barriers of their families, history, loves, and, most importantly, themselves. By the conclusion, we don't know all the answers of where they'll be, but we know who they are, and we care about them immensely. Nat Moss and Alfredo de Villa deserve a huge round of applause for having written such a touching and compelling story.\\n\\nThe movie is also beautifully shot, with de Villa's hand adding to the text as all great directors do. In one fantastic scene, we see one of the characters joyfully announce his engagement, ask for help from his friend, and have his friend reveal that he cannot help due to a debt between their fathers. The character then responds in anger to the fact that his father would help his friend, but not his own son. As tightly as the scene is written, it is shot equally well, with the camera following the characters through the bodega, keeping up their increasing intensity. The shooting adds to the scene immensely. There is also a beautiful sequence that is set up over many very brief earlier moments where we see a real transformation in the main character's artistic direction (he is a cartoon artist). I was struck while watching it how hard it is to show in a film the growth of an artist, or even the creative process. Yet here de Villa does so brilliantly, making it completely believeable.\\n\\nFinally, the acting in this film is fantastic. As the star Carlos of the film, Manny Perez wonderfully alternates, like his neighborhood, between the high energy of his ambition, the frustration (and ultimate satisfaction) of his family ties, and his ambivalence about where he belongs. Tomas Milian turns in an Oscar-worthy performance as the father/bodega owner. And numerous smaller roles reveal potential stars, including Danny Hoch, who is brilliant from start to finish, and Bobby Carnavale, who steals the screen nearly every moment he's on it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 410,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "R",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2002-05-09",
+  "keywords": "new york city,dominican,digital video",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Tomas Milian",
+      "url": "https://www.imdb.com/name/nm0587401/"
+    },
+    {
+      "name": "Manny Perez",
+      "url": "https://www.imdb.com/name/nm0673563/"
+    },
+    {
+      "name": "Danny Hoch",
+      "url": "https://www.imdb.com/name/nm0387773/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Alfredo Rodriguez de Villa",
+      "url": "https://www.imdb.com/name/nm0212137/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nat Moss",
+      "url": "https://www.imdb.com/name/nm1155935/"
+    },
+    {
+      "name": "Alfredo Rodriguez de Villa",
+      "url": "https://www.imdb.com/name/nm0212137/"
+    },
+    {
+      "name": "Junot Diaz",
+      "url": "https://www.imdb.com/name/nm1155043/"
+    }
+  ]
+}

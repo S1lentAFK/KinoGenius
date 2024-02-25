@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Wedding Ringer",
+  "url": "https://www.imdb.com/tt0884732/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk3MjQyNTUxNl5BMl5BanBnXkFtZTgwNjM3Mjk1MzE@._V1_.jpg",
+  "description": "Two weeks shy of his wedding, a socially awkward guy enters into a charade by hiring the owner of a company that provides best men for grooms in need.",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "contentRating": "15",
+  "datePublished": "2015-02-20",
+  "duration": "PT1H41M",
+  "keywords": "bachelor party,bride and groom,marriage,cleavage,wedding dress",
+  "actor": [
+    {
+      "name": "Kevin Hart",
+      "url": "https://www.imdb.com/name/nm0366389/"
+    },
+    {
+      "name": "Josh Gad",
+      "url": "https://www.imdb.com/name/nm1265802/"
+    },
+    {
+      "name": "Kaley Cuoco",
+      "url": "https://www.imdb.com/name/nm0192505/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeremy Garelick",
+      "url": "https://www.imdb.com/name/nm1275670/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jeremy Garelick",
+      "url": "https://www.imdb.com/name/nm1275670/"
+    },
+    {
+      "name": "Jay Lavender",
+      "url": "https://www.imdb.com/name/nm1191891/"
+    }
+  ],
+  "review": {
+    "author": "lnvicta",
+    "dateCreated": "2015-12-26",
+    "inLanguage": "English",
+    "heading": "Kevin Hart's best performance and sporadic laugh-out-loud moments, but it ultimately clutches onto the same tropes and beats as other movies of its ilk.",
+    "reviewBody": "I really wanted to like this movie, mainly because I think Kevin Hart has had a rough few years. Not financially of course; the guy has been starring in more than a few comedies the past couple years, but critically, none of them (Ride Along, Get Hard, About Last Night) can be called a genuinely great movie. The Wedding Ringer is the best of the bunch, though. This is Kevin Hart in his element - his most dynamic performance and playing a Hitch-style role where he gets hired to be people's best mans for guys who don't have any friends. Josh Gad plays the loser character, and he and Hart have great chemistry and some very funny back and forth moments. I was actually surprised at how much I was enjoying this movie for the first half, but then the problems became too glaring to ignore.\\n\\nThe premise feels fresh and fun in the beginning. It felt like a cross between Wedding Crashers and I Love You, Man without directly copying either of them. The problem is, those movies had more character depth beyond their two leads. Here, every character besides Hart and Gad are cardboard cutouts. The biggest offender is Paige, played by Kaley Cuoco. She is the most shallow caricature of a woman I've seen in comedy in a long long time. It's a shame because Kaley does what she can, but her character is so one-dimensional you can't even connect with her on any level. The random groomsman have their moments, but they're still only caricatures. There's the buff guy, the fresh out of prison rapist, the guy who likes pulling out his penis, the socially awkward guy, etc. They may have defining traits, but not one of them feels like a fleshed out character.\\n\\nStructure is another problem in this movie because after an excellent setup, it starts going down the list of the same tropes and beats as every other zany wedding comedy. Competitive family football scene? Check. Guy finding out girl is actually a bitch? Check. Guy and employer who have a strictly business relationship actually become friends in the end? Check. It's a shame because when Kevin Hart is given a chance to shine, he shines. But those moments become less and less often as the movie tries to tie itself neatly with a bow in the third act.\\n\\nThe Wedding Ringer is good for a few laughs, but in the end it's just another Kevin Hart comedy that had potential but didn't explore it. The man has proved himself to be a comedic force to be reckoned with. Now it's just a waiting game until he finds a script that fully plays to his strengths. Until then, The Wedding Ringer seems to be the one to beat, and as far as raunchy comedies go, you could do a lot worse.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 79809,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  }
+}

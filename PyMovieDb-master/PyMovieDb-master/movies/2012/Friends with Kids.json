@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Friends with Kids",
+  "url": "https://www.imdb.com/tt1720616/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIyMDI5ODkzNl5BMl5BanBnXkFtZTcwMTE4MzQzNw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "ferguson-6",
+    "dateCreated": "2012-03-11",
+    "inLanguage": "English",
+    "heading": "At least no Paul Anka song ...",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 43053,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2012-06-29",
+  "keywords": "f rated,cabin,life coach,comic relief,female director",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Jennifer Westfeldt",
+      "url": "https://www.imdb.com/name/nm0922724/"
+    },
+    {
+      "name": "Adam Scott",
+      "url": "https://www.imdb.com/name/nm0004395/"
+    },
+    {
+      "name": "Maya Rudolph",
+      "url": "https://www.imdb.com/name/nm0748973/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jennifer Westfeldt",
+      "url": "https://www.imdb.com/name/nm0922724/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jennifer Westfeldt",
+      "url": "https://www.imdb.com/name/nm0922724/"
+    }
+  ]
+}

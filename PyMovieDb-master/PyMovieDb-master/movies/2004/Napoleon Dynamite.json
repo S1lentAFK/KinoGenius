@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "Napoleon Dynamite",
+  "url": "https://www.imdb.com/tt0374900/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjYwNTA3MDIyMl5BMl5BanBnXkFtZTYwMjIxNjA3._V1_.jpg",
+  "description": null,
+  "contentRating": "PG",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2004-12-26",
+  "keywords": "family relationships,teenager,high school,idaho,salesman",
+  "duration": "PT1H36M",
+  "rating": {
+    "ratingCount": 235802,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "review": {
+    "author": "dfranzen70",
+    "dateCreated": "2004-12-30",
+    "inLanguage": "English",
+    "heading": "Funny and unique!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "Jon Heder",
+      "url": "https://www.imdb.com/name/nm1417647/"
+    },
+    {
+      "name": "Efren Ramirez",
+      "url": "https://www.imdb.com/name/nm0708293/"
+    },
+    {
+      "name": "Jon Gries",
+      "url": "https://www.imdb.com/name/nm0340973/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jared Hess",
+      "url": "https://www.imdb.com/name/nm0381478/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jared Hess",
+      "url": "https://www.imdb.com/name/nm0381478/"
+    },
+    {
+      "name": "Jerusha Hess",
+      "url": "https://www.imdb.com/name/nm1415801/"
+    }
+  ]
+}

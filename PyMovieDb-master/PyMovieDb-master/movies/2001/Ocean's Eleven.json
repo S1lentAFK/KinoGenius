@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Ocean's Eleven",
+  "url": "https://www.imdb.com/tt0240772/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzVmYzVkMmUtOGRhMi00MTNmLThlMmUtZTljYjlkMjNkMjJkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+  "description": "Danny Ocean and his ten accomplices plan to rob three Las Vegas casinos simultaneously.",
+  "review": {
+    "author": "preppy-3",
+    "dateCreated": "2001-12-10",
+    "inLanguage": "English",
+    "heading": "Fluffy but lots of fun",
+    "reviewBody": "A rarity--a remake that's better than the original. 11 men led by Danny Ocean (George Clooney) prepare to rob a vault linked to 3 casinos in Las Vegas. His partners in crime include Brad Pitt, Carl Reiner, Elliot Gould, Casey Affleck, Matt Damon and Scott Caan. Also, the casinos are owned by Tery Benedict (Andy Garcia) who is romancing Ocean's ex-wife Tess (Julia Roberts). Fun, engrossing, just simply the most enjoyable film of 2001. It moves smoothly, the entire cast plays it cool and easy and Steven Soderbergh directs it with flair and intelligence. Yes, it's light; yes, it's a trifle but it's so FUN! I really loved this film. Affleck and Caan are hilarious as bickering brothers. My only complaint--Julia Roberts (the only woman in the cast) is shot very cruelly. She's beautiful so why does she look so bad? Aside from that this is a fun movie. Just sit back and enjoy.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 613228,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  },
+  "contentRating": "12",
+  "genre": [
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "2002-02-15",
+  "keywords": "casino,heist,criminal mastermind,remake,card dealer",
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "George Clooney",
+      "url": "https://www.imdb.com/name/nm0000123/"
+    },
+    {
+      "name": "Brad Pitt",
+      "url": "https://www.imdb.com/name/nm0000093/"
+    },
+    {
+      "name": "Julia Roberts",
+      "url": "https://www.imdb.com/name/nm0000210/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven Soderbergh",
+      "url": "https://www.imdb.com/name/nm0001752/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "George Clayton Johnson",
+      "url": "https://www.imdb.com/name/nm0425138/"
+    },
+    {
+      "name": "Jack Golden Russell",
+      "url": "https://www.imdb.com/name/nm0751207/"
+    },
+    {
+      "name": "Harry Brown",
+      "url": "https://www.imdb.com/name/nm0113689/"
+    }
+  ]
+}

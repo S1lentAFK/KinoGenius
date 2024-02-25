@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Stoked: The Rise and Fall of Gator",
+  "url": "https://www.imdb.com/tt0271211/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU3MzE4MzU2M15BMl5BanBnXkFtZTcwNDM3NDAwMQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "juan_dollapotz",
+    "dateCreated": "2003-12-15",
+    "inLanguage": "English",
+    "heading": "Well researched and well told story",
+    "reviewBody": "Using the life of Mark 'Gator' Ragowski as the thread, director Helen Stickler tracks the rise of skateboarding from underground pastime to cultural phenomenon. As corporate America jumped all over the sport, the proponents got richer and the sport of skateboarding more mainstream, but some of the players weren't equipped for the fame and money - Gator amongst them.\n\nWith a great soundtrack, excellent original resources and unparralleled access to the sports biggest names (many of whom skated with Gator and are now owners of Skateboard companies), Stoked is as much a look at the Eighties and the gluttony of the times; some made it through unscathed, some profited nicely, and one at least is going to be in jail for some time to come!\n\nStoked is a great documentary, for fans of skateboarding and pop culture junkies alike",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 1148,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Documentary",
+    "Sport"
+  ],
+  "datePublished": "2004-06-25",
+  "keywords": "sports documentary,rise and fall,legend,skateboarding,skateboard",
+  "duration": "PT1H22M",
+  "actor": [
+    {
+      "name": "Mark 'Gator' Rogowski",
+      "url": "https://www.imdb.com/name/nm0737393/"
+    },
+    {
+      "name": "Stacy Peralta",
+      "url": "https://www.imdb.com/name/nm0672769/"
+    },
+    {
+      "name": "Tony Hawk",
+      "url": "https://www.imdb.com/name/nm0005000/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Helen Stickler",
+      "url": "https://www.imdb.com/name/nm0830010/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Helen Stickler",
+      "url": "https://www.imdb.com/name/nm0830010/"
+    }
+  ]
+}

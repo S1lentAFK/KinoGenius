@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Art School Confidential",
+  "url": "https://www.imdb.com/tt0364955/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA2NzUzNzIwMV5BMl5BanBnXkFtZTcwMDgxNDgzMQ@@._V1_.jpg",
+  "description": "Starting from childhood attempts at illustration, the protagonist pursues his true obsession to art school. But as he learns how the art world really works, he finds that he must adapt his vision to the reality that confronts him.",
+  "contentRating": "18",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2006-05-12",
+  "keywords": "nude modeling,nude model,scantily clad female,prostitute,teenage girl",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Max Minghella",
+      "url": "https://www.imdb.com/name/nm1540404/"
+    },
+    {
+      "name": "Sophia Myles",
+      "url": "https://www.imdb.com/name/nm0617009/"
+    },
+    {
+      "name": "John Malkovich",
+      "url": "https://www.imdb.com/name/nm0000518/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Terry Zwigoff",
+      "url": "https://www.imdb.com/name/nm0959062/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Daniel Clowes",
+      "url": "https://www.imdb.com/name/nm0167280/"
+    }
+  ],
+  "review": {
+    "author": "poohead",
+    "dateCreated": "2006-05-21",
+    "inLanguage": "English",
+    "heading": "Coming of age gone wrong.",
+    "reviewBody": "For the first 30 minutes, 'Art School Confidential' sets itself up as a coming of age movie. But instead of at that pivotal moment when one comes of age, Jerome the aspiring artist turns to the dark side and begins to show someone with genuine ambition and a worthy character descend into a turbulent test of artistic innovation. Whatever the hell that means. 'Art School' not only depicts the individual growth of Jerome, but also analyzes the definition of art, and in some respects, defines it quite well. Why does shitty art get so much acclaim? Why does quality art often go unnoticed? Why are artists such pretentious ass holes? The whole movie answers all these questions hilariously and beautifully.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 17666,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  }
+}

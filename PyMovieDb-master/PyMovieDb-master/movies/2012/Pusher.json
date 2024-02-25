@@ -1,0 +1,71 @@
+
+
+{
+  "type": "Movie",
+  "name": "Pusher",
+  "url": "https://www.imdb.com/tt0117407/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTA5YzBjMTgtNTIwMC00YzQwLTk4MDItMjU3NDMyNDhjNmRlXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_.jpg",
+  "description": "A drug pusher grows increasingly desperate after a botched deal leaves him with a large debt to a ruthless drug lord.",
+  "review": {
+    "author": "snake77",
+    "dateCreated": "2002-01-30",
+    "inLanguage": "English",
+    "heading": "Outstanding, realistic crime film",
+    "reviewBody": "This is a really good film, one of the most realistic films about drugs and the criminal underworld I&apos;ve ever seen. The film examines a week in the life of a mid-level drug dealer on the streets of Copenhagen and pulls no punches. Kim Bodina gives a great, nuanced performance as Frank, the dealer and main character. He captures perfectly the snaky charisma, emotional detachment and nihilism of a street dealer. Frank is essentially a sociopath, turning on the charm when it suits him and turning a blind eye on the people in his life when they can&apos;t be of any use to him. Especially effective is the portrayal of Frank&apos;s relationship with Vic, the high priced call girl he obviously cares about but can&apos;t bring himself to get physical with because of his emotional coldness. Frank blames this dilemma on her work, suggesting he can&apos;t touch her because she&apos;s a whore. However it&apos;s Vic he always turns to when things go bad.\\n\\nAnd things go very bad very quickly for Frank. Through a series of miscalculations and bad luck, he finds himself indebted to a slimy dealer higher on the food chain who&apos;s patronizing attitude barely conceals a violent streak. As the week progresses, Frank spirals downward into a desperate attempt to fix his broken life. Trusts are broken, violence and mayhem ensue, and the film finishes on a surprising but perfect note.\\n\\nThe director, Nicolas Winding Refn, shows a good command of pacing and camera work. The real star of the film, however is the script. There is never a moment of Pusher that doesn&apos;t seem utterly real. Though many may find this film dark and depressing (I won&apos;t argue), I think it&apos;s strong acting and excellent direction make it well worth seeing.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 44103,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "18",
+  "genre": [
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "1996-08-30",
+  "keywords": [
+    "stripper",
+    "bathtub",
+    "drug deal",
+    "desperation",
+    "drugs"
+  ],
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Kim Bodnia",
+      "url": "https://www.imdb.com/name/nm0091035/"
+    },
+    {
+      "name": "Zlatko Buric",
+      "url": "https://www.imdb.com/name/nm0121519/"
+    },
+    {
+      "name": "Laura Drasb\\u00e6k",
+      "url": "https://www.imdb.com/name/nm0237200/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Nicolas Winding Refn",
+      "url": "https://www.imdb.com/name/nm0716347/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jens Dahl",
+      "url": "https://www.imdb.com/name/nm0196930/"
+    },
+    {
+      "name": "Nicolas Winding Refn",
+      "url": "https://www.imdb.com/name/nm0716347/"
+    }
+  ]
+}

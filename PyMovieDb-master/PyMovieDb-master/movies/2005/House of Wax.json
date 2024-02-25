@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "House of Wax",
+  "url": "https://www.imdb.com/tt0397065/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDA4Nzg1NjQ2NV5BMl5BanBnXkFtZTcwMDYwNTgyMQ@@._V1_.jpg",
+  "description": "A group of teens are unwittingly stranded near a strange wax museum and soon must fight to survive and keep from becoming the next exhibit.",
+  "datePublished": "2005-05-27",
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "duration": "PT1H53M",
+  "keywords": "wax,brother sister relationship,group of friends,masked killer,beaten to death",
+  "rating": {
+    "ratingCount": 133122,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "review": {
+    "author": "BigHardcoreRed",
+    "dateCreated": "2005-05-11",
+    "inLanguage": "English",
+    "heading": "Pretty Realistic, Intense Violence.",
+    "reviewBody": "House Of Wax is pretty much everything I like in a horror movie. The killers were creepy and freaky but not too over the top. The murders were genuine and realistic looking while the cinematography was great! Carly Jones (Elisha Cuthbert) and her boyfriend, Wade (Jared Padalecki) are going to the big college football game with a group of friends and her brother, Nick (Chad Michael Murray). Along the way, they get tired and look for a place to camp out for awhile and get some rest. As you can imagine, car problems end up keeping them from getting out of their hidden campsite. Carly and Wade head for the small town of Ambrose, which seems strange on the surface.\\n\\nThis is where the real action begins. While I admit that the movie took it&apos;s time getting to the good stuff, it was well worth the wait. The special effects department have outdone themselves. Especially when it comes to the house made of wax, itself.\\n\\nI was very surprised by the low rating given by the IMDb users. I should not be, but I was. Do not be fooled. If you are into horror movies, then this one comes highly recommended. In fact, it has inspired me to see the original and will do so first chance I get. 8/10",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "actor": [
+    {
+      "name": "Chad Michael Murray",
+      "url": "https://www.imdb.com/name/nm0614877/"
+    },
+    {
+      "name": "Paris Hilton",
+      "url": "https://www.imdb.com/name/nm0385296/"
+    },
+    {
+      "name": "Elisha Cuthbert",
+      "url": "https://www.imdb.com/name/nm0193846/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jaume Collet-Serra",
+      "url": "https://www.imdb.com/name/nm1429471/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Charles Belden",
+      "url": "https://www.imdb.com/name/nm0067676/"
+    },
+    {
+      "name": "Chad Hayes",
+      "url": "https://www.imdb.com/name/nm0370937/"
+    },
+    {
+      "name": "Carey W. Hayes",
+      "url": "https://www.imdb.com/name/nm0370928/"
+    }
+  ]
+}

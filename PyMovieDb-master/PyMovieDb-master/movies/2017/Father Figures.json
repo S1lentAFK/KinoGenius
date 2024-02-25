@@ -1,0 +1,49 @@
+{
+  "type": "Movie",
+  "name": "Father Figures",
+  "url": "https://www.imdb.com/tt2925960/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGY4M2IxMzEtMDViMy00ZDA2LWE4MDktZWExYzljNWVhMTMzXkEyXkFqcGdeQXVyODIyMzY1NDg@._V1_.jpg",
+  "description": "Follows a Canadian filmmaker through Asia as she examines her father's relationship with his 23 year old bride-to-be who lives in the Philippines.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 118,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": null,
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2013-05-11",
+  "keywords": "happy ending, judgemental, puritan",
+  "duration": "PT58M",
+  "actor": [
+    {
+      "name": "April Butler",
+      "url": "https://www.imdb.com/name/nm5400755/"
+    }
+  ],
+  "director": [
+    {
+      "name": "April Butler",
+      "url": "https://www.imdb.com/name/nm5400755/"
+    },
+    {
+      "name": "Gillian Hrankowski",
+      "url": "https://www.imdb.com/name/nm2446619/"
+    }
+  ],
+  "creator": []
+}

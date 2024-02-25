@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Kid Cannabis",
+  "url": "https://www.imdb.com/tt0780548/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQyODM5MDQyOV5BMl5BanBnXkFtZTgwMDQxODc1MTE@._V1_.jpg",
+  "description": "An eighteen year old high school drop out and his twenty-seven year old friend start trafficking marijuana across the border of Canada in order to make money and their lives are changed forever.",
+  "review": {
+    "author": "rradosti",
+    "dateCreated": "2020-01-30",
+    "inLanguage": "English",
+    "heading": "Awesome stoner movie!",
+    "reviewBody": "Good story that is fun to follow - 1 Star\n\nMemorable dialogue - 1 Star\n\nFeel a pull to watch it a second time - 1 Star\n\nMusic/Score stands out - 1 Star\n\nNo noticeable plot holes - 1/2 Star\n\nStory gets resolved in some way - 1/2 Star\n\nI personally like the story - 1 Star\n\nMemorable likable characters - 1 Star\n\nMost things about the story are believable - 0 Stars\n\nDoesn't get boring - 0 Stars\n\nThis is a great stoner movie to vibe with. It's not exactly a comedy though, toward the end the story transforms into multiple dark sub plots all at once and can feel like a bit much. The beginning and middle are an amazing ride!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 10451,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "18",
+  "genre": [
+    "Biography",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2014-04-18",
+  "keywords": "female full frontal nudity,female frontal nudity,male frontal nudity,forced nudity,humiliation",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Jonathan Daniel Brown",
+      "url": "https://www.imdb.com/name/nm3967854/"
+    },
+    {
+      "name": "Kenny Wormald",
+      "url": "https://www.imdb.com/name/nm1552693/"
+    },
+    {
+      "name": "Aaron Yoo",
+      "url": "https://www.imdb.com/name/nm1683094/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Stockwell",
+      "url": "https://www.imdb.com/name/nm0007082/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Stockwell",
+      "url": "https://www.imdb.com/name/nm0007082/"
+    },
+    {
+      "name": "Mark Binelli",
+      "url": "https://www.imdb.com/name/nm5151554/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Secret Garden",
+  "url": "https://www.imdb.com/tt0108071/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmViODUwN2YtZDk0YS00OTg4LWIyNmYtZjM1Y2EyYWIyMmU0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": "A young, recently-orphaned girl is sent to England after living in India all of her life. Once there, she begins to explore her new, seemingly-isolated surroundings, and its secrets.",
+  "review": {
+    "author": "Tommy-92",
+    "dateCreated": "1999-08-27",
+    "inLanguage": "English",
+    "heading": "Mesmerizing, beautifully acted family film",
+    "reviewBody": "While I have called The Secret Garden a family film, that doesn't mean it's just for children. It is a film for all ages, and sure to be enjoyed by all of them, too. A vivid and affecting film, it's got many things going for it: mesmerizing cinemetography and time-lapse photography, a good music score and script, breathtaking sets, wonderful direction, great acting, even gorgeous flowers! Agneiska Holland does a great job at bringing out all the subtle little points and details in the story and great performances from her young cast, particularly from Kate Maberly as Mary. Heydon Prowse is good, too, as Colin, and so is Maggie Smith as Mrs. Medlock, the frusterated, overprotective housekeeper who seems to be mean, but really is only doing what she thinks best. One of the few films I've seen that I can call perfect with conviction; definitely should be seen and appreciated.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 44156,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "U",
+  "genre": [
+    "Drama",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "1994-01-20",
+  "keywords": "garden,costume drama,english garden,robin,mansion",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Kate Maberly",
+      "url": "https://www.imdb.com/name/nm0531069/"
+    },
+    {
+      "name": "Maggie Smith",
+      "url": "https://www.imdb.com/name/nm0001749/"
+    },
+    {
+      "name": "Heydon Prowse",
+      "url": "https://www.imdb.com/name/nm0699117/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Agnieszka Holland",
+      "url": "https://www.imdb.com/name/nm0002140/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Frances Hodgson Burnett",
+      "url": "https://www.imdb.com/name/nm0122364/"
+    },
+    {
+      "name": "Caroline Thompson",
+      "url": "https://www.imdb.com/name/nm0003031/"
+    }
+  ]
+}

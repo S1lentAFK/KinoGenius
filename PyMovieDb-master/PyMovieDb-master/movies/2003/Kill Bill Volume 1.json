@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Kill Bill: Vol. 1",
+  "url": "https://www.imdb.com/tt0266697/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "description": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+  "review": {
+    "author": "dommercaldi",
+    "dateCreated": "2020-09-10",
+    "inLanguage": "English",
+    "heading": "Kill Bill Is One Hell Of A Thrill",
+    "reviewBody": "Pros: 1. The bright colour palette does a wonderful job at highlighting the over-the-top nature of the film. 2. The entire animated sequence of the O-Ren Ishii (Lucy Liu) origin story is gorgeously animated, as well as being impactful and brutal. 3. The score envelops the movie in a pulsating lively aura, and adds reems of energy to the scenes. 4. The action and fight scenes are incredibly entertaining and brilliantly choreographed. 5. The editing is mostly top-notch, especially with the quick cuts adding a lot of vibrancy to the fight scenes. 6. The costume and set design create the outlandish world perfectly. 7. Both Uma Thurman (The Bride) and Lucy Liu deliver great performances. 8. The sound-mixing is very crisp and clean, and it adds so much weight to the action scenes. 9. The make-up and art production is off-the-charts and, in regards to the gore, helps to make the deaths to feel more potent in their execution.\\n\\nCons: 1. The slow-motion used is extremely unattractive and pointless. 2. There is annoying minor usage of stock action screams.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 1181669,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.2
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "2003-10-17",
+  "keywords": "revenge,female protagonist,female warrior,original story,female bare feet",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Uma Thurman",
+      "url": "https://www.imdb.com/name/nm0000235/"
+    },
+    {
+      "name": "David Carradine",
+      "url": "https://www.imdb.com/name/nm0001016/"
+    },
+    {
+      "name": "Daryl Hannah",
+      "url": "https://www.imdb.com/name/nm0000435/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Quentin Tarantino",
+      "url": "https://www.imdb.com/name/nm0000233/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Quentin Tarantino",
+      "url": "https://www.imdb.com/name/nm0000233/"
+    },
+    {
+      "name": "Uma Thurman",
+      "url": "https://www.imdb.com/name/nm0000235/"
+    }
+  ]
+}

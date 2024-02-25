@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hail, Caesar!",
+  "url": "https://www.imdb.com/tt0475290/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTI1M2FlMzItY2VjYS00Y2VkLWI5OTQtMzA0MWMyNmQzZmQ0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "description": "A Hollywood fixer in the 1950s works to keep the studio's stars in line.",
+  "review": {
+    "author": "svorva",
+    "dateCreated": "2016-02-19",
+    "inLanguage": "English",
+    "heading": "Worth a Shot for Cohen Brothers Fans",
+    "reviewBody": "My cohort fell asleep during Hail, Caesar!. Sure, it was a late showing, but I am sure in theaters around the country people are nodding off or walking out of this one. Let them. Caesar! barely has a discernible plot, profound themes, or even a convenient ah-ha moment. But we should be used to this by now, this is typical Cohen brothers' affair. Caesar! is a waltz with insanity, sacrificing many crutches that helps audiences engage. This film will not garner popular approval, but it is still an accomplishment.\\n\\nIf there is a plot in Hail! Caesar, Eddie Mannix is certainly at its center. This Catholic studio head must right the ship or face catastrophe. The film is a 48 hour window of insight into a Hollywood studio, the setting for Mannix's everyday mad life. What he experiences is basically a relentless barrage of vignettes and personalities. There is a western, musicals, a costume drama, and of course the historical epic itself. Each has its style, director, crew, and most importantly its stars. The sheer density of material is somewhat overwhelming. All display are equally elaborate, including the cast, which is recognizable down to the bit parts. This is one of the best ensemble performances in recent memory. Tatum and McDormand are my personal favorite parts, but all are enjoyable. Additionally, I would bet this is the first Oscar candidate for cinematography. What will disappoint some audiences is the lack of follow up or exploration. Ideas and themes are introduced and later simply hinted at. Premium cameos are often utilized just once, lucky characters thrice at best. Some may think parody requires more extensive analysis. However, Hail! Caesar is ripe with commentary, it just never stops to take a breath. The humor is not rooted in scrutiny, rather in the absurdism and frantic pace. This style does not even prevent momentary poignancy. Hail! Caesar's climax is a parody of sappy overwrought moments of clarity, but there is a sense of a genuine moral, a true stance on faith, movies, and reality. I will certainly rewatch this film again. Remember, The Big Lebowski was not a hit on arrival. I fear comparing the two, but I feel both were smarter, more extensive, and subtly funny in ways not obviously apparent. I might just be trying too hard to hawk this movie in order to convince myself, but I sincerely think it is worth a viewing for those who have previously appreciated the Cohen Brothers body of works.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 142381,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2016-03-04",
+  "keywords": [
+    "film within a film",
+    "communist conspiracy",
+    "screenwriter",
+    "studio system",
+    "film industry"
+  ],
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Josh Brolin",
+      "url": "https://www.imdb.com/name/nm0000982/"
+    },
+    {
+      "name": "George Clooney",
+      "url": "https://www.imdb.com/name/nm0000123/"
+    },
+    {
+      "name": "Alden Ehrenreich",
+      "url": "https://www.imdb.com/name/nm2403277/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ethan Coen",
+      "url": "https://www.imdb.com/name/nm0001053/"
+    },
+    {
+      "name": "Joel Coen",
+      "url": "https://www.imdb.com/name/nm0001054/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joel Coen",
+      "url": "https://www.imdb.com/name/nm0001054/"
+    },
+    {
+      "name": "Ethan Coen",
+      "url": "https://www.imdb.com/name/nm0001053/"
+    }
+  ]
+}

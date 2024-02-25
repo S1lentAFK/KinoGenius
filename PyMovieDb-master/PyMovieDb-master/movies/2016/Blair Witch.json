@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Blair Witch",
+  "url": "https://www.imdb.com/tt1540011/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI0NTEyMjA3NV5BMl5BanBnXkFtZTgwODk5OTU4OTE@._V1_.jpg",
+  "description": "After discovering a video showing what he believes to be his vanished sister Heather, James and a group of friends head to the forest believed to be inhabited by the Blair Witch.",
+  "review": {
+    "author": "ellscashncarry",
+    "dateCreated": "2016-09-12",
+    "inLanguage": "English",
+    "heading": "Does so much of what the original did well... including replicating its script.",
+    "reviewBody": "This rating feels really harsh as this was a genuinely good movie and an excellent homage to the original.However the issues here are two-fold:\\n\\n1. If you&apos;ve seen the original there&apos;s really no need to see this one. It&apos;s effectively a modern remake of the original film with some minor tweaks. As a result, there isn&apos;t really much need for its existence other than to make more money for the film studio.\\n\\n2. Part of what made the original so genre-defining and so ruthlessly scary (at the time) was the fact that nothing had been seen like it before. Tie that in with all the paraphernalia that went with it \\u2013 mockumentaries, interviews with relatives, the actors in hiding for months, and it meant people were genuinely terrified before they&apos;d even set foot in the cinema. Without all that, and with people being so accustomed to &apos;hand-held horror films&apos; now, this film doesn&apos;t really deliver anywhere near the terror or frights that its namesake did 17 years ago.\\n\\nDespite the above however, Blair Witch does so much of what &apos;Project&apos; did well. For a start, the characters make genuinely, believable choices (minus maybe the idea of going into the woods in the first place). When you find yourself thinking you&apos;d definitely leave at that stage - the characters attempt to leave. When you think at that stage you&apos;d set up camp for the night rather than wandering round in the dark \\u2013 they set up camp for the night So often in horror films we have to put up with idiotic characters making idiotic, wholly unrealistic decisions and suffering the consequences as a result. At least with the BW series, you can actually empathise with the characters as they act in a similar manner to that, any of us would in the same situation.\\n\\nThen, somewhat in homage to the original, it brings in elements of new camera-work which add to the tension and genuinely seem to present some alternative ways of filming (GPS cameras connected to the ear, looking through the reverse screen of a video camera, drone cameras etc) and all are integrated into the story seamlessly rather than being thrown in for the sake of it.\\n\\nFinally, although I personally found myself relatively unmoved by the whole thing, the cinema itself barely moved when the credits rolled. My partner and I watched the entirety of the credits and were still two of the first out. It was as if everyone was waiting for the lights to come on first, which would suggest maybe others were more unnerved. I&apos;ve never seen anything like it! In summation, if you&apos;ve seen the original, there&apos;s really no need to see &apos;Blair Witch&apos;. It&apos;s not that you&apos;ll be disappointed as it does a lot well, but it does a lot well because it practically mirrors the first. Not a bad film by any stretch but doesn&apos;t offer enough new material to warrant its existence.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 49209,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2016-09-15",
+  "keywords": "witch,forest,subjective camera,found footage,woods",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "James Allen McCune",
+      "url": "https://www.imdb.com/name/nm4372483/"
+    },
+    {
+      "name": "Callie Hernandez",
+      "url": "https://www.imdb.com/name/nm5555747/"
+    },
+    {
+      "name": "Corbin Reid",
+      "url": "https://www.imdb.com/name/nm4094023/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Adam Wingard",
+      "url": "https://www.imdb.com/name/nm1417392/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Simon Barrett",
+      "url": "https://www.imdb.com/name/nm1440023/"
+    }
+  ]
+}

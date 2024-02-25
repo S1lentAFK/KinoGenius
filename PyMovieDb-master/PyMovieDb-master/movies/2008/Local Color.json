@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Local Color",
+  "url": "https://www.imdb.com/tt0472126/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI5Nzg2MDQ2Ml5BMl5BanBnXkFtZTcwMTEzNTU4MQ@@._V1_.jpg",
+  "description": null,
+  "contentRating": "R",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2009-08-15",
+  "keywords": "mentor protege relationship,year 1974,memory,18 year old,18 year old boy",
+  "duration": "PT1H47M",
+  "rating": {
+    "ratingCount": 1774,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "review": {
+    "author": "larry-411",
+    "dateCreated": "2006-05-04",
+    "inLanguage": "English",
+    "heading": "A masterpiece",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "actor": [
+    {
+      "name": "Armin Mueller-Stahl",
+      "url": "https://www.imdb.com/name/nm0000090/"
+    },
+    {
+      "name": "Trevor Morgan",
+      "url": "https://www.imdb.com/name/nm0605080/"
+    },
+    {
+      "name": "Ray Liotta",
+      "url": "https://www.imdb.com/name/nm0000501/"
+    }
+  ],
+  "director": [
+    {
+      "name": "George Gallo",
+      "url": "https://www.imdb.com/name/nm0303032/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "George Gallo",
+      "url": "https://www.imdb.com/name/nm0303032/"
+    }
+  ]
+}

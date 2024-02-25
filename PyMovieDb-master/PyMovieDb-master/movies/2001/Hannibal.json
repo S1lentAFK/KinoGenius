@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hannibal",
+  "url": "https://www.imdb.com/tt0212985/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDMxMjhiZmItNWMxMC00NzYyLWJiOTYtNGYwOTAyYjU5OWY4XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "description": "Living in exile, Dr. Hannibal Lecter tries to reconnect with now disgraced F.B.I. Agent Clarice Starling, and finds himself a target for revenge from a powerful victim.",
+  "contentRating": "18",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2001-02-16",
+  "keywords": "police,cannibal,pistol,exposed brain,brain eating",
+  "duration": "PT2H11M",
+  "rating": {
+    "ratingCount": 291074,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "review": {
+    "author": "Vartiainen",
+    "dateCreated": "2015-09-11",
+    "inLanguage": "English",
+    "heading": "Not the best possible sequel, but it serves",
+    "reviewBody": "Some years have passed since the events of The Silence of the Lambs and Dr. Hannibal Lecter has been laying low, hiding from the long arms of the FBI and those that he has hurt in the past. Likewise Clarice Starling, played this time by Julianne Moore, has moved on, but now she has been disgraced by a drug bust gone wrong and thus it is time for these two old enemies to meet once more.\n\nHannibal is a serviceable sequel in the Hannibal Lecter trilogy. They got Anthony Hopkins to reprise his role, which automatically makes the film worth checking out, and it is very interesting to see him on the loose, mixing with the high society, in his natural element so to speak. Lecter is still easily the best thing about these films, and Hopkins's suave menace has not gone down in the slightest.\n\nIt's a shame they couldn't get Jodie Foster to reprise her role as well, but Julianne Moore is an okay substitute as a leaner and meaner Clarice. Plus, as a compensation gift, we get Gary Oldman as Mason Verger, the only one of Lecter's victims who lived through his ordeals. Very good role for him and he absolutely delivers.\n\nWhat doesn't work so well, unfortunately, is the story. Especially the fact that this time there is no battle of wits, like there was in the original or in the upcoming Red Dragon. Clarice and Hannibal don't face each other nearly as much as they did in The Silence of the Lambs and anyone else in the film is nowhere near their equal. Plus the whole tone of the film is more of an action thriller, which is an ill fit for these characters. It doesn't ruin the film, per se, but it is a problem, at least for me.\n\nStill, it's worth checking out if you liked the original, but don't expect it to be as good.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 291074,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "actor": [
+    {
+      "name": "Anthony Hopkins",
+      "url": "https://www.imdb.com/name/nm0000164/"
+    },
+    {
+      "name": "Julianne Moore",
+      "url": "https://www.imdb.com/name/nm0000194/"
+    },
+    {
+      "name": "Gary Oldman",
+      "url": "https://www.imdb.com/name/nm0000198/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ridley Scott",
+      "url": "https://www.imdb.com/name/nm0000631/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Thomas Harris",
+      "url": "https://www.imdb.com/name/nm0365383/"
+    },
+    {
+      "name": "David Mamet",
+      "url": "https://www.imdb.com/name/nm0000519/"
+    },
+    {
+      "name": "Steven Zaillian",
+      "url": "https://www.imdb.com/name/nm0001873/"
+    }
+  ]
+}

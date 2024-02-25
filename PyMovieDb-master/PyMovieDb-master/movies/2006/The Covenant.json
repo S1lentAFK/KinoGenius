@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Covenant",
+  "url": "https://www.imdb.com/tt4873118/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmQzOWZhOTMtZTcxNC00MTdkLWEwYmUtOWVmOTFhNTdkNjRkXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_.jpg",
+  "description": "During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.",
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2023-06-20",
+  "keywords": "afghan interpreter,taliban,soldier,united states military,rescue",
+  "duration": "PT2H3M",
+  "actor": [
+    {
+      "name": "Jake Gyllenhaal",
+      "url": "https://www.imdb.com/name/nm0350453/"
+    },
+    {
+      "name": "Dar Salim",
+      "url": "https://www.imdb.com/name/nm1502469/"
+    },
+    {
+      "name": "Sean Sagar",
+      "url": "https://www.imdb.com/name/nm4727272/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Guy Ritchie",
+      "url": "https://www.imdb.com/name/nm0005363/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Guy Ritchie",
+      "url": "https://www.imdb.com/name/nm0005363/"
+    },
+    {
+      "name": "Ivan Atkinson",
+      "url": "https://www.imdb.com/name/nm6842463/"
+    },
+    {
+      "name": "Marn Davies",
+      "url": "https://www.imdb.com/name/nm3044095/"
+    }
+  ],
+  "review": {
+    "author": "gillespiesan",
+    "dateCreated": "2023-06-08",
+    "inLanguage": "English",
+    "heading": "Hits hard and lingers on...",
+    "reviewBody": "I no idea how strongly Guy Ritchie genuinely feels about the grave wrongs that the US and UK military have done to interpreters in both Afghanistan and Iraq in recent conflicts but, if The Covenent is anything to go by, he&apos;s pretty pissed. And rightly so. The promises made to these individuals in an effort to get them to behave against the best interests of both them and their families needed to be honoured. In this story and in many real life cases, they weren&apos;t. That is shameful.\\n\\nJake Gyllenhaal is his usual reliable self, turning in a performance dripping in both commitment and duty. He&apos;s a good man and he&apos;s gonna do the right thing, no matter how far that necessitates he goes. Dar Salim - a new name to me - is an utter revelation as Ahmed, the bitter but pragmatic interpreter who puts his life on the line countless times to...yes, do the right thing.\\n\\nThe impact that war and each other have on these men&apos;s lives is at the very heart of this story. Though not based on any real incident to the best of my knowledge, this movie is testament to many real life situations that I have no doubt still keep men awake at night. It&apos;s an important movie and almost certainly a career high for all involved.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 155106,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  }
+}

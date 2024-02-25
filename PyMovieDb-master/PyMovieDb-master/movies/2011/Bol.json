@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Bol",
+  "url": "https://www.imdb.com/tt1891757/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWE0NDY0NzEtOTdlMS00MWZlLTg3MDMtZGY0ZjhlYWIxNjk1XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg",
+  "description": "A female convict on death row, her last wish is to tell her story to the media.",
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2011-08-31",
+  "keywords": "intersex,death,pakistan,social drama,social issues",
+  "duration": "PT2H31M",
+  "actor": [
+    {
+      "name": "Humaima Malik",
+      "url": "https://www.imdb.com/name/nm3892419/"
+    },
+    {
+      "name": "Manzar Sehbai",
+      "url": "https://www.imdb.com/name/nm4493008/"
+    },
+    {
+      "name": "Shafqat Cheema",
+      "url": "https://www.imdb.com/name/nm0154899/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Shoaib Mansoor",
+      "url": "https://www.imdb.com/name/nm2716176/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Shoaib Mansoor",
+      "url": "https://www.imdb.com/name/nm2716176/"
+    }
+  ],
+  "review": {
+    "author": "loverfellow",
+    "dateCreated": "2011-07-07",
+    "inLanguage": "English",
+    "heading": "Greatest Movie Ever Made In Pakistan",
+    "reviewBody": "There is no doubt that. It was almost perfect in everything. Its even one of the best movie I have ever seen. Only a few can be considered better than this (and, of course, all from Hollywood).\\n\\nI bet this movie will do great business if they manage to release to a larger audience in India, middle east, UK and USA. This should at least be nominated for Oscars. I am proud for what Shoaib Mansoor has done for lifting Pakistan&apos;s name by his movies. He is a true legend. His work for media industry has been tremendous and luckily he was awarded for his work by Sitar-e-Imtiaz, even before he made his two movies.\\n\\nNo soul in Pakistan should deprive themselves for watching this movie in theater.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 9179,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.2
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Yogi Bear",
+  "url": "https://www.imdb.com/tt1302067/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTIxZmMxMTYtNjJjNy00ODBiLWEzZjktNTgwMDUxOTY0YjIxXkEyXkFqcGdeQXVyMzExODEzNDA@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "LazySod",
+    "dateCreated": "2011-03-23",
+    "inLanguage": "English",
+    "heading": "Good for young children but sometimes irritating for parents",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 23309,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.6
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2011-02-11",
+  "keywords": "yogi bear character,park,bear,mayor,sabotage",
+  "duration": "PT1H21M",
+  "actor": [
+    {
+      "name": "Dan Aykroyd",
+      "url": "https://www.imdb.com/name/nm0000101/"
+    },
+    {
+      "name": "Justin Timberlake",
+      "url": "https://www.imdb.com/name/nm0005493/"
+    },
+    {
+      "name": "Anna Faris",
+      "url": "https://www.imdb.com/name/nm0267506/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Eric Brevig",
+      "url": "https://www.imdb.com/name/nm0108094/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jennifer Ventimilia",
+      "url": "https://www.imdb.com/name/nm0893262/"
+    },
+    {
+      "name": "Joshua Sternin",
+      "url": "https://www.imdb.com/name/nm0827985/"
+    },
+    {
+      "name": "Brad Copeland",
+      "url": "https://www.imdb.com/name/nm0178589/"
+    }
+  ]
+}

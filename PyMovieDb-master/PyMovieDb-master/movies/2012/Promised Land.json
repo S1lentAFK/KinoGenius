@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Promised Land",
+  "url": "https://www.imdb.com/tt2091473/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQxNDYzNzgyOF5BMl5BanBnXkFtZTcwNTU0NTI1OA@@._V1_.jpg",
+  "description": "A salesman for a natural gas company experiences life-changing events after arriving in a small town, where his corporation wants to tap into the available resources.",
+  "review": {
+    "author": "akprice44",
+    "dateCreated": "2013-01-08",
+    "inLanguage": "English",
+    "heading": "Not Just Too Close, Dead On.",
+    "reviewBody": "I would honestly give this film a 9 out of ten. It was directed beautifully, and I feel the screenplay is great. The dialogue is more than believable, and both Matt Damon and John Kransinski both do a wonderful job in conveying their character&apos;s qualities and aspirations. There seldom seemed to be a slow moment(if at all).\\n\\nAs far as how close to reality this movie comes.... I live in northeastern Pennsylvania, only 5 minutes away from Harford, and only 25 minutes away from Dimock(where the documentary Gasland was based). I have seen the effects of hydrofracking, both the negative and what little positive comes of it(but those facts and feelings are for another discussion). As sad as it may seem, natural gas and well drilling companies(to go un-named ONLY in this review) bought their way into the community with false hope, money, and lies, but not necessarily as it happened in the film. In reality.... it was even worse. Barbecues, parties, etc. were even thrown in order to gain fans and friends... The community&apos;s spirit and resilience was conveyed correctly, though in reality, it gained support too late.\\n\\nAll in all, even if political/social/ecological issues regarding hydrofracking aren&apos;t your forte, this film is a quality film that is captivating and deserves to have personal opinions set aside and enjoyed for its quality.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 39736,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2013-04-19",
+  "keywords": "propaganda,nosebleed,fired from a job,pickup truck,slow motion scene",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Matt Damon",
+      "url": "https://www.imdb.com/name/nm0000354/"
+    },
+    {
+      "name": "Frances McDormand",
+      "url": "https://www.imdb.com/name/nm0000531/"
+    },
+    {
+      "name": "John Krasinski",
+      "url": "https://www.imdb.com/name/nm1024677/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gus Van Sant",
+      "url": "https://www.imdb.com/name/nm0001814/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Krasinski",
+      "url": "https://www.imdb.com/name/nm1024677/"
+    },
+    {
+      "name": "Matt Damon",
+      "url": "https://www.imdb.com/name/nm0000354/"
+    },
+    {
+      "name": "Dave Eggers",
+      "url": "https://www.imdb.com/name/nm1101630/"
+    }
+  ]
+}

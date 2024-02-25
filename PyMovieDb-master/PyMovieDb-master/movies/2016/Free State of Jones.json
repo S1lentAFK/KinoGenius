@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Free State of Jones",
+  "url": "https://www.imdb.com/tt1124037/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA4NTYyMTcwNTFeQTJeQWpwZ15BbWU4MDI0NTg0MDkx._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "workbumpf",
+    "dateCreated": "2016-06-25",
+    "inLanguage": "English",
+    "heading": "Story of a Southern Unionist rebellion and Reconstruction",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 61975,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Biography",
+    "Drama"
+  ],
+  "datePublished": "2016-09-30",
+  "keywords": "civil war,american civil war,election fraud,interracial marriage,based on true story",
+  "duration": "PT2H19M",
+  "actor": [
+    {
+      "name": "Matthew McConaughey",
+      "url": "https://www.imdb.com/name/nm0000190/"
+    },
+    {
+      "name": "Gugu Mbatha-Raw",
+      "url": "https://www.imdb.com/name/nm1813221/"
+    },
+    {
+      "name": "Mahershala Ali",
+      "url": "https://www.imdb.com/name/nm0991810/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gary Ross",
+      "url": "https://www.imdb.com/name/nm0002657/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Gary Ross",
+      "url": "https://www.imdb.com/name/nm0002657/"
+    },
+    {
+      "name": "Leonard Hartman",
+      "url": "https://www.imdb.com/name/nm0366989/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Doom",
+  "url": "https://www.imdb.com/tt0419706/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGQ1NzkxOWUtMjc0Ni00MWY0LTk4YjAtODUzN2I2M2QyYzIzXkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_.jpg",
+  "description": "Space Marines are sent to investigate strange events at a research facility on Mars but find themselves at the mercy of genetically enhanced killing machines.",
+  "review": {
+    "author": "SaltburnMikeTV",
+    "dateCreated": "2021-03-24",
+    "inLanguage": "English",
+    "heading": "A poor man's Aliens",
+    "reviewBody": "And I don't mean that in a bad way. If you wanna watch Aliens but you last watched it a bit too recently, then watch Doom. Firstly, it will satisfy your xeno-bloodlust. Secondly, the next time you wanna watch Aliens, you will REALLY wanna watch Aliens. And that's a good thing right? Damn right!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 118233,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "datePublished": "2005-12-02",
+  "keywords": "based on video game,monster,survival,massacre,commando unit",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Karl Urban",
+      "url": "https://www.imdb.com/name/nm0881631/"
+    },
+    {
+      "name": "Rosamund Pike",
+      "url": "https://www.imdb.com/name/nm0683253/"
+    },
+    {
+      "name": "Dwayne Johnson",
+      "url": "https://www.imdb.com/name/nm0425005/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrzej Bartkowiak",
+      "url": "https://www.imdb.com/name/nm0005647/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dave Callaham",
+      "url": "https://www.imdb.com/name/nm1709264/"
+    },
+    {
+      "name": "Wesley Strick",
+      "url": "https://www.imdb.com/name/nm0834338/"
+    }
+  ]
+}

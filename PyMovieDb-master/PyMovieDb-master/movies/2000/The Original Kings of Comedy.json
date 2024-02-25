@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Original Kings of Comedy",
+  "url": "https://www.imdb.com/tt0236388/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI5NDY1NDU1M15BMl5BanBnXkFtZTcwODcyNTMyMQ@@._V1_.jpg",
+  "description": "A concert film featuring four major African American stand up comedians.",
+  "review": {
+    "author": "tedg",
+    "dateCreated": "2001-03-17",
+    "inLanguage": "English",
+    "heading": "Tomorrow's Amos",
+    "reviewBody": "Some of this is very funny. And these people are genuine.\\n\\nBut the sanctimonious Spike Lee will be embarrassed in a generation or two as this humor is considered today's Amos and Andy. Doesn't matter that it comes from blacks. Doesn't matter if everyone thinks it is funny now.\\n\\nPlus. No element of American culture is natural today, and this is especially so with Black culture. It is now in the hands of record, fashion and media companies. Spike may insist he is a free man, but he is not, and now complicit in another big company's inventing of a culture.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 6057,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Documentary"
+  ],
+  "datePublished": "2000-08-18",
+  "keywords": "stand up,satire comedy,parody comedy,stand up comedy special,dark comedy",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Steve Harvey",
+      "url": "https://www.imdb.com/name/nm0367724/"
+    },
+    {
+      "name": "D.L. Hughley",
+      "url": "https://www.imdb.com/name/nm0401018/"
+    },
+    {
+      "name": "Cedric The Entertainer",
+      "url": "https://www.imdb.com/name/nm0147825/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Spike Lee",
+      "url": "https://www.imdb.com/name/nm0000490/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Cedric The Entertainer",
+      "url": "https://www.imdb.com/name/nm0147825/"
+    },
+    {
+      "name": "Steve Harvey",
+      "url": "https://www.imdb.com/name/nm0367724/"
+    },
+    {
+      "name": "D.L. Hughley",
+      "url": "https://www.imdb.com/name/nm0401018/"
+    }
+  ]
+}

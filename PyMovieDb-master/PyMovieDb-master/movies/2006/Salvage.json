@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Salvage",
+  "url": "https://www.imdb.com/tt0492754/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE5OTEwMzEzMF5BMl5BanBnXkFtZTcwMzk5OTEzMQ@@._V1_.jpg",
+  "description": "Claire Parker is going to die at the hands of a sadistic and depraved killer, she will endure a terrifying, unimaginable brutal death, and it will all happen again, and again.",
+  "contentRating": "Not Rated",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2006-10-06",
+  "keywords": "supernatural horror,slasher,supernatural serial killer,serial murder,ptsd post traumatic stress disorder",
+  "duration": "PT1H20M",
+  "rating": {
+    "ratingCount": 2783,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "review": {
+    "author": "wrlang",
+    "dateCreated": "2006-11-05",
+    "inLanguage": "English",
+    "heading": "good crime drama",
+    "reviewBody": "Salvage is about a killer that gets his just deserts. The cover made me a little uncomfortable, so it took me a while to pick it up. It starts out with the star, a typical teen age girl trying to start her life after high school. She has a job and a boyfriend with a truck and she also goes to college. As the movie rolls along you get little hints about what's going on. But the same day keeps repeating with bad results that only she can remember. Flashbacks and visions get so confusing it starts to detract from the movie until they begin to let the secret loose. A good pertinent sound track that wasn't overpowering as some low budget films tend to do. A nice twist at the end makes it an unusual film well worth seeing.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "actor": [
+    {
+      "name": "Lauren Currie Lewis",
+      "url": "https://www.imdb.com/name/nm2071914/"
+    },
+    {
+      "name": "Chris Ferry",
+      "url": "https://www.imdb.com/name/nm1406535/"
+    },
+    {
+      "name": "Cody Darbe",
+      "url": "https://www.imdb.com/name/nm2097662/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeff Crook",
+      "url": "https://www.imdb.com/name/nm1154950/"
+    },
+    {
+      "name": "Josh Crook",
+      "url": "https://www.imdb.com/name/nm1154951/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Josh Crook",
+      "url": "https://www.imdb.com/name/nm1154951/"
+    },
+    {
+      "name": "Jeff Crook",
+      "url": "https://www.imdb.com/name/nm1154950/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Lizzie McGuire Movie",
+  "url": "https://www.imdb.com/tt0306841/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjg4Y2IxZmEtNmIwNy00ODBlLWFkOWEtNGE1MjdmZmMxMzJjXkEyXkFqcGdeQXVyNzI2ODAwMzM@._V1_.jpg",
+  "description": "Lizzie McGuire has graduated from middle school and takes a trip to Rome, Italy with her class. And what was supposed to be only a normal trip, becomes a teenager's dream come true.",
+  "contentRating": "U",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2003-08-29",
+  "keywords": "actress,princess,rome italy,colosseum rome,character name as title",
+  "duration": "PT1H34M",
+  "rating": {
+    "ratingCount": 41835,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "review": {
+    "author": "kennydobkins",
+    "dateCreated": "2019-08-28",
+    "inLanguage": "English",
+    "heading": "Great for what it is.",
+    "reviewBody": "Seems like 90% of the reviews are from older siblings (brothers \ud83d\ude44) pretentiously whining about a movie made for 15 year old girls being immature and ridiculous. Which most 15 year old girls are. The intended audience was girls my age who all loved this ridiculous movie. Its simple and funny and overall good, especially if you're a 15 year old girl.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Hilary Duff",
+      "url": "https://www.imdb.com/name/nm0240381/"
+    },
+    {
+      "name": "Adam Lamberg",
+      "url": "https://www.imdb.com/name/nm0483047/"
+    },
+    {
+      "name": "Clayton Snyder",
+      "url": "https://www.imdb.com/name/nm1032795/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jim Fall",
+      "url": "https://www.imdb.com/name/nm0266302/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Susan Estelle Jansen",
+      "url": "https://www.imdb.com/name/nm0418070/"
+    },
+    {
+      "name": "Ed Decter",
+      "url": "https://www.imdb.com/name/nm0214036/"
+    },
+    {
+      "name": "John J. Strauss",
+      "url": "https://www.imdb.com/name/nm0833828/"
+    }
+  ]
+}

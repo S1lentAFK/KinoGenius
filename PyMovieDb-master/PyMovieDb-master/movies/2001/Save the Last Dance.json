@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Save the Last Dance",
+  "url": "https://www.imdb.com/tt0206275/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjkzMjFkNmQtYTQ2Yy00NTRhLWE0ZGYtNjBmYTcyOTgxNGYxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A white midwestern girl moves to Chicago, where her new boyfriend is a black teen from the South Side with a rough, semi-criminal past.",
+  "review": {
+    "author": "qwho",
+    "dateCreated": "2004-07-08",
+    "inLanguage": "English",
+    "heading": "only my new favorite movie!",
+    "reviewBody": "I just finished watching this terrific movie, I had always meant to see it but somehow never got around to it. This time when I came across it in the video store and saw that Julia Stiles was in it, I had to get it. I did not know who she was when the movie was released, but have since enjoyed her in Mona Lisa Smile and the Prince and Me and couldn't wait to see her in this film. \n\nThis was the best work I have seen her do to this point. It was so much better than I expected, based on the meager 6.1 stars it received overall on IMDb...Julia was wonderful in it, as was Sean Patrick Thomas. Their chemistry was terrific and the story was riveting and the dancing awesome (both the ballet and the dancing throughout the movie.) I don't know how much of the dancing Julia actually did, but all of it was beautifully done.\n\nThe film was sweet, touching and violent, and worked in all aspects. The rest of the casting was very good too, all the performances were terrific.\n\nI will buy it on DVD asap...it was that good! I think it will be enjoyed by men and women, I can't wait to have my teenage son see it. Truly a must see!",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 65645,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "12",
+  "genre": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "datePublished": "2001-03-30",
+  "keywords": "ghetto,hip hop,new york city,african american,ballet",
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "Julia Stiles",
+      "url": "https://www.imdb.com/name/nm0005466/"
+    },
+    {
+      "name": "Sean Patrick Thomas",
+      "url": "https://www.imdb.com/name/nm0859503/"
+    },
+    {
+      "name": "Kerry Washington",
+      "url": "https://www.imdb.com/name/nm0913488/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Thomas Carter",
+      "url": "https://www.imdb.com/name/nm0141961/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Duane Adler",
+      "url": "https://www.imdb.com/name/nm0012137/"
+    },
+    {
+      "name": "Cheryl Edwards",
+      "url": "https://www.imdb.com/name/nm0249882/"
+    }
+  ]
+}

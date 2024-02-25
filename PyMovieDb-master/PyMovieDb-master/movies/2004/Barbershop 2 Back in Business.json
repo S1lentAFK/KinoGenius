@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Barbershop 2: Back in Business",
+  "url": "https://www.imdb.com/tt0337579/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk4MTA2ODQ4MF5BMl5BanBnXkFtZTYwOTY1Njc3._V1_.jpg",
+  "description": "The owner of an historic South Side Chicago barbershop is pressured to sell out to a land developer, but must face the impact this would have on his close-knit community.",
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2004-04-16",
+  "keywords": "barber shop,barber,land grab,reference to muhammad,barbershop",
+  "duration": "PT1H46M",
+  "rating": {
+    "ratingCount": 15888,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "review": {
+    "author": "awp529",
+    "dateCreated": "2004-07-01",
+    "inLanguage": "English",
+    "heading": "It lacked the sparkle of the original.",
+    "reviewBody": "I thoroughly enjoyed the original Barber Shop but the sequel left me wondering why I had spent the time watching it. Cederic the Entertainer was brilliant in the original but this time it seemed like someone was holding him back. The lines just weren't funny and there was not any plot urgency to keep the action moving. The music in the original was terrific, this time I couldn't tell you the title of anything that was used. There was practically no character development and the viewer was left thinking why?? The brief scenes with Queen Latifah were some of the best in the movie and I kept wondering why she wasn't featured more. The most telling comment I can make is that I slept through the first hour and still knew everything that happened.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "actor": [
+    {
+      "name": "Ice Cube",
+      "url": "https://www.imdb.com/name/nm0001084/"
+    },
+    {
+      "name": "Cedric The Entertainer",
+      "url": "https://www.imdb.com/name/nm0147825/"
+    },
+    {
+      "name": "Eve",
+      "url": "https://www.imdb.com/name/nm1073992/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kevin Rodney Sullivan",
+      "url": "https://www.imdb.com/name/nm0838198/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Brown",
+      "url": "https://www.imdb.com/name/nm0114197/"
+    },
+    {
+      "name": "Don D. Scott",
+      "url": "https://www.imdb.com/name/nm1119609/"
+    }
+  ]
+}

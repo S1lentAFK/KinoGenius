@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Wonderland",
+  "url": "https://www.imdb.com/tt0335563/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2YyOWQ2NWUtM2VhYS00MGEyLTg0ZDAtOThiNDcyNWE2NzE4L2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "In the police investigation of a brutal crime scene, one man was at the center of it all: legendary porn star John Holmes.",
+  "review": {
+    "author": "Chrysanthepop",
+    "dateCreated": "2008-02-17",
+    "inLanguage": "English",
+    "heading": "Interesting Account(s) Rather Than An Actual Story",
+    "reviewBody": "Cox's 'Wonderland' is about the gruesome Wonderland murders (obviously!) that took place in the early 80s. The murder case itself was never solved and remained a mystery. Sadly, the movie does not do much to to cast light on it but there are hints indicated what most likely has happened. It is more of an interesting account rather than an actual story where one event is told from the perspective of different characters: Ex-porn king turned junkie John Holmes (Val Kilmer), his girlfriend Dawn Shiller (Kate Bosworth), his estranged wife Sharon (Lisa Kudrow) and David Lind (Dylan McDermott).\\n\\n'Wonderland' is quite well shot, with the chaotic camera-work and slick editing, use of music and visuals and effective sound. It is very graphic and includes real photographs from the crime scene. It does manage to create the feel of the early 80s that ended the craziness of the 70s. Val Kilmer seems to be an odd choice to play John Holmes. There is no physical resemblance. As a stand alone he acts well but does not have any nuances of Holmes. His portrayal of Holmes is inaccurate to say the least. Kate Bosworth is quite alright. I didn't find the love story between the two that engaging. Dylan McDermott does not seem to be completely in character. In spite of having a small role, Lisa Kudrow delivers the best performance. It was very nuanced and natural. Josh Lucas does alright but at times he seems a little too loud. There are several more familiar faces.\\n\\nBefore watching the film, I had very limited knowledge of the notorious murders but after seeing the movie, I did more research and understood how gruesome and horrifying it was. 'Wonderland' tries to portray the event in an accurate way but those who are looking for a closed ending will be disappointed. As I stated earlier, it does give a hint as to what most likely happened.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 23184,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "18",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2004-05-07",
+  "keywords": "police,murder,porn star,robbery,police investigation",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Val Kilmer",
+      "url": "https://www.imdb.com/name/nm0000174/"
+    },
+    {
+      "name": "Lisa Kudrow",
+      "url": "https://www.imdb.com/name/nm0001435/"
+    },
+    {
+      "name": "Kate Bosworth",
+      "url": "https://www.imdb.com/name/nm0098378/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Cox",
+      "url": "https://www.imdb.com/name/nm0185063/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Cox",
+      "url": "https://www.imdb.com/name/nm0185063/"
+    },
+    {
+      "name": "Captain Mauzner",
+      "url": "https://www.imdb.com/name/nm0561359/"
+    },
+    {
+      "name": "Todd Samovitz",
+      "url": "https://www.imdb.com/name/nm1258394/"
+    }
+  ]
+}

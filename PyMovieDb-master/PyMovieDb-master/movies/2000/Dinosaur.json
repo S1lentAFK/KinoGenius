@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Dinosaur",
+  "url": "https://www.imdb.com/tt0130623/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWQ1NTZjMjUtODNmZS00NTVhLWFhM2ItNWZiOTdjMzdhZTY2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "An orphaned dinosaur raised by lemurs joins an arduous trek to a sanctuary after a meteorite shower destroys his family home.",
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Drama"
+  ],
+  "datePublished": "2000-10-13",
+  "keywords": "dinosaur,carnotaurus,lemur,egg,meteor",
+  "duration": "PT1H22M",
+  "rating": {
+    "ratingCount": 66589,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "review": {
+    "author": "pumpkinhead_lance",
+    "dateCreated": "2005-07-08",
+    "inLanguage": "English",
+    "heading": "Fantastic awe-inspiring family entertainment! ****1/2 out of 5",
+    "reviewBody": "This is a film that will delight viewers time and time again.\n\nIt's terrific family entertainment that isn't afraid to venture into darker territory. There are carnivorous dinosaurs chasing herbivores and a giant asteroid that crashes towards earth. As tense as these scenes can be, it's okay. This is a Disney film that shows us in the end we can get through things by sticking together. Ultimately I feel that is the moral of this film and it's a good one.\n\nThe music by James Newton Howard happens to be one of his best. It's beautiful and adventurous with themes that evoke a sense of wonder.\n\nThe look of the film is fantastic. The dinosaurs look quite real and the scenery is nothing short of breathtaking.\n\nIt's a film that contains all the right elements for a family masterpiece. Perhaps, my only wish is that it was a bit longer, but it is what it is and I am more than happy with it. It's a film that earns it's place along the great Disney classics such as The Lion King, Toy Story, Mary Poppins, and all the other classics.\n\nBravo Disney!",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "actor": [
+    {
+      "name": "D.B. Sweeney",
+      "url": "https://www.imdb.com/name/nm0000665/"
+    },
+    {
+      "name": "Julianna Margulies",
+      "url": "https://www.imdb.com/name/nm0000523/"
+    },
+    {
+      "name": "Samuel E. Wright",
+      "url": "https://www.imdb.com/name/nm0942787/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Eric Leighton",
+      "url": "https://www.imdb.com/name/nm0500343/"
+    },
+    {
+      "name": "Ralph Zondag",
+      "url": "https://www.imdb.com/name/nm0957798/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Thom Enriquez",
+      "url": "https://www.imdb.com/name/nm0258059/"
+    },
+    {
+      "name": "John Harrison",
+      "url": "https://www.imdb.com/name/nm0365666/"
+    },
+    {
+      "name": "Robert Nelson Jacobs",
+      "url": "https://www.imdb.com/name/nm0414608/"
+    }
+  ]
+}

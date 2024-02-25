@@ -1,0 +1,55 @@
+{
+  "type": "Movie",
+  "name": "The Lego Batman Movie 2",
+  "url": "https://www.imdb.com/tt9673190/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2Q5Yjk4OWQtYjJiYy00NDIwLWFmNTYtNzc3NDE1MWU4NzMxXkEyXkFqcGdeQXVyNzI0NDk4OTE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": null,
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": null,
+  "keywords": "superhero,based on comic,dc comics,psychotronic film,cgi animation",
+  "duration": null,
+  "actor": [],
+  "director": [
+    {
+      "name": "Chris McKay",
+      "url": "https://www.imdb.com/name/nm0003021/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bob Kane",
+      "url": "https://www.imdb.com/name/nm0004170/"
+    },
+    {
+      "name": "Bill Finger",
+      "url": "https://www.imdb.com/name/nm0277730/"
+    },
+    {
+      "name": "Ole Kirk Christiansen",
+      "url": "https://www.imdb.com/name/nm9204083/"
+    }
+  ]
+}

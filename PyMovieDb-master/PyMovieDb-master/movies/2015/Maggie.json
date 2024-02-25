@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Maggie Moore(s)",
+  "url": "https://www.imdb.com/tt14181816/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGNjY2Y0NTMtZWYwZS00YmU3LTgzNDgtMjBlMGZjZDExYTY2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "thalassafischer",
+    "dateCreated": "2023-09-02",
+    "inLanguage": "English",
+    "heading": "Fun 1990s-Style Dark Comedy",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 6583,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "R",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "datePublished": "2023-06-15",
+  "keywords": "women,whodunit,murder investigation,paper shredder,shot in the back of the head",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Jon Hamm",
+      "url": "https://www.imdb.com/name/nm0358316/"
+    },
+    {
+      "name": "Tina Fey",
+      "url": "https://www.imdb.com/name/nm0275486/"
+    },
+    {
+      "name": "Micah Stock",
+      "url": "https://www.imdb.com/name/nm4381084/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Slattery",
+      "url": "https://www.imdb.com/name/nm0805476/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Paul Bernbaum",
+      "url": "https://www.imdb.com/name/nm0076602/"
+    }
+  ]
+}

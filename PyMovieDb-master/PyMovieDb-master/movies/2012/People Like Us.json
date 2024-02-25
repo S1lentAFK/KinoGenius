@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "People Like Us",
+  "url": "https://www.imdb.com/tt1716777/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM3MzUyNzg3NF5BMl5BanBnXkFtZTcwNjk3NDA4Nw@@._V1_.jpg",
+  "description": "While settling his recently deceased father's estate, a salesman discovers he has a sister whom he never knew about, leading both siblings to re-examine their perceptions about family and life choices.",
+  "review": {
+    "author": "callanvass",
+    "dateCreated": "2013-11-19",
+    "inLanguage": "English",
+    "heading": "A pretty heartwarming story",
+    "reviewBody": "(Credit IMDb) While settling his recently deceased father's estate, a salesman discovers he has a sister whom he never knew about, leading both siblings to re-examine their perceptions about family and life choices. This was one of the most underrated films of 2012. It's a genuinely heartwarming story about redemption and finding yourself. I'm somewhat estranged from a lot of my family, aside from my Dad. I may not have had no contact with my sister like Sam (Chris Pine) does in this movie, but I was easily able to feel sympathy for him. Chris Pine did a really nice job of transforming his character throughout the movie. He plays an arrogant human being for a while, who pushes everyone away, including his love interest (Olivia Wilde) I really enjoyed his changes that he made in the movie. His chemistry with Elizabeth Banks was fantastic. Speaking of Elizabeth Banks, she is just as pivotal as Pine was to making this film as enjoyable as it was. I feel she is one of the most underrated talents in Hollywood. She was natural as a former alcoholic. Olivia Wilde felt a little cold at times, but she did well. If the ending doesn't make you smile, I really question your sanity. \n\n7.8/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 44089,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2012-11-09",
+  "keywords": "family relationships,money,family secret,child psychologist,caught in a lie",
+  "duration": "PT1H54M",
+  "actor": [
+    {
+      "name": "Chris Pine",
+      "url": "https://www.imdb.com/name/nm1517976/"
+    },
+    {
+      "name": "Elizabeth Banks",
+      "url": "https://www.imdb.com/name/nm0006969/"
+    },
+    {
+      "name": "Michelle Pfeiffer",
+      "url": "https://www.imdb.com/name/nm0000201/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Alex Kurtzman",
+      "url": "https://www.imdb.com/name/nm0476064/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Alex Kurtzman",
+      "url": "https://www.imdb.com/name/nm0476064/"
+    },
+    {
+      "name": "Roberto Orci",
+      "url": "https://www.imdb.com/name/nm0649460/"
+    },
+    {
+      "name": "Jody Lambert",
+      "url": "https://www.imdb.com/name/nm0483192/"
+    }
+  ]
+}

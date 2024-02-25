@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "A Hologram for the King",
+  "url": "https://www.imdb.com/tt2980210/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU2MzU1NTg4NV5BMl5BanBnXkFtZTgwNzQ5MjAzODE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "blanche-2",
+    "dateCreated": "2017-06-19",
+    "inLanguage": "English",
+    "heading": "one where you wonder why it was made",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 47250,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2016-05-20",
+  "keywords": "arabia,saudi arabia,backhoe,male in a shower,skin diving",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Tom Hanks",
+      "url": "https://www.imdb.com/name/nm0000158/"
+    },
+    {
+      "name": "Omar Elba",
+      "url": "https://www.imdb.com/name/nm4025491/"
+    },
+    {
+      "name": "Sarita Choudhury",
+      "url": "https://www.imdb.com/name/nm0002004/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tom Tykwer",
+      "url": "https://www.imdb.com/name/nm0878756/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dave Eggers",
+      "url": "https://www.imdb.com/name/nm1101630/"
+    },
+    {
+      "name": "Tom Tykwer",
+      "url": "https://www.imdb.com/name/nm0878756/"
+    }
+  ]
+}

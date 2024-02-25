@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Basic Instinct 2",
+  "url": "https://www.imdb.com/tt0430912/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkzNzM3ODY3Nl5BMl5BanBnXkFtZTcwNzMyNDcyNA@@._V1_.jpg",
+  "description": "Novelist Catherine Tramell is once again in trouble with the law, and Scotland Yard appoints psychiatrist Dr. Michael Glass to evaluate her. Though, like Detective Nick Curran before him, Glass is entranced by Tramell and lured in...",
+  "contentRating": "18",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2006-03-31",
+  "keywords": "rough sex,narcissistic personality disorder,antisocial personality disorder,female female kiss,sex in bed",
+  "duration": "PT1H54M",
+  "actor": [
+    {
+      "name": "Sharon Stone",
+      "url": "https://www.imdb.com/name/nm0000232/"
+    },
+    {
+      "name": "David Morrissey",
+      "url": "https://www.imdb.com/name/nm0607375/"
+    },
+    {
+      "name": "David Thewlis",
+      "url": "https://www.imdb.com/name/nm0000667/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Caton-Jones",
+      "url": "https://www.imdb.com/name/nm0001994/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joe Eszterhas",
+      "url": "https://www.imdb.com/name/nm0000390/"
+    },
+    {
+      "name": "Leora Barish",
+      "url": "https://www.imdb.com/name/nm0054713/"
+    },
+    {
+      "name": "Henry Bean",
+      "url": "https://www.imdb.com/name/nm0063785/"
+    }
+  ],
+  "review": {
+    "author": "peter-burton-1",
+    "dateCreated": "2006-04-09",
+    "inLanguage": "English",
+    "heading": "Well I liked it !",
+    "reviewBody": "I cannot accept the negative comments of other reviewers. They are too critical, perhaps because they are stuck in the past. I would like to see a comment from someone who had never seen Basic Instinct 1, perhaps someone very young ? I left the cinema feeling glad that I had not been swayed by the IMDb reviewers. 14 hours later I am still trying to find flaws in the plot but I cannot think of anything serious. My advice to everyone is see it for yourself and make up your own mind.\n\nIt follows a similar pattern to Basic Instinct 1 but the plot is less confused. It still left me wondering at the end but in a more satisfactory way. Sharon Stone is as sexy and evil as before and wears her 48 years extremely well; this remains her defining role. David Morrisey was satisfactory even though he is no Michael Douglas. Of the supporting cast I particularly liked David Thewlis as the police detective.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 41379,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.4
+  }
+}

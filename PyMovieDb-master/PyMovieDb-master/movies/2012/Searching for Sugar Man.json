@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Searching for Sugar Man",
+  "url": "https://www.imdb.com/tt2125608/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA5Nzc2NDUyN15BMl5BanBnXkFtZTcwNjQwMjc5Nw@@._V1_.jpg",
+  "description": "Two South Africans set out to discover what happened to their unlikely musical hero, the mysterious 1970s rock n roller, Rodriguez.",
+  "review": {
+    "author": "wizface",
+    "dateCreated": "2012-02-06",
+    "inLanguage": "English",
+    "heading": "One of the most bizarre true stories in the history of popular music",
+    "reviewBody": "Who would know that an unknown album from an unknown artist in 1970 (Rodriguez) would become a huge phenomenon in South Africa? As big as say, Paul McCartney. Rodriguez himself was never aware of his huge success, as well as most other Americans. This film traces two hardcore fans as they trace clues around the globe trying to find out what happened to this man. Did he commit a gruesome suicide as rumors say? If so, when and where? Almost nothing was known of this mystery man. The film unfolds a story that cannot be believed by any party. Not the South Africans, nor the filmmakers, or any member of the Rodriquez family. A story that you would swear would not be possible in this day and age of digital communications.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 72517,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.2
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Documentary",
+    "Biography",
+    "Music"
+  ],
+  "datePublished": "2012-07-26",
+  "keywords": "songwriter,presumed dead,censorship,search,recording artist",
+  "duration": "PT1H26M",
+  "actor": [
+    {
+      "name": "Rodriguez",
+      "url": "https://www.imdb.com/name/nm4582541/"
+    },
+    {
+      "name": "Stephen 'Sugar' Segerman",
+      "url": "https://www.imdb.com/name/nm5220239/"
+    },
+    {
+      "name": "Dennis Coffey",
+      "url": "https://www.imdb.com/name/nm0168977/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Malik Bendjelloul",
+      "url": "https://www.imdb.com/name/nm0070594/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Malik Bendjelloul",
+      "url": "https://www.imdb.com/name/nm0070594/"
+    },
+    {
+      "name": "Stephen 'Sugar' Segerman",
+      "url": "https://www.imdb.com/name/nm5220239/"
+    },
+    {
+      "name": "Craig Bartholomew Strydom",
+      "url": "https://www.imdb.com/name/nm3402058/"
+    }
+  ]
+}

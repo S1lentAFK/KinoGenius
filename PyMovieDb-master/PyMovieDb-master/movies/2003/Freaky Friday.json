@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Freaky Friday",
+  "url": "https://www.imdb.com/tt0322330/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGRkYzI0MjAtNzY2Ni00MTlkLWFjMjItMDQyODQ2NjYzYmRlXkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_.jpg",
+  "description": "An overworked mother and her daughter did not get along. When they switch bodies, each is forced to adapt to the other's life for one freaky Friday.",
+  "review": {
+    "author": "Smells_Like_Cheese",
+    "dateCreated": "2004-01-10",
+    "inLanguage": "English",
+    "heading": "A great remake",
+    "reviewBody": "Freaky Friday, this was such a funny movie, and a huge surprise for 2003. This is actually a new favorite comedy of mine; Jamie Lee Curtis and Lindsay Lohan have such a great chemistry, I was really impressed with, new comer, Lohan's performance. She and Jamie just made this film an absolute blast to watch. I think I loved Jamie more though, she captured the whole essence of being a teenager perfectly, she did not over do it at all. Not to mention she's just an absolute pleasure to watch on screen, she's such a terrific actress, I love her so much. The story was just so perfect to update into today's society where everyone is so busy to even notice each other.\\n\\nAnna is a teenage girl, she's pretty typical, she loves music, is a bit angry with her life, a bit of a drama queen, is annoyed by her little brother, and annoyed with her mother who is constantly on her case. Tess, Anna's mom, is a busy lady with a constant on the move schedule, she and Anna just constantly bump heads with one thing or another. Tess is also getting married again to a man who Anna is not too fond of. One night when Anna asks her mom if she can perform at a concert on the night of the wedding rehearsal, it doesn't go so well and they get into a huge fight. The restaurant owner's mom gives them a fortune cookie and ends up switching bodies. They end up learning that maybe their lives are a little harder than what they really expected it to be.\\n\\nFreaky Friday is a very enjoyable film that I'm very sure you'll have a good time watching. It's a very impressive comedy for any age. My favorite scene was without a doubt when Anna(in Tess's body) goes on TV discussing her latest book and tells the truth about why adults worry so much, not to mention the scene where Tess and Anna discover their bodies are switched. This is just a great remake, it has a great cast, a fun script, and is just all around a good movie, I highly recommend it.\\n\\n8/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 151113,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2003-12-19",
+  "keywords": "body swap,mother daughter relationship,pantyhose,speech,eating french fries",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Jamie Lee Curtis",
+      "url": "https://www.imdb.com/name/nm0000130/"
+    },
+    {
+      "name": "Lindsay Lohan",
+      "url": "https://www.imdb.com/name/nm0517820/"
+    },
+    {
+      "name": "Mark Harmon",
+      "url": "https://www.imdb.com/name/nm0001319/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mark Waters",
+      "url": "https://www.imdb.com/name/nm0914132/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mary Rodgers",
+      "url": "https://www.imdb.com/name/nm0734742/"
+    },
+    {
+      "name": "Heather Hach",
+      "url": "https://www.imdb.com/name/nm0352320/"
+    },
+    {
+      "name": "Leslie Dixon",
+      "url": "https://www.imdb.com/name/nm0228908/"
+    }
+  ]
+}

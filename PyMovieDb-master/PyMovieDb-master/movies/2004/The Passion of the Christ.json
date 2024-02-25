@@ -1,0 +1,62 @@
+{
+  "type": "Movie",
+  "name": "The Passion of the Christ",
+  "url": "https://www.imdb.com/tt0335345/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjE2MDNhMzItNmMzNi00NzY1LWIwNTktNmE5ZWE4OTcyNjJhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2016-03-26",
+    "inLanguage": "English",
+    "heading": "expertly made",
+    "reviewBody": "Director Mel Gibson brings the last day of Jesus (Jim Caviezel) to the screen. It is after the last supper and Judas betrays Jesus to the authorities for 30 pieces of silver. Jesus is arrested, beaten, convicted of blasphemy and sentenced to death. Roman Governor Pontius Pilate sends him to King Herod. Herod sees Jesus as a fool and releases him back to Pilate. Fearing a revolt, Pilate offers a choice to the crowd between Jesus and Barabbas.\n\nThis is a relatively literal interpretation of the passion play. Mel even uses Aramaic. It is expertly made and delivers the material. There is a vein of anti-semitic bend while Pilate is excused with more humanity. I don&apos;t think the film can force modern values on the 2000 year old text. For true believers, this is heaven. Every whip mark is felt. For non-believers, this is a good representation of the text.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 247606,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "18",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2004-03-26",
+  "keywords": "torture,graphic violence,brutality,whipping,violence",
+  "duration": "PT2H7M",
+  "actor": [
+    {
+      "name": "Jim Caviezel",
+      "url": "https://www.imdb.com/name/nm0001029/"
+    },
+    {
+      "name": "Monica Bellucci",
+      "url": "https://www.imdb.com/name/nm0000899/"
+    },
+    {
+      "name": "Maia Morgenstern",
+      "url": "https://www.imdb.com/name/nm0411581/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mel Gibson",
+      "url": "https://www.imdb.com/name/nm0000154/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Benedict Fitzgerald",
+      "url": "https://www.imdb.com/name/nm0280179/"
+    },
+    {
+      "name": "Mel Gibson",
+      "url": "https://www.imdb.com/name/nm0000154/"
+    }
+  ]
+}

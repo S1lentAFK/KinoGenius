@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Justice League: Crisis on Infinite Earths - Part One",
+  "url": "https://www.imdb.com/tt29195117/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzg1MWQ5NzgtZjlhZi00MjU4LThmZDUtOWQ5ZjMzN2ZlODNkXkEyXkFqcGdeQXVyMTk2OTAzNTI@._V1_.jpg",
+  "description": "The Anti-Monitor (the Monitor&apos;s evil counterpart) is released in the DC Multiverse and begins to destroy the different Earths that compose it. The Monitor attempts to recruit heroes from across the Multiverse, but is murdered.",
+  "review": {
+    "author": "smurfy-59763",
+    "dateCreated": "2024-01-10",
+    "inLanguage": "English",
+    "heading": "Terrible Disappointment",
+    "reviewBody": "Crisis on Infinite Earths was always one of my favourite comics growing up and this is just an injustice to it. The flash is a vital character in the comics but so are several others such as supergirl, Luthor and pariah. This animated film though focuses the entirety on the flash and makes him the sole hero and everybody else is a backup character. The whole first half of the film is just a confused mess as you try to figure out what is happening. Finally the animation style is so lazy and bad that it almost looks like stop motion at some points with the voices not matching the characters. All in all a great disappointment for something Inwas really waiting for.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 3046,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2024-01-09",
+  "keywords": "dc comics,based on comic book,justice league,multiverse,first part",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Matt Bomer",
+      "url": "https://www.imdb.com/name/nm0093589/"
+    },
+    {
+      "name": "Jensen Ackles",
+      "url": "https://www.imdb.com/name/nm0010075/"
+    },
+    {
+      "name": "Darren Criss",
+      "url": "https://www.imdb.com/name/nm2023050/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeff Wamester",
+      "url": "https://www.imdb.com/name/nm5208146/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Krieg",
+      "url": "https://www.imdb.com/name/nm0471172/"
+    },
+    {
+      "name": "George Pérez",
+      "url": "https://www.imdb.com/name/nm1303925/"
+    },
+    {
+      "name": "Marv Wolfman",
+      "url": "https://www.imdb.com/name/nm0938379/"
+    }
+  ]
+}

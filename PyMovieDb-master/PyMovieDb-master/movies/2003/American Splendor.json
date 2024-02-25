@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "American Splendor",
+  "url": "https://www.imdb.com/tt0305206/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MjYxNjY1MV5BMl5BanBnXkFtZTcwNDkwMjAwMQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "alexgoldfinch",
+    "dateCreated": "2004-11-25",
+    "inLanguage": "English",
+    "heading": "Russian doll",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 51992,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2004-01-02",
+  "keywords": "comic book,robert crumb,1980s,dark horse comics,husband wife relationship",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Paul Giamatti",
+      "url": "https://www.imdb.com/name/nm0316079/"
+    },
+    {
+      "name": "Shari Springer Berman",
+      "url": "https://www.imdb.com/name/nm0075849/"
+    },
+    {
+      "name": "Harvey Pekar",
+      "url": "https://www.imdb.com/name/nm0670688/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Shari Springer Berman",
+      "url": "https://www.imdb.com/name/nm0075849/"
+    },
+    {
+      "name": "Robert Pulcini",
+      "url": "https://www.imdb.com/name/nm0700301/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Harvey Pekar",
+      "url": "https://www.imdb.com/name/nm0670688/"
+    },
+    {
+      "name": "Joyce Brabner",
+      "url": "https://www.imdb.com/name/nm1202074/"
+    },
+    {
+      "name": "Shari Springer Berman",
+      "url": "https://www.imdb.com/name/nm0075849/"
+    }
+  ]
+}

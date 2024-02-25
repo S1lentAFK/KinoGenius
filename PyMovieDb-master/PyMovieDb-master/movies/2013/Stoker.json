@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Stoker",
+  "url": "https://www.imdb.com/tt1682180/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI3MTM5ODI5MV5BMl5BanBnXkFtZTcwMjE1Mzc4OA@@._V1_.jpg",
+  "description": "After India's father dies, her Uncle Charlie, whom she never knew existed, comes to live with her and her unstable mother. She comes to suspect this mysterious, charming man has ulterior motives and becomes increasingly infatuated...",
+  "review": {
+    "author": "Pjtaylor-96-138044",
+    "dateCreated": "2021-03-30",
+    "inLanguage": "English",
+    "heading": "Its complex direction hides its shallow nature.",
+    "reviewBody": "'Stoker (2013)' tells the familiar tale of an enigmatic, long-lost family member emerging after the death of a patriarchal figure, doing little to differentiate itself from the plethora of other movies in its subgenre. When it boils right down to it, it's pretty much exactly what you'd expect it to be. As such, it all feels rather... inconsequential. It plays its hand far too early in some aspects and, in general, is just incredibly predictable. Even its more extreme elements are presented in a somewhat 'neutered' fashion, feeling like they were included to shock rather than to elevate the story (or, even, make it more unique). That's not to say the film is bad, though. It's a relatively engaging and entertaining in-the-moment experience that does have some interesting aspects. The most obvious of these is its avant-garde direction from Park Chan-Wook, which is turned up to eleven in almost every single scene. This creates an odd effect that does elevate the flick's mysterious atmosphere, even if it sometimes seems a little too 'arty' for its own good. Another thing the film has going for it is its strong cast, each of whom turn in fairly strong performances. The overall thing just falls down in retrospection, though, because it doesn't really do anything all that special. Its overly complex direction hides the fact that it isn't all that deep, something which becomes clearer and clearer the longer you spend thinking about it. It's one of Park's weakest films, for sure. Still, it's a decent mystery-thriller. It's entertaining enough while it lasts. 6/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 114101,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "18",
+  "genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2013-03-01",
+  "keywords": "dead body in a freezer,playing piano,dead body,nude drawing,psychopath",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Mia Wasikowska",
+      "url": "https://www.imdb.com/name/nm1985859/"
+    },
+    {
+      "name": "Nicole Kidman",
+      "url": "https://www.imdb.com/name/nm0000173/"
+    },
+    {
+      "name": "Matthew Goode",
+      "url": "https://www.imdb.com/name/nm0328828/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Park Chan-wook",
+      "url": "https://www.imdb.com/name/nm0661791/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Wentworth Miller",
+      "url": "https://www.imdb.com/name/nm0589505/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "Movie",
+  "name": "Spoken Word",
+  "url": "https://www.imdb.com/tt1212443/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIzNDE2NTYwNV5BMl5BanBnXkFtZTcwNjM3OTI5Mg@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "naregian",
+    "dateCreated": "2013-04-06",
+    "inLanguage": "English",
+    "heading": "Not a bad film.",
+    "reviewBody": "This movie has no reviews, and I stumbled upon it in my ratings list, and remembered how good it was. I know probably no human soul will read this as this film was released at only a few small film festivals. I caught this movie at the Los Angeles Latino Film Festival and was pleasantly surprised. \n\nI saw it 4 years ago and I still remember enough about it to write a review. The film dealt with a re-entrance to the world of drugs by an aspiring artist. The film carried a deep message as to what comes along with the addiction of drugs, and how it cannot save you from the heartbreak of losing a loved one. Not only does it not save you from the problems, but it makes them worse.\n\nI remember walking out of the theater, a mere 12 year old (give or take), shaken by the emotional content of this film including it&apos;s depiction of drug addiction.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 119,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2009-03-01",
+  "keywords": "violence,artist",
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Kuno Becker",
+      "url": "https://www.imdb.com/name/nm0065493/"
+    },
+    {
+      "name": "Miguel Sandoval",
+      "url": "https://www.imdb.com/name/nm0762153/"
+    },
+    {
+      "name": "Rubén Blades",
+      "url": "https://www.imdb.com/name/nm0001952/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Victor Nunez",
+      "url": "https://www.imdb.com/name/nm0638033/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William T. Conway",
+      "url": "https://www.imdb.com/name/nm0176640/"
+    },
+    {
+      "name": "Joe Ray Sandoval",
+      "url": "https://www.imdb.com/name/nm2970126/"
+    }
+  ]
+}

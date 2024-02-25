@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "De-Lovely",
+  "url": "https://www.imdb.com/tt0352277/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIyODgwODIyNF5BMl5BanBnXkFtZTcwMTkzMTczMw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "arlened324",
+    "dateCreated": "2004-07-17",
+    "inLanguage": "English",
+    "heading": "I THOUGHT I WAS GOING TO SEE A MUSICAL",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 11800,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2004-10-01",
+  "keywords": "jukebox musical,horseback riding,cole porter character,monty woolley character,louis b. mayer character",
+  "duration": "PT2H5M",
+  "actor": [
+    {
+      "name": "Kevin Kline",
+      "url": "https://www.imdb.com/name/nm0000177/"
+    },
+    {
+      "name": "Ashley Judd",
+      "url": "https://www.imdb.com/name/nm0000171/"
+    },
+    {
+      "name": "Jonathan Pryce",
+      "url": "https://www.imdb.com/name/nm0000596/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Irwin Winkler",
+      "url": "https://www.imdb.com/name/nm0005563/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jay Cocks",
+      "url": "https://www.imdb.com/name/nm0168379/"
+    }
+  ]
+}

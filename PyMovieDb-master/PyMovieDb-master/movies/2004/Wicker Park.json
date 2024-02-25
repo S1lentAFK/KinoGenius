@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Wicker Park",
+  "url": "https://www.imdb.com/tt0324554/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDU3ZDM5MTQtNDU5NS00NDY1LWI1ODYtMzRiYjU1MTdiNWYxL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A young Chicago advertising executive believes a woman he sees in a café is his long-lost love. His belief leads to obsession, as he puts his life on hold in order to trail her.",
+  "review": {
+    "author": "punkboy45",
+    "dateCreated": "2004-09-04",
+    "inLanguage": "English",
+    "heading": "its what you think but its not what u think",
+    "reviewBody": "This movie was one of the most unique films i have seen in quite awhile. I really liked the way it was portrayed. It was a very good storyline, from the previews it almost seemed confusing but it wasn&apos;t confusing at all.\n\nThe scenery was excellent. It was a top notch performance on everyones part. It kept you guessing until you didn&apos;t know what to think. It was a thriller, yet had a comedic spark here and there with a twist of romance and a dazzle of drama. It was by far one of the movies that stick out this year that i&apos;ve seen. Josh Hartnett played his role so well, and the 2 females i wasn&apos;t really familiar with their work but they did a fantastic job as well as Mathew Lillard.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 58399,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "datePublished": "2004-09-10",
+  "keywords": "obsession,nonlinear timeline,split screen,multiple perspectives,flashback within a flashback",
+  "duration": "PT1H54M",
+  "actor": [
+    {
+      "name": "Josh Hartnett",
+      "url": "https://www.imdb.com/name/nm0001326/"
+    },
+    {
+      "name": "Diane Kruger",
+      "url": "https://www.imdb.com/name/nm1208167/"
+    },
+    {
+      "name": "Matthew Lillard",
+      "url": "https://www.imdb.com/name/nm0000498/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Paul McGuigan",
+      "url": "https://www.imdb.com/name/nm0006476/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Gilles Mimouni",
+      "url": "https://www.imdb.com/name/nm0590813/"
+    },
+    {
+      "name": "Brandon Boyce",
+      "url": "https://www.imdb.com/name/nm0101625/"
+    }
+  ]
+}

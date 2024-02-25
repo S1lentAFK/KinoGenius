@@ -1,0 +1,51 @@
+
+
+{
+  "type": "Movie",
+  "name": "Introducing the Incredible Nightcrawler!",
+  "url": "https://www.imdb.com/tt0395608/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjExMzdiYTQtNjNhYi00NDBhLWFjYWYtMDkxZTY2ZDRmOGIxXkEyXkFqcGdeQXVyMTEyMDcwNw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "TBJCSKCNRRQTreviews",
+    "dateCreated": "2009-05-17",
+    "inLanguage": "English",
+    "heading": "There are worse acquaintances to make",
+    "reviewBody": "This documentary, found on the 2-Disc DVD release of X2, as the title tells you, is all about Nightcrawler. It features a somewhat randomly inter-cut clip or two of his scenes in the film, interviews, some sketches of figuring out the look, and finally, behind the scenes footage of rehearsal and make-up(applying, testing, etc.). There's a fairly decent amount of information and material herein. The pacing is fine. It's ten minutes long, which fits OK. Editing is reasonable, the only real down-note in that department being the aforementioned quality of the use of the movie itself. There's not really anything terribly memorable in this, but it isn't bad, and everything in this does relate to the character and his appearance in the second X-Men silver screen effort. This makes no effort whatsoever to go into the special FX of the mutant... movement and design are covered, and pretty well so, but apart from a practical effect or two, nothing is dealt with, in that area. All in all, this is good for anyone who wants to know more about the character, as he is, in the film(no background or comics material is presented in this, though there is another featurette that comes with the set that goes into that). I recommend this to those who find themselves in aforementioned group. 6/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 53,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": null,
+  "genre": [
+    "Documentary",
+    "Short"
+  ],
+  "datePublished": "2003-11-25",
+  "keywords": "superhero,marvel comics",
+  "duration": "PT10M",
+  "actor": [
+    {
+      "name": "Alan Cumming",
+      "url": "https://www.imdb.com/name/nm0001086/"
+    },
+    {
+      "name": "Jayne Dancose",
+      "url": "https://www.imdb.com/name/nm0199203/"
+    },
+    {
+      "name": "Tom DeSanto",
+      "url": "https://www.imdb.com/name/nm0220892/"
+    }
+  ],
+  "director": [],
+  "creator": []
+}

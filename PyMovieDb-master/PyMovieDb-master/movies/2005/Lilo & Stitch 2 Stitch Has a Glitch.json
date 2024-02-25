@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Lilo & Stitch",
+  "url": "https://www.imdb.com/tt0275847/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTY5MGE4MjEtNTMzYy00ODAxLWFiNDQtNzhlOGJiZWIzNDhkXkEyXkFqcGdeQXVyNTM5NzI0NDY@._V1_.jpg",
+  "description": "A young and parentless girl adopts a 'dog' from the local pound, completely unaware that it's supposedly a dangerous scientific experiment that's taken refuge on Earth and is now hiding from its creator and those who see it as a menace.",
+  "review": {
+    "author": "Chris_Gardner",
+    "dateCreated": "2002-10-21",
+    "inLanguage": "English",
+    "heading": "What would have happened if ET had been a belligerent life-form rather than a friendly one? That's the question Chris Sanders must have asked when he wrote the latest animated Disney movie Lilo and Stitch.",
+    "reviewBody": "The film, directed by Sanders who also provides the destructive alien Stitch's voice, is a very touching animated comedy which turns Steven Speilberg's original ET movie on its head. The plot revolves around little Lilo, a five-year-old Hawaiian orphan, voiced by Daveigh Chase who unknowingly rescues an alien experiment from the dog pound thinking that she has rescued a dog. Her sister and guardian, Nani (Tia Carrere) is none-too-pleased due to his destructive tendencies, but is soon distracted by young surfie David Kawena (Jason Scott Lee). Unbeknown to Lilo the creature she names Stitch is actually experiment number 626 and has been designed to destroy all that he comes into contact with. Because of this Stitch is banished to an asteroid for the rest of his life but escapes to a blue-green world known as earth. To help with this he has extra thick skin and has been given strength way beyond his means To make the story of family and friendship more alluring Stitch's creator, Dr. Jumba Jookiba voiced by David Ogden Stiers, and the one-eyed Agent Peakley (Kevin McDonald) have a different idea. They are despatched by the Galactic Federation of Planets to capture Stitch and bring him home without interfering with the native humans. As the story unfolds Stitch learns what it is to be part of a family, albeit a very dysfunctional one, and feels like he belongs for the first time in his short life. As well as being loosely based on ET, in basic concept only, there are tips of the hat to the Star Trek television series as well as the Star Wars movies. The most obvious is when Stitch, imitating Jedi Master Yoda in Attack of the Clones, catches a laser blast in his hands, forms it into a ball and tosses it back at his attacker. Unlike most Disney films Lilo and Stitch has little music, save for the occasional clip of Elvis Presley which helps punctuate Lilo's obsession with the singer. Like Stuart Little 2, Lilo and Stitch is packed full of family values and emphasises the importance of friendship. Hilariously touching.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 209430,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2002-10-04",
+  "keywords": "hawaii,alien,alien friendship,sister sister relationship,social worker",
+  "duration": "PT1H25M",
+  "actor": [
+    {
+      "name": "Daveigh Chase",
+      "url": "https://www.imdb.com/name/nm0153738/"
+    },
+    {
+      "name": "Chris Sanders",
+      "url": "https://www.imdb.com/name/nm0761498/"
+    },
+    {
+      "name": "Tia Carrere",
+      "url": "https://www.imdb.com/name/nm0000119/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dean DeBlois",
+      "url": "https://www.imdb.com/name/nm0213450/"
+    },
+    {
+      "name": "Chris Sanders",
+      "url": "https://www.imdb.com/name/nm0761498/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Chris Sanders",
+      "url": "https://www.imdb.com/name/nm0761498/"
+    },
+    {
+      "name": "Dean DeBlois",
+      "url": "https://www.imdb.com/name/nm0213450/"
+    }
+  ]
+}

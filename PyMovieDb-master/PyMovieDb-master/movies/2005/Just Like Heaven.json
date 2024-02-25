@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Just Like Heaven",
+  "url": "https://www.imdb.com/tt0425123/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODAzYmYxYzgtMDk5Ny00OGFkLTgxMzAtYzIyNjVhNjA2MWUzXkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_.jpg",
+  "description": "A lonely landscape architect falls for the spirit of the beautiful woman who used to live in his new apartment.",
+  "review": {
+    "author": "albell1006",
+    "dateCreated": "2005-09-11",
+    "inLanguage": "English",
+    "heading": "better than I thought",
+    "reviewBody": "When I went to see this movie, I went in with high hopes and I was not disappointed. I enjoy Reese as an actor, and am becoming a fan of Mark Ruffalo&apos;s. Reese, as always, was the perfect main character that you just fell in love with from the very beginning and I really like Mark&apos;s ability to be a very physical actor, which Just Like Heaven took wonderful advantage of. The movie&apos;s storyline is good, it does have a couple of somewhat predictable turns, but what movie doesn&apos;t? The acting is very well done, I haven&apos;t laughed that much in a very long time and Reese and Mark have great chemistry on-screen. If you are looking for a really good chick flick to make you laugh, cry, and feel every motion in between, this is a great movie for you.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 116839,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "datePublished": "2005-12-30",
+  "keywords": "heaven,female ghost,woman in a coma,apartment,out of body experience",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Reese Witherspoon",
+      "url": "https://www.imdb.com/name/nm0000702/"
+    },
+    {
+      "name": "Mark Ruffalo",
+      "url": "https://www.imdb.com/name/nm0749263/"
+    },
+    {
+      "name": "Donal Logue",
+      "url": "https://www.imdb.com/name/nm0006610/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mark Waters",
+      "url": "https://www.imdb.com/name/nm0914132/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Peter Tolan",
+      "url": "https://www.imdb.com/name/nm0865847/"
+    },
+    {
+      "name": "Leslie Dixon",
+      "url": "https://www.imdb.com/name/nm0228908/"
+    },
+    {
+      "name": "Marc L\\u00e9vy",
+      "url": "https://www.imdb.com/name/nm1344075/"
+    }
+  ]
+}

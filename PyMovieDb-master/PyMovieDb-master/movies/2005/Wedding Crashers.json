@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Wedding Crashers",
+  "url": "https://www.imdb.com/tt0396269/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmJkNzViYjYtZWZlNy00OGE4LWI2MzUtYTcwNjY3Y2MyODIwXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+  "description": "John Beckwith and Jeremy Grey, a pair of committed womanizers who sneak into weddings to take advantage of the romantic tinge in the air, find themselves at odds with one another when John meets and falls for Claire Cleary.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2005-07-14",
+  "keywords": "female rear nudity,divorce,breasts,lingerie,female removes her clothes",
+  "duration": "PT1H59M",
+  "actor": [
+    {
+      "name": "Owen Wilson",
+      "url": "https://www.imdb.com/name/nm0005562/"
+    },
+    {
+      "name": "Vince Vaughn",
+      "url": "https://www.imdb.com/name/nm0000681/"
+    },
+    {
+      "name": "Rachel McAdams",
+      "url": "https://www.imdb.com/name/nm1046097/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Dobkin",
+      "url": "https://www.imdb.com/name/nm0229694/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steve Faber",
+      "url": "https://www.imdb.com/name/nm0264520/"
+    },
+    {
+      "name": "Bob Fisher",
+      "url": "https://www.imdb.com/name/nm1462097/"
+    }
+  ],
+  "review": {
+    "author": "ivko",
+    "dateCreated": "2005-08-24",
+    "inLanguage": "English",
+    "heading": "Excellent summer movie",
+    "reviewBody": "This movie will never win an Oscar, but it still surprised me and became my favorite summer movie this year. The plot, as in all good summer comedies, is simple. Two guys who crash weddings to pick up woman have zany adventures and learn a little something along the way. The real fun of this movie is in the actors, who deliver their performances perfectly. Owen Wilson is the aging California surfer type who may be ready to move on with his life. Vince Vaughn is his best friend who frequently acts like a spoiled, horny child but is actually a good guy. Christopher Walken is the slightly scary father of the love interest. So if you have seen Wilson in Shanghai Noon and Vaughn in Swingers and Walken in, well almost anything he has ever made, then you have seen these characters before. But still, they just work well together here. The movie contains just enough real emotion to keep you caring and enough absurdity and broad physical comedy to keep you laughing. This isn't Shakespeare, but it is funny. Highly recommend.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 373532,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  }
+}

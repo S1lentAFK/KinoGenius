@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Michael Jordan to the Max",
+  "url": "https://www.imdb.com/tt0245280/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIyMDg2NTAyM15BMl5BanBnXkFtZTcwMzg3MDU1MQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Shiva-11",
+    "dateCreated": "2000-07-24",
+    "inLanguage": "English",
+    "heading": "You'll like it even if you aren't a basketball fan",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 2353,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Documentary",
+    "Sport"
+  ],
+  "datePublished": "2000-05-05",
+  "keywords": "nba player,professional athlete,actor name in title,five word title,sports documentary",
+  "duration": "PT46M",
+  "actor": [
+    {
+      "name": "Michael Jordan",
+      "url": "https://www.imdb.com/name/nm0003044/"
+    },
+    {
+      "name": "Phil Jackson",
+      "url": "https://www.imdb.com/name/nm0413944/"
+    },
+    {
+      "name": "Doug Collins",
+      "url": "https://www.imdb.com/name/nm0172283/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Don Kempf",
+      "url": "https://www.imdb.com/name/nm0447437/"
+    },
+    {
+      "name": "James D. Stern",
+      "url": "https://www.imdb.com/name/nm0827726/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jonathan Hock",
+      "url": "https://www.imdb.com/name/nm0387890/"
+    }
+  ]
+}

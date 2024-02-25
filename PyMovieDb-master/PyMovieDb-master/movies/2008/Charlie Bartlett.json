@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Charlie Bartlett",
+  "url": "https://www.imdb.com/tt0423977/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNTgyNDI2NF5BMl5BanBnXkFtZTcwOTA2NTg1MQ@@._V1_.jpg",
+  "description": "A rich kid becomes the self-appointed psychiatrist to the student body of his new high school.",
+  "review": {
+    "author": "anitalansing-40-581915",
+    "dateCreated": "2020-03-18",
+    "inLanguage": "English",
+    "heading": "EXTREMELY ENTERTAINING",
+    "reviewBody": "This is one of the most near-perfect movies that I have watched in a very long time. I was completely enthralled with the storyline, the actors, and the movie itself. The movie had it all, comedy, drama, and guidance on the angsts of growing up and being a teen. I could not have asked for a more complete movie. Very good, very, very good.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 66525,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2008-05-16",
+  "keywords": [
+    "school play",
+    "principal",
+    "hyperactivity",
+    "klonopin",
+    "reference to wellbutrin"
+  ],
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Anton Yelchin",
+      "url": "https://www.imdb.com/name/nm0947338/"
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "url": "https://www.imdb.com/name/nm0000375/"
+    },
+    {
+      "name": "Hope Davis",
+      "url": "https://www.imdb.com/name/nm0204706/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jon Poll",
+      "url": "https://www.imdb.com/name/nm0689343/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Gustin Nash",
+      "url": "https://www.imdb.com/name/nm1122978/"
+    }
+  ]
+}

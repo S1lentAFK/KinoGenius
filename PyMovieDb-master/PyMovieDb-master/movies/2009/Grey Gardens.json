@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Grey Gardens",
+  "url": "https://www.imdb.com/tt0073076/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjQ0YzYwMzUtZjc5NS00OGQ3LWJjMmUtYmY5N2M3ZTA0NTY2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "sigis",
+    "dateCreated": "1999-09-08",
+    "inLanguage": "English",
+    "heading": "Grey Gardens was riveting and almost unbelievable!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 15129,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "A",
+  "genre": [
+    "Documentary",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "1975-09-27",
+  "keywords": "mansion,recluse,dilapidated house,eccentricity,birthday party",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Edith Bouvier Beale",
+      "url": "https://www.imdb.com/name/nm0063643/"
+    },
+    {
+      "name": "Edith 'Little Edie' Bouvier Beale",
+      "url": "https://www.imdb.com/name/nm1799073/"
+    },
+    {
+      "name": "Brooks Hyers",
+      "url": "https://www.imdb.com/name/nm0386343/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ellen Hovde",
+      "url": "https://www.imdb.com/name/nm0317487/"
+    },
+    {
+      "name": "Albert Maysles",
+      "url": "https://www.imdb.com/name/nm0563099/"
+    },
+    {
+      "name": "David Maysles",
+      "url": "https://www.imdb.com/name/nm0563100/"
+    }
+  ],
+  "creator": []
+}

@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Surviving Progress",
+  "url": "https://www.imdb.com/tt1462014/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA5MDkxOTAzM15BMl5BanBnXkFtZTgwODQyODE2MDE@._V1_.jpg",
+  "description": "Theorists consider the evolution of human society and question the sustainability of the current paradigm.",
+  "review": {
+    "author": "billcr12",
+    "dateCreated": "2012-09-29",
+    "inLanguage": "English",
+    "heading": "We Are Doomed",
+    "reviewBody": "A well made documentary, showing the basic problem of a planet of over seven billion people using the limited resources available to us, Surviving Progress is informative and uses interviews and some excellent photography to deliver its well intended message. At the start, we see monkeys in a room playing with Legos, and we are told that during an experiment, a human child, when challenged with a problem solving variation will ask why, which is seen as the major difference between us and the chimp, as we are otherwise genetically very similar. Our capacity for survival is what makes us unique. A segment dealing with the destruction of the rain forest is disheartening, as some environmental officers struggle in vain against workers just trying to make a living. Economists and scientists explain that we cannot continue to demand more and more modern conveniences without destroying the Earth. It is a simple and basic story, and it looks as if we are already past the point of no return; oh well, it was fun while it lasted.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 1893,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2013-03-23",
+  "keywords": [
+    "population explosion",
+    "overpopulation",
+    "south america",
+    "business",
+    "deforestation"
+  ],
+  "duration": "PT1H26M",
+  "actor": [
+    {
+      "name": "Ronald Wright",
+      "url": "https://www.imdb.com/name/nm4518786/"
+    },
+    {
+      "name": "Mark Levine",
+      "url": "https://www.imdb.com/name/nm4613257/"
+    },
+    {
+      "name": "Robert Wright",
+      "url": "https://www.imdb.com/name/nm4612515/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mathieu Roy",
+      "url": "https://www.imdb.com/name/nm1927689/"
+    },
+    {
+      "name": "Harold Crooks",
+      "url": "https://www.imdb.com/name/nm0188899/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Harold Crooks",
+      "url": "https://www.imdb.com/name/nm0188899/"
+    },
+    {
+      "name": "Mathieu Roy",
+      "url": "https://www.imdb.com/name/nm1927689/"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hardcore Henry",
+  "url": "https://www.imdb.com/tt3072482/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjIzNTcwMDc3Nl5BMl5BanBnXkFtZTgwNzU5NTY5NzE@._V1_.jpg",
+  "description": "Henry is resurrected from death with no memory, and he must save his wife from a telekinetic warlord with a plan to bio-engineer soldiers.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "contentRating": "18",
+  "datePublished": "2016-04-08",
+  "keywords": "point of view,cyborg,violence,telekinesis,moscow russia",
+  "duration": "PT1H36M",
+  "rating": {
+    "ratingCount": 101278,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "review": {
+    "author": "Offworld_Colony",
+    "dateCreated": "2020-02-07",
+    "inLanguage": "English",
+    "heading": "The Citizen Kane of action films...",
+    "reviewBody": "When is a movie not a movie? How do you rate a movie like this anyway?\n\nHardcore Henry completely reinvents cinematic language. It's closer to a videogame in streamlined story and brutal, flinch-inducing violence. The sometimes low-res, often choppy POV is ballsy and cleverly conceived, gags and smart editing is commendable, the director's well-honed eye providing a true cinematic breath of fresh air.\n\nIt has superbly apt, moody music and good directional sound, it's not nearly as cheap as the marketing led me to believe even though it's clearly on a shoestring, its inventiveness and good blend of stunt performers and FX create a non-nauseous, toe-curling adrenaline rush.\n\nThere's admiration to be found in the lack of exposition in the 8-bit paper-thin plot and the gaudy, gonzo characters of a suitable Sharlto Copley. If you're in to videogames or appreciate something different, then Hardcore Henry is a revelatory, avant-garde, art-house action flick with its tongue in its cheek and its balls to the wall. It's also a sadistic, nihilistic over the top collection of video game levels. Insanely creative and in incredibly bad taste. It's a gory riot, blackly comic and tells you exactly what it is upfront and never lets up. Many parts of this film are stupid, ugly, dragging and plain insufferable and then there's equal parts hilarity and visual wit, true kineticism and sheer stuntman balls.\n\nVery Russian. Not for everyone. And wears thin by the end, but very much a one of a kind and relentlessly intent on being it's own beast. And it helps that the ending is so absurdly laugh-out-loud OTT that it puts Crank to shame.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 101278,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "actor": [
+    {
+      "name": "Sharlto Copley",
+      "url": "https://www.imdb.com/name/nm1663205/"
+    },
+    {
+      "name": "Tim Roth",
+      "url": "https://www.imdb.com/name/nm0000619/"
+    },
+    {
+      "name": "Haley Bennett",
+      "url": "https://www.imdb.com/name/nm2247245/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ilya Naishuller",
+      "url": "https://www.imdb.com/name/nm5820154/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ilya Naishuller",
+      "url": "https://www.imdb.com/name/nm5820154/"
+    },
+    {
+      "name": "Will Stewart",
+      "url": "https://www.imdb.com/name/nm0829901/"
+    }
+  ]
+}

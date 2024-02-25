@@ -1,0 +1,51 @@
+
+
+{
+  "type": "Movie",
+  "name": "Michael Jackson's 'This Is It': Auditions - Searching for the World's Best Dancers",
+  "url": "https://www.imdb.com/tt1592748/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI4OWY4NjAtZGQzMi00ZDk5LTkzNTktNjM5NTkyMzRmN2YzXkEyXkFqcGdeQXVyMTE5NzI0NDM@._V1_.jpg",
+  "description": "A documentary chronicling the high-stakes audition process for This Is It, which ended with the selection of 11 talented dancers.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 29,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": null,
+  "genre": [
+    "Documentary",
+    "Short"
+  ],
+  "datePublished": "2010-01-26",
+  "keywords": null,
+  "duration": "PT10M",
+  "actor": [
+    {
+      "name": "Nick Bass",
+      "url": "https://www.imdb.com/name/nm3201923/"
+    },
+    {
+      "name": "Daniel Celebre",
+      "url": "https://www.imdb.com/name/nm0147970/"
+    },
+    {
+      "name": "Mekia Cox",
+      "url": "https://www.imdb.com/name/nm2065368/"
+    }
+  ],
+  "director": [],
+  "creator": []
+}

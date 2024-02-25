@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Spy Next Door",
+  "url": "https://www.imdb.com/tt1273678/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI5MjEzMjM4N15BMl5BanBnXkFtZTcwODc0ODEwMw@@._V1_.jpg",
+  "description": "Former C.I.A. spy Bob Ho takes on his toughest assignment to date: looking after his girlfriend&apos;s three kids, who haven&apos;t exactly warmed to their mom&apos;s beau.",
+  "review": {
+    "author": "Chrysanthepop",
+    "dateCreated": "2010-05-18",
+    "inLanguage": "English",
+    "heading": "Chan Plays a Cool Funny Spy in a Done-to-Death Story",
+    "reviewBody": "OK, where story is concerned, there&apos;s nothing new here. Chan plays a spy on the verge of retirement because he wants to settle down with his girlfriend Gillian (Amber Valetta) and her annoying kids. Now the kids hate Chan and Gillian has to leave for a couple of days in order to spend some time with her ailing father. So who offers to look after the kids? It&apos;s not hard to see how clichéd the story is but it is Jackie Chan with his creative stunts who makes this a fun watch. The actor&apos;s flair for comedy has become common knowledge and he is as energetic as ever. Moreover, his pairing with the beautiful Valetta is refreshing. Valetta doesn&apos;t get much to do other than play the usual girlfriend/divorcée/mom of three but she holds her own. The rest of the cast is forgettable. The child actors are initially very annoying. They sort of grow on you as the film proceeds. Overall, the film is nothing out of the ordinary. It doesn&apos;t even compare to a majority Chan&apos;s superior works but at best it&apos;s an amusing one-time watch.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 46669,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2010-03-19",
+  "keywords": "man wears eyeglasses,aerial camera shot,cia central intelligence agency,slimehouse,principal",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Jackie Chan",
+      "url": "https://www.imdb.com/name/nm0000329/"
+    },
+    {
+      "name": "Amber Valletta",
+      "url": "https://www.imdb.com/name/nm0005520/"
+    },
+    {
+      "name": "Billy Ray Cyrus",
+      "url": "https://www.imdb.com/name/nm0004854/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brian Levant",
+      "url": "https://www.imdb.com/name/nm0505152/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jonathan Bernstein",
+      "url": "https://www.imdb.com/name/nm0077080/"
+    },
+    {
+      "name": "James Greer",
+      "url": "https://www.imdb.com/name/nm0007079/"
+    },
+    {
+      "name": "Gregory Poirier",
+      "url": "https://www.imdb.com/name/nm0201304/"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "I Capture the Castle",
+  "url": "https://www.imdb.com/tt0300015/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWQxZDUyODctMDc0Ni00OTgwLWIxZWItZWFkZWFkZDU3OWQ3XkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_.jpg",
+  "description": "A love story set in 1930s England that follows 17-year-old Cassandra Mortmain, and the fortunes of her eccentric family, struggling to survive in a decaying English castle.",
+  "contentRating": "PG",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2003-05-09",
+  "keywords": "female nudity, female topless nudity, suffolk england, year 1936, poverty",
+  "duration": "PT1H53M",
+  "actor": [
+    {
+      "name": "Romola Garai",
+      "url": "https://www.imdb.com/name/nm0304801/"
+    },
+    {
+      "name": "Rose Byrne",
+      "url": "https://www.imdb.com/name/nm0126284/"
+    },
+    {
+      "name": "Bill Nighy",
+      "url": "https://www.imdb.com/name/nm0631490/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tim Fywell",
+      "url": "https://www.imdb.com/name/nm0299563/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dodie Smith",
+      "url": "https://www.imdb.com/name/nm0807977/"
+    },
+    {
+      "name": "Heidi Thomas",
+      "url": "https://www.imdb.com/name/nm0858912/"
+    }
+  ],
+  "review": {
+    "author": "NIXFLIX-DOT-COM",
+    "dateCreated": "2003-09-24",
+    "inLanguage": "English",
+    "heading": "Subtle and Universal",
+    "reviewBody": "I CAPTURE THE CASTLE, despite its protagonist being a young 17-year old girl, offers a universal theme: love is beautiful and great, and it can also hurt. Everyone who has ever been a teen knows what the lead is going through -- unable to distinguish between love and lust, or even how the opposite sex feels about you. It's a magical time in a person's life, but it's also extremely frightening and confusing. So wander through the mine fields of love with care, but also know that the hurt can't possibly last, and will soon enough be replaced by another love.\n\n7 out of 10\n\n(go to www.nixflix.com for a more detailed review of the movie)",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 7938,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  }
+}

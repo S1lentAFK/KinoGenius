@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Two Faces of January",
+  "url": "https://www.imdb.com/tt1976000/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjk0MTE1NDIwNF5BMl5BanBnXkFtZTgwMDM2MjQwMjE@._V1_.jpg",
+  "description": "A thriller centered on a con artist, his wife, and a stranger who flee Athens after one of them is caught up in the death of a private detective.",
+  "review": {
+    "author": "rubenm",
+    "dateCreated": "2014-07-10",
+    "inLanguage": "English",
+    "heading": "Old-fashioned, decent thriller",
+    "reviewBody": "'The to faces of January' is an old-fashioned, decent thriller with a nice sixties setting and solid acting. Everything about it is immaculate. The plot is intelligent enough: a couple of rich tourists meet a young American tour guide, who accidentally witnesses the husband committing a crime. One thing leads to another, and soon enough the guide is caught in a web of lies and deceit, and it becomes impossible to escape without incriminating himself. The crime story is spiced up by the mutual romantic attraction between the guide and the young wife. There is even a sort of life lesson included: money is the root of all evil. \\n\\nThe movie is well worth seeing, if only because it is nice to see a film that's not experimental, violent, provocative, filled with special effects or in one way or another trying to be hip or trendy. \\n\\nI can see why so many reviewers make references to Hitchcock. The film is set in the early sixties, the era in which Hitch made some of his best films like 'The Birds' or 'Marnie'. Still, this film lacks the touch of a genius like Hitchcock. The characters have no extra psychological layers, and the unconventional scenes and themes that make the Hitchcock-movies so special, are absent in this film.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 33450,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Crime",
+    "Mystery",
+    "Romance"
+  ],
+  "datePublished": "2014-05-16",
+  "keywords": "greece,ruins,athens greece,american in europe,foot chase",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Viggo Mortensen",
+      "url": "https://www.imdb.com/name/nm0001557/"
+    },
+    {
+      "name": "Kirsten Dunst",
+      "url": "https://www.imdb.com/name/nm0000379/"
+    },
+    {
+      "name": "Oscar Isaac",
+      "url": "https://www.imdb.com/name/nm1209966/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Hossein Amini",
+      "url": "https://www.imdb.com/name/nm0024925/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Hossein Amini",
+      "url": "https://www.imdb.com/name/nm0024925/"
+    },
+    {
+      "name": "Patricia Highsmith",
+      "url": "https://www.imdb.com/name/nm0383604/"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+
+
+{
+  "type": "Movie",
+  "name": "Inside 'The Animatrix'",
+  "url": "https://www.imdb.com/tt5700244/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMThhM2QzZjItZDVlNC00MjI2LWExYzMtZDcwMWEwOTU0MTliXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 24,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "contentRating": null,
+  "genre": [
+    "Documentary",
+    "Short"
+  ],
+  "datePublished": null,
+  "keywords": "dvd extra",
+  "duration": "PT16M",
+  "actor": [
+    {
+      "name": "Michael Arias",
+      "url": "https://www.imdb.com/name/nm0034712/"
+    },
+    {
+      "name": "Peter Chung",
+      "url": "https://www.imdb.com/name/nm0161285/"
+    },
+    {
+      "name": "Dane A. Davis",
+      "url": "https://www.imdb.com/name/nm0204424/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Josh Oreck",
+      "url": "https://www.imdb.com/name/nm0649609/"
+    }
+  ],
+  "creator": []
+}

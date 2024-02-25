@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Passengers",
+  "url": "https://www.imdb.com/tt1355644/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjk4ZTMwMTYtOTk1NC00OTA0LWFhMGYtZTBjMzViMDY2YWZjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "description": "A malfunction in a sleeping pod on a spacecraft traveling to a distant colony planet wakes one passenger 90 years early.",
+  "review": {
+    "author": "Samirsbureau",
+    "dateCreated": "2016-12-22",
+    "inLanguage": "English",
+    "heading": "A highly enjoyable ride that unfortunately got rolled over by the Critics.",
+    "reviewBody": "After the trailer release of this movie it became one of this year's most anticipated movies, but some people were expecting something entirely different than what this movie aimed for, and the result was their disappointment. \\n\\nPeople need to be aware that this movie is an ADVENTURE/ROMANCE and a bit SCI-FI. NOT A SCI-FI 2001:SPACE ODYSSEY KIND OF MOVIE.\\n\\nI will start giving my own honest review of this movie. First of all, The acting in this movie is phenomenal, of course when you get 2 great actors like Chris Pratt and Jennifer Lawrence you know it would work in any kind of role, and it's true, the chemistry between both of them just works flawlessly and it's very gorgeous as they're both very handsome and it's just nice to see them on screen.\\n\\nThen comes the VISUALS, which i consider to be this year's best ( Along with Dr.Strange ), The best way to watch this movie is at a theater with a huge screen and definitely better to catch the 3D version. I really don't know where to start with the visuals because the whole movie is just beautifully shot and the CINEMATOGRAPHY of this film is perfectly done, probably each scene in this movie is Iconic. \\n\\nThe Plot wasn't as good as the other factors but still it managed to keep the pacing of the movie going and I was definitely not bored, even though the ending wasn't spectacular but again this isn't Christopher Nolan's Interstellar, this is just a movie about 2 lovers surviving on a spaceship alone.\\n\\nThe best way to describe this film is to say that it's Titanic all over again but in space and it's beautifully shot, emotional, and overall an exciting experience.\\n\\nIt's really sad that people misunderstood the point of this film and were going for a complex space/time plot instead of a simple good-looking love story, but I know that moviegoers will definitely like this film. Give it a try and if not for the story then just for Wonderful scenes and for the link between the 2 main characters\\n\\nConclusion: Great, Simple, Gorgeous and Highly Entertaining are the four things you'll be saying after watching this movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 441816,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "datePublished": "2016-12-21",
+  "keywords": "malfunction,spaceship setting,spacecraft,asteroid,outer space",
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Jennifer Lawrence",
+      "url": "https://www.imdb.com/name/nm2225369/"
+    },
+    {
+      "name": "Chris Pratt",
+      "url": "https://www.imdb.com/name/nm0695435/"
+    },
+    {
+      "name": "Michael Sheen",
+      "url": "https://www.imdb.com/name/nm0790688/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Morten Tyldum",
+      "url": "https://www.imdb.com/name/nm0878763/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jon Spaihts",
+      "url": "https://www.imdb.com/name/nm3123612/"
+    }
+  ]
+}

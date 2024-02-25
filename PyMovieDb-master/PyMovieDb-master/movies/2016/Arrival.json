@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Arrival",
+  "url": "https://www.imdb.com/tt2543164/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_.jpg",
+  "description": "A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.",
+  "review": {
+    "author": "tahseenahmed",
+    "dateCreated": "2019-01-11",
+    "inLanguage": "English",
+    "heading": "Time. Life. Gift. You. Gift. Life. Time.",
+    "reviewBody": "As a kid, my dad used to tell me stories at night just like any other dads out there. I grew up, got busy with life but those priceless timeless beautiful storytelling moments that I once shared, that amazed me in wonder, curiosity, imagination and desire to know more..\\n\\nI know if I think hard enough I might remember some of them, but that&apos;s not the point. The point is all those stories had characters and people and objects and places and things that I could either imagine or something that I could picture and understand and visualize in my young mind. If not for those imaginable characters and people, I would have never understood those stories, the true meaning of the story, the actual story behind the story that my dad probably wanted me to understand.\\n\\nArrival, for me is such a story. Aliens are just fun characters that help me understand the story so I can actually see beyond it and understand the untold story. You see, the way I understand it is that the director had to dumb it down for us and wrap this movie in a sci-fi genre and add aliens so you could relate it to something you are familiar with and hoped, really hoped that we try to understand the true purpose, the message behind all this. It simply couldn&apos;t have been portrayed better than this!\\n\\nThis movie teaches you a lot of things, if you are ready to learn. About &apos;time&apos; and how much we are bound by it, about life and death, about loving unconditionally, about believing in yourself that everything happens for a reason, and so much more..",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 756397,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "datePublished": "2016-11-10",
+  "keywords": "linguistics,alien contact,nonlinear timeline,linguist,first contact",
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Amy Adams",
+      "url": "https://www.imdb.com/name/nm0010736/"
+    },
+    {
+      "name": "Jeremy Renner",
+      "url": "https://www.imdb.com/name/nm0719637/"
+    },
+    {
+      "name": "Forest Whitaker",
+      "url": "https://www.imdb.com/name/nm0001845/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Denis Villeneuve",
+      "url": "https://www.imdb.com/name/nm0898288/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Eric Heisserer",
+      "url": "https://www.imdb.com/name/nm2104063/"
+    },
+    {
+      "name": "Ted Chiang",
+      "url": "https://www.imdb.com/name/nm5384213/"
+    }
+  ]
+}

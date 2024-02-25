@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Killing of John Lennon",
+  "url": "https://www.imdb.com/tt0881934/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI0MjEzNzczNl5BMl5BanBnXkFtZTcwMzQ5MjU1MQ@@._V1_.jpg",
+  "description": "A dramatization of Mark Chapman&apos;s plan to murder John Lennon.",
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2007-12-07",
+  "keywords": "character name in title,downward spiral,true crime,murder,year 1980",
+  "duration": "PT1H54M",
+  "actor": [
+    {
+      "name": "Jonas Ball",
+      "url": "https://www.imdb.com/name/nm1383977/"
+    },
+    {
+      "name": "Mie Omori",
+      "url": "https://www.imdb.com/name/nm1847178/"
+    },
+    {
+      "name": "Krisha Fairchild",
+      "url": "https://www.imdb.com/name/nm0265519/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrew Piddington",
+      "url": "https://www.imdb.com/name/nm0682061/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Piddington",
+      "url": "https://www.imdb.com/name/nm0682061/"
+    }
+  ],
+  "review": {
+    "author": "EXodus25X",
+    "dateCreated": "2008-08-10",
+    "inLanguage": "English",
+    "heading": "Doucumentary?",
+    "reviewBody": "In ways this felt closer to a dramatization then a film in the classic sense which I think was a great thing. It makes it feel as close to reality as a movie can be without being a documentary. Jonas Ball who plays Mark Chapman in this film is just amazing, I don&apos;t know exactly how close to reality he plays this character but honestly, so what, he is intense, interesting, unique and a force on screen. The film maker used transcripts from the trial and the diary of Chapman to create the dialogue in the film and that authenticates it enough for me, it opens a window into the mind of Chapman that most people would never know. I think the film did a great job, no an amazing job of making everything feel real, like cameras were catching this all as it unfolded. Even with the outcome already known to the audience the anticipation and intensity was at times at a very high level. I was glad the film did not stop earlier but instead went on past the killing into what I feel is the best moments of the film when you see the immediate transformation of Chapman and then slowly his return to insanity. This film proves that a single actors performance can truly make a film. My hats off to this director for recreating such a horrible event with what feels like such authenticity.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 1526,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  }
+}

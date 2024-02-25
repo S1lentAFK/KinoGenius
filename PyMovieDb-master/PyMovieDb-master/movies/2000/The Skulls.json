@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Skulls",
+  "url": "https://www.imdb.com/tt0192614/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODA2OTQ0NzctZTYwNi00N2E2LWJhN2UtOTc4N2UzYWRiOWVjL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A senior at an ivy league college, who depends on scholarships and working on the side, gets accepted into the secret society The Skulls. He hopes it betters chances at Harvard but The Skulls is not what he thought and comes at a ...",
+  "review": {
+    "author": "dfranzen70",
+    "dateCreated": "2000-10-31",
+    "inLanguage": "English",
+    "heading": "As secret as a presidential affair",
+    "reviewBody": "The Skulls is a thinly veiled allusion to one of the purportedly most secret of all secret societies, Skull and Bones, the Yale group to which George Bush (the former president) belonged. You know all about those secret societies; they breed smart, rich young men who will put other smart, rich young men in power, and then those men will put other smart, rich young men in power, and so forth and yadda yadda yadda. You can find out all sorts of things about Skull and Bones online, and I suppose there's a chance some of those things are actually true. But for the purposes of this movie - and this review - suffice to say that The Skulls is a small group mostly made up of rich white kids who get paid scholarships, free cars, free women, the whole works. And what does this secret society ask for in return? Unbound loyalty, of course. Unquestioning and absolute loyalty, kind of like the Mob, really, only the Mob is more overtly criminal.\\n\\nThe story focuses on Luke, a townie at Yale University. Luke wants to go to law school, but the tuition's a little high. He's parentless and low on funds, so of course he's prime pickings for The Skulls. Will he join them? Darn tootin' he will, despite the protests of his best friend and this hot young blonde he likes. They try to reason with him, believing their friendship is stronger than his need to be a lawyer, but they're wrong. If they were right, we'd have no movie.\\n\\nSo he joins, and wouldn't you know it, all kinds of bad things happen to poor Luke. There's murder, there's corruption, and gosh and golly, our boy just doesn't know who to trust. More twists than a Poe novel; the only problem is, they're not believable twists. If you're cynical about this kind of movie (as I am), you'll laugh out loud many times, both at the acting and the dialogue. The worst offense is in the timing, quite frankly. At no point are we led to believe that this society could be a GOOD thing. We know immediately it's bad. See, I think to be truly sinister you need to wear a mask of credibility. If I already know how bad you are, I won't be as afraid of you or as startled when you actually do something despicable.\\n\\nThis is a real chucklefest, in the same vein as Final Destination, Urban Legends, I Know What You Did Last Summer (both movies), and even the Scream movies, which I didn't care for (but I know many of you did, so whatcha gonna do). You have an attractive cast spouting incredible lines in unbelievable situations. The old moviegoer in us wonders what Jimmy Stewart or Gregory Peck would have done in this movie when they were younger (and, in Stewart's case, alive), but that's probably a philosophical debate best left to denizens of the old critics' home. As for me, I'd say pass on The Skulls - it's as hollow as its name might imply.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 33563,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2000-11-24",
+  "keywords": "cia central intelligence agency,coxswain,reference to bob woodward,atm,reference to pizza hut",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Joshua Jackson",
+      "url": "https://www.imdb.com/name/nm0005045/"
+    },
+    {
+      "name": "Paul Walker",
+      "url": "https://www.imdb.com/name/nm0908094/"
+    },
+    {
+      "name": "Hill Harper",
+      "url": "https://www.imdb.com/name/nm0004991/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rob Cohen",
+      "url": "https://www.imdb.com/name/nm0003418/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Pogue",
+      "url": "https://www.imdb.com/name/nm0688282/"
+    }
+  ]
+}

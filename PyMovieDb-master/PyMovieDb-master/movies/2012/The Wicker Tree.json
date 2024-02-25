@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Wicker Tree",
+  "url": "https://www.imdb.com/tt0323808/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkyNzkyODE5N15BMl5BanBnXkFtZTcwNjUxNzIxNw@@._V1_.jpg",
+  "description": "Charmed by the residents of Tressock, Scotland, two young missionaries accept the invitation to participate in a local festival, fully unaware of the consequences of their decision.",
+  "review": {
+    "author": "SnakesOnAnAfricanPlain",
+    "dateCreated": "2012-02-04",
+    "inLanguage": "English",
+    "heading": "The Wicker Tree (2010)",
+    "reviewBody": "The Wicker Man is one of the greatest and most original films you will ever see. For years I have anticipated this spiritual sequel, and so it's no surprise that I was very disappointed. It seems as though, despite years of rumours and hard work, once Hardy got around to making it, all the life had been sucked from him and the film. The Wicker Tree sees two born again Christians travel from America to Scotland to preach the word of Jesus. Unbeknownst to them, this is a place of pagan rituals and sacrifice. This film was certainly trying to parody moments from its predecessor at times. With some heavy handed moments of comedy. Unfortunately, The Wicker Man is one of those films where you laugh nervously at it. It may be easy to lampoon, but it also has fear interlaced with the weird. Here, everything seems slightly amateur and repetitive. The score has nothing on the original, and the songs are barely memorable. We are also given two protagonists that we don't care about. They are comedic clich\u00e9s of how super American Christians are. All they want to do is spread the word of Jesus in a cheesy cornball manor. Unlike Howie, who was a devote Christian fighting to find a missing girl. The Wicker Man seemed to triumph despite its flaws. Those are what added to the memorable quirks which happened organically. Here they are forced into the film, which means that some actors seem unsure as to whether this is a comedy, horror, satire, or thriller. It's none of these. I may revisit it one day without the expectations, but it makes me want to watch The Wicker Man again.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 2920,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Horror"
+  ],
+  "datePublished": "2011-08-27",
+  "keywords": "sex scene,female nudity,folk horror,supernatural horror,female topless nudity",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Brittania Nicol",
+      "url": "https://www.imdb.com/name/nm3579312/"
+    },
+    {
+      "name": "Henry Garrett",
+      "url": "https://www.imdb.com/name/nm2694680/"
+    },
+    {
+      "name": "Graham McTavish",
+      "url": "https://www.imdb.com/name/nm0574615/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robin Hardy",
+      "url": "https://www.imdb.com/name/nm0362736/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robin Hardy",
+      "url": "https://www.imdb.com/name/nm0362736/"
+    }
+  ]
+}

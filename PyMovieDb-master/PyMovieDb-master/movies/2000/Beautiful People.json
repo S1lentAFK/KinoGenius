@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Beautiful People",
+  "url": "https://www.imdb.com/tt0159272/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmQ5OGM2NTItNmY0MC00NGI1LWFkN2QtMTZiMzE4M2RhMzg4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+  "description": "In London, during October 1993, England is playing Holland in the preliminaries of the World Cup. The Bosnian War is at its height, and refugees from the ex-Yugoslavia are arriving. Football rivals, and political adversaries from ...",
+  "review": {
+    "author": "tim-182",
+    "dateCreated": "1999-09-22",
+    "inLanguage": "English",
+    "heading": "The funny side of Bosnia",
+    "reviewBody": "Beautiful People is an easy watch jet black comedy.Heroin addiction and extreme racism are given an improbable humorous edge in a way that you don't expect. The film has some startling switches in it. My only criticism would be that the scene explaining the psychiatrist's diagnosis of Bosnia Syndrome should have come earlier on to help explain to viewers the odd actions of the actors.\\n\\nNotwithstanding that it is a great film. Bonus points if you can pick out the scenes that were shot in Liverpool instead of London and watch out for handy hints on how to peg out washing with a head full of heroin !\\n\\nCllr Tim O'Kane",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 2564,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "War"
+  ],
+  "datePublished": "1999-09-17",
+  "keywords": null,
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Thomas Goodridge",
+      "url": "https://www.imdb.com/name/nm0329339/"
+    },
+    {
+      "name": "Faruk Pruti",
+      "url": "https://www.imdb.com/name/nm0699306/"
+    },
+    {
+      "name": "Tony Peters",
+      "url": "https://www.imdb.com/name/nm0676709/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jasmin Dizdar",
+      "url": "https://www.imdb.com/name/nm0229026/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jasmin Dizdar",
+      "url": "https://www.imdb.com/name/nm0229026/"
+    }
+  ]
+}

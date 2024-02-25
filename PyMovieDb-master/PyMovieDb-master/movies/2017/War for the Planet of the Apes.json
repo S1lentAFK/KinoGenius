@@ -1,0 +1,49 @@
+{
+  "type": "Movie",
+  "name": "War for the Planet of the Apes: Music for Apes",
+  "url": "https://www.imdb.com/tt8514726/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTUzYzVlZDItNGIzMi00Yzg5LWJjNjAtOGEyOTNiNzlkYmNjXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_.jpg",
+  "description": "This involves Reeves and composer Michael Giacchino. We visit the recording studio and hear from Emil Richards, the percussionist who has worked on all the Apes movies since 1968.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 31,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8
+  },
+  "contentRating": null,
+  "genre": [
+    "Documentary",
+    "Short"
+  ],
+  "datePublished": "2017-10-24",
+  "keywords": "dvd extra,psychotronic filmmaking",
+  "duration": "PT6M",
+  "actor": [
+    {
+      "name": "Michael Giacchino",
+      "url": "https://www.imdb.com/name/nm0315974/"
+    },
+    {
+      "name": "Matt Reeves",
+      "url": "https://www.imdb.com/name/nm0716257/"
+    },
+    {
+      "name": "Emil Richards",
+      "url": "https://www.imdb.com/name/nm0724079/"
+    }
+  ],
+  "director": [],
+  "creator": []
+}

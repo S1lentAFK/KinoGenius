@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Lady in the Water",
+  "url": "https://www.imdb.com/tt0452637/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEyNTc0NTk5M15BMl5BanBnXkFtZTcwMDE5NzkyMw@@._V1_.jpg",
+  "description": "Apartment building superintendent Cleveland Heep rescues what he thinks is a young woman from the pool he maintains. When he discovers that she is actually a character from a bedtime story who is trying to make the journey back to...",
+  "contentRating": "PG",
+  "genre": [
+    "Drama",
+    "Fantasy",
+    "Mystery"
+  ],
+  "datePublished": "2006-08-11",
+  "keywords": "nymph,dark fantasy,film critic,urban fantasy,written and directed by cast member",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Paul Giamatti",
+      "url": "https://www.imdb.com/name/nm0316079/"
+    },
+    {
+      "name": "Bryce Dallas Howard",
+      "url": "https://www.imdb.com/name/nm0397171/"
+    },
+    {
+      "name": "Jeffrey Wright",
+      "url": "https://www.imdb.com/name/nm0942482/"
+    }
+  ],
+  "director": [
+    {
+      "name": "M. Night Shyamalan",
+      "url": "https://www.imdb.com/name/nm0796117/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "M. Night Shyamalan",
+      "url": "https://www.imdb.com/name/nm0796117/"
+    }
+  ],
+  "review": {
+    "author": "vikku30",
+    "dateCreated": "2021-08-18",
+    "inLanguage": "English",
+    "heading": "Great movie with a bad rating - Critics surely took it personally",
+    "reviewBody": "I recently discovered Night Shyamalan and have fallen in love with his style. This is his 7th movie that I watched and I had low expectations considering the bad rating.\n\nAfter watching the movie my love for Shyamalan's magic has only increased. I still don't understand why this movie has poor rating. This was released in 2006 and maybe the audience at the time had a different kind of expectation or maybe as in the case of the movie The Village, even this movie was marketed wrongly.\n\nI read some extremely critical reviews and they seemed more like a personal attack than an well thought out critic. This man certainly has the audience divided for some reason.\n\nWatch it with an open mind and try to get involved in the story rather than trying to find logic and watch through the lens of a miserable critic (they're not always right - you'll seen that in the movie)",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 103312,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  }
+}

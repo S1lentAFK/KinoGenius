@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Tinker Tailor Soldier Spy",
+  "url": "https://www.imdb.com/tt1340800/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU2OTkwNzMyM15BMl5BanBnXkFtZTcwOTI4ODg2Ng@@._V1_.jpg",
+  "description": "In the bleak days of the Cold War, espionage veteran George Smiley is forced from semi-retirement to uncover a Soviet Agent within MI6.",
+  "review": {
+    "author": "imagiking",
+    "dateCreated": "2011-09-17",
+    "inLanguage": "English",
+    "heading": "A Genuine Achievement",
+    "reviewBody": "Boldly announcing himself upon the stage of international cinema with 2009's Let the Right One In, the significant critical and commercial acclaim accorded director Thomas Alfredson clearly proved him a filmmaker capable of pulling off high quality adaptations of complex and dark literary sources.\\n\\nCalled back into service to uncover the identity of a Soviet mole at the height of the Cold War, retired British intelligence operative George Smiley is tasked with unwinding a vastly convoluted web of conspiracy, codenames, double agents, and deceit.\\n\\nThe movement from relatively low-budget foreign language filmmaking to helming star casts in comparably costly productions is one that, historically, holds significant risk for directorial careers. Add to the mix the danger of bringing a much-loved novel to life on screen, and Alfredson is certainly faced with a substantial task. An espionage thriller, Tinker Tailor Soldier Spy\\u2014based on John le Carr\\u00e9's book\\u2014throws an extremely layered narrative at its audience and insists they keep up, making little in the way of allowance for those accustomed to excess plot exposition. Concerning an approximate dozen key characters\\u2014most of whom go by at least two names\\u2014the film contains a considerable quantity of raw information to be processed, particularly considering its reserved pace; the camera scrolls slowly across the screen in step with the story's measured progression, constantly moving along yet never losing the integral tension of its hastelessness. Alfredson and screenwriters Bridget O'Connor and Peter Straughan demonstrate a keenness for the more tensely-oriented end of the genre, delving into an atmosphere of unease rather than one of brisk spy action. There is almost an air of claustrophobia to much of the film, the caliginous cinematography and mysterious score combining to evoke an aura of noir paranoia. Much like Let the Right One In, Tinker Tailor Soldier Spy boasts a thrilling visual panache; indeed, Hoyte van Hoytema's cinematography is oftentimes so remarkably involving that entire scenes may pass by without any absorption of the dialogical details disclosed therein\\u2014the brain is simply too overcome by the aesthetic bombardment of visual pleasure to decipher the explicit aural signals. One particular shot\\u2014an extreme close-up of Smiley's wearied face draped in shadow\\u2014 affords the audience the time to study the furrowed ridges of his forehead and the weighted bags of his eyelids, giving us an entitled sense of knowledge of, and familiarity with, this character. It seems almost redundant to offer praise to the film's extraordinary cast; a brief glance at the list of exemplary names will disclose the sheer calibre of talent on display: a veritable dream team of the finest names of modern British cinema. From Firth to Hurt, Hardy to Cumberbatch, Oldman to Dencik, the phenomenal cast plays beautifully together, each actor inhabiting their character with award-courting flair. Where Tinker Tailor Soldier Spy really shines is in its characterisation\\u2014an all-too often underutilised aspect in this genre\\u2014each of them distinctly human rather than simply mouths through which the plot developments are channelled. Their primary concern may be with their espionage, but ours is with them: exploring their motivations; their private lives; their loyalties; and just how a career like theirs affects an existence. A recurring Christmas party scene revisited a number of times throughout the film reminds us regularly that these intelligence agents are not solely extensions of the government's facilities, but rather human beings with emotions, afflicted by the agonies of their toils, burying themselves in vodka-laced punch to just get away from it all.\\n\\nHitting all the right notes in its performances, script, and direction, Tinker Tailor Soldier Spy triumphantly infuses a challengingly multifarious narrative with a deeper humanity, questioning by proxy the way in which devotion to duty affects all aspects of our lives. Shot with unforgettable effulgence\\u2014committing to memory eternal every last contour of Oldman's storied brow\\u2014it is a genuine achievement in cinematic storytelling.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 211333,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2011-09-16",
+  "keywords": "mole,spy,cold war,double agent,woman on top",
+  "duration": "PT2H7M",
+  "actor": [
+    {
+      "name": "Gary Oldman",
+      "url": "https://www.imdb.com/name/nm0000198/"
+    },
+    {
+      "name": "Colin Firth",
+      "url": "https://www.imdb.com/name/nm0000147/"
+    },
+    {
+      "name": "Tom Hardy",
+      "url": "https://www.imdb.com/name/nm0362766/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tomas Alfredson",
+      "url": "https://www.imdb.com/name/nm0019247/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John le Carr\\u00e9",
+      "url": "https://www.imdb.com/name/nm0494170/"
+    },
+    {
+      "name": "Bridget O'Connor",
+      "url": "https://www.imdb.com/name/nm2091799/"
+    },
+    {
+      "name": "Peter Straughan",
+      "url": "https://www.imdb.com/name/nm1661186/"
+    }
+  ]
+}

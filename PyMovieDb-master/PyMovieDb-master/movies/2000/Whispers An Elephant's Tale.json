@@ -1,0 +1,75 @@
+
+
+{
+  "type": "Movie",
+  "name": "Whispers: An Elephant's Tale",
+  "url": "https://www.imdb.com/tt0185007/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzZhN2FjM2MtYTYxMS00MjkyLWI4YWYtMjEzZjYxMzYwZjM1XkEyXkFqcGdeQXVyMTIwMjk5NTky._V1_.jpg",
+  "description": "A baby elephant named Whispers finds himself separated from his mother. On his search to find her, he pairs up with an outcast from another herd and together they brave the wilds of Africa.",
+  "contentRating": "G",
+  "genre": [
+    "Adventure",
+    "Family"
+  ],
+  "datePublished": "2023-03-04",
+  "keywords": "animal character name as title,whispers the elephant character,four word title,elephant,botswana",
+  "duration": "PT1H12M",
+  "rating": {
+    "ratingCount": 408,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5
+  },
+  "review": {
+    "author": "RosanaBotafogo",
+    "dateCreated": "2022-12-03",
+    "inLanguage": "English",
+    "heading": "Adorable...",
+    "reviewBody": "In this live-action film, an orphaned baby African elephant named Whispers wanders alone in the desert. Fortunately, he finds a mother figure in Groove (Angela Bassett), an older female elephant who often travels alone. The unlikely pair of pachyderms roam various dangerous environments and do their best to avoid lurking predators. As they search for a legendary riverside safe haven, Whispers and Groove gradually form a close bond.\\n\\nThis footage of animal life always enchants and intrigues me, I wonder how much time I spent in the middle of the savannah to acquire perfect images, I&apos;ve already watched a documentary about it, the difficulties faced by these cameramen, and when creating a cute little story/script and fantastic that makes everything more passionate and captivating... Adorable...",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 408,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5
+  },
+  "actor": [
+    {
+      "name": "Angela Bassett",
+      "url": "https://www.imdb.com/name/nm0000291/"
+    },
+    {
+      "name": "Joanna Lumley",
+      "url": "https://www.imdb.com/name/nm0525921/"
+    },
+    {
+      "name": "Anne Archer",
+      "url": "https://www.imdb.com/name/nm0000271/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dereck Joubert",
+      "url": "https://www.imdb.com/name/nm0431049/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dereck Joubert",
+      "url": "https://www.imdb.com/name/nm0431049/"
+    },
+    {
+      "name": "Beverly Joubert",
+      "url": "https://www.imdb.com/name/nm0431044/"
+    },
+    {
+      "name": "Jordan Moffet",
+      "url": "https://www.imdb.com/name/nm0595623/"
+    }
+  ]
+}

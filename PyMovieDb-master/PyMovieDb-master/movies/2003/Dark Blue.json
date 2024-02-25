@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Dark Blue",
+  "url": "https://www.imdb.com/tt0279331/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjg5YjdiYjYtZmNmNC00YTFkLWFhMjQtNTE1MDJlYjAyOGVkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": "A robbery homicide investigation triggers a series of events that will cause a corrupt LAPD officer to question his tactics.",
+  "review": {
+    "author": "itsparsley",
+    "dateCreated": "2009-10-12",
+    "inLanguage": "English",
+    "heading": "Surprised I hadn&apos;t seen this",
+    "reviewBody": "Dark Blue was one of those movies I saw the trailer for back when it was first coming out in theaters that I had always wanted to see. For one reason or another I put it off and I eventually forgot about it. Over time some fellow film fans said this was worth watching and deserves a look. Kurt Russell&apos;s character is mean and lovable. He&apos;s a dirty cop, but we&apos;re with him every step of the way. There is a little bit of Training Day in this but one could argue Dark Blue is dirtier and angrier. This is not a typical character for Kurt Russell, and it&apos;s one of his best films from the past 10 years. I was surprised I hadn&apos;t seen this back when it came out. If you love Kurt, action films, and cop stories than Dark Blue is for you. Overall a good movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 23903,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2003-07-04",
+  "keywords": "year 1992,f word,neo noir,corrupt cop,police officer",
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Kurt Russell",
+      "url": "https://www.imdb.com/name/nm0000621/"
+    },
+    {
+      "name": "Ving Rhames",
+      "url": "https://www.imdb.com/name/nm0000609/"
+    },
+    {
+      "name": "Scott Speedman",
+      "url": "https://www.imdb.com/name/nm0005454/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ron Shelton",
+      "url": "https://www.imdb.com/name/nm0005421/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Ellroy",
+      "url": "https://www.imdb.com/name/nm0255278/"
+    },
+    {
+      "name": "David Ayer",
+      "url": "https://www.imdb.com/name/nm0043742/"
+    }
+  ]
+}

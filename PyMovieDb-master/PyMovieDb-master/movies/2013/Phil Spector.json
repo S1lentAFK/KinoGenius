@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Agony and the Ecstasy of Phil Spector",
+  "url": "https://www.imdb.com/tt1518821/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjQ5NzE5YjQtODg3OC00NDIyLWFlZDItODA1MTVmYjI3YTRhXkEyXkFqcGdeQXVyMjM3ODA2NDQ@._V1_.jpg",
+  "description": null,
+  "contentRating": "Unrated",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2010-06-30",
+  "keywords": null,
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Lana Clarkson",
+      "url": "https://www.imdb.com/name/nm0165096/"
+    },
+    {
+      "name": "Bobby Hatfield",
+      "url": "https://www.imdb.com/name/nm0368825/"
+    },
+    {
+      "name": "Bill Medley",
+      "url": "https://www.imdb.com/name/nm0575830/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Vikram Jayanti",
+      "url": "https://www.imdb.com/name/nm0419683/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mick Brown",
+      "url": "https://www.imdb.com/name/nm14683844/"
+    }
+  ],
+  "review": {
+    "author": "BigSkyMax",
+    "dateCreated": "2013-04-08",
+    "inLanguage": "English",
+    "heading": "Two more tragic victims of guns",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 243,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  }
+}

@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "All the King's Men",
+  "url": "https://www.imdb.com/tt0041113/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjQyN2MwMjAtNmJmZS00OWZlLWE1NGQtOGZmYmRjZjIyNWEyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+  "description": "The rise and fall of a corrupt politician, who makes his friends richer and retains power by dint of a populist appeal.",
+  "review": {
+    "author": "telegonus",
+    "dateCreated": "2001-07-20",
+    "inLanguage": "English",
+    "heading": "Still Gutsy After All These Years",
+    "reviewBody": "All the King's Men was a gutsy film in its day, and wonder of wonders it still plays this way after all these years. It's probably, with the exception of Beat the Devil, the most ragged film to ever achieve classic status. Directed by Robert Rossen, adapted from a novel by Robert Penn Warren, and strikingly photographed in cinema verite style by Burnett Guffey, it tells the story of the rise and fall of a Huey Long-like politician who starts out as a good guy, if a bit of a bully, and winds up a very bad guy, and even more of a bully, as he takes political control of his state.\\n\\nThere are dozens of things wrong with the movie. It feels rushed, as if edited down from a much longer film. The editing creates an uncomfortable, jarring effect that makes it difficult at times not only to watch the movie but to follow it. It has some dreadful acting among many of its major players, while several of the smaller roles are quite well cast with interesting faces, which creates a tantalizing effect, as if the good stuff, the interesting inside dope stuff that we really want to know about, is too hot for the movie to handle, so we have to settle for a glance, a gesture, a heavy overcoat, and draw our conclusions accordingly. There's a cheap look to the film, not only in scenes where things are supposed to look shabby, like ramshackle farmhouses, but in the mansions of the rich and the governor's office. Nor is there much specificity in the movie. In the novel the state was clearly Southern, while in the movie it could just as well be California or Illinois. And the frenetic pace of the film seems tied to the staccato delivery of Broderick Crawford in the leading role, as if Crawford himself had produced, directed and written the movie to fit his personal idiosyncrasies like a glove.\\n\\nAs luck would have it, these 'wrong' things make All the King's Men work better than a smoother, fancier, more refined approach could ever have done. Its newsreel intensity makes it feel real. The bad performances by relatively unknown actors likewise gives their characters the effect of being actual people who, after all don't always behave or speak as they ought to. In the unattractive sets we see things that look like life rather than movie life, as rich men's homes are not always pleasing to behold, and state capitals and court houses often have a rundown look. Brod Crawford plays his role as a grade B heavy, with perhaps a scintilla more charm, and his bull-necked King Of Alcatraz style of acting suits his character well; and if one finds Crawford too typically a Hollywood bad guy I recommend the documentary film Point Of Order, in which Sen. Joe McCarthy, with no dramatic training whatsoever, could well be Crawford's soul-mate, or at the very least his brother.\\n\\nWhy do these elements work so well in All the King's Men and not in other movies, where a mess is just a mess? I think the political nature of the film made it controversial from the get-go. It probably was severely edited to take out 'offensive' material (i.e. anything that might appear to reflect badly on an actual person). The quick, driving pace gives the film at times the sensibility of a tabloid, certainly not Rossen's intent, but luckily this let's-rip-the-lid-off-of-everything feeling that the movie just naturally has suggests perhaps an even deeper problem at the core of its story than just one crazy man's ambitions gone wild, and as a result the film is in many places suggestive, and seems profound when what lies behind this impression is perhaps a deliberate vagueness on the part of Rosson & Co., which in turn forces the viewer to try to sort things out for himself, using the movie as a series of signposts, and what results is a more profound experience than the film itself: the film one plays in one's mind.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 16416,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "U",
+  "genre": [
+    "Drama",
+    "Film-Noir"
+  ],
+  "datePublished": null,
+  "keywords": "politician,governor,rise and fall,election campaign,political corruption",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Broderick Crawford",
+      "url": "https://www.imdb.com/name/nm0002024/"
+    },
+    {
+      "name": "John Ireland",
+      "url": "https://www.imdb.com/name/nm0409869/"
+    },
+    {
+      "name": "Joanne Dru",
+      "url": "https://www.imdb.com/name/nm0238445/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Rossen",
+      "url": "https://www.imdb.com/name/nm0744035/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Penn Warren",
+      "url": "https://www.imdb.com/name/nm0913014/"
+    },
+    {
+      "name": "Robert Rossen",
+      "url": "https://www.imdb.com/name/nm0744035/"
+    }
+  ]
+}

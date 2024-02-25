@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Experimenter",
+  "url": "https://www.imdb.com/tt3726704/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU5NjU1MTE5NV5BMl5BanBnXkFtZTgwODE1MDQzNjE@._V1_.jpg",
+  "description": "In 1961, famed social psychologist Stanley Milgram conducted a series of radical behavior experiments that tested ordinary humans&apos; willingness to obey authority.",
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2015-11-12",
+  "keywords": "psychologist,electric shock,human behavior,milgram,experiment",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "John Palladino",
+      "url": "https://www.imdb.com/name/nm3746649/"
+    },
+    {
+      "name": "Anthony Edwards",
+      "url": "https://www.imdb.com/name/nm0000381/"
+    },
+    {
+      "name": "Jim Gaffigan",
+      "url": "https://www.imdb.com/name/nm0300712/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Almereyda",
+      "url": "https://www.imdb.com/name/nm0021899/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Almereyda",
+      "url": "https://www.imdb.com/name/nm0021899/"
+    }
+  ],
+  "review": {
+    "author": "ryn-06139",
+    "dateCreated": "2015-10-18",
+    "inLanguage": "English",
+    "heading": "My Wife Hated it I loved it.",
+    "reviewBody": "Yes, as many other reviewers have eluded, the movie can be a bit dry. My wife got lost in the message because she lost interest rather quickly. It wasn&apos;t until I explained the message the movie was trying to convey that she seemingly became more interested.\\n\\n**spoiler** Watch it until the end, the message is rather powerful. I specifically liked the ending because (Sasha) Stanley&apos;s wife allowed herself to fall in the same class when the nurse made her fill the paperwork while Stanley is having a heart attack. In this instance, I felt like I would have called BS and told the nurse to get a doctor ASAP, instead of calmly filling out the paperwork like she was doing. But then again, that&apos;s exactly the message the movie was delivering, that we easily follow orders without question even against what we think is right.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 19594,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  }
+}

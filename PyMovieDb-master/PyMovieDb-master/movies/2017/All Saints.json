@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "All Saints",
+  "url": "https://www.imdb.com/tt4663548/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMwODgxMDU4OV5BMl5BanBnXkFtZTgwMDMzNDQ3MjI@._V1_.jpg",
+  "description": "When a group of Burmese refugees join the congregation, the pastor of a failing Anglican church attempts to aid them by planting crops and enlisting the help of the community.",
+  "review": {
+    "author": "jrneptune",
+    "dateCreated": "2018-06-23",
+    "inLanguage": "English",
+    "heading": "I went in not expecting to like it. I ended up loving it.",
+    "reviewBody": "Everything I was seeing told me to expect another feel good preachy movie. Where folks have an obstacle and overcome it with faith.\n\nIt was so much more than that and a great and inspiring message for all of humanity. There indeed obstacles, many major ones. How those obstacles are faced and overcome and how they change people and their community was worth the watch and even worthy of a movie ticket in my opinion.\n\nIf you have not seen it please do.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 1924,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2017-08-25",
+  "keywords": "based on true story,hope,farming,faith,husband wife relationship",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "John Corbett",
+      "url": "https://www.imdb.com/name/nm0179173/"
+    },
+    {
+      "name": "Cara Buono",
+      "url": "https://www.imdb.com/name/nm0120648/"
+    },
+    {
+      "name": "Myles Moore",
+      "url": "https://www.imdb.com/name/nm6555604/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steve Gomer",
+      "url": "https://www.imdb.com/name/nm0326837/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steve Armour",
+      "url": "https://www.imdb.com/name/nm4224372/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Beneath the Darkness",
+  "url": "https://www.imdb.com/tt1781775/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzY1MjAzNTgzM15BMl5BanBnXkFtZTcwMzU5NzYxNw@@._V1_.jpg",
+  "description": "After watching their best friend get murdered, a group of teens struggle to expose a local hero as the vicious killer and keep from becoming his next victims.",
+  "review": {
+    "author": "MattyGibbs",
+    "dateCreated": "2013-04-05",
+    "inLanguage": "English",
+    "heading": "Very very average",
+    "reviewBody": "A horror/thriller starring Dennis Quaid looked a decent prospect on paper however from the start it was pretty clear this would be no masterpiece. It reminded me quite a bit of Disturbia but this was nowhere near as good or well acted as that film. \\n\\nDennis Quaid is a decent actor but unfortunately this is not one of his best efforts and I found him way over the top and unbelievable in this role. The supporting cast are no more than adequate at best.\\n\\nThere are a few tense moments but the plot jumps all over the place and so these moments are not enough to sustain interest throughout the film. \\n\\nThis film may appeal to younger teenagers but older viewers will have seen this all before and done far better. Overall this is a disappointing and distinctly unmemorable film.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 6319,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2012-03-22",
+  "keywords": "corpse,psychopath,high school,buried alive,tied feet",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Dennis Quaid",
+      "url": "https://www.imdb.com/name/nm0000598/"
+    },
+    {
+      "name": "Tony Oller",
+      "url": "https://www.imdb.com/name/nm1483372/"
+    },
+    {
+      "name": "Aimee Teegarden",
+      "url": "https://www.imdb.com/name/nm1631435/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Martin Guigui",
+      "url": "https://www.imdb.com/name/nm0346841/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bruce Wilkinson",
+      "url": "https://www.imdb.com/name/nm4192363/"
+    }
+  ]
+}

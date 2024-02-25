@@ -1,0 +1,75 @@
+
+
+{
+  "type": "Movie",
+  "name": "Horrible Bosses 2",
+  "url": "https://www.imdb.com/tt2170439/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzFjYWVhYzYtMDZjNi00ZTc5LTk1MWQtNTBlZTA1MDFhMzY3XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg",
+  "description": "Dale, Kurt and Nick decide to start their own business but things don't go as planned because of a slick investor, prompting the trio to pull off a harebrained and misguided kidnapping scheme.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2014-11-28",
+  "keywords": [
+    "scene during end credits",
+    "sex addict",
+    "sex tape",
+    "singing in a car",
+    "reference to franz beckenbauer"
+  ],
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "Jason Bateman",
+      "url": "https://www.imdb.com/name/nm0000867/"
+    },
+    {
+      "name": "Jason Sudeikis",
+      "url": "https://www.imdb.com/name/nm0837177/"
+    },
+    {
+      "name": "Charlie Day",
+      "url": "https://www.imdb.com/name/nm0206359/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sean Anders",
+      "url": "https://www.imdb.com/name/nm1890845/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sean Anders",
+      "url": "https://www.imdb.com/name/nm1890845/"
+    },
+    {
+      "name": "John Morris",
+      "url": "https://www.imdb.com/name/nm1898234/"
+    },
+    {
+      "name": "Jonathan Goldstein",
+      "url": "https://www.imdb.com/name/nm0326246/"
+    }
+  ],
+  "review": {
+    "author": "deepfrieddodo",
+    "dateCreated": "2022-12-11",
+    "inLanguage": "English",
+    "heading": "Weaker Than The First, Still Stronger Than Most",
+    "reviewBody": "Whilst not to the standards of it's predecessor, Horrible Bosses 2 is still better than most comedy films released in the same period. Keeping the same dynamic that made the first successful, each character's traits are emphasised another notch, whether it be stupidity, sexualisation or frustration. It makes the trio a little less relatable, and causes the dialogue to feel a little more scripted, rather than the improvisation that worked so well previously.\\n\\nDespite that, this film is still lots of fun, as the failed killers turn their attention to kidnapping. Secondary characters from the first film return and in many ways make more of an impact, plus those added are distinct enough to keep things interesting.\\n\\nThe best stuff comes from the three leads spontaneously interacting with one another, and overall this is another fun, light-hearted film that is very much directed to a more mature audeince.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 183603,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  }
+}

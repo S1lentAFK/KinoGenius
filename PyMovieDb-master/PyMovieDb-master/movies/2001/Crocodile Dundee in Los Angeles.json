@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "Crocodile Dundee in Los Angeles",
+  "url": "https://www.imdb.com/tt0231402/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGVhYjA3NjAtOGIyZS00MmY0LThlZTEtMzAzZWQ2NzkwMjlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "ccthemovieman-1",
+    "dateCreated": "2006-05-10",
+    "inLanguage": "English",
+    "heading": "OK, But They Went To The Well Once Too Often",
+    "reviewBody": "They went one-too-many in the Crocodile Dundee series with this third film. The sequel (Dundee II) was very good and that should have been the end of it. By the time this third one was made, Paul Hogan was putting on the wrinkles fast (although still in shape) and co-star/wife Linda Kozlowski had put on a few pounds.\\n\\nThe movie didn't fare well, maybe because the humor dominated instead of a balanced mix of it with drama, humor and romance as the other two films emphasized. Also, this story had done before in the first movie, with the Australian coping with America in New York so we didn't a replay of that in Los Angeles.\\n\\nOne thing nice about this film: it was nice in a mellow sort of way. There is a gentleness to it, a nice tone which you don't often see in today's R-rated dominated film industry....and it still was entertaining, for the most part. It's just too much familiar ground and added very little to what the first two films showed.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 26113,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2001-08-24",
+  "keywords": [
+    "beverly hills california",
+    "los angeles california",
+    "hollywood california",
+    "film studio",
+    "movie studio"
+  ],
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Paul Hogan",
+      "url": "https://www.imdb.com/name/nm0001357/"
+    },
+    {
+      "name": "Linda Kozlowski",
+      "url": "https://www.imdb.com/name/nm0468957/"
+    },
+    {
+      "name": "Jere Burns",
+      "url": "https://www.imdb.com/name/nm0122716/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Simon Wincer",
+      "url": "https://www.imdb.com/name/nm0934578/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Paul Hogan",
+      "url": "https://www.imdb.com/name/nm0001357/"
+    },
+    {
+      "name": "Matthew Berry",
+      "url": "https://www.imdb.com/name/nm0077626/"
+    },
+    {
+      "name": "Eric Abrams",
+      "url": "https://www.imdb.com/name/nm0009177/"
+    }
+  ]
+}

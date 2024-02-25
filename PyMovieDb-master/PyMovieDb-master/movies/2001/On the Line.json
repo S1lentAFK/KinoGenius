@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "On the Line",
+  "url": "https://www.imdb.com/tt14824590/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjAzMmFlMGMtNzQ4Mi00NGM1LTk4MzYtOGNjYzczNzUyNmU5XkEyXkFqcGdeQXVyMjAxMDczOTQ@._V1_.jpg",
+  "description": "A host takes a call, where an unknown person threatens to kill the showman's entire family on air. To save loved ones, the radio host will have to play a survival game and the only way to win is to find out the identity of the criminal.",
+  "review": {
+    "author": "dima-12",
+    "dateCreated": "2022-11-07",
+    "inLanguage": "English",
+    "heading": "Well-made programmer with an inspired star turn",
+    "reviewBody": "On the Line by Romuald Boulanger is a resourceful and well-acted Mel Gibson vehicle in which director smartly puts his star front and center for an hour and the half and charisma does the rest.\n\nMel Gibson's recent output - with the exception of extraordinary Father Stu - consists of so-called geezer teasers which featured him supporting roles simply distributed throughout the runtime in order to make him seem like an important character. However, unlike Bruce Willis whose late pre-retirement output was based around similar projects, Mel Gibson never phoned it in and always did his best even with low-grade material.\n\nThus giving Mel Gibson the actual spotlight and making the film that really relies on his star power in a leading role is a coup not just for this project but for Mel's fans as well. After a long while, maybe after Blood Father made by another Frenchman Jean-Francois Richet we see Mel actually running the proceedings with authority.\n\nThe first act of the picture feels not only genuinely inspired but loads of gallows humour and the genuine sense that Elvis Cooney is a real edgelord feels as if Mel was really hands on even when it comes to the script. In later developments which rely on the closed quarters thriller dynamics and feel slightly mechanical, Mel Gibson elevates the material.\n\nBoulanger surrounds Gibson with an international cast with some great elements but their multiple accents do remind us that film is set in Los Angeles but shot in Paris. Maybe, some decisions could have been different when it comes to either setting or cast, but otherwise the production is resourceful and decently mounted.\n\nIn the end, the only element that could have been better is the thriller element. With more inventive set-up, something along the lines of good Blumhouse work and with Mel's performance which is already there this could have been a classic.\n\nAnyhow it's a really good programmer with an inspired turn by Mel Gibson.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 10998,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Thriller"
+  ],
+  "datePublished": "2023-02-03",
+  "keywords": "psychological thriller,criminal,radio station,security guard,bare chested man",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Mel Gibson",
+      "url": "https://www.imdb.com/name/nm0000154/"
+    },
+    {
+      "name": "William Moseley",
+      "url": "https://www.imdb.com/name/nm0608440/"
+    },
+    {
+      "name": "Alia Seror-O'Neill",
+      "url": "https://www.imdb.com/name/nm6844615/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Romuald Boulanger",
+      "url": "https://www.imdb.com/name/nm3409161/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Romuald Boulanger",
+      "url": "https://www.imdb.com/name/nm3409161/"
+    }
+  ]
+}

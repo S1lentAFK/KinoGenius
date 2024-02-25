@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "How the Grinch Stole Christmas",
+  "url": "https://www.imdb.com/tt0170016/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWNiNTczNzEtMjQyZC00MjFmLTkzMDMtODk4ZGMyZmE0N2E4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "description": "On the outskirts of Whoville lives a green, revenge-seeking Grinch who plans to ruin Christmas for all of the citizens of the town.",
+  "review": {
+    "author": "Chrysanthepop",
+    "dateCreated": "2009-01-30",
+    "inLanguage": "English",
+    "heading": "Giggling With Jim Carrey's 'Grinch'.",
+    "reviewBody": "Howard's 'How the Grinch Stole Christmas' is a delightful family flick that both adults and children can enjoy (mostly with each other). It is basically an adaptation of the famous children's books and what the audience gets is a pleasant Christmas treat. Price's screenplay is brilliant as he cleverly manages to include some adult humour.\\n\\nThe world of Whoville is beautifully constructed and created, full of colour, life, energy and spirit. The vivacious characters are full of positive energy and while it is over the top, it is all done within the context and none of it appears out of place. The CGI team and makeup crew deserve full credit for making the characters and settings so lifelike, bringing out a lot of detail and appearing authentic. The set designs are stunning and the cinematography is just as energetic as the characters.\\n\\nChild actress Taylor Momsen is absolutely. The cute dog also turns in a fine performance. Jeffrey Tambor, a very sexy Christine Baranski, Bill Irwin and Molly Shannon are first rate. However, what would 'How the Grinch Stole Christmas' be without Jim Carrey? Carrey is simply fantastic as he immerses himself entirely into the character. It's a role that has Jim Carrey written all over it. The actor has immortalized the Grinch on screen.\\n\\nThe movie itself is not an exact 100% adaptation of the book as there are a few changes. The romance between the Grinch and Martha May could have been better developed. Other than the actors mentioned above, the rest of the cast hardly have anything to do than make fleeting appearances. Yet, 'How the Grinch Stole Christmas' is a charming little Christmas family film that is dazzling to look at and hugely enjoyable with the whole family.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 289861,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2000-12-01",
+  "keywords": "dog,dr. seuss' how the grinch stole christmas,christmas,dr seuss,monster",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Jim Carrey",
+      "url": "https://www.imdb.com/name/nm0000120/"
+    },
+    {
+      "name": "Taylor Momsen",
+      "url": "https://www.imdb.com/name/nm0597410/"
+    },
+    {
+      "name": "Kelley",
+      "url": "https://www.imdb.com/name/nm3679189/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ron Howard",
+      "url": "https://www.imdb.com/name/nm0000165/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dr. Seuss",
+      "url": "https://www.imdb.com/name/nm0317450/"
+    },
+    {
+      "name": "Jeffrey Price",
+      "url": "https://www.imdb.com/name/nm0696949/"
+    },
+    {
+      "name": "Peter S. Seaman",
+      "url": "https://www.imdb.com/name/nm0780620/"
+    }
+  ]
+}

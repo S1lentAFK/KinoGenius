@@ -1,0 +1,67 @@
+
+
+{
+  "type": "Movie",
+  "name": "Jennifer's Body",
+  "url": "https://www.imdb.com/tt1131734/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNzYwMjc1Ml5BMl5BanBnXkFtZTcwNDI3MDE3Mg@@._V1_.jpg",
+  "description": "A newly-possessed high-school cheerleader turns into a succubus who specializes in killing her male classmates. Can her best friend put an end to the horror?",
+  "review": {
+    "author": "JoBloTheMovieCritic",
+    "dateCreated": "2021-09-27",
+    "inLanguage": "English",
+    "heading": "Jennifer's Body",
+    "reviewBody": "7/10 - very campy, very funny, and memorable feminist horror comedy is Megan Fox at her best and is certainly worth of the cult following it has developed.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 149514,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Horror"
+  ],
+  "datePublished": "2009-11-04",
+  "keywords": [
+    "scene during end credits",
+    "satanic ritual",
+    "rock band",
+    "popular girl",
+    "cannibalism"
+  ],
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Megan Fox",
+      "url": "https://www.imdb.com/name/nm1083271/"
+    },
+    {
+      "name": "Amanda Seyfried",
+      "url": "https://www.imdb.com/name/nm1086543/"
+    },
+    {
+      "name": "Adam Brody",
+      "url": "https://www.imdb.com/name/nm0111013/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Karyn Kusama",
+      "url": "https://www.imdb.com/name/nm0476201/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Diablo Cody",
+      "url": "https://www.imdb.com/name/nm1959505/"
+    }
+  ]
+}

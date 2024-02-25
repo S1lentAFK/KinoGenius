@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Longest Ride",
+  "url": "https://www.imdb.com/tt2726560/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzIzMjg0NjQwNF5BMl5BanBnXkFtZTgwODAwOTE4MzE@._V1_.jpg",
+  "description": "The lives of a young couple intertwine with a much older man, as he reflects back on a past love.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2015-06-19",
+  "keywords": "college student, college, death of wife, widower, character says i love you",
+  "duration": "PT2H3M",
+  "actor": [
+    {
+      "name": "Scott Eastwood",
+      "url": "https://www.imdb.com/name/nm2207222/"
+    },
+    {
+      "name": "Britt Robertson",
+      "url": "https://www.imdb.com/name/nm1429380/"
+    },
+    {
+      "name": "Alan Alda",
+      "url": "https://www.imdb.com/name/nm0000257/"
+    }
+  ],
+  "director": [
+    {
+      "name": "George Tillman Jr.",
+      "url": "https://www.imdb.com/name/nm0863387/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nicholas Sparks",
+      "url": "https://www.imdb.com/name/nm0817023/"
+    },
+    {
+      "name": "Craig Bolotin",
+      "url": "https://www.imdb.com/name/nm0093271/"
+    }
+  ],
+  "review": {
+    "author": "bkoganbing",
+    "dateCreated": "2015-08-30",
+    "inLanguage": "English",
+    "heading": "The chemistry is there",
+    "reviewBody": "If you're thinking that this film has a familiar look to it that's because The Longest Ride And The Notebook are both originating from the pen of Nicholas Sparks. This is the story of a seemingly mismatched young couple Scott Eastwood and Britt Robertson and an old man with his memories who cements their relationship.\\n\\nNostalgia is bursting all over the place with The Longest Ride. Scott Eastwood, son of Clint Eastwood is an aspiring bull rider competing in the Professional Bull Riders who gets dumped in the lap of spectator Britt Robertson. That's a plot gambit borrowed A Lady Takes A Chance where John Wayne made the acquaintance of Jean Arthur that way. \\n\\nAs her girlfriends tell her who wouldn't want to make it with a cowboy and I can agree there. But while the chemistry is there, they come from different worlds. Eastwood is the son of a bull rider and he lives on the ranch that he inherited from his dad with his mother Lolita Davidovitch. He knows his days as a professional bull rider are limited and he wants the prize money while he still can afford. He's flirting dangerously with permanent injury and death more than most bull riders as he's had a dangerous concussion already.\\n\\nRobertson is an art history major and wants a career in that and may move to New York as that's the capital of the art world in the USA. Somebody is going to have to make a sacrifice.\\n\\nOne day both save the life of an elderly Alan Alda who kind of adopts the two of them and shares the memories of the wonderful married life he had with his late wife. Flashbacks give us big clues as to why these people were so right for each other and in his youth Alda is played by Jack Huston, grandson of John Huston and Oona Chaplin who has both Charlie Chaplin and Eugene O'Neill in her pedigree is his wife who was a refugee from the Nazis. For that matter Alan Alda is the son of Robert Alda speaking of nepotism.\\n\\nAlda is really the one stealing the show here. As appealing and romantic as young Eastwood and Robertson are, Alda gives a really great performance and his introductory narrations really give flashback sequences some real poignancy. I hope there's some Oscar consideration for Alda in the Supporting Actor category.\\n\\nOf course it all works out for the young people as you knew it would. But for it to happen young Eastwood hits the equivalent of a big lottery ticket. And I'm not talking about the PBR Las Vegas finals either.\\n\\nFor romantics of all ages is The Longest Ride.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 88289,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  }
+}

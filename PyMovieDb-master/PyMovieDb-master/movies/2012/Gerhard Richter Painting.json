@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Gerhard Richter Painting",
+  "url": "https://www.imdb.com/tt1982113/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzQwNzM4MTkwN15BMl5BanBnXkFtZTcwMzgyMjA0Nw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "chtellez",
+    "dateCreated": "2013-08-10",
+    "inLanguage": "English",
+    "heading": "We are lucky we have this documentary",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 764,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "Unrated",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2011-09-08",
+  "keywords": "art and entertainment documentary,art documentary,painting,arts,painter",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Gerhard Richter",
+      "url": "https://www.imdb.com/name/nm1416772/"
+    },
+    {
+      "name": "Norbert Arns",
+      "url": "https://www.imdb.com/name/nm4535266/"
+    },
+    {
+      "name": "Hubert Becker",
+      "url": "https://www.imdb.com/name/nm4535201/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Corinna Belz",
+      "url": "https://www.imdb.com/name/nm1326380/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Corinna Belz",
+      "url": "https://www.imdb.com/name/nm1326380/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Love's Labour's Lost",
+  "url": "https://www.imdb.com/tt0182295/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYxMjYzMDY4N15BMl5BanBnXkFtZTcwODU5ODEyMQ@@._V1_.jpg",
+  "description": "An update of the classic Shakespeare story, director Kenneth Branagh shot the film like a classic 1930s musical. It tells the story of four best friends who swear off love.",
+  "contentRating": "U",
+  "genre": [
+    "Romance",
+    "Comedy",
+    "Musical"
+  ],
+  "datePublished": "2000-03-31",
+  "keywords": "alliance atlantis,stuffed toy bear,jukebox musical,director,oath",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Alessandro Nivola",
+      "url": "https://www.imdb.com/name/nm0005273/"
+    },
+    {
+      "name": "Alicia Silverstone",
+      "url": "https://www.imdb.com/name/nm0000224/"
+    },
+    {
+      "name": "Natascha McElhone",
+      "url": "https://www.imdb.com/name/nm0001523/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kenneth Branagh",
+      "url": "https://www.imdb.com/name/nm0000110/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William Shakespeare",
+      "url": "https://www.imdb.com/name/nm0000636/"
+    },
+    {
+      "name": "Kenneth Branagh",
+      "url": "https://www.imdb.com/name/nm0000110/"
+    }
+  ],
+  "review": {
+    "author": "artzau",
+    "dateCreated": "2003-10-18",
+    "inLanguage": "English",
+    "heading": "Much better than the remarks found here",
+    "reviewBody": "Interesting reading the reviews herein. The reviewers either loved or hated it. Some witty shots taken at Branagh's effort to make one of The Bard's weakest comedies into something enjoyable. I mean, c'mon. The play is a story of young men swearing off of love and being made to eat their vows by clever women through little games and switched clues. Hardly a deep plot with potentially tragic twists like Much Ado About Nothing, or confusion reigning during a lover in love with love as in Twelfth Night, or a knee slapper like Midsummer's Night Dream. So, Branagh, ever the innovator and risk-taker, makes it into a gishy late 30s musical with all the trappings (make that 'tappings') from lead into song and dance routines to coordinated smiling shapely swimmers peeling off like a deck of cards into a swimming pool. Busby Berkeley would have loved it, as would those guys like Cole Porter, Irving Berlin and Vincent Youmans who wrote those songs back in the 30s. OK, so the ending sucks but how else can you wind up this comedy? It's not Branagh's fault this play is Much Ado About Nothing; blame it on the Bard. He wrote it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 4880,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  }
+}

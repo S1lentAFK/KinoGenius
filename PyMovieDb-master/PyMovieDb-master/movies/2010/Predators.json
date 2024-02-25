@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Predators",
+  "url": "https://www.imdb.com/tt1424381/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjFmNDNlMGItMDQxMS00ZWMxLTg4MmQtMTBiNWU3ZDU1Nzk1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A group of elite warriors parachute into an unfamiliar jungle and are hunted by members of a merciless alien race.",
+  "review": {
+    "author": "jackcwelch23",
+    "dateCreated": "2017-10-22",
+    "inLanguage": "English",
+    "heading": "A pedal to the medal action thriller",
+    "reviewBody": "Inevitably this movie couldn&apos;t come close to the original in terms of sheer impact. It is, however, such an improvement over the other dreadful sequels that it deserves merit simply for that. Adrien Brody is solid in an against type role, and carries himself well. Every other character had the potential to be interesting but was not explored enough, especially Laurence Fishburne. The action was seriously well done, with flashes of the visceral energy that this series desperately needed. Should have been about half an hour longer to flesh out the characters and maybe have a few more plot twists but as a straightforward, entertaining and visually appealing sci-fi actioner it works. Will not go down as a classic but will always be worth watching when in the mood for an adrenaline rush.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 242536,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "2010-07-08",
+  "keywords": "jungle,jungle adventure,parachute,alien,planet",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Adrien Brody",
+      "url": "https://www.imdb.com/name/nm0004778/"
+    },
+    {
+      "name": "Laurence Fishburne",
+      "url": "https://www.imdb.com/name/nm0000401/"
+    },
+    {
+      "name": "Topher Grace",
+      "url": "https://www.imdb.com/name/nm0333410/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Nimród Antal",
+      "url": "https://www.imdb.com/name/nm0030735/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Alex Litvak",
+      "url": "https://www.imdb.com/name/nm0514821/"
+    },
+    {
+      "name": "Michael Finch",
+      "url": "https://www.imdb.com/name/nm3360218/"
+    },
+    {
+      "name": "Jim Thomas",
+      "url": "https://www.imdb.com/name/nm0859029/"
+    }
+  ]
+}

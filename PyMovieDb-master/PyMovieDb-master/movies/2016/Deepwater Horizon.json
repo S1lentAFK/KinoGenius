@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Deepwater Horizon",
+  "url": "https://www.imdb.com/tt1860357/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTEzNDU0OTgxM15BMl5BanBnXkFtZTgwNjA0ODM2OTE@._V1_.jpg",
+  "description": "A dramatization of the disaster in April 2010, when the offshore drilling rig called the Deepwater Horizon exploded, resulting in the worst oil spill in American history.",
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2016-09-29",
+  "keywords": "oil rig,oil,gulf of mexico,environmental disaster,oil spill",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Mark Wahlberg",
+      "url": "https://www.imdb.com/name/nm0000242/"
+    },
+    {
+      "name": "Kurt Russell",
+      "url": "https://www.imdb.com/name/nm0000621/"
+    },
+    {
+      "name": "Douglas M. Griffin",
+      "url": "https://www.imdb.com/name/nm0341174/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Berg",
+      "url": "https://www.imdb.com/name/nm0000916/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Matthew Michael Carnahan",
+      "url": "https://www.imdb.com/name/nm1996352/"
+    },
+    {
+      "name": "Matthew Sand",
+      "url": "https://www.imdb.com/name/nm2373271/"
+    },
+    {
+      "name": "David Barstow",
+      "url": "https://www.imdb.com/name/nm2417866/"
+    }
+  ],
+  "review": {
+    "author": "0w0",
+    "dateCreated": "2020-05-08",
+    "inLanguage": "English",
+    "heading": "Focuses mainly on the explosion & immediate aftermath, and little on the finer details",
+    "reviewBody": "It's sad to think that Transocean/BP lost nothing, and 11 people lost their lives (and who knows how many millions of animals died from the 210million gallons of oil that was spilled).\n\nTransocean/BP got at least a $500million insurance payout, and who knows how many billions of dollars they made from the Deepwater Horizon rig in the 10years that they operated it. And NOBODY went to prison. 11 people dead and no repercussions.\n\nAnyway, the film is pretty good... I would have liked it if they went into a bit of detail on what all the various terms is that they used like marine riser, annular, EDS, kick, and so on. They used to many terms and jargon that the average viewer is left in the dark. They could maybe even have shown what the capping process looks like in the aftermath of the whole event, as I think the capping process would have been very interesting and would have placed a capper (excuse the pun) on the whole movie.\n\nBut it's a good movie to watch if you're interested in the whole event, even-though it does offer only a cursory glance at the causes of the disaster, and spends the majority of the time focusing on the panic & mayhem that happened during the actual explosion.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 180540,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  }
+}

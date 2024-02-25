@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Collateral Beauty",
+  "url": "https://www.imdb.com/tt4682786/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5ODE4MTY2NV5BMl5BanBnXkFtZTgwMzM2NzEzMDI@._V1_.jpg",
+  "description": "Retreating from life after a tragedy, a man questions the universe by writing to Love, Time, and Death. Receiving unexpected answers, he begins to see how these things interlock and how even loss can reveal moments of meaning and ...",
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2016-12-26",
+  "keywords": "anguish,husband wife relationship,friendship,personal growth,self improvement",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Will Smith",
+      "url": "https://www.imdb.com/name/nm0000226/"
+    },
+    {
+      "name": "Edward Norton",
+      "url": "https://www.imdb.com/name/nm0001570/"
+    },
+    {
+      "name": "Kate Winslet",
+      "url": "https://www.imdb.com/name/nm0000701/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Frankel",
+      "url": "https://www.imdb.com/name/nm0291205/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Allan Loeb",
+      "url": "https://www.imdb.com/name/nm1615610/"
+    }
+  ],
+  "review": {
+    "author": "williamalantz",
+    "dateCreated": "2020-03-26",
+    "inLanguage": "English",
+    "heading": "One of the most underrated movies of all time",
+    "reviewBody": "Yes, the story can feel a little sappy, but I think the cast does really well with what they are given. The story is sweet and we watch it at home every Christmas time",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 104585,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  }
+}

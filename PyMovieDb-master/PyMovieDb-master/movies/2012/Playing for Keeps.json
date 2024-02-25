@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Playing for Keeps",
+  "url": "https://www.imdb.com/tt1540128/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY1MTU1OTA5NF5BMl5BanBnXkFtZTcwNTM1MTQyOA@@._V1_.jpg",
+  "description": "A former sports star who&apos;s fallen on hard times starts coaching his son&apos;s football team as a way to get his life together. His attempts to become an adult are met with challenges from the attractive football moms who pursue him at...",
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Romance",
+    "Sport"
+  ],
+  "datePublished": "2013-01-01",
+  "keywords": "soccer,soccer team,soccer coach,soccer mom,father son relationship",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Gerard Butler",
+      "url": "https://www.imdb.com/name/nm0124930/"
+    },
+    {
+      "name": "Jessica Biel",
+      "url": "https://www.imdb.com/name/nm0004754/"
+    },
+    {
+      "name": "Dennis Quaid",
+      "url": "https://www.imdb.com/name/nm0000598/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gabriele Muccino",
+      "url": "https://www.imdb.com/name/nm0610831/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robbie Fox",
+      "url": "https://www.imdb.com/name/nm0289219/"
+    }
+  ],
+  "review": {
+    "author": "Gottobeme",
+    "dateCreated": "2012-12-07",
+    "inLanguage": "English",
+    "heading": "Uninspired by Playing for Keeps",
+    "reviewBody": "Gerard Butler plays George, a former soccer star who now finds himself on hard times apparently from squandering his resources. He finds himself living in Virginia so he can be close to his estranged son, Lewis (Noah Lomax) and ex-wife, Stacie (Jessica Biel). When George begins coaching his son&apos;s soccer team, it isn&apos;t long before all the hot soccer moms start noticing him. I thought this was supposed to be a romantic comedy but I have to tell you, I barely chuckled twice. Playing for Keeps offers a star-studded supporting cast, including, Uma Thurman, Catherine Zeta-Jones, Judy Greer and Dennis Quaid; but, surprisingly, I found the funniest character out of the bunch to be George&apos;s nosy landlord, Pramam, played by actor Iqbal Theba. Such fantastic actors but sadly the director simply did not utilize their talent to the fullest. This movie really had so much more potential. I really enjoyed the cinematography although the lighting a bit dim for me. The location was very beautiful. The first 30-45 minutes was entirely too slow for even my liking. At some point after that, it finally started to pick up but for lack of a better description, it simply felt very flat to me. I wanted to like this movie and I wanted to like the characters even more, but it just never happened for me. Granted, Gerry and Jessica are beautiful actors but the chemistry between then was lacking. Again, just didn&apos;t feel it. More laughs, humor and spirit would have been a pleasant and satisfying consolation, but one that never came.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 31196,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  }
+}

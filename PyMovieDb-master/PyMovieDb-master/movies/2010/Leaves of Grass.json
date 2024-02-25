@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Leaves of Grass",
+  "url": "https://www.imdb.com/tt1151359/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI1MzE2ODI1NV5BMl5BanBnXkFtZTcwNDkwNzAyMw@@._V1_.jpg",
+  "description": "An Ivy League professor is lured back to his Oklahoma hometown, where his twin brother, a small-time pot grower, has concocted a scheme to take down a local drug lord.",
+  "review": {
+    "author": "grmagne",
+    "dateCreated": "2009-09-17",
+    "inLanguage": "English",
+    "heading": "Funny but has some very implausible scenes",
+    "reviewBody": "Ed Norton is great as always, playing two diametrically opposite but highly intelligent identical twins. One brother, Bill, is a professor of classical philosophy who has worked hard to eradicate his Oklahoma accent and fit into the world of east coast academia. The other, Brady, stills lives in Oklahoma and makes good money selling high-grade marijuana with his red-neck buddies. Brady tricks Bill into returning home for the first time in 2 decades so that Bill can be an alibi while Brady commits a crime in another city. Although Bill is furious and is tempted to fly back home immediately, he ends up staying a few extra days and visits his mother for the first time since childhood. He also meets Janet, played by Keri Russell, a beautiful, intelligent woman who can recites poetry while gutting a catfish. It&apos;s an enjoyable movie with quite a few surprise twists along the way.\n\nThe strengths of the movie were excellent performances by Norton and Russell, and even director Tim Blake Nelson was great in the role of Bolger. This movie will probably do very well at the box office because of the big name cast plus some great dialogue and humour. I didn&apos;t love the ending though, because of too many coincidences and some implausible scenes near the finish. Also, there was an exploration of Christian-Jewish animosity which seemed like an awfully heavy theme to (briefly) deal with here in what is essentially a romantic-comedy. I almost gave this a 6, but the great acting is definitely worth at least an extra point and I bumped it up to a 7 out of 10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 27798,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2010-09-17",
+  "keywords": "stabbed in the stomach,menorah,synagogue,crossbow,stoner comedy",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Edward Norton",
+      "url": "https://www.imdb.com/name/nm0001570/"
+    },
+    {
+      "name": "Keri Russell",
+      "url": "https://www.imdb.com/name/nm0005392/"
+    },
+    {
+      "name": "Henry Max Nelson",
+      "url": "https://www.imdb.com/name/nm3203035/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tim Blake Nelson",
+      "url": "https://www.imdb.com/name/nm0625789/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tim Blake Nelson",
+      "url": "https://www.imdb.com/name/nm0625789/"
+    }
+  ]
+}

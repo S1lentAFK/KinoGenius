@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Home Run",
+  "url": "https://www.imdb.com/tt2051894/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDIzN2UyNmUtN2U4ZS00NTZlLWE4NjItZTk5NjM4MDczZTcyXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+  "description": "A pro ball player with a substance abuse problem is forced into rehab in his hometown, finding new hope when he gets honest about his checkered past, and takes on coaching duties for a misfit Little League team.",
+  "review": {
+    "author": "Sam_Owens",
+    "dateCreated": "2013-10-24",
+    "inLanguage": "English",
+    "heading": "A really fine production",
+    "reviewBody": "What people don't like is the use of God and Faith as something that provides strength. Why anyone would find this objectionable mystifies me. If you have a serious problem that affects your life and the life of your family and friends and you can stop your bad behavior by taking strength from the Lord why is that bad? It isn't. What it is is the free thinkers thinking for you. See the movie unless God makes you barf. \nThe movie was well acted with good production. The kids are cute, the girls are cute and even the old jalopy cars have nice wheels. What I found objectionable was using the police as the bad guy. Why not use another alcoholic dad. The show was a little long and the star was just to handsome but the girls like that.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 3301,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2022-11-15",
+  "keywords": "alcoholic,baseball,reference to god,car accident,addiction",
+  "duration": "PT1H53M",
+  "actor": [
+    {
+      "name": "Scott Elrod",
+      "url": "https://www.imdb.com/name/nm2040932/"
+    },
+    {
+      "name": "Dorian Brown Pham",
+      "url": "https://www.imdb.com/name/nm1270857/"
+    },
+    {
+      "name": "Charles Henry Wyson",
+      "url": "https://www.imdb.com/name/nm2628285/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Boyd",
+      "url": "https://www.imdb.com/name/nm0101741/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brian Brightly",
+      "url": "https://www.imdb.com/name/nm1014503/"
+    },
+    {
+      "name": "Candace Lee",
+      "url": "https://www.imdb.com/name/nm3347943/"
+    },
+    {
+      "name": "Eric Newman",
+      "url": "https://www.imdb.com/name/nm1433579/"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "I Am Not Your Negro",
+  "url": "https://www.imdb.com/tt5804038/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEyNzIzMTk3Ml5BMl5BanBnXkFtZTgwNDE1Nzc1MDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "view_and_review",
+    "dateCreated": "2017-02-05",
+    "inLanguage": "English",
+    "heading": "Brilliant",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 23379,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Documentary",
+    "History"
+  ],
+  "datePublished": "2017-02-17",
+  "keywords": "african american history,civil rights,police brutality,african american,racism",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Samuel L. Jackson",
+      "url": "https://www.imdb.com/name/nm0000168/"
+    },
+    {
+      "name": "James Baldwin",
+      "url": "https://www.imdb.com/name/nm0049924/"
+    },
+    {
+      "name": "Martin Luther King",
+      "url": "https://www.imdb.com/name/nm0455052/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Raoul Peck",
+      "url": "https://www.imdb.com/name/nm0669704/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Baldwin",
+      "url": "https://www.imdb.com/name/nm0049924/"
+    },
+    {
+      "name": "Raoul Peck",
+      "url": "https://www.imdb.com/name/nm0669704/"
+    }
+  ]
+}

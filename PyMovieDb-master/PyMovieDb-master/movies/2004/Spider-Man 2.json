@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Spider-Man 2",
+  "url": "https://www.imdb.com/tt0316654/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "Peter Parker is beset with troubles in his failing personal life as he battles a former brilliant scientist named Otto Octavius.",
+  "review": {
+    "author": "stewienator",
+    "dateCreated": "2007-06-28",
+    "inLanguage": "English",
+    "heading": "Review 1: Spider-Man 2",
+    "reviewBody": "Spider-Man was almost the perfect comic book movie and perhaps released at the best time. When audiences get bored with what genres normally cook up (mostly horror) we the viewers always look for the next best thing. For a while, horror movies were all the fad, but these movies can become boring extremely fast and Hollywood must find something completely opposite from horror to try and keep our attention. So, what might be completely opposite from horror? Well first, lets make a list of what is opposite from horror. Happy is one, action is another; good guys always winning might be another. So, what might be a good opposite for horror is a comic book movie. Now, a lot of money comes from what Hollywood had to offer for comic book movies. Some are failures (Electra) and others are hits. For the most part, most of them are hits. Spider-Man 2 is one of them. We begin with Peter Parker continuing his job as Spider-Man, but all is not well. Peter&apos;s friend, Harry Osborn, hates Spider-Man and wants him dead. Because of Peter&apos;s relation with taking photographs of Spider-Man, Harry has problems with Peter that only continue to grow worse as the movie goes on. The main villain of this movie is Dr. Otto Octavius who later becomes Dr. Ock. In a freak accident, he is connected to his invention of arms that are suppose to help him with an even bigger invention. His wife is killed in the process and the arms attached to him seem to have complete control of what he does. Deeply grieved, Dr. Ock runs away and hides, but not for long. He comes to terms with what he has become and starts his life as super villain. As usual, it is up to Spider-Man to save the day, but something is not right. Spider-Man seems to be losing his powers and has no control of what is happening to him. It is true that this film is better than the first entry, but only by a little bit. It seems though, that scene were Peter saves the people a train was little over it when everyone on the train discovers he is Spider-Man. Overall: A- \n\n-Ben Russell",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 701123,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2004-07-16",
+  "keywords": "spider man character,peter parker character,superhero action,chocolate cake,chainsaw",
+  "duration": "PT2H7M",
+  "actor": [
+    {
+      "name": "Tobey Maguire",
+      "url": "https://www.imdb.com/name/nm0001497/"
+    },
+    {
+      "name": "Kirsten Dunst",
+      "url": "https://www.imdb.com/name/nm0000379/"
+    },
+    {
+      "name": "Alfred Molina",
+      "url": "https://www.imdb.com/name/nm0000547/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sam Raimi",
+      "url": "https://www.imdb.com/name/nm0000600/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stan Lee",
+      "url": "https://www.imdb.com/name/nm0498278/"
+    },
+    {
+      "name": "Steve Ditko",
+      "url": "https://www.imdb.com/name/nm0228492/"
+    },
+    {
+      "name": "Alfred Gough",
+      "url": "https://www.imdb.com/name/nm0332184/"
+    }
+  ]
+}

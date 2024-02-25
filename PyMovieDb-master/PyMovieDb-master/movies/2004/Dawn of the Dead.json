@@ -1,0 +1,71 @@
+
+
+{
+  "type": "Movie",
+  "name": "Dawn of the Dead",
+  "url": "https://www.imdb.com/tt0363547/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2M2ZmU2OGQtNmU5Yi00MTIyLTgwNWMtYjljMzZlYTdiNjBhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": "A nurse, a policeman, a young married couple, a salesman and other survivors of a worldwide plague that is producing aggressive, flesh-eating zombies, take refuge in a mega Midwestern shopping mall.",
+  "review": {
+    "author": "masonsaul",
+    "dateCreated": "2021-05-17",
+    "inLanguage": "English",
+    "heading": "Surprisingly great remake",
+    "reviewBody": "Dawn of the Dead is a great remake that's funny, tense and emotional whilst also skillfully managing to stand on its own two feet. Sarah Polley, Ving Rhames, Jake Weber, Michael Kelly and Ty Burrell are all great. Zack Snyder's direction is excellent, really kinetic and visceral. The music by Tyler Bates and the soundtrack are both really good. However, it's brought down slightly by the ending (after the credits).",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 270446,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Horror"
+  ],
+  "datePublished": "2004-03-26",
+  "keywords": [
+    "nurse",
+    "zombie",
+    "flesh eating zombie",
+    "zombie attack",
+    "zombie apocalypse"
+  ],
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Sarah Polley",
+      "url": "https://www.imdb.com/name/nm0001631/"
+    },
+    {
+      "name": "Ving Rhames",
+      "url": "https://www.imdb.com/name/nm0000609/"
+    },
+    {
+      "name": "Mekhi Phifer",
+      "url": "https://www.imdb.com/name/nm0001616/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Zack Snyder",
+      "url": "https://www.imdb.com/name/nm0811583/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "George A. Romero",
+      "url": "https://www.imdb.com/name/nm0001681/"
+    },
+    {
+      "name": "James Gunn",
+      "url": "https://www.imdb.com/name/nm0348181/"
+    }
+  ]
+}

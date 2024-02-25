@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Kings of Summer",
+  "url": "https://www.imdb.com/tt2179116/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc3ODA1NTI0MV5BMl5BanBnXkFtZTcwOTE4OTUzOQ@@._V1_.jpg",
+  "description": "Three teenage friends, in the ultimate act of independence, decide to spend their summer building a house in the woods and living off the land.",
+  "review": {
+    "author": "jibson89",
+    "dateCreated": "2013-04-28",
+    "inLanguage": "English",
+    "heading": "A fantastic coming of age comedy",
+    "reviewBody": "Debut feature director Jordan Vogt-Roberts&apos; Kings of Summer (n\\u00e9e Toy&apos;s House) is a coming of age story of 2 best friends who decide to build a house in the woods to escape their families and their enigmatic friend Biaggio who accompanies them. \\n\\nThe three kids give great performances and all seem so natural in their characters; Moises Arias is exceptionally funny as the oddball Biaggio. I caught the third ever showing at Sundance London followed by a director&apos;s Q&A and he remarked that many moments are just the kid&apos;s messing around and sometimes unaware they are being filmed. The montage scene of the kids playing in the woods and banging on the pipe that opens the film was filmed all in one day with just the kids, the D.P and director and is so naturally the sort of nonsense a group of teenagers would get up to. \\n\\nAn amazing supporting cast including the always wonderful Nick Offerman, Alison Brie, Megan Mullally and Mary Lynn Rajskub perfectly deliver the material; it&apos;s an impressive cast for such a small film.\\n\\nD\\u00e9but writer Chris Galletta delivered a cracking script that delivers on the laughs and also has some strong emotional moments as the boys inevitably fallout over a girl and we see the kid&apos;s fractious relationship with their parents. \\n\\nA great mix of classic coming of age tales such as Stand By Me and the indie comedies of recent times that hits the comedic and dramatic notes without ever being saccharine, annoyingly quirky or overly morbid as so many indie comedies fall into. \\n\\nI highly recommend the film; it will transport you back to your terrible but wonderful teenage years and is genuinely hilarious, I can&apos;t imagine a single person not loving this film. \\n\\nRating- 8/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 84103,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2013-08-23",
+  "keywords": "teenage protagonist,friendship between boys,friendship,killing a rabbit,love triangle",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Nick Robinson",
+      "url": "https://www.imdb.com/name/nm3538718/"
+    },
+    {
+      "name": "Gabriel Basso",
+      "url": "https://www.imdb.com/name/nm2773059/"
+    },
+    {
+      "name": "Moises Arias",
+      "url": "https://www.imdb.com/name/nm2030779/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jordan Vogt-Roberts",
+      "url": "https://www.imdb.com/name/nm3611349/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Chris Galletta",
+      "url": "https://www.imdb.com/name/nm3658138/"
+    }
+  ]
+}

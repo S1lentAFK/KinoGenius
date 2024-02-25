@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Funny People",
+  "url": "https://www.imdb.com/tt1201167/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWU0ZDllZWEtNWI4ZC00YjIzLTk3YjMtZmE0MmFiNzg4MmRlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "When seasoned comedian George Simmons learns of his terminal, inoperable health condition, his desire to form a genuine friendship causes him to take a relatively green performer under his wing as his opening act.",
+  "review": {
+    "author": "Jim-500",
+    "dateCreated": "2009-08-14",
+    "inLanguage": "English",
+    "heading": "Good first half, but then...",
+    "reviewBody": "I really enjoyed the first half of Funny People. I don't think I've ever seen any other Adam Sandler flicks (I didn't want to), so I was happily surprised by the good mix of comedy and drama here. As soon as Sandler's ex-girlfriend and her family enter the fray, though, the film comes to a screeching halt. And when we learn new facts about his disease, the film turns itself upside down and inside out trying to figure out what it wants to do with this information. No one knows how to react; not Sandler, not the girlfriend, and not her husband. Judd Apatow thinks they do, but it's so hard to follow the character's ideas and feelings here that the film becomes unreadable. Because we don't know where the characters are coming from, we don't know whether we're watching comedy or drama, so we don't know how to feel or react. The little girls, while enjoyable to watch, are cloying and don't advance the story. And when a lot of screen time is devoted to the people playing games and generally goofing around, you're no longer watching the characters--you're watching the actors simply having a good time, which further slows down and confuses the story. Seth Rogen's character seems to know what's right, but his voice gets lost amid all the confusion until the end, when we get an all-too-convenient moral finish that doesn't address any of the important issues raised in the film. I think this could have been a much better film with a lot of the meandering in the second half either tightened up or removed.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 123302,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2009-08-28",
+  "keywords": "columbia tristar,reference to pubic hair,comedian,stand up comedian,breasts",
+  "duration": "PT2H26M",
+  "actor": [
+    {
+      "name": "Adam Sandler",
+      "url": "https://www.imdb.com/name/nm0001191/"
+    },
+    {
+      "name": "Seth Rogen",
+      "url": "https://www.imdb.com/name/nm0736622/"
+    },
+    {
+      "name": "Leslie Mann",
+      "url": "https://www.imdb.com/name/nm0005182/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Judd Apatow",
+      "url": "https://www.imdb.com/name/nm0031976/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Judd Apatow",
+      "url": "https://www.imdb.com/name/nm0031976/"
+    }
+  ]
+}

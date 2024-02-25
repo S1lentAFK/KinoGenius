@@ -1,0 +1,84 @@
+
+
+{
+  "type": "Movie",
+  "name": "Tweety's High-Flying Adventure",
+  "url": "https://www.imdb.com/tt0248575/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDU1NmFlN2ItNjRjYy00NmE1LThkOTgtZTA4NmUxNDAyMmU2XkEyXkFqcGdeQXVyNDgyODgxNjE.jpg",
+  "description": null,
+  "review": {
+    "author": "wbwolf",
+    "dateCreated": "2001-04-11",
+    "inLanguage": "English",
+    "heading": "Confusing and forced",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 862,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2000-09-12",
+  "keywords": [
+    "around the world",
+    "world",
+    "london england",
+    "paris france",
+    "venice italy"
+  ],
+  "duration": "PT1H12M",
+  "actor": [
+    {
+      "name": "Joe Alaskey",
+      "url": "https://www.imdb.com/name/nm0016085/"
+    },
+    {
+      "name": "June Foray",
+      "url": "https://www.imdb.com/name/nm0004931/"
+    },
+    {
+      "name": "Julie Bernstein",
+      "url": "https://www.imdb.com/name/nm0077081/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Karl Toerge",
+      "url": "https://www.imdb.com/name/nm0865462/"
+    },
+    {
+      "name": "Charles Visser",
+      "url": "https://www.imdb.com/name/nm0899720/"
+    },
+    {
+      "name": "James T. Walker",
+      "url": "https://www.imdb.com/name/nm0907822/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tom Minton",
+      "url": "https://www.imdb.com/name/nm0591741/"
+    },
+    {
+      "name": "Tim Cahill",
+      "url": "https://www.imdb.com/name/nm0128698/"
+    },
+    {
+      "name": "Julie McNally Cahill",
+      "url": "https://www.imdb.com/name/nm0573615/"
+    }
+  ]
+}

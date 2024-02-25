@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Tears of the Sun",
+  "url": "https://www.imdb.com/tt0314353/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmI3YjQ4NjctZTk0Zi00ZDFhLTgyZjAtYWRjZTJjMjMwNjM2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A Special-Ops commander leads his team into the Nigerian jungle in order to rescue a doctor who will only join them if they agree to save 70 refugees too.",
+  "review": {
+    "author": "cooperaitaliano",
+    "dateCreated": "2005-07-22",
+    "inLanguage": "English",
+    "heading": "A very powerful and authentic film with a strong moral theme",
+    "reviewBody": "This film was simply incredible. I didn't see it at the cinema, which upon seeing it later on DVD release, regretting missing first time round.\n\nIt made some incredibly powerful statements and was very difficult to watch. I rarely admit to this, but I actually found parts of it so moving, that I cried! And I never cry.\n\nThe choice of Bruce Willis was a good one and he plays a deeply conflicted character, he plays him with depth. I have seen Monica Belucci in films before. She is an incredibly gifted actress and she really believed in this project. Her character comes across as having strong religious and moral convictions, prepared to die to help and protect others. This comes across in the decisions she takes and the willingness to stand strong under pressure.\n\nHaving seen the Documentary on the special features section of the DVD afterwards, I could see the incredible lengths that everyone attached to the filming went to. Each of the actors playing Seal Team members, went through some very authentic training in preparation and stayed in character outside of filming during the day. Given the commitment of all those attached to the film, I can see why the film is what it is.\n\nThe director, Antoine Fuqua, from the films I have seen in which he directed, brings a strong moral theme to his characters and the story. The whole visual manner of filming, camera angles, close ups etc adds to the intensity here.\n\nThe choice of filter during filming, that gives a subdued and darker feeling visually, was perfect. The use of Africans as extras was an interesting and a suitable choice, given their backgrounds. Many of these extras were showing genuine emotions which was captured on camera, as they relived traumatic moments in their lives when certain scenes were filmed.\n\nOn that note, one scene in particular made for very difficult viewing, but totally in context and I would expect it would provoke a strong reaction from viewers, for good reason. The actual combat scenes are kept selectively short and in context to the overall film. They are also very realistic. \n\nThe soundtrack was well suited and complimented the whole overall feel to the film. I would not say that this film was entertaining, it is very hard to watch but it is an example of good film that will challenge everyone who watches it and who has a conscience.\n\nAfter seeing this film, as with Hotel Rwanda and Tears of the Sun, I am constantly reminded of our individual and collective moral responsibilities in the 'civilised Western World' when atrocities are committed. And it sits badly with my conscience that 'we' in the West do so little and so late in trying to stop such genocide from happening. I for one think that every adult should see it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 129671,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2003-09-12",
+  "keywords": "nigeria,civil war,refugee,doctor,explosion",
+  "duration": "PT2H1M",
+  "actor": [
+    {
+      "name": "Bruce Willis",
+      "url": "https://www.imdb.com/name/nm0000246/"
+    },
+    {
+      "name": "Cole Hauser",
+      "url": "https://www.imdb.com/name/nm0369513/"
+    },
+    {
+      "name": "Monica Bellucci",
+      "url": "https://www.imdb.com/name/nm0000899/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Antoine Fuqua",
+      "url": "https://www.imdb.com/name/nm0298807/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Alex Lasker",
+      "url": "https://www.imdb.com/name/nm0489620/"
+    },
+    {
+      "name": "Patrick Cirillo",
+      "url": "https://www.imdb.com/name/nm0162752/"
+    }
+  ]
+}

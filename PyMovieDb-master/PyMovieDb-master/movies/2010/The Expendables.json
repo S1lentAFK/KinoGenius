@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Expendables",
+  "url": "https://www.imdb.com/tt1320253/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTUwODQyNjM0NF5BMl5BanBnXkFtZTcwNDMwMTU1Mw@@._V1_.jpg",
+  "description": "A CIA operative hires a team of mercenaries to eliminate a Latin dictator and a renegade CIA agent.",
+  "review": {
+    "author": "matt-soulliere",
+    "dateCreated": "2010-07-28",
+    "inLanguage": "English",
+    "heading": "People get shot with bullets, from guns, and die as a result.",
+    "reviewBody": "If you aren&apos;t sure what to expect going into this think Rambo, only there are five Rambos instead of just one, and two of them know karate.\n\nIf you do have high expectations going in (as I did), you will start to wonder if perhaps this movie isn&apos;t going to be what you were expecting as you watch it. The first hour gives you the two &apos;big&apos; cameos, which weren&apos;t worth the hype (or any hype for that matter), and an out of place Mickey Rourke emotional moment but not much else.\n\nThe real payoff comes in the last half hour or so of the movie which is a beautiful symphony of mindless violence, and more than makes up for the beginning.\n\nOverall the movie seemed a little rushed as far as the story goes and I won&apos;t be surprised to see a extended cut when this comes out on DVD but it is a solid action movie and worth the watch. And hats off to Randy Couture who actually steals the movie a little bit during the big action scene at the end.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 362936,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "datePublished": "2010-08-19",
+  "keywords": "action hero,showdown,machismo,tough guy,machine gun",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Sylvester Stallone",
+      "url": "https://www.imdb.com/name/nm0000230/"
+    },
+    {
+      "name": "Jason Statham",
+      "url": "https://www.imdb.com/name/nm0005458/"
+    },
+    {
+      "name": "Jet Li",
+      "url": "https://www.imdb.com/name/nm0001472/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sylvester Stallone",
+      "url": "https://www.imdb.com/name/nm0000230/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dave Callaham",
+      "url": "https://www.imdb.com/name/nm1709264/"
+    },
+    {
+      "name": "Sylvester Stallone",
+      "url": "https://www.imdb.com/name/nm0000230/"
+    }
+  ]
+}

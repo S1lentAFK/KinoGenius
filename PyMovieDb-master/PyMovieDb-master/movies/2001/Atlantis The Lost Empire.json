@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Atlantis: The Lost Empire",
+  "url": "https://www.imdb.com/tt0230011/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjM2NzNjMDAtZTAyMi00NTQzLWFlMTctNTUzMGE1ODE2NDRlXkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_.jpg",
+  "description": null,
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2001-10-19",
+  "keywords": "atlantis,expedition,southern accent,star died before release,journal",
+  "duration": "PT1H35M",
+  "rating": {
+    "ratingCount": 132694,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "review": {
+    "author": "StartingAllOver14",
+    "dateCreated": "2007-09-09",
+    "inLanguage": "English",
+    "heading": "Better than reviewers give credit for",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actors": [
+    {
+      "name": "Michael J. Fox",
+      "url": "https://www.imdb.com/name/nm0000150/"
+    },
+    {
+      "name": "Jim Varney",
+      "url": "https://www.imdb.com/name/nm0001815/"
+    },
+    {
+      "name": "Corey Burton",
+      "url": "https://www.imdb.com/name/nm0123553/"
+    }
+  ],
+  "directors": [
+    {
+      "name": "Gary Trousdale",
+      "url": "https://www.imdb.com/name/nm0873779/"
+    },
+    {
+      "name": "Kirk Wise",
+      "url": "https://www.imdb.com/name/nm0936374/"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Tab Murphy",
+      "url": "https://www.imdb.com/name/nm0614742/"
+    },
+    {
+      "name": "Kirk Wise",
+      "url": "https://www.imdb.com/name/nm0936374/"
+    },
+    {
+      "name": "Gary Trousdale",
+      "url": "https://www.imdb.com/name/nm0873779/"
+    }
+  ]
+}

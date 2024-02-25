@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Meet the Browns",
+  "url": "https://www.imdb.com/tt1047494/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIyNTgyMjgxMF5BMl5BanBnXkFtZTcwMjc3NzI2MQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "EroticScreenwriter",
+    "dateCreated": "2008-03-23",
+    "inLanguage": "English",
+    "heading": "Not up to par ... even for a Tyler Perry film ...",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 7254,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.5
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2008-03-21",
+  "keywords": "family character name in title,three word title,surname in title,united states of america,black family",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Tamela J. Mann",
+      "url": "https://www.imdb.com/name/nm0542990/"
+    },
+    {
+      "name": "Angela Bassett",
+      "url": "https://www.imdb.com/name/nm0000291/"
+    },
+    {
+      "name": "Tyler Perry",
+      "url": "https://www.imdb.com/name/nm1347153/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tyler Perry",
+      "url": "https://www.imdb.com/name/nm1347153/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tyler Perry",
+      "url": "https://www.imdb.com/name/nm1347153/"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Ministers",
+  "url": "https://www.imdb.com/tt0880570/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODg0NjM3NTE1Nl5BMl5BanBnXkFtZTcwMTAxNDE4Mg@@._V1_.jpg",
+  "description": "A NYPD detective attempts to avenge her father's death but unwittingly becomes involved with one of his murderers.",
+  "review": {
+    "author": "bkoganbing",
+    "dateCreated": "2011-03-15",
+    "inLanguage": "English",
+    "heading": "Biblical Calling Cards",
+    "reviewBody": "If The Ministers had a point to make, it didn't make it with me. After watching the film, I'm still puzzled as to what exactly it was all about.\\n\\nYoung Florencia Lozano loses her detective father Benny Nieves in what was a hit carried out by two hooded men who have killed before and leave these Bible tracts at the scenes of their crimes. Years later she is now a detective partnered with Harvey Keitel who was her father's partner and her supervising detective is Wanda DeJesus who was trained by Lozano's father.\\n\\nThe two killers known as The Ministers are also accused in the shooting deaths of a whole drug crew, a rather bloody bit of business that Sam Peckinpah would have been glad to choreograph. The two Ministers are played by John Leguizamo in a dual role as twins. One of the twins was badly burned in an apartment house fire as a child.\\n\\nIn fact Leguizamo has a whole agenda of scores to settle, but he also gets himself involved with Lozano, the non-scarred twin that is.\\n\\nThe Ministers has a confused message, a whole lot of violence and not a lot of rational sense to the plot. Seems a terrible waste of a lot of talented people.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 1447,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2009-10-16",
+  "keywords": "detective,death,twins,twin brother,revenge",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "John Leguizamo",
+      "url": "https://www.imdb.com/name/nm0000491/"
+    },
+    {
+      "name": "Harvey Keitel",
+      "url": "https://www.imdb.com/name/nm0000172/"
+    },
+    {
+      "name": "Florencia Lozano",
+      "url": "https://www.imdb.com/name/nm0523568/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Franc. Reyes",
+      "url": "https://www.imdb.com/name/nm0721279/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Franc. Reyes",
+      "url": "https://www.imdb.com/name/nm0721279/"
+    }
+  ]
+}

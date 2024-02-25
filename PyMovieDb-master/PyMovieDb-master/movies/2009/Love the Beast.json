@@ -1,0 +1,56 @@
+
+
+{
+  "type": "Movie",
+  "name": "Love the Beast",
+  "url": "https://www.imdb.com/tt1284028/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMwODQ1NjU5Ml5BMl5BanBnXkFtZTcwMzk0OTUyMg@@._V1_.jpg",
+  "description": "What if you were a Hollywood movie star with an obsession for cars and racing? You would probably read every script with even the tiniest link to the subject matter, in the hope that you could tell a great car story of the likes o...",
+  "review": {
+    "author": "nickgrenfell",
+    "dateCreated": "2010-01-04",
+    "inLanguage": "English",
+    "heading": "A car buff must see!",
+    "reviewBody": "I just saw this today 1/3/10 and loved each and every second of it.\n\nIt seems that Mr. Bana and I have similar tastes in our love of cars. His a Falcon (what we in the U.S. looks to be a Ford Torino) and mine a Dodge Charger. We both love our cars in a way that is hard to understand by someone who is not a serious gear head.\n\nThe documentary shows a love of cars by Mr. Bana and his friends growing up that had the same appreciation of the automobile\n\nSeeing this film makes me appreciate my love of muscle cars that much better.\n\nThe documentary contains an insightful cameo by TV host, Jay Leno. An annoying one by BBC Top Gear's Jeremy Clarkson and something in-between by Dr. Phil McGraw.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 2179,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Documentary",
+    "Sport"
+  ],
+  "datePublished": "2009-11-13",
+  "keywords": "hollywood,car,racing,grand prix,danger",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Eric Bana",
+      "url": "https://www.imdb.com/name/nm0051509/"
+    },
+    {
+      "name": "Jeremy Clarkson",
+      "url": "https://www.imdb.com/name/nm0165087/"
+    },
+    {
+      "name": "Steve Coad",
+      "url": "https://www.imdb.com/name/nm3283560/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Eric Bana",
+      "url": "https://www.imdb.com/name/nm0051509/"
+    }
+  ],
+  "creator": []
+}

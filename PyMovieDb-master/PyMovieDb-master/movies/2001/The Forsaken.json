@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Forsaken",
+  "url": "https://www.imdb.com/tt0245120/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTRkMWQ4YTktMDIzMC00NWExLTg2MDEtOTMzY2M0NDY2NzBhXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg",
+  "description": "A young man gets embroiled in a war against vampires.",
+  "review": {
+    "author": "jellyneckr",
+    "dateCreated": "2001-06-21",
+    "inLanguage": "English",
+    "heading": "Not bad, but not great!",
+    "reviewBody": "While most of the reviews were negative, this review is a positive one since I am a sucker (no pun intended) for vampire tales. THE FORSAKEN is a throwback to such 1980s classics as THE LOST BOYS, NEAR DARK, and THE HITCHER. While it's not nearly as good as those three flicks, it certainly is an interesting and occasionally intriguing picture. Unlike most teen horror films that have come out in the past five years, it is smart, original, and is actually scary at times. It's a fun horror movie that isn't perfect, yet still worth watching for its somewhat new take on the vampire tale. However, one can't help but get the feeling that THE FORSAKEN could have been so much more and it might have been had it not been heavily edited before its release due to the political climate at the time. Something tells me prior to being edited to death by the studio, THE FORSAKEN was something special. There are moments where one can see a better movie in the mix. Hopefully one day there will be a director's cut so audiences can see what J.S. Cardone originally intended the film to be like. I give it 5/10. It's not bad, though it's not great.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 9137,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2001-09-07",
+  "keywords": "hitchhiker,bromance,vampire,vampire hunter,motel",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Kerr Smith",
+      "url": "https://www.imdb.com/name/nm0005445/"
+    },
+    {
+      "name": "Brendan Fehr",
+      "url": "https://www.imdb.com/name/nm0270451/"
+    },
+    {
+      "name": "Izabella Miko",
+      "url": "https://www.imdb.com/name/nm0005232/"
+    }
+  ],
+  "director": [
+    {
+      "name": "J.S. Cardone",
+      "url": "https://www.imdb.com/name/nm0136592/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "J.S. Cardone",
+      "url": "https://www.imdb.com/name/nm0136592/"
+    }
+  ]
+}

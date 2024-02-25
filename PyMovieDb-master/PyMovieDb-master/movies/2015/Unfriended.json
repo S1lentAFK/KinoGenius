@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Unfriended",
+  "url": "https://www.imdb.com/tt3713166/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzdlNWI2MjYtMWY3ZC00N2EzLWIzNTgtZDY2NGI4OTY3Yzc5XkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_.jpg",
+  "description": "A group of online chatroom friends find themselves haunted by a mysterious, supernatural force using the account of their dead friend.",
+  "review": {
+    "author": "drazeus1",
+    "dateCreated": "2015-04-17",
+    "inLanguage": "English",
+    "heading": "A New Spin on Horror w/Skype",
+    "reviewBody": "Unfriended can be described as Paranormal Activity/Saw taking place over a Skype session. The pluses and minuses of Unfriended seem to balance out. This movie did well with using current technology trends such as Facebook, Skype, and iChat to bring a sense of reality to it and speaks to this generation about the growing concern of cyberbullying. What I really liked about the film is the role karma plays in the lives of cyberbullies. With technology these kids like to wear two faces. They will be your best friend in real life but in an online society, most of them will like to bring out a deceitful dark side or tough guy mentality. With that being said, Unfriended was a great idea for a horror film, but like most horror films, its script could have used some work, the death scenes were a little cheesy, and there was a lack of common sense. The beginning will be a little boring because it takes time to get use to a whole movie taking place on a computer screen.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 80949,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2015-05-01",
+  "keywords": "skype,teen horror,facebook,suicide,cyberbullying",
+  "duration": "PT1H23M",
+  "actor": [
+    {
+      "name": "Heather Sossaman",
+      "url": "https://www.imdb.com/name/nm2054764/"
+    },
+    {
+      "name": "Matthew Bohrer",
+      "url": "https://www.imdb.com/name/nm4026000/"
+    },
+    {
+      "name": "Courtney Halverson",
+      "url": "https://www.imdb.com/name/nm1237541/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Levan Gabriadze",
+      "url": "https://www.imdb.com/name/nm0300174/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nelson Greaves",
+      "url": "https://www.imdb.com/name/nm4532532/"
+    }
+  ]
+}

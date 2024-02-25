@@ -1,0 +1,73 @@
+
+
+{
+  "type": "Movie",
+  "name": "Josie and the Pussycats",
+  "url": "https://www.imdb.com/tt0236348/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDU0MWIzNjctNDJmMi00NGU5LWE0ZjgtYWEzMDk5YWFmNjRkXkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_.jpg",
+  "description": "A girl group find themselves in the middle of a conspiracy to deliver subliminal messages through popular music.",
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Music"
+  ],
+  "datePublished": "2001-08-24",
+  "keywords": "josie and the pussycats,music industry,satire,riverdale,pop band",
+  "duration": "PT1H38M",
+  "rating": {
+    "ratingCount": 24753,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "review": {
+    "author": "inkblot11",
+    "dateCreated": "2006-06-13",
+    "inLanguage": "English",
+    "heading": "Josie and the girls, well, they rock!",
+    "reviewBody": "Josie (Rachael Leigh Cook) is the lead singer and guitarist for the all girls rock band, as depicted in the Archie comics. They are mocked by fellow students, despite being quite talented. No has discovered them, its true, but things can change. A deceptive and evil record producer needs new blood and orders an underling to find some fresh faces. Naturally, Josie's group practically falls into his lap. They are signed and touted everywhere. But, is this the real thing or is the mother of all exploitation plots being hatched? Will Josie and the girls stay sweet and unjaded by their fame? What a fine and fun film this is! Girls will love it, yes, and the guys will love the chance to see three beautiful gals on celluloid. Tara Reid is very, very funny as the slightly dense rocker and Cook is a joy as the talented and pretty leader of the group. Parker Posey and Alan Cummings are terrific as the evil music executives and they appear to be having a ball oozing bad vibes. The costumes, needless to say, are just what a fashion loving female would admire. There is a love story, too, for those who beg for tale of romance. Then, too, the three young rock stars are very good role models for the younger set. Ladies, whatever your age, try to spend a bit of time with Josie and company. The laughs are infectious while the sweetness-versus-evil plot is guaranteed to provide a venue to help you forget your worries and make you smile, smile, smile.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "Rachael Leigh Cook",
+      "url": "https://www.imdb.com/name/nm0000337/"
+    },
+    {
+      "name": "Tara Reid",
+      "url": "https://www.imdb.com/name/nm0005346/"
+    },
+    {
+      "name": "Rosario Dawson",
+      "url": "https://www.imdb.com/name/nm0206257/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Harry Elfont",
+      "url": "https://www.imdb.com/name/nm0253323/"
+    },
+    {
+      "name": "Deborah Kaplan",
+      "url": "https://www.imdb.com/name/nm0438226/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Deborah Kaplan",
+      "url": "https://www.imdb.com/name/nm0438226/"
+    },
+    {
+      "name": "Harry Elfont",
+      "url": "https://www.imdb.com/name/nm0253323/"
+    },
+    {
+      "name": "Richard Goldwater",
+      "url": "https://www.imdb.com/name/nm0326406/"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Bronze",
+  "url": "https://www.imdb.com/tt3859304/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzI2Mzc5Ml5BMl5BanBnXkFtZTgwODQzOTU2NzE@._V1_.jpg",
+  "description": "A foul-mouthed former gymnastics bronze medalist with local celebrity status reluctantly trains a rising Olympics aspirant.",
+  "review": {
+    "author": "subxerogravity",
+    "dateCreated": "2016-03-21",
+    "inLanguage": "English",
+    "heading": "Like it more as a sports movie on Gymnastics than as a comedy about coming in third",
+    "reviewBody": "I was not expecting much so I got a little more than I was bargaining for. It&apos;s not the best comedy that I&apos;ve ever seen, but it&apos;s a pretty decent sports movie.\n\nVery grounded in reality, The Bronze is about a gymnast still living off the moment she took the Bronze in the 2004 Olympics who is forced to train another gymnast from her hometown going for the gold. \n\nDefinitely amusing to watch Melissa Rauch (who I just realizes is one of the girls on The Big Bang Theory) as Hope, whose sad existence made for some laughable moments as she attempts to sabotage the promising career of Maggie, a bright eyed gold medal contender who worships the ground Hope walks on. I thought Haley Lu Richardson performance as Maggie was a definite highlight to a movie that did not have much going as far as real interesting characters.\n\nIt&apos;s not laugh out loud funny but it has some enjoyable moments. It does work as a sports movie with a more down to Earth summary of overcoming obstacles to be a winner and what happens when that moment is over. \n\nSomething to watch on the whim if you see on Netflix or something.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 13389,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2016-03-18",
+  "keywords": "female frontal nudity,female rear nudity,comedic sex scene,gymnastics,female gymnast",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Melissa Rauch",
+      "url": "https://www.imdb.com/name/nm1851981/"
+    },
+    {
+      "name": "Gary Cole",
+      "url": "https://www.imdb.com/name/nm0170550/"
+    },
+    {
+      "name": "Haley Lu Richardson",
+      "url": "https://www.imdb.com/name/nm4726634/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bryan Buckley",
+      "url": "https://www.imdb.com/name/nm1519252/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Melissa Rauch",
+      "url": "https://www.imdb.com/name/nm1851981/"
+    },
+    {
+      "name": "Winston Rauch",
+      "url": "https://www.imdb.com/name/nm3440862/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Yards",
+  "url": "https://www.imdb.com/tt0138946/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGIwYjRmZDgtYzYyNy00ZTdkLTllZjUtNmQ2NjkxNTE2NTY4XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": "Ex-con Leo tries to go straight, but his plans are derailed after reuniting with his old crew and a well-connected railway contractor.",
+  "review": {
+    "author": "FlickJunkie-2",
+    "dateCreated": "2001-04-23",
+    "inLanguage": "English",
+    "heading": "Excellent look at the seething underbelly of New York City.",
+    "reviewBody": "It is hard to understand why this film couldn't command better distribution than it did. It has a bankable cast, a strong story and a realistic presentation. It is a raw and dark story about corruption by contractors supplying the transit system in New York City. Parts of the story are all too familiar and the entire film is very Godfatheresque. However, while `The Godfather' glorified organized crime, this film gives a much grittier view of the dirty deals and conniving, stripped of the Hollywood veneer. That is precisely what I liked about it, and in all likelihood, it is the reason that it foundered on the market.\\n\\nLeo Handler (Mark Wahlberg) is just returning home from prison on a car theft conviction when the movie opens. He is repentant and sincerely wants to go straight. The deck is stacked against him though, because everyone he knows other than his mother (Ellen Burstyn), aunt (Faye Dunaway) and cousin (Charlize Theron) is corrupt. Leo applies for a job with his uncle Frank (James Caan) who is a contractor supplying parts to the New York subway system. He is reunited with an old friend, Willie Gutierrez (Joaquin Phoenix) who is currently working for Frank. Willie is eyeball deep in shady deals including the sabotage of other suppliers. One night a sabotage mission goes wrong and Leo assaults a policeman while trying to escape the scene. A manhunt ensues and both the cops and Leo's uncle are trying to hunt him down. With sinister intent, Uncle Frank wants to find him first so he won't blow the lid on the crooked dealings.\\n\\nThe story, written and directed by James Gray, delves into various character studies that bog down at times. However, speaking as a person who once lived there, it is an excellent rendering of New York attitudes and mannerisms, and includes plenty of not-so-glamorous shots of New York's seething underbelly. This is a New Yorker's eye view of the city, far from the glitz of Broadway, Wall Street and the art galleries. It shows the competitiveness and machismo of a segment of society known only to the locals.\\n\\nThe acting by the ensemble cast is outstanding. All the players capture the essence of the New York middle class gestalt beautifully. Mark Wahlberg delivers a somber but resolute character trapped in a vortex of graft and corruption. His performance is understated yet powerful. James Caan is one of the best at playing the small-time racketeer and he nails it again with his portrayal of the dirty dealing supplier. Joaquin Phoenix also shines as Willie, giving him a macho personality and the ability to rationalize any act according to his own code of morality. The cast includes Faye Dunaway, Ellen Burstyn and Charlize Theron in strong supporting roles. Steve Allen makes an extended cameo as the tainted commissioner.\\n\\nThis film is excellent and has been sadly overlooked by the distributors and the public. I rated it a 9/10 despite a somewhat familiar storyline, because the presentation is so precise and the style so un-sanitized. The film has a real New York feeling to it, especially recognizable to anyone who has lived there. It has my vote for the sleeper of 2000.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 22869,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2000-11-10",
+  "keywords": "female nudity,female topless nudity,male rear nudity,male nudity,millennium",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Mark Wahlberg",
+      "url": "https://www.imdb.com/name/nm0000242/"
+    },
+    {
+      "name": "Joaquin Phoenix",
+      "url": "https://www.imdb.com/name/nm0001618/"
+    },
+    {
+      "name": "Charlize Theron",
+      "url": "https://www.imdb.com/name/nm0000234/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Gray",
+      "url": "https://www.imdb.com/name/nm0336695/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Gray",
+      "url": "https://www.imdb.com/name/nm0336695/"
+    },
+    {
+      "name": "Matt Reeves",
+      "url": "https://www.imdb.com/name/nm0716257/"
+    }
+  ]
+}

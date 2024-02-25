@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Code Name: The Cleaner",
+  "url": "https://www.imdb.com/tt0462229/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODM0ODg1NDI0NF5BMl5BanBnXkFtZTcwMjk0NzA0MQ@@._V1_.jpg",
+  "description": "An amnesiac wakes up in a hotel room next to a dead FBI agent and $250,000. Is the sexy lady in the lobby his wife? Is he a spy or a cleaner?",
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2007-12-07",
+  "keywords": "female nudity,villainess,parody comedy,agent,violence",
+  "duration": "PT1H24M",
+  "actor": [
+    {
+      "name": "Cedric The Entertainer",
+      "url": "https://www.imdb.com/name/nm0147825/"
+    },
+    {
+      "name": "Lucy Liu",
+      "url": "https://www.imdb.com/name/nm0005154/"
+    },
+    {
+      "name": "Nicollette Sheridan",
+      "url": "https://www.imdb.com/name/nm0001733/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Les Mayfield",
+      "url": "https://www.imdb.com/name/nm0562645/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Adetuyi",
+      "url": "https://www.imdb.com/name/nm0011950/"
+    },
+    {
+      "name": "George Gallo",
+      "url": "https://www.imdb.com/name/nm0303032/"
+    }
+  ],
+  "review": {
+    "author": "ded_meet",
+    "dateCreated": "2007-06-07",
+    "inLanguage": "English",
+    "heading": "A really good movie",
+    "reviewBody": "I don't know why some people slander this movie. They should get some antidepressants or something - somethings not right with these people anyway. \n\nThis movie is well made, has good actors doing a great job, interesting (but somewhat predictable) plot! It has pretty much everything you want from a nice action/comedy movie and I certainly enjoyed the movie a lot.\n\nI almost gave it a seven but I'm a cheap b*stard - and even if it's closer to a seven than six - it falls just short of it... =)\n\nI just made up my mind - why the h*ll not...",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 12125,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.6
+  }
+}

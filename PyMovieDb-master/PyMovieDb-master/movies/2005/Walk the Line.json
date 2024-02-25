@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Walk the Line",
+  "url": "https://www.imdb.com/tt0358273/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIyOTU3MjUxOF5BMl5BanBnXkFtZTcwMTQ0NjYzMw@@._V1_.jpg",
+  "description": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis, and Carl Perkins.",
+  "review": {
+    "author": "PizzicatoFishCrouch",
+    "dateCreated": "2006-10-12",
+    "inLanguage": "English",
+    "heading": "Toe-tappingly good fun.",
+    "reviewBody": "Before watching this film, I had my doubts. Johnny Cash is one of my favourite country singers, nay, singers of all time, and I was unsure as whether, as with other mediocre biopics, namely the flashy Ray, could do him enough justice. As it turned out, Johnny gets the film he deserves, and, what's more, Walk the Line got me extremely interested in the work of his wife, June Carter Cash.\\n\\nCovering 20 years of his life, including Cash's rise into fame and delve into near-self-destruction, James Mangold concentrates on the key things in his life \\u0096 his music, the drugs, and his all-consuming, untameable love for the very special June Carter Cash. It is as a romance that Walk the Line truly shines. In real life, Johnny and June didn't get together until 20 years since their first meeting, and that they could wait that long for each other, is quite poignant.\\n\\nHolding the film together are the Oscar-nominated and Oscar-winning figures of Joaquin Phoenix and Reese Witherspoon, and their chemistry pretty much carries the film. When they're together, they both dazzle, gelling perfectly, whether it's a bout of verbal jesting, they're doing a duet, or just chatting. Phoenix captures the tortured soul of Cash eloquently in one of his finest performances, and one that exudes that dangerous yet enthralling edge of danger present in Cash. His singing voice resembles that of Cash's, yet he never resorts to downright imitation, which only adds to the viewing pleasure.\\n\\nBut the shining star of the film is Reese Witherspoon, as June Carter Cash. She plays the singer-songwriter-country music star that grabbed the attentions of Johnny Cash, but proved a hard win, forcing him to quit his narcotic dependence and violent self-destruction before she'd consider him. Although many have disliked Witherspoon's work her, I simply adore it. She makes June a truly memorable, Crouchesque, person. For the audience, she can be goofy and lovable, but alone, with Johnny, she displays a vulnerable side. Witherspoon here radiates a strong, feminist, yet effortlessly lovable vibe, and every scene she appears in, she steals.\\n\\nThe look and feel of Johnny's time are captured well in the set design and T-Bone Burnett guitar-led score, and the costumes are nothing short of sublime. The dressing of Cash is inspired, but it is June's clothes \\u0096 floral print, pink, domestic, or snazzy, that, again, steal the show. Each of Reese's costumes captures the mood of her characters.\\n\\nThere's also great fun to be had in the musical numbers. Ring of Fire and Jukebox Blues allow the audience to get their toes tapping, but my favourite number is the performance of Jackson, where their unmatched chemistry is showcased in one of my favourite songs of all-time. Like the film, this song is entertaining, sweet, and more intelligent than frequently given credit for.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 264191,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2006-02-03",
+  "keywords": "1960s,accident,prison,concert,guitar",
+  "duration": "PT2H16M",
+  "actor": [
+    {
+      "name": "Joaquin Phoenix",
+      "url": "https://www.imdb.com/name/nm0001618/"
+    },
+    {
+      "name": "Reese Witherspoon",
+      "url": "https://www.imdb.com/name/nm0000702/"
+    },
+    {
+      "name": "Ginnifer Goodwin",
+      "url": "https://www.imdb.com/name/nm0329481/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Mangold",
+      "url": "https://www.imdb.com/name/nm0003506/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Johnny Cash",
+      "url": "https://www.imdb.com/name/nm0143599/"
+    },
+    {
+      "name": "Gill Dennis",
+      "url": "https://www.imdb.com/name/nm0219456/"
+    },
+    {
+      "name": "James Mangold",
+      "url": "https://www.imdb.com/name/nm0003506/"
+    }
+  ]
+}

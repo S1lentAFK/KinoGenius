@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Spider-Man 2",
+  "url": "https://www.imdb.com/tt0316654/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "Peter Parker is beset with troubles in his failing personal life as he battles a former brilliant scientist named Otto Octavius.",
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2004-07-16",
+  "keywords": "spider man character,peter parker character,superhero action,chocolate cake,chainsaw",
+  "duration": "PT2H7M",
+  "actor": [
+    {
+      "name": "Tobey Maguire",
+      "url": "https://www.imdb.com/name/nm0001497/"
+    },
+    {
+      "name": "Kirsten Dunst",
+      "url": "https://www.imdb.com/name/nm0000379/"
+    },
+    {
+      "name": "Alfred Molina",
+      "url": "https://www.imdb.com/name/nm0000547/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sam Raimi",
+      "url": "https://www.imdb.com/name/nm0000600/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stan Lee",
+      "url": "https://www.imdb.com/name/nm0498278/"
+    },
+    {
+      "name": "Steve Ditko",
+      "url": "https://www.imdb.com/name/nm0228492/"
+    },
+    {
+      "name": "Alfred Gough",
+      "url": "https://www.imdb.com/name/nm0332184/"
+    }
+  ],
+  "review": {
+    "author": "pawanpunjabithewriter",
+    "dateCreated": "2023-07-19",
+    "inLanguage": "English",
+    "heading": "Classic Spins: Re-living Spider-Man 2 in 2023",
+    "reviewBody": "I recently delved into a spree of superhero movies, but amidst the modern glitz, I felt it was time to revisit a true classic - Spider-Man 2. The movie presents a timeless story with solid tent poles and a strong focus on character development.\n\nUpon rewatching, I found myself enthralled once again, appreciating its ability to be repeatedly enjoyed. The visuals, though impressive in their time, might not stand up as strongly in the year 2023. Nonetheless, they still manage to convey the essence of the narrative effectively.\n\nWhile the antagonist could have been portrayed with greater strength, the character's development and writing were commendable, adding depth to the plot. However, it is the protagonist, Peter Parker, who steals the show with his compelling performance, leaving a lasting impression on the audience.\n\nIn conclusion, Spider-Man 2 remains an awesome classic that stands the test of time. Despite minor visual limitations, the film's engaging story and well-crafted characters ensure you won't be bored, making it a worthy watch for both fans of the superhero genre and newcomers alike.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 701136,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  }
+}

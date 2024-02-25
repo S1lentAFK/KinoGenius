@@ -1,0 +1,78 @@
+
+
+{
+  "type": "Movie",
+  "name": "Shrek 2",
+  "url": "https://www.imdb.com/tt0298148/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDJhMGRjN2QtNDUxYy00NGM3LThjNGQtMmZiZTRhNjM4YzUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "Shrek and Fiona travel to the Kingdom of Far Far Away, where Fiona's parents are King and Queen, to celebrate their marriage. When they arrive, they find they are not as welcome as they thought they would be.",
+  "review": {
+    "author": "nowmann",
+    "dateCreated": "2004-11-10",
+    "inLanguage": "English",
+    "heading": "Wonderful!",
+    "reviewBody": "The first time I watched this movie was in my living room with my husband, daughter, and mom. We all laughed so hard we had to watch it again to see what we missed (which turned out to be a lot!). Antonio as Puss was genius! As was Jennifer Saunders as the fairy godmother. Kudos to the casting director. Once again Eddie Murphy as the annoying and talkative donkey was perfect and even much more lovable. And Mike Myers as Shrek, what can I say? A perfect grumpy ogre. Cameron Diaz once again lets her personality shine through even in animation. Oh, and Rupert! With that voice being the narcissistic Prince Charming. I could go on and on about the characters in this movie but instead I implore you to watch it for yourself. I loved this movie as did my entire family. The jokes in this movie were absolutely delicious! For those naysayers who hated this movie, I say go buy a sense of humor!",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 499974,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2004-07-02",
+  "keywords": "ogre,princess,sequel,king,prince",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Mike Myers",
+      "url": "https://www.imdb.com/name/nm0000196/"
+    },
+    {
+      "name": "Eddie Murphy",
+      "url": "https://www.imdb.com/name/nm0000552/"
+    },
+    {
+      "name": "Cameron Diaz",
+      "url": "https://www.imdb.com/name/nm0000139/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrew Adamson",
+      "url": "https://www.imdb.com/name/nm0011470/"
+    },
+    {
+      "name": "Kelly Asbury",
+      "url": "https://www.imdb.com/name/nm0038432/"
+    },
+    {
+      "name": "Conrad Vernon",
+      "url": "https://www.imdb.com/name/nm0970447/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William Steig",
+      "url": "https://www.imdb.com/name/nm0825308/"
+    },
+    {
+      "name": "Andrew Adamson",
+      "url": "https://www.imdb.com/name/nm0011470/"
+    },
+    {
+      "name": "Joe Stillman",
+      "url": "https://www.imdb.com/name/nm0830294/"
+    }
+  ]
+}

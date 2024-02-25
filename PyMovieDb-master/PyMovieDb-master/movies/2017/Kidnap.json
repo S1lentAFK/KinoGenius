@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Kidnap",
+  "url": "https://www.imdb.com/tt1034449/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWNjMGFkZmItNTEwMC00NWUxLTlmYTMtM2Q0Y2FhNjIzMTlhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "description": "A kidnapper has to settle a personal score with an influential businessman whose daughter he has kidnapped.",
+  "review": {
+    "author": "Chrysanthepop",
+    "dateCreated": "2009-07-11",
+    "inLanguage": "English",
+    "heading": "Oh it&apos;s not bad.... it&apos;s abysmal",
+    "reviewBody": "&apos;Kidnap&apos; definitely ranks as one of the worst movies of 2008. With movies like &apos;Dhoom 2&apos;, Gadhavi has already proved to be one of the worst directors ever. The story, not surprisingly, is unoriginal and nonsensical. There is nothing impressive where the technical side is concerned. It has the funniest (unintentionally of course) casting. I wonder how they got Vidya Malvade to play wife of the old haggard Sanjay Dutt and mother of Minisha Lamba. I can understand why any respectable 30+ actor would turn down the role (or anything offered by Gadhavi) but the only reason I can think of is that poor Malvade isn&apos;t getting enough roles. Sanjay Dutt mechanically plays a cop for the nth time. Someone ought to teach Minisha Lamba that it is important to be classy in order to look sexy. Otherwise it&apos;s just sleazy and/or tacky, both of which apply to Lamba. She could learn a thing or two about class from her on screen mom who looks sensational without having to show any body part. In addition, Lamba&apos;s acting is pathetic. However, it is the so called upcoming star Imran Khan who delivers the worst performance. Perhaps this is one of the best examples of wooden acting. &apos;Kidnap&apos; has nothing going for it. The action sequences are laughable. Even some B-grade films have done better than this. The songs are better forgotten. I&apos;d suggest you take a nap instead of watching &apos;Kidnap&apos;.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 2569,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.6
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2008-10-02",
+  "keywords": "daughter,train station,buxom,one word title,kidnapping",
+  "duration": "PT2H15M",
+  "actor": [
+    {
+      "name": "Sanjay Dutt",
+      "url": "https://www.imdb.com/name/nm0004569/"
+    },
+    {
+      "name": "Imran Khan",
+      "url": "https://www.imdb.com/name/nm1405359/"
+    },
+    {
+      "name": "Minissha Lamba",
+      "url": "https://www.imdb.com/name/nm1999369/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sanjay Gadhvi",
+      "url": "https://www.imdb.com/name/nm1189376/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Yatharth Awasthi",
+      "url": "https://www.imdb.com/name/nm3169015/"
+    },
+    {
+      "name": "Shibani Bathija",
+      "url": "https://www.imdb.com/name/nm2042791/"
+    },
+    {
+      "name": "Sanjay Gadhvi",
+      "url": "https://www.imdb.com/name/nm1189376/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Lions for Lambs",
+  "url": "https://www.imdb.com/tt0891527/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcyMzc0MzYyM15BMl5BanBnXkFtZTcwMTM2NDk0NA@@._V1_.jpg",
+  "description": "Injuries sustained by two Army rangers behind enemy lines in Afghanistan set off a sequence of events involving a congressman, a journalist and a professor.",
+  "review": {
+    "author": "giorgiosurbani",
+    "dateCreated": "2008-01-11",
+    "inLanguage": "English",
+    "heading": "An Actor's Film Of Reflection",
+    "reviewBody": "Not true! Robert Redford didn't take to the pulpit to give us a pet talk. He's far too subtle, honest and compassionate to pull a stunt like that. The film is about questions not about answers and we're all grateful for that. I left the theater with a weight on my chest because I believe in the validity of the questions and the individual responsibility of finding the fair way to the answers. Important to remember, at least it was for me, that this is a film delivered to us by three icons. Robert Redford, a symbol of consistency and independence, Meryl Streep, an actress who defined the last two decades of film acting with characters that went straight to the center of something and Tom Cruise, the box office champion who's become a controversial figure despite of his undeniable humanity. I will take a stand here and advise you to go and see this film. You will come up with new questions and a potential road map for the answers.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 52354,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2007-11-09",
+  "keywords": "infrared,the white house washington d.c.,woman wears eyeglasses,reference to colin powell,reference to condoleezza rice",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Tom Cruise",
+      "url": "https://www.imdb.com/name/nm0000129/"
+    },
+    {
+      "name": "Meryl Streep",
+      "url": "https://www.imdb.com/name/nm0000658/"
+    },
+    {
+      "name": "Robert Redford",
+      "url": "https://www.imdb.com/name/nm0000602/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Redford",
+      "url": "https://www.imdb.com/name/nm0000602/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Matthew Michael Carnahan",
+      "url": "https://www.imdb.com/name/nm1996352/"
+    }
+  ]
+}

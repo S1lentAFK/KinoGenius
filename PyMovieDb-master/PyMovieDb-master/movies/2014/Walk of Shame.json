@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Walk of Shame",
+  "url": "https://www.imdb.com/tt2463288/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODg2Mzk0NzU2M15BMl5BanBnXkFtZTgwMjAyNjYxMTE@._V1_.jpg",
+  "description": "A reporter's dream of becoming a news anchor is compromised after a one-night stand leaves her stranded in downtown L.A. without a phone, car, ID or money - and only 8 hours to make it to the most important job interview of her life.",
+  "review": {
+    "author": "pawanpunjabithewriter",
+    "dateCreated": "2021-02-14",
+    "inLanguage": "English",
+    "heading": "ALMOST HANG OVER!",
+    "reviewBody": "To my delightful surprise, this movie proved to be one of the finest comedies I've come across in recent years. It had me laughing like never before, a refreshing experience after a long time. Meghan Miles delivered an outstanding performance, undoubtedly the best character in the movie. The pookie guy's hilarious accent served as the cornerstone of the comedy, leaving a lasting impression. The movie's humorous moments revolving around the crack house and pot were nothing short of a laugh riot. Yet, despite its comedic brilliance, the film remains highly underrated.\n\nI find myself craving more movies of this caliber that can evoke such genuine laughter. This hidden gem deserves greater recognition and appreciation. It's a must-watch for anyone seeking a hearty dose of laughter and an unforgettable comedic experience.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 56860,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2014-05-01",
+  "keywords": "ex boyfriend ex girlfriend relationship,high heels,female news anchor,female reporter,one night stand",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Elizabeth Banks",
+      "url": "https://www.imdb.com/name/nm0006969/"
+    },
+    {
+      "name": "James Marsden",
+      "url": "https://www.imdb.com/name/nm0005188/"
+    },
+    {
+      "name": "Gillian Jacobs",
+      "url": "https://www.imdb.com/name/nm1843026/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven Brill",
+      "url": "https://www.imdb.com/name/nm0109359/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steven Brill",
+      "url": "https://www.imdb.com/name/nm0109359/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Nick of Time",
+  "url": "https://www.imdb.com/tt0113972/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODg1ODNjMzItYjRkMS00NmExLTkxNWUtMWYwNWM2NDU1YzU1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "hu675",
+    "dateCreated": "2006-08-24",
+    "inLanguage": "English",
+    "heading": "A good if far fetched premise makes this movie oddly watchable.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 44924,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "1996-08-16",
+  "keywords": "real time,vigilantism,character repeats someone else's dialogue,man murders a woman,man wears eyeglasses",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Johnny Depp",
+      "url": "https://www.imdb.com/name/nm0000136/"
+    },
+    {
+      "name": "Christopher Walken",
+      "url": "https://www.imdb.com/name/nm0000686/"
+    },
+    {
+      "name": "Courtney Chase",
+      "url": "https://www.imdb.com/name/nm0153733/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Badham",
+      "url": "https://www.imdb.com/name/nm0000824/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Patrick Sheane Duncan",
+      "url": "https://www.imdb.com/name/nm0242059/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Earth Days",
+  "url": "https://www.imdb.com/tt1230130/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM5MDU5ODgyMV5BMl5BanBnXkFtZTcwNzUyNTE3Mg@@._V1_.jpg",
+  "description": "The story of our growing awareness and understanding of the environmental crisis and emergence, during the 1960's and '70's, of popular movement to confront it.",
+  "review": {
+    "author": "druid333-2",
+    "dateCreated": "2009-12-07",
+    "inLanguage": "English",
+    "heading": "A Film For The Tree Hugger In All Of Us",
+    "reviewBody": "With the wave of outstanding documentaries dealing with environmental issues,now it's time to add one more. Robert Stone's 'Earth Days'is a non preachy documentary on the history of Earth Day,since the first one back in 1970,that pointed out that we should start to step back & do a serious re-thing on our role as citizens of Mother Earth. The film has some real nice footage of some of the finest names in environmental concerns today (Paul Erlich,Pete McCloskey,Dennis Hayes, Dennis Meadows,and Rachel Carson,author of the now legendary pro environmental book,'The Silent Spring',and others). The documentary also gets kudos for vintage film clips of both pro,as well as anti environmental films (the black & white footage from an episode of 'Face The Nation' is a hoot in itself). Robert Stone,in addition to directing this film,also wore several other hats in production (he wrote the outline of the concept,photographed & co-edited the film,with assistance from Don Kleszy). If you care about the future of our planet (or lack of,thereof),you owe it to yourself to seek this fine documentary out. Not rated by the MPAA,but contains little to offend",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 201,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": null,
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2009-08-14",
+  "keywords": "population explosion,population growth,overpopulation,earth day,green politics",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Stewart Brand",
+      "url": "https://www.imdb.com/name/nm1674895/"
+    },
+    {
+      "name": "Rachel L. Carson",
+      "url": "https://www.imdb.com/name/nm1104827/"
+    },
+    {
+      "name": "Bill Clinton",
+      "url": "https://www.imdb.com/name/nm0001051/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Stone",
+      "url": "https://www.imdb.com/name/nm0832134/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Stone",
+      "url": "https://www.imdb.com/name/nm0832134/"
+    }
+  ]
+}

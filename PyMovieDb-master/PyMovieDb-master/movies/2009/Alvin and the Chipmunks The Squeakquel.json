@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Alvin and the Chipmunks: The Squeakquel",
+  "url": "https://www.imdb.com/tt1231580/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGM5Zjg0MzktYmZmZC00OWU5LTgzZDQtODM1NjdjMGE4ZDVlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "The world-famous singing preteen chipmunk trio return to contend with the pressures of school, celebrity, and a rival female music group known as The Chipettes.",
+  "contentRating": "U",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2009-12-21",
+  "keywords": "battle of the bands,american football,chipmunk,school,singing animal",
+  "duration": "PT1H28M",
+  "actor": [
+    {
+      "name": "Jason Lee",
+      "url": "https://www.imdb.com/name/nm0005134/"
+    },
+    {
+      "name": "Zachary Levi",
+      "url": "https://www.imdb.com/name/nm1157048/"
+    },
+    {
+      "name": "David Cross",
+      "url": "https://www.imdb.com/name/nm0189144/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Betty Thomas",
+      "url": "https://www.imdb.com/name/nm0858525/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jon Vitti",
+      "url": "https://www.imdb.com/name/nm0900140/"
+    },
+    {
+      "name": "Jonathan Aibel",
+      "url": "https://www.imdb.com/name/nm0008743/"
+    },
+    {
+      "name": "Glenn Berger",
+      "url": "https://www.imdb.com/name/nm0074184/"
+    }
+  ],
+  "review": {
+    "author": "Auntie_Annie",
+    "dateCreated": "2009-12-28",
+    "inLanguage": "English",
+    "heading": "Good, so long as you don't expect a serious film",
+    "reviewBody": "I really enjoyed this film, but mostly because I went in with the expectation that I would have an hour and a half of laughs and general fun, not a serious film. I have seen the first film, and this isn't as good as it, but probably because film makers always use up all there best ideas in the first films, very few sequels live up to or surpass the originals. Obviously it's not the sort of film you can watch again and again, the jokes are clich\u00e9d and will quickly become old to anyone over the age of about 8. It never ceases to amaze me why adults go and see a children's film and somehow expect a serious film. All in all, good fun, the quality of the film isn't bad. Children will enjoy this, and their parents won't be bored by it either!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 53932,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.5
+  }
+}

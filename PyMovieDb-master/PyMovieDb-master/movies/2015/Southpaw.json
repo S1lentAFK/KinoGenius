@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Southpaw",
+  "url": "https://www.imdb.com/tt1798684/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI1MTcwODk0MV5BMl5BanBnXkFtZTgwMTgwMDM5NTE@._V1_.jpg",
+  "description": "After a fatal incident sends him on a rampant path of destruction, a champion boxer fights to get custody of his daughter and revive his professional career.",
+  "review": {
+    "author": "tute_n",
+    "dateCreated": "2015-09-05",
+    "inLanguage": "English",
+    "heading": "Emotion, emotion and emotion...think about that, don't be an asshole",
+    "reviewBody": "First of all...this is wrong, why i have to write in English only, i want to write in Spanish, i don't have that right???. OK, going to the point that matters...the movie is extraordinary whether you are a boxer, whether you where a boxer or if you don't even know what boxing is, like someone says down here. I watch it in the night, and the next morning when i woke up i was feeling so weird (like in a good way i think). It provoke on mi something very difficult to describe. It touches my most intimate fiber, it came with a strong emotional charge. Although I understand that not everyone feels the same way, you never, NEVER can put 1,2,3, or 4 stars to this movie...they are qualifications to fit in Aladdin movie, don't be cruel, don't be like that, don't be that guy, think, with that qualifications the movie rate falls apart. The actor are really exceptional...Mcadams is great truly great, although she participates in the first part her essence will remain with you all the way. Forest...there is nothing to say about him that someone doesn't know, the way that he adopts that kind of character is beautiful. And Gyllenhaal is becoming one of my favorites really, he is truly magnificent. It can't be bad with persons who work in this level. Watch it please, y cannot take it out of my head, i repeat, at least for my as a boxing fan that i am, it left me with a mix of emotions that only few movies have provoke that on my. Just watch it an i hop you can enjoy it as i did. From Uruguay, my regards to all of you, enjoy your life.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 255783,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2015-07-24",
+  "keywords": "boxer,boxing ring,death of wife,male nudity,boxing training",
+  "duration": "PT2H4M",
+  "actor": [
+    {
+      "name": "Jake Gyllenhaal",
+      "url": "https://www.imdb.com/name/nm0350453/"
+    },
+    {
+      "name": "Rachel McAdams",
+      "url": "https://www.imdb.com/name/nm1046097/"
+    },
+    {
+      "name": "Oona Laurence",
+      "url": "https://www.imdb.com/name/nm4802218/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Antoine Fuqua",
+      "url": "https://www.imdb.com/name/nm0298807/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kurt Sutter",
+      "url": "https://www.imdb.com/name/nm1176676/"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Cloudy with a Chance of Meatballs 2",
+  "url": "https://www.imdb.com/tt1985966/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NzA0MDM1NF5BMl5BanBnXkFtZTgwODM3ODkwMDE@._V1_.jpg",
+  "description": "Flint Lockwood now works at The Live Corp Company for his idol Chester V. But he's forced to leave his post when he learns that his most infamous machine is still operational, and is churning out menacing food-animal hybrids.",
+  "review": {
+    "author": "PsychoBeard666",
+    "dateCreated": "2019-07-22",
+    "inLanguage": "English",
+    "heading": "Fun but disappointing",
+    "reviewBody": "The lack of Lord and Miller is obvious from the film's opening moments, and their absence leaves this film in animated sequel oblivion.\n\nIt had a hard act to follow in the first movie so it was never going to meet expectations, but it didn't come close to emulating the heart of the original. Instead it added more cute characters hoping they'd make up for the lack of intelligent writing.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 113476,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2013-10-25",
+  "keywords": "island,villain,numbered sequel,jungle,strawberry",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Bill Hader",
+      "url": "https://www.imdb.com/name/nm0352778/"
+    },
+    {
+      "name": "Anna Faris",
+      "url": "https://www.imdb.com/name/nm0267506/"
+    },
+    {
+      "name": "Will Forte",
+      "url": "https://www.imdb.com/name/nm0287182/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Cody Cameron",
+      "url": "https://www.imdb.com/name/nm0970606/"
+    },
+    {
+      "name": "Kris Pearn",
+      "url": "https://www.imdb.com/name/nm2329165/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Erica Rivinoja",
+      "url": "https://www.imdb.com/name/nm1106214/"
+    },
+    {
+      "name": "John Francis Daley",
+      "url": "https://www.imdb.com/name/nm0197855/"
+    },
+    {
+      "name": "Jonathan Goldstein",
+      "url": "https://www.imdb.com/name/nm0326246/"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+
+
+{
+  "type": "Movie",
+  "name": "Scary Movie 5",
+  "url": "https://www.imdb.com/tt0795461/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc5OTIxMjQ4NF5BMl5BanBnXkFtZTcwOTAyNDcyOQ@@._V1_.jpg",
+  "description": "A couple begin to experience some unusual activity after bringing their lost nieces and nephew home. With the help of home-surveillance cameras, they learn they're being stalked by a nefarious demon.",
+  "review": {
+    "author": "naregian",
+    "dateCreated": "2013-04-13",
+    "inLanguage": "English",
+    "heading": "I almost regret not walking out of the theater.",
+    "reviewBody": "The era of spoof and parody is dead.\\n\\nLet me start off by saying that I knew this film was going to be horrible from the start. I had read reviews and knew it was bad, but being so infatuated with film and theater, I actually wanted to see the movie to diagnose exactly what made it so horrible. (Insult me if you must, but I have a lot of free time on my hands and I love all kinds of movies.)\\n\\nI'm not gonna lie, I went into the theater with the hope that on some slight chance, I would enjoy the film. Wrong. The movie was so boring and tasteless that I was actually distracted with my phone for some parts during the film, which is of the utmost rarity for me. \\n\\nThe horrible acting and line delivery dried this film out so much that I don't know where to begin. Ashley Tisdale was definitely not as good as Anna Faris was, and obviously, everyone will compare the two. I hate to admit it, but Mac Miller, Snoop Dogg, and Katt Williams all could have made audiences laugh with the material they were given, but were just too dry. \\n\\nAdmittedly, there were some very rare parts of the movie that had a somewhat witty humor to it, but it was only once or twice, and weak at that. The rest of the stupid slapstick humor was just so lame and dragging. Slapstick humor should stay within the PG level of humor for the kids. \\n\\nOn that note, the movie had overly crude, and just STUPID sexual humor that was just stupid and weak. Even hard R teenage sex comedies are more sophisticated than this. I laughed maybe one time, and it wasn't even a laugh. I kinda exhaled sharply while smiling. \\n\\nOverall, there was almost no sophisticated or witty humor, horrid acting, and it was all just plain bad. So yes, the reviews are correct, it was horrible. The only reason I give it a 3 instead of a 1 was because hundreds and hundreds of people put months and months of work into an 85 minute piece of what they thought was art, and giving a movie a 1 or maybe a 2 is too disrespectful to the art that is film. (But then again, this movie is pretty disrespectful to the art that is film as well.)",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 76681,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Horror"
+  ],
+  "datePublished": "2013-04-12",
+  "keywords": "ape,ballet,psychic,cameo appearance,kissing while having sex",
+  "duration": "PT1H28M",
+  "actor": [
+    {
+      "name": "Simon Rex",
+      "url": "https://www.imdb.com/name/nm0005350/"
+    },
+    {
+      "name": "Ashley Tisdale",
+      "url": "https://www.imdb.com/name/nm0864308/"
+    },
+    {
+      "name": "Charlie Sheen",
+      "url": "https://www.imdb.com/name/nm0000221/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Malcolm D. Lee",
+      "url": "https://www.imdb.com/name/nm0002700/"
+    },
+    {
+      "name": "David Zucker",
+      "url": "https://www.imdb.com/name/nm0001878/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Zucker",
+      "url": "https://www.imdb.com/name/nm0001878/"
+    },
+    {
+      "name": "Pat Proft",
+      "url": "https://www.imdb.com/name/nm0698493/"
+    },
+    {
+      "name": "Shawn Wayans",
+      "url": "https://www.imdb.com/name/nm0915465/"
+    }
+  ]
+}

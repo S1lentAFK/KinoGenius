@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Seven Pounds",
+  "url": "https://www.imdb.com/tt0814314/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU0NzY0MTY5OF5BMl5BanBnXkFtZTcwODY3MDEwMg@@._V1_.jpg",
+  "description": "A man with a fateful secret embarks on an extraordinary journey of redemption by forever changing the lives of seven strangers.",
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2009-01-16",
+  "duration": "PT2H3M",
+  "keywords": "redemption,weak heart,heart patient,friendship,falling in love",
+  "rating": {
+    "ratingCount": 314016,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "review": {
+    "author": "nihilisticChild",
+    "dateCreated": "2008-12-19",
+    "inLanguage": "English",
+    "heading": "Unexpected",
+    "reviewBody": "Let me start by saying I didn't care much to see this movie. Although the trailer left much to the imagination it looked quite boring.\nThe majority of the movie is mysterious, slightly confusing and will have you guessing a lot. It's almost hard to believe so many loose ends could be tied up as it nears its ending, but it does, and it does so beautifully. Everything culminates in this magnificent ending that will make you want to tell everyone you meet to go see this movie now.\nAlso, I'm the kind of person that is not easily moved. As a matter of fact I can't even remember the last time a movie made me feel something the way this one did.\nI rank this as one of the top movies of 2008, along with TDK and Slumdog Millionaire. And definitely somewhere on my all time top five.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "actor": [
+    {
+      "name": "Will Smith",
+      "url": "https://www.imdb.com/name/nm0000226/"
+    },
+    {
+      "name": "Rosario Dawson",
+      "url": "https://www.imdb.com/name/nm0206257/"
+    },
+    {
+      "name": "Woody Harrelson",
+      "url": "https://www.imdb.com/name/nm0000437/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gabriele Muccino",
+      "url": "https://www.imdb.com/name/nm0610831/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Grant Nieporte",
+      "url": "https://www.imdb.com/name/nm1455356/"
+    }
+  ]
+}

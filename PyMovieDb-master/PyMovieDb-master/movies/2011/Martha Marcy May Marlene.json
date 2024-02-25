@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Martha Marcy May Marlene",
+  "url": "https://www.imdb.com/tt1441326/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc1MTYwMzg1N15BMl5BanBnXkFtZTcwNzM0MDY4Ng@@._V1_.jpg",
+  "description": "Haunted by painful memories and increasing paranoia, a damaged woman struggles to re-assimilate with her family after fleeing an abusive cult.",
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2012-02-03",
+  "keywords": "cult,female nudity,brainwashed,religion,caught having sex",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Elizabeth Olsen",
+      "url": "https://www.imdb.com/name/nm0647634/"
+    },
+    {
+      "name": "Sarah Paulson",
+      "url": "https://www.imdb.com/name/nm0005299/"
+    },
+    {
+      "name": "John Hawkes",
+      "url": "https://www.imdb.com/name/nm0370035/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sean Durkin",
+      "url": "https://www.imdb.com/name/nm1699934/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sean Durkin",
+      "url": "https://www.imdb.com/name/nm1699934/"
+    }
+  ],
+  "review": {
+    "author": "Hildr",
+    "dateCreated": "2021-11-07",
+    "inLanguage": "English",
+    "heading": "Surprisingly good",
+    "reviewBody": "I'd never heard of this and when scrolling to find a movie it popped up.\n\nA slow, intense, psychological character study. There are some distressing scenes (sexual assault, violence) that were acted brilliantly.\n\nThe silence throughout the movie added to the intensity and put the viewer firmly into the mindset of the main character (Martha), who was excellently portrayed by Elizabeth Olsen.\n\nSarah Paulson (I should add I am biased towards her as she is an exquisite human) added depth and a gentleness that was required for the character of Martha to explore her situation in the scenes between them.\n\nThe aspect and post production on this was beautiful, the lighting throughout was spot on. The way that many scenes in the 'cult' were in near darkness contrasting to the light filled space once she left gave excellent visual cues and a sense of the tumultuous emotions being felt by Martha.\n\nWould definitely watch again to see if there were background things I've missed.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 55570,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  }
+}

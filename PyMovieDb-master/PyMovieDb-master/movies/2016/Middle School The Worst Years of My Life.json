@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Middle School: The Worst Years of My Life",
+  "url": "https://www.imdb.com/tt4981636/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzk1MzAzMzg2OV5BMl5BanBnXkFtZTgwNTY4ODIyODE@._V1_.jpg",
+  "description": "After his new principal Dwight destroys his sketchbook, Rafe Khatchadorian and his best friend Leo decide to metaphorically destroy Dwight&apos;s book by breaking every rule in the school&apos;s Code of Conduct.",
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2017-02-10",
+  "keywords": "mother son relationship,brother sister relationship,slimehouse,bunkbed,underage driver",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Griffin Gluck",
+      "url": "https://www.imdb.com/name/nm3838034/"
+    },
+    {
+      "name": "Lauren Graham",
+      "url": "https://www.imdb.com/name/nm0334179/"
+    },
+    {
+      "name": "Alexa Nisenson",
+      "url": "https://www.imdb.com/name/nm6835961/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steve Carr",
+      "url": "https://www.imdb.com/name/nm0139867/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Chris Bowman",
+      "url": "https://www.imdb.com/name/nm0101302/"
+    },
+    {
+      "name": "Hubbel Palmer",
+      "url": "https://www.imdb.com/name/nm1376062/"
+    },
+    {
+      "name": "Kara Holden",
+      "url": "https://www.imdb.com/name/nm1289517/"
+    }
+  ],
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2018-12-22",
+    "inLanguage": "English",
+    "heading": "needs a better lead",
+    "reviewBody": "Rafe Khatchadorian is a troubled student who is obsessed with his drawings. Jules (Lauren Graham) is his single mom and Bear (Rob Riggle) is her annoying boyfriend. Georgia is his smart-mouth sister. He starts at a strict new school run by the Principal Dwight and VP Stricker. He finds fellow troublemaker Leo attending the last chance school. Mr. Teller (Adam Pally) is his loose teacher. Leo talks him into breaking all the rules.\\n\\nIt&apos;s sporadically fun in a childish coming of age movie. The adults are one dimensional or half dimensional. There are a few too many jerks. It&apos;s unnecessary for the maitre-D to be one. It&apos;s like Diary of a Wimpy Kid but less compelling. Rafe doesn&apos;t have the spunk. The kid playing Leo would be better. It&apos;s all a little bit unlikeable. They need a more charismatic lead.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 9888,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  }
+}

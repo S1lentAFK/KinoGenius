@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Spider-Man 3",
+  "url": "https://www.imdb.com/tt0413300/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+  "description": "A strange black entity from another world bonds with Peter Parker and causes inner turmoil as he contends with new villains, temptations, and revenge.",
+  "review": {
+    "author": "D_R_Cran",
+    "dateCreated": "2007-05-04",
+    "inLanguage": "English",
+    "heading": "Could be so much better...",
+    "reviewBody": "This film had the hallmarkings of a great! After the first two films literally set the character scenes and the hopeful return of the goblin this film could have been fantastic!\\n\\nSadly however by slipping in some terrible and cheesy dialogue, an over-abundance of new characters and then trying to take on one of the greatest characters from the comics and cartoons the film comes out with an average marking!\\n\\nFirstly I have to say I enjoyed this film, it was fun, the special effects were fantastic and the fight scenes therefore played out very well.\\n\\nThis film did however destroyed any character building made by the previous two and results in a serious lack of cohesion to the other two and because of this cannot be placed within the same league.\\n\\nSandmand and the new goblin both admirable foes and both shown well, however venom could have been so much more and came across far too weak as far as I am concerned and seemed to be slipped on the back of an average film to try and boost ratings. I am not one for cliffhangers in large franchises, I mean the only reason I didn't see the 3rd matrix film was because the cliffhanger was pointless and the second film killed off any point of a third, however a full venom film would have made sense due to its sheer fantastic reasoning and design, even introducing the character carnage would have been fantastic, but he seems rushed in this film, and thats not the way to win over die hard fans and new fans the like!\\n\\nAnyway, I appear to be ranting, I would recommend you watch this film, its fun, its got great action and the Bruce Campbell cameo was fantastic, however do not watch this thinking you are going to get the same quality and attention to detail as the first two films, watch it like X-Men 3, as this is just what it is, a good trilogy spoilt by the lack of development and the need to force as many characters in at once. Oh and by the way, if you love over the top American patriotism, then this is definitely the film for you!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 631682,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2007-05-04",
+  "keywords": "villain,alien parasite,alien symbiote,stan lee cameo,superhero action",
+  "duration": "PT2H19M",
+  "actor": [
+    {
+      "name": "Tobey Maguire",
+      "url": "https://www.imdb.com/name/nm0001497/"
+    },
+    {
+      "name": "Kirsten Dunst",
+      "url": "https://www.imdb.com/name/nm0000379/"
+    },
+    {
+      "name": "Topher Grace",
+      "url": "https://www.imdb.com/name/nm0333410/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sam Raimi",
+      "url": "https://www.imdb.com/name/nm0000600/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sam Raimi",
+      "url": "https://www.imdb.com/name/nm0000600/"
+    },
+    {
+      "name": "Ivan Raimi",
+      "url": "https://www.imdb.com/name/nm0706898/"
+    },
+    {
+      "name": "Alvin Sargent",
+      "url": "https://www.imdb.com/name/nm0765091/"
+    }
+  ]
+}

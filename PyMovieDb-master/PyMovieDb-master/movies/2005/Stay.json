@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Stay",
+  "url": "https://www.imdb.com/tt0371257/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjdkNzk1MTUtZGVlYS00MzgyLWFkZjYtMWI4ODg3MzEyNmY4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+  "description": "A psychiatrist attempts to prevent one of his patients from committing suicide while trying to maintain his own grip on reality.",
+  "review": {
+    "author": "lilmiznetnerd",
+    "dateCreated": "2004-06-12",
+    "inLanguage": "English",
+    "heading": "Really good film",
+    "reviewBody": "I too was part of a test audience for this film. I do agree with the last comment about the plot. The script was a little predictable and the one liners seemed a little corny at times.\n\nThe acting however, I thought was great. Ewan McGregor put in a marvelous performance, demonstrating that he is talented and can easily play a wide variety of roles. Naomi Watts, I think also put in a great performance.\n\nOf course, I haven't as yet seen the fully edited theatre version, but so far I think it's a film that should definitely be seen.\n\nA good film in all. 4/5",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 85396,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "R",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2006-03-03",
+  "keywords": "dying,male male hug,art student,canal st. manhattan new york city,surrealism",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Ewan McGregor",
+      "url": "https://www.imdb.com/name/nm0000191/"
+    },
+    {
+      "name": "Naomi Watts",
+      "url": "https://www.imdb.com/name/nm0915208/"
+    },
+    {
+      "name": "Ryan Gosling",
+      "url": "https://www.imdb.com/name/nm0331516/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Marc Forster",
+      "url": "https://www.imdb.com/name/nm0286975/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Benioff",
+      "url": "https://www.imdb.com/name/nm1125275/"
+    }
+  ]
+}

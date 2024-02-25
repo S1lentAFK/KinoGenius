@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Carol",
+  "url": "https://www.imdb.com/tt2402927/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTczNTQ4OTEyNV5BMl5BanBnXkFtZTgwNDgyMDI3NjE@._V1_.jpg",
+  "description": "An aspiring photographer develops an intimate relationship with an older woman in 1950s New York.",
+  "review": {
+    "author": "Nxlly",
+    "dateCreated": "2015-10-09",
+    "inLanguage": "English",
+    "heading": "Great in every way!",
+    "reviewBody": "Thanks to the New York Film Festival I got the chance to see this perfectly crafted film early.\n\nCarol's nothing short of fantastic. It's story is one of the best romances i've seen put on the big screen. What I love is how nobody makes it a big fuzz about the two lovers being females. It's treated with the same respect as any other romantic drama, and it's done better than most of them. \n\nThe film is on another level when the two leads Cate Blanchett and Rooney Mara are on screen together. Both undoubtedly gave two of the best performances of the year. \n\nIt's pace is slow, but never boring. Giving us some intense slow-building moments that leaves us smiling or shedding tears. \n\nCarol's great. Watch it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 141248,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2015-11-27",
+  "keywords": "lesbian romance,lesbian,lesbian sex scene,older woman younger woman relationship,female female kiss",
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Cate Blanchett",
+      "url": "https://www.imdb.com/name/nm0000949/"
+    },
+    {
+      "name": "Rooney Mara",
+      "url": "https://www.imdb.com/name/nm1913734/"
+    },
+    {
+      "name": "Sarah Paulson",
+      "url": "https://www.imdb.com/name/nm0005299/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Todd Haynes",
+      "url": "https://www.imdb.com/name/nm0001331/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Phyllis Nagy",
+      "url": "https://www.imdb.com/name/nm0619507/"
+    },
+    {
+      "name": "Patricia Highsmith",
+      "url": "https://www.imdb.com/name/nm0383604/"
+    }
+  ]
+}

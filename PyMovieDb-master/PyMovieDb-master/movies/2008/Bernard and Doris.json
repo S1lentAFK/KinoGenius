@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Bernard and Doris",
+  "url": "https://www.imdb.com/tt0470732/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDYwNTA1YWUtM2IwNy00ZjgzLWFjNDAtMzc5OWU3NDZhYzI5XkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_.jpg",
+  "description": "The story of the twilight years of tobacco billionairess Doris Duke and her relationship with her gay butler, to whom she left her entire fortune.",
+  "contentRating": "TV-14",
+  "genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2010-02-01",
+  "keywords": "butler,homosexual,attempted bribery,driving under the influence,rehabilitation",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Susan Sarandon",
+      "url": "https://www.imdb.com/name/nm0000215/"
+    },
+    {
+      "name": "Ralph Fiennes",
+      "url": "https://www.imdb.com/name/nm0000146/"
+    },
+    {
+      "name": "Peter Asher",
+      "url": "https://www.imdb.com/name/nm0004717/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bob Balaban",
+      "url": "https://www.imdb.com/name/nm0000837/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Hugh Costello",
+      "url": "https://www.imdb.com/name/nm1462947/"
+    }
+  ],
+  "review": {
+    "author": "Chrysanthepop",
+    "dateCreated": "2011-09-04",
+    "inLanguage": "English",
+    "heading": "The Extraordinary Relationship Between a Billionairess and Her Butler",
+    "reviewBody": "Bob Balaban has made and contributed to an array of interesting films as writer, director and actor. His directorial venture focuses on the relationship of billionairess Doris Duke and her loyal butler Bernard Lafferty. Hugh Costello's writing is solid. The characterization seems accurate enough (at least based on what I've read about Duke and Lafferty). Both are portrayed as strong yet vulnerable humans. Duke did live an unusual life that involved alcohol and casual sex but she enjoyed the freedom of life and travelling. She lived with passion and believed strongly in causes to set up foundations. She was also an excellent businesswoman and loved her plants, especially her orchids. And, this film captures that brilliantly and one can see why a shy Bernard who also shared the same weakness with alcohol would be so taken by a woman like Doris Duke. She can be a difficult woman, especially to those working for her but her appealing sense of liveliness, passion and devotion was admirable and Bernard appreciated that. The tenderness and care in their relationship is portrayed beautifully. Susan Sarandon and Ralph Fiennes are stupendous. Both have effectively captured the essence and strength of their characters delivering strong performances. In addition, the cinematography and art direction are brilliant. Overall, Balaban and Costello have presented an interesting perspective and an intriguing account of a fascinating woman and her relationship with her butler.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 4436,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  }
+}

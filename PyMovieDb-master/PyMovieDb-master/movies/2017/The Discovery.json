@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Discovery",
+  "url": "https://www.imdb.com/tt5155780/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUzNjE5ODYwN15BMl5BanBnXkFtZTgwMTY4MjQ1MTI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "CinemaClown",
+    "dateCreated": "2017-04-11",
+    "inLanguage": "English",
+    "heading": "Teases With An Interesting Idea But Fails To Fill A Convincing Plot Around It",
+    "reviewBody": "The idea behind the premise of The Discovery is an interesting one but its implementation isn&apos;t as refined as expected and only works in bits n pieces. It&apos;s a thoughtful feature that experiments with existential elements and poses some intriguing questions but it neither presents it in a convincing manner nor remains thoroughly gripping.\n\nSet in the near-future, the story of The Discovery takes place in a world where suicide rate is at an all-time high after a scientist&apos;s breakthrough research proved the existence of an afterlife. The plot follows his son who is skeptical of his father&apos;s discovery and a mysterious young woman he meets on a ferry who wants to find out more about the afterlife.\n\nCo-written & directed by Charlie McDowell, the film opens with a prologue that skilfully sets up the future the rest of the plot unfolds in. For a while, it appears as if the director is taking more time to properly establish the characters & explore the metaphysical elements but the longer it continues to ponder over the same stuff, the more tedious it becomes.\n\nThe script is where the problem lies, for the brilliant hypothesis that the writers came up with isn&apos;t meticulously explored as if they couldn&apos;t figure out what to do with it, plus none of the characters inhabiting its future-setting are compelling enough. The plot wrapped around its theory begins on a promising note but by the time it ends, it finds itself in a familiar territory.\n\nThe cold colour palette, overcast ambiance & muted textures evoke a grim, hopeless future which fits the story requirements. Pacing is an issue as the movie plods through its 102 minutes runtime before concluding with a rushed ending. Rooney Mara, Robert Redford & Jesse Plemons play their part well but Jason Segel is severely miscast, and his chemistry with Mara is absolutely flat.\n\nOn an overall scale, The Discovery is one of those sci-fi flicks that teases with a fascinating idea but is unable to fill a compact & captivating narrative structure around it. Deficient in storytelling department and further marred by its cluelessness & lack of vision, it is a dull & sterile mess that had the opportunity to offer a sensory & stimulating experience but what it ultimately delivers is a cinematic ride that&apos;s as frustrating as it is hollow.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 37189,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "TV-MA",
+  "genre": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "datePublished": "2017-03-31",
+  "keywords": "suicide,alternative reality,afterlife,black and white scene,low budget sci fi movie",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Robert Redford",
+      "url": "https://www.imdb.com/name/nm0000602/"
+    },
+    {
+      "name": "Mary Steenburgen",
+      "url": "https://www.imdb.com/name/nm0005460/"
+    },
+    {
+      "name": "Brian McCarthy",
+      "url": "https://www.imdb.com/name/nm5359238/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Charlie McDowell",
+      "url": "https://www.imdb.com/name/nm1660595/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Charlie McDowell",
+      "url": "https://www.imdb.com/name/nm1660595/"
+    },
+    {
+      "name": "Justin Lader",
+      "url": "https://www.imdb.com/name/nm1645301/"
+    }
+  ]
+}

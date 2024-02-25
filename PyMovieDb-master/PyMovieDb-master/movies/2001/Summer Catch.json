@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Summer Catch",
+  "url": "https://www.imdb.com/tt0234829/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzE0MDRjOTMtODM1Ni00ODdiLTgxN2QtZGZlMmEwNWFlMWZmXkEyXkFqcGdeQXVyNDAxNjkxNjQ@._V1_.jpg",
+  "description": "A rich girl whose family summers on Cape Cod has a romance with a local poor boy who hopes to become a major league baseball player.",
+  "review": {
+    "author": "callanvass",
+    "dateCreated": "2013-09-23",
+    "inLanguage": "English",
+    "heading": "Corny beyond belief, but strangely enjoyable at the same time, it's got a weird charm that is hard to resist.",
+    "reviewBody": "(Plot) A very skilled, but troubled pitcher falls in love with a rich girl (Jessica Biel) The family of the rich girl doesn't approve. Can Freddie Prinze focus to achieve his dreams of pitching in the majors, and win the heart of the woman he loves? \\n\\nOK. So sue me. I actually had a fairly good time with this movie. I am by no means a fan of Freddie Prinze Jr. He is tolerable here though, and didn't embarrass himself at least. The story is very predictable. You know the drill with these types of films, but it's done in an enjoyable way, so it doesn't really matter in the whole scheme of things. Most Rom-Com's are recycled these days, so I just kick my brain to the curb, and try and enjoy them. What else can you really do? Jessica Biel is great to look at, and does decent as the love interest. I wouldn't say she was great, but she held her own. Matthew Lillard steals some scene's he is in as the loudmouth buddy. Brittany Murphy has a hilarious scene with Freddie Prinze. I won't spoil it, but she was terrific.\\n\\nFinal Thoughts: I don't remember a whole lot about this movie, but I remember enjoying it much more than I thought I would. The cast is game, and I couldn't help but like it. It's not great, but you could do a lot worse for Rom-Com's; worth a look!\\n\\n6/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 16602,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2001-08-24",
+  "keywords": "girl wears panties,chatham massachusetts,peroxide blonde,female removes her clothes,climbing out of a swimming pool",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Freddie Prinze Jr.",
+      "url": "https://www.imdb.com/name/nm0005327/"
+    },
+    {
+      "name": "Jessica Biel",
+      "url": "https://www.imdb.com/name/nm0004754/"
+    },
+    {
+      "name": "Fred Ward",
+      "url": "https://www.imdb.com/name/nm0911542/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Tollin",
+      "url": "https://www.imdb.com/name/nm0866132/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kevin Falls",
+      "url": "https://www.imdb.com/name/nm0266468/"
+    },
+    {
+      "name": "John Gatins",
+      "url": "https://www.imdb.com/name/nm0309691/"
+    }
+  ]
+}

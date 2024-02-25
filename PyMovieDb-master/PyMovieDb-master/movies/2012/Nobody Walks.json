@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Nobody Walks",
+  "url": "https://www.imdb.com/tt1907731/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTk4MDkyMTAzNl5BMl5BanBnXkFtZTcwOTUzMDIyOA@@._V1_.jpg",
+  "description": "A Silver Lake family's relaxed dynamic is tested after they take in a young artist so she can complete her art film.",
+  "review": {
+    "author": "jcnsoflorida",
+    "dateCreated": "2013-06-14",
+    "inLanguage": "English",
+    "heading": "Nobody Watches This Movie",
+    "reviewBody": "Anyone who really doesn't like LA would be foolish to watch this, but on the other hand, those of us who do like LA could do worse. I think it's not as bad as some people think it is. Yes, the characters are neurotic and horny navel-gazers. There are a lot of attempts to have sex in this. Some viewers might have a problem with an intergenerational pot-party scene. I don't think I've seen one of those before. The photography is pretty good and the acting too is not bad. Some have compared this film to Laurel Canyon which stars Frances McDormand and Christian Bale and is better. But it is a similar look at kind of a rarefied milieu wherein people can be annoying. But that's not really news, is it? I actually think a good rule of thumb is, if you start watching a movie and find you really don't like it, it's OK to stop. I'm just saying don't avoid things for the wrong reasons. Nobody Walks is 81 minutes and almost good.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 5209,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2020-09-21",
+  "keywords": [
+    "lifting a female into the air",
+    "short haired woman",
+    "short haired female",
+    "guesthouse",
+    "sex on a table"
+  ],
+  "duration": "PT1H23M",
+  "actor": [
+    {
+      "name": "John Krasinski",
+      "url": "https://www.imdb.com/name/nm1024677/"
+    },
+    {
+      "name": "Olivia Thirlby",
+      "url": "https://www.imdb.com/name/nm1880888/"
+    },
+    {
+      "name": "Rosemarie DeWitt",
+      "url": "https://www.imdb.com/name/nm1679669/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ry Russo-Young",
+      "url": "https://www.imdb.com/name/nm1735543/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lena Dunham",
+      "url": "https://www.imdb.com/name/nm2501633/"
+    },
+    {
+      "name": "Ry Russo-Young",
+      "url": "https://www.imdb.com/name/nm1735543/"
+    }
+  ]
+}

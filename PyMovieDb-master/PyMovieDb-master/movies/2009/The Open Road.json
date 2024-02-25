@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Open Road",
+  "url": "https://www.imdb.com/tt1007018/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM1NDc5NzYwOF5BMl5BanBnXkFtZTcwMzc5Mzc3Mg@@._V1_.jpg",
+  "description": "A man embarks on a road trip with his girlfriend and estranged baseball legend dad.",
+  "datePublished": "2009-08-28",
+  "duration": "PT1H31M",
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "keywords": "corpus christi texas,columbus ohio,family relationships,falling in love,road trip",
+  "rating": {
+    "ratingCount": 3726,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "review": {
+    "author": "bob-rutzel-1",
+    "dateCreated": "2010-01-06",
+    "inLanguage": "English",
+    "heading": "An okay made-for-TV movie",
+    "reviewBody": "About to undergo a delicate heart operation, Katherine (Steenburgen) asks her son Carlton (Timberlake) to get her estranged husband Kyle (Bridges) to come to her side in her hour of need. Long story short Carlton, Kyle and Lucy (Mara) drive to the hospital. And, here we have the theme: it&apos;s the journey that&apos;s important. \\n\\nThis is not a comedy as was billed. This is light drama with no good lines and absolutely no comedic moments at all. Light drama is what we have here. But, I have never sat through a movie whereby there was tension from beginning to end. Yes, the situation all find themselves in does create tension. There is tension between Father and son who haven&apos;t seen each other in years; and between Carlton and Lucy and she isn&apos;t sure about Carlton anymore. And, Carlton, well, he isn&apos;t sure about anything. \\n\\nI fault the script not the acting. Kate Mara says more with her eyes than what the script gives her. Timberlake is new at this and on unsteady legs, but his character is supposed to act the way he does. Lyle Lovett plays a bartender and not bad, not bad at all. Ted Danson (real life husband of Steenburgen) has a cameo in the beginning. As for Jeff Bridges, he plays what he is given and does a good job of it. I still maintain he is one of our better actors. Hear that Mr. Eastwood? Morgan isn&apos;t the only one. \\n\\nOne thing I didn&apos;t understand. If you are going to take a long trip why would you ever consider renting a gas guzzling Hummer. Yes, it was an H3, the smaller one, but still.. Yes, I know it was only a movie. \\n\\nThere are some dime-store philosophies given out at various moments, but nothing noteworthy to report. The journey thing trumps all and as you know journeys bond people. So there you have it: an okay Made-for-TV movie. \\n\\nWait a minute. There was a light almost comedic moment. We got to see the internationally famous Peabody Ducks stroll into the Peabody Hotel in Memphis as they have been doing for years. They look all grown up now.\\n\\nViolence: No. Sex: No. Nudity: No Language: Some, not much",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "actor": [
+    {
+      "name": "Justin Timberlake",
+      "url": "https://www.imdb.com/name/nm0005493/"
+    },
+    {
+      "name": "Ted Danson",
+      "url": "https://www.imdb.com/name/nm0001101/"
+    },
+    {
+      "name": "Harry Dean Stanton",
+      "url": "https://www.imdb.com/name/nm0001765/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Meredith",
+      "url": "https://www.imdb.com/name/nm0580618/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Meredith",
+      "url": "https://www.imdb.com/name/nm0580618/"
+    }
+  ]
+}

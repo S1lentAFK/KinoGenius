@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Breakin' All the Rules",
+  "url": "https://www.imdb.com/tt0349169/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg5MjA2OTU4MV5BMl5BanBnXkFtZTYwMjI4NDY3._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "kairingler",
+    "dateCreated": "2007-08-20",
+    "inLanguage": "English",
+    "heading": "the break up movie",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 6363,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2004-05-14",
+  "keywords": "apostrophe in title,punctuation in title,four word title,best selling author,man",
+  "duration": "PT1H25M",
+  "actor": [
+    {
+      "name": "Jamie Foxx",
+      "url": "https://www.imdb.com/name/nm0004937/"
+    },
+    {
+      "name": "Gabrielle Union",
+      "url": "https://www.imdb.com/name/nm0005517/"
+    },
+    {
+      "name": "Morris Chestnut",
+      "url": "https://www.imdb.com/name/nm0004820/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Daniel Taplitz",
+      "url": "https://www.imdb.com/name/nm0850044/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Daniel Taplitz",
+      "url": "https://www.imdb.com/name/nm0850044/"
+    }
+  ]
+}

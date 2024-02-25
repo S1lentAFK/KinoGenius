@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Devil's Due",
+  "url": "https://www.imdb.com/tt2752758/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTk5MjFmNzEtOWNlMi00ZWM4LTg0YTItMTA0ZWIzZWNmMDFiXkEyXkFqcGdeQXVyODQxMTI4MjM@._V1_.jpg",
+  "description": "After a mysterious, lost night on their honeymoon, a newlywed couple finds themselves dealing with an earlier-than-planned pregnancy.",
+  "review": {
+    "author": "Stevieboy666",
+    "dateCreated": "2017-11-15",
+    "inLanguage": "English",
+    "heading": "Found footage Rosemary's Baby clone",
+    "reviewBody": "When a newly wed young couple accept an invitation to a club from a very suspicious looking taxi driver whilst on their honeymoon they fall prey to some unclear Satanic cult & she then becomes pregnant with the Devil's child. There's a lesson to be learned! This is basically a Rosemary's Baby clone but for the modern age. Filmed in the found footage style, a sub genre that has been frankly done to death, and although I felt that it wasn't entirely necessary for this movie they did at least do a reasonable job. Acting is good & there are a few decent special effects thrown in but on the downside it is fairly slow for most part, the shaky camera work does become annoying at times & plot wise it doesn't offer much.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 17704,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2014-01-16",
+  "keywords": "pregnancy,psychotronic film,woman wears a bikini,woman wrapped in a towel,body lands on a car",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Allison Miller",
+      "url": "https://www.imdb.com/name/nm1935292/"
+    },
+    {
+      "name": "Zach Gilford",
+      "url": "https://www.imdb.com/name/nm1472917/"
+    },
+    {
+      "name": "Sam Anderson",
+      "url": "https://www.imdb.com/name/nm0027402/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Matt Bettinelli-Olpin",
+      "url": "https://www.imdb.com/name/nm2366012/"
+    },
+    {
+      "name": "Tyler Gillett",
+      "url": "https://www.imdb.com/name/nm2419470/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lindsay Devlin",
+      "url": "https://www.imdb.com/name/nm2303288/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Gospel",
+  "url": "https://www.imdb.com/tt0451069/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWE1MDE4OGEtN2VjNy00NzEzLWJjODAtYThmNWY4OWU3YjkxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "jpoling3",
+    "dateCreated": "2005-10-18",
+    "inLanguage": "English",
+    "heading": "Surprise!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 2265,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2005-10-07",
+  "keywords": "blues music,young,church,singer,pastor",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Boris Kodjoe",
+      "url": "https://www.imdb.com/name/nm0462673/"
+    },
+    {
+      "name": "Nona Gaye",
+      "url": "https://www.imdb.com/name/nm0310850/"
+    },
+    {
+      "name": "Idris Elba",
+      "url": "https://www.imdb.com/name/nm0252961/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rob Hardy",
+      "url": "https://www.imdb.com/name/nm0362734/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Rob Hardy",
+      "url": "https://www.imdb.com/name/nm0362734/"
+    }
+  ]
+}

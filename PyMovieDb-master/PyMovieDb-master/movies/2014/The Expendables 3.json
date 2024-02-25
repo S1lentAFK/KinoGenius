@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Expendables 3",
+  "url": "https://www.imdb.com/tt2333784/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1_.jpg",
+  "description": "Barney augments his team with new blood for a personal battle: to take down Conrad Stonebanks, the Expendables co-founder and notorious arms trader who is hell bent on wiping out Barney and every single one of his associates.",
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "datePublished": "2014-08-14",
+  "keywords": "las vegas nevada,mission,pg 13 sequel to r rated franchise,sequel,night cityscape",
+  "duration": "PT2H6M",
+  "rating": {
+    "ratingCount": 194975,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "review": {
+    "author": "hawkfrend-875-968087",
+    "dateCreated": "2014-08-05",
+    "inLanguage": "English",
+    "heading": "Great popcorn flick",
+    "reviewBody": "I read a lot of bad reviews about this film, attacks on the script, plot and direction, so I was pleasantly surprised to find they were all wrong and they totally missed the point. I think these people were expecting Oscar winning performances but this film is about watching bad guys getting their a*s kicked. I also read that the actors seems withdrawn and bored of their roles and that is utter rubbish, and even if that were true it doesn&apos;t matter, im not interested in deep characters and meaningful performances in films like this, I just want to see lots of destruction and the bad guys getting owned.\\n\\nThere&apos;s some funny dialogue here and there and Banderas&apos; character had me smiling a lot.\\n\\nIf you like action films you will enjoy this action romp, so ignore those bad reviews and grab yourself a bucket of popcorn and enjoy.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Sylvester Stallone",
+      "url": "https://www.imdb.com/name/nm0000230/"
+    },
+    {
+      "name": "Jason Statham",
+      "url": "https://www.imdb.com/name/nm0005458/"
+    },
+    {
+      "name": "Jet Li",
+      "url": "https://www.imdb.com/name/nm0001472/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Patrick Hughes",
+      "url": "https://www.imdb.com/name/nm0400850/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sylvester Stallone",
+      "url": "https://www.imdb.com/name/nm0000230/"
+    },
+    {
+      "name": "Creighton Rothenberger",
+      "url": "https://www.imdb.com/name/nm4950667/"
+    },
+    {
+      "name": "Katrin Benedikt",
+      "url": "https://www.imdb.com/name/nm4951717/"
+    }
+  ]
+}

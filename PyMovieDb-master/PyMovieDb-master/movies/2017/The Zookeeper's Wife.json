@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Zookeeper&apos;s Wife",
+  "url": "https://www.imdb.com/tt1730768/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTY3YmZmYmMtZjc3Zi00N2VjLWE5ZGMtN2M0ODkzOGQ5M2UyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTk1MTQ3NDI@._V1_.jpg",
+  "description": "Keepers of the Warsaw Zoo, Antonina and Jan Zabinski, must save hundreds of people and animals during the Nazi invasion in WWII Poland.",
+  "review": {
+    "author": "ph-swinnen",
+    "dateCreated": "2017-07-06",
+    "inLanguage": "English",
+    "heading": "Get rid of these ridiculous English/foreign accents",
+    "reviewBody": "A film with promising actors and based upon an incredible true story, however didn&apos;t fill up to its high expectations, sadly. \n\nSomething that always troubles me, is feeling the need to speak English with an accent to show that they&apos;re actually speaking another language. It&apos;s in fact ridiculous, knowing that Johan Heldenbergh is pure Belgian (and actually speaks English with a Flemish/Ghent accent) and Jessica Chastain is pure American (her English/polish accent is just ridiculous). Either you just speak plain English or you make the movie with Polish actors. Besides that, Johan Heldenbergh, the zookeeper, (world-renown in Belgium but his first introduction in a bigger US production), was impeccable & perfectly casted.\n\nThe film didn&apos;t blow me away and was predictable from beginning till the end. Fairly enjoyable for a regular weeknight if you have nothing to do, but will most certainly be forgotten the next day - not anywhere near classic holocaust movies like Schindler&apos;s list or The Pianist. Too bad, cause everything was there (especially book & script) to make a much stronger impact.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 46166,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2017-03-30",
+  "keywords": "zoo,nazi,nazi occupied poland,polish german relations,hiding place",
+  "duration": "PT2H7M",
+  "actor": [
+    {
+      "name": "Jessica Chastain",
+      "url": "https://www.imdb.com/name/nm1567113/"
+    },
+    {
+      "name": "Johan Heldenbergh",
+      "url": "https://www.imdb.com/name/nm0374949/"
+    },
+    {
+      "name": "Daniel Brühl",
+      "url": "https://www.imdb.com/name/nm0117709/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Niki Caro",
+      "url": "https://www.imdb.com/name/nm0138927/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Angela Workman",
+      "url": "https://www.imdb.com/name/nm0941453/"
+    },
+    {
+      "name": "Diane Ackerman",
+      "url": "https://www.imdb.com/name/nm2430979/"
+    }
+  ]
+}

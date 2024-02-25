@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Max Payne",
+  "url": "https://www.imdb.com/tt0467197/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzM5OTAxYmQtODRkZC00ZGZlLTlhNzYtNzFiODVjMTY4MWU2XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+  "description": "Coming together to solve a series of murders in New York City are a police detective and an assassin, who will be hunted by the police, the mob, and a ruthless corporation.",
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2008-11-14",
+  "keywords": "based on video game,corporate crime,corporate executive,gunfight,corruption",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Mark Wahlberg",
+      "url": "https://www.imdb.com/name/nm0000242/"
+    },
+    {
+      "name": "Mila Kunis",
+      "url": "https://www.imdb.com/name/nm0005109/"
+    },
+    {
+      "name": "Beau Bridges",
+      "url": "https://www.imdb.com/name/nm0000977/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Moore",
+      "url": "https://www.imdb.com/name/nm0601382/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Beau Thorne",
+      "url": "https://www.imdb.com/name/nm2830774/"
+    },
+    {
+      "name": "Sam Lake",
+      "url": "https://www.imdb.com/name/nm1053843/"
+    }
+  ],
+  "review": {
+    "author": "alaric3",
+    "dateCreated": "2008-10-18",
+    "inLanguage": "English",
+    "heading": "How do you have this bad of a script?",
+    "reviewBody": "Max Payne was a game that was born of Film Noir and John Woo. This movie? Voice overs = 1 or two. (There was hope in the opening but then nothing) Action scenes = minimal. (Not too bad other than being sparse) Acting = very good for what little the script offers. (The actors do not deserve the blame for this atrocity unless it is for choosing to do this script.) Scenery/Cinematography = Brilliant but wasted on scenes like 8 minutes picking up a folder with no conflict in the scene. (The scenery was impressively accurate to the game. I kept feeling like it was going to get better because of it. Then nothing would happen.)\\n\\nI wanted this to be good. I kept lying to myself and saying it would get better any minute.\\n\\nPeople who say I am disappointed because it isn&apos;t the video game need to understand I didn&apos;t want the video game I wanted an action film that captured the essence of the game.\\n\\nWe are left with no reason to care for Max Payne. If I was the writer I would have been ashamed to have my name attached.\\n\\nMax Payne got the Indy treatment.\\n\\nI really want my money back on this one. I felt insulted that they thought this script was a passable story.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 129762,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  }
+}

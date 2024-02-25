@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Albatross",
+  "url": "https://www.imdb.com/tt1541149/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI3ODY3OTczNF5BMl5BanBnXkFtZTcwODkxNTE0Ng@@._V1_.jpg",
+  "description": "Beth, a bookish teenager, befriends Emilia, an aspiring novelist who has just arrived in town. Emilia soon begins an affair with Beth&apos;s father that threatens to have devastating consequences.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2016-08-17",
+    "inLanguage": "English",
+    "heading": "story suggest darker eroticism",
+    "reviewBody": "Emelia Conan Doyle (Jessica Brown Findlay) claims to be a descendant of the great writer Arthur Conan Doyle. She takes a cleaning job at a seaside hotel owned by Jonathan Fischer (Sebastian Koch). He&apos;s struggling with writer&apos;s block and holed up in the attic. He has combative wife Joa (Julia Ormond), bookish daughter Beth (Felicity Jones), and six year old Posy. Emelia befriends Beth who is applying for Oxford. Emelia claims to be a writer but she can&apos;t live up to her family name. As Jonathan mentors her, they begin an affair.\\n\\nJessica Brown Findlay and Felicity Jones are both lovely although this movie may be better if there is a darker, sexier edge. This plays more like a light relationship drama. The story suggests an eroticism that this movie does not have despite Findlay flashing her boobs comically. There is a darker edge that nobody is able to deliver other than Ormond. The story, the performances, and the tone don&apos;t completely click.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 5596,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2011-10-14",
+  "keywords": "studying,teenager,reference to pubic hair,father,leather jacket",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Felicity Jones",
+      "url": "https://www.imdb.com/name/nm0428065/"
+    },
+    {
+      "name": "Jessica Brown Findlay",
+      "url": "https://www.imdb.com/name/nm3726887/"
+    },
+    {
+      "name": "Sebastian Koch",
+      "url": "https://www.imdb.com/name/nm0462407/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Niall MacCormick",
+      "url": "https://www.imdb.com/name/nm1732975/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tamzin Rafn",
+      "url": "https://www.imdb.com/name/nm1064900/"
+    }
+  ]
+}

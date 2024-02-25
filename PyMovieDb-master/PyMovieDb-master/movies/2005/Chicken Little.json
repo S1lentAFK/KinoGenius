@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "Chicken Little",
+  "url": "https://www.imdb.com/tt0371606/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM3MTIzMDQxMV5BMl5BanBnXkFtZTYwNTE0Mjg3._V1_.jpg",
+  "description": "After ruining his reputation with the town, a courageous chicken must come to the rescue of his fellow citizens when aliens start an invasion.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2006-02-10",
+  "keywords": "chicken,alien,panic,fish,friend",
+  "duration": "PT1H21M",
+  "rating": {
+    "ratingCount": 99980,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "review": {
+    "author": "Caia1972",
+    "dateCreated": "2005-12-28",
+    "inLanguage": "English",
+    "heading": "An excellent first movie",
+    "reviewBody": "My son is four years old and I decided that his gift for the second day of Christmas would be his first trip to a movie theater. We scanned the list of titles now playing and Chicken little was pretty much the only option. Narnia or Cheaper by the dozen, for instance, are for much older kids. Mine found Shreck boring (he never had the patience to watch the whole movie on DVD). The same goes for Finding Nemo and pretty much every other movie I tried to make him watch, unless it was after some TV show. I was beginning to fear that we are doomed to watch nothing but Power Rangers forever. But Chicken Little did the trick. He watched it and loved it. In fact, he had the time of his life. He laughed, he screamed, he jumped, he covered his eyes and screamed again, and then he laughed some more.I can&apos;t say anything about myself, because I was to busy taking pictures of my kid watching his first movie to pay any attention to the screen, but my 4-year old rated this movie excellent. And I think his opinion is the only one that matters, because the movie is for him, and for other kids his age, not for grown-ups or teens. So please try to see it with the eyes of a little kid, and you might enjoy it better.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 99980,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "actor": [
+    {
+      "name": "Zach Braff",
+      "url": "https://www.imdb.com/name/nm0103785/"
+    },
+    {
+      "name": "Joan Cusack",
+      "url": "https://www.imdb.com/name/nm0000349/"
+    },
+    {
+      "name": "Garry Marshall",
+      "url": "https://www.imdb.com/name/nm0005190/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mark Dindal",
+      "url": "https://www.imdb.com/name/nm0227540/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Dindal",
+      "url": "https://www.imdb.com/name/nm0227540/"
+    },
+    {
+      "name": "Mark Kennedy",
+      "url": "https://www.imdb.com/name/nm0448208/"
+    },
+    {
+      "name": "Steve Bencich",
+      "url": "https://www.imdb.com/name/nm0070368/"
+    }
+  ]
+}

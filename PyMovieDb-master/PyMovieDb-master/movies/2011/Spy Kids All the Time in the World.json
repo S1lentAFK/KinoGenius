@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Spy Kids 4: All the Time in the World",
+  "url": "https://www.imdb.com/tt1517489/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE1NTEwNzM5MV5BMl5BanBnXkFtZTcwNTA5Njc0NQ@@._V1_.jpg",
+  "description": "A retired spy is called back into action, and to bond with her new step-children, she invites them along for the adventure to stop the evil Timekeeper from taking over the world.",
+  "review": {
+    "author": "paulww",
+    "dateCreated": "2011-08-26",
+    "inLanguage": "English",
+    "heading": "Robert Rodriguez has still got the magic !",
+    "reviewBody": "Yes, Robert hasn't lost his touch. When a man has that much talent and imagination, you wonder how long he can keep it up. He is a genius, and I don't use that word lightly. He has invented a new kind of movie here, with the spy kids series. A movie that empowers children instead of what Hollywood has always done with children's movies. The spy kids movies are a refreshing change and I'm glad to see it continuing. The first three were ground breaking and very special. I was so glad to see that this one lives up to that. Although not as good as the first two, which were superb, I rate it about the same as the third one. It may be hard for some to embrace the new cast, which happens every time a new James Bond is cast. I think everyone is just as likable as the originals. Reviews that cut down the acting, plot or whatever don't understand what Rodriguez has done. This movie, as with the other three, is for children and people who love children. If you don't consider yourself in one of those categories then you won't get it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 28190,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.5
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2011-08-19",
+  "keywords": "child spy,machete cortez character,child thwarting a crime,strong female,female protagonist",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Jessica Alba",
+      "url": "https://www.imdb.com/name/nm0004695/"
+    },
+    {
+      "name": "Jeremy Piven",
+      "url": "https://www.imdb.com/name/nm0005315/"
+    },
+    {
+      "name": "Joel McHale",
+      "url": "https://www.imdb.com/name/nm0570364/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Rodriguez",
+      "url": "https://www.imdb.com/name/nm0001675/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Rodriguez",
+      "url": "https://www.imdb.com/name/nm0001675/"
+    }
+  ]
+}

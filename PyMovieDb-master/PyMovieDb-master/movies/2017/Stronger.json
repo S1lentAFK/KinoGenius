@@ -1,0 +1,62 @@
+{
+  "type": "Movie",
+  "name": "Stronger",
+  "url": "https://www.imdb.com/tt5738152/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDEwNGQxNDktM2I4MC00MzY0LWI1NDktZmJlYjI1ZGFhNmQ4XkEyXkFqcGdeQXVyNjcyOTMzNDE@._V1_.jpg",
+  "description": "WE ARE STRONGER is a faith-based movie exploring a veteran&apos;s battle with PTSD. As he struggles to recover from his injuries, reclaim his marriage, and fit back into the civilian world, he discovers he can&apos;t do it alone.",
+  "review": {
+    "author": "carla-910-24566",
+    "dateCreated": "2019-02-02",
+    "inLanguage": "English",
+    "heading": "Revolutionary Movie of Radical Hope, Forgiveness, and Restoration!",
+    "reviewBody": "One of the most powerful, inspirational, and authentic films I&apos;ve ever seen! This movie is a life-changer for everyone. I walked away with a greater understanding of the effects PTSD has on not only veterans but also first responders and other trauma survivors. I highly recommend watching WE ARE STRONGER to everyone!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 54,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": null,
+  "keywords": "ptsd post traumatic stress disorder,veteran,christian film,christianity,trauma",
+  "duration": "PT2H5M",
+  "actor": [
+    {
+      "name": "Ulises Larramendi",
+      "url": "https://www.imdb.com/name/nm7245884/"
+    },
+    {
+      "name": "Angela Sweet",
+      "url": "https://www.imdb.com/name/nm1235760/"
+    },
+    {
+      "name": "Justina Page",
+      "url": "https://www.imdb.com/name/nm8157260/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jake M. Allen",
+      "url": "https://www.imdb.com/name/nm8157273/"
+    },
+    {
+      "name": "Robin B. Murray",
+      "url": "https://www.imdb.com/name/nm8157258/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robin B. Murray",
+      "url": "https://www.imdb.com/name/nm8157258/"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Think Like a Man",
+  "url": "https://www.imdb.com/tt1621045/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjExNTc4NDg3OV5BMl5BanBnXkFtZTcwNTMzNDAxNw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "beatrice-mcclearn",
+    "dateCreated": "2012-04-22",
+    "inLanguage": "English",
+    "heading": "Not bad; Not great. Kevin Hart made the movie.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 49979,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2012-06-22",
+  "keywords": "animated credits,four word title,african american,african american protagonist,interracial friendship",
+  "duration": "PT2H3M",
+  "actor": [
+    {
+      "name": "Chris Brown",
+      "url": "https://www.imdb.com/name/nm2093097/"
+    },
+    {
+      "name": "Gabrielle Union",
+      "url": "https://www.imdb.com/name/nm0005517/"
+    },
+    {
+      "name": "Kevin Hart",
+      "url": "https://www.imdb.com/name/nm0366389/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tim Story",
+      "url": "https://www.imdb.com/name/nm1103162/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Keith Merryman",
+      "url": "https://www.imdb.com/name/nm2226647/"
+    },
+    {
+      "name": "David A. Newman",
+      "url": "https://www.imdb.com/name/nm2226970/"
+    },
+    {
+      "name": "Steve Harvey",
+      "url": "https://www.imdb.com/name/nm0367724/"
+    }
+  ]
+}

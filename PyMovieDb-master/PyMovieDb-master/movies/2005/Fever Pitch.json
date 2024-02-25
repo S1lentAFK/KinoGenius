@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Fever Pitch",
+  "url": "https://www.imdb.com/tt0119114/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNDgzMDgzMV5BMl5BanBnXkFtZTgwMjU2MzgxMTE@._V1_.jpg",
+  "description": "A sports fan's romantic courtship clashes with his obsession with his favorite football team.",
+  "review": {
+    "author": "jshoaf",
+    "dateCreated": "2007-09-30",
+    "inLanguage": "English",
+    "heading": "How to film a novel",
+    "reviewBody": "I am a middle-aged American woman who has never seen a soccer game and has never seen any kind of live sports game all the way through beyond Little League (3 brothers, 1 son). I live in a town where football is the main local religion. Nick Hornby's novel was a delight to read and really gave me some sense of the psychology as well as the anthropology of being a fan. I rented the movie because I wanted to SEE the novel: the stadium, the terraces, the colors, the craziness Hornby describes. Youtube and Wikipedia could tell me some about Alan Smith, Highbury, the Hillsborough tragedy, but not enough. The movie came through. Actual footage of games and scenes inside the stadium gave a powerful sense of what it's all about. The final sequence, in which various characters Paul's fandom has touched watch a championship game, was wonderfully moving. The plot has three characters--Paul the young fan, Paul the adult fan, and Sarah the outsider who is repelled by the irrationality, the loud and sweary masculinity of it all. The plot exists to allow Paul to expose, stubbornly as a child and articulately as an adult, what it means to be a fan. Sarah is there to force him into talking and thinking a bit about it. Both Pauls are marvelous. Colin Firth is amazing. His physical attractiveness is essential to the plot--it gets him into Sarah's bed so they can start talking about Arsenal-- and that simple fact leaves him huge amounts of room to be boyish, goofy, moody, clueless, innocent, and cruel.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 11638,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "1997-04-04",
+  "keywords": "younger version of adult narrator,timelines intertwined,accidental pregnancy,broken condom,implied sex",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Colin Firth",
+      "url": "https://www.imdb.com/name/nm0000147/"
+    },
+    {
+      "name": "Ruth Gemmell",
+      "url": "https://www.imdb.com/name/nm0312587/"
+    },
+    {
+      "name": "Luke Aikman",
+      "url": "https://www.imdb.com/name/nm0014606/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Evans",
+      "url": "https://www.imdb.com/name/nm0262678/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nick Hornby",
+      "url": "https://www.imdb.com/name/nm0394984/"
+    }
+  ]
+}

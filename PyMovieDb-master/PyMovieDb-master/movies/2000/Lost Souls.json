@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Lost Souls",
+  "url": "https://www.imdb.com/tt0160484/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzI4YzBjNzktZDI1MS00N2MzLThiODQtMjIwMDI3MWZjMTczXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+  "description": "A Catholic teacher meets an atheist journalist, whom a group of Catholics and Priests believes has been chosen by the devil to be the Antichrist.",
+  "review": {
+    "author": "djnoize",
+    "dateCreated": "2002-04-30",
+    "inLanguage": "English",
+    "heading": "fairly run of the mill movie",
+    "reviewBody": "Was this made for TV? Probably went striaght to rental. It's ok for a time filler, nothing much more. Couple of scenes may make you jump, or at least curl your lip. Not tooo slow going, just managed to keep my interest long enough until the anti-climatical ending. It's like reading a book only to find that the last page is missing, but then reaslise that it makes no difference...",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 11329,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2001-01-12",
+  "keywords": "priest,antichrist,exorcism,devil worship,demonic possession",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Winona Ryder",
+      "url": "https://www.imdb.com/name/nm0000213/"
+    },
+    {
+      "name": "Ben Chaplin",
+      "url": "https://www.imdb.com/name/nm0001035/"
+    },
+    {
+      "name": "Sarah Wynter",
+      "url": "https://www.imdb.com/name/nm0944077/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Janusz Kaminski",
+      "url": "https://www.imdb.com/name/nm0001405/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Pierce Gardner",
+      "url": "https://www.imdb.com/name/nm0307070/"
+    },
+    {
+      "name": "Betsy Stahl",
+      "url": "https://www.imdb.com/name/nm0821439/"
+    }
+  ]
+}

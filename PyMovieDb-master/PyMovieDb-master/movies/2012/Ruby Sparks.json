@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Ruby Sparks",
+  "url": "https://www.imdb.com/tt1839492/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE2OTM5OTUyOF5BMl5BanBnXkFtZTcwODI4Nzg3Nw@@._V1_.jpg",
+  "description": "A novelist struggling with writer&apos;s block finds romance in a most unusual way: by creating a female character he thinks will love him, then willing her into existence.",
+  "review": {
+    "author": "rooee",
+    "dateCreated": "2012-10-15",
+    "inLanguage": "English",
+    "heading": "Metafiction",
+    "reviewBody": "Paul Dano plays Calvin, a dead sad and dead serious young writer, who has apparently used the royalties from his one hugely popular novel to finance an ultramodern iPod-themed house, and yet still chooses to use a typewriter. In the depths of his writer&apos;s block he fashions a few choice sentences about a woman - Ruby Sparks - who is his dream girl. His literature makes her literal, and Calvin is able to control her moods and actions by typing. It&apos;s reminiscent of Stranger Than Fiction with Will Ferrell, although Dano plays his part more like Jim Carrey might have done a decade ago: broad and physical, but with subtlety and pathos behind the mugging.\\n\\nIn a welcome tonal shift, Ruby Sparks moves gradually from hip romantic comedy to meta-horror - although it feels like there&apos;s a bit too much of the former, as I got the feeling that the zany pixie girl and self- hating writer stereotypes were being indulged more than they were being deconstructed. So what could have been a really interesting Woody Allen-esque philosophical rabbit-hole ends up cutting a far more familiar, shallower groove. But still, it&apos;s satisfying to see a cautionary flourish to go with the wish fulfilment.\\n\\nRuby herself is played by Zo\\u00eb Kazan, granddaughter of the great Elia (On the Waterfront et al), with great energy and some charm. Kazan also wrote the film. So we have a film about art imitating life, written by the actor playing the title character, starring her real-life partner (Dano), and directed by the real-life partnership of Jonathan Dayton and Valerie Faris (best known for Little Miss Sunshine). So it&apos;s a helluva conundrum; but it&apos;s also well-made, sometimes funny and thought- provoking, and includes amusing cameos from Elliot Gould, Annette Bening, Steve Coogan and Antonio Banderas - so definitely worth a watch.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 105087,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "datePublished": "2012-10-12",
+  "keywords": "imaginary character made real,writer&apos;s block,book comes to life,reference to f. scott fitzgerald,best selling author",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Paul Dano",
+      "url": "https://www.imdb.com/name/nm0200452/"
+    },
+    {
+      "name": "Zoe Kazan",
+      "url": "https://www.imdb.com/name/nm1443740/"
+    },
+    {
+      "name": "Annette Bening",
+      "url": "https://www.imdb.com/name/nm0000906/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jonathan Dayton",
+      "url": "https://www.imdb.com/name/nm0206760/"
+    },
+    {
+      "name": "Valerie Faris",
+      "url": "https://www.imdb.com/name/nm0267512/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Zoe Kazan",
+      "url": "https://www.imdb.com/name/nm1443740/"
+    }
+  ]
+}

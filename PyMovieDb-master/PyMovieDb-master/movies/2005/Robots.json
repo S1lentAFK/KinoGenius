@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Robots",
+  "url": "https://www.imdb.com/tt0358082/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDYyNjY1NjY1M15BMl5BanBnXkFtZTcwNjk5MDczMw@@._V1_.jpg",
+  "description": "In a robot world, a young idealistic inventor travels to the big city to join his inspiration's company, only to find himself opposing its sinister new management.",
+  "review": {
+    "author": "cedric_owl",
+    "dateCreated": "2005-03-14",
+    "inLanguage": "English",
+    "heading": "Was there a story here?",
+    "reviewBody": "I left this film feeling high. Not because I literally ingested anything before arriving at the theatre, but because the movie provided that familiar feeling of one's brain being reduced to a muddled receptor for bright colors and funny noises.\\n\\nSo about the story: boy robot leaves his home for the big-city, must defeat evil robot trying to control the robot world. During this epic quest he encounters a series of Disney-ish archetypes, including: wacky robot sidekick (voiced by Robin Williams, natch), bland robot love interest (Halle Berry, spending all of maybe three hours in the recording studio), and a spunky tomboy robot (voiced by some unmemorable tween star).\\n\\nThe storyline, such as it is, could probably fill a single half-hour slot on Nickelodeon. There are a few funny bits of dialogue (provided by off-Broadway scribe David Lindsay Abaire), but mostly the script is just the filler before the next elaborate visual sequence dreamed up by the animators.\\n\\nAnd don't get me wrong: those visual sequences are pretty cool. I can't quite decide which is more impressive: the hyperkinetic ride through the immaculately detailed robot city or a complicated sequence involving thousands of dominoes. The art department clearly put a mind-boggling amount of effort into creating a fully realized world.\\n\\nBut that, unfortunately, is all there is. An awesomely rendered environment with nothing in the foreground. Many of the characters, particularly the protagonist, feel like little more than rough outlines. The relationships between characters feel like tacked-on afterthoughts. This is compounded by the most lackluster and non-distinctive voice work I've ever heard from major movie stars (Ewan McGregor and Halle Berry sound so bored, I would have preferred they hire interns from the accounting department).\\n\\nI recommend this film slightly, simply because of the stunning visuals. But otherwise, with the success of truly subversive CGI films like The Incredibles and Shrek, Robots just doesn't cut it.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 160613,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2005-03-18",
+  "keywords": "steampunk,robot,parents,male protagonist,title directed by male",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Ewan McGregor",
+      "url": "https://www.imdb.com/name/nm0000191/"
+    },
+    {
+      "name": "Halle Berry",
+      "url": "https://www.imdb.com/name/nm0000932/"
+    },
+    {
+      "name": "Mel Brooks",
+      "url": "https://www.imdb.com/name/nm0000316/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chris Wedge",
+      "url": "https://www.imdb.com/name/nm0917188/"
+    },
+    {
+      "name": "Carlos Saldanha",
+      "url": "https://www.imdb.com/name/nm0757858/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Lindsay-Abaire",
+      "url": "https://www.imdb.com/name/nm1865755/"
+    },
+    {
+      "name": "Lowell Ganz",
+      "url": "https://www.imdb.com/name/nm0304665/"
+    },
+    {
+      "name": "Babaloo Mandel",
+      "url": "https://www.imdb.com/name/nm0541632/"
+    }
+  ]
+}

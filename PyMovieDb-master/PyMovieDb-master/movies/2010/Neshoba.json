@@ -1,0 +1,54 @@
+{
+  "type": "Movie",
+  "name": "Neshoba",
+  "url": "https://www.imdb.com/tt1337155/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMzNzU3NzM4Nl5BMl5BanBnXkFtZTgwMzYwMzA2MDE@._V1_.jpg",
+  "description": "NESHOBA tells the story of a Mississippi town still divided about the meaning of justice, 40 years after the murders of civil rights workers James Chaney, Andrew Goodman and Michael Schwerner. Although Klansmen bragged openly abou...",
+  "review": {
+    "author": "criticlh-1",
+    "dateCreated": "2009-04-18",
+    "inLanguage": "English",
+    "heading": "Balanced Examination of a Brutal Murder.",
+    "reviewBody": "During Freedom Summer 1964, three young civil rights workers were brutally murdered in Neshoba County, Mississippi, an event that inspired the theatrical film Mississippi Burning. Even though the identity of the killers was an open secret, no one was brought to justice for more than 40 years. Finally in 2005 the alleged ringleader, Rev. Edgar Ray Killen, was indicted for the murder of James Chaney, Andrew Goodman, and Michael Schwermer.\n\nNeshoba follows Killen throughout the trial, and for the first time gives us Killen&apos;s chilling racism in his own words. Interviews with family members of the three victims ground the film in the reality of the events of that summer, and the comments of residents make it clear that the city of Philadelphia and Neshoba County are still divided more than forty years after the murders. Some are struggling to come to terms with their own past, while others just wish people wouldn&apos;t keep bringing it up. The resulting film is a surprisingly balanced treatment of a potentially explosive situation, one that provides real insights into a society that produced state-sponsored terrorism.\n\nI saw this film almost on its home ground, at the Crossroads Film Festival in Jackson, Mississippi, where it was very warmly received. No one should see Mississippi Burning or Ghosts of Mississippi without also seeing Neshoba. And when you see it, don&apos;t get up to leave before the final credits, because they provide one last powerful and disturbing insight into the massive injustices of our nation&apos;s recent past.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 97,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2008-10-12",
+  "keywords": "philadelphia mississippi,old man uses a wheelchair,mississippi,preacher,murder",
+  "duration": "PT1H26M",
+  "actor": [
+    {
+      "name": "Edgar Ray Killen",
+      "url": "https://www.imdb.com/name/nm11618726/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Micki Dickoff",
+      "url": "https://www.imdb.com/name/nm0225586/"
+    },
+    {
+      "name": "Tony Pagano",
+      "url": "https://www.imdb.com/name/nm3226034/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Micki Dickoff",
+      "url": "https://www.imdb.com/name/nm0225586/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "A Scanner Darkly",
+  "url": "https://www.imdb.com/tt0405296/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTc2ZGI2MzEtODlkNC00MGQ4LTlkYjQtMDU0YTg1YTI0NDI1L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": "An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2016-04-20",
+    "inLanguage": "English",
+    "heading": "unique style gets slightly tiring",
+    "reviewBody": "It's seven years in the future. The country is struggling with 20% of the population addicted to a new drug Substance D. In Anaheim, Bob Arctor (Keanu Reeves) is an undercover agent who wears a scramble suit which changes his appearance like a chameleon. The drug war is supported by private corporation New Path. Bob is himself addicted and starting to lose his mind.\\n\\nThis is an unique movie of an original style. The rotorscoping animation style is hypnotic. It's not for everybody. It can be maddening to watch as the madness of this world can infect the audience. It's a visually weird movie. It gets tiring to watch. It may be better as an animated short than a full-length feature. The talkative story can also wear out its welcome.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 116637,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2006-08-18",
+  "keywords": "covered in bugs,fictional drug,drugs,rotoscoping,lodge meeting",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Keanu Reeves",
+      "url": "https://www.imdb.com/name/nm0000206/"
+    },
+    {
+      "name": "Winona Ryder",
+      "url": "https://www.imdb.com/name/nm0000213/"
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "url": "https://www.imdb.com/name/nm0000375/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Richard Linklater",
+      "url": "https://www.imdb.com/name/nm0000500/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Philip K. Dick",
+      "url": "https://www.imdb.com/name/nm0001140/"
+    },
+    {
+      "name": "Richard Linklater",
+      "url": "https://www.imdb.com/name/nm0000500/"
+    }
+  ]
+}

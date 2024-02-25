@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Che",
+  "url": "https://www.imdb.com/tt28710161/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTJhZTZiMjItMGM1YS00OWVlLWJhOGUtMGExNzE4ODkxMjViXkEyXkFqcGdeQXVyMTAxNDYzMzEy._V1_.jpg",
+  "description": "A cinematic exploration of the indomitable spirit of Che Guevara, capturing his remarkable journey as a fighter and a symbol of revolution.",
+  "contentRating": null,
+  "genre": [
+    "Biography"
+  ],
+  "datePublished": "2023-12-15",
+  "keywords": null,
+  "duration": "PT2H6M",
+  "actor": [
+    {
+      "name": "Pasala Uma Maheshwar",
+      "url": "https://www.imdb.com/name/nm15174275/"
+    },
+    {
+      "name": "B. R. Sabhavath Nayak",
+      "url": "https://www.imdb.com/name/nm15174276/"
+    },
+    {
+      "name": "Kartheek Nune",
+      "url": "https://www.imdb.com/name/nm13013191/"
+    }
+  ],
+  "director": [
+    {
+      "name": "B.R. Sabhavath Nayak",
+      "url": "https://www.imdb.com/name/nm15174272/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "B. R. Sabhavath Nayak",
+      "url": "https://www.imdb.com/name/nm15174276/"
+    }
+  ],
+  "review": {
+    "author": "slowlyslwoly",
+    "dateCreated": "2023-12-18",
+    "inLanguage": "English",
+    "heading": "Best movie \ud83c\udf7f\ud83c\udfa5",
+    "reviewBody": "Movie manasu petti teesadu Such a brave heart... Movie pichodu anochu director ni Chinna thopudu bandi meedha antha money sampadimchatam antey matalu kadhu.\n\nHe has true grit. He tried two time before but it didn't workout. Yet he's shown unbreakable will. He spent all his savings to make this movie happen. His acting is real good. Believe me he's done it with par excellence. I wish this movie could bring name and fame.\n\nMovie associations should encourage this kinda director. Movie associations should own them as their own.\n\nJust like Che This director has determination and discipline........",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 1602,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.1
+  }
+}

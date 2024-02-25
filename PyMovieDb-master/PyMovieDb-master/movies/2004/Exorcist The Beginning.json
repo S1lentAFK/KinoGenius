@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Exorcist: The Beginning",
+  "url": "https://www.imdb.com/tt0204313/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI0NzY1MzQ0MV5BMl5BanBnXkFtZTcwOTM1MTEzMw@@._V1_.jpg",
+  "description": "Years before Father Lankester Merrin helped save Regan MacNeil&apos;s soul, he first encounters the demon Pazuzu in East Africa. This is the tale of Father Merrin&apos;s initial battle with Pazuzu and the rediscovery of his faith.",
+  "review": {
+    "author": "lockwood-10",
+    "dateCreated": "2006-08-07",
+    "inLanguage": "English",
+    "heading": "A very scary movie for 2004",
+    "reviewBody": "I have read many of the comments concerning this movie and find that I tend to feel that this movie should not be judged in relation to the first. This movie stands out on its own by reviewing Father Merrin&apos;s life long before his fateful encounter with Regan years later. My son Nathan and daughter Ryann both found this too scary for them and felt it was far more scarier than the first. I saw it to be more historical and would judge it on that content. Yes, people are right in their comments about all the gore and vileness, but I saw that in the first movie in 1973 when it came out. I&apos;m going to venture to say that people are turned off by this movie simply because it in no way resembles the original. This is the part where a director steps back and quits trying to leech off the first success. Give him some credit about trying to diversify this movie for the audience. Don&apos;t go in with any type of preconceived notion about the original or you will be disappointed like the rest in these comments. It is a good movie and well worth seeing. Mark Lockwood, Lubbock Tx...",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 39605,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2004-10-29",
+  "keywords": "exorcism,child in jeopardy,church,kenya,priest",
+  "duration": "PT1H54M",
+  "actor": [
+    {
+      "name": "Stellan Skarsg\\u00e5rd",
+      "url": "https://www.imdb.com/name/nm0001745/"
+    },
+    {
+      "name": "Izabella Scorupco",
+      "url": "https://www.imdb.com/name/nm0001713/"
+    },
+    {
+      "name": "James D&apos;Arcy",
+      "url": "https://www.imdb.com/name/nm0195439/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Renny Harlin",
+      "url": "https://www.imdb.com/name/nm0001317/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William Peter Blatty",
+      "url": "https://www.imdb.com/name/nm0087861/"
+    },
+    {
+      "name": "William Wisher",
+      "url": "https://www.imdb.com/name/nm0936537/"
+    },
+    {
+      "name": "Caleb Carr",
+      "url": "https://www.imdb.com/name/nm0139627/"
+    }
+  ]
+}

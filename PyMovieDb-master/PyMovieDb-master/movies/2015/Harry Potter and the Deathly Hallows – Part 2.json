@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Harry Potter and the Deathly Hallows - Part 2",
+  "url": "https://www.imdb.com/tt1201607/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE5OTE4N2UtNzllYi00OTgzLWIzZWMtNzNjMThmZTc5ZGFkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "description": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+  "contentRating": "12A",
+  "genre": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2011-07-15",
+  "keywords": "friendship,snake,ginny weasley character,lucius malfoy character,hermione granger character",
+  "duration": "PT2H10M",
+  "rating": {
+    "ratingCount": 939557,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.1
+  },
+  "review": {
+    "author": "hjpog",
+    "dateCreated": "2015-12-26",
+    "inLanguage": "English",
+    "heading": "My childhood..",
+    "reviewBody": "At the start of J.K. Rowling, thank you for this wonderful series of books forever. I can tell you this current state of my childhood and my future. Sign up everywhere it has always been a part of Harry Potter's name. I'd say the most important series of my life. I owe my childhood such wonderful pass to the books and movies of this series. In this series, even though I know better than the series it has always been a special place for me in this series and it will always continue. This movie is definitely the best in the series. And the players is the most mature film. You feel throughout the film until the end of the final air and this is an amazing thing for fans like me. Book series as well as certainly never did. However, in each film it was pretty cool. And with incredible finale made this film. Harry certainly kept the best for last. Put all the music from the beginning to the end of the movie you are very successful and internal chills. You feel deeply cool is really going on. When the film ended up being a very big gap within you. Of course, you are a part of this world...",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "actor": [
+    {
+      "name": "Daniel Radcliffe",
+      "url": "https://www.imdb.com/name/nm0705356/"
+    },
+    {
+      "name": "Emma Watson",
+      "url": "https://www.imdb.com/name/nm0914612/"
+    },
+    {
+      "name": "Rupert Grint",
+      "url": "https://www.imdb.com/name/nm0342488/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Yates",
+      "url": "https://www.imdb.com/name/nm0946734/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steve Kloves",
+      "url": "https://www.imdb.com/name/nm0460141/"
+    },
+    {
+      "name": "J.K. Rowling",
+      "url": "https://www.imdb.com/name/nm0746830/"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Youth in Oregon",
+  "url": "https://www.imdb.com/tt3687316/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQyMjYyNjUzNl5BMl5BanBnXkFtZTgwNjI0ODAxMTI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "greenblueglee",
+    "dateCreated": "2017-07-16",
+    "inLanguage": "English",
+    "heading": "Hard decisions served cold.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 1412,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": null,
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2017-02-03",
+  "keywords": "father,road trip comedy,road trip adventure",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Frank Langella",
+      "url": "https://www.imdb.com/name/nm0001449/"
+    },
+    {
+      "name": "Billy Crudup",
+      "url": "https://www.imdb.com/name/nm0001082/"
+    },
+    {
+      "name": "Christina Applegate",
+      "url": "https://www.imdb.com/name/nm0000775/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joel David Moore",
+      "url": "https://www.imdb.com/name/nm0601376/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Eisen",
+      "url": "https://www.imdb.com/name/nm6448233/"
+    }
+  ]
+}

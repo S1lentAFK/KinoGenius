@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Norm of the North",
+  "url": "https://www.imdb.com/tt1594972/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTY4MDk4Mjc4NV5BMl5BanBnXkFtZTgwNzg4OTk0NzE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "marshmallowslayer",
+    "dateCreated": "2017-06-10",
+    "inLanguage": "English",
+    "heading": "Worst Movie Ever",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 10119,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.4
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2016-03-18",
+  "keywords": "snow adventure,norm of the north character,anthropomorphic polar bear,anthropomorphic moose,tourist",
+  "duration": "PT1H28M",
+  "actor": [
+    {
+      "name": "Rob Schneider",
+      "url": "https://www.imdb.com/name/nm0001705/"
+    },
+    {
+      "name": "Heather Graham",
+      "url": "https://www.imdb.com/name/nm0001287/"
+    },
+    {
+      "name": "Ken Jeong",
+      "url": "https://www.imdb.com/name/nm0421822/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Trevor Wall",
+      "url": "https://www.imdb.com/name/nm1222421/"
+    },
+    {
+      "name": "Lisa Ortiz",
+      "url": "https://www.imdb.com/name/nm0651184/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Malcolm T. Goldman",
+      "url": "https://www.imdb.com/name/nm7827939/"
+    },
+    {
+      "name": "Steven Altiere",
+      "url": "https://www.imdb.com/name/nm1662742/"
+    },
+    {
+      "name": "Daniel Altiere",
+      "url": "https://www.imdb.com/name/nm1662741/"
+    }
+  ]
+}

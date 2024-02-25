@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Next Best Thing",
+  "url": "https://www.imdb.com/tt0156841/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2VhNzI1ZTYtZGEyYy00Y2QzLTliYzYtMGM0ZTc1OGUzYTRkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+  "description": "Abbie, tired of failed relationships, has a one-night-stand with her gay friend; they agree to raise the resulting baby together.",
+  "review": {
+    "author": "AppleAsylum",
+    "dateCreated": "2001-04-30",
+    "inLanguage": "English",
+    "heading": "next best thing",
+    "reviewBody": "i really liked this movie. being a yoga instructor i was impressed with madonna. being one of the biggest fans of her has nothing to do with it. i will be the 1st to say, as far as acting, well, lets just say she could be the weakest link. BUT, that only pertains to the earlier films. due to the fact that all & all the movies were bad scripts. shanghi what? next best is the right movie, the right direction,& a wonderful cast. rupert was great. benjermin bratt, aside from being beautiful, he did really well too. but it all comes down to madonna&apos;s cute dark humor that steals the show. 1-10 (9)",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 11660,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.7
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2000-06-23",
+  "keywords": "gay,gay friend,custody battle,best friend,yoga class",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "Madonna",
+      "url": "https://www.imdb.com/name/nm0000187/"
+    },
+    {
+      "name": "Rupert Everett",
+      "url": "https://www.imdb.com/name/nm0000391/"
+    },
+    {
+      "name": "Benjamin Bratt",
+      "url": "https://www.imdb.com/name/nm0000973/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Schlesinger",
+      "url": "https://www.imdb.com/name/nm0772259/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tom Ropelewski",
+      "url": "https://www.imdb.com/name/nm0740568/"
+    }
+  ]
+}

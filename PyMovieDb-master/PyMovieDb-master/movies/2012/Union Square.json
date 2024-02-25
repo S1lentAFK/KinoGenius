@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "Union Square",
+  "url": "https://www.imdb.com/tt1783798/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGZkNmE2NTMtZThjMS00YWIyLTgyMTItNzcyZDM1ZmMxN2UxXkEyXkFqcGdeQXVyMzE5NDU3NjQ@._V1_.jpg",
+  "description": "Jenny, who has rejected her tumultuous family for a more ordered life, gets a surprise visit from her sister Lucy at a critical time - right at the moment where she&apos;s feels ready to commit to her longtime fianc\\u00e9.",
+  "review": {
+    "author": "secondtake",
+    "dateCreated": "2013-02-17",
+    "inLanguage": "English",
+    "heading": "Some terrific acting and an overly simple and obvious story",
+    "reviewBody": "Union Square (2011)\\n\\nIf you can sustain a short feature like this with acting alone you might be thrilled. The role of wacky, annoying, arrogant, and ultimately sweet (sometimes) Lucy is played by Mira Sorvino with such spot-on intensity and volatility you really come to hate her, then wish she would go away, and then get sympathetic for her, and then actually (maybe) like her. Is she a realistic type? Maybe not quite. When she shows up unannounced all legs and furry boots and plastic smiles shopping bags full of clothes at her sister&apos;s you know she is trouble. And she is trouble with a capital T.\\n\\nThe sister, Jenny, is played with deliberate contrast and stuttering, inadequate poise by Tammy Blanchard and she, too, is terrific, if less flamboyant. Jenny has created a perfect, clean, safe world with her husband in a small organic foods business, and she is surprised and a little baffled about Lucy&apos;s arrival. She also doesn&apos;t have the courage to stand her ground, so Lucy stays for the night. As their opposite life styles raise tempers, a feeling that there is more to the story gradually grows.\\n\\nThe third character, the husband, is a huge weakness here. He&apos;s meant to be a minor point, but an important one suggesting success and obsession with running and diet and such. And he&apos;s unconvincing and thin. At the very end a fourth character arrives, a surprise, and he&apos;s pretty great, but you&apos;ll have to wait for that.\\n\\nSo that&apos;s the acting, and I do think that&apos;s the strength. The story, this conflict of lifestyles and a mysterious (barely) past, is all there is. You do want more. And when the resolution to their conflict comes around (which it must) it&apos;s no big deal. Some tears, some smiles, and I guess a sense of completion, movie done. A shame it doesn&apos;t go further because there are a lot of elements here that would work, even with the modest setting (it&apos;s nearly all shot in Jenny&apos;s slick apartment). \\n\\nI teach a modest history of film class and one of the things that gets brought up right away is that the core to a movie, the first step above and before all else, is a good story, a good concept. That&apos;s the thing that gets pitched, written, nuanced. It drives most movies. And it&apos;s a chronic problem with small budget and big budget movies alike. The director Nancy Savoca was also the principle screenwriter, and I think she is a far better director than storyteller. It might just boil down to that.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 591,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2012-07-13",
+  "keywords": "family relationships,right,f rated,title directed by female",
+  "duration": "PT1H20M",
+  "actor": [
+    {
+      "name": "Tammy Blanchard",
+      "url": "https://www.imdb.com/name/nm0087109/"
+    },
+    {
+      "name": "Mira Sorvino",
+      "url": "https://www.imdb.com/name/nm0000227/"
+    },
+    {
+      "name": "Michael Sirow",
+      "url": "https://www.imdb.com/name/nm2104119/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Nancy Savoca",
+      "url": "https://www.imdb.com/name/nm0001700/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nancy Savoca",
+      "url": "https://www.imdb.com/name/nm0001700/"
+    },
+    {
+      "name": "Mary Tobler",
+      "url": "https://www.imdb.com/name/nm0864987/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Hurt Locker",
+  "url": "https://www.imdb.com/tt0887912/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWYxZjU2MmQtMmMzYi00ZWUwLTg2ZWQtMDExZTVlYjM3ZWM1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "agmancuso",
+    "dateCreated": "2009-06-28",
+    "inLanguage": "English",
+    "heading": "A Perfectly Shattering Film Going Experience",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 471238,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Thriller",
+    "War"
+  ],
+  "datePublished": "2009-08-28",
+  "keywords": "bomb,iraq,disarming a bomb,strapped to a bomb,moral dilemma",
+  "duration": "PT2H11M",
+  "actor": [
+    {
+      "name": "Jeremy Renner",
+      "url": "https://www.imdb.com/name/nm0719637/"
+    },
+    {
+      "name": "Anthony Mackie",
+      "url": "https://www.imdb.com/name/nm1107001/"
+    },
+    {
+      "name": "Brian Geraghty",
+      "url": "https://www.imdb.com/name/nm1310016/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kathryn Bigelow",
+      "url": "https://www.imdb.com/name/nm0000941/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Boal",
+      "url": "https://www.imdb.com/name/nm1676793/"
+    }
+  ]
+}

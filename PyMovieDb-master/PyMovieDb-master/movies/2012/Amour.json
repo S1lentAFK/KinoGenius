@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Amour",
+  "url": "https://www.imdb.com/tt1602620/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk1NTc3NDc4MF5BMl5BanBnXkFtZTcwNjYwNDk0OA@@._V1_.jpg",
+  "description": "Georges and Anne are an octogenarian couple. They are cultivated, retired music teachers. Their daughter, also a musician, lives in Britain with her family. One day, Anne has a stroke, and the couple's bond of love is severely tested.",
+  "review": {
+    "author": "msmith5484",
+    "dateCreated": "2012-11-28",
+    "inLanguage": "English",
+    "heading": "Love, life and death",
+    "reviewBody": "This is a beautiful movie about the end of life. Jean-Louis Trintignant and Emmanuelle Riva are excellent as Georges and Anne. Their story is nothing new, we've seen it before (like most stories), but it is told with poignancy. This is a character piece that could be a slog for some. There are a few extraneous scenes that make the 127 minute film feel longer but, though the story takes place almost entirely inside their apartment, I never felt the sense of claustrophobia. There is an intimacy that at time's made me feel I was watching the couple from across the courtyard from my own apartment. It is a true statement of love between a husband and wife.\\n\\nI must say I felt a little betrayed by the trailer. It depicts what I take to be a much darker narrative, almost sinister and the word 'attack' in the synopsis doesn't necessarily allude to a medical condition. I think I'd like to see that movie a little more.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 105138,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2012-11-16",
+  "keywords": [
+    "reference to the beatles",
+    "stroke",
+    "aging",
+    "old couple",
+    "old love"
+  ],
+  "duration": "PT2H7M",
+  "actor": [
+    {
+      "name": "Jean-Louis Trintignant",
+      "url": "https://www.imdb.com/name/nm0004462/"
+    },
+    {
+      "name": "Emmanuelle Riva",
+      "url": "https://www.imdb.com/name/nm0728938/"
+    },
+    {
+      "name": "Isabelle Huppert",
+      "url": "https://www.imdb.com/name/nm0001376/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Haneke",
+      "url": "https://www.imdb.com/name/nm0359734/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Haneke",
+      "url": "https://www.imdb.com/name/nm0359734/"
+    }
+  ]
+}

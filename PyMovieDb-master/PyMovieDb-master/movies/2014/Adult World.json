@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Adult World",
+  "url": "https://www.imdb.com/tt1067765/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIzNDY1NjgzOV5BMl5BanBnXkFtZTgwNzMzMDEwMTE@._V1_.jpg",
+  "description": "A naive college graduate, Amy, who believes she's destined to be a great poet, begrudgingly accepts a job in a shop while she pursues a mentorship with reclusive writer Rat Billings.",
+  "review": {
+    "author": "lowrysamuel4",
+    "dateCreated": "2014-03-19",
+    "inLanguage": "English",
+    "heading": "Cutie Patootie",
+    "reviewBody": "This was just an adorable little independent film. Cusack gives his best Cusack-esque performance. Emma Roberts is also enchanting. Is the film perfect, or near? Not really, but there are some nice, actually very funny scenes sprinkled throughout. The idea is unique one. While is structure has been done, the coming of age straight out of college story, and also seems to be hot right now in most youth culture films. I believe that with some quirky, interesting scenes, the picture is very entertaining and very funny. I always encourage Emma Roberts to keep working because she really does have some talent and just needs to break out of the teen star typecast. Overall I enjoyed it and thought it was great for what it was.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 18586,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2014-02-14",
+  "keywords": "glory hole,bare chested male,adult book store,sex industry,gay roommate",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Emma Roberts",
+      "url": "https://www.imdb.com/name/nm0731075/"
+    },
+    {
+      "name": "Evan Peters",
+      "url": "https://www.imdb.com/name/nm1404239/"
+    },
+    {
+      "name": "John Cusack",
+      "url": "https://www.imdb.com/name/nm0000131/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Scott Coffey",
+      "url": "https://www.imdb.com/name/nm0168892/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andy Cochran",
+      "url": "https://www.imdb.com/name/nm2687438/"
+    }
+  ]
+}

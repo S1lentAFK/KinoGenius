@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Strange Magic",
+  "url": "https://www.imdb.com/tt4191054/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA0NjU3MTU5OF5BMl5BanBnXkFtZTgwMTYyMDQ3MzE@._V1_.jpg",
+  "description": "Goblins, elves, fairies and imps, and their misadventures sparked by the battle over a powerful potion.",
+  "review": {
+    "author": "donotquestionme",
+    "dateCreated": "2015-05-14",
+    "inLanguage": "English",
+    "heading": "Not for everyone but definitely worth a watch",
+    "reviewBody": "I absolutely love this film, but I&apos;ll admit it may not be everyone&apos;s cup of tea. Pretty much non-stop singing through the first half and some odd song placement can be a bit jarring to some people. Overall though, it&apos;s a very cute and BEAUTIFULLY animated film with some great humor, on point voice acting, and top notch singing. Off beat in the best of ways with very memorable characters that really make the movie. I LOOOOVE Bog King and Marianne and their interactions with each other. Just weird enough to be a cult classic, in my opinion. Definitely worth a shot, if you have an hour and a half to spare some day. You may just love it!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 12104,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2015-08-21",
+  "keywords": "fairy,love potion,male male kiss,unexpected kiss,cgi",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Evan Rachel Wood",
+      "url": "https://www.imdb.com/name/nm0939697/"
+    },
+    {
+      "name": "Elijah Kelley",
+      "url": "https://www.imdb.com/name/nm0445903/"
+    },
+    {
+      "name": "Kristin Chenoweth",
+      "url": "https://www.imdb.com/name/nm0155693/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gary Rydstrom",
+      "url": "https://www.imdb.com/name/nm0003977/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Berenbaum",
+      "url": "https://www.imdb.com/name/nm1183854/"
+    },
+    {
+      "name": "Irene Mecchi",
+      "url": "https://www.imdb.com/name/nm0575293/"
+    },
+    {
+      "name": "Gary Rydstrom",
+      "url": "https://www.imdb.com/name/nm0003977/"
+    }
+  ]
+}

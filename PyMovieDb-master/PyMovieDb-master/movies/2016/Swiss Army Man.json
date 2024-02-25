@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Swiss Army Man",
+  "url": "https://www.imdb.com/tt4034354/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk0OTEyMjM1OF5BMl5BanBnXkFtZTgwMzMzODM4ODE@._V1_.jpg",
+  "description": "A hopeless man stranded on a deserted island befriends a dead body, and together they go on a surreal journey to get home.",
+  "review": {
+    "author": "devylon-63935",
+    "dateCreated": "2018-04-27",
+    "inLanguage": "English",
+    "heading": "What the f...",
+    "reviewBody": ".. is actually a very good description of this movie. Like many others I imagined it to be some kind of cast away with a corse for the volleyball but it was suprisingly different. At this point you should know that farting is an essential plot device in this movie and that it is actually used to underline it&apos;s statements. If you cant get over this fact don&apos;t even watch it, because it is very heavily featured.\n\nI can&apos;t help myself fealing kind of weird recommending this movie because it&apos;s just plain akward and even uncomfortable to watch at some instances. The cinematography is very good and the metaphoric value every set build has for the story is strongly admirable. After about thirty minutes of runtime I came to appreciate the movie for what it is. A character study and a reflection of human behavior, traditions, norms and values, which is mostly presented through dialogue between the two characters. Daniel Radcliffe and Paul Dano play they&apos;re characters in such an astonishingly believable and sweet way, that you can take them seriously at any time during the movie even though the plot is as ridicoulus as one could imagine. I think this is a piece that many will grow to appreciate after some time and it is definitely going to become a cult classic.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 132605,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "datePublished": "2016-09-30",
+  "keywords": "dead body,talking to a dead body,dead body washed ashore,island,corpse",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Paul Dano",
+      "url": "https://www.imdb.com/name/nm0200452/"
+    },
+    {
+      "name": "Daniel Radcliffe",
+      "url": "https://www.imdb.com/name/nm0705356/"
+    },
+    {
+      "name": "Mary Elizabeth Winstead",
+      "url": "https://www.imdb.com/name/nm0935541/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Daniel Kwan",
+      "url": "https://www.imdb.com/name/nm3453283/"
+    },
+    {
+      "name": "Daniel Scheinert",
+      "url": "https://www.imdb.com/name/nm3215397/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Daniel Scheinert",
+      "url": "https://www.imdb.com/name/nm3215397/"
+    },
+    {
+      "name": "Daniel Kwan",
+      "url": "https://www.imdb.com/name/nm3453283/"
+    }
+  ]
+}

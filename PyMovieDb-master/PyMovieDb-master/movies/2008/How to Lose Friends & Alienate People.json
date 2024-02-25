@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "How to Lose Friends & Alienate People",
+  "url": "https://www.imdb.com/tt0455538/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjY0MzFmMDgtY2ZiOC00M2QyLWFmOWMtOTBmZWY4OWE2YTYzXkEyXkFqcGdeQXVyMjA5MTIzMjQ@._V1_.jpg",
+  "description": "A British writer struggles to fit in at a high-profile magazine in New York City.",
+  "datePublished": "2008-10-03",
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "duration": "PT1H50M",
+  "keywords": "coworker coworker relationship, bar, man wears underwear in public, woman wears black lingerie, woman wears underwear in public",
+  "rating": {
+    "ratingCount": 70774,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "review": {
+    "author": "marcusdean118",
+    "dateCreated": "2008-10-27",
+    "inLanguage": "English",
+    "heading": "Does exactly what it says on the tin",
+    "reviewBody": "How To Lose Friends And Alienate People looked like it might be different to the average rom-com we get these days, it looked like it was going to be a smart and satirical look at mainstream Hollywood. It isn't and it wasn't. It's in exactly the same vein as Run Fat Boy Run. I'm not saying that it's a bad film because it isn't and neither is Run Fat Boy Run, but I just felt like I'd seen it all before.\\n\\nThe start was rushed and lacked that flowing feeling. The middle was the best part, with a couple of laugh out loud moments. The end was a walking clich\\u00e9 which came straight from the school of Cameron Crowe (once again not always a bad thing).\\n\\nSimon Pegg stuck to his normal schtick when he's without Mr. Wright and Mr.Frost, playing the lovable but overall clumsy fish out of water Brit. Jeff Bridges was and still is The Dude so he can do no wrong. Kirsten Dunst stuck to her guns and Megan Fox was thrown in as the so hot at the moment crumpet.\\n\\nAn entertaining film. Not bad. Not great either.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "actor": [
+    {
+      "name": "Simon Pegg",
+      "url": "https://www.imdb.com/name/nm0670408/"
+    },
+    {
+      "name": "Kirsten Dunst",
+      "url": "https://www.imdb.com/name/nm0000379/"
+    },
+    {
+      "name": "Megan Fox",
+      "url": "https://www.imdb.com/name/nm1083271/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert B. Weide",
+      "url": "https://www.imdb.com/name/nm0004332/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Peter Straughan",
+      "url": "https://www.imdb.com/name/nm1661186/"
+    },
+    {
+      "name": "Toby Young",
+      "url": "https://www.imdb.com/name/nm1732322/"
+    }
+  ]
+}

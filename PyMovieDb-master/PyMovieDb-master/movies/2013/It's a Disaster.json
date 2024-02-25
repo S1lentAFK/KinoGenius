@@ -1,0 +1,67 @@
+
+
+{
+  "type": "Movie",
+  "name": "It's a Disaster",
+  "url": "https://www.imdb.com/tt1995341/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQwNjYzMTQ0Ml5BMl5BanBnXkFtZTcwNDUzODM5Nw@@._V1_.jpg",
+  "description": "Four couples meet for Sunday brunch, then discover they are stuck in a house together as the world may be about to end.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2014-02-17",
+  "keywords": [
+    "filipino telemarketer",
+    "superstition",
+    "brunch",
+    "blonde woman",
+    "food"
+  ],
+  "duration": "PT1H28M",
+  "actor": [
+    {
+      "name": "Rachel Boston",
+      "url": "https://www.imdb.com/name/nm1036340/"
+    },
+    {
+      "name": "Laura Adkin",
+      "url": "https://www.imdb.com/name/nm2289780/"
+    },
+    {
+      "name": "Kevin M. Brennan",
+      "url": "https://www.imdb.com/name/nm1059821/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Todd Berger",
+      "url": "https://www.imdb.com/name/nm1787651/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Todd Berger",
+      "url": "https://www.imdb.com/name/nm1787651/"
+    }
+  ],
+  "review": {
+    "author": "preemptiveselfdefense",
+    "dateCreated": "2013-01-23",
+    "inLanguage": "English",
+    "heading": "Great movie",
+    "reviewBody": "I came to watch this movie because I'm a David Cross fan and it's the type of premise that appealed to me. I thought it did a great job of depicting the disaster w/out spending a lot of money. Special effects budget was probably somewhere around 200 bucks. It's structured similar to that Jodie Foster/John C. Reilly movie that came out recently, i.e. a couples get-together. Very funny but a lot of it might go over peoples heads if they're into more obvious comedies. It's starts easy, paced well throughout and had a great ending. A really good ending. I really want to mention my favorite parts but I wouldn't want to give any kind of spoiler. David Cross is a good barometer for whether or not you'd enjoy this. If you've heard his stand-up anyways. Watch it, and if you didn't like it, sorry. Just go watch Big Momma's House again and bask in your impeccable taste for comedy and superior intellect. Ciao homies.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 11572,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  }
+}

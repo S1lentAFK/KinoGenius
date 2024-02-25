@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Town",
+  "url": "https://www.imdb.com/tt0840361/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcyNzcxODg3Nl5BMl5BanBnXkFtZTcwMTUyNjQ3Mw@@._V1_.jpg",
+  "description": "A proficient group of thieves rob a bank and hold Claire, the assistant manager, hostage. Things begin to get complicated when one of the crew members falls in love with Claire.",
+  "review": {
+    "author": "gsravanth",
+    "dateCreated": "2010-09-17",
+    "inLanguage": "English",
+    "heading": "Well done!!",
+    "reviewBody": "I had a trip to &apos;the town&apos; last night and well, it is surprisingly entertaining. I still can&apos;t believe Ben Affleck can pull off everything (story, screenplay, direction, starring in a lead role) with such an ease. Three years after his debut directional venture &apos;Gone Baby Gone&apos;, Ben comes up with an ever better one this time.\n\nA perfect combo of sold story, captivating screenplay, amazing writing, brilliant character development, good emotional content and brilliant cinematography (watch out for the shaky camera, this is the best camera work I&apos;ve seen after &apos;Bourne&apos; series) all together delivers an entertaining action thriller...worth a watch.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 412857,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2010-09-24",
+  "keywords": "bank robbery,criminal gang,heist,bank manager,neo noir",
+  "duration": "PT2H5M",
+  "actor": [
+    {
+      "name": "Ben Affleck",
+      "url": "https://www.imdb.com/name/nm0000255/"
+    },
+    {
+      "name": "Rebecca Hall",
+      "url": "https://www.imdb.com/name/nm0356017/"
+    },
+    {
+      "name": "Jon Hamm",
+      "url": "https://www.imdb.com/name/nm0358316/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ben Affleck",
+      "url": "https://www.imdb.com/name/nm0000255/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Peter Craig",
+      "url": "https://www.imdb.com/name/nm0185976/"
+    },
+    {
+      "name": "Ben Affleck",
+      "url": "https://www.imdb.com/name/nm0000255/"
+    },
+    {
+      "name": "Aaron Stockard",
+      "url": "https://www.imdb.com/name/nm0830760/"
+    }
+  ]
+}

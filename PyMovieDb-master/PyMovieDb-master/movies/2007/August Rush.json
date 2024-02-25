@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "August Rush",
+  "url": "https://www.imdb.com/tt0426931/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDIwNjE3NjU2NV5BMl5BanBnXkFtZTcwNTQ2NjQzMw@@._V1_.jpg",
+  "description": "A musically gifted orphan, Evan, runs away from his orphanage and searches New York City for his birth parents. On his journey, he's taken under the wing of the Wizard, a homeless man who lives in an abandoned theater.",
+  "review": {
+    "author": "spoonerst-1",
+    "dateCreated": "2007-11-17",
+    "inLanguage": "English",
+    "heading": "If you don't have a great imagination, you won't like it",
+    "reviewBody": "If you love it, you'll LOVE it. If not, then the most you'll probably give it is an 'ok'. The movie requires the audience to have a somewhat willful suspension of reality as there are some slightly mystic themes interwoven in the storyline. But as the movie is basically centered on the power of music, the mystic elements make sense. It's completely about belief and faith in the intangible.\\n\\nPersonally, I loved the story. And the music was amazing. I had goosebumps throughout the entire movie. In fact, there was probably so much emphasis on the music that there was less character development than a lot of people would like. I liked this element of the movie, though, as it requires you to read between the lines. Not even the ending is handed to you nicely wrapped and on a platter. There's no wrap-up dialogue or epilogue sequence, just the audience's own inferences. Hence, if you don't have an imagination, you should stay home.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 110762,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2007-11-23",
+  "keywords": "love,baby,cellist,prodigy,rhapsody",
+  "duration": "PT1H54M",
+  "actor": [
+    {
+      "name": "Freddie Highmore",
+      "url": "https://www.imdb.com/name/nm0383603/"
+    },
+    {
+      "name": "Keri Russell",
+      "url": "https://www.imdb.com/name/nm0005392/"
+    },
+    {
+      "name": "Jonathan Rhys Meyers",
+      "url": "https://www.imdb.com/name/nm0001667/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kirsten Sheridan",
+      "url": "https://www.imdb.com/name/nm0792202/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nick Castle",
+      "url": "https://www.imdb.com/name/nm0145309/"
+    },
+    {
+      "name": "James V. Hart",
+      "url": "https://www.imdb.com/name/nm0366337/"
+    },
+    {
+      "name": "Paul Castro",
+      "url": "https://www.imdb.com/name/nm1554513/"
+    }
+  ]
+}

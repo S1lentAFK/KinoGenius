@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "The Last Airbender",
+  "url": "https://www.imdb.com/tt0938283/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM1NjE0NDA0MV5BMl5BanBnXkFtZTcwODE4NDg1Mw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Michael_Elliott",
+    "dateCreated": "2012-07-19",
+    "inLanguage": "English",
+    "heading": "Well, It At Least Lived Up to Its Reputation",
+    "reviewBody": "The Last Airbender (2010) \n\n1/2 (out of 4) \n\nAfter being freed from an iceberg, Aang (Noah Ringer), a long lost Avatar who is the only one able to bend the four elements, finds himself doing battle against the Fire Nation who who attempting to take over all three Nations (Air, Water, Earth). M. Night Shyamalan&apos;s THE LAST AIRBENDER is based on the very popular television show, which is something I&apos;ve never seen so I pretty much walked into this not knowing what to expect from the story. I&apos;ll admit by the ten-minute mark I was pretty much lost in regards to the story and each passing minute I found myself growing even more confused. I then had to do something I never do, which was stop the movie and call someone familiar with the TV series and this film to try and find out what the heck was supposed to be going on. I painfully sat through the rest of the movie and afterwards I started to read other reviews and I was happy to see that I wasn&apos;t the only one who couldn&apos;t make any sense out of this material. I will say that I think Shyamalan has gotten some pretty bad beatings over his recent films, which I think were unfair but there&apos;s no doubt that he deserves the majority of the blame here, although I think a very strong argument could be made that those who hired him should be on fans hit list more than Shyamalan. The biggest fault of his was the screenplay, which simply doesn&apos;t make any sense as the story is always jumping from one place to another and none it ever seems connected. From what I&apos;ve gathered he was jumping around so many parts of the show that unless you&apos;re familiar with it you weren&apos;t going to know what&apos;s going on here. Even worse are the actors who are all extremely bad and come off even worse when they have to say the bad dialogue. I don&apos;t like to attack child actors so I won&apos;t mention any of them by name but what were the producers thinking when they agreed to cast them? Surely there were more talented people out in Hollywood. The special effects are all poor, the action badly directed and even worse is that there&apos;s simply nothing here to care about. Some nice cinematography is about the only thing going for this turkey, which is every bit the misfire its reputation would have you believe.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 171202,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Family"
+  ],
+  "datePublished": "2010-08-13",
+  "keywords": "snow adventure,live action adaptation,based on animation,based on cartoon,supernatural power",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Noah Ringer",
+      "url": "https://www.imdb.com/name/nm3226241/"
+    },
+    {
+      "name": "Nicola Peltz Beckham",
+      "url": "https://www.imdb.com/name/nm2443758/"
+    },
+    {
+      "name": "Jackson Rathbone",
+      "url": "https://www.imdb.com/name/nm1717152/"
+    }
+  ],
+  "director": [
+    {
+      "name": "M. Night Shyamalan",
+      "url": "https://www.imdb.com/name/nm0796117/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "M. Night Shyamalan",
+      "url": "https://www.imdb.com/name/nm0796117/"
+    }
+  ]
+}

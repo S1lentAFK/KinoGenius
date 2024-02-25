@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Cirque du Freak: The Vampire's Assistant",
+  "url": "https://www.imdb.com/tt0450405/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI1NDA1MTMwNl5BMl5BanBnXkFtZTcwNTg0MDE4Mg@@._V1_.jpg",
+  "description": "Teenager Darren Shan meets a mysterious man at a freak show who turns out to be a vampire. After a series of events, Darren must leave his normal life and go on the road with the Cirque du Freak, becoming a creature of the night.",
+  "review": {
+    "author": "mrcibubur",
+    "dateCreated": "2010-02-05",
+    "inLanguage": "English",
+    "heading": "Excellent vampire comedy for adults and kids",
+    "reviewBody": "I have seen Twilight New Moon (hasnt everyone!?) and also the Korean bloody vampire movie Thirst but I guess the closest this comes is the older Interview with a Vampire, story is a long way off.\\n\\nBasically this is a comedy movie for kids up to 16 or so and if you are an adult like me and still enjoyed it, good for you! Pleasant story line, I am not familiar with the books but my 11 year old ought to be better hooked on these books than the Twilight ones which have been hyped up too much. give credit here where credit is due, a good original story with lots of fun moments and if they did take out from the original trailer, it is all the more better for the film.\\n\\nGood vampire movie overall, nothing horrific, nothing cheesy like Twilight movie, nothing too nasty, just a nice film to watch for all the family. Go spoil yourself and have a scream or two, it wont hurt!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 47905,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "2009-10-23",
+  "keywords": "gay character,vampire versus vampire,based on young adult novel,circus freak,freakshow",
+  "duration": "PT1H59M",
+  "actor": [
+    {
+      "name": "Chris Massoglia",
+      "url": "https://www.imdb.com/name/nm1491631/"
+    },
+    {
+      "name": "John C. Reilly",
+      "url": "https://www.imdb.com/name/nm0000604/"
+    },
+    {
+      "name": "Salma Hayek",
+      "url": "https://www.imdb.com/name/nm0000161/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Paul Weitz",
+      "url": "https://www.imdb.com/name/nm0919369/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Paul Weitz",
+      "url": "https://www.imdb.com/name/nm0919369/"
+    },
+    {
+      "name": "Brian Helgeland",
+      "url": "https://www.imdb.com/name/nm0001338/"
+    },
+    {
+      "name": "Darren Shan",
+      "url": "https://www.imdb.com/name/nm1752231/"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "Jack Reacher: Never Go Back",
+  "url": "https://www.imdb.com/tt3393786/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA2MDIwNzAyNzReQTJeQWpwZ15BbWU4MDAxNjI5Njkx._V1_.jpg",
+  "description": "Jack Reacher must uncover the truth behind a major government conspiracy in order to clear his name while on the run as a fugitive from the law.",
+  "review": {
+    "author": "TheLittleSongbird",
+    "dateCreated": "2016-11-23",
+    "inLanguage": "English",
+    "heading": "Routine sequel to an enjoyable film",
+    "reviewBody": "While far from flawless (with an uneven script, an anaemic and anti-climactic ending, a few too padded out moments and Rosamund Pike, an actress who impresses me usually, giving one of her worst performances in a disastrously indecisively written role) the first 'Jack Reacher' has a lot of great things still and judging it as a standalone is very enjoyable.\\n\\n'Jack Reacher: Never Go Back' is not an awful sequel, but what was done well in the first 'Jack Reacher' isn't done well here. If there is one word to sum it up, it's routine. Apart from some direct-to-video-like production values in some of the action sequences, it's a reasonably well-made film. Stylishly and atmospherically shot mostly with a neo-noir feel while there are some good use of locations and the editing is tight and crisp, and not resorting to the often seizure-inducing shaky cam technique. The music is energetic and haunting without being brash or overly-bombastic, with very effective use of silence.\\n\\nSome of the dialogue is dry-humoured and witty, and a few parts are clever. Parts of the film are very energetic, and some of the action unyielding and adrenaline-pumping. The cast are a very mixed bag. Starting with Tom Cruise, as said talking about the first film, whatever has been said of him being physically completely wrong (often described by detractors as one of the biggest miscasts ever), he still makes for a charismatic and intense hero that has steel in his eyes and plays it appropriately straight despite the campiness of some of one-liners. Am amazed at well he deals with the action, his energy and dexterity are enviable. Patrick Heusinger does inject some quiet, brooding menace in a rather underwritten role.\\n\\nGenerally though, the supporting cast are not close to being as memorable as in the first (which had Robert Duvall and Werner Herzog). Cobie Smulders tries her hardest but comes over blandly in a role that limits her to doing barely anything. Robert Knepper is similarly wasted. On the other side of the acting spectrum, Danika Yarosh's truly irritating performance, in an annoyingly and indecisively written stereotypical plot device role that is abused to overkill effect here, made me appreciate Rousamund Pike's performance in the first film better.\\n\\nEd Zwick directs competently but not much more, nothing inept, just missing something and there was the sense that he was not right for the material. There is some nice interaction between the characters, but mostly as characters individually they are either annoying (Samantha) or sloppily underdeveloped (the villains, Knepper's character being a cipher practically). There are a few good action sequences here, but there are also just as many that reek of getting the job done competently but with not much spark or imagination.\\n\\nThe dry wit and cleverness that is sprinkled sporadically in the script is overshadowed by the amount of dialogue that's forced, long-winded and bloated, while other humorous parts come off cheesily. The story has enough pep to stop it from becoming completely dull but there is a distinct lack of fun, mystery and suspense here, parts also feeling padded and convoluted. Again, nothing unbearable, nothing to get wowed or excited over, just competent paint-by-numbers plotting but not much more.\\n\\nOverall, the first 'Jack Reacher' was flawed but enjoyable, this sequel 'Never Go Back' is hardly amateur hour but feels routine and like something was missing. 5/10 Bethany Cox",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 173769,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2016-10-20",
+  "keywords": [
+    "sequel",
+    "second part",
+    "restaurant kitchen",
+    "kitchen fight",
+    "aviophobia"
+  ],
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Tom Cruise",
+      "url": "https://www.imdb.com/name/nm0000129/"
+    },
+    {
+      "name": "Cobie Smulders",
+      "url": "https://www.imdb.com/name/nm1130627/"
+    },
+    {
+      "name": "Aldis Hodge",
+      "url": "https://www.imdb.com/name/nm0388038/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Edward Zwick",
+      "url": "https://www.imdb.com/name/nm0001880/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Richard Wenk",
+      "url": "https://www.imdb.com/name/nm0921013/"
+    },
+    {
+      "name": "Edward Zwick",
+      "url": "https://www.imdb.com/name/nm0001880/"
+    },
+    {
+      "name": "Marshall Herskovitz",
+      "url": "https://www.imdb.com/name/nm0380980/"
+    }
+  ]
+}

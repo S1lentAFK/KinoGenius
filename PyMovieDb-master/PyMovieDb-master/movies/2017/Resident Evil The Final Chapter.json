@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Resident Evil: The Final Chapter",
+  "url": "https://www.imdb.com/tt2592614/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc0Mzc2OTQ0Ml5BMl5BanBnXkFtZTgwOTQ5MjE4MDI@._V1_.jpg",
+  "description": "Alice returns to where the nightmare began: The Hive in Raccoon City, where the Umbrella Corporation is gathering its forces for a final strike against the only remaining survivors of the apocalypse.",
+  "review": {
+    "author": "Marshall-D-Teach",
+    "dateCreated": "2020-02-21",
+    "inLanguage": "English",
+    "heading": "No more please god no more!!!",
+    "reviewBody": "Resident Evil: The Final Chapter reprises Milla Jovovich as Alice in the fifth sequel of the franchise that Paul Anderson derived back in 2002. Ali Larter rejoins Milla along with Iain Glen to bring a ridicules plot to an end, hopefully. I couldn&apos;t stand the single camera action sequences, I felt like the camera was doing all the fighting and not the characters. Unlike the original where slow motion camera angles made the franchise famous, this one was made on the cheap. The franchise did become the single most successful horror movie series in history but this flick was less horror and more how did this whole storyline get started. You may skip this one but if you want t know the ending maybe check it out.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 100196,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "R",
+  "genre": [
+    "Action",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "datePublished": "2017-01-26",
+  "keywords": "zombie,virus,washington d.c.,post apocalypse,sixth part",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Milla Jovovich",
+      "url": "https://www.imdb.com/name/nm0000170/"
+    },
+    {
+      "name": "Iain Glen",
+      "url": "https://www.imdb.com/name/nm0322513/"
+    },
+    {
+      "name": "Ali Larter",
+      "url": "https://www.imdb.com/name/nm0005123/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Paul W.S. Anderson",
+      "url": "https://www.imdb.com/name/nm0027271/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Paul W.S. Anderson",
+      "url": "https://www.imdb.com/name/nm0027271/"
+    }
+  ]
+}

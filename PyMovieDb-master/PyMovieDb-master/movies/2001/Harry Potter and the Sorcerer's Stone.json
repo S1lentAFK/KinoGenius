@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "Harry Potter and the Sorcerer's Stone",
+  "url": "https://www.imdb.com/tt0241527/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg",
+  "description": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+  "genre": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2001-11-16",
+  "keywords": "magic, wizard, orphan, school of magic, based on novel",
+  "duration": "PT2H32M",
+  "contentRating": "PG",
+  "rating": {
+    "ratingCount": 848858,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "review": {
+    "author": "ktulu34",
+    "dateCreated": "2001-11-19",
+    "inLanguage": "English",
+    "heading": "Magically Delicious",
+    "reviewBody": "I feel, next to Willy Wonka and the Chocolate Factory, Harry Potter and the Sorcerer's Stone is the best book-to-movie adaptation that I've ever seen. The sets were stunning - the actors were first rate - the effects were breathtaking. The film flowed quite smoothly in it's transition from page to screen, never tripping on the awkward conventions that other books on film have struggled with. The screenplay, by Steven Kloves, stripped away all unnecessary elements to get to the root of the story. Though many events from the book were excluded, the essential ones made it to the film. And it makes for one smooth story and very enjoyable movie-going experience.\n\nMany kudos to Chris Columbus and the rest of the Harry Potter cast/crew for not turning this movie into what it easily could have become: a 2 and a half hour commercial advertisement for action figures and collectibles, kid's meals and fast food tie-ins, soft drinks and snack products, etc. and instead focused on bringing J.K. Rowling's story to life as accurately and as lovingly as it deserves. There has been much speculation on whether Columbus was the correct choice for the first two installments of the series and I say to that, Yes. I feel that he accomplished what most would have failed. He has proven, at least to me, that Diagon Alley truly exists - if only I could find the right brick to tap on. The world of Harry Potter is no longer fantasy to me, but instead a place where any of us mere Muggles could hope to visit, one day.\n\nOne of my favorite moments, is what I'm going to refer to as the Adrenaline Sequence. By Adrenaline Sequence, I mean the sequence in a movie that for all intents and purposes, doesn't necessarily propel the story, but gives the audience a huge theatrical payoff, ala the Pod Race sequence in The Phantom Menace. The Adrenaline Sequence for this particular movie is the Quidditch sequence. I was very happy to finally see the 'hockey/soccer hybrid on a broomstick' come to life. The Quidditch Sequence is, by far, my favorite sequence in the whole film. The scene is dizzying in it's violence and it's one breathless moment after another. My hat goes off to Columbus and his team for succeeding in making this scene as memorable as it should be.\n\nHarry Potter and the Sorcerer's Stone is a fantastic movie for children of all ages. Fans and non-fans alike will enjoy this colorful story of good versus evil and the friendships that endure.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 848858,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "actor": [
+    {
+      "name": "Daniel Radcliffe",
+      "url": "https://www.imdb.com/name/nm0705356/"
+    },
+    {
+      "name": "Rupert Grint",
+      "url": "https://www.imdb.com/name/nm0342488/"
+    },
+    {
+      "name": "Richard Harris",
+      "url": "https://www.imdb.com/name/nm0001321/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chris Columbus",
+      "url": "https://www.imdb.com/name/nm0001060/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "J.K. Rowling",
+      "url": "https://www.imdb.com/name/nm0746830/"
+    },
+    {
+      "name": "Steve Kloves",
+      "url": "https://www.imdb.com/name/nm0460141/"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Hunting Party",
+  "url": "https://www.imdb.com/tt0067224/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWU2NzA2ZTctODg4MC00NTJlLWFmODEtMjFjYjNlYmJhOTBkXkEyXkFqcGdeQXVyMjI4MjA5MzA.jpg",
+  "description": "A ruthless rancher and his gang use extremely long range rifles to kill the men who kidnapped his infidel wife.",
+  "review": {
+    "author": "jwdavies",
+    "dateCreated": "2000-03-08",
+    "inLanguage": "English",
+    "heading": "metaphor, or how it was in the west?",
+    "reviewBody": "Others see this film as bland or metaphorical. I saw it after considerable reading about the West as it truly was, not as a Zane Grey work of fiction or morality play. What I saw in this film was a fictional story powerfully based on accurate historical fact. Many of those facts are not pleasant or moral and violence is as much a part of this Western movie as it is of most others. What is unique here is the accurate inclusion of the actual methods and attitudes surrounding that violence. The Lone Ranger it is not. Neither is it metaphorical. My interest in, and modest knowledge of, the methods and technology of that time led me to be strongly involved when watching this movie. Some of the scenes brought out a strong feeling of dread: dreamlike realism. In that way, it is, in my mind, one of the most honest Westerns of all time.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 3388,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "X",
+  "genre": [
+    "Action",
+    "Drama",
+    "Western"
+  ],
+  "datePublished": "1971-07-30",
+  "keywords": [
+    "grabbing a breast",
+    "rear nudity",
+    "rough sex",
+    "female full frontal nudity",
+    "female rear nudity"
+  ],
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Oliver Reed",
+      "url": "https://www.imdb.com/name/nm0001657/"
+    },
+    {
+      "name": "Candice Bergen",
+      "url": "https://www.imdb.com/name/nm0000298/"
+    },
+    {
+      "name": "Gene Hackman",
+      "url": "https://www.imdb.com/name/nm0000432/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Don Medford",
+      "url": "https://www.imdb.com/name/nm0575546/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Gilbert Ralston",
+      "url": "https://www.imdb.com/name/nm0707804/"
+    },
+    {
+      "name": "Lou Morheim",
+      "url": "https://www.imdb.com/name/nm0605215/"
+    },
+    {
+      "name": "William W. Norton",
+      "url": "https://www.imdb.com/name/nm0636151/"
+    }
+  ]
+}

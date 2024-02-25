@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "It Comes at Night",
+  "url": "https://www.imdb.com/tt4695012/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQ3MDA0ODA2N15BMl5BanBnXkFtZTgwNzg0NzgwMjI@._V1_.jpg",
+  "description": "Secure within a desolate home as an unnatural threat terrorizes the world, a man has established a tenuous domestic order with his wife and son. Then a desperate young family arrives seeking refuge.",
+  "review": {
+    "author": "paulclaassen",
+    "dateCreated": "2018-07-01",
+    "inLanguage": "English",
+    "heading": "WHAT comes at night???",
+    "reviewBody": "Despite the title sounding very sinister, the film is anything but what it implies. Too little information is given about the &apos;disease&apos; and the rest of the world. The absence of CGI is refreshing, though, and makes it that much more realistic. Great character bonding, too.\n\nBut what comes at night? The sick? The sickness? What? Nothing came at night...",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 102216,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "R",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2017-06-09",
+  "keywords": "paranoia,pandemic,post apocalypse,infected,forest",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Joel Edgerton",
+      "url": "https://www.imdb.com/name/nm0249291/"
+    },
+    {
+      "name": "Christopher Abbott",
+      "url": "https://www.imdb.com/name/nm3571592/"
+    },
+    {
+      "name": "Carmen Ejogo",
+      "url": "https://www.imdb.com/name/nm0252238/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Trey Edward Shults",
+      "url": "https://www.imdb.com/name/nm4099092/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Trey Edward Shults",
+      "url": "https://www.imdb.com/name/nm4099092/"
+    }
+  ]
+}

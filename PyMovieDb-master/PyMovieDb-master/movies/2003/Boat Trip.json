@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "Boat Trip",
+  "url": "https://www.imdb.com/tt0285462/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgxNjcwNzA0M15BMl5BanBnXkFtZTYwMzY4MDk2._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "mjw2305",
+    "dateCreated": "2006-12-25",
+    "inLanguage": "English",
+    "heading": "Average idea with a poor execution",
+    "reviewBody": "Boat Trip isn't a bad idea for a movie, 2 straight guys go on a cruise looking for love, only to find that its a gay cruise and all their fellow cruisers are men. Potentially this is a scenario that should have made us laugh ourselves silly; well i'm sorry to say that it doesn't, you may raise the occasional smile and if your lucky you may even titter once or twice, but that's your lot.\n\nBoat trip is average in every department and Cuba Gooding Jnr. should stick to making movies like Men of Honour and Instinct; he is simply better at playing this type of character.\n\nIt's not a total waste of time, but it's certainly a disappointment 5/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 32259,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2002-10-04",
+  "keywords": "gay,hot air balloon,rejecting a marriage proposal,vomiting on someone,talking to a dog",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Cuba Gooding Jr.",
+      "url": "https://www.imdb.com/name/nm0000421/"
+    },
+    {
+      "name": "Horatio Sanz",
+      "url": "https://www.imdb.com/name/nm0764445/"
+    },
+    {
+      "name": "Roselyn Sanchez",
+      "url": "https://www.imdb.com/name/nm0761052/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mort Nathan",
+      "url": "https://www.imdb.com/name/nm0622240/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mort Nathan",
+      "url": "https://www.imdb.com/name/nm0622240/"
+    },
+    {
+      "name": "William Bigelow",
+      "url": "https://www.imdb.com/name/nm0988951/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Sydney White",
+  "url": "https://www.imdb.com/tt0815244/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjU4YjBiY2ItYTIzMy00ZTdkLWEwNjEtNTg1MzQwOWVmZmE5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+  "description": "A modern retelling of Snow White set against students in their freshman year of college in the greek system.",
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2007-09-21",
+  "keywords": "college,sorority,female protagonist,sorority house,sorority girl",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "Amanda Bynes",
+      "url": "https://www.imdb.com/name/nm0004789/"
+    },
+    {
+      "name": "Sara Paxton",
+      "url": "https://www.imdb.com/name/nm0668139/"
+    },
+    {
+      "name": "Matt Long",
+      "url": "https://www.imdb.com/name/nm1668265/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joe Nussbaum",
+      "url": "https://www.imdb.com/name/nm0638271/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Chad Gomez Creasey",
+      "url": "https://www.imdb.com/name/nm1548657/"
+    }
+  ],
+  "review": {
+    "author": "ComedyFan2010",
+    "dateCreated": "2018-05-12",
+    "inLanguage": "English",
+    "heading": "Modern day Snow White",
+    "reviewBody": "The movie isn't original. We all have seen many revenge of the nerds/dorks/good guys movies. So you know how it ends before it starts. The bad characters are also so one sided and boring. Nothing special about them, they are just overdone bad.\n\nBut I still like the movie. I give it above average rating because I liked all the Snow White references. Mainly the poisoned apple and the seven dwarfs. They make the movie especially funny with their charming characters and personalities. So it is a pretty good movie when one doesn't expect much and just wants a few laughs.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 50829,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  }
+}

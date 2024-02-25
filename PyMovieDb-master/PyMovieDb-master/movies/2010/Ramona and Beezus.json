@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Ramona and Beezus",
+  "url": "https://www.imdb.com/tt0493949/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk4MTU0MTczM15BMl5BanBnXkFtZTcwNjYzOTI0Mw@@._V1_.jpg",
+  "description": "An adventurous young girl uses her imagination to escape her reality, that is quickly spinning out of reach.",
+  "review": {
+    "author": "Loving_Silence",
+    "dateCreated": "2010-07-22",
+    "inLanguage": "English",
+    "heading": "A cute little film",
+    "reviewBody": "Ramona and Beezus is a 2010 film adaptation based on the book Ramona Forever. Joey King plays Ramona and Selena Gomez plays Beezus. I thought the film was actually quite good and it didn&apos;t disappoint me at all. Now a lot of people are going out to see this film because Selena Gomez plays in it. But the real person whom truly shines in this film has to be Joey King. She steals the show from her co-stars and plays Ramona really vividly. This movie is a very fun family movie, and if you have a younger brother or sister, you&apos;d connect right away. I hope IMDb users don&apos;t just give this film a 1, because its a children&apos;s movie and I hope they see it before they judge.\n\nRamona and Beezus is a small summer flick, that stands short, but proudly with Huge Summer Blockbusters. Highly recommended 8/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 20031,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "U",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2010-10-22",
+  "keywords": "cat,death of pet,character names as title,best friend,bedroom",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Joey King",
+      "url": "https://www.imdb.com/name/nm1428821/"
+    },
+    {
+      "name": "Selena Gomez",
+      "url": "https://www.imdb.com/name/nm1411125/"
+    },
+    {
+      "name": "Bridget Moynahan",
+      "url": "https://www.imdb.com/name/nm0005256/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Elizabeth Allen Rosenbaum",
+      "url": "https://www.imdb.com/name/nm0020491/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Laurie Craig",
+      "url": "https://www.imdb.com/name/nm0185934/"
+    },
+    {
+      "name": "Nick Pustay",
+      "url": "https://www.imdb.com/name/nm0701143/"
+    },
+    {
+      "name": "Beverly Cleary",
+      "url": "https://www.imdb.com/name/nm0165823/"
+    }
+  ]
+}

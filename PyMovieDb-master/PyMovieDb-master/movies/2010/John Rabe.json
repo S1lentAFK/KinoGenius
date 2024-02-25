@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "John Rabe. Der Gute Deutsche von Nanking",
+  "url": "https://www.imdb.com/tt5435324/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzNhYzc5ZTItZDVkOS00YTc0LWJmOTAtNjU4MDVkY2U4OWQ3XkEyXkFqcGdeQXVyNzI4MDMyMTU@._V1_.jpg",
+  "description": "A German businessman and Nazi Party member efforts to stop the atrocities of the Japanese army during the Nanking occupation and works to protect and help the Chinese civilians during the event.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 12,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": null,
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": null,
+  "keywords": "killing civilians,mass killing,nazi,genocide,world war two",
+  "duration": "PT52M",
+  "actor": [
+    {
+      "name": "John Berwick",
+      "url": "https://www.imdb.com/name/nm0078534/"
+    },
+    {
+      "name": "Megan Gay",
+      "url": "https://www.imdb.com/name/nm1639968/"
+    },
+    {
+      "name": "Huang Huiying",
+      "url": "https://www.imdb.com/name/nm11177043/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Annette Baumeister",
+      "url": "https://www.imdb.com/name/nm1636656/"
+    },
+    {
+      "name": "Florian Hartung",
+      "url": "https://www.imdb.com/name/nm1636686/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Annette Baumeister",
+      "url": "https://www.imdb.com/name/nm1636656/"
+    }
+  ]
+}

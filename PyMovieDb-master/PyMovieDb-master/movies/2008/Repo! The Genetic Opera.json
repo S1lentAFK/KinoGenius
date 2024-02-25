@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Repo! The Genetic Opera",
+  "url": "https://www.imdb.com/tt0963194/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTkyZWEzYmYtMTFhMi00YTkzLTkyOWQtMDg1MTQwMTE3M2Y0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "theatrejake",
+    "dateCreated": "2008-11-26",
+    "inLanguage": "English",
+    "heading": "Potential was there...",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 26390,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "18",
+  "genre": [
+    "Horror",
+    "Musical",
+    "Sci-Fi"
+  ],
+  "datePublished": "2008-11-20",
+  "keywords": "gore,violence,steampunk,biotech sci fi,repossession",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Paul Sorvino",
+      "url": "https://www.imdb.com/name/nm0000649/"
+    },
+    {
+      "name": "Anthony Head",
+      "url": "https://www.imdb.com/name/nm0372117/"
+    },
+    {
+      "name": "Alexa PenaVega",
+      "url": "https://www.imdb.com/name/nm0891786/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Darren Lynn Bousman",
+      "url": "https://www.imdb.com/name/nm1135423/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Darren Smith",
+      "url": "https://www.imdb.com/name/nm2534912/"
+    },
+    {
+      "name": "Terrance Zdunich",
+      "url": "https://www.imdb.com/name/nm0954023/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "The King&apos;s Speech",
+  "url": "https://www.imdb.com/tt1504320/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzU5MjEwMTg2Nl5BMl5BanBnXkFtZTcwNzM3MTYxNA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Colinrocks",
+    "dateCreated": "2010-11-06",
+    "inLanguage": "English",
+    "heading": "Superb drama of courage and humanity",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 704779,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2011-01-07",
+  "keywords": "period drama,speech impediment,british royal family,royal family,king",
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Colin Firth",
+      "url": "https://www.imdb.com/name/nm0000147/"
+    },
+    {
+      "name": "Geoffrey Rush",
+      "url": "https://www.imdb.com/name/nm0001691/"
+    },
+    {
+      "name": "Helena Bonham Carter",
+      "url": "https://www.imdb.com/name/nm0000307/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tom Hooper",
+      "url": "https://www.imdb.com/name/nm0393799/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Seidler",
+      "url": "https://www.imdb.com/name/nm0782436/"
+    }
+  ]
+}

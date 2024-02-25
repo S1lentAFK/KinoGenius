@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Ray",
+  "url": "https://www.imdb.com/tt0350258/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQxNDQwNjQzOV5BMl5BanBnXkFtZTcwNTQxNDYyMQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "mstomaso",
+    "dateCreated": "2005-06-28",
+    "inLanguage": "English",
+    "heading": "Phenomenal biographical film with intense and memorable performances",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 156506,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2005-01-21",
+  "keywords": "based on true story,african american jazz musician,blind musician,singer,pianist",
+  "duration": "PT2H32M",
+  "actor": [
+    {
+      "name": "Jamie Foxx",
+      "url": "https://www.imdb.com/name/nm0004937/"
+    },
+    {
+      "name": "Regina King",
+      "url": "https://www.imdb.com/name/nm0005093/"
+    },
+    {
+      "name": "Kerry Washington",
+      "url": "https://www.imdb.com/name/nm0913488/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Taylor Hackford",
+      "url": "https://www.imdb.com/name/nm0000431/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Taylor Hackford",
+      "url": "https://www.imdb.com/name/nm0000431/"
+    },
+    {
+      "name": "James L. White",
+      "url": "https://www.imdb.com/name/nm1343803/"
+    }
+  ]
+}

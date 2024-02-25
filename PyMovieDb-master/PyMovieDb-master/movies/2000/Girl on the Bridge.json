@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Girl on the Bridge",
+  "url": "https://www.imdb.com/tt0043588/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmUzNmYyNDctNTM0OC00NTViLTg4NTAtYTkyNWYwMTljNDNhXkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "HarlowMGM",
+    "dateCreated": "2023-08-28",
+    "inLanguage": "English",
+    "heading": "Excellent Blend of Sentimental Drama and Film Noir",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 228,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "A",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "1952-05-19",
+  "keywords": "psychotronic film,blackmail,suicide,murder",
+  "duration": "PT1H16M",
+  "actor": [
+    {
+      "name": "Hugo Haas",
+      "url": "https://www.imdb.com/name/nm0351947/"
+    },
+    {
+      "name": "Beverly Michaels",
+      "url": "https://www.imdb.com/name/nm0584292/"
+    },
+    {
+      "name": "Robert Dane",
+      "url": "https://www.imdb.com/name/nm0199341/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Hugo Haas",
+      "url": "https://www.imdb.com/name/nm0351947/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Hugo Haas",
+      "url": "https://www.imdb.com/name/nm0351947/"
+    },
+    {
+      "name": "Arnold Lipp",
+      "url": "https://www.imdb.com/name/nm0513563/"
+    }
+  ]
+}

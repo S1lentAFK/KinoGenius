@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Rebound",
+  "url": "https://www.imdb.com/tt0376108/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgzMTU0ODM4MV5BMl5BanBnXkFtZTYwODY2ODM3._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Filmcritic624",
+    "dateCreated": "2005-12-25",
+    "inLanguage": "English",
+    "heading": "Hilarious Comeback by Director Steve Carr",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 13555,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Sport"
+  ],
+  "datePublished": "2006-02-06",
+  "keywords": "bad temper,last film role for actress,believe in yourself,tough girl,perseverance",
+  "duration": "PT1H26M",
+  "actor": [
+    {
+      "name": "Martin Lawrence",
+      "url": "https://www.imdb.com/name/nm0001454/"
+    },
+    {
+      "name": "Megan Mullally",
+      "url": "https://www.imdb.com/name/nm0005259/"
+    },
+    {
+      "name": "Breckin Meyer",
+      "url": "https://www.imdb.com/name/nm0005227/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steve Carr",
+      "url": "https://www.imdb.com/name/nm0139867/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bill Wolff",
+      "url": "https://www.imdb.com/name/nm0938206/"
+    },
+    {
+      "name": "Ed Decter",
+      "url": "https://www.imdb.com/name/nm0214036/"
+    },
+    {
+      "name": "John J. Strauss",
+      "url": "https://www.imdb.com/name/nm0833828/"
+    }
+  ]
+}

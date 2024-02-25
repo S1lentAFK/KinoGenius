@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Finding Nemo",
+  "url": "https://www.imdb.com/tt0266543/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmYxZjg3OWEtNzg5Yi00M2YzLWI1YzYtYTQ0NTgwNzhjN2E1XkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg",
+  "description": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2003-10-10",
+  "keywords": "pufferfish,nemo the clownfish character,blood,shark,short term memory loss",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Albert Brooks",
+      "url": "https://www.imdb.com/name/nm0000983/"
+    },
+    {
+      "name": "Ellen DeGeneres",
+      "url": "https://www.imdb.com/name/nm0001122/"
+    },
+    {
+      "name": "Alexander Gould",
+      "url": "https://www.imdb.com/name/nm1071252/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrew Stanton",
+      "url": "https://www.imdb.com/name/nm0004056/"
+    },
+    {
+      "name": "Lee Unkrich",
+      "url": "https://www.imdb.com/name/nm0881279/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Stanton",
+      "url": "https://www.imdb.com/name/nm0004056/"
+    },
+    {
+      "name": "Bob Peterson",
+      "url": "https://www.imdb.com/name/nm0677037/"
+    },
+    {
+      "name": "David Reynolds",
+      "url": "https://www.imdb.com/name/nm0721675/"
+    }
+  ],
+  "review": {
+    "author": "mjw2305",
+    "dateCreated": "2005-01-22",
+    "inLanguage": "English",
+    "heading": "Another Disney/Pixar Classic",
+    "reviewBody": "Those guys and girls at Disney/Pixar have done it again, they&apos;ve created the perfect underwater world, full of fascinating Disney characters.\\n\\nA truly enchanting story of a father (Marlon) who loses his son (Nemo), and with help of his new found friend (Dory) ventures out into the ocean to try to find him. On this epic voyage he gets to battle sharks, surf with some turtle dudes, dice with some jellyfish and survive an encounter in a whales stomach.\\n\\nAll the characters are vibrant with Disney charm, but my favourite is Dory, the comic relief, probably one of the funniest Disney characters ever written and superbly voiced by Ellen DeGeneres, pure genius.\\n\\nAll in all this is another success for Disney and Pixar, It brings out the child in all of us.\\n\\nSolid family fun 8/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 1104154,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.2
+  }
+}

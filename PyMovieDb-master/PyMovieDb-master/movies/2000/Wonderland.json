@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Wonderland",
+  "url": "https://www.imdb.com/tt0335563/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2YyOWQ2NWUtM2VhYS00MGEyLTg0ZDAtOThiNDcyNWE2NzE4L2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "In the police investigation of a brutal crime scene, one man was at the center of it all: legendary porn star John Holmes.",
+  "review": {
+    "author": "thetrixter_1999",
+    "dateCreated": "2004-05-09",
+    "inLanguage": "English",
+    "heading": "I've waited since 1988 for this!",
+    "reviewBody": "I once read an article by Jonathon Ross about John Holmes, and in it he described a pathetic figure whose celebrity status in the arena of porn deteriorated into a life of drug abuse, betrayal, gang involvement and murder...oh, and his eventual death due to Aids. What a great premise for a film!\\n\\nI enjoyed Wonderland and was gripped all the way though.It was Holmes' dependence on drugs that meant he was eventually dropped from the porn industry, he could no longer perform or 'get it up'. From there his life spiralled and this is where Wonderland starts.\\n\\nThe story is not only presented in a very factual way, ( nearly every police statement and event occurred as shown ), but the pace in unrelenting and the acting convincing. Kilmer does a good job on Holmes - a bit like his Jim Morrison, he gets the druggie, spaced out feel just right.\\n\\n The re-telling of events through different perspectives is also impressive, if not original and although there is no real tension in the film this is not a criticism. This is not supposed to be a suspense film or a thriller, it is much better than that. It is a true account of lives which interest us and which most of us have difficulty comprehending - apologies to drug dealers, murderers and porn stars.\\n\\nWhen the actual murders occur they are brutal and dramatic, interspersing real footage of the murder scene into the action. Gory and fascinating, and i'm sure most of you do the pause or slow-mo run after.\\n\\nI'm a sucker for information being handed out at the end of films and Wonderland doesn't disappoint. We find out about all the main protagonists and of course we all know what happened to John. Full credit to the director, I was waiting for this film to be made since 1988 and am not disappointed!",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 23184,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "18",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2004-05-07",
+  "keywords": "police,murder,porn star,robbery,police investigation",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Val Kilmer",
+      "url": "https://www.imdb.com/name/nm0000174/"
+    },
+    {
+      "name": "Lisa Kudrow",
+      "url": "https://www.imdb.com/name/nm0001435/"
+    },
+    {
+      "name": "Kate Bosworth",
+      "url": "https://www.imdb.com/name/nm0098378/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Cox",
+      "url": "https://www.imdb.com/name/nm0185063/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Cox",
+      "url": "https://www.imdb.com/name/nm0185063/"
+    },
+    {
+      "name": "Captain Mauzner",
+      "url": "https://www.imdb.com/name/nm0561359/"
+    },
+    {
+      "name": "Todd Samovitz",
+      "url": "https://www.imdb.com/name/nm1258394/"
+    }
+  ]
+}

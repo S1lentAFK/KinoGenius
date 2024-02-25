@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Collateral",
+  "url": "https://www.imdb.com/tt0369339/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE3NjM5OTMxMV5BMl5BanBnXkFtZTcwOTIzMTQyMw@@._V1_.jpg",
+  "description": "A cab driver finds himself the hostage of an engaging contract killer as he makes his rounds from hit to hit during one night in Los Angeles.",
+  "review": {
+    "author": "dbillick-35631",
+    "dateCreated": "2022-12-14",
+    "inLanguage": "English",
+    "heading": "I'm in the minority about his 2 best performances",
+    "reviewBody": "People rave about Tom Cruise in other projects, but I'll say his best 2 for me are Born on the Fourth of July and this one.\n\nIt isn't just about playing against type. It's about the difference between playing someone who's bad and just being bad. It's about authenticity. You see it in great actors.\n\nI'm new to this site but I've seen hundreds, if not thousands of films in my lifetime. He's one of the few modern movie actors who have this kind of star power. He's not as authentic (or instead of authentic I should say he sometimes looks like he's efforting his performance) in all of his performances as others (like a Spencer Tracy or Henry Fonda, for example), but when he's on...He's ON.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 430152,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2004-09-17",
+  "keywords": "taxi driver,taxi,contract killer,driving at night,los angeles california",
+  "duration": "PT2H",
+  "actor": [
+    {
+      "name": "Tom Cruise",
+      "url": "https://www.imdb.com/name/nm0000129/"
+    },
+    {
+      "name": "Jamie Foxx",
+      "url": "https://www.imdb.com/name/nm0004937/"
+    },
+    {
+      "name": "Jada Pinkett Smith",
+      "url": "https://www.imdb.com/name/nm0000586/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Mann",
+      "url": "https://www.imdb.com/name/nm0000520/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stuart Beattie",
+      "url": "https://www.imdb.com/name/nm0064181/"
+    }
+  ]
+}

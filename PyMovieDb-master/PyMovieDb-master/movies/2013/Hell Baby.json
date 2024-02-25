@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hell Baby",
+  "url": "https://www.imdb.com/tt2318527/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzAwODI0MzAwOF5BMl5BanBnXkFtZTcwODkzMTc4OQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "deloudelouvain",
+    "dateCreated": "2015-02-22",
+    "inLanguage": "English",
+    "heading": "Parody horror",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 10065,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Horror"
+  ],
+  "datePublished": null,
+  "keywords": "breasts,demon,possession,exorcism,electrocution",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Rob Corddry",
+      "url": "https://www.imdb.com/name/nm1117791/"
+    },
+    {
+      "name": "Leslie Bibb",
+      "url": "https://www.imdb.com/name/nm0004753/"
+    },
+    {
+      "name": "Alex Berg",
+      "url": "https://www.imdb.com/name/nm2355036/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Ben Garant",
+      "url": "https://www.imdb.com/name/nm0304830/"
+    },
+    {
+      "name": "Thomas Lennon",
+      "url": "https://www.imdb.com/name/nm0502073/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Ben Garant",
+      "url": "https://www.imdb.com/name/nm0304830/"
+    },
+    {
+      "name": "Thomas Lennon",
+      "url": "https://www.imdb.com/name/nm0502073/"
+    }
+  ]
+}

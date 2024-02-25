@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "Mr. Roosevelt",
+  "url": "https://www.imdb.com/tt6212496/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWJjMjdjMWYtMzJmZS00YTNkLTk0NzMtNjNjN2EwMzEyNjdiXkEyXkFqcGdeQXVyMjM4ODc5MzQ@._V1_.jpg",
+  "description": "After a loved one falls ill, 25 year old struggling comedian Emily Martin returns to her college town of Austin, Texas and must come to terms with her past while staying with her ex-boyfriend and his new girlfriend.",
+  "review": {
+    "author": "Red_Identity",
+    "dateCreated": "2018-01-09",
+    "inLanguage": "English",
+    "heading": "Very funny",
+    "reviewBody": "I went into this because it seemed like a cute little film, and it was. It&apos;s not flawed or that amazing, but it&apos;s super enjoyable and funny, and it has a super hilarious actress in the lead role. I loved Noël Wells in Master of None&apos;s first season and I had no idea she was such a talented comedic actress. She&apos;s aces here and is definitely the best reason to watch the film. She&apos;s a huge talent to watch out for, not just in acting but in writing and directing.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 3808,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "R",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2017-11-22",
+  "keywords": "death of pet,throwing water on someone&apos;s face,directorial debut,jealousy,dead pet",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Noël Wells",
+      "url": "https://www.imdb.com/name/nm3644706/"
+    },
+    {
+      "name": "Nick Thune",
+      "url": "https://www.imdb.com/name/nm2326897/"
+    },
+    {
+      "name": "Britt Lower",
+      "url": "https://www.imdb.com/name/nm3138882/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Noël Wells",
+      "url": "https://www.imdb.com/name/nm3644706/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Noël Wells",
+      "url": "https://www.imdb.com/name/nm3644706/"
+    }
+  ]
+}

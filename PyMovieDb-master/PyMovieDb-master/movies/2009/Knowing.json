@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Knowing",
+  "url": "https://www.imdb.com/tt0448011/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMyMjgyMDIyM15BMl5BanBnXkFtZTcwNjg3MjAyMg@@._V1_.jpg",
+  "description": "M.I.T. professor John Koestler links a mysterious list of numbers from a time capsule to past and future disasters and sets out to prevent the ultimate catastrophe.",
+  "datePublished": "2009-03-25",
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "duration": "PT2H1M",
+  "keywords": "end of the world,number,disaster,airplane crash,time capsule",
+  "rating": {
+    "ratingCount": 246299,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "review": {
+    "author": "vserrol",
+    "dateCreated": "2018-11-29",
+    "inLanguage": "English",
+    "heading": "Why all the hate?",
+    "reviewBody": "I know it's a bit late for a review but I feel compelled to reply to some of the criticism leveled at this movie. The reviews tend to be based on a few mistaken assumptions.\n\n1) The movie is pro scientology propaganda\n\nIf there is any truth to this then the propaganda is very obscure, as a quick reference to scientology symbols does not include the 7 pointed star as per one detractor. To state that the movie uses a numerical based prophesy and that this is indicative of scientology is conspiratorial and nonsensical. Both the bible and koran are full of them. Maybe I am too ingenuous but at no time did I feel I was being led along a path of conscription to scientology.\n\n2) plot holes due to slim chances of a text fortuitously falling into the hands of a person intelligent enough to decipher the meaning and be the father of one of the chosen survivors and have the descendants of the original prophecy play a part in the fruition of the plan.\n\nfair enough, but nobody seems to question as to why the prophesy itself is possible. Surely if the universe was deterministic, as suggested by the very presence of a prophecy, then a sufficiently advanced civilization able to foresee the prophecy would also be able to foresee the path they have subscribed to the resolution they have decided on.\n\n3) The movie doesn't make sense or jumps around too much.\n\nFortunately there are many straight forward shows and cartoons to watch instead .",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Nicolas Cage",
+      "url": "https://www.imdb.com/name/nm0000115/"
+    },
+    {
+      "name": "Chandler Canterbury",
+      "url": "https://www.imdb.com/name/nm2425105/"
+    },
+    {
+      "name": "Rose Byrne",
+      "url": "https://www.imdb.com/name/nm0126284/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Alex Proyas",
+      "url": "https://www.imdb.com/name/nm0001639/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ryne Douglas Pearson",
+      "url": "https://www.imdb.com/name/nm0669379/"
+    },
+    {
+      "name": "Juliet Snowden",
+      "url": "https://www.imdb.com/name/nm1340000/"
+    },
+    {
+      "name": "Stiles White",
+      "url": "https://www.imdb.com/name/nm0925482/"
+    }
+  ]
+}

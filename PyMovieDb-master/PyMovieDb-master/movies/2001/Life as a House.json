@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Life as a House",
+  "url": "https://www.imdb.com/tt0264796/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODdhZTdkYjctNjIyMS00ZTc2LWJmMGUtZTVhMjQ5ODgyM2FmXkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg",
+  "description": "When a man is diagnosed with terminal cancer, he takes custody of his misanthropic teenage son, for whom quality time means getting high, engaging in small-time prostitution, and avoiding his father.",
+  "review": {
+    "author": "punk_angel26",
+    "dateCreated": "2004-10-14",
+    "inLanguage": "English",
+    "heading": "Personally, the best movie i&apos;ve seen.. EVER!",
+    "reviewBody": "Yes... my title says it all. this is my favourite movie and i&apos;m not ashamed to say it. This movie is placed together very well, it not only explores a broken family, but a broken person fixed by the love of his dyin father. i watch this movie probably at least 3 times a month and it never ceases to make me cry. it&apos;s not so much the fact that the plot is emotional, but these actors make it seem so real, and although i know it&apos;s their job to do that, i think they have extremely well. I am, understandably an emotional person who has felt the loss of a parent at a young age, and i guess it&apos;s that in the movie which hits close to home. I would personally recommend this to anyone who wants a movie bout broken families, and reunited love. a tearjerker to those who feel the plot and brokenness of a boy and his journey.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 45470,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2002-03-15",
+  "keywords": "ex husband ex wife relationship,affection,compassion,house,cancer",
+  "duration": "PT2H5M",
+  "actor": [
+    {
+      "name": "Hayden Christensen",
+      "url": "https://www.imdb.com/name/nm0159789/"
+    },
+    {
+      "name": "Kevin Kline",
+      "url": "https://www.imdb.com/name/nm0000177/"
+    },
+    {
+      "name": "Kristin Scott Thomas",
+      "url": "https://www.imdb.com/name/nm0000218/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Irwin Winkler",
+      "url": "https://www.imdb.com/name/nm0005563/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Andrus",
+      "url": "https://www.imdb.com/name/nm0029125/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Annabelle: Creation",
+  "url": "https://www.imdb.com/tt5140878/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA1MzIwMjMxNF5BMl5BanBnXkFtZTgwMDQ3NTc2MjI@._V1_.jpg",
+  "description": "Twelve years after the tragic death of their little girl, a doll-maker and his wife welcome a nun and several girls from a shuttered orphanage into their home, where they become the target of the doll-maker's possessed creation, A...",
+  "review": {
+    "author": "punch87",
+    "dateCreated": "2020-09-29",
+    "inLanguage": "English",
+    "heading": "One of the better horror movies that I've seen in a while.",
+    "reviewBody": "Annabelle: Creation is a massive step-up from Annabelle. With great performances by the young cast, and some excellent scare sequences, Creation has more than enough to keep you up at night.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 149554,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "R",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2017-08-10",
+  "keywords": "possessed doll,evil doll,prequel,nun,loss of daughter",
+  "duration": "PT1H49M",
+  "actor": [
+    {
+      "name": "Anthony LaPaglia",
+      "url": "https://www.imdb.com/name/nm0001439/"
+    },
+    {
+      "name": "Samara Lee",
+      "url": "https://www.imdb.com/name/nm5343317/"
+    },
+    {
+      "name": "Miranda Otto",
+      "url": "https://www.imdb.com/name/nm0001584/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David F. Sandberg",
+      "url": "https://www.imdb.com/name/nm2497546/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Gary Dauberman",
+      "url": "https://www.imdb.com/name/nm2477891/"
+    }
+  ]
+}

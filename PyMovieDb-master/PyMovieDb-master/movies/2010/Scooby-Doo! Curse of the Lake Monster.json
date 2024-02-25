@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Scooby-Doo! Curse of the Lake Monster",
+  "url": "https://www.imdb.com/tt1618435/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzhlZjk5MWUtMmQ4NC00Y2JjLWFhMDUtN2IxODI5ZTE3MzNkXkEyXkFqcGdeQXVyNjcyNjAxNjE@._V1_.jpg",
+  "description": "School is out and the familiar Scooby gang are looking to enjoy a long vacation. However, sightings of a Lake Monster cause them to band together once again to solve yet another mystery.",
+  "review": {
+    "author": "martinhitchings",
+    "dateCreated": "2011-03-31",
+    "inLanguage": "English",
+    "heading": "Young kids will love it; but not for the fans....",
+    "reviewBody": "I grew up with the Scooby Doo cartoon and loved it as a kid and when they brought out the first Scooby live action movie; I was dubious. Thing was, I loved it! I also quite enjoyed the second movie although not as much as the first.\n\nWhen it came to the original cast, I had issues with Freddie Prinze Jr as Fred as I felt he wasn&apos;t butch enough and Sarah Michelle Gellar as Daphne, because she was both a little too short and I had not yet got over my Buffy crush; but Matthew Lillard as Shaggy was, quite simply, awesome.\n\nThis, unfortunately is where this movie falls down. Though I don&apos;t doubt the effort of Nick Palatas as Shaggy and indeed his acting chops (he is a young actor starting out) but following Matthew Lillard&apos;s Shaggy was always going to be a tall order. What also doesn&apos;t help is having a dark haired Fred in the form of Robbie Amell, I struggled to recognise him as Fred.\n\nHowever, the Daphne (Kate Melton) character I though was excellent and if I could transplant her for Gellar in the first; I would without a second thought.\n\nBottom line, not a great movie but I guarantee your young children will enjoy it. For the rest of us, its a sad reflection.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 5386,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2010-10-16",
+  "keywords": "2010s,scooby doo character,animal character name in title,bare chested male,muscular man",
+  "duration": "PT1H19M",
+  "actor": [
+    {
+      "name": "Robbie Amell",
+      "url": "https://www.imdb.com/name/nm2064412/"
+    },
+    {
+      "name": "Hayley Kiyoko",
+      "url": "https://www.imdb.com/name/nm3072243/"
+    },
+    {
+      "name": "Kate Melton",
+      "url": "https://www.imdb.com/name/nm2196325/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brian Levant",
+      "url": "https://www.imdb.com/name/nm0505152/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steven Altiere",
+      "url": "https://www.imdb.com/name/nm1662742/"
+    },
+    {
+      "name": "Daniel Altiere",
+      "url": "https://www.imdb.com/name/nm1662741/"
+    }
+  ]
+}

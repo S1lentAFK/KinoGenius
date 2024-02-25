@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Rock the Kasbah",
+  "url": "https://www.imdb.com/tt3164256/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU1OTY5MjIyM15BMl5BanBnXkFtZTgwNTIwMDYyMjI@._V1_.jpg",
+  "description": "A down-on-his-luck music manager discovers a teenage girl with an extraordinary voice while on a music tour in Afghanistan and takes her to Kabul to compete on the popular television show, Afghan Star.",
+  "review": {
+    "author": "cjnavage",
+    "dateCreated": "2016-01-23",
+    "inLanguage": "English",
+    "heading": "Hollywood, News Outlets, and the Politically Correct Want You to Ignore This Movie. Why?",
+    "reviewBody": "ROCK THE KASBAH? Heard of this one? No, you probably haven&apos;t, and there are insidious reasons why, political and social. Bill Murray, Bruce Willis, Kate Hudson, Zoey Deschanel. Think maybe there would be some pub behind it? What&apos;s going on? The movie has been panned by critics, ignored by Hollywood mainstream and news channel outlets. What gives? It&apos;s not a great movie, but it is a good movie, with a timely plot, and a message. AND, HERE IS WHERE THE POLITICALLY AND SOCIALLY INCORRECT ASPECTS ENTER. I am ashamed to have the term &apos;liberal&apos; associated with the movie industry. Ashamed of CNN and MSNBC for not picking up this theme and rolling with it. THIS MOVIE PORTRAYS Islam, THE MIDDLE EAST, AND OPPRESSION OF WOMEN IN BOTH ARENAS ACCURATELY AND THE PICTURE IS UGLY. This is why you haven&apos;t seen or heard an ad, watched the trailer, or viewed coverage by any major news outlet. Watch this film. I won&apos;t spoil it, but it centers on the true story of a female singer who simply wanted to appear on the Afghan equivalent of American Idol.WATCH THIS FILM, and wonder why the suppression has occurred.. It is a film about peace, ultimately, yet apparently is too hot and controversial for any support from Hollywood, and too accurate yet politically incorrect for mainstream news to explore. SHAME ON THE MASS MEDIA!",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 12690,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Music",
+    "War"
+  ],
+  "datePublished": "2016-03-18",
+  "keywords": "bad luck,watching tv,women&apos;s rights,california,explosion",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Bill Murray",
+      "url": "https://www.imdb.com/name/nm0000195/"
+    },
+    {
+      "name": "Leem Lubany",
+      "url": "https://www.imdb.com/name/nm5647588/"
+    },
+    {
+      "name": "Zooey Deschanel",
+      "url": "https://www.imdb.com/name/nm0221046/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Barry Levinson",
+      "url": "https://www.imdb.com/name/nm0001469/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mitch Glazer",
+      "url": "https://www.imdb.com/name/nm0322248/"
+    }
+  ]
+}

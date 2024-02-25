@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Kangaroo Jack: G'Day U.S.A.!",
+  "url": "https://www.imdb.com/tt0459425/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjExODEzODM1NF5BMl5BanBnXkFtZTgwNTU1MDA2MDE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "zackkrenn",
+    "dateCreated": "2018-04-25",
+    "inLanguage": "English",
+    "heading": "A Kubrickian take on the Kangaroo Jack franchise",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 487,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.8
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2004-11-16",
+  "keywords": "sequel,second part,villain,villain arrested,australia",
+  "duration": "PT1H15M",
+  "actor": [
+    {
+      "name": "Ahmed Best",
+      "url": "https://www.imdb.com/name/nm0078886/"
+    },
+    {
+      "name": "Josh Keaton",
+      "url": "https://www.imdb.com/name/nm0005079/"
+    },
+    {
+      "name": "Jeff Bennett",
+      "url": "https://www.imdb.com/name/nm0071818/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ron Myrick",
+      "url": "https://www.imdb.com/name/nm0617106/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Adam Scheinman",
+      "url": "https://www.imdb.com/name/nm0770649/"
+    },
+    {
+      "name": "Andrew Scheinman",
+      "url": "https://www.imdb.com/name/nm0770650/"
+    }
+  ]
+}

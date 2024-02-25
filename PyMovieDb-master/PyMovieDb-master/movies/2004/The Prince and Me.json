@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Prince & Me",
+  "url": "https://www.imdb.com/tt0337697/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTllMGQzZGQtNzZmMy00ZjA2LWExNzMtYjViNGU4YzRmNGE2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "At college Paige meets Eddie, a student from Denmark, whom she first dislikes but later accepts, likes, and loves; he proves to be Crown Prince Edvard. Paige follows him to Copenhagen, and he follows her back to school with a plan.",
+  "review": {
+    "author": "boland_s",
+    "dateCreated": "2004-08-29",
+    "inLanguage": "English",
+    "heading": "True love -- an age old feeling we all seek.",
+    "reviewBody": "I&apos;ve been reading the comments from everyone on the movie. I just wanted to say a couple of things. First off, if one turns off their analytical side and simply watch the movie, they might be surprised.\n\nEvery female, regardless of age, secretly wants to be loved like the classic &apos;princess&apos; stories. It&apos;s not so much about a princess as it is about the real love between two people.\n\nThese kinds of stories still exist simply because we yearn for them, even if it is buried deep inside us. \n\nThe most important part of the movie is not location, government or royalty, it is the journey these two &apos;people&apos; take after meeting. The setting for each before meeting sets up the movie and introduces them, flaws and all to us. \n\nthis is simply a love story that transcends time and age. Watch it with emotion instead of analyzing it.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 41329,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Romance"
+  ],
+  "datePublished": "2004-07-16",
+  "keywords": "shorthaired girl,masculine woman,guilty pleasure,chick flick,student",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Julia Stiles",
+      "url": "https://www.imdb.com/name/nm0005466/"
+    },
+    {
+      "name": "Luke Mably",
+      "url": "https://www.imdb.com/name/nm0531101/"
+    },
+    {
+      "name": "Miranda Richardson",
+      "url": "https://www.imdb.com/name/nm0001669/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Martha Coolidge",
+      "url": "https://www.imdb.com/name/nm0004838/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Amin",
+      "url": "https://www.imdb.com/name/nm0024909/"
+    },
+    {
+      "name": "Katherine Fugate",
+      "url": "https://www.imdb.com/name/nm0297545/"
+    },
+    {
+      "name": "Jack Amiel",
+      "url": "https://www.imdb.com/name/nm0024856/"
+    }
+  ]
+}

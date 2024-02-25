@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Ant Bully",
+  "url": "https://www.imdb.com/tt0429589/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE2OTYwMzQzNl5BMl5BanBnXkFtZTcwNDM1MjMzMQ@@._V1_.jpg",
+  "description": "After Lucas Nickle floods an ant colony with his water gun, he&apos;s magically shrunken down to insect size and sentenced to hard labor in the ruins.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2006-08-04",
+  "keywords": "shrinking,ant,formicary,moral,unidentified flying object",
+  "duration": "PT1H28M",
+  "rating": {
+    "ratingCount": 41596,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "review": {
+    "author": "tfrizzell",
+    "dateCreated": "2006-09-30",
+    "inLanguage": "English",
+    "heading": "Don&apos;t Step on It.",
+    "reviewBody": "Elements from several recent computer-generated pictures are truly evident in this animated feature that focuses on a young boy who takes his frustrations out on defenseless ants after being bullied himself by his peers. After he magically gets turned to the size of an ant, the youngster learns how the other half lives and survives. Under-rated picture that has good messages for the kiddies and will keep them occupied on rainy afternoons. A bit slow-moving and old hat for hardened adults, but still more upside nonetheless. Julia Roberts and Nicolas Cage are the two biggest names in a strong cast that lends their voices to their cartoonish alter egos. 4 stars out of 5.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "actor": [
+    {
+      "name": "Paul Giamatti",
+      "url": "https://www.imdb.com/name/nm0316079/"
+    },
+    {
+      "name": "Nicolas Cage",
+      "url": "https://www.imdb.com/name/nm0000115/"
+    },
+    {
+      "name": "Julia Roberts",
+      "url": "https://www.imdb.com/name/nm0000210/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John A. Davis",
+      "url": "https://www.imdb.com/name/nm0204884/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John A. Davis",
+      "url": "https://www.imdb.com/name/nm0204884/"
+    },
+    {
+      "name": "John Nickle",
+      "url": "https://www.imdb.com/name/nm1752042/"
+    }
+  ]
+}

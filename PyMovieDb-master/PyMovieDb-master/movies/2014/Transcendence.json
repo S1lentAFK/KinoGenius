@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Transcendence",
+  "url": "https://www.imdb.com/tt2209764/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc1MjQ3ODAyOV5BMl5BanBnXkFtZTgwNjI1NDQ0MTE@._V1_.jpg",
+  "description": "A scientist's drive for artificial intelligence takes on dangerous implications when his own consciousness is uploaded into one such program.",
+  "review": {
+    "author": "lathe-of-heaven",
+    "dateCreated": "2014-08-20",
+    "inLanguage": "English",
+    "heading": "Beautifully made, serious Science Fiction. More subtle and deeper than you may think... Blu-ray: Excellent A:10 V:10",
+    "reviewBody": "I'm glad that some of the reviews that I had read, even from fairly reputable and reliable sources like Bluray.com, were ultimately not accurate in their description of this film. For example, that site made it seem like this was a rather shallow movie that basically was about an Artificial Intelligence that typically goes amok. That is not true at all and completely misses the point.\\n\\nNow that I've just seen it, I can understand why they named it as they did; this wasn't just some usual commercially catchy phrase to sell a film, but after all is said and done (and viewed) that SPECIFICALLY was actually the primary theme of the film. It will be a little difficult to 'talk' about this aspect of it without entering Spoiler territory, which I do not wish to do. \\n\\nThere are deeper themes running through this film than one may think at first. Without being specific, the final few scenes reveal that 'Transcendence' is indeed what is going on here. So, first and foremost, PLEASE do not be put off by those who say that this is just a shallow Sci Fi film about a machine taking over; if you like serious Science fiction that is done very well, then you should like this film.\\n\\nOne caution though... My impression is that this movie is the moral antithesis of a film like, say, 'CHILDREN OF MEN', which I also just watched recently before this one. That film too is very beautifully shot and technically well done; AND, it also would be considered very serious, adult Science Fiction. But, I personally ***ENJOYED*** this one quite a bit more; the themes and mood of it resonated a LOT more with me personally than the other film. I just mention these particular films as a comparison of two well done, modern Sci Fi films, but with almost TOTALLY opposite philosophies behind them. Whereas 'CoM' is what I would call much more gritty and 'Realistic' and even quite Nihilistic in it's tone, where basically just about bloody EVERYONE dies, Mankind is shown to be nasty, selfish, and brutal, and with the supposed exception of it's last minute ending, completely without any hope at all. This film though, in my lowly and wretched opinion, is MUCH more subtle and enlightened in the themes that it is emphasizing, and it may not be until the very end when you fully realize what the point actually is (I'll give you a hint... It has to do with one of the last things Rebecca Hall says) Don't get me wrong, BOTH films are very well done, but I just wanted to show the extreme contrast in tone, so that it might help you to choose whether you would want to watch this one.\\n\\nAlso, quite frankly, it is just a great film. It's a lot of fun, there is excellent suspense where you do NOT know what is going to happen next or whether what is going on is truly Good or Evil...\\n\\nSo, as I mention in a lot of my reviews: If you are a bit on the cynical side and are the kind of person who likes their entertainment, whatever the Genre, to be of the more brutally 'Realistic' type, and you don't care for more imaginative or Idealistic films, then this one may not do much for you. BUT... IF you do appreciate films where the underlying themes may cause you to question your own attitudes towards Hope and Faith (and I DON'T mean anything Religious at all - Just Faith or Hope in things or people in general) THEN you might, as I did, really find this film quite refreshing and entertaining.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 237879,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "datePublished": "2014-04-25",
+  "keywords": "scientist,artificial intelligence,technology,power outage,mind upload",
+  "duration": "PT1H59M",
+  "actor": [
+    {
+      "name": "Johnny Depp",
+      "url": "https://www.imdb.com/name/nm0000136/"
+    },
+    {
+      "name": "Rebecca Hall",
+      "url": "https://www.imdb.com/name/nm0356017/"
+    },
+    {
+      "name": "Morgan Freeman",
+      "url": "https://www.imdb.com/name/nm0000151/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Wally Pfister",
+      "url": "https://www.imdb.com/name/nm0002892/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jack Paglen",
+      "url": "https://www.imdb.com/name/nm1438698/"
+    }
+  ]
+}

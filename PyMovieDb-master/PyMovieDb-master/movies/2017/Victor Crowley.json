@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Victor Crowley",
+  "url": "https://www.imdb.com/tt5534434/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjk2OTI2OTYxN15BMl5BanBnXkFtZTgwMzQwMTQ1NDM@._V1_.jpg",
+  "description": "Ten years after the events of the original movie, Victor Crowley is mistakenly resurrected and proceeds to kill once more.",
+  "review": {
+    "author": "kosmasp",
+    "dateCreated": "2018-02-02",
+    "inLanguage": "English",
+    "heading": "Victor Crowley ... lives",
+    "reviewBody": "Not that we&apos;d expect something different. But yeah if you have been watching the other movies (that&apos;s Hatchet 1-3) you should know that it did seem like the Crowley Saga was over. But low and behold, we get another one. And Adam Green is coming back to take the reigns and continue the legacy he created. It&apos;s also almost a miracle he kept the making of this movie a secret. So while almost everyone was expecting to see the original Hatchet movie at a Festival I was attending, surprise surprise ... it&apos;s Hatchet 4.\n\nAnd if you liked the first Hatchet and the second one, you can see the similarities. The humor is back and what some may call bad acting, is deliberate and over the top. That doesn&apos;t mean you have to like it ... just be aware of it and don&apos;t confuse it. If silly floats your boat (no pun intended), you can give this a try",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 6933,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Horror"
+  ],
+  "datePublished": "2020-05-13",
+  "keywords": "scantily clad female,male full frontal nudity,female nudity,cleavage,nude girl",
+  "duration": "PT1H23M",
+  "actor": [
+    {
+      "name": "Parry Shen",
+      "url": "https://www.imdb.com/name/nm0791487/"
+    },
+    {
+      "name": "Kane Hodder",
+      "url": "https://www.imdb.com/name/nm0387987/"
+    },
+    {
+      "name": "Laura Ortiz",
+      "url": "https://www.imdb.com/name/nm1925026/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Adam Green",
+      "url": "https://www.imdb.com/name/nm1697112/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Adam Green",
+      "url": "https://www.imdb.com/name/nm1697112/"
+    }
+  ]
+}

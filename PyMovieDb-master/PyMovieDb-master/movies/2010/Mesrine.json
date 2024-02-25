@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "L&apos;instinct de mort",
+  "url": "https://www.imdb.com/tt1259014/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTZhNWEwMDAtYzEyOC00NTVkLTgxZDktYjQwMDJiYjk2NmQ4XkEyXkFqcGdeQXVyODAwMTU1MTE@._V1_.jpg",
+  "description": "The story of the notorious French gangster Jacques Mesrine, with the focus on his life before the early 1970s and the events that led to him being declared Public Enemy No. 1 in France.",
+  "review": {
+    "author": "wvisser-leusden",
+    "dateCreated": "2009-12-13",
+    "inLanguage": "English",
+    "heading": "a good blockbuster of a famous French criminal",
+    "reviewBody": "Jacques Mesrine (1936 - 1979) was a well-known French criminal, getting himself a name for robbing banks and a number of murders. After having received a huge ransom for kidnapping a French millionaire in 1979, French authorities declared him &apos;Public Enemy Number One&apos;. They increased their efforts to track Mesrine down, and executed him without a trial shortly afterwards. While imprisoned earlier on, Mesrine wrote his autobiography.\n\n&apos;Public Enemy Number One - Part 1&apos; reflects the first part of this criminal&apos;s adult life. Starting in the late fifties in Algeria, where French soldier Jacques Mesrine served in the foul war of independence, we get a clear picture of his development as a master-criminal.\n\nAlthough I think it difficult to judge the historical precision of its plot, this very French film surely makes a good watch. Male lead Vincent Cassel acts a convincing Jacques Mesrine, and the many supporting roles shine with equal quality. The parts 1 and 2 of &apos;Public enemy Number One&apos; provide a real blockbuster that sticks to the mind.\n\nFor the fans of Ludivine Sagnier. She isn&apos;t in this Part 1, but will appear in Part 2.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 35166,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Biography",
+    "Crime"
+  ],
+  "datePublished": "2009-08-07",
+  "keywords": "mesrine,gangster,prison,1960s,celebrity criminal",
+  "duration": "PT1H53M",
+  "actor": [
+    {
+      "name": "Vincent Cassel",
+      "url": "https://www.imdb.com/name/nm0001993/"
+    },
+    {
+      "name": "Cécile de France",
+      "url": "https://www.imdb.com/name/nm0208426/"
+    },
+    {
+      "name": "Gérard Depardieu",
+      "url": "https://www.imdb.com/name/nm0000367/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jean-François Richet",
+      "url": "https://www.imdb.com/name/nm0724938/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jacques Mesrine",
+      "url": "https://www.imdb.com/name/nm1626500/"
+    },
+    {
+      "name": "Abdel Raouf Dafri",
+      "url": "https://www.imdb.com/name/nm2022382/"
+    },
+    {
+      "name": "Jean-François Richet",
+      "url": "https://www.imdb.com/name/nm0724938/"
+    }
+  ]
+}

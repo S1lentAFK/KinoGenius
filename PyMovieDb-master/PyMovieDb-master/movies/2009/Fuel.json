@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "Fuel",
+  "url": "https://www.imdb.com/tt1072437/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzc0MzE0NzM2MF5BMl5BanBnXkFtZTcwMTE2Nzg3MQ@@._V1_.jpg",
+  "description": "Fuel is the story of a young man's struggle to save his girl from an abusive environment. Emilio discovers that he has the ability to run incredibly fast. With the hope of a scholarship, he sees an opportunity to be able to leave ...",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 124,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.9
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": null,
+  "keywords": "boyfriend girlfriend relationship,one word title",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Lauren Anthony",
+      "url": "https://www.imdb.com/name/nm2744994/"
+    },
+    {
+      "name": "Will Beinbrink",
+      "url": "https://www.imdb.com/name/nm1080718/"
+    },
+    {
+      "name": "Brian Bogulski",
+      "url": "https://www.imdb.com/name/nm2540950/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Oktay Ortabasi",
+      "url": "https://www.imdb.com/name/nm1090843/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jefferson Bonar",
+      "url": "https://www.imdb.com/name/nm1449357/"
+    },
+    {
+      "name": "Oktay Ortabasi",
+      "url": "https://www.imdb.com/name/nm1090843/"
+    }
+  ]
+}

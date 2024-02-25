@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Wedding Planner",
+  "url": "https://www.imdb.com/tt0209475/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGYxZTAyNjMtNWYyMy00MzU4LTkyNDMtY2I3MTAwYjliOTliXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "chrisbrown6453",
+    "dateCreated": "2001-07-12",
+    "inLanguage": "English",
+    "heading": "Only of your girlfriend really wants to see it.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 86018,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2001-04-06",
+  "keywords": "kraft macaroni and cheese,love triangle,man wears eyeglasses,ballroom dancing,wedding song",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Jennifer Lopez",
+      "url": "https://www.imdb.com/name/nm0000182/"
+    },
+    {
+      "name": "Matthew McConaughey",
+      "url": "https://www.imdb.com/name/nm0000190/"
+    },
+    {
+      "name": "Bridgette Wilson-Sampras",
+      "url": "https://www.imdb.com/name/nm0933098/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Adam Shankman",
+      "url": "https://www.imdb.com/name/nm0788202/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Pamela Falk",
+      "url": "https://www.imdb.com/name/nm0266184/"
+    },
+    {
+      "name": "Michael Ellis",
+      "url": "https://www.imdb.com/name/nm0963400/"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Disappointments Room",
+  "url": "https://www.imdb.com/tt2364897/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTE0MTE3MzI4ODFeQTJeQWpwZ15BbWU4MDI1MDI0ODkx._V1_.jpg",
+  "description": "A mother and her young son release unimaginable horrors from the attic of their rural dream home.",
+  "review": {
+    "author": "Zbigniew_Krycsiwiki",
+    "dateCreated": "2016-09-15",
+    "inLanguage": "English",
+    "heading": "I&apos;m not entirely sure what this film is even supposed to be about.",
+    "reviewBody": "Long shelved (filmed in 2014, unreleased until 2016) this cannot decide if it wants to be a haunted house flick, a psychological thriller, family drama, or a routine slasher movie, as a couple, still reeling from the death of their infant daughter, relocate, with their young son, to a remote mansion, for unexplained reasons.\n\nWeird things begin happening immediately, but the film implies it may all be in wifey&apos;s mind. The discovery of a hidden room, and a black dog prowling the grounds takes the plot into generic possession/ haunting territory, but dead daughter subplot takes it into tragedy/ family drama territory. We are introduced to who I believe was intended to be the token psychic woman, who disappeared as quickly as she appeared, which lead me to wonder why she was even there. Twice the film tried to bring a third party/ love interest into the plot, before dropping one completely, and killing the other, without anything further being mentioned about him.\n\nThis entire film is like that, with seemingly only the beginning of its plot threads being explored, then dropped entirely. The film never climaxes, so much as it just stops, with nothing remotely close to closure to any of its numerous plot threads. \n\nWell acted, and there is enough atmosphere in the Gothic home, but whole chunks of the plot seem to have been edited out prior to release, giving the film an unsatisfactory, unfinished feel.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 10394,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.9
+  },
+  "contentRating": "R",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2016-09-09",
+  "keywords": "cat,blood,pulled from theater,supernatural serial killer,child in jeopardy",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Kate Beckinsale",
+      "url": "https://www.imdb.com/name/nm0000295/"
+    },
+    {
+      "name": "Mel Raido",
+      "url": "https://www.imdb.com/name/nm0706842/"
+    },
+    {
+      "name": "Duncan Joiner",
+      "url": "https://www.imdb.com/name/nm5796026/"
+    }
+  ],
+  "director": [
+    {
+      "name": "D.J. Caruso",
+      "url": "https://www.imdb.com/name/nm0142286/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Wentworth Miller",
+      "url": "https://www.imdb.com/name/nm0589505/"
+    },
+    {
+      "name": "D.J. Caruso",
+      "url": "https://www.imdb.com/name/nm0142286/"
+    }
+  ]
+}

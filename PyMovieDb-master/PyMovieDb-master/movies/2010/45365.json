@@ -1,0 +1,46 @@
+
+
+{
+  "type": "Movie",
+  "name": "45365",
+  "url": "https://www.imdb.com/tt1337139/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA1NzQ5ODg5Nl5BMl5BanBnXkFtZTcwOTIwOTExNw@@._V1_.jpg",
+  "description": "45365 explores the congruities of daily life in an American town. From the patrol car to the courtroom, the playground to the nursing home, the parade to the prayer service, it explores relationships and interactions - with people...",
+  "review": {
+    "author": "duncplus",
+    "dateCreated": "2013-08-13",
+    "inLanguage": "English",
+    "heading": "A slice of small town life",
+    "reviewBody": "The first thing you should know about this film is that there's no plot or narrative. Not much happens. There's no excitement, no action, no resolution, and unusually for a documentary, no point of view being pushed.\n\nThis is a short movie about life in a small town in America. We see people going about their daily business, talking about everyday things, and that's about it.\n\nThis is very different to most films, which are driven by an evolving storyline and often a liberal helping of action or drama of one sort or another. There's no contrived conflict here, no dramatic music or camera work.\n\nThis film is a collage of bits and pieces of people just existing. It creates a sense of place in quite an organic feeling way. We get a picture of a town that still retains a real feeling of community, where life hasn't yet given way to the rush of the big city.\n\nCapturing that slice of small town life and presenting it to the viewer is what this film is really all about. It's a different kind of viewing experience from your average documentary, and a pleasant change from the norm.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 218,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": null,
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2010-06-18",
+  "keywords": "brother brother relationship,shelby county,shanty,ohio",
+  "duration": "PT1H30M",
+  "actor": [],
+  "director": [
+    {
+      "name": "Bill Ross IV",
+      "url": "https://www.imdb.com/name/nm3226377/"
+    },
+    {
+      "name": "Turner Ross",
+      "url": "https://www.imdb.com/name/nm3225731/"
+    }
+  ],
+  "creator": []
+}

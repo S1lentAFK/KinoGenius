@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Elsa & Fred",
+  "url": "https://www.imdb.com/tt2113659/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM4MzIyNzQ1N15BMl5BanBnXkFtZTgwMjQyNzY3MjE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "goodone49",
+    "dateCreated": "2015-01-23",
+    "inLanguage": "English",
+    "heading": "lackluster at best",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 3711,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2015-05-01",
+  "keywords": "american remake,american remake of spanish film,american remake of argentinian film,remake of argentinian film,new orleans louisiana",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Shirley MacLaine",
+      "url": "https://www.imdb.com/name/nm0000511/"
+    },
+    {
+      "name": "Christopher Plummer",
+      "url": "https://www.imdb.com/name/nm0001626/"
+    },
+    {
+      "name": "Marcia Gay Harden",
+      "url": "https://www.imdb.com/name/nm0001315/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Radford",
+      "url": "https://www.imdb.com/name/nm0705535/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Marcos Carnevale",
+      "url": "https://www.imdb.com/name/nm0138759/"
+    },
+    {
+      "name": "Marcela Guerty",
+      "url": "https://www.imdb.com/name/nm0346351/"
+    },
+    {
+      "name": "Lily Ann Martin",
+      "url": "https://www.imdb.com/name/nm1272478/"
+    }
+  ]
+}

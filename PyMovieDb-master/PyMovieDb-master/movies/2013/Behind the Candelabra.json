@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Behind the Candelabra",
+  "url": "https://www.imdb.com/tt1291580/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg0OTY2OTM0OF5BMl5BanBnXkFtZTcwMTk4OTQ1OQ@@._V1_.jpg",
+  "description": "A chronicle of the tempestuous six-year romance between megastar singer Liberace and his young lover Scott Thorson.",
+  "review": {
+    "author": "StevePulaski",
+    "dateCreated": "2013-05-26",
+    "inLanguage": "English",
+    "heading": "The enigma is overpowering me",
+    "reviewBody": "I would not want to be the person shopping around a serious script in Hollywood about the life of the famous pianist Liberace. It would be the toughest of sells to a culture that would likely feel the material is too dry and the demand too little. A slightly campier script, with luxurious set design and intimate portrayals of characters the public wouldn't likely know about is what I'd like to get my hands on. The story of Liberace is stranger than fiction and dryer, more serious material could've corrupted its overall goals and ambitions.\\n\\nThe film with the campier script, luxurious set designs, and intimate portrayals is Steven Soderbergh's Behind the Candelabra, a wonderful, limitless look at the life of Liberace, an enigma in every sense of the word. In addition to playing many sold-out shows, the man had a lovelife like no other at the time, meeting and becoming fast friends with Scott Thorson, an aspiring veterinarian who was quickly made his lover. Thorson seemed to have a genuine understanding of the loneliness and lack of friendship Liberace had and provided him with great talks, great compassion, and great sex.\\n\\nThe relationship, however, resulted in drug addiction, intense plastic surgery, lies, mistrust, and ended with a lawsuit. Soderbergh and writer Richard LaGravenese don't hesitate to explore this and make it one of the deepest focuses in the picture. The relationships the men had had the highest of highs and the lowest of lows. The scenes when they are together in a hot tub are human and romantic. The scenes when they are fighting are heartbreaking because you realize that these men haven't just come so far to make their relationship work but losing each other after so long would be detrimental to their self-esteems and egos. They complete each other and that's where the magic is at its strongest.\\n\\nLiberace is played by Michael Douglas in one of the bravest roles of his career. So brave and powerful that it's unfortunate that because of the film's TV movie status it is ineligible for an Academy Award nomination. Douglas is an actor who is never conventional with his role choice. The same man who played a common-man pushed off a cliff of sanity, an executive victim to a consuming, real-life game, and a worried father of a drug-addicted daughter is the same man playing a middle-aged, flamboyant pianist with a love for wonder, music, and men. The diversity in role choice is stunning.\\n\\nMatt Damon appears at his youngest as Liberace's lover Scott, in an equally conflicted, complex performance. Damon fills the shoes of the role beautifully and effectively, giving off much in the way of creative energy and heart as he shows just how stressed and torn Thorson must've been in a relationship with someone who truly loved and understood him but wanted to manipulate him. Supporting performances from Rob Lowe as Liberace's doctor, prescribing medicines to both him and Thorson and Dan Aykroyd as his manager are terrific and often are seen providing strong comic relief.\\n\\nFor a TV movie to have the cinematography and atmosphere that Behind the Candelabra does is truly a feature worth nothing. It may not be as excessive as Baz Luhrmann's Great Gatsby - I don't expect anything of the next two years to be on par with that film - but rarely has a TV movie achieved such phenomenally vibrant and luscious standards. The only thing that could make it better is Soderbergh proving he knows how to work with it and he most certainly does.\\n\\nHBO seems to be the go-to network for biographical films about figures that wouldn't likely make appropriate return in the theaters (Behind the Candelabra especially considering the summer movie season has already hit the ground running). David Mamet, just a few months ago, directed the delightful and shockingly unbiased Phil Spector, with actors like Al Pacino and Helen Mirren receiving top-billing. Seeing as a Liberace biopic is directed by none other than Soderbergh, I wouldn't be surprised at seeing a slew of films about eclectic media figures being made and released on HBO in the next few years. Networks that have the drive and willingness to air these kinds of films are a necessity to the success of film.\\n\\nStarring: Michael Douglas, Matt Damon, Rob Lowe, and Dan Aykroyd. Directed by: Steven Soderbergh.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 45237,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2013-06-07",
+  "keywords": "plastic surgery,pianist,boy toy,showman,1970s",
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Michael Douglas",
+      "url": "https://www.imdb.com/name/nm0000140/"
+    },
+    {
+      "name": "Matt Damon",
+      "url": "https://www.imdb.com/name/nm0000354/"
+    },
+    {
+      "name": "Scott Bakula",
+      "url": "https://www.imdb.com/name/nm0000836/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven Soderbergh",
+      "url": "https://www.imdb.com/name/nm0001752/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Richard LaGravenese",
+      "url": "https://www.imdb.com/name/nm0481418/"
+    },
+    {
+      "name": "Scott Thorson",
+      "url": "https://www.imdb.com/name/nm1281443/"
+    },
+    {
+      "name": "Alex Thorleifson",
+      "url": "https://www.imdb.com/name/nm5674732/"
+    }
+  ]
+}

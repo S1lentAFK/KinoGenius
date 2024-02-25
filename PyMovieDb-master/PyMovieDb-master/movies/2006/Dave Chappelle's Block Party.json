@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Dave Chappelle's Block Party",
+  "url": "https://www.imdb.com/tt0425598/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGQ1MGU2YjMtMTBiNC00ZGM2LTg3MzEtYWNmYWE0YzhhZmQ1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+  "description": "A mix of Dave Chappelle's sketch comedy and musical interludes, inspired in part by the 1973 documentary Wattstax.",
+  "genre": [
+    "Documentary",
+    "Comedy",
+    "Music"
+  ],
+  "datePublished": "2006-06-30",
+  "duration": "PT1H43M",
+  "contentRating": "15",
+  "keywords": "concert music,1970s,neighborhood,marching band,block party",
+  "rating": {
+    "ratingCount": 9599,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "review": {
+    "author": "Quinoa1984",
+    "dateCreated": "2006-03-10",
+    "inLanguage": "English",
+    "heading": "misleading (thought not disappointing) if you're looking for a Chappelle comedy movie...",
+    "reviewBody": "...However as a rap-concert movie, it's one of the better ones I've seen in quite a while. It works for a few reasons, though for some it may not work as well as for others. Basically, if you're coming into this expecting Chappelle doing more of his stand-up &/or sketches, you'll wonder how you could've been misled (not that his moments on screen don't elicit enough laughs for satisfaction, at least for a Chappelle admirer like myself)- in fact many white audience members going into the film walked out of screenings. If this is due to the film-making style or something wrong on the end of director Michel Gondry, or just not caring for the rap and hip-hop, is up for debate. But considering the kind of mix of better-than-usual rap music, solid cinema verier style camera-work by Gondry and his small crew, and the fine bits of interview footage, it's actually not a bad film if you go into it knowing what you'll get. For some it may be one of the film events of the season &/or year.\n\nOne reason it worked is that- and this is of course a subjective part of seeing Block Party- the musical acts are better than most of the rap and hip-hop currently heard on radio and seen on the music channels. Led by an actual band playing music as opposed to all beat machines, the groups (of which are Chappelle's own favorites, and some of which already appeared on the hit or miss musical segments of his show) bring out solid beats, and the rappers or singers are not off-putting or ridiculous. The highlights for me were with Kanye West (with a cool, powerful mix of himself and a school band for 'Jesus Walks'), The Roots, and the Fugee's 'Killing Me Softly'. There are also some cool, loose moments with Chappelle and some people backstage where he jams and riffs and jokes (funny jokes too, albeit for the musician's expense more than for the audience).\n\nThe other thing that made the film work though is Gondry's natural eye with his lens, as he just stands by getting down the attitudes, the emotions and little bits of life in the midst of this huge spectacle. There isn't anything outstanding in his style like with the Maysles brothers or DA Pennebaker in terms of capturing the music in action, and sometimes his focus strays to people on camera who take up a little too much time. But for the most part (with some exceptions of little moments that just don't work) his attention to the rhythm of a film, and the rhythm of film led by music- he is one of the most artistically dominant forces in music videos of the past ten or so years- is focused just right. This style also compliments Chappelle, who has a laid back kind of way of talking to people, but with a sense of humor that cuts the chase. Some of the best parts though of his moments on screen aren't expected, improvised, like the James Brown bit on stage, or his obscure ability to play two specific jazz songs on piano, or even his more juvenile jokes in jamming.\n\nIn short, it's a side of Chappelle you might not usually see at times, or with Gondry, and it all gels together for the sake of the audience that showed up for the show. Nothing too pretentious, and entertaining enough to keep those interested in their seats.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Dave Chappelle",
+      "url": "https://www.imdb.com/name/nm0152638/"
+    },
+    {
+      "name": "Yasiin Bey",
+      "url": "https://www.imdb.com/name/nm0080049/"
+    },
+    {
+      "name": "Lauryn Hill",
+      "url": "https://www.imdb.com/name/nm0005012/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michel Gondry",
+      "url": "https://www.imdb.com/name/nm0327273/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dave Chappelle",
+      "url": "https://www.imdb.com/name/nm0152638/"
+    }
+  ]
+}

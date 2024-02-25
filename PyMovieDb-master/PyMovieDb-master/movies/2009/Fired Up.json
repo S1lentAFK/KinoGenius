@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Fired Up!",
+  "url": "https://www.imdb.com/tt1083456/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE3MDMxMTQ0M15BMl5BanBnXkFtZTcwNTA0MDAyMg@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Sammythecrab",
+    "dateCreated": "2010-02-20",
+    "inLanguage": "English",
+    "heading": "one of the funniest stupid movies ever.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 45858,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Sport"
+  ],
+  "datePublished": "2009-07-10",
+  "keywords": "cheerleader camp,cheerleader,high school,female nudity,lesbian",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Eric Christian Olsen",
+      "url": "https://www.imdb.com/name/nm0647638/"
+    },
+    {
+      "name": "Nicholas D'Agosto",
+      "url": "https://www.imdb.com/name/nm0194900/"
+    },
+    {
+      "name": "Sarah Roemer",
+      "url": "https://www.imdb.com/name/nm2105255/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Will Gluck",
+      "url": "https://www.imdb.com/name/nm0323239/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Will Gluck",
+      "url": "https://www.imdb.com/name/nm0323239/"
+    }
+  ]
+}

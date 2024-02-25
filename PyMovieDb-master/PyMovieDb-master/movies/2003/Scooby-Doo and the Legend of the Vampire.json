@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Scooby-Doo! and the Legend of the Vampire",
+  "url": "https://www.imdb.com/tt0357139/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjRiMmY3YmMtNWQ4Mi00OGJmLWJhZjMtMGRjNGRiNzc3NzY3XkEyXkFqcGdeQXVyNTgyNTA4MjM._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "brookenichole-98054",
+    "dateCreated": "2020-05-16",
+    "inLanguage": "English",
+    "heading": "Confusing",
+    "reviewBody": "The past Scooby movies have been either great or just okay, but this one was completely confusing. This one was entertaining but it made no sense. The whole plot had me extremely confused. I didn't understand why Daphne and Fred are back to the regular outfits and the villain's plan. They brought the music back in this one so that was nice but sometimes the sounds were too much. Overall, it's watchable but not great.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 5823,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2003-05-19",
+  "keywords": "music festival, rock music, all girl band, camping, direct to video",
+  "duration": "PT1H12M",
+  "actor": [
+    {
+      "name": "Casey Kasem",
+      "url": "https://www.imdb.com/name/nm0440487/"
+    },
+    {
+      "name": "Frank Welker",
+      "url": "https://www.imdb.com/name/nm0919798/"
+    },
+    {
+      "name": "Nicole Jaffe",
+      "url": "https://www.imdb.com/name/nm0415476/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Scott Jeralds",
+      "url": "https://www.imdb.com/name/nm0421874/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Turosz",
+      "url": "https://www.imdb.com/name/nm0878006/"
+    }
+  ]
+}

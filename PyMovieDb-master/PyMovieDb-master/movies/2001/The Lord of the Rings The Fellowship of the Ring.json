@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Lord of the Rings: The Fellowship of the Ring",
+  "url": "https://www.imdb.com/tt0120737/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "bonnie91",
+    "dateCreated": "2006-04-14",
+    "inLanguage": "English",
+    "heading": "The Fellowship of the Ring: Not just a Movie, but the Door to another Dimension",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 1987030,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.9
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "datePublished": "2001-12-19",
+  "keywords": "ring,quest,hobbit,middle earth,elf",
+  "duration": "PT2H58M",
+  "actor": [
+    {
+      "name": "Elijah Wood",
+      "url": "https://www.imdb.com/name/nm0000704/"
+    },
+    {
+      "name": "Ian McKellen",
+      "url": "https://www.imdb.com/name/nm0005212/"
+    },
+    {
+      "name": "Orlando Bloom",
+      "url": "https://www.imdb.com/name/nm0089217/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Jackson",
+      "url": "https://www.imdb.com/name/nm0001392/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "J.R.R. Tolkien",
+      "url": "https://www.imdb.com/name/nm0866058/"
+    },
+    {
+      "name": "Fran Walsh",
+      "url": "https://www.imdb.com/name/nm0909638/"
+    },
+    {
+      "name": "Philippa Boyens",
+      "url": "https://www.imdb.com/name/nm0101991/"
+    }
+  ]
+}

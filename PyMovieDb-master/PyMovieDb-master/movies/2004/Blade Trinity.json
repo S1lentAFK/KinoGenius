@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Blade: Trinity",
+  "url": "https://www.imdb.com/tt0359013/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE0Nzg2MzI3MF5BMl5BanBnXkFtZTYwMjExODQ3._V1_.jpg",
+  "description": "Blade, now a wanted man by the FBI, must join forces with the Nightstalkers to face his most challenging enemy yet: Dracula.",
+  "datePublished": "2004-12-08",
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "duration": "PT1H53M",
+  "keywords": "vampire slayer,dracula,blood,vampire hunter,female archer",
+  "rating": {
+    "ratingCount": 187169,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "review": {
+    "author": "ma-cortes",
+    "dateCreated": "2006-12-04",
+    "inLanguage": "English",
+    "heading": "Wesley Snipes joins forces with two tough fighters : Ryan Reynolds and Jessica Biel against the bloodsuckers",
+    "reviewBody": "Again Blade (Wesley Snipes), the half vampire , part human two-fisted hero with his cutting blade and his black garment and of course with the company of the veteran and old mentor Abraham Whistler (Kris Kristofferson). This time he teams up with the \\u00a8Vigilantes from the night\\u00a8 named Annibal and Abigail (a muscular Ryan Reynolds and Jessica Biel) forming an invincible trio. They have to take on a gang of crazy bloodsuckers in the dangerous underworld .The Vigilantes have a hidden place as headquarter where there isa blind (Natasha Lyonne) scientific and a child. They are pursued by law agents (James Remar) and combating vampiric enemies (led by Parker Posey) and against the greatest powerful vampire (Dominick Purcell) of all the time named Drake.\\n\\nThe picture provides frenetic action , visceral violence , spectacular combats and loads of blood and gore . The movie is full of energy when the struggles happen with impressive bounds , and overwhelming stunts , besides sensational blades -Katana type- duels . It&apos;s just another vampires story wrapped up with unstopped action and breathtaking scenes .The fights are well staged with phenomenal choreography and are made by the actors themselves who hold a hard training on martial arts and by stunts and adding computer generador effects .The makeshift from human to vampire is equally carried out competently , both make-up and especial effects .The motion picture was well directed by Terror and Fantasy expert director Guillermo del Toro.\\n\\nIt&apos;s the following to Blade I (Stephen Norrington 1998) and Blade II (Guillermo del Toro 2002 with Leonor Varela, Ron Perlman, Thomas Kretschman, Matt Schulz) forming a perfect trilogy . The plot rips off everything in sight including a confrontation between one bloodsucker (Dominick Purcell of Prison Break) as megalomaniac as the evil man from the Blade I (with Stephen Dorff , Tracy Sanna Lathan, Kris Kristopherson) .Besides the vampires countenance and vampires dogs faces are similar than Blade II . However , the film is darkest even than former parts, is more spectacular , more thriller, more focused than previous movies . The motion picture is based on the character created by Marvel Comic Group by Rolfman and Gene Colan and is well adapted by David S. Goyer (film producer along with Snipes) . It&apos;s a generally enjoyable tribute to vampires cinema and the action genre . If you&apos;re a former Blade fan , you&apos;ll like it . The picture results to be one of the most successful terror-action movie of the last years.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "Wesley Snipes",
+      "url": "https://www.imdb.com/name/nm0000648/"
+    },
+    {
+      "name": "Kris Kristofferson",
+      "url": "https://www.imdb.com/name/nm0001434/"
+    },
+    {
+      "name": "Parker Posey",
+      "url": "https://www.imdb.com/name/nm0000205/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David S. Goyer",
+      "url": "https://www.imdb.com/name/nm0275286/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David S. Goyer",
+      "url": "https://www.imdb.com/name/nm0275286/"
+    },
+    {
+      "name": "Marv Wolfman",
+      "url": "https://www.imdb.com/name/nm0938379/"
+    },
+    {
+      "name": "Gene Colan",
+      "url": "https://www.imdb.com/name/nm0170160/"
+    }
+  ]
+}

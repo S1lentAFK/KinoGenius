@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Lego Movie",
+  "url": "https://www.imdb.com/tt1490017/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "bellino-angelo2014",
+    "dateCreated": "2019-11-04",
+    "inLanguage": "English",
+    "heading": "Perfect family movie that everyone (regardless the age) will love",
+    "reviewBody": "I had no excitement in seeing THE LEGO MOVIE. Mostly because in Italy it wasn't that known nor advertised when it came out 5 years ago. But one Sunday after lunch I catched it on TV and man I was amazed! I really loved it from beginning to end and I also appreciated the style of the movie.\\n\\nThe movie begins with Emmett, a Lego construction worker (voiced by Chris Pratt) that has an ordinary life in the Lego universe. He is soon approached by Lucy and Vitruvius the prophet and they pester Emmett saying that he is the chosen one of the Lego people and the only one that could save them. In fact, there is danger in the air: President Business (voiced by Will Ferrell) wants to create the most powerful glue ever made because he wants to glue the entire Lego universe making it static. So it's up to Emmett, Lucy, Vitruvius and many other characters made in Legos (including Batman, C-3PO, Green Lantern, Han Solo and Superman just for naming a few) to stop President Business' evil plan.\\n\\nWhat I loved about this movie was its sense of style and CGI animation, with colors so vivid and fresh, like a Lego construction coming to life. All the actors do their best, and let me say it: with a voice cast that includes Chris Pratt, Elizabeth Banks, Morgan Freeman, Will Ferrell, Channing Tatum, Shaquille O'Neal as himself and even Liam Neeson, how can you go wrong? It was also a surprise the part where we see in the attic Ferrell and his son moving the Legos and changing the story just how they wanted to change it. And the songs are very cute.\\n\\nIf you never saw this movie before and you happen to catch it on TV, watch it! It's one of those rare family movies of these days that manages to delight and entertain properly both children and adults.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 385282,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2014-02-14",
+  "keywords": "lego,computer animation,good cop bad cop,based on toy,crossover",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Chris Pratt",
+      "url": "https://www.imdb.com/name/nm0695435/"
+    },
+    {
+      "name": "Will Ferrell",
+      "url": "https://www.imdb.com/name/nm0002071/"
+    },
+    {
+      "name": "Elizabeth Banks",
+      "url": "https://www.imdb.com/name/nm0006969/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Phil Lord",
+      "url": "https://www.imdb.com/name/nm0520488/"
+    },
+    {
+      "name": "Christopher Miller",
+      "url": "https://www.imdb.com/name/nm0588087/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Phil Lord",
+      "url": "https://www.imdb.com/name/nm0520488/"
+    },
+    {
+      "name": "Christopher Miller",
+      "url": "https://www.imdb.com/name/nm0588087/"
+    },
+    {
+      "name": "Dan Hageman",
+      "url": "https://www.imdb.com/name/nm1087952/"
+    }
+  ]
+}

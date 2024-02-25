@@ -1,0 +1,62 @@
+{
+  "type": "Movie",
+  "name": "Served Like a Girl",
+  "url": "https://www.imdb.com/tt6175710/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDJkYzU5ZTQtZTZkOC00YzhhLWIyMGYtNDhlMGRjYTY1MDc4XkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "joannpierson",
+    "dateCreated": "2018-06-03",
+    "inLanguage": "English",
+    "heading": "Reduced to a beauty contest - the American Way",
+    "reviewBody": "This is a beautiful movie that clearly articulates the reality these women have endured and continue to endure as a result of their service. They are all amazingly brave and thoughtful people and deserve support. Many are blessed with supportive families.\n\nThese ladies are strong, independent and intelligent. \n\nWhy is their service reduced to a beauty contest model? I would like to think that these are not little girls playing dress up. Life is serious. Talent and beauty is not something you can display for a panel of judges. Miss Veteran America is much much greater than this. We have new and different metrics. Isnt it time to let go of the shallow metrics of a beauty and talent competition?",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 344,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": null,
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2017-08-25",
+  "keywords": null,
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Nichole Alred",
+      "url": "https://www.imdb.com/name/nm8919281/"
+    },
+    {
+      "name": "Jas Boothe",
+      "url": "https://www.imdb.com/name/nm6730053/"
+    },
+    {
+      "name": "Rachel Engler",
+      "url": "https://www.imdb.com/name/nm8919282/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lysa Heslov",
+      "url": "https://www.imdb.com/name/nm0371312/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tchavdar Georgiev",
+      "url": "https://www.imdb.com/name/nm1841453/"
+    },
+    {
+      "name": "Lysa Heslov",
+      "url": "https://www.imdb.com/name/nm0371312/"
+    }
+  ]
+}

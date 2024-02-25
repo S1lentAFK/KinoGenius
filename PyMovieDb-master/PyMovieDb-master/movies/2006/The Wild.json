@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Call of the Wild",
+  "url": "https://www.imdb.com/tt7504726/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODFlODBmYjgtNmZkMi00NWY1LWJlMjMtZGFkNGY1ZDE3NTdhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+  "description": "A sled dog struggles for survival in the wilds of the Yukon.",
+  "review": {
+    "author": "eddie_baggins",
+    "dateCreated": "2020-05-03",
+    "inLanguage": "English",
+    "heading": "Far better than the trailers made it look",
+    "reviewBody": "For a $135 million dollar costing financial flop that stars a much ridiculed CGI dog as its main protagonist, The Call of the Wild is a surprisingly watchable family affair that is nowhere near as bad as its terrible trailers or marketing campaign made it look to be.\\n\\nMarking his first foray into non-animated feature film-making after well-liked efforts Lilo and Stitch, The Croods and How to Train Your Dragon, director Chris Sanders had a difficult task adapting Jack London&apos;s famed source material for the big screen and you can sense the film is never completely comfortable within itself as our computer generated furry friend Buck sets out on an Alaskan adventure filled with life lessons, gold and a grizzled Han Solo.\\n\\nIt takes us as viewers sometime too warm up to Buck in his current form, something that would not have been the case had Buck been played by some real life pooches (just look at recent effort Togo as an example) and it hurts Call of the Wild in the long run as Sanders tries to invest us into Buck&apos;s journey that takes him from spoiled pooch to mistreated captive on his quest to be partnered with Harrison Ford&apos;s isolated alcoholic John Thornton.\\n\\nOn the way to this inevitable pairing, there&apos;s a somewhat enjoyable if not overly well-established sub-plot with Omar Sy&apos;s mail delivery sled team owner Perrault, which is fine if not particularly memorable and a terrible Dan Steven&apos;s appearance as the horrid extremely overplayed villain of the piece Hal but once Thornton arrives on the scene, Call of the Wild becomes a far more enticing experience that showcases the potential of London&apos;s source material, too display a likeable scenario of man and dog&apos;s friendship.\\n\\nIt helps that Ford seems as invested in this role as much as his been in the last few decades, delivering one of his better all-round performances in some time as his on screen charisma and enthusiasm helping us forget that Buck is only ever mildly believable in his imaginary form, no doubt necessitated by a raft of situations in the film that would&apos;ve been impossible to pull off with a real life canine in the role.\\n\\nThere&apos;s not a lot of surprises to be found narratively here, with London&apos;s story pillaged and pilfered from in the many years since it was published but with the film&apos;s latter half more than making up for a rough beginning and weak segments, this pretty to look at example of financial failure on a big-scale is a film that many will still find highly entertaining and enjoyable.\\n\\nFinal Say -\\n\\nOvercoming some at times hard to take CGI and a poor opening half, The Call of the Wild isn&apos;t a new canine classic but its central relationship between a lost human soul and a caring four legged friend makes it an adventure you won&apos;t regret taking.\\n\\n3 gold nuggets out of 5",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 55803,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2020-02-19",
+  "keywords": "1890s,snow,dog,remake,alaska",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Harrison Ford",
+      "url": "https://www.imdb.com/name/nm0000148/"
+    },
+    {
+      "name": "Omar Sy",
+      "url": "https://www.imdb.com/name/nm1082477/"
+    },
+    {
+      "name": "Cara Gee",
+      "url": "https://www.imdb.com/name/nm4446254/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chris Sanders",
+      "url": "https://www.imdb.com/name/nm0761498/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Green",
+      "url": "https://www.imdb.com/name/nm0338169/"
+    },
+    {
+      "name": "Jack London",
+      "url": "https://www.imdb.com/name/nm0518711/"
+    },
+    {
+      "name": "Egerton Ryerson Young",
+      "url": "https://www.imdb.com/name/nm10950558/"
+    }
+  ]
+}

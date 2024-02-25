@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Ghost Rider: Spirit of Vengeance",
+  "url": "https://www.imdb.com/tt1071875/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDEwMGRmY2YtZTFmNy00YmFkLWFlZGItZGE0ZjNiMjRmZjZlXkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "paul_haakonsen",
+    "dateCreated": "2012-03-24",
+    "inLanguage": "English",
+    "heading": "Darker, grittier, a step up from part one...",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 125549,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Fantasy",
+    "Thriller"
+  ],
+  "datePublished": "2012-02-17",
+  "keywords": "marvel comics,comicbook movie,weapon,motor vehicle,ghost rider character",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Nicolas Cage",
+      "url": "https://www.imdb.com/name/nm0000115/"
+    },
+    {
+      "name": "Ciar\u00e1n Hinds",
+      "url": "https://www.imdb.com/name/nm0001354/"
+    },
+    {
+      "name": "Idris Elba",
+      "url": "https://www.imdb.com/name/nm0252961/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mark Neveldine",
+      "url": "https://www.imdb.com/name/nm0004410/"
+    },
+    {
+      "name": "Brian Taylor",
+      "url": "https://www.imdb.com/name/nm0962729/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Scott M. Gimple",
+      "url": "https://www.imdb.com/name/nm0991355/"
+    },
+    {
+      "name": "Seth Hoffman",
+      "url": "https://www.imdb.com/name/nm2397756/"
+    },
+    {
+      "name": "David S. Goyer",
+      "url": "https://www.imdb.com/name/nm0275286/"
+    }
+  ]
+}

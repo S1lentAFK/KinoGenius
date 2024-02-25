@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Clear History",
+  "url": "https://www.imdb.com/tt2279864/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQyMzc3MzQxN15BMl5BanBnXkFtZTgwOTE5OTkwMDE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "indiemovieenthusiast",
+    "dateCreated": "2014-03-14",
+    "inLanguage": "English",
+    "heading": "Curb Your Enthusiasm-esque",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 19327,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "TV-MA",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2013-08-10",
+  "keywords": "original story,making amends,car,chechen,revenge",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Larry David",
+      "url": "https://www.imdb.com/name/nm0202970/"
+    },
+    {
+      "name": "Bill Hader",
+      "url": "https://www.imdb.com/name/nm0352778/"
+    },
+    {
+      "name": "Philip Baker Hall",
+      "url": "https://www.imdb.com/name/nm0001311/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Greg Mottola",
+      "url": "https://www.imdb.com/name/nm0609549/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Larry David",
+      "url": "https://www.imdb.com/name/nm0202970/"
+    },
+    {
+      "name": "Alec Berg",
+      "url": "https://www.imdb.com/name/nm0073688/"
+    },
+    {
+      "name": "David Mandel",
+      "url": "https://www.imdb.com/name/nm0541635/"
+    }
+  ]
+}

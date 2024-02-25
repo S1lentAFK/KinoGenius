@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "La soga",
+  "url": "https://www.imdb.com/tt1269696/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTcxMDZmZmItMDVmNS00Mzg2LWE5NDMtZGQ5MmY3ZmQ2OTc2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+  "description": null,
+  "contentRating": "R",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2010-08-12",
+  "keywords": "death,justice,dominican in usa,dominican immigrant,dominican in new york",
+  "duration": "PT1H42M",
+  "rating": {
+    "ratingCount": 844,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "review": {
+    "author": "Seaman2223",
+    "dateCreated": "2010-08-15",
+    "inLanguage": "English",
+    "heading": "Did not tie me up tight",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "actor": [
+    {
+      "name": "Manny Perez",
+      "url": "https://www.imdb.com/name/nm0673563/"
+    },
+    {
+      "name": "Denise Qui\u00f1ones",
+      "url": "https://www.imdb.com/name/nm1070113/"
+    },
+    {
+      "name": "Juan Fern\u00e1ndez",
+      "url": "https://www.imdb.com/name/nm0273592/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Josh Crook",
+      "url": "https://www.imdb.com/name/nm1154951/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Manny Perez",
+      "url": "https://www.imdb.com/name/nm0673563/"
+    }
+  ]
+}

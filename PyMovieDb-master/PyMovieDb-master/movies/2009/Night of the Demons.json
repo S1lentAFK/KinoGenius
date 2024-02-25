@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Night of the Demons",
+  "url": "https://www.imdb.com/tt0093624/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjU2Y2VmMGYtN2Y3OC00OGMwLWFlYTMtOTRlMTE5NDgwODU4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "Ten teenagers party at an abandoned funeral parlor on Halloween night. When an evil force awakens, demonic spirits keep them from leaving and turn their gathering into a living Hell.",
+  "review": {
+    "author": "PARKER_FILM25",
+    "dateCreated": "2001-02-27",
+    "inLanguage": "English",
+    "heading": "Fun, eighties treat.",
+    "reviewBody": "This movie is fun to watch with a bunch of friends. It&apos;s silly, and the acting is over the top, but it&apos;s fun. The story is simple with ten teens throwing a party in a demon infested mortuary. Quigley was so funny. I wasn&apos;t at all sorry for most of the people who died. There were so annoying, that&apos;s the whole point of this film to get a few scares, have fun, and see some alright nudity.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 18916,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "R",
+  "genre": [
+    "Comedy",
+    "Fantasy",
+    "Horror"
+  ],
+  "datePublished": "1988-10-14",
+  "keywords": "killed during sex,demonic possession,demon,halloween,female nudity",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Cathy Podewell",
+      "url": "https://www.imdb.com/name/nm0687970/"
+    },
+    {
+      "name": "Alvin Alexis",
+      "url": "https://www.imdb.com/name/nm0018977/"
+    },
+    {
+      "name": "Hal Havins",
+      "url": "https://www.imdb.com/name/nm0369860/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kevin Tenney",
+      "url": "https://www.imdb.com/name/nm0855107/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joe Augustyn",
+      "url": "https://www.imdb.com/name/nm0041980/"
+    }
+  ]
+}

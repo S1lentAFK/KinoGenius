@@ -1,0 +1,38 @@
+
+
+{
+  "type": "VideoGame",
+  "name": "Garfield: A Tail of Two Kitties",
+  "url": "https://www.imdb.com/tt12389582/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjg4NzgxZWEtOTVkZi00NjY4LTk1MmYtNGI4NmJlMzg3YjJiXkEyXkFqcGdeQXVyNjIzMDU3NTU.jpg",
+  "description": "The most famous cat in the world has inadvertently switched places with Prince, a Royal cat (by luck, his exact look-alike).Help the animals of the castle to escape from Dargis' vengeance and Prince to find his heritage back.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 23,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "E",
+  "genre": [
+    "Adventure",
+    "Action"
+  ],
+  "datePublished": "2006-08-25",
+  "keywords": "garfield the cat character",
+  "duration": null,
+  "actor": [],
+  "director": [],
+  "creator": []
+}

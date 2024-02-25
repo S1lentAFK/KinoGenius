@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Fun Size",
+  "url": "https://www.imdb.com/tt1663143/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI1NDgyMjI4OV5BMl5BanBnXkFtZTcwNTg3MzM0OA@@._V1_.jpg",
+  "description": "Wren's Halloween plans go awry when she's made to babysit her brother, who disappears into a sea of trick-or-treaters. With her best friend and two nerds at her side, she needs to find her brother before her mom finds out he's mis...",
+  "review": {
+    "author": "bostonian33",
+    "dateCreated": "2012-10-28",
+    "inLanguage": "English",
+    "heading": "Not fun enough",
+    "reviewBody": "A teenage girl and her best friend want to attend the Halloween party with the cool kids, but are stuck trick-or-treating with her little brother. He becomes lost, and they spend the evening searching for him. What ensues is supposed to be a funny adventure of oddball characters getting themselves into amusing situations, but there just is not much to laugh at here. In the end the girl is destined to come to some sort of realization about what she really deems important, which is predictable and does not add much to the movie. Victoria Justice, who plays the girl, is pretty and likable enough, but that is not enough to make this movie fun to watch.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 15105,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2012-10-29",
+  "keywords": "teenage girl,halloween,trick or treating,brother sister relationship,cleveland ohio",
+  "duration": "PT1H26M",
+  "actor": [
+    {
+      "name": "Victoria Justice",
+      "url": "https://www.imdb.com/name/nm1842439/"
+    },
+    {
+      "name": "Johnny Knoxville",
+      "url": "https://www.imdb.com/name/nm0424216/"
+    },
+    {
+      "name": "Chelsea Handler",
+      "url": "https://www.imdb.com/name/nm1314546/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Josh Schwartz",
+      "url": "https://www.imdb.com/name/nm0777300/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Max Werner",
+      "url": "https://www.imdb.com/name/nm3877887/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Flightplan",
+  "url": "https://www.imdb.com/tt0408790/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGJkYTNiZjUtOTBhMi00NjY5LTkwZWEtNjBkNmE1YTZlMDc4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A bereaved woman and her daughter are flying home from Berlin to America. At 30,000 feet, the child vanishes, and nobody will admit she was ever on the plane.",
+  "review": {
+    "author": "Chris_Docker",
+    "dateCreated": "2005-11-16",
+    "inLanguage": "English",
+    "heading": "A plot stretched wafer thin to provide a stage for good acting",
+    "reviewBody": "Feature films invite us to defy reality, believe a fiction, suspend disbelief. The actor has to make the unreal, real. Jodie Foster has done this in the past with notable success and strings of awards \\u0096 and often chosen stories that parallel our unwillingness to accept: a rape victim that no-one believed, a paranoid in a locked room that had every reason to be afraid, a scientist that finds proof of aliens. In Flightplan she goes one further \\u0096 a mother who loses her daughter during a transatlantic flight and whom no-one (including, most of the time, the audience) believes.\\n\\nAircraft engineer Kyle Pratt (Jodie Foster) is devastated by the sudden death of her husband. She flies his body back to New York on a state-of-the-art airliner which she designed. Dozing off for a few minutes on the plane, she awakes to find her six year old daughter is missing. Frantic searches ensue as the mounting evidence suggests the daughter was never on board.\\n\\nFlightplan combines a taut psychological thriller with a deepening mystery and tremendous emotional punch. But does the denouement justify the storyline, the switching positions we are forced to adopt about Kyle&apos;s sanity and the existence of her daughter? Or is it simply a story that cashes in on current passenger apprehension over hijacking and Foster&apos;s considerable acting talent? Foster is at her best, an outraged, highly intelligent woman with a mother&apos;s bottled up and barely contained grief providing simmering emotional force.\\n\\nIt is a remarkable testament to Foster&apos;s talent that she can carry such an unlikely story. She imbues the confined space of an aircraft with an energy that doesn&apos;t wilt for a moment and ensures our attention never flags. Ably assisted by Sean Bean as the Captain, wanting to give her every benefit of doubt but increasingly forced to accept the evidence of his own eyes, and Air Marshall Peter Sarsgaard who plays an interesting yet inscrutable character, we are mesmerised by Kyle Pratt and our own difficulty in knowing whether to believe her. Whether the story was worthy of such talent is less clear. As the pieces unravel we are presented with a bewildering complexity of background information which, without Foster to carry it or Hitchcockian logic to prove it, we are tempted to dismiss with Flightplan as overambitious. As an exercise in powerful acting that stands up as a Saturday night thriller, Flightplan delivers in Club Class, but as the sum of its parts it is as convoluted and full of wishful thinking as someone trying to stretch out in Economy.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 170942,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2005-11-25",
+  "keywords": "missing child,flight attendant,hitchcockian,mother searches for missing daughter,lost child",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Jodie Foster",
+      "url": "https://www.imdb.com/name/nm0000149/"
+    },
+    {
+      "name": "Peter Sarsgaard",
+      "url": "https://www.imdb.com/name/nm0765597/"
+    },
+    {
+      "name": "Sean Bean",
+      "url": "https://www.imdb.com/name/nm0000293/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Schwentke",
+      "url": "https://www.imdb.com/name/nm0777881/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Peter A. Dowling",
+      "url": "https://www.imdb.com/name/nm1618225/"
+    },
+    {
+      "name": "Billy Ray",
+      "url": "https://www.imdb.com/name/nm0712753/"
+    }
+  ]
+}

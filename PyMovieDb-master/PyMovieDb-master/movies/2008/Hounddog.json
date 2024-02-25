@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hounddog",
+  "url": "https://www.imdb.com/tt0415856/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzUxZjc0MjEtNjgyNS00ZmNmLWExNzgtYTYyMTFmOGU3ZTFlXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_.jpg",
+  "description": "A drama set in the American South, where a precocious, troubled girl finds a safe haven in the music and movement of Elvis Presley.",
+  "contentRating": "R",
+  "genre": [
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2007-01-22",
+  "keywords": "child rape,grandmother granddaughter relationship,father daughter relationship,child's point of view,domestic violence",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Dakota Fanning",
+      "url": "https://www.imdb.com/name/nm0266824/"
+    },
+    {
+      "name": "David Morse",
+      "url": "https://www.imdb.com/name/nm0001556/"
+    },
+    {
+      "name": "Piper Laurie",
+      "url": "https://www.imdb.com/name/nm0001453/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Deborah Kampmeier",
+      "url": "https://www.imdb.com/name/nm1380487/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Deborah Kampmeier",
+      "url": "https://www.imdb.com/name/nm1380487/"
+    }
+  ],
+  "review": {
+    "author": "LW-08854",
+    "dateCreated": "2023-12-24",
+    "inLanguage": "English",
+    "heading": "a slow burner.",
+    "reviewBody": "Shot in 2006 and released in 2007 this film has some good things about it. The acting is quite strong from Dakota Fanning, she does a very good southern accent. There's a nice yellow tint to it, colours look lovely, the production design very well recreates the 1950s rural southern poverty while the music of Elvis acts as a great soundtrack. The hot nights and church services and sense of reality is very much present in the film. It's a story of a girl who uses music to get through tough times and grow as a person. There's also a real loss of innocence that comes along too in the film and it can at times be quite grim. Religion is not well portrayed in the film either, it's fixation on rock and roll is shown as being ill thought through while one woman who prides herself as being a firm Christian is perhaps the most unforgiving character in the story. There's lots of snake imagery to it too. I also did wonder why nobody seemed to go to school.\n\nThe film is also quite slow paced, very much a slow burner.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 6515,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  }
+}

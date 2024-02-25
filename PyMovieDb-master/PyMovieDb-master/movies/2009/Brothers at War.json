@@ -1,0 +1,56 @@
+
+
+{
+  "type": "Movie",
+  "name": "Brothers at War",
+  "url": "https://www.imdb.com/tt1239427/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkyOTE5NTU2Ml5BMl5BanBnXkFtZTcwMjY2OTgyMg@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "beefy_1984",
+    "dateCreated": "2010-01-17",
+    "inLanguage": "English",
+    "heading": "Former Marine",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 595,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "R",
+  "genre": [
+    "Documentary",
+    "War"
+  ],
+  "datePublished": "2009-03-13",
+  "keywords": "iraq,syrian border,sunni triangle,iraq war,family relationships",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Jake Rademacher",
+      "url": "https://www.imdb.com/name/nm1722702/"
+    },
+    {
+      "name": "Isaac Rademacher",
+      "url": "https://www.imdb.com/name/nm3030074/"
+    },
+    {
+      "name": "Joe Rademacher",
+      "url": "https://www.imdb.com/name/nm3030003/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jake Rademacher",
+      "url": "https://www.imdb.com/name/nm1722702/"
+    }
+  ],
+  "creator": []
+}

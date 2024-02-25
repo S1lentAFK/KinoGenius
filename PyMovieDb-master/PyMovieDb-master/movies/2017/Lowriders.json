@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Lowriders",
+  "url": "https://www.imdb.com/tt1366338/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjk2MzI3OTM0M15BMl5BanBnXkFtZTgwMTczNDExMjI@._V1_.jpg",
+  "description": "A young street artist in East Los Angeles is caught between his father&apos;s obsession with lowrider car culture, his ex-felon brother and his need for self-expression.",
+  "review": {
+    "author": "suhstayn",
+    "dateCreated": "2018-05-29",
+    "inLanguage": "English",
+    "heading": "Good film. Could&apos;ve been better.",
+    "reviewBody": "Good film but could&apos;ve been better. \n\nToo many camera close ups on people&apos;s faces. It was constantly happening in scenes and taking you out of situation/moment & away from the tension of the situation. \n\nI enjoyed the lowrider cars. That was something different. Something unusual in films. All the cool cars and the great designs.\n\nThe cast was great as well. Demian Bechir. Theo Rossi. Melissa Benoist. Eva Longoria. The main character / actor was a bit weaker than the rest of the cast but he was not too bad. \n\nThe plot / story / family drama was solid but nothing we haven&apos;t seen before.\n\nOverall, a bit more to the story and better camera angles / shots would&apos;ve made this a much better movie. Even so, a solid movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 2716,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2017-04-28",
+  "keywords": "brother brother conflict,young man,voice over narration,interracial romance,mechanic",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Gabriel Chavarria",
+      "url": "https://www.imdb.com/name/nm2474632/"
+    },
+    {
+      "name": "Demián Bichir",
+      "url": "https://www.imdb.com/name/nm0065007/"
+    },
+    {
+      "name": "Theo Rossi",
+      "url": "https://www.imdb.com/name/nm0744331/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ricardo de Montreuil",
+      "url": "https://www.imdb.com/name/nm1662693/"
+    },
+    {
+      "name": "Rupert Wyatt",
+      "url": "https://www.imdb.com/name/nm1012501/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Elgin James",
+      "url": "https://www.imdb.com/name/nm1990437/"
+    },
+    {
+      "name": "Cheo Hodari Coker",
+      "url": "https://www.imdb.com/name/nm1854539/"
+    }
+  ]
+}

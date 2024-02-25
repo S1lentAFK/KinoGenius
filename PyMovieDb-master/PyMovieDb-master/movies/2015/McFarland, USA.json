@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "McFarland, USA",
+  "url": "https://www.imdb.com/tt2097298/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMwNjY2Mjk5OV5BMl5BanBnXkFtZTgwODM2NTA0MzE@._V1_.jpg",
+  "description": "Jim White moves his family after losing his last job as a football coach, and at his new school he turns seven disappointing students into one of the best cross-country teams in the region.",
+  "review": {
+    "author": "Top_Dawg_Critic",
+    "dateCreated": "2019-03-23",
+    "inLanguage": "English",
+    "heading": "Excellent biopic!",
+    "reviewBody": "I&apos;ve seen this film a few times, and again today after a long time. I can&apos;t get bored of it. A story about commitment, dreams, not giving up, family and sport. Excellent biopic with great directing, writing and performances. These type of films are right up Costner&apos;s alley.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 41863,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2015-09-25",
+  "keywords": "enchilada,football team,friendship,coach,high school",
+  "duration": "PT2H9M",
+  "actor": [
+    {
+      "name": "Kevin Costner",
+      "url": "https://www.imdb.com/name/nm0000126/"
+    },
+    {
+      "name": "Maria Bello",
+      "url": "https://www.imdb.com/name/nm0004742/"
+    },
+    {
+      "name": "Ramiro Rodriguez",
+      "url": "https://www.imdb.com/name/nm7107400/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Niki Caro",
+      "url": "https://www.imdb.com/name/nm0138927/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Christopher Cleveland",
+      "url": "https://www.imdb.com/name/nm1480450/"
+    },
+    {
+      "name": "Bettina Gilois",
+      "url": "https://www.imdb.com/name/nm0319619/"
+    },
+    {
+      "name": "Grant Thompson",
+      "url": "https://www.imdb.com/name/nm0860184/"
+    }
+  ]
+}

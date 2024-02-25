@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Monster Trucks",
+  "url": "https://www.imdb.com/tt3095734/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTEyMjAzMDk4ODZeQTJeQWpwZ15BbWU4MDUxNzMzMDEy._V1_.jpg",
+  "description": "A young man working at a small town junkyard discovers and befriends a creature which feeds on oil being sought by a fracking company.",
+  "review": {
+    "author": "rhaobs",
+    "dateCreated": "2017-01-29",
+    "inLanguage": "English",
+    "heading": "Great fun, far fetched but so what!",
+    "reviewBody": "My son in-law and I took my 6 yr old grandson (his son) and we had a fun time. He loved the movie, we loved the movie. There were a few times when most of the audience cheered and laughed, something you don&apos;t often hear these days. The monster is ugly but lovable, the plot is typical and impossible. The special effects are good and have you believing in this weird creature. There are no real terrifying part to this movie and it is not all about the hero gets his girl or too grown up for the little ones. There is just plain fun for all who go if you let the kid in you watch more than the adult. If your grandchild is going, go with them and just enjoy them as much as the movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 18645,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2017-01-13",
+  "keywords": "wilhelm scream,part computer animation,two word title,junkyard,car dealership",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Lucas Till",
+      "url": "https://www.imdb.com/name/nm1395771/"
+    },
+    {
+      "name": "Jane Levy",
+      "url": "https://www.imdb.com/name/nm3994408/"
+    },
+    {
+      "name": "Thomas Lennon",
+      "url": "https://www.imdb.com/name/nm0502073/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chris Wedge",
+      "url": "https://www.imdb.com/name/nm0917188/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Derek Connolly",
+      "url": "https://www.imdb.com/name/nm2081046/"
+    },
+    {
+      "name": "Matthew Robinson",
+      "url": "https://www.imdb.com/name/nm2816668/"
+    },
+    {
+      "name": "Jonathan Aibel",
+      "url": "https://www.imdb.com/name/nm0008743/"
+    }
+  ]
+}

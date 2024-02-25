@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Rush",
+  "url": "https://www.imdb.com/tt1979320/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "description": "The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.",
+  "genre": [
+    "Action",
+    "Biography",
+    "Drama"
+  ],
+  "datePublished": "2013-09-13",
+  "keywords": "formula 1,rivalry,1970s,racecar driver,nurburgring germany",
+  "duration": "PT2H3M",
+  "contentRating": "15",
+  "rating": {
+    "ratingCount": 509035,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.1
+  },
+  "review": {
+    "author": "simonedwards_1",
+    "dateCreated": "2013-09-04",
+    "inLanguage": "English",
+    "heading": "Well made, Well Acted, Surprisingly Good Movie",
+    "reviewBody": "As a Cineworld Card Holder I was invited to a screening last night of Ron Howards new movie Rush.\\n\\nBefore I start...I am not a F1 fan, but I knew enough of the history of the main protagonists to appreciate the film. The main set pieces of the film set a year before I was born in 1976, so mainly my knowledge was based on my Fathers recollection of the events. I&apos;d seen James Hunt in interviews and recently watched footage with Niki Lauda so got an idea of the characters.\\n\\nThe film is bang on in period, cars fashion and sets the tone excellently, the cinematography is nothing short of breathtaking and the fx are very much in keeping with the period, no ridiculous CGI.\\n\\nThe acting, on the whole is nothing short of miraculous, Hemsworth and Bruhl are fantastic, particularly Hemsworth, who&apos;s accent, mannerisms and natural acting was a big surprise. I could see a few awards for this role. I have seen Bruhl in quite a few films and I am always impressed so this just continues the trend. All the support actors are very good in smaller roles.\\n\\nThe film is well paced for 2 hours and quite graphic, particularly a few accident scenes.\\n\\nDirection: Ron Howard - nice job, I&apos;m not a massive fan and particularly after the da vinci/Angels fiasco&apos;s a big return to decent form. The flair was there but played safe (As normal) but let the story and the actors take centre stage.\\n\\nIf you like History in F1, a well documented rivalry and a film that capture this, watch it. It is similar to the excellent Control, Moneyball etc but with a bit of heart.\\n\\n8 1/2 out of 10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "actor": [
+    {
+      "name": "Daniel Br\\u00fchl",
+      "url": "https://www.imdb.com/name/nm0117709/"
+    },
+    {
+      "name": "Chris Hemsworth",
+      "url": "https://www.imdb.com/name/nm1165110/"
+    },
+    {
+      "name": "Olivia Wilde",
+      "url": "https://www.imdb.com/name/nm1312575/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ron Howard",
+      "url": "https://www.imdb.com/name/nm0000165/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Peter Morgan",
+      "url": "https://www.imdb.com/name/nm0604948/"
+    }
+  ]
+}

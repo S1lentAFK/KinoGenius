@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Greetings from Tim Buckley",
+  "url": "https://www.imdb.com/tt1823125/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkyNTI0MzkxMF5BMl5BanBnXkFtZTcwMDE1MzU0OQ@@._V1_.jpg",
+  "description": "A chronicle of the days leading up to Jeff Buckley's performance at his father's tribute concert in 1991.",
+  "review": {
+    "author": "remoteview08",
+    "dateCreated": "2015-02-13",
+    "inLanguage": "English",
+    "heading": "So;&apos; they found some actor who looks like a Heart broken waif,",
+    "reviewBody": "This is awful; is this conceptual; do We know, Jeff, found his voice, after breaking into his One his late fathers, pads? Who are those Terrible musician caricatures supposed to be? the script, is moody bleak, confused, and dull, is there anything else to offer here, but &apos; that obviously, Jeff Buckley&apos;s; own music; was foreshadowed, by his Absent father, who Jeff&apos;s producers, would rather have conjured up on a Ouija; board then give time and study, to his own beautiful voice, an instrument, that plays like, the Devi&apos;s the characters are Flat! this wants to be a homage, and only hemorrhages, hollow and Uneven, No angels singing Hallelujah here, just&apos; the cinematography; is shaky, sorta like The Blair witch at moments, this should have include, Dream imagery; and less Empty flash backs of how incredibly immature and Selfish Tim Buckley seems to have been.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 1783,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2013-09-05",
+  "keywords": "father,1990s",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Penn Badgley",
+      "url": "https://www.imdb.com/name/nm0046112/"
+    },
+    {
+      "name": "Imogen Poots",
+      "url": "https://www.imdb.com/name/nm1782299/"
+    },
+    {
+      "name": "Norbert Leo Butz",
+      "url": "https://www.imdb.com/name/nm0125475/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Daniel Algrant",
+      "url": "https://www.imdb.com/name/nm0019341/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Daniel Algrant",
+      "url": "https://www.imdb.com/name/nm0019341/"
+    },
+    {
+      "name": "David Brendel",
+      "url": "https://www.imdb.com/name/nm0107150/"
+    },
+    {
+      "name": "Emma Sheanshang",
+      "url": "https://www.imdb.com/name/nm4553512/"
+    }
+  ]
+}

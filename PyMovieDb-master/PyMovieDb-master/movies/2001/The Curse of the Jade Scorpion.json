@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Curse of the Jade Scorpion",
+  "url": "https://www.imdb.com/tt0256524/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzViMTNjNGUtMTQyNy00NTRhLWIzODEtYzJkM2YyNTg3YjMwXkEyXkFqcGdeQXVyNDQzMDg4Nzk@._V1_.jpg",
+  "description": "An insurance investigator and an efficiency expert who hate each other are both hypnotized by a crooked hypnotist with a jade scorpion into stealing jewels.",
+  "review": {
+    "author": "Funky A",
+    "dateCreated": "2002-02-02",
+    "inLanguage": "English",
+    "heading": "Good, old, funny Woody!",
+    "reviewBody": "So, Woody Allen is now old and it is hard to believe that a rich and attractive girl played by Charlize Theron could be attracted to him... If you were truly thinking about that while watching The Curse of the Jade Scorpion, then you should reconsider the way you watch a movie. Sure, Allen is now really old, but who can play his role as well as he does. He sometimes casts other actors in that role, such as John Cusack in Bullet Over Broadway, but even though they do the job very well, they can&apos;t be better than the old man with the big glasses himself. The Curse of the Jade Scorpion is not a serious Woody Allen movie. It is not one of his most important movies that is clear. But its aim is to entertain and entertain it does. Jade Scorpion shares a lot with Woody&apos;s recent light comedies such as Small Time Crooks and Manathan Murder Mystery. And like these two, it is certainly not a new Annie Hall. But it does not try to. It is just a lot of fun to watch. The script is funny, the acting is charming, the plot is just hilarious, and on the whole, this movie puts a smile on your face from the beginning to the end. The Curse of the Jade Scorpion is another very nostalgic movie, like Radio Days, Sweet and Lowdown, Everyone Says I Love You and Bullets Over Broadway, but once again, Allen makes us forget for 103 minutes that he is basically doing nothing he hasn&apos;t done before. But the man once again shows his gift to entertain. And what more can you ask from an aging genius?\\n\\n77%",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 42227,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "datePublished": "2002-12-06",
+  "keywords": "hypnosis,year 1940,insurance investigator,magician,efficiency expert",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Greg Stebner",
+      "url": "https://www.imdb.com/name/nm0824240/"
+    },
+    {
+      "name": "Woody Allen",
+      "url": "https://www.imdb.com/name/nm0000095/"
+    },
+    {
+      "name": "John Tormey",
+      "url": "https://www.imdb.com/name/nm0868110/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Woody Allen",
+      "url": "https://www.imdb.com/name/nm0000095/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Woody Allen",
+      "url": "https://www.imdb.com/name/nm0000095/"
+    }
+  ]
+}

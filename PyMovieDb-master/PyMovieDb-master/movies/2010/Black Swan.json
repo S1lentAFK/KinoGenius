@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Black Swan",
+  "url": "https://www.imdb.com/tt0947798/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "DonFishies",
+    "dateCreated": "2010-09-19",
+    "inLanguage": "English",
+    "heading": "A beautiful and nightmarish masterpiece",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 818125,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2011-01-21",
+  "keywords": "ballerina,ballet,female protagonist,mental illness,dance audition",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "Natalie Portman",
+      "url": "https://www.imdb.com/name/nm0000204/"
+    },
+    {
+      "name": "Mila Kunis",
+      "url": "https://www.imdb.com/name/nm0005109/"
+    },
+    {
+      "name": "Vincent Cassel",
+      "url": "https://www.imdb.com/name/nm0001993/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Darren Aronofsky",
+      "url": "https://www.imdb.com/name/nm0004716/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Heyman",
+      "url": "https://www.imdb.com/name/nm2114730/"
+    },
+    {
+      "name": "Andres Heinz",
+      "url": "https://www.imdb.com/name/nm0374560/"
+    },
+    {
+      "name": "John J. McLaughlin",
+      "url": "https://www.imdb.com/name/nm0572352/"
+    }
+  ]
+}

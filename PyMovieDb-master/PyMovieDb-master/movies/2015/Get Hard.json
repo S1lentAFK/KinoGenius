@@ -1,0 +1,75 @@
+
+
+{
+  "type": "Movie",
+  "name": "Get Hard",
+  "url": "https://www.imdb.com/tt2561572/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc3OTc1NjM0M15BMl5BanBnXkFtZTgwNjAyMzE1MzE@._V1_.jpg",
+  "description": "When millionaire James King is jailed for fraud and bound for San Quentin, he turns to Darnell Lewis to prep him to go behind bars.",
+  "review": {
+    "author": "stephendaxter",
+    "dateCreated": "2015-06-10",
+    "inLanguage": "English",
+    "heading": "Funny moments but disappointing from this comedy duo",
+    "reviewBody": "Get Hard is a comedy starring two of the funniest actors out there today, and having this duo of Kevin Hart and Will Ferrell you would think would make for an extremely funny movie, unfortunately it doesn't but it still had its fair share of good laughs. They had pretty good chemistry and most if not all of the good funny moments came from the interactions between the two of them. They played off the racial stereotypes for pretty much the entire film and as the film went on it got less funny and repetitive. The good moments of the film in terms of the comedy came in the middle of the film, thats where you have everyone introduced and the build up is over but you are also not yet exhausted by the repetitive jokes. In terms of their performances, there is nothing new here, it feels like they were both playing similar characters that they have played many times before in their previous films. But the characters did fit very well into the plot. \n\nThe plot of the film was a little predictable, but at the same time i wasn't bored of following the plot. It didn't feel like certain plot points happened in order to get a few quick jokes in, everything flowed pretty well and i was still interested in seeing what was going to happen next. There is not much else i can say about this film, there is nothing new to see here from Will or Kevin, but the film does provide with some good jokes and an interesting plot that can get you through the film fairly entertained. So i guess if you are a fan of either member of this comedy duo then you will enjoy seeing them together in this film. - 5/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 146094,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2015-03-27",
+  "keywords": [
+    "millionaire",
+    "singing in a car",
+    "wealth",
+    "mansion",
+    "male frontal nudity"
+  ],
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Will Ferrell",
+      "url": "https://www.imdb.com/name/nm0002071/"
+    },
+    {
+      "name": "Kevin Hart",
+      "url": "https://www.imdb.com/name/nm0366389/"
+    },
+    {
+      "name": "Alison Brie",
+      "url": "https://www.imdb.com/name/nm1555340/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Etan Cohen",
+      "url": "https://www.imdb.com/name/nm1000113/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jay Martel",
+      "url": "https://www.imdb.com/name/nm1007602/"
+    },
+    {
+      "name": "Ian Roberts",
+      "url": "https://www.imdb.com/name/nm0731168/"
+    },
+    {
+      "name": "Etan Cohen",
+      "url": "https://www.imdb.com/name/nm1000113/"
+    }
+  ]
+}

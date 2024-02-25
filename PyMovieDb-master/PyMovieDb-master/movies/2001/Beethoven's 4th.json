@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Beethoven's 4th",
+  "url": "https://www.imdb.com/tt0294345/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWZiODZmYzQtZDA3MC00OWVmLThmMTUtNGU5ODUyNWZkMDI0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "The family is pleasantly surprised and puzzled when Beethoven suddenly becomes obedient. Turns out it's a prince and the pauper scenario, with the real Beethoven now living with a pompous rich family.",
+  "review": {
+    "author": "ryangilmer007",
+    "dateCreated": "2001-12-12",
+    "inLanguage": "English",
+    "heading": "Not really memorable.",
+    "reviewBody": "Beethoven's 4th is basically a sad attempt continuing a series that needs neither another movie, nor another direct to video spin-off.\nThe movie seems more of a wishbone type wannabe, with its simplistic plot that doesn't even completely make sense and silly sight gags. While some of the movie is a bit funny, like Judge Reinhold trying to get Michalangelo (Beethoven's look-a-like) to behave like Beethoven, the movie is one to be skipped.\nI'm not sure if 3 and 4 were filmed back to back, since this movie does carry a copyright date of 2000 on it. However, Beethoven's 3rd wasn't even theatre releasable, so the decision had to have been to make 2 direct to videos.\nAnyway, Judge Reinhold should try better choices, at least ones that don't have him drinking out of a toilet.\nRating: 2",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 2
+    }
+  },
+  "rating": {
+    "ratingCount": 4403,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.1
+  },
+  "contentRating": "U",
+  "genre": [
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": null,
+  "keywords": "husband wife relationship,brother sister relationship,girl dog relationship,human dog relationship,master dog relationship",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Judge Reinhold",
+      "url": "https://www.imdb.com/name/nm0001662/"
+    },
+    {
+      "name": "Julia Sweeney",
+      "url": "https://www.imdb.com/name/nm0842140/"
+    },
+    {
+      "name": "Joe Pichler",
+      "url": "https://www.imdb.com/name/nm0681665/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Mickey Evans",
+      "url": "https://www.imdb.com/name/nm0262693/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Loy",
+      "url": "https://www.imdb.com/name/nm0523431/"
+    },
+    {
+      "name": "John Hughes",
+      "url": "https://www.imdb.com/name/nm0000455/"
+    },
+    {
+      "name": "Amy Holden Jones",
+      "url": "https://www.imdb.com/name/nm0427468/"
+    }
+  ]
+}

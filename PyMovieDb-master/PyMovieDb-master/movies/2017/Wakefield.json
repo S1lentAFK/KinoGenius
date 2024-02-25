@@ -1,0 +1,66 @@
+{
+  "type": "Movie",
+  "name": "Wakefield",
+  "url": "https://www.imdb.com/tt5195412/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM3ODY5MzE4Nl5BMl5BanBnXkFtZTgwNjcxNTgxMjI@._V1_.jpg",
+  "description": "A lawyer on the edge of madness decides to disassociate himself from his own life.",
+  "review": {
+    "author": "barbagvido",
+    "dateCreated": "2017-11-06",
+    "inLanguage": "English",
+    "heading": "Could have been more interesting",
+    "reviewBody": "Wakefield is a film starring Bryan Cranston as the man who hides in a garage for months looking at the events in his house and everyone thinking he&apos;s missing. Basically, he&apos;s looking at his life without him.\n\nIt&apos;s an interesting premise on it&apos;s own, but the movie never really does anything about that and the plot barely goes anywhere through the entire movie. And yeah, don&apos;t expect much of a resolution at the end. This is something that works on paper, but doesn&apos;t translate to the screen very well. One of the biggest problems is also a lack of interesting and creative direction. If a director made it stranger and more unique, it would have been a lot more interesting. This way, it just doesn&apos;t stick out. But still, it&apos;s filled with powerful performances, especially from Bryan Cranston, who never fails to impress and pretty much carries the entire movie with his performance and he might be one of the few reasons it wasn&apos;t completely uninteresting. The premise itself, a few interesting but not memorable enough moments and the premise are what saves this movie from being bad. But it&apos;s not particularly good either. \n\nWhile the run-time isn&apos;t long the movie is longer than it should be and by the last third the end can&apos;t come soon enough. Only watch if you&apos;re a big fan of Cranston. Other than that, you won&apos;t find much here.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 17939,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "R",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2017-08-31",
+  "keywords": "husband wife relationship,nervous breakdown,attic,father daughter relationship,suburb",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Bryan Cranston",
+      "url": "https://www.imdb.com/name/nm0186505/"
+    },
+    {
+      "name": "Jennifer Garner",
+      "url": "https://www.imdb.com/name/nm0004950/"
+    },
+    {
+      "name": "Victoria Bruno",
+      "url": "https://www.imdb.com/name/nm2825765/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robin Swicord",
+      "url": "https://www.imdb.com/name/nm0842523/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "E.L. Doctorow",
+      "url": "https://www.imdb.com/name/nm0230039/"
+    },
+    {
+      "name": "Robin Swicord",
+      "url": "https://www.imdb.com/name/nm0842523/"
+    },
+    {
+      "name": "Nathaniel Hawthorne",
+      "url": "https://www.imdb.com/name/nm0370426/"
+    }
+  ]
+}

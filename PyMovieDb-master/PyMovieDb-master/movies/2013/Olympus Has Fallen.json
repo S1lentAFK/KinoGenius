@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Olympus Has Fallen",
+  "url": "https://www.imdb.com/tt2302755/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTU0NmY4MWYtNzRlMS00MDkxLWJkODYtOTM3NGI2ZDc1NTJhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "description": "Secret Service agent Mike Banning finds himself trapped inside the White House in the wake of a terrorist attack and works with national security to rescue the President from his kidnappers.",
+  "review": {
+    "author": "Leofwine_draca",
+    "dateCreated": "2014-01-17",
+    "inLanguage": "English",
+    "heading": "Best Die Hard rip-off in a good while",
+    "reviewBody": "Forget airs and graces here: OLYMPUS HAS FALLEN is a straightforward siege-based action flick, heavily indebted to DIE HARD and its ilk, offering maximum thrills and spills and little else besides. It's hardly a thinking man's movie but it does ably do what it sets out to do, which is to offer plenty of action, high stakes and suspense.\\n\\nThe story is, in essence, DIE HARD in the White House and there's no more or less to it than that. Gerard Butler is good value in the action stakes (as we already know from 300, so it's a shame he's been wasting away in dumb rom-coms ever since) and the intricate plot sees a huge squad of terrorists kidnapping the President (an unlikely Aaron Eckhart), leaving Butler the only man on the ground with the power to stop them.\\n\\nThe action consists of a handful of brutal hand-to-hand fights and shoot-outs augmented with some CGI stuff of plane attacks and missiles; the CGI isn't great but it's better than you'd find in a B-movie at least. Morgan Freeman shows up as one of those guys whose business it is is to offer sage advice and look worried in equal measure, while Rick Yune tackles the role of lead North Korean terrorist with relish.\\n\\nOLYMPUS HAS FALLEN isn't perfect by any means; it's occasionally cheesy, occasionally silly, and mostly far-fetched. It could also do with some more action, what there is is a little limited considering the running time of two hours. But it IS a perfect piece of action entertainment, the kind of switch-off-the-brain fun that I look out for in a movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 290692,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Thriller"
+  ],
+  "datePublished": "2013-04-17",
+  "keywords": "politics,political assassination,president,speaker of the house,commando mission",
+  "duration": "PT1H59M",
+  "actor": [
+    {
+      "name": "Gerard Butler",
+      "url": "https://www.imdb.com/name/nm0124930/"
+    },
+    {
+      "name": "Aaron Eckhart",
+      "url": "https://www.imdb.com/name/nm0001173/"
+    },
+    {
+      "name": "Morgan Freeman",
+      "url": "https://www.imdb.com/name/nm0000151/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Antoine Fuqua",
+      "url": "https://www.imdb.com/name/nm0298807/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Creighton Rothenberger",
+      "url": "https://www.imdb.com/name/nm4950667/"
+    },
+    {
+      "name": "Katrin Benedikt",
+      "url": "https://www.imdb.com/name/nm4951717/"
+    }
+  ]
+}

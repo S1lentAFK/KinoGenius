@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Shut Up & Sing",
+  "url": "https://www.imdb.com/tt0811136/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQwODM0NzM1NV5BMl5BanBnXkFtZTcwNDY0NTkzMQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "tomhbrand",
+    "dateCreated": "2007-03-03",
+    "inLanguage": "English",
+    "heading": "What The Concept Of Free Speech *Really* Means In America",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 4980,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Documentary",
+    "Biography",
+    "Music"
+  ],
+  "datePublished": "2007-06-29",
+  "keywords": "death threat,boycott,country music,backstage drama,band",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Natalie Maines",
+      "url": "https://www.imdb.com/name/nm0537732/"
+    },
+    {
+      "name": "Emily Strayer",
+      "url": "https://www.imdb.com/name/nm0733215/"
+    },
+    {
+      "name": "Martie Maguire",
+      "url": "https://www.imdb.com/name/nm0782367/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Barbara Kopple",
+      "url": "https://www.imdb.com/name/nm0465932/"
+    },
+    {
+      "name": "Cecilia Peck",
+      "url": "https://www.imdb.com/name/nm0669637/"
+    }
+  ],
+  "creator": []
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Lazarus Effect",
+  "url": "https://www.imdb.com/tt2918436/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM2ODM1OTA0M15BMl5BanBnXkFtZTgwMDMxMDI5MzE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "TdSmth5",
+    "dateCreated": "2015-07-05",
+    "inLanguage": "English",
+    "heading": "OK lower budget horror.",
+    "reviewBody": "A team of researchers discovers a serum that can wake the dead. They try it out on a dead dog and sure enough it comes to life, a bit in a bad mood more but nonetheless. Then the university shuts down the program and a corporation takes over and grabs all their research.\\n\\nThey decide to break into the lab and recreate the experiment by resurrecting another dog, this time around with a girl who gets to film everything. When Zoe, one of the doctors, flips on the switch she&apos;s electrocuted and dies. Her fianc\\u00e9e can&apos;t accept it so he decides to experiment on her and see if he can reanimate her. Sure enough, she also comes back but also not particularly thankful.\\n\\nThere&apos;s also something else going on with Zoe. When she was a little girl, she witnessed a room-full of people burn to death when the apartment caught fire and she couldn&apos;t help them. She&apos;s been traumatized by the experience till now. Slowly though, she starts developing powers. She can complete other people&apos;s sentences, she develops telekinesis. And eventually she starts killing her team mates. Of course she takes out the power so it&apos;s all dark. The survivors will try to battle her.\\n\\nAt some point the camera girl is taken to the event of the burning apartment and there&apos;s a neat revelation.\\n\\nThe Lazarus Effect is a short horror movie with a good premise and the lovely Olivia Wilde. One bit of science was pretty intriguing. But from there things go by the numbers--no lights, people confined in one or two rooms, no character to care for, no interesting dialogue. The movie is well-directed although clearly they could and should have done more with the story.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 45890,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "datePublished": "2015-02-27",
+  "keywords": "serum,catholic,dog,secure elevator,characters murdered one by one",
+  "duration": "PT1H23M",
+  "actor": [
+    {
+      "name": "Olivia Wilde",
+      "url": "https://www.imdb.com/name/nm1312575/"
+    },
+    {
+      "name": "Mark Duplass",
+      "url": "https://www.imdb.com/name/nm0243233/"
+    },
+    {
+      "name": "Evan Peters",
+      "url": "https://www.imdb.com/name/nm1404239/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Gelb",
+      "url": "https://www.imdb.com/name/nm0312173/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Luke Dawson",
+      "url": "https://www.imdb.com/name/nm1430636/"
+    },
+    {
+      "name": "Jeremy Slater",
+      "url": "https://www.imdb.com/name/nm2916300/"
+    }
+  ]
+}

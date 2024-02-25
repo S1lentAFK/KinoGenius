@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Visual Acoustics",
+  "url": "https://www.imdb.com/tt1233611/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE0MjAyMzAyNl5BMl5BanBnXkFtZTcwNDM2OTYyMg@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "moberhofer",
+    "dateCreated": "2009-10-17",
+    "inLanguage": "English",
+    "heading": "Modern Architecture's Golden Age Photographed and Described By a National Treasure Julius Shulman",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 687,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "Unrated",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2009-10-09",
+  "keywords": "architecture,american,reference to frank sinatra,reference to frank lloyd wright,arthouse",
+  "duration": "PT1H23M",
+  "actor": [
+    {
+      "name": "Frances Anderton",
+      "url": "https://www.imdb.com/name/nm3133516/"
+    },
+    {
+      "name": "Wim de Wit",
+      "url": "https://www.imdb.com/name/nm10724227/"
+    },
+    {
+      "name": "Beth Edwards Harris",
+      "url": "https://www.imdb.com/name/nm6827532/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Eric Bricker",
+      "url": "https://www.imdb.com/name/nm0108578/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Eric Bricker",
+      "url": "https://www.imdb.com/name/nm0108578/"
+    },
+    {
+      "name": "Phil Ethington",
+      "url": "https://www.imdb.com/name/nm3245447/"
+    },
+    {
+      "name": "Jessica Hundley",
+      "url": "https://www.imdb.com/name/nm0402144/"
+    }
+  ]
+}

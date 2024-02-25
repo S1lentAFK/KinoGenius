@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Inside Llewyn Davis",
+  "url": "https://www.imdb.com/tt2042568/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAxNjcyNDQxM15BMl5BanBnXkFtZTgwNzU2NDA0MDE@._V1_.jpg",
+  "description": "A week in the life of a young singer as he navigates the Greenwich Village folk scene of 1961.",
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2014-01-24",
+  "keywords": "1960s,folk singer,new york city,musician,couchsurfing",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Oscar Isaac",
+      "url": "https://www.imdb.com/name/nm1209966/"
+    },
+    {
+      "name": "Carey Mulligan",
+      "url": "https://www.imdb.com/name/nm1659547/"
+    },
+    {
+      "name": "John Goodman",
+      "url": "https://www.imdb.com/name/nm0000422/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ethan Coen",
+      "url": "https://www.imdb.com/name/nm0001053/"
+    },
+    {
+      "name": "Joel Coen",
+      "url": "https://www.imdb.com/name/nm0001054/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joel Coen",
+      "url": "https://www.imdb.com/name/nm0001054/"
+    },
+    {
+      "name": "Ethan Coen",
+      "url": "https://www.imdb.com/name/nm0001053/"
+    }
+  ],
+  "review": {
+    "author": "peefyn",
+    "dateCreated": "2017-04-30",
+    "inLanguage": "English",
+    "heading": "A road movie with little traveling",
+    "reviewBody": "Much like most other movies by the Coen&apos;s, this seemed very different to everything else they have done. Before seeing it, I expected it to be a sincere attempt at portraying a Dylan-like figure, with a heavy focus on the music itself, and also with a whole lot of nostalgia. This is kind of true, but these are not the aspects of the film that&apos;ll stay with you (even though the music was really good!).\\n\\nThere&apos;s not really much of a plot in this movie, but it&apos;s so well crafted that you hardly notice. Llewyn has a goal, but it&apos;s obvious from the start that this movie is not about reaching that goal, but rather about his every day struggle, and the life as a folk musician in an almost mythical period of music history. Llewyin is an interesting character, flawed but easy to like. His struggle feels real, and plays into an overarching theme of how your fate can be out of your hands, but also how perseverance can lead to something good.\\n\\nThe movie is similar to road movies in that it features a lot of different characters that Llewyn meets and interacts with. Some of these are very much Coen-esque, and I&apos;m always amazed by how Coen manages to establish such layered side characters, despite them only appearing on screen briefly. Bot casting and writing must be stellar to be able to do this, and they seem to do it all the time.\\n\\nIt ends in a way that makes the movie more than just a mood piece, and opens up for some interesting discussions. Once again, they&apos;ve managed to make a brilliant film.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 162362,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  }
+}

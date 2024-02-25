@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "My Big Fat Greek Wedding 2",
+  "url": "https://www.imdb.com/tt3760922/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTA1MjMzNDM2M15BMl5BanBnXkFtZTgwNTg3NzQ1NzE@._V1_.jpg",
+  "description": "A Portokalos family secret brings the beloved characters back together for an even bigger and Greeker wedding.",
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2016-03-25",
+  "keywords": "repeat sequel,father daughter relationship,mascot costume,video call,actor writer",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Nia Vardalos",
+      "url": "https://www.imdb.com/name/nm0889522/"
+    },
+    {
+      "name": "John Corbett",
+      "url": "https://www.imdb.com/name/nm0179173/"
+    },
+    {
+      "name": "Michael Constantine",
+      "url": "https://www.imdb.com/name/nm0176073/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kirk Jones",
+      "url": "https://www.imdb.com/name/nm0428600/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nia Vardalos",
+      "url": "https://www.imdb.com/name/nm0889522/"
+    }
+  ],
+  "review": {
+    "author": "swvhobbs",
+    "dateCreated": "2016-03-24",
+    "inLanguage": "English",
+    "heading": "We liked it!",
+    "reviewBody": "First let me say that I loved the 1st movie. I watch it often (maybe too often. lol) Anyway, I was looking forward to this sequel. I haven't been this excited about a movie since the Harry Potter series. I rushed my husband so we could get to the movies 30 minutes prior to showtime. I expected a crowd, but when we arrived it was quiet. Evidently not everyone was anxiously awaiting this film. \n\nI thought the movie started out a little slowly, but it was funny and heartwarming. People in the theater were laughing and clapping and genuinely enjoying it. We enjoyed it too. Did some parts feel forced? Yes. Was it more of the same from the first movie? Yes, but I loved that about it. When the 1st movie ended, I wanted to know more about the characters and their lives. This movie allowed that to happen. I loved that they were able to bring back the old cast. (There is nothing worse than seeing a sequel with different actors.) I loved that the characters were just the same as before, only a little older. \n\nThis isn't a film to change your worldview, but it is fun for entertainment. I'm looking forward to being able to buy it blu-ray, so I can watch it again and again.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 35242,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  }
+}

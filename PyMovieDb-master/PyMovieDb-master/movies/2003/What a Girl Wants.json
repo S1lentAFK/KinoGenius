@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "What a Girl Wants",
+  "url": "https://www.imdb.com/tt0286788/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTllOWQyNzktMTE5OS00NzJkLTgyYjUtNjIwY2Y4OThhNjgxL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "An American teenager learns that her father is a wealthy British politician running for office. Although she is eager to find him, she realizes it could cause a scandal and cost him the election.",
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2003-08-08",
+  "keywords": "queen elizabeth ii character,gender in title,girl in jeans,new york city,scene during opening credits",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Amanda Bynes",
+      "url": "https://www.imdb.com/name/nm0004789/"
+    },
+    {
+      "name": "Colin Firth",
+      "url": "https://www.imdb.com/name/nm0000147/"
+    },
+    {
+      "name": "Kelly Preston",
+      "url": "https://www.imdb.com/name/nm0000593/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dennie Gordon",
+      "url": "https://www.imdb.com/name/nm0330140/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William Douglas-Home",
+      "url": "https://www.imdb.com/name/nm0392942/"
+    },
+    {
+      "name": "Jenny Bicks",
+      "url": "https://www.imdb.com/name/nm0081081/"
+    },
+    {
+      "name": "Elizabeth Chandler",
+      "url": "https://www.imdb.com/name/nm0151358/"
+    }
+  ],
+  "review": {
+    "author": "jotix100",
+    "dateCreated": "2004-04-01",
+    "inLanguage": "English",
+    "heading": "All in the family",
+    "reviewBody": "Dennie Gordon has directed this comedy with sure hand. The play by William Douglas-Home was a hit in the London stage and it was filmed before as The Reluctant Debutante with Rex Harrison, Kay Kendall, Sandra Dee, John Saxon and Angela Lansbury in the cast. This new take on the same story is fun basically because of the cast that was assembled to play the main characters.\n\nAmanda Bynes has the right amount of charm to make her Daphne an endearing teen who is in search for a father she never knew. Colin Firth is a very good as the father. Kelly Preston has very little to do and it's a shame. Eileen Atkins, as the would be grandmother doesn't fare better, as it's the case with Jonathan Pryce.\n\nI recently caught up with it on DVD format and all that can be said is that it was mildly amusing as a typical comedy of this genre.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 66148,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  }
+}

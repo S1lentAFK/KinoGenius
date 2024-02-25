@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Smurfs 2",
+  "url": "https://www.imdb.com/tt2017020/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmZmZDc4ODYtYmFkYy00N2UwLThmY2UtNTliZmJiMThiNWU3XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Anurag-Shetty",
+    "dateCreated": "2013-08-03",
+    "inLanguage": "English",
+    "heading": "An enjoyable film but, it is mainly meant for children.",
+    "reviewBody": "The Smurfs 2 continues with the adventures of the adorable blue creatures called, Smurfs. When Smurfette(Katy Perry) assumes that the rest of the Smurfs have forgotten her birthday, she&apos;s very depressed & wanders off alone. She thinks that she&apos;s not a true blue Smurf as she was originally a Naughty created by the evil wizard, Gargamel(Hank Azaria). Meanwhile Gargamel hatches an evil plot to kidnap Smurfette & get her to tell the formula to turn two of his Naughties, Vexy(Christina Ricci) & Hackus(J.B Smoove) into real Smurfs. Vexy enters the portal to Smurf village, kidnaps Smurfette & takes her back to Earth. Now,it is up to Papa(Jonathan Winters), Grouchy(George Lopez), Clumsy(Anton Yelchin) & Vanity(John Oliver) to rescue Smurfette from Gargamel before he coerces her to give him the formula. The Smurfs seek the help of their friends, Patrick(Neil Patrick Harris) his wife, Grace(Jayma Mays) & Patrick&apos;s step-dad Victor(Brendan Gleeson). \\n\\nThe Smurfs 2 was lots of fun! I can&apos;t believe it has such a low rating on IMDb. It&apos;s not supposed to be the best film ever. It&apos;s just a cute movie about love, friendship, the importance of family & how they will always be by your side. Looking at the morals the film teaches you, it&apos;s a perfect weekend outing with your family & a perfect popcorn movie for everyone who wants to watch it alone. The fusion between live-action & animation is enchanting. The 3D is flawless. The entire movie is filled with eye popping 3D effects. The best scene in the film for me is when, Smurfette & the Naughties are flying around Paris. Mind blowing visual effects & animation. Hank Azaria is the standout performer as the bumbling wizard, Gargamel. Neil Patrick Harris is great as Patrick. Jayma Mays is impressive as Grace. Brendan Gleeson is hilarious as Victor. Katy Perry, Christina Ricci, Jonathan Winters, Anton Yelchin, George Lopez, John Oliver & J.B Smoove are perfect as Smurfette, Vexy, Papa, Clumsy, Grouchy, Vanity & Hackus respectively. The gags are a little childish but, it is a comedy for kids, not adults. All in all, The Smurfs 2 is loads of fun & is worth a watch.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 45645,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2013-07-31",
+  "keywords": "based on cartoon,sequel,female stockinged legs,new york city,3 dimensional",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Neil Patrick Harris",
+      "url": "https://www.imdb.com/name/nm0000439/"
+    },
+    {
+      "name": "Jayma Mays",
+      "url": "https://www.imdb.com/name/nm1724323/"
+    },
+    {
+      "name": "Katy Perry",
+      "url": "https://www.imdb.com/name/nm2953537/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Raja Gosnell",
+      "url": "https://www.imdb.com/name/nm0331532/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "J. David Stem",
+      "url": "https://www.imdb.com/name/nm0826425/"
+    },
+    {
+      "name": "David N. Weiss",
+      "url": "https://www.imdb.com/name/nm0918955/"
+    },
+    {
+      "name": "Jay Scherick",
+      "url": "https://www.imdb.com/name/nm0771065/"
+    }
+  ]
+}

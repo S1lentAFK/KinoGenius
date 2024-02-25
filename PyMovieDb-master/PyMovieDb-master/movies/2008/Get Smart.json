@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Get Smart",
+  "url": "https://www.imdb.com/tt0425061/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY0NzQ4MDU0NV5BMl5BanBnXkFtZTcwMzA2NzQ2MQ@@._V1_.jpg",
+  "description": "Maxwell Smart, a highly intellectual but bumbling spy working for the CONTROL agency, is tasked with preventing a terrorist attack from rival spy agency KAOS.",
+  "review": {
+    "author": "long-ford",
+    "dateCreated": "2009-01-31",
+    "inLanguage": "English",
+    "heading": "Excellent comic timing by Carell makes this an entertaining watch",
+    "reviewBody": "It's amazing how good comic delivery can elevate mediocre material. Such is the case with 'Get Smart', where Steve Carell's excellent comic timing, and his chemistry with Anne Hathaway make for a very entertaining film, despite the at times clich\u00e9d script. Basically it's a light-hearted spy spoof with pot shots directed towards the Bush administration's War on Terror. Fans of wrestler Khali will like his appearance in the film. Dwayne Johnson chips in with a decent performance. The climax is surprisingly thrilling and works well in the film. A solid recommendation.\n\nOverall 7/10",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 227608,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2008-08-22",
+  "keywords": "vomiting,spy,evil man,good versus evil,ticklishness",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Steve Carell",
+      "url": "https://www.imdb.com/name/nm0136797/"
+    },
+    {
+      "name": "Anne Hathaway",
+      "url": "https://www.imdb.com/name/nm0004266/"
+    },
+    {
+      "name": "Alan Arkin",
+      "url": "https://www.imdb.com/name/nm0000273/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Segal",
+      "url": "https://www.imdb.com/name/nm0781842/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tom J. Astle",
+      "url": "https://www.imdb.com/name/nm0040022/"
+    },
+    {
+      "name": "Matt Ember",
+      "url": "https://www.imdb.com/name/nm0256079/"
+    },
+    {
+      "name": "Mel Brooks",
+      "url": "https://www.imdb.com/name/nm0000316/"
+    }
+  ]
+}

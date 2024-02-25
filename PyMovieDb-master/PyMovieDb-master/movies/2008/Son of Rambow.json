@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Son of Rambow",
+  "url": "https://www.imdb.com/tt0845046/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM1MjM0ODc5N15BMl5BanBnXkFtZTcwMjMxMDg1MQ@@._V1_.jpg",
+  "description": "During a long English summer in the early 1980s, two schoolboys from differing backgrounds set out to make a film inspired by First Blood (1982).",
+  "review": {
+    "author": "coreyalexander",
+    "dateCreated": "2008-04-06",
+    "inLanguage": "English",
+    "heading": "Fantastic movie.",
+    "reviewBody": "This movie just screened at the Florida Film Festival in Orlando, Fl. The crowd applauded, laughed and cheered throughout. This should be a big hit if it has a wide release in May. I loved the fact the film was set in the mid-80's, when I was also a student in junior high school. The soundtrack to the film was a lot of fun with hits by Depeche Mode and Cars by Gary Neuman. Also, I swear that I saw the band members of Travis in a scene shot in the faculty lounge of the school. I think the film is equally rewarding for both children and adults and will also be appreciated by anyone who love the art of cinema. I honestly can't imagine anyone not being moved and amused by this little film.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 32914,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2008-04-04",
+  "keywords": "friendship between boys,child protagonist,plymouth brethren,father son relationship,male bonding",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Bill Milner",
+      "url": "https://www.imdb.com/name/nm2389463/"
+    },
+    {
+      "name": "Will Poulter",
+      "url": "https://www.imdb.com/name/nm2401020/"
+    },
+    {
+      "name": "Jessica Hynes",
+      "url": "https://www.imdb.com/name/nm0828961/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Garth Jennings",
+      "url": "https://www.imdb.com/name/nm1134029/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Garth Jennings",
+      "url": "https://www.imdb.com/name/nm1134029/"
+    }
+  ]
+}

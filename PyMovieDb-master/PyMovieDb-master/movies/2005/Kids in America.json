@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "Kids in America",
+  "url": "https://www.imdb.com/tt0408961/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTIxMzAxZGYtYzZjOC00NTA0LWJlODQtNjVmOGI0ZDg0YWRlXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "rufus-18",
+    "dateCreated": "2005-10-01",
+    "inLanguage": "English",
+    "heading": "I like this movie too",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 2793,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2005-10-21",
+  "keywords": "1st amendment,theater,pool scene,climbing out of a swimming pool,bikini",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Gregory Smith",
+      "url": "https://www.imdb.com/name/nm0808376/"
+    },
+    {
+      "name": "Julie Bowen",
+      "url": "https://www.imdb.com/name/nm0100866/"
+    },
+    {
+      "name": "Malik Yoba",
+      "url": "https://www.imdb.com/name/nm0948272/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Josh Stolberg",
+      "url": "https://www.imdb.com/name/nm0831457/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Shaifer",
+      "url": "https://www.imdb.com/name/nm0787578/"
+    },
+    {
+      "name": "Josh Stolberg",
+      "url": "https://www.imdb.com/name/nm0831457/"
+    }
+  ]
+}

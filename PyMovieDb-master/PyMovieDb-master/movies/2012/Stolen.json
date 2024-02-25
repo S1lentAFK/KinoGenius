@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Stolen",
+  "url": "https://www.imdb.com/tt1656186/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzY0ODM1NzU0OV5BMl5BanBnXkFtZTcwNTExNjIyOA@@._V1_.jpg",
+  "description": "A former thief frantically searches for his missing daughter, who has been kidnapped and locked in the trunk of a taxi.",
+  "review": {
+    "author": "caseymoviemania",
+    "dateCreated": "2012-10-11",
+    "inLanguage": "English",
+    "heading": "Casey's Movie Mania: STOLEN (2012)",
+    "reviewBody": "Zero fanfare, barely-there 141 theaters count in the U.S. (a surprise, considering it's a movie starring Nicolas Cage and directed by Simon West of CON AIR and THE EXPENDABLES 2 fame), and scathing reviews -- everything about STOLEN spells rotten. Many have even lambasted this as among the worst Nicolas Cage movie he's ever acted. Personally, I don't blame them for being so harsh since Nicolas Cage's movies nowadays are mostly rubbish. But surprisingly, STOLEN isn't as bad as I thought. It isn't good either, but rather a fairly worthwhile action thriller.\\n\\nThe movie follows Will Montgomery (Nicolas Cage), a master thief who has been sent to prison for 8 years after being double-crossed by one of his partners (M.C. Gainey) in a $10 million robbery gone awry. Upon his release, he plans to leave his criminal past behind and attempts to rekindle his shaky relationship with his estranged daughter, Alison (Sami Gayle). However, FBI agents Tim Harlend (Danny Huston) and Fletcher (Mark Valley) are both convinced that Montgomery must have stashed the $10 million somewhere before he was arrested. But Montgomery insists he's already burned all the money before he surrendered himself, so his prison sentence will be significantly reduced. Soon, it doesn't take long before Montgomery's past comes back to haunt him when his former partner, Vincent (Josh Lucas), who is long thought to be dead, works as a taxi driver and kidnaps Alison. Vincent has been waiting for 8 years to exact revenge against Montgomery, who shots his leg during that fateful robbery, and now he wants the missing $10 million as ransom. Montgomery is given 12 hours to retrieve the money at all cost, or Vincent will kill Alison. As time running out, Montgomery has no choice but to go back his old self again and re-teams with his another partner, the beautiful Riley Jeffers (Malin Akerman) to pull off a bank heist.\\n\\nSTOLEN plays strictly by-the-numbers, and it's terribly clich\\u00e9d all over the place. David Guggenheim's screenplay is full of implausibilities, and the characters are all caricatures at best. But the movie's ludicrous tone has somehow plays out fairly good to its advantage. Thanks to Simon West's energetic direction, the movie zips along fast enough. Frankly, watching STOLEN is akin to watching a mindless '90s action movie -- enjoyable as long as you put your logic aside. The action are quite entertaining , especially given its $35 million low-budget cost (the opening heist scene and the car chase scene inside the parking lot comes to mind), even though they tend to get a bit distracted by its fast editing. Mark Isham's score is catchy and entertaining enough, but its snappy tone that favors over its caper genre does sounds awkward during its more dramatic moments.\\n\\nActing-wise, Nicolas Cage plays the same old character we have seen too many times before -- twitchy, that is. But at least, it's not as worst as critics might lead you to believe here. Josh Lucas certainly has a field day playing an over-the-top, crazy psychopath while both Danny Huston and Mark Valley make quite a worthwhile comic-relief pair as two buffoonery FBI agents. Malin Akerman puts up a thankless role here, which is nothing more than showcasing her beauty and little else.\\n\\nWhile STOLEN won't top anyone's list as one of the must-see action movies of the year, at least it delivers adequate supply of guilty-pleasure entertainment.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 46295,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "2013-03-22",
+  "keywords": "presumed dead,money,teenage daughter,kidnapped daughter,father daughter relationship",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Nicolas Cage",
+      "url": "https://www.imdb.com/name/nm0000115/"
+    },
+    {
+      "name": "Malin Akerman",
+      "url": "https://www.imdb.com/name/nm0015196/"
+    },
+    {
+      "name": "Josh Lucas",
+      "url": "https://www.imdb.com/name/nm0524197/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Simon West",
+      "url": "https://www.imdb.com/name/nm0922346/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Guggenheim",
+      "url": "https://www.imdb.com/name/nm1638756/"
+    }
+  ]
+}

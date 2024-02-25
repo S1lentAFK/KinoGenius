@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Zombie Strippers!",
+  "url": "https://www.imdb.com/tt0960890/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI5MTM4NTA5MV5BMl5BanBnXkFtZTcwNzc0MTU2MQ@@._V1_.jpg",
+  "description": "A zombie epidemic spreads throughout a strip club in Nebraska.",
+  "contentRating": "18",
+  "genre": [
+    "Comedy",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "datePublished": "2008-09-19",
+  "keywords": "zombie,stripper,breasts,christian,cult film",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Jenna Jameson",
+      "url": "https://www.imdb.com/name/nm0001398/"
+    },
+    {
+      "name": "Robert Englund",
+      "url": "https://www.imdb.com/name/nm0000387/"
+    },
+    {
+      "name": "Roxy Saint",
+      "url": "https://www.imdb.com/name/nm2641532/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jay Lee",
+      "url": "https://www.imdb.com/name/nm0999415/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jay Lee",
+      "url": "https://www.imdb.com/name/nm0999415/"
+    }
+  ],
+  "review": {
+    "author": "claynjess",
+    "dateCreated": "2008-04-14",
+    "inLanguage": "English",
+    "heading": "Funny and more funny",
+    "reviewBody": "OK the title says it all, but don't be fooled this movie has a lot going for it. The writing is crisp (the Mexican American jokes in particular) and the actors clearly get the idea that it's supposed to be funny and schlocky. I think most viewers and reviewers will miss the commentary on strip clubs and the objectification of women here. Yes Zombie Strippers has a message! \n\nThe FX and makeup are outstanding and of course over the top.\n\nThis is not a rip off or a copy (any more than any other zombie movie is)and I found it funnier than Shawn of The Dead and at least as funny (if not more) as Return of The Living Dead.\n\nKudos to Jenna for poking fun at herself and her profession.\n\nBTW the audience at the screening LOVED IT.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 18910,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.1
+  }
+}

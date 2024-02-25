@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Nut Job 2: Nutty by Nature",
+  "url": "https://www.imdb.com/tt3486626/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTA5ZDZhMjgtNjNkOC00MzM0LWFlZmItZTM4MjJkMGEyZGQwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg",
+  "description": "Following the events of the first movie, Surly and his friends must stop Oakton City&apos;s Mayor from destroying their home to make way for a dysfunctional amusement park.",
+  "review": {
+    "author": "chrisman-42887",
+    "dateCreated": "2017-08-22",
+    "inLanguage": "English",
+    "heading": "not as bad as the original",
+    "reviewBody": "I watched this recenty and I must say I was actually kind of surprised I really enjoyed watching this one the characters were cute and lovable and a joy to watch you really need to try this one its wayyyy different than the other movie and you will love it for being different the sweetness of the sqirls and the family is just extremely sweet and lovable",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 7218,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2017-08-17",
+  "keywords": "excavator,second part,numbered sequel,chewing gum,food",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Will Arnett",
+      "url": "https://www.imdb.com/name/nm0004715/"
+    },
+    {
+      "name": "Maya Rudolph",
+      "url": "https://www.imdb.com/name/nm0748973/"
+    },
+    {
+      "name": "Bobby Cannavale",
+      "url": "https://www.imdb.com/name/nm0134072/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Cal Brunker",
+      "url": "https://www.imdb.com/name/nm2117510/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Scott Bindley",
+      "url": "https://www.imdb.com/name/nm0082839/"
+    },
+    {
+      "name": "Cal Brunker",
+      "url": "https://www.imdb.com/name/nm2117510/"
+    },
+    {
+      "name": "Bob Barlen",
+      "url": "https://www.imdb.com/name/nm1779809/"
+    }
+  ]
+}

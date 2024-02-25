@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Rugrats in Paris: The Movie - Rugrats II",
+  "url": "https://www.imdb.com/tt0213203/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2E0ZjhkM2YtZjNjMy00YjhiLWJlZDEtNDEwZThkM2VmMDU5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "While on a family vacation in Paris, the Rugrats attempt to help Chuckie find a new mom while stopping his dad from marrying a conniving businesswoman who hates kids.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2001-04-06",
+  "keywords": "older actors younger roles,french,europe,mother daughter relationship,child protagonist",
+  "duration": "PT1H18M",
+  "actor": [
+    {
+      "name": "Christine Cavanaugh",
+      "url": "https://www.imdb.com/name/nm0004815/"
+    },
+    {
+      "name": "Elizabeth Daily",
+      "url": "https://www.imdb.com/name/nm0197354/"
+    },
+    {
+      "name": "Cheryl Chase",
+      "url": "https://www.imdb.com/name/nm0153719/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Stig Bergqvist",
+      "url": "https://www.imdb.com/name/nm0075010/"
+    },
+    {
+      "name": "Paul Demeyer",
+      "url": "https://www.imdb.com/name/nm0218450/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "J. David Stem",
+      "url": "https://www.imdb.com/name/nm0826425/"
+    },
+    {
+      "name": "David N. Weiss",
+      "url": "https://www.imdb.com/name/nm0918955/"
+    },
+    {
+      "name": "Jill Gorey",
+      "url": "https://www.imdb.com/name/nm0330856/"
+    }
+  ],
+  "review": {
+    "author": "flikbuff",
+    "dateCreated": "2000-11-28",
+    "inLanguage": "English",
+    "heading": "Parents and Kids will like this one",
+    "reviewBody": "I sat through this movie with my wife, my two-year-old daughter (on my lap) and my boys (5 and 7 years old). We&apos;ve been watching Rugrats on TV for some time, and are quite familiar with the characters.\\n\\nHonestly, this was one of the better movies I&apos;ve seen this season, bar none. There are ample parodies of other movies (to make the adults laugh-outright), as well as lots of fun for the little ones. The battle between Robo-Reptar and Robo-Snail kept my boys talking excitedly all the way home.\\n\\nIf you are not a fan of the Rugrats, this movie will do little to change that. However, this movie is considerably better than either the first Rugrats movie or any of the individual TV episodes. For once, a movie spawned from a TV series is actually better than the series.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 13532,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  }
+}

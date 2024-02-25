@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Salt",
+  "url": "https://www.imdb.com/tt0944835/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIyODA2NDg4NV5BMl5BanBnXkFtZTcwMjg4NDAwMw@@._V1_.jpg",
+  "description": "A CIA agent goes on the run after a defector accuses her of being a Russian spy.",
+  "review": {
+    "author": "chrichtonsworld",
+    "dateCreated": "2010-08-19",
+    "inLanguage": "English",
+    "heading": "Popcorn entertainment nothing more nothing less!",
+    "reviewBody": "While I was expecting a little more sophistication in the plot department I realized that such a thing couldn&apos;t happen when US versus Russia is at play. (To my knowledge the Cold War is over and the spy business has become more complicated than ever. This oversimplification of old enemies and their wars is too much.) The plot is all over the place and realism is thrown out of the door. There are too many things happening in the movie that are too convenient and even impossible. Still it didn&apos;t keep me from enjoying this movie. It even managed to thrill me at occasions even if I was aware that most of the plot was nonsense. Jolie does an excellent job as the action heroine. The action is that makes this movie tick and that is almost the only thing that should count in a movie like this.Ignore the bashing and trashing of Jolie. This is pure entertainment!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 328637,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Thriller"
+  ],
+  "datePublished": "2010-08-18",
+  "keywords": "spy,russian,secret agent,one woman army,strong female lead",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Angelina Jolie",
+      "url": "https://www.imdb.com/name/nm0001401/"
+    },
+    {
+      "name": "Liev Schreiber",
+      "url": "https://www.imdb.com/name/nm0000630/"
+    },
+    {
+      "name": "Chiwetel Ejiofor",
+      "url": "https://www.imdb.com/name/nm0252230/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Phillip Noyce",
+      "url": "https://www.imdb.com/name/nm0637518/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kurt Wimmer",
+      "url": "https://www.imdb.com/name/nm0934483/"
+    }
+  ]
+}

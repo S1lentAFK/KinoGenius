@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Upstream Color",
+  "url": "https://www.imdb.com/tt2084989/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQzMzQ4MDAyNF5BMl5BanBnXkFtZTcwNzE0MDk3OA@@._V1_.jpg",
+  "description": "A man and woman are drawn together, entangled in the life cycle of an ageless organism. Identity becomes an illusion as they struggle to assemble the loose fragments of wrecked lives.",
+  "review": {
+    "author": "jack-1079",
+    "dateCreated": "2020-04-12",
+    "inLanguage": "English",
+    "heading": "For the 1&2 star reviewers who are upset with the 9&10 star reviewers",
+    "reviewBody": "Ladies and gentlemen, I have rated this a 7. Not going to go into why. I don&apos;t see any 9&10 reviewers calling the 1&2 reviewers names or degrading them. So what&apos;s with the anger? I love lots of different styles of books, music and films. I played in a death metal band and screamed and growled almost impossible to understand lyrics. One of my literature teachers heard one of our songs and asked me why so aggressive, messy and incoherent the music was. (It wasn&apos;t at all to me or our fans). I asked him to look at the water colour painting he had on the wall, it was one of his. I asked why the lines were blurred and colors mixed insrmtead of clear, sharp and defined lines; wouldn&apos;t that make the shapes and motives be easier to understand? He just smiled and nodded. If you don&apos;t like it, that&apos;s tooootally understandable. I don&apos;t like all the movies I watch either. And I might leave a comment about my experience. But I really don&apos;t think those who did enjoy it have ANY need to lie or pretend as some of you have said, nor have anything to gain by writing an anaymous review here. Hope we are more friendly here.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 34841,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "datePublished": "2013-08-30",
+  "keywords": [
+    "thief",
+    "underwater scene",
+    "maggot",
+    "reading",
+    "coin"
+  ],
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Amy Seimetz",
+      "url": "https://www.imdb.com/name/nm1541272/"
+    },
+    {
+      "name": "Frank Mosley",
+      "url": "https://www.imdb.com/name/nm1797014/"
+    },
+    {
+      "name": "Shane Carruth",
+      "url": "https://www.imdb.com/name/nm1503403/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Shane Carruth",
+      "url": "https://www.imdb.com/name/nm1503403/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Shane Carruth",
+      "url": "https://www.imdb.com/name/nm1503403/"
+    }
+  ]
+}

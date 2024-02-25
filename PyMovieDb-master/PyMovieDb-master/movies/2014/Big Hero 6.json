@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Big Hero 6",
+  "url": "https://www.imdb.com/tt2245084/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDliOTIzNmUtOTllOC00NDU3LWFiNjYtMGM0NDc1YTMxNjYxXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Myusersnameiscoolokay",
+    "dateCreated": "2015-04-12",
+    "inLanguage": "English",
+    "heading": "Everyone needs a little Baymax in their lives",
+    "reviewBody": "Big Hero 6 [2014] is the Disney 3-D animated comedy action film that centers on Hiro Hamada, a 14-year old robotics prodigy, Baymax (an inflatable health companion robot) and an unlikely team of superheros. \\n\\n5/5 graphics. Big Hero 6 transports viewers into a new visual realm and relatively individual style (besides its anime resemblance). The story is set in the futuristic city of &apos;San Fransokyo&apos;. A little of Tokyo and San Francisco in one place. This explains the amalgamation of both Japanese and American components within the story and setting. It should be noted that Big Hero 6 is not a wholly original idea, and the animation is inspired by the Marvel comic by the very same name. \\n\\nBaymax. Voiced by Scott Adsit, this lovable robot is animated to appear soft, cuddly and adorable, credit goes to the graphics and writing team on this one. Hiro&apos;s close friendship with Baymax is a highlight. Baymax can hold his own on the screen alone too, just strolling through the city streets, caring for others health and well-being. So yeah, he&apos;s cute and he knows it. \\n\\nExpect to have a couple of teary moments. I won&apos;t describe or skim through details, out of utmost respect for those who haven&apos;t had a chance to see it yet. Since more serious topics aren&apos;t the usual in children targeted animation films, it&apos;s a nice change of pace. \\n\\nFantastic message for the young&apos;uns. The main character Hiro (voiced by Ryan Potter) and the rest of the superheros team study robotics at the local university (including T.J. Miller from Silicon Valley and Damon Wayans Jr from New Girl). Reach your potential, practice non-violence and exercise sacrifice. That&apos;s just the tip of the iceberg. There are more spoiler-worthy ones that will be omitted from this review entirely. By the way, it&apos;s not &apos;preachy&apos; in the slightest.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 496537,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2015-01-30",
+  "keywords": "robot,superhero,funeral,martial arts,teenager",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Ryan Potter",
+      "url": "https://www.imdb.com/name/nm3994407/"
+    },
+    {
+      "name": "Scott Adsit",
+      "url": "https://www.imdb.com/name/nm0012523/"
+    },
+    {
+      "name": "Jamie Chung",
+      "url": "https://www.imdb.com/name/nm1512166/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Don Hall",
+      "url": "https://www.imdb.com/name/nm2320658/"
+    },
+    {
+      "name": "Chris Williams",
+      "url": "https://www.imdb.com/name/nm0930261/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jordan Roberts",
+      "url": "https://www.imdb.com/name/nm1471001/"
+    },
+    {
+      "name": "Robert L. Baird",
+      "url": "https://www.imdb.com/name/nm0047916/"
+    },
+    {
+      "name": "Daniel Gerson",
+      "url": "https://www.imdb.com/name/nm0314870/"
+    }
+  ]
+}

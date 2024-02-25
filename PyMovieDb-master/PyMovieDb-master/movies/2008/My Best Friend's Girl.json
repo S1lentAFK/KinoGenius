@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "My Best Friend's Girl",
+  "url": "https://www.imdb.com/tt1046163/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDg5NjE3Nl5BMl5BanBnXkFtZTcwNzc4ODQ3MQ@@._V1_.jpg",
+  "description": "Tank faces the ultimate test of friendship when his best friend hires him to take his ex-girlfriend out on a lousy date in order to make her realize how great her former boyfriend is.",
+  "review": {
+    "author": "gryffindor249",
+    "dateCreated": "2008-09-19",
+    "inLanguage": "English",
+    "heading": "Better Luck for Dane",
+    "reviewBody": "Compared to Good Luck Chuck this is a masterpiece. As far as what one will find at the multiplex when looking for a (albiet raunchy) romantic comedy, this is a solid choice, particularly if you like Dane Cook (which I do...go ahead...shoot me). And there are a few lines in the movie that are brilliantly quotable, along with some very nicely shot views of Boston and two countdown montages of Dane destroying dates that are quite funny. Maybe a bit overlong and it probably would have benefited by trimming the inclusion of Alec Baldwin as Dane's dad. But this is the common ground Date Movie for the guy who doesn't want schmaltzy romantic crap and the chick who doesn't mind a few dirty jokes.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 46188,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "18",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2008-11-21",
+  "keywords": "blonde,strip club,oral sex,love triangle,cheating on partner",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Kate Hudson",
+      "url": "https://www.imdb.com/name/nm0005028/"
+    },
+    {
+      "name": "Dane Cook",
+      "url": "https://www.imdb.com/name/nm0176981/"
+    },
+    {
+      "name": "Jason Biggs",
+      "url": "https://www.imdb.com/name/nm0004755/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Howard Deutch",
+      "url": "https://www.imdb.com/name/nm0222043/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jordan Cahan",
+      "url": "https://www.imdb.com/name/nm2588827/"
+    }
+  ]
+}

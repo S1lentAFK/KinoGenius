@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The 5th Wave",
+  "url": "https://www.imdb.com/tt2304933/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQwOTc0Mzg3Nl5BMl5BanBnXkFtZTgwOTg3NjI2NzE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "bob-the-movie-man",
+    "dateCreated": "2016-05-07",
+    "inLanguage": "English",
+    "heading": "Oh Lord, save us from stupid aliens",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 116473,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2016-01-22",
+  "keywords": "alien attack,survivor,child soldier,ohio,poker game",
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "Chloë Grace Moretz",
+      "url": "https://www.imdb.com/name/nm1631269/"
+    },
+    {
+      "name": "Matthew Zuk",
+      "url": "https://www.imdb.com/name/nm2832703/"
+    },
+    {
+      "name": "Gabriela Lopez",
+      "url": "https://www.imdb.com/name/nm4388400/"
+    }
+  ],
+  "director": [
+    {
+      "name": "J Blakeson",
+      "url": "https://www.imdb.com/name/nm2128335/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Susannah Grant",
+      "url": "https://www.imdb.com/name/nm0335666/"
+    },
+    {
+      "name": "Akiva Goldsman",
+      "url": "https://www.imdb.com/name/nm0326040/"
+    },
+    {
+      "name": "Jeff Pinkner",
+      "url": "https://www.imdb.com/name/nm0684374/"
+    }
+  ]
+}

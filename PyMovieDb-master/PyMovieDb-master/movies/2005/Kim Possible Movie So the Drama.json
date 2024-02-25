@@ -1,0 +1,42 @@
+
+
+{
+  "type": "TVEpisode",
+  "name": "Disney's Kim Possible Movie: So the Drama",
+  "url": "https://www.imdb.com/tt0798765/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAxM2M4MDEtYWJhMS00ZTBiLTgxMjEtMjQwM2NkZTEyOGJlXkEyXkFqcGdeQXVyODA0OTM5NQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": null,
+  "genre": [
+    "Talk-Show"
+  ],
+  "datePublished": null,
+  "keywords": null,
+  "duration": null,
+  "actor": [
+    {
+      "name": "Christy Carlson Romano",
+      "url": "https://www.imdb.com/name/nm0005579/"
+    }
+  ],
+  "director": [],
+  "creator": []
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Wrecking Crew",
+  "url": "https://www.imdb.com/tt0065225/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjExMGJlNjUtYzcwOC00NjIxLTk4ZTItNzA5OGE0NDFiYzE5XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+  "description": "Gold bullion worth USD 1 billion has been stolen from a hijacked train in Denmark. The main suspect is Count Massimo Contini. The US government sends Matt Helm, one of its top agents, to investigate and recover the gold.",
+  "datePublished": "1969-04-05",
+  "duration": "PT1H45M",
+  "contentRating": "A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "keywords": "british intelligence agent,espionage,spoof,secret agent,james bond spoof",
+  "rating": {
+    "ratingCount": 3693,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "review": {
+    "author": "gerard-21",
+    "dateCreated": "2012-10-11",
+    "inLanguage": "English",
+    "heading": "As Delicately Balanced as a Swiss Chronometer",
+    "reviewBody": "Well, at least compared to the two Matt Helm flicks immediately preceding it. After a couple of pretty big missteps, the series returns to the fine form of the first film, The Silencers. This is in no doubt very much due to the return of that film's director, Phil Karlson of Walking Tall fame.\\n\\nWhile the budget was obviously reduced for this one, it may have helped the pacing, which is not bogged down by cumbersome set pieces and elaborate gadgets. From the time Helm first arrives at Contini's ch\\u00e2teau, the movie races breezily along helped by well choreographed (by Bruce Lee!)fight scenes in place of the earlier movies' overblown hovercraft chases, runaway spaceships and the like. Additionally, this is the only one of the 4 Helm movies where the main villain's death doesn't seem anti-climatic. The soundtrack is great and absolutely helps to keep things moving along as well.\\n\\nThis cast is most enjoyable, with Nigel Green stealing the show while stealing the gold. He delivers many of the best lines in the movie, nay the series. Nancy Kwan and Elke Sommer are excellent as a couple of deadly femme fatales and Tina Louise is rescued from Gilligan's island just in time to give Helm his first lead. Sharon Tate showed a proclivity for comedy that was so deft and popular with movie goers that she was supposed to reprise her role in the never to be made The Ravagers. Also notable was the film debut of a little known martial arts expert named Chuck Norris. Dino himself seems to be enjoying the proceedings this time around and is a little more energetic. MacDonald, Helm's boss, is now being played by John Larch and actually takes part in some of the action.\\n\\nIn conclusion, this is one tight, exciting and truly funny (without being silly) little movie, at least by Dean Martin Matt Helm standards. It's too bad this was the last in line, because it could have served as the action comedy template going forward.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "Dean Martin",
+      "url": "https://www.imdb.com/name/nm0001509/"
+    },
+    {
+      "name": "Elke Sommer",
+      "url": "https://www.imdb.com/name/nm0813961/"
+    },
+    {
+      "name": "Sharon Tate",
+      "url": "https://www.imdb.com/name/nm0001790/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Phil Karlson",
+      "url": "https://www.imdb.com/name/nm0439597/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Donald Hamilton",
+      "url": "https://www.imdb.com/name/nm0357824/"
+    },
+    {
+      "name": "William P. McGivern",
+      "url": "https://www.imdb.com/name/nm0569423/"
+    }
+  ]
+}

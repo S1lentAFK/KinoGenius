@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Scooby-Doo! and the Monster of Mexico",
+  "url": "https://www.imdb.com/tt0369903/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjZiYjE1MWYtNGM2OC00MmEwLTg3ZTAtYmQ1NDFkMTI4NjgwXkEyXkFqcGdeQXVyNTA4NzExMDg.jpg",
+  "description": "Join Scooby, Shaggy and the gang as they visit a friend in Mexico to celebrate the Day of the Dead! Only this time it's a monster that terrorizes the town.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2003-10-20",
+  "keywords": [
+    "2000s",
+    "day of the dead",
+    "bull",
+    "skunk",
+    "animal character name in title"
+  ],
+  "duration": "PT1H15M",
+  "actor": [
+    {
+      "name": "Casey Kasem",
+      "url": "https://www.imdb.com/name/nm0440487/"
+    },
+    {
+      "name": "Frank Welker",
+      "url": "https://www.imdb.com/name/nm0919798/"
+    },
+    {
+      "name": "Nicole Jaffe",
+      "url": "https://www.imdb.com/name/nm0415476/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Scott Jeralds",
+      "url": "https://www.imdb.com/name/nm0421874/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Douglas Wood",
+      "url": "https://www.imdb.com/name/nm0939669/"
+    }
+  ],
+  "review": {
+    "author": "Aegelis",
+    "dateCreated": "2020-10-04",
+    "inLanguage": "English",
+    "heading": "Rollicking Monster Mystery South of the Boarder",
+    "reviewBody": "Some redeeming factors include that the location is a different country, the movie keeps the series running, will keep child fans entertained, and the music is above average. Perhaps the the best and surprising part is finding out that Scooby ends up having a gal in Mexico. Otherwise, I'm thinking this one could've used more comedy, twists, and better cultural immersion. The Chupacabra was the biggest puzzle, they should've gone for the gollum-like vampiric creature instead of grape ape.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 4787,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  }
+}

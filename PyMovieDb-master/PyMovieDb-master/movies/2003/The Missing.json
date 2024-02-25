@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Missing",
+  "url": "https://www.imdb.com/tt0338188/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWM1ZmU5NWItZDM0ZC00MTk5LThiMTktZGUxOThjNzI5NTcyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "In 1885 New Mexico, a frontier medicine woman forms an uneasy alliance with her estranged father when her daughter is kidnapped by an Apache brujo.",
+  "review": {
+    "author": "JohnDeSando",
+    "dateCreated": "2003-11-27",
+    "inLanguage": "English",
+    "heading": "Blanchette carves out a memorable stand-alone heroine.",
+    "reviewBody": "`The Missing' is as close to a feminist movie as can be telling a story that engrosses on the traditional level of the Western without offending warring cultural factions. Cate Blanchette plays a frontier single mom and local healer, whose teenage daughter is abducted by Apaches and army deserters to sell for prostitution in Mexico.\\n\\nShe must find her daughter and also deal with her estranged father, played by Tommy Lee Jones, who deserted his family 20 years ago to live with the Apaches and now tracks them with Blanchette to find his granddaughter.\\n\\n Blanchette is not John Wayne, who played one of the `Searchers' in John Ford's memorable Western, certainly a source for this story. She lacks Wayne's easy bigotry about Indians, yet she carries toughness in adversity every bit as strong as Wayne at his most macho.\\n\\nNor is she Audrey Hepburn in John Huston's `The Unforgiven,' who is mostly protected from abduction-minded Kiawas by Burt Lancaster. No, Blanchette carves out a memorable stand-alone heroine in another sterling performance, certainly one of the top 2 actresses in film today.\\n\\nCinematographer Salvatore Totino uses aerial shots to capture the vast but imprisoning New Mexico landscape; James Horner's swelling music now and then feels as if it can't wait for another `Titanic'; Ron Howard's direction is unobtrusive, in the same way he allowed Russell Crowe to save Howard's middling `Beautiful Mind' screenplay. Actually Howard prepared himself by directing the Mel Gibson `Ransom,' also about abduction and pursuit.\\n\\nThe realism starts in the first scene with Blanchette extracting a tooth from an almost toothless hag and proceeds with multiple bloody encounters, too many for me in a long movie that could have edited out several encounters. But seeing Blanchette and Jenna Boyd as her younger daughter act with apparent full chops is to be happy that we no longer have to rely on Wayne for rugged individualism. As Gloria Steinem reminds us, `When both sexes realize that either one can be on top, we're all going to enjoy our relationships a lot more.'",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 38016,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2004-02-27",
+  "keywords": "revisionist western,new mexico territory,apache territory,sonora mexico,sierra madre mountains",
+  "duration": "PT2H17M",
+  "actor": [
+    {
+      "name": "Tommy Lee Jones",
+      "url": "https://www.imdb.com/name/nm0000169/"
+    },
+    {
+      "name": "Cate Blanchett",
+      "url": "https://www.imdb.com/name/nm0000949/"
+    },
+    {
+      "name": "Evan Rachel Wood",
+      "url": "https://www.imdb.com/name/nm0939697/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ron Howard",
+      "url": "https://www.imdb.com/name/nm0000165/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Thomas Eidson",
+      "url": "https://www.imdb.com/name/nm1268336/"
+    },
+    {
+      "name": "Ken Kaufman",
+      "url": "https://www.imdb.com/name/nm0442190/"
+    }
+  ]
+}

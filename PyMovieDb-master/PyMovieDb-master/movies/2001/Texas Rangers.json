@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Texas Rangers",
+  "url": "https://www.imdb.com/tt0193560/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjNlYTExNTgtMzEzMS00NjhmLThjZjMtMjY2MGMxZGVlZWZlXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg",
+  "description": "A ragtag group of youngsters band together after the American Civil War to form the Texas Rangers, a group charged with the dangerous, ruthless duty of cleaning up the West.",
+  "review": {
+    "author": "eagl3f3ath3r",
+    "dateCreated": "2003-06-06",
+    "inLanguage": "English",
+    "heading": "LISTEN TO ME: this film is much better than most reviews give it credit",
+    "reviewBody": "The acting is great, the director did a great job and its a cool, typical cowboy film. If you like westerns watch it, if not i recommend watching it on a friday night if your plans have collapsed. You wont regret it...trust me",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 6292,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "12",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "datePublished": "2001-11-30",
+  "keywords": "alliance atlantis,mexican in the united states,mexican stereotype,horse and carriage,1870s",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "James Van Der Beek",
+      "url": "https://www.imdb.com/name/nm0004735/"
+    },
+    {
+      "name": "Rachael Leigh Cook",
+      "url": "https://www.imdb.com/name/nm0000337/"
+    },
+    {
+      "name": "Ashton Kutcher",
+      "url": "https://www.imdb.com/name/nm0005110/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steve Miner",
+      "url": "https://www.imdb.com/name/nm0591171/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "George Durham",
+      "url": "https://www.imdb.com/name/nm0244078/"
+    },
+    {
+      "name": "Scott Busby",
+      "url": "https://www.imdb.com/name/nm0123913/"
+    },
+    {
+      "name": "Martin Copeland",
+      "url": "https://www.imdb.com/name/nm0178638/"
+    }
+  ]
+}

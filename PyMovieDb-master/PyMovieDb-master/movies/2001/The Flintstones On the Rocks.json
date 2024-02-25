@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Flintstones",
+  "url": "https://www.imdb.com/tt0109813/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzY0ZTk4YzctNzYzNy00ZDQ0LTg2Y2ItZTQyYzQxMjQwMDc2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "moonspinner55",
+    "dateCreated": "2002-10-06",
+    "inLanguage": "English",
+    "heading": "A hearty attempt, but it just doesn't work...",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 85807,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5
+  },
+  "contentRating": "U",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "1994-07-22",
+  "keywords": "aptitude testing,family relationships,self sacrifice,based on tv series,stone age",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "John Goodman",
+      "url": "https://www.imdb.com/name/nm0000422/"
+    },
+    {
+      "name": "Rick Moranis",
+      "url": "https://www.imdb.com/name/nm0001548/"
+    },
+    {
+      "name": "Rosie O'Donnell",
+      "url": "https://www.imdb.com/name/nm0005280/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brian Levant",
+      "url": "https://www.imdb.com/name/nm0505152/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tom S. Parker",
+      "url": "https://www.imdb.com/name/nm0662678/"
+    },
+    {
+      "name": "Jim Jennewein",
+      "url": "https://www.imdb.com/name/nm0421084/"
+    },
+    {
+      "name": "Steven E. de Souza",
+      "url": "https://www.imdb.com/name/nm0211823/"
+    }
+  ]
+}

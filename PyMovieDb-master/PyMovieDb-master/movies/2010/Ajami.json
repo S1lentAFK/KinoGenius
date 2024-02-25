@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Ajami",
+  "url": "https://www.imdb.com/tt1077262/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMyNjY0MDE3MF5BMl5BanBnXkFtZTcwNDk4NTgxMw@@._V1_.jpg",
+  "description": "Ajami is the religiously mixed community of Muslims and Christians in Tel Aviv. These are five stories about the everyday life in Ajami.",
+  "review": {
+    "author": "dzuhot",
+    "dateCreated": "2009-11-10",
+    "inLanguage": "English",
+    "heading": "A film for all tastes",
+    "reviewBody": "I attended a 'full house' screening at the Tricycle Cinema in London, having invited a party of 6 people of different ages and backgrounds. The consensus was unanimous, an excellently executed film, showing the rawness and tensions simmering within Israel's Arab & Jewish populations.\n\nIn his pre-screening presentation the director correctly focused on one of the core reasons why Jews & Arabs continue to be suspicious of the other...in many ways it is down to the Jews not speaking Arabic and only a few of the Arabs speaking Hebrew. It is amazing that the Israeli government has yet to address this issue.\n\nThis is definitely a film which needs to be seen twice in order to comprehend all the various nuances. Two scenes stood out for me...the Judgement scene at the Beduin elder...and Dando's family grieving.\n\nWell done!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 6501,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2009-09-17",
+  "keywords": "palestinian,boy,family relationships,brother brother relationship,illegal gun purchase",
+  "duration": "PT2H4M",
+  "actor": [
+    {
+      "name": "Fouad Habash",
+      "url": "https://www.imdb.com/name/nm3360446/"
+    },
+    {
+      "name": "Nisrin Siksik",
+      "url": "https://www.imdb.com/name/nm3358440/"
+    },
+    {
+      "name": "Elias Saba",
+      "url": "https://www.imdb.com/name/nm3351889/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Scandar Copti",
+      "url": "https://www.imdb.com/name/nm2738713/"
+    },
+    {
+      "name": "Yaron Shani",
+      "url": "https://www.imdb.com/name/nm1760871/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Scandar Copti",
+      "url": "https://www.imdb.com/name/nm2738713/"
+    },
+    {
+      "name": "Yaron Shani",
+      "url": "https://www.imdb.com/name/nm1760871/"
+    }
+  ]
+}

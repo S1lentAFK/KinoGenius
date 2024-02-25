@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Enemy at the Gates",
+  "url": "https://www.imdb.com/tt0215750/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWFlY2E3ODQtZWNiNi00ZGU4LTkzNWEtZTQ2ZTViMWRhYjIzL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "WalterFrith",
+    "dateCreated": "2001-06-17",
+    "inLanguage": "English",
+    "heading": "A good cat and mouse game.",
+    "reviewBody": "Ed Harris (the Nazi) and Jude Law (the Russian) are matched against each other as World War II snipers serving their countries. Joseph Fiennes is also good in a pivotal role as is Bob Hoskins as Nikita Khrushchev and Rachel Weisz as a strong female character. This is a compelling look at the constantly needed reminder that simply, war is terrible and the innocent victims that suffer is even more tragic. Director Jean-Jacques Annaud&apos;s still framed direction has always lacked a depth of character development but he still makes admirable films for the high end lovers of film art.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 276042,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "War"
+  ],
+  "datePublished": "2001-03-16",
+  "keywords": "sniper,stalingrad,battle of stalingrad,red army soldier,russian soldier",
+  "duration": "PT2H11M",
+  "actor": [
+    {
+      "name": "Jude Law",
+      "url": "https://www.imdb.com/name/nm0000179/"
+    },
+    {
+      "name": "Ed Harris",
+      "url": "https://www.imdb.com/name/nm0000438/"
+    },
+    {
+      "name": "Joseph Fiennes",
+      "url": "https://www.imdb.com/name/nm0001212/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jean-Jacques Annaud",
+      "url": "https://www.imdb.com/name/nm0000269/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jean-Jacques Annaud",
+      "url": "https://www.imdb.com/name/nm0000269/"
+    },
+    {
+      "name": "Alain Godard",
+      "url": "https://www.imdb.com/name/nm0323708/"
+    }
+  ]
+}

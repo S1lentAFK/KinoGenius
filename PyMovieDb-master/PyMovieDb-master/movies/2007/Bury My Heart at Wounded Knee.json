@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Bury My Heart with Tonawanda",
+  "url": "https://www.imdb.com/tt2606022/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjkzYmY5MTMtYjA2Zi00MGM1LWE5MTYtYjgyYTczNGQyZjIxXkEyXkFqcGdeQXVyNDE3MjcwNjM.jpg",
+  "description": "A historical film, Bury My Heart with Tonawanda tells the story of boy with Downs Syndrome who is rejected by his own family but accepted by the Tonawanda Seneca Nation. The film teaches us about Seneca culture, beliefs and myths ...",
+  "contentRating": "Not Rated",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": null,
+  "keywords": "native american,down syndrome",
+  "duration": "PT1H8M",
+  "actor": [
+    {
+      "name": "Stephen Blum",
+      "url": "https://www.imdb.com/name/nm5446992/"
+    },
+    {
+      "name": "Michael Rice",
+      "url": "https://www.imdb.com/name/nm5446875/"
+    },
+    {
+      "name": "Gary Sundown",
+      "url": "https://www.imdb.com/name/nm1778958/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gary Sundown",
+      "url": "https://www.imdb.com/name/nm1778958/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Adrian Esposito",
+      "url": "https://www.imdb.com/name/nm3982944/"
+    }
+  ],
+  "review": {
+    "author": "cao222",
+    "dateCreated": "2015-02-07",
+    "inLanguage": "English",
+    "heading": "If you love mediocrity, still stay clear of this movie!",
+    "reviewBody": "Some movies are good, some are bad, some are downright awful, and some are so bad you feel as if you've lost some of your faith in humanity: this is one of those films.\\n\\nEverything a bad movie could have is in this film: lifeless acting, blurry cinematography, pathetic script, and horrendous use or music. This is not a good movie, this is a lesson In mediocrity for all future filmmakers, a film that shows you: you can always do worse.\\n\\nI watched this for free on Amazon Prime, and I still feel like I wasted money.\\n\\nPS. If I could give this 0 stars, I would.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 31,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  }
+}

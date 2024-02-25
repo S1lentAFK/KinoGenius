@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Interpreter",
+  "url": "https://www.imdb.com/tt0373926/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGJjNWY5MGEtYjgzZC00YTBlLWFmNzgtZWEwMGQ4YzMwNWViXkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_.jpg",
+  "description": "Political intrigue and deception unfold inside the United Nations, where a U.S. Secret Service agent is assigned to investigate an interpreter who overhears an assassination plot.",
+  "contentRating": "12A",
+  "genre": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2005-04-15",
+  "keywords": [
+    "driving",
+    "assassination",
+    "interpreter",
+    "threat",
+    "intrigue"
+  ],
+  "duration": "PT2H8M",
+  "rating": {
+    "ratingCount": 110628,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "review": {
+    "author": "director_mitch",
+    "dateCreated": "2005-04-24",
+    "inLanguage": "English",
+    "heading": "Script Needs Work",
+    "reviewBody": "I was interested in seeing The Interpreter since it looked like a good adult drama. Unfortunately, the movie has some problems.\\n\\nThe big plus of the movie is Kidman. She is one of those women who actually looks better as she ages, and she is a talented actress. Sean Penn is also a good actor, and both do a great job in the movie.\\n\\nUnfortunately the good acting can&apos;t overcome the weak script. I felt like the story was still a 2-3 drafts short of being ready for the screen. The biggest problem was that there are plot holes you could drive a truck through. I also felt the movie dragged through most of the middle as they tried to develop the strained relationship between the principle characters.\\n\\nIf you are a plot-driven movie fan, as I am, the movie is likely to be a disappointment. If you are a acting-driven movie fan, you will probably like the movie more.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "actor": [
+    {
+      "name": "Nicole Kidman",
+      "url": "https://www.imdb.com/name/nm0000173/"
+    },
+    {
+      "name": "Sean Penn",
+      "url": "https://www.imdb.com/name/nm0000576/"
+    },
+    {
+      "name": "Catherine Keener",
+      "url": "https://www.imdb.com/name/nm0001416/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sydney Pollack",
+      "url": "https://www.imdb.com/name/nm0001628/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Martin Stellman",
+      "url": "https://www.imdb.com/name/nm0826369/"
+    },
+    {
+      "name": "Brian Ward",
+      "url": "https://www.imdb.com/name/nm0911422/"
+    },
+    {
+      "name": "Charles Randolph",
+      "url": "https://www.imdb.com/name/nm1017488/"
+    }
+  ]
+}

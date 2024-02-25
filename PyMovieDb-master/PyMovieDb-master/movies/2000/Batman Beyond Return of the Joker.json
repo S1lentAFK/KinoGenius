@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "Batman Beyond: Return of the Joker",
+  "url": "https://www.imdb.com/tt0233298/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmRmODEwNzctYzU1MS00ZDQ1LWI2NWMtZWFkNTQwNDg1ZDFiXkEyXkFqcGdeQXVyNTI4MjkwNjA.jpg",
+  "description": "The Joker is back with a vengeance, and Gotham's newest Dark Knight needs answers as he stands alone to face Gotham's most infamous Clown Prince of Crime.",
+  "review": {
+    "author": "justin-fencsak",
+    "dateCreated": "2018-11-16",
+    "inLanguage": "English",
+    "heading": "One of the best DC Animated movies ever made...",
+    "reviewBody": "I'm about 47 minutes into it, and all i can say is..wow. The voice acting is top notch, the animation well done, and the music and action well paced. It's also the darkest of the batman beyond episodes, given it's pg-13 (unedited version) rating. I bought this for $1 at the local library and it's a good bargain. Definitely not for kids but for cartoon fans of all ages.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 29527,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  },
+  "contentRating": "12",
+  "genre": [
+    "Animation",
+    "Action",
+    "Crime"
+  ],
+  "datePublished": "2001-03-26",
+  "keywords": [
+    "clown",
+    "child abuse",
+    "dc comics",
+    "stabbing",
+    "shared universe"
+  ],
+  "duration": "PT1H16M",
+  "actors": [
+    {
+      "name": "Will Friedle",
+      "url": "https://www.imdb.com/name/nm0295115/"
+    },
+    {
+      "name": "Mark Hamill",
+      "url": "https://www.imdb.com/name/nm0000434/"
+    },
+    {
+      "name": "Kevin Conroy",
+      "url": "https://www.imdb.com/name/nm0175834/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Curt Geda",
+      "url": "https://www.imdb.com/name/nm0311435/"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Bob Kane",
+      "url": "https://www.imdb.com/name/nm0004170/"
+    },
+    {
+      "name": "Paul Dini",
+      "url": "https://www.imdb.com/name/nm0227704/"
+    },
+    {
+      "name": "Glen Murakami",
+      "url": "https://www.imdb.com/name/nm0613460/"
+    }
+  ]
+}

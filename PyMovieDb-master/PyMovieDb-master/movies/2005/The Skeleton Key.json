@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Skeleton Key",
+  "url": "https://www.imdb.com/tt0397101/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2YzNTlhZWYtNDQ2Ny00OTI0LWI0MzMtMWJkZTQ1MGVlMGVhXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+  "description": "A hospice nurse working at a spooky New Orleans plantation home finds herself entangled in a mystery involving the house's dark past.",
+  "review": {
+    "author": "AlanJ2",
+    "dateCreated": "2005-07-23",
+    "inLanguage": "English",
+    "heading": "Really good, also original",
+    "reviewBody": "After a slightly slow start, 'Skeleton Key' develops into an original, evocative and at times genuinely scary occult thriller so Ehren Kruger has redeemed himself after his truly wretched script for 'Ring 2'. I am not going into spoilers, which would be extremely destructive for a film of this kind but there are very clever character shifts, achieving a wonderful tension lock for the last 40 minutes or so mainly because all the performances are so good. The use of props and flash-backs is also wonderfully rich. The setting is contemporary New Orleans and its surrounds but this is mythical south and none the worse for that. The mix of influences includes 'Turn of the Screw', 'Rosemary's Baby', 'Burn Witch Burn and a few other classics but that is to give nothing away for it absorbs them into something quite new. My only criticism would be there is something a little confined about the movie--especially at its start-- but its style and pace and excitement utilise this triumphantly by the end.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 122190,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2005-07-29",
+  "keywords": "southern gothic, hoodoo, bound and gagged, soul transference, surprise ending",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Kate Hudson",
+      "url": "https://www.imdb.com/name/nm0005028/"
+    },
+    {
+      "name": "Peter Sarsgaard",
+      "url": "https://www.imdb.com/name/nm0765597/"
+    },
+    {
+      "name": "Joy Bryant",
+      "url": "https://www.imdb.com/name/nm0117146/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Iain Softley",
+      "url": "https://www.imdb.com/name/nm0812200/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ehren Kruger",
+      "url": "https://www.imdb.com/name/nm0472567/"
+    }
+  ]
+}

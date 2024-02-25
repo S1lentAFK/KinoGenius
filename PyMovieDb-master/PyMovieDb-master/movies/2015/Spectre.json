@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Spectre",
+  "url": "https://www.imdb.com/tt2379713/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWQ1MDE1NzgtNTQ4OC00ZjliLTllZDAtN2IyOTVmMTc5YjUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "description": "A cryptic message from James Bond&apos;s past sends him on a trail to uncover the existence of a sinister organisation named SPECTRE. With a new threat dawning, Bond learns the terrible truth about the author of all his pain in his mos...",
+  "review": {
+    "author": "masonsaul",
+    "dateCreated": "2021-09-30",
+    "inLanguage": "English",
+    "heading": "Slightly disappointing but still really good",
+    "reviewBody": "It&apos;s overly long, the pacing slows down too much in the second act and Christoph Waltz is massively underutilized but Spectre is still a really good Bond film that&apos;s thrilling, fun and epic whilst also being a more classical Bond film.\n\nDaniel Craig is reliably perfect once again but with more charisma and a lot more quips compared to his previous films. L\u00e9a Seydoux, Ralph Fiennes, Naomie Harris, Dave Bautista and Ben Whishaw are all great.\n\nSam Mendes&apos; direction is excellent, it&apos;s beautifully filmed and consistently stylish with extremely well filmed action sequences. The music by Thomas Newman is fantastic and the song by Sam Smith is also great.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 463490,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "datePublished": "2015-10-26",
+  "keywords": "spy,boat chase,sahara desert,secret society,kidnapping",
+  "duration": "PT2H28M",
+  "actor": [
+    {
+      "name": "Daniel Craig",
+      "url": "https://www.imdb.com/name/nm0185819/"
+    },
+    {
+      "name": "Christoph Waltz",
+      "url": "https://www.imdb.com/name/nm0910607/"
+    },
+    {
+      "name": "L\u00e9a Seydoux",
+      "url": "https://www.imdb.com/name/nm2244205/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sam Mendes",
+      "url": "https://www.imdb.com/name/nm0005222/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Logan",
+      "url": "https://www.imdb.com/name/nm0517589/"
+    },
+    {
+      "name": "Neal Purvis",
+      "url": "https://www.imdb.com/name/nm0701031/"
+    },
+    {
+      "name": "Robert Wade",
+      "url": "https://www.imdb.com/name/nm0905498/"
+    }
+  ]
+}

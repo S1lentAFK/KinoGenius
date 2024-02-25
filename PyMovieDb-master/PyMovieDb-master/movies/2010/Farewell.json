@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Ba wang bie ji",
+  "url": "https://www.imdb.com/tt0106332/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmFhZmM3Y2MtNDA1Ny00NjkzLWJkM2EtYWU1ZjEwYmNjZDQ0XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+  "description": "Two boys meet at an opera training school in Peking in 1924. Their resulting friendship will span nearly 70 years and endure some of the most troublesome times in China's history.",
+  "review": {
+    "author": "Pooty-T",
+    "dateCreated": "1999-01-20",
+    "inLanguage": "English",
+    "heading": "An Incredible Film. Don't skip it because it's foreign!",
+    "reviewBody": "I have seen this movie only once but it left an indelible impression on both me and my wife. It is a beautiful film with gorgeous photography, invisible direction and fantastic acting. What struck us most about this film was how many levels it had. It was a story about politics, love, life, faith, all rolled into one exceptional package. Yet none of these messages are hammered into you. They just flow over you in well-timed waves. Many of these Chinese movies are so interesting because of their unique perspective. It's wonderful to immerse yourself in a great film from a different culture. The many points of beauty in this movie are subtle, delicate and drenched in China's magnificent history. You have to experience it for yourself to understand, and once you do you'll fall in love with the world of Chinese cinema.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 32659,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "datePublished": "1994-01-07",
+  "keywords": "homosexuality,theater,peking opera,japanese occupation of china,chinese history",
+  "duration": "PT2H51M",
+  "actor": [
+    {
+      "name": "Leslie Cheung",
+      "url": "https://www.imdb.com/name/nm0002000/"
+    },
+    {
+      "name": "Fengyi Zhang",
+      "url": "https://www.imdb.com/name/nm0955342/"
+    },
+    {
+      "name": "Gong Li",
+      "url": "https://www.imdb.com/name/nm0000084/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kaige Chen",
+      "url": "https://www.imdb.com/name/nm0155280/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Pik-Wah Lee",
+      "url": "https://www.imdb.com/name/nm0497762/"
+    },
+    {
+      "name": "Wei Lu",
+      "url": "https://www.imdb.com/name/nm0523760/"
+    }
+  ]
+}

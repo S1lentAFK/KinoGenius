@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Freedomland",
+  "url": "https://www.imdb.com/tt0349467/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MzI3NDE4MF5BMl5BanBnXkFtZTcwNTIyNzYzMw@@._V1_.jpg",
+  "description": "A black police detective must solve a strange case of a kidnapped boy and deal with a big racial protest.",
+  "rating": {
+    "ratingCount": 17121,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2006-04-28",
+  "keywords": "racism,racist,african american,traumatic experience,search for a missing person",
+  "duration": "PT1H53M",
+  "actor": [
+    {
+      "name": "Julianne Moore",
+      "url": "https://www.imdb.com/name/nm0000194/"
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "url": "https://www.imdb.com/name/nm0000168/"
+    },
+    {
+      "name": "Edie Falco",
+      "url": "https://www.imdb.com/name/nm0004908/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joe Roth",
+      "url": "https://www.imdb.com/name/nm0005387/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Richard Price",
+      "url": "https://www.imdb.com/name/nm0697115/"
+    }
+  ],
+  "review": {
+    "author": "christian123",
+    "dateCreated": "2006-06-24",
+    "inLanguage": "English",
+    "heading": "Two strong performances can't save this weak melodrama",
+    "reviewBody": "Detective Lorenzo Council (Samuel Jackson) must separate the truth from the lies when a troubled woman (Julianne Moore) shows up at the emergency room claiming that a black man from the projects carjacked her, taking her 4-year-old son, who was sleeping in the back seat.\n\nFreedomland is a disappointing film that fails to take advantage of its talented cast and intriguing premise. The movie fails because Joe Roth is a terrible director. He tries to handle a bunch of different issues and he just doesn't mix them very well. He also introduces different characters and subplots but he doesn't build on them. Also, for a movie tackling serious issues, it was pretty unrealistic. The whole lock-down scenario was completely over the top and unnecessary. The kidnapping story had a bunch of holes and the way the cops handled the situation was pretty irresponsible. All the characters were stereotypes and most of them were unlikable. There were a lot of scenes dealing with racism but the film never actually dealt with them or settled them. The ending was total letdown and very little was actually settled, making the whole movie experience pointless.\n\nThe acting is the film's only strong point with Samuel L. Jackson giving the best performance. His performance felt a little familiar but it was still effective and his emotions never felt forced. Julianne Moore went completely over the top with her performance. She was annoying and completely unrealistic. Also, it was hard to feel sorry for her character because she was so unlikable and her actions were just terrible. Edie Falco came out of nowhere and she gave a pretty moving performance. She played the only likable character in the film and it was easy to feel sorry for her. The rest of the supporting actors were below average and no one else broke out.\n\nAlong with the acting, there were a few other good things about the film. There were a couple of engaging scenes that could have been better if the director had built on them. The script was also decent and it could have been turned into a good film. The movie also had an interesting style to it and at least it sort of engages the viewer. While the film was pretty messy, it held my attention until the end. Of course, the performances helped with that but the storyline had a chance to build. Unfortunately, it didn't and the movie ends with a whimper. In the end, Freedomland is an annoying melodrama with very few redeeming qualities. Rating 4/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  }
+}

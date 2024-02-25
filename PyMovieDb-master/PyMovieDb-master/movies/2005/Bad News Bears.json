@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Bad News Bears",
+  "url": "https://www.imdb.com/tt0408524/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzMzZDU1MTEtMDMzYy00MDhkLTg5MGMtYjFkNzYyMTc3YmU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "moonspinner55",
+    "dateCreated": "2005-12-29",
+    "inLanguage": "English",
+    "heading": "Rock 'n roll update--not all that different, but dispiriting...",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 22660,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Sport"
+  ],
+  "datePublished": "2005-08-12",
+  "keywords": "cigarette, male wearing shorts, baseball sport, big cleavage, team",
+  "duration": "PT1H53M",
+  "actor": [
+    {
+      "name": "Billy Bob Thornton",
+      "url": "https://www.imdb.com/name/nm0000671/"
+    },
+    {
+      "name": "Greg Kinnear",
+      "url": "https://www.imdb.com/name/nm0001427/"
+    },
+    {
+      "name": "Marcia Gay Harden",
+      "url": "https://www.imdb.com/name/nm0001315/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Richard Linklater",
+      "url": "https://www.imdb.com/name/nm0000500/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bill Lancaster",
+      "url": "https://www.imdb.com/name/nm0484111/"
+    },
+    {
+      "name": "Glenn Ficarra",
+      "url": "https://www.imdb.com/name/nm0275629/"
+    },
+    {
+      "name": "John Requa",
+      "url": "https://www.imdb.com/name/nm0720135/"
+    }
+  ]
+}

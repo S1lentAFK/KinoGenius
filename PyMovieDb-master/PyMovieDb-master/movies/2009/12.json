@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "12 Angry Men",
+  "url": "https://www.imdb.com/tt0050083/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg.jpg",
+  "description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+  "review": {
+    "author": "ElJimbooo",
+    "dateCreated": "2019-03-17",
+    "inLanguage": "English",
+    "heading": "12 men in a room. Genius.",
+    "reviewBody": "In my opinion, 12 Angry Men is the greatest film that has ever been created. A perfect example of less is more, the simplicity of the plot, the setting of the one room, and the acting talent of the 12 main cast members is enough to conquer the dramatic genre, and ensure that it remains a timeless classic.\n\nWhether you are a fan of the older generation of filmmaking or not, I implore you to experience this acting masterclass for yourself. More current movies such as Resevoir Dogs, which is superb in itself, have borrowed elements from 12 Angry Men, but trust me when I say there is nothing quite like this beautifully crafted drama. Watch it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 854725,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 9
+  },
+  "contentRating": "U",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "1957-04-10",
+  "keywords": "jury,dialogue driven,murder,courtroom,trial",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Henry Fonda",
+      "url": "https://www.imdb.com/name/nm0000020/"
+    },
+    {
+      "name": "Lee J. Cobb",
+      "url": "https://www.imdb.com/name/nm0002011/"
+    },
+    {
+      "name": "Martin Balsam",
+      "url": "https://www.imdb.com/name/nm0000842/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sidney Lumet",
+      "url": "https://www.imdb.com/name/nm0001486/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Reginald Rose",
+      "url": "https://www.imdb.com/name/nm0741627/"
+    }
+  ]
+}

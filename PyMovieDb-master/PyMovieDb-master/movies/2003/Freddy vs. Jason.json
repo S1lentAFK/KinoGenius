@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Freddy vs. Jason",
+  "url": "https://www.imdb.com/tt0329101/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODNlNWVjOTMtZjVjYy00MzRjLTg2MmQtNTM3MWVmZjFjYzgwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+  "description": "Freddy Krueger and Jason Voorhees return to terrorize the teenagers of Elm Street. Only this time, they're out to get each other, too.",
+  "datePublished": "2003-08-15",
+  "duration": "PT1H37M",
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Horror"
+  ],
+  "keywords": "freddy krueger character, jason voorhees character, mrs pamela voorhees character, masked murderer, serial child killer",
+  "rating": {
+    "ratingValue": 5.7,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingCount": 126570
+  },
+  "review": {
+    "author": "DarthBill",
+    "dateCreated": "2004-03-31",
+    "inLanguage": "English",
+    "heading": "For a mute murderer, Jason Voorhees sure felt like the hero of this piece",
+    "reviewBody": "Freddy's dead and he can't get the old killing spree going again, so he wakes up Jason Voorhees to scare the kids into wetting their pants so Freddy can feed off of their fear. But like the sorcerer's apprentice, Jason, once turned on cannot be turned off, so Freddy faces off with Jason for the right to be the #1 serial killer while a bunch of busty idiot girls look on. And as we all know, after the endless line of sequels, by this entry the killers' are our friends so really you're rooting for them and not the idiot teenagers.\n\nOf the teens, Jason Ritter is the only one who seems to know how to act (shame about his dad, John Ritter). Monica Keena is cute but she needs to lose the implants. What is Kelly Rowland doing in here? Robert Englund's as funny as ever, and Ken Kirzinger is a capable Jason. I still don't see why New Line Cinema didn't want to bring back Kane Hodder though. They say they wanted to take Jason in a new direction, but they DID NOT take Jason in a new direction. Jason's still the same hulking mute murderer he's always been, just a tad taller and bigger than before (and somehow he's got both of his eyes back). I don't see a big difference between Kane, Ken and all the rest, but Kane has professed great fondness and dedication to role of Jason, so I feel that if Kane was willing to play the part again (and it's hard to find people who are willing to be all painted up in gory make up mind you) then New Line should have accepted his services. It did feel that they were trying to make Jason out to be the more sympathetic of the two killers, but that doesn't change the fact that Jason killed the bulk of the film's teens.\n\nWell, anyway, you get the usual dose of sex, drugs, violence, rock & roll and below par acting. So truly turn off your brain and enjoy the mayhem.",
+    "reviewRating": {
+      "ratingValue": null,
+      "bestRating": null,
+      "worstRating": null
+    }
+  },
+  "actor": [
+    {
+      "name": "Robert Englund",
+      "url": "https://www.imdb.com/name/nm0000387/"
+    },
+    {
+      "name": "Ken Kirzinger",
+      "url": "https://www.imdb.com/name/nm0457090/"
+    },
+    {
+      "name": "Kelly Rowland",
+      "url": "https://www.imdb.com/name/nm0746714/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ronny Yu",
+      "url": "https://www.imdb.com/name/nm0950553/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Wes Craven",
+      "url": "https://www.imdb.com/name/nm0000127/"
+    },
+    {
+      "name": "Victor Miller",
+      "url": "https://www.imdb.com/name/nm0566699/"
+    },
+    {
+      "name": "Damian Shannon",
+      "url": "https://www.imdb.com/name/nm1226735/"
+    }
+  ]
+}

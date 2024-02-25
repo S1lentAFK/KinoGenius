@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Butterfly Effect",
+  "url": "https://www.imdb.com/tt0289879/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODNiZmY2MWUtMjFhMy00ZmM2LTg2MjYtNWY1OTY5NGU2MjdjL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": "Evan Treborn suffers blackouts during significant events of his life. As he grows up, he finds a way to remember these lost memories and a supernatural way to alter his life by reading his journal.",
+  "review": {
+    "author": "christian123",
+    "dateCreated": "2004-11-14",
+    "inLanguage": "English",
+    "heading": "Surprisingly a great movie",
+    "reviewBody": "Ashton Kutcher plays Evan Treborn, a troubled man who suffered blackouts as a child. When he discovers a way to travel back into the body of his past self, his time trips start to cause negative results on his present. As he uses his powers to try to fix his past and present, the effect escalates, creating alternate realities, many of which are worse than the past that he is trying to change.\n\nThe Butterfly Effect is a terrific thriller that keeps you on the edge of your seat. The previews looked very intense and the whole film is pretty much like that. It held onto the audience right at the start and it didn&apos;t let go until the end. The plot is nothing new but the execution was very nice. It offers a bunch of interesting and unpredictable twists so it&apos;s hard to see where things are going. The whole film is like that, just one long engaging thrill ride.\n\nThe acting is okay, some people did better than others. Ashton Kutcher is surprisingly good as Evan and he does a good job for his first serious movie. Amy Smart is very pretty and talented and she plays Kayleigh perfectly. The only person I didn&apos;t really like was Melora Walters. She was pretty wooden and unconvincing. Besides for her, the acting was pretty good and convincing. No one really did a bad job.\n\nThis film was directed and written by both Eric Bress and J. Mackye Gruber. They did make their mistakes but the film is still pretty good. The critics never gave this movie a chance. As soon as they heard Ashton Kutcher was in it, they all prepared to give it thumbs down. The movie moves around a lot that its hard to keep up but it also keeps you paying attention. Plenty of movies have gone back in time before but this one does it so more effectively that its almost original in that sense. The beginning is done well, the middle it starts dragging but it starts picking up and the ending is done extremely well. This is one of the best films of 2004 and certainly an entertaining one. In the end, this underrated gem is worth checking out. Rating 8/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 517851,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "datePublished": "2004-04-16",
+  "keywords": "butterfly effect,love,time travel,dog,child pornography",
+  "duration": "PT1H53M",
+  "actor": [
+    {
+      "name": "Ashton Kutcher",
+      "url": "https://www.imdb.com/name/nm0005110/"
+    },
+    {
+      "name": "Amy Smart",
+      "url": "https://www.imdb.com/name/nm0005442/"
+    },
+    {
+      "name": "Melora Walters",
+      "url": "https://www.imdb.com/name/nm0001828/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Eric Bress",
+      "url": "https://www.imdb.com/name/nm0107774/"
+    },
+    {
+      "name": "J. Mackye Gruber",
+      "url": "https://www.imdb.com/name/nm0344259/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "J. Mackye Gruber",
+      "url": "https://www.imdb.com/name/nm0344259/"
+    },
+    {
+      "name": "Eric Bress",
+      "url": "https://www.imdb.com/name/nm0107774/"
+    }
+  ]
+}

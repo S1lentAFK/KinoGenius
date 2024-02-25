@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "In Their Skin",
+  "url": "https://www.imdb.com/tt1790869/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU3ODczMTcwMF5BMl5BanBnXkFtZTcwMzg1MTA3OA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Howling_at_the_Moon_Reviews",
+    "dateCreated": "2023-07-15",
+    "inLanguage": "English",
+    "heading": "If I could get your favorite color, mother's maiden name, and childhood dog's name...",
+    "reviewBody": "So, I am seeing a lot of reviews that are saying this is a rip off of another movie called Funny Games... I have not seen a Funny Games yet so, there Is that lol\n\nAnyways, I quite liked this movie on multiple different fronts. The pacing was solid and engaging, the acting was far above average, and within my realm of knowledge it felt like an original concept.\n\nI don't think that this would have been nearly as successful as it was if it wasn't for the casting. Everyone did a really great job and sold the freighting nature of what was going on and the characters involved. A great example of ensemble acting. Shout out to my personal favorite, the crazy dad, excellent job.\n\nI wish we could've gotten a little bit more background on both of the families because it felt a little skimpy... And I wasn't a huge fan of the ending but it wasn't anything offensive. Would recommend (but will be checking back after watching Funny Games).\n\nEdit: ok, I'm back. Yeah... that was a pretty solid ripoff of Funny Games... But less brutal and still with its own twist. Not enough to make it truly original but enough to where you don't feel like you're watching the same exact movie. This is kinda like the PG-13 version comparatively and sans the weird cerebral stuff.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 5776,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2012-10-26",
+  "keywords": "little boy,forced sex,home invasion,husband wife relationship,psychopath",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Selma Blair",
+      "url": "https://www.imdb.com/name/nm0004757/"
+    },
+    {
+      "name": "Joshua Close",
+      "url": "https://www.imdb.com/name/nm1208725/"
+    },
+    {
+      "name": "James D'Arcy",
+      "url": "https://www.imdb.com/name/nm0195439/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeremy Power Regimbal",
+      "url": "https://www.imdb.com/name/nm3134012/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joshua Close",
+      "url": "https://www.imdb.com/name/nm1208725/"
+    },
+    {
+      "name": "Justin Tyler Close",
+      "url": "https://www.imdb.com/name/nm3634837/"
+    },
+    {
+      "name": "Jeremy Power Regimbal",
+      "url": "https://www.imdb.com/name/nm3134012/"
+    }
+  ]
+}

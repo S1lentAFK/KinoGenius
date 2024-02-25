@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Pathfinder",
+  "url": "https://www.imdb.com/tt0446013/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk5MDY0NTA1OV5BMl5BanBnXkFtZTcwNjE0MDM0MQ@@._V1_.jpg",
+  "description": "A Viking boy is left behind after his clan battles a Native American tribe. Raised within the tribe, he ultimately becomes their savior in a fight against the Norsemen.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "contentRating": "15",
+  "datePublished": "2007-04-20",
+  "duration": "PT1H39M",
+  "keywords": "viking,native american hunter,sword and shield,remake of norwegian film,viking ship",
+  "rating": {
+    "ratingCount": 46088,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "review": {
+    "author": "vampyrecowboy",
+    "dateCreated": "2009-02-21",
+    "inLanguage": "English",
+    "heading": "A good story with plenty of flaws",
+    "reviewBody": "While the story is good, the flaws begin to stand out.\n\nYes, all the little things that should have been important to the filmmakers in production and in filming.\n\nLike - airplanes in the sky.\n\nIt seems to be winter or early spring but snow doesn't stick to anything, nobody's face or skin turns overly cold or white or purple due to it. Snow doesn't turn to water when collecting on anybodies's face, the pelts they wear do not freeze after they fall through ice into the river Natives have very straight, clean teeth and very clean hair and skin - even after going through battle.\n\nVikings wear heavy amour but move swift, fast and easily through the forest.\n\nClimbing the edge of a mountain, nobody is freezing wearing virtually no clothing.\n\nThere are tire tracks in the mud.\n\nEven though a slew of swords are used and arrows are shot, no horses get injured.\n\nThere are a bunch of things like that - after watching the movie, just begins to make you wonder how this can be thought out and actually given an OK.\n\nSnow that blows all over the place, but in some areas of open space, there is none and then several feet away there is several feet of it.\n\nCaves with light coming in from all directions.\n\nSwords that seem to weigh as much as a can of pop - being easily flung across a field or lifted and swung without much force or effort.\n\nI can go on,but I won't.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "actor": [
+    {
+      "name": "Karl Urban",
+      "url": "https://www.imdb.com/name/nm0881631/"
+    },
+    {
+      "name": "Clancy Brown",
+      "url": "https://www.imdb.com/name/nm0000317/"
+    },
+    {
+      "name": "Moon Bloodgood",
+      "url": "https://www.imdb.com/name/nm1291227/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Marcus Nispel",
+      "url": "https://www.imdb.com/name/nm1197971/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Laeta Kalogridis",
+      "url": "https://www.imdb.com/name/nm0436164/"
+    },
+    {
+      "name": "Nils Gaup",
+      "url": "https://www.imdb.com/name/nm0310168/"
+    }
+  ]
+}

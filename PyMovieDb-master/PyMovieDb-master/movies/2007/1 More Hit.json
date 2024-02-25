@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "1 More Hit",
+  "url": "https://www.imdb.com/tt0972541/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY5NzE4MDg0M15BMl5BanBnXkFtZTcwMDI2ODM5Ng@@._V1_.jpg",
+  "description": "The filmmaker finds her friend, a once successful rap producer, living under a tree in Hollywood cleaning a crack pipe; from there the two try everything, including a reality show, to kick his habit.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 26,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Documentary",
+    "Music"
+  ],
+  "datePublished": "2007-03-11",
+  "keywords": "f rated,drugs",
+  "duration": "PT1H26M",
+  "actor": [
+    {
+      "name": "Akon",
+      "url": "https://www.imdb.com/name/nm1868102/"
+    },
+    {
+      "name": "Twink Caplan",
+      "url": "https://www.imdb.com/name/nm0135245/"
+    },
+    {
+      "name": "Shauna Garr",
+      "url": "https://www.imdb.com/name/nm0307975/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Shauna Garr",
+      "url": "https://www.imdb.com/name/nm0307975/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Shauna Garr",
+      "url": "https://www.imdb.com/name/nm0307975/"
+    }
+  ]
+}

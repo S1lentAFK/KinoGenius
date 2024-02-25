@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Blended",
+  "url": "https://www.imdb.com/tt1086772/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzc2ODI5NjAyMl5BMl5BanBnXkFtZTgwMzIyOTE4MDE@._V1_.jpg",
+  "description": "After a bad blind date, a man and woman find themselves stuck together at a resort for families, where their attraction grows as their respective kids benefit from the burgeoning relationship.",
+  "review": {
+    "author": "zhanna1963",
+    "dateCreated": "2014-10-08",
+    "inLanguage": "English",
+    "heading": "Great film",
+    "reviewBody": "I don't know why this film has had so many poor reviews. Myself and my husband loved it. We've loved all of Adam Sandlers films and this one delivered just as well as the rest. The chemistry between him and Drew Barrymore is as good as 50 First Dates, it was funny, we laughed all the way through, the storyline was fun and held gentle messages to any families in this situation therefore approaching potential sensitive subjects with tact and diplomatic wit.\n\nI watch and enjoy a range of film genres but in today's society where many things are far less censored and where daily we read in papers and see on our screens the horrible things people do in the name of whatever their intent and films that relay these and far worse depravities it's fun, refreshing and heartwarming to watch something like this.\n\nI read somewhere that Adam Sandler said making his films was like having one big vacation if that's true then why not? Who wouldn't like a job that felt like a holiday! When watching any of his films there's always the sense that the actors were having fun. I hope he keeps on making these fun feel good films for a long time. If you don't like them then don't watch them. There's still a solid place for his films and many people will continue to watch and enjoy them.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 142669,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2014-05-23",
+  "keywords": "father daughter relationship,mother son relationship,cartoon on tv,date,blind date",
+  "duration": "PT1H57M",
+  "actor": [
+    {
+      "name": "Adam Sandler",
+      "url": "https://www.imdb.com/name/nm0001191/"
+    },
+    {
+      "name": "Drew Barrymore",
+      "url": "https://www.imdb.com/name/nm0000106/"
+    },
+    {
+      "name": "Wendi McLendon-Covey",
+      "url": "https://www.imdb.com/name/nm1018488/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Frank Coraci",
+      "url": "https://www.imdb.com/name/nm0178997/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ivan Menchell",
+      "url": "https://www.imdb.com/name/nm0578771/"
+    },
+    {
+      "name": "Clare Sera",
+      "url": "https://www.imdb.com/name/nm0784771/"
+    }
+  ]
+}

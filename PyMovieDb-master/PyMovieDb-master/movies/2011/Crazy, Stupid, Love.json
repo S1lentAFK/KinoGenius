@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Crazy, Stupid, Love.",
+  "url": "https://www.imdb.com/tt1570728/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg2MjkwMTM0NF5BMl5BanBnXkFtZTcwMzc4NDg2NQ@@._V1_.jpg",
+  "description": null,
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2011-09-23",
+  "keywords": "divorce,marriage,unfaithfulness,adultery,marital problem",
+  "duration": "PT1H58M",
+  "rating": {
+    "ratingCount": 558997,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "review": {
+    "author": "TheMovieDiorama",
+    "dateCreated": "2018-02-24",
+    "inLanguage": "English",
+    "heading": "Crazy, Stupid, Love literally sums up my life right now.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Steve Carell",
+      "url": "https://www.imdb.com/name/nm0136797/"
+    },
+    {
+      "name": "Ryan Gosling",
+      "url": "https://www.imdb.com/name/nm0331516/"
+    },
+    {
+      "name": "Julianne Moore",
+      "url": "https://www.imdb.com/name/nm0000194/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Glenn Ficarra",
+      "url": "https://www.imdb.com/name/nm0275629/"
+    },
+    {
+      "name": "John Requa",
+      "url": "https://www.imdb.com/name/nm0720135/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dan Fogelman",
+      "url": "https://www.imdb.com/name/nm1557594/"
+    }
+  ]
+}

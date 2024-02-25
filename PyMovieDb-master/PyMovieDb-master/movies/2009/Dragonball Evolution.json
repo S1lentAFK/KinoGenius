@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Dragonball Evolution",
+  "url": "https://www.imdb.com/tt1098327/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTUyNjZkMjEtYmQ5OS00NzljLThiMmQtNWIwNTM1YjUyOWNjXkEyXkFqcGdeQXVyMTI0MzA4NTgw._V1_.jpg",
+  "description": "The young warrior Son Goku sets out on a quest, racing against time and the vengeful King Piccolo, to collect a set of seven magical orbs that will grant their wielder unlimited power.",
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "2009-04-08",
+  "keywords": "live action remake of anime,bad acting,no title at beginning,cake,sequel baiting",
+  "duration": "PT1H25M",
+  "actor": [
+    {
+      "name": "Justin Chatwin",
+      "url": "https://www.imdb.com/name/nm0154226/"
+    },
+    {
+      "name": "James Marsters",
+      "url": "https://www.imdb.com/name/nm0551346/"
+    },
+    {
+      "name": "Chow Yun-Fat",
+      "url": "https://www.imdb.com/name/nm0000334/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Wong",
+      "url": "https://www.imdb.com/name/nm0939128/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ben Ramsey",
+      "url": "https://www.imdb.com/name/nm0708870/"
+    },
+    {
+      "name": "Akira Toriyama",
+      "url": "https://www.imdb.com/name/nm0868066/"
+    }
+  ],
+  "review": {
+    "author": "TheLittleSongbird",
+    "dateCreated": "2011-03-09",
+    "inLanguage": "English",
+    "heading": "A contender for the worst live-action film for an animated TV series",
+    "reviewBody": "As bad as Inspector Gadget and The Last Airbender are, they look like masterpieces compared to Dragonball Evolution. The TV series was very, very good, the movie was half-baked and bland. The only good thing was James Marsters, while he mayn't look exactly like Piccolo he at least tries to capture the essence of the character. Just a shame he isn't in enough of the movie to elevate it even more.\n\nWhy do I say that Dragonball Evolution is a contender for the worst live-action film for an animated TV series? The scenery and costumes are nice to look at, but the cinematography does nothing for me, the editing is shoddy and the lighting is dull. The special effects don't impress either, they do distract rather than enhance and it doesn't help that some of them are half-baked.\n\nThe film is also too rushed, and in all honesty I was left bored by the end, nothing really interesting in my view happens. The story is juvenile and predictable, the dialogue is terrible either being cheesy or due to the delivery very rarely ringing true and the direction is bland. The acting is nothing to smile about, Goku and Yamuka especially are complete disasters and show a complete lack of acting ability. Not only that, the characters here are treated in the most banal way possible and are difficult to like as a result.\n\nOverall, a very poor movie. 1/10 Bethany Cox",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 78859,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 2.5
+  }
+}

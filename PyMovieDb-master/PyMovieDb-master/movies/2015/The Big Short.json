@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Big Short",
+  "url": "https://www.imdb.com/tt1596363/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDc4MThhN2EtZjMzNC00ZDJmLThiZTgtNThlY2UxZWMzNjdkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+  "description": "In 2006-2007 a group of investors bet against the United States mortgage market. In their research, they discover how flawed and corrupt the market is.",
+  "review": {
+    "author": "TheLittleSongbird",
+    "dateCreated": "2018-09-17",
+    "inLanguage": "English",
+    "heading": "Betting against corruption",
+    "reviewBody": "'The Big Short' fascinated me into seeing it without hesitation, had always wanted to see it but it took me a while to get a chance to do so. Have a lot of respect for any film that takes on complex serious subjects that absolutely should be portrayed and the talented cast. While the awards attention (particularly for the script) and critical acclaim (almost universal) interested me further. Plus it looked good. \n\nGood 'The Big Short' indeed was. Very good in fact and while it was not quite perfect it is deserving of the acclaim it got and still gets. Not quite one of the best films of the year for me but very close, with the good things being many and being exceptional in quality. 'The Big Short' took on a subject that needed to be told and holds relevance today and found myself admiring how it approached it while also making something of very high quality as an overall film.\n\nStructurally, 'The Big Short' can get a little complicated and not always easy to follow. Never incoherent as such, just sometimes not always as clear as it could have been.\n\nIt definitely would have benefitted from doing less than it did, perhaps not having as much going on and having less characters.\n\nHowever, 'The Big Short' is well-made with mostly slick photography, despite the odd shakiness that distracts a little, and a fine eye for detail. Furthermore it is smartly directed, keeping things involving throughout the over two hour length, paced in a way that it doesn't feel that long and one is not feeling the seconds.\n\nAll the cast are terrific and embody their characters instead of just playing them. Christian Bale's confident quirky performance rightly garnered him an Oscar nomination and Ryan Gosling has one of the film's more challenging roles and essential to anchoring it and he is suitably despicable, not a side we see much from him and it was both interesting and slightly unsettling to watch. Steve Carrell plays it straight while still adopting a jokiness that doesn't feel out of place, he is fun to watch while showing an anger and torment that makes him moving. Brad Pitt does well too and the cameos don't jar or bog things down.\n\nThe script is one of the reasons why 'The Big Short' works as well as it does and deserved its Oscar win. It does a great job entertaining and informing and doing it in a way that's taut, smart and making one feel the right emotions. Even though there are issues with the structure, the story is still incredibly compelling, with the interconnecting subplots being involving and developing the compellingly real characters well, and have a lot of admiration for its handling of the subject. It's a very serious, brave subject and not an easy one to bring to film but a subject that's a relevant and important one to tell, 'The Big Short' does remarkably in this aspect. It's always engaging, and it is also funny and informative while also making me feel shocked, angry and emotional as the events unfolded.\n\nOverall, very good with many wonderful things. 8/10 Bethany Cox",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 478481,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2016-01-22",
+  "keywords": "mortgage,finance,bank,banking,short selling",
+  "duration": "PT2H10M",
+  "actor": [
+    {
+      "name": "Christian Bale",
+      "url": "https://www.imdb.com/name/nm0000288/"
+    },
+    {
+      "name": "Steve Carell",
+      "url": "https://www.imdb.com/name/nm0136797/"
+    },
+    {
+      "name": "Ryan Gosling",
+      "url": "https://www.imdb.com/name/nm0331516/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Adam McKay",
+      "url": "https://www.imdb.com/name/nm0570912/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Charles Randolph",
+      "url": "https://www.imdb.com/name/nm1017488/"
+    },
+    {
+      "name": "Adam McKay",
+      "url": "https://www.imdb.com/name/nm0570912/"
+    },
+    {
+      "name": "Michael Lewis",
+      "url": "https://www.imdb.com/name/nm1034122/"
+    }
+  ]
+}

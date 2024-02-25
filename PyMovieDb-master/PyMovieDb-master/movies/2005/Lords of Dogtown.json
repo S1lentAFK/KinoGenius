@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Lords of Dogtown",
+  "url": "https://www.imdb.com/tt0355702/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDBhNGJlOTAtM2ExNi00NmEzLWFmZTQtYTZhYTRlNjJjODhmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+  "description": "The film follows the surf and skateboarding trends that originated in Venice, California during the 1970s.",
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2005-09-16",
+  "keywords": "venice beach california,pacific ocean park pier,skateboarding,1970s,title directed by female",
+  "duration": "PT1H47M",
+  "rating": {
+    "ratingCount": 57845,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "review": {
+    "author": "adavin65",
+    "dateCreated": "2007-12-22",
+    "inLanguage": "English",
+    "heading": "portrayal totally on target",
+    "reviewBody": "I grew up in California and this movie REALLY brought me back to the 70's and what was happening in the skateboard world. The actors were totally on mark with their portrayals of these guys and how things were back then in California at that time. I'm a girl and I was into skateboarding at that time. I saved my own money to buy my own boards. I even remember my mom came home one day and gave me an article from a magazine about Alva. I met him later in the 80's and he's a very down to earth guy. If you grew up in Cali at this time, you will LOVE this movie and if you didn't you will get the true idea of what it was like then. Awesome job guys on this film! A definite classic!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "actor": [
+    {
+      "name": "Heath Ledger",
+      "url": "https://www.imdb.com/name/nm0005132/"
+    },
+    {
+      "name": "Emile Hirsch",
+      "url": "https://www.imdb.com/name/nm0386472/"
+    },
+    {
+      "name": "Victor Rasuk",
+      "url": "https://www.imdb.com/name/nm0711559/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Catherine Hardwicke",
+      "url": "https://www.imdb.com/name/nm0362566/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stacy Peralta",
+      "url": "https://www.imdb.com/name/nm0672769/"
+    }
+  ]
+}

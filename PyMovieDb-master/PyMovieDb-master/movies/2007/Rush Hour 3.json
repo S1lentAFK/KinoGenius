@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Rush Hour 3",
+  "url": "https://www.imdb.com/tt0293564/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA0Nzg5NjQ0MDBeQTJeQWpwZ15BbWU3MDE4Mzg5NDE@._V1_.jpg",
+  "description": "After an attempted assassination on Ambassador Han, Lee and Carter head to Paris to protect a French woman with knowledge of the Triads' secret leaders.",
+  "review": {
+    "author": "TylerTrekker",
+    "dateCreated": "2007-08-11",
+    "inLanguage": "English",
+    "heading": "Chan is excellent! Tucker is hilarious!",
+    "reviewBody": "I wasn't expecting much walking into the theater. I mean, since it took them six long years to come out with the third installment, you'd think that this time around, the series has pretty much run out of energy. Plus, all of the bad reviews that I read before seeing it, didn't exactly make me feel that I was going to be impressed. \n\nOn the contrary, I was surprised by the performances of both Chan and Tucker. The story is fun, the characters are interesting, the comedy is sharp, and the action sequences are well done. \n\nIt was fun to watch the interplay between Tucker and Chan. Tucker being the outrageous, loud, and amusing Detective James Carter. And Chan, the straight-laced, 'good guy' Inspector Lee. The charisma is still there, just like it was since the first Rush Hour movie. This one seems to have plenty of more laughs and an even more exiting climax towards the end of the movie than the previous two. I definitely recommend seeing 'Rush Hour 3', for the comedy and action elements, and especially for fans of the series like myself.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 181803,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2007-08-10",
+  "keywords": "repeat sequel,cleavage,in the cross hairs,luxury car,giant",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Jackie Chan",
+      "url": "https://www.imdb.com/name/nm0000329/"
+    },
+    {
+      "name": "Chris Tucker",
+      "url": "https://www.imdb.com/name/nm0000676/"
+    },
+    {
+      "name": "Max von Sydow",
+      "url": "https://www.imdb.com/name/nm0001884/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brett Ratner",
+      "url": "https://www.imdb.com/name/nm0711840/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jeff Nathanson",
+      "url": "https://www.imdb.com/name/nm0622288/"
+    },
+    {
+      "name": "Ross LaManna",
+      "url": "https://www.imdb.com/name/nm0482780/"
+    }
+  ]
+}

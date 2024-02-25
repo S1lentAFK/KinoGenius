@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "One Day",
+  "url": "https://www.imdb.com/tt1563738/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3NTg2MDI3NF5BMl5BanBnXkFtZTcwMjc5MTA1NA@@._V1_.jpg",
+  "description": "After spending the night together on the eve of their college graduation, Dexter and Emma are shown each year on the same date to see where they are in their lives. They are sometimes together, and sometimes not.",
+  "review": {
+    "author": "achyutaghosh",
+    "dateCreated": "2011-11-23",
+    "inLanguage": "English",
+    "heading": "Love story of the year!",
+    "reviewBody": "Disclaimer first up- biased review, as I am a sucker for love stories.\\n\\nI used to think that Hollywood had stopped making emotionally involving love stories. Thank god they made One Day, then. Based on the best selling book by British author Dave Nicholls, the movie explores the intertwined lives of two protagonists of contrasting nature, yet fated to be together. The premise is novel, with the relationship explored though a peek into 15th July of each year, spread over 22 years. \\n\\nGood stories are brought to life by good acting, and here we have two superb exponents in lead roles- Jim Sturgess as Dexter and Anna Hathaway as Emma. Dexter leads the high profile life, a television anchor with success in all forms chasing him, always. But then his life is also hollow, his friends shallow, and in the end, a faces disillusionment and compromise. Emma dwells in obscurity mostly, but through sheer tenacity and belief achieves a modicum of success as a writer. They meet when they are 18, decide to remain lifelong friends, and they do remain so. In the meanwhile meandering through the vagaries of life, they are inexorably drawn towards each other, dependent on each other.\\n\\nChildhood sweethearts, even if long lost, when they do come together, they do get together without any questions asked- i say this having witnessed the same on a close friend of mine. And you cant help but fall in love with Emma and Dexter- their love story is so compelling and adorable, that you become a part of their story, you care for them, you laugh with them, and also cry, you want them to do what you would do, and yes, you desperately want a happy ending for them.\\n\\nAnd of course there is Anna Hathaway-suitably rumpled and grunge in the first half, and elegance and grace personified in the second, when she flashes her pearly whites, the world seems to be a better place to live.\\n\\nWhy do people in love get to be in love in the best of locations? One Day happens in picturesque Edinburgh, colourful London, and stylish Paris. And the best thing that makes it stand out among all love stories is that it is not predictable, till the very end. \\n\\nPeople and things change with time, but memories remain the same.- here&apos;s a movie that raises a toast to happy memories, a Must watch for mushy folks!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 163722,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2011-08-24",
+  "keywords": "male female friendship,best friend,loss of loved one,accidental death,run over by truck",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Anne Hathaway",
+      "url": "https://www.imdb.com/name/nm0004266/"
+    },
+    {
+      "name": "Jim Sturgess",
+      "url": "https://www.imdb.com/name/nm0836343/"
+    },
+    {
+      "name": "Patricia Clarkson",
+      "url": "https://www.imdb.com/name/nm0165101/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lone Scherfig",
+      "url": "https://www.imdb.com/name/nm0771054/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Nicholls",
+      "url": "https://www.imdb.com/name/nm0390141/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Score",
+  "url": "https://www.imdb.com/tt0227445/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDNjYmY1ZDEtM2I3YS00MDhmLTk5NDYtYzU5MTA4ZjIyYzJiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "An aging thief hopes to retire and live off his ill-gotten wealth with his lover when a young kid convinces him into doing one last heist that comes with a large payout.",
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2001-09-28",
+  "keywords": "race against time,neo noir,anti hero,sewer,career criminal",
+  "duration": "PT2H4M",
+  "rating": {
+    "ratingCount": 133509,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "review": {
+    "author": "Wizard-8",
+    "dateCreated": "2001-12-22",
+    "inLanguage": "English",
+    "heading": "Not bad, but...",
+    "reviewBody": "First of all, I didn't hate this movie. The acting was good, the locations were colorful and interesting, and I wasn't bored. (Even though the plot of the movie moved slowly, each scene was interesting for one thing or another.) But we've all seen this basic plot many times. Sometimes seeing a formula once again can be fun, if it's filled with energy or a different perspective. But this movie just seemed content to present what we've seen before, and add nothing new to them. If you're bored this movie will do, but I don't think it's one to go out of your way for. \n\n(P.S. - Fans of Brando and Bassett will be disappointed; not only are their roles very small, but their parts could easily have been written out with no real consequence to the story.)",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "actor": [
+    {
+      "name": "Robert De Niro",
+      "url": "https://www.imdb.com/name/nm0000134/"
+    },
+    {
+      "name": "Edward Norton",
+      "url": "https://www.imdb.com/name/nm0001570/"
+    },
+    {
+      "name": "Marlon Brando",
+      "url": "https://www.imdb.com/name/nm0000008/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Frank Oz",
+      "url": "https://www.imdb.com/name/nm0000568/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Daniel E. Taylor",
+      "url": "https://www.imdb.com/name/nm0852196/"
+    },
+    {
+      "name": "Kario Salem",
+      "url": "https://www.imdb.com/name/nm0758002/"
+    },
+    {
+      "name": "Lem Dobbs",
+      "url": "https://www.imdb.com/name/nm0229644/"
+    }
+  ]
+}

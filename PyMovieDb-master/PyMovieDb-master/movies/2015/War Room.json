@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "War Room",
+  "url": "https://www.imdb.com/tt3832914/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYyNTUxMjQwNF5BMl5BanBnXkFtZTgwNDY5MDIwNTE@._V1_.jpg",
+  "description": "A seemingly perfect family looks to fix their problems with the help of Miss Clara, an older, wiser woman.",
+  "review": {
+    "author": "Hellmant",
+    "dateCreated": "2016-01-27",
+    "inLanguage": "English",
+    "heading": "It's target audience, should be more than pleased.",
+    "reviewBody": "'WAR ROOM': Two and a Half Stars (Out of Five)\n\nAnother Christian drama flick, from the 'Kendrick Brothers'; the team that's also responsible for such previous 'worship-themed' films as 'FIREPROOF' and 'COURAGEOUS'. Alex Kendrick directed and co-wrote the movie, and Stephen Kendrick co-wrote and co-produced it. The story revolves around a couple, that turns to God; to fix their struggling marriage, with the help of an older, wiser, woman (named Miss Clara). The film was made on a budget of just $3 million, and it stars a cast of mostly unknown actors. I think it's a fairly decent Christian movie; compared to other, much worse, ones (I've seen recently). \n\nTony (T.C. Starling) and Elizabeth Jordan (Priscilla Shirer) seem to have it all; a nice house, two great jobs, and a polite young daughter (Alena Pitts). The couple are not happily married though, and their daughter feels resented. When Elizabeth, a realtor, attempts to sell a house, for a nice (older) lady, named Miss Clara (Karen Ambercrombie), she's inspired to renew her faith again. By doing so, Elizabeth also finds the courage to fix her troubled marriage; and save her struggling family.\n\nThe movie is filled with some cheesy dialogue, and bad acting (at times); but it also has a few good performances, and some inspiring moments (especially for those of faith). The low-budget shows, and it does feel (a lot) like a TV movie; but the film is still better than other Christian-themed flicks (that I've seen, in the past few years). It has a good message, and it's at least somewhat inspiring. Probably not something that will interest non-believers (at all); but it's target audience, should be more than pleased.\n\nWatch our movie review show 'MOVIE TALK' at: https://youtu.be/3D-Xa6uhK5U",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 15949,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2015-08-28",
+  "keywords": "submissive woman,jump rope competition,closet,christian film,prayer",
+  "duration": "PT2H",
+  "actor": [
+    {
+      "name": "Priscilla C. Shirer",
+      "url": "https://www.imdb.com/name/nm2068185/"
+    },
+    {
+      "name": "T.C. Stallings",
+      "url": "https://www.imdb.com/name/nm3956954/"
+    },
+    {
+      "name": "Karen Abercrombie",
+      "url": "https://www.imdb.com/name/nm1620433/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Alex Kendrick",
+      "url": "https://www.imdb.com/name/nm1731937/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Alex Kendrick",
+      "url": "https://www.imdb.com/name/nm1731937/"
+    },
+    {
+      "name": "Stephen Kendrick",
+      "url": "https://www.imdb.com/name/nm1726854/"
+    }
+  ]
+}

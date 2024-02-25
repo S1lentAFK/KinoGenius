@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The In-Laws",
+  "url": "https://www.imdb.com/tt0314786/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MDQ0MTA3NV5BMl5BanBnXkFtZTYwMDQxNDA3._V1_.jpg",
+  "description": "Right before his daughter's wedding, a mild-mannered foot doctor discovers that his future son-in-law's father is a free-wheeling international spy.",
+  "review": {
+    "author": "long-ford",
+    "dateCreated": "2009-02-22",
+    "inLanguage": "English",
+    "heading": "Modest script but Suchet, Brooks and Douglas are funny",
+    "reviewBody": "'The In-Laws' has a mediocre script but the actors successfully elevate the material. Albert Brooks in particular is very good as a neurotic podiatrist. Michael Douglas gives an energetic performance and the two work work well off each other. There are some consistent laughs throughout the film. David Suchet is fine as (MINOR SPOILERS) the gay international arms smuggler who falls in love with Brooks. The script is a gentle spoof of spy films and works well as long as you ignore the various plot holes. Douglas's family is shortchanged by the script, his relation with his estranged wife specially feels incomplete. Still watchable.\n\nOverall 7/10",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 17821,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Thriller"
+  ],
+  "datePublished": "2003-07-11",
+  "keywords": "fbi federal bureau of investigation,comedy farce,spy spoof,spy action,buddy comedy",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Albert Brooks",
+      "url": "https://www.imdb.com/name/nm0000983/"
+    },
+    {
+      "name": "Michael Douglas",
+      "url": "https://www.imdb.com/name/nm0000140/"
+    },
+    {
+      "name": "Ryan Reynolds",
+      "url": "https://www.imdb.com/name/nm0005351/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrew Fleming",
+      "url": "https://www.imdb.com/name/nm0281598/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Bergman",
+      "url": "https://www.imdb.com/name/nm0000921/"
+    },
+    {
+      "name": "Nat Mauldin",
+      "url": "https://www.imdb.com/name/nm0560894/"
+    },
+    {
+      "name": "Ed Solomon",
+      "url": "https://www.imdb.com/name/nm0004412/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Loving",
+  "url": "https://www.imdb.com/tt4669986/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE4NTI3NjIzOF5BMl5BanBnXkFtZTgwNjI0NTI5ODE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "bob-the-movie-man",
+    "dateCreated": "2017-04-05",
+    "inLanguage": "English",
+    "heading": "Hidden Vigour: Negga excels in another glimpse into America's racist past",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 36231,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2017-02-03",
+  "keywords": "racial segregation, interracial couple, based on true story, interracial marriage, human rights",
+  "duration": "PT2H3M",
+  "actor": [
+    {
+      "name": "Ruth Negga",
+      "url": "https://www.imdb.com/name/nm1550948/"
+    },
+    {
+      "name": "Joel Edgerton",
+      "url": "https://www.imdb.com/name/nm0249291/"
+    },
+    {
+      "name": "Will Dalton",
+      "url": "https://www.imdb.com/name/nm3286200/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeff Nichols",
+      "url": "https://www.imdb.com/name/nm2158772/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jeff Nichols",
+      "url": "https://www.imdb.com/name/nm2158772/"
+    },
+    {
+      "name": "Nancy Buirski",
+      "url": "https://www.imdb.com/name/nm1799233/"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Dolphin Tale 2",
+  "url": "https://www.imdb.com/tt2978462/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NzE4ODQwMV5BMl5BanBnXkFtZTgwMTc4OTA5MTE@._V1_.jpg",
+  "description": "The team of people who saved Winter's life reassemble in the wake of her surrogate mother's passing in order to find her a companion so she can remain at the Clearwater Marine Aquarium.",
+  "review": {
+    "author": "utgard14",
+    "dateCreated": "2014-11-29",
+    "inLanguage": "English",
+    "heading": "Good Sequel",
+    "reviewBody": "Enjoyable sequel that finds Winter the dolphin struggling with the death of her friend Panama. Meanwhile, Sawyer (Nathan Gamble) gets an offer to attend a special marine research program for three months but isn't sure he is ready to go. Like the first movie it's based on real events and the dolphins Winter and Hope appear here as themselves. The cast from the last one also returns, with reduced roles for Morgan Freeman, Ashley Judd, and Kris Kristofferson. But that's okay because the two kids (now young teens) and the dolphins are the stars. There's a budding romantic subplot with Sawyer and Hazel that is six kinds of cute. Also fun is the comic relief pelican that has a subplot involving a turtle. It's a nice, positive family movie with a likable cast and good message.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 9754,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "U",
+  "genre": [
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2014-10-03",
+  "keywords": "no opening credits,pelican,sequel,second part,aquarium",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Morgan Freeman",
+      "url": "https://www.imdb.com/name/nm0000151/"
+    },
+    {
+      "name": "Ashley Judd",
+      "url": "https://www.imdb.com/name/nm0000171/"
+    },
+    {
+      "name": "Nathan Gamble",
+      "url": "https://www.imdb.com/name/nm1997480/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Charles Martin Smith",
+      "url": "https://www.imdb.com/name/nm0001747/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Charles Martin Smith",
+      "url": "https://www.imdb.com/name/nm0001747/"
+    },
+    {
+      "name": "Karen Janszen",
+      "url": "https://www.imdb.com/name/nm0418321/"
+    },
+    {
+      "name": "Noam Dromi",
+      "url": "https://www.imdb.com/name/nm0238247/"
+    }
+  ]
+}

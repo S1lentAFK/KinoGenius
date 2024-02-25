@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Dilemma",
+  "url": "https://www.imdb.com/tt1578275/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzg3MDUwMTI1OV5BMl5BanBnXkFtZTcwNzY0NDIxNA@@._V1_.jpg",
+  "description": "A man discovers that his best friend's wife is having an affair.",
+  "datePublished": "2011-01-21",
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "duration": "PT1H51M",
+  "rating": {
+    "ratingCount": 56704,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "review": {
+    "author": "bethie0365",
+    "dateCreated": "2011-01-15",
+    "inLanguage": "English",
+    "heading": "bleh",
+    "reviewBody": "OK..OK..it wasn't 'awful', but it wasn't OH MY GAWD this is great either. The Dilemma is presented as a conflict that Vince Vaughn has when he sees his best friend and business partner's wife having an affair. Coulda , shoulda, woulda been a different movie had the following happened: 1. Winonna Ryder...isn't in the movie 2. Kevin James ..had more comedy rather than 'engineering' skills 3. Winonna and Kevin were 2 different actors that were the married couple in this flick AND, 4. they stuck to the storyline and stopped adding countless subplots that have no impact on the movie or the comedy or the acting.\n\nThis movie had a lot of potential, it just didn't produce it.\n\nVince and Jennifer were acceptable as an unwed committed couple but there wasn't enough balance between comedy and drama. I went into this expecting comedy and got more drama. It just wasn't Vince's best work, nor was it Ron's. \n\nEven the 'other man' (who's name escapes me) was just too far fetched to wrap my mind around in character. He was over he top. If he was like the guy from the Richard Gere, Dianne Lane movie, then it'd be more believable.\n\nI'm just not sure what I watched tonight. Vince had his typically banter and rhetoric in some scenes, but the movie was just too heavy and too over the top with story lines for me to count...or to recommend.\n\nI also didn't like Queen L in this...she overacted her scenes and her character just didn't seem to fit in enough to make it worth her paycheck. This is the same actress that got the Oscar nod for Chicago...completely overacting in this movie. \n\nI'd definitely wait for the DVD..as a rental. You will only want to see it once..",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "keywords": "chicago bears,chicago blackhawks,hockey game,chicago illinois,marital infidelity",
+  "actor": [
+    {
+      "name": "Vince Vaughn",
+      "url": "https://www.imdb.com/name/nm0000681/"
+    },
+    {
+      "name": "Kevin James",
+      "url": "https://www.imdb.com/name/nm0416673/"
+    },
+    {
+      "name": "Winona Ryder",
+      "url": "https://www.imdb.com/name/nm0000213/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ron Howard",
+      "url": "https://www.imdb.com/name/nm0000165/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Allan Loeb",
+      "url": "https://www.imdb.com/name/nm1615610/"
+    }
+  ]
+}

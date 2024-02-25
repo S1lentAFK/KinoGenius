@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Jumanji: Welcome to the Jungle",
+  "url": "https://www.imdb.com/tt2283362/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODQ0NDhjYWItYTMxZi00NTk2LWIzNDEtOWZiYWYxZjc2MTgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game.",
+  "review": {
+    "author": "Jack_C_",
+    "dateCreated": "2017-12-24",
+    "inLanguage": "English",
+    "heading": "Well done",
+    "reviewBody": "We were pleasantly surprised with the quality of this remake. The jokes are nonstop and witty. Characters are well fleshed out with each person playing a physical opposite of their persona outside of Jumanji. A little homage is paid to Alan Parrish at the beginning of the movie, and the movie continues, 20 years after the events of 1996.\n\nThe Rock is always fun, but shines as a scared nerd with no confidence. Karen Gillan is adorable as the socially awkward nerdy girl. Jack Black playing a self obsessed popular girl is laugh out loud funny. Kevin Hart as a shrunken jock with many assigned weaknesses is classic. \n\nAll in all a nearly perfect family comedy that rises above lowest common denominator humor. Worth the trip to see it on the big screen. You do not have to see the original to appreciate it. Not quite 10 stars because adult re-watch value is just not there.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 423846,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2017-12-21",
+  "keywords": "trapped in a game,jungle,adventurer,video game world,action hero",
+  "duration": "PT1H59M",
+  "actor": [
+    {
+      "name": "Dwayne Johnson",
+      "url": "https://www.imdb.com/name/nm0425005/"
+    },
+    {
+      "name": "Karen Gillan",
+      "url": "https://www.imdb.com/name/nm2394794/"
+    },
+    {
+      "name": "Kevin Hart",
+      "url": "https://www.imdb.com/name/nm0366389/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jake Kasdan",
+      "url": "https://www.imdb.com/name/nm0440458/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Chris McKenna",
+      "url": "https://www.imdb.com/name/nm0571344/"
+    },
+    {
+      "name": "Erik Sommers",
+      "url": "https://www.imdb.com/name/nm1273099/"
+    },
+    {
+      "name": "Scott Rosenberg",
+      "url": "https://www.imdb.com/name/nm0003298/"
+    }
+  ]
+}

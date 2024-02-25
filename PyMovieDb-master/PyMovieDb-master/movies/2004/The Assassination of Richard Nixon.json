@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Assassination of Richard Nixon",
+  "url": "https://www.imdb.com/tt0364961/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDUxNzYxNjk5Nl5BMl5BanBnXkFtZTcwNDg5NTcyMQ@@._V1_.jpg",
+  "description": "Based on real life events, Assassination is set in 1974 and centers on a businessman who decides to take extreme measures to achieve his American dream.",
+  "review": {
+    "author": "bart51285",
+    "dateCreated": "2004-12-15",
+    "inLanguage": "English",
+    "heading": "In short recommended.",
+    "reviewBody": "Thanks to my keen eye, I (one of few, I believe) caught that free tickets to above movie were being given away, and would be followed by a Q & A with the director, producer (the guy behind Y Tu Mama Tambien) and Sean Penn, who is the lead of the movie, and takes a large majority of the screen time. The movie comes to select U.S. theaters on Dec. 29th, and the widens. I&apos;ll mention the questions later, but first the review.\n\nA very good, yet flawed film. I use the term film not to be pretentious, but because it is primarily a film, not a movie in the blockbustery sense. It was produced independently, with the documenting the assassin, Sam Byck (Sean Penn.) It focuses on the year before he attempted (true story) to kill President Nixon in February, 1974 by flying a plane into the White House. However, the main thrust of the film was not politics, but character development.\n\nSean Penn is clearly one of the best actors today, very much in his prime. He once again proves it here. Byck is a man separated from his family, unsuccessful in his careers, and is marginalized from his life. We watch him obtain a sense of hopelessness, as he watches his dreams crumble away, as he blames the American system for his demise. Similar to Taxi Driver, in a lot of ways. Outstanding portrayal.\n\nThe only negative was the short span of the movie. It was 95 minutes, and left too little time for back story. There is not nearly enough exploration of how Byck got to the point where he could be pushed to kill. Another half hour of explaining his character would have made for a pantheon-level movie, instead of just a rather good one.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 26066,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2005-04-08",
+  "keywords": "assassination of president,based on real person,20th century,united states of america,downward spiral",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Sean Penn",
+      "url": "https://www.imdb.com/name/nm0000576/"
+    },
+    {
+      "name": "Naomi Watts",
+      "url": "https://www.imdb.com/name/nm0915208/"
+    },
+    {
+      "name": "Don Cheadle",
+      "url": "https://www.imdb.com/name/nm0000332/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Niels Mueller",
+      "url": "https://www.imdb.com/name/nm0007158/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kevin Kennedy",
+      "url": "https://www.imdb.com/name/nm1353930/"
+    },
+    {
+      "name": "Niels Mueller",
+      "url": "https://www.imdb.com/name/nm0007158/"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Captain Fantastic",
+  "url": "https://www.imdb.com/tt3553976/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE5OTM0OTY5NF5BMl5BanBnXkFtZTgwMDcxOTQ3ODE@._V1_.jpg",
+  "description": "In the forests of the Pacific Northwest, a father devoted to raising his six kids with a rigorous physical and intellectual education is forced to leave his paradise and enter the world, challenging his idea of what it means to be...",
+  "review": {
+    "author": "Michael_Elliott",
+    "dateCreated": "2017-01-24",
+    "inLanguage": "English",
+    "heading": "Perfectly Entertaining Mix of Laughs and Drama",
+    "reviewBody": "Captain Fantastic (2016) \n\n*** 1/2 (out of 4) \n\nViggo Mortensen plays Ben, a father of six who is raising his children in a forest somewhere in the Northwest. Sectioned off from the real world, Ben teaches his children the education he feels they need and he also puts them through a physical training that has them extremely fit. After the suicide of his wife and their mother, the seven hop on their bus and head towards the funeral.\n\nCAPTAIN FANTASTIC is certainly one of the better movies of 2016 and you could argue that it presents an extremely interesting and highly entertaining look at various social issues going on. Most people would look at this family and call them complete weirdos because of the way they live. Living in the woods. Hunting for your own food. No internet. No television. Basically they live like people used to before the world went a little mad. Director-writer Matt Ross really paints quite an entertaining picture of this family living off the grid yet it seems they have the most important things down pat.\n\nI was really surprised at this film because it works on so many levels. I guess the simplest thing to say is that this film and the family in it perfectly capture life as there are many highs and lows here as well as many laughs, many fights, many great times and certainly many bad. At times the film works as a perfect comedy and at other times it's the perfect family drama. I was really impressed at how the director managed to make all of these emotions work so well off one another and it really did make for a complete picture.\n\nAll six of the actors playing the kids do a remarkable job and we get other great supporting performances including the ones by Steve Zahn and Frank Langella. Langella deserves a lot of credit because he really plays quite the jerk here yet he does so in such a fashion to where you can see and feel where he is coming from and understand the character. With that said, there's no question that it's Mortensen who is the star of the picture and he easily steals it. This is such a deep and complex character that you really did need someone like Mortensen to make it work. This is especially true since the actor can pull off the hippie side of this character so well but he also nails the dramatic side as well as the side of being a father and realizing that you might have messed up along the way.\n\nCAPTAIN FANTASTIC is certainly an original picture, which isn't something that happens too often these days. We've seen movies about strange families before but this one really hits all the right notes.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 233167,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2016-09-09",
+  "keywords": "funeral,suicide,suicide of mother,reference to noam chomsky,loss of wife",
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Viggo Mortensen",
+      "url": "https://www.imdb.com/name/nm0001557/"
+    },
+    {
+      "name": "George MacKay",
+      "url": "https://www.imdb.com/name/nm1126657/"
+    },
+    {
+      "name": "Samantha Isler",
+      "url": "https://www.imdb.com/name/nm4705966/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Matt Ross",
+      "url": "https://www.imdb.com/name/nm0743671/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Matt Ross",
+      "url": "https://www.imdb.com/name/nm0743671/"
+    }
+  ]
+}

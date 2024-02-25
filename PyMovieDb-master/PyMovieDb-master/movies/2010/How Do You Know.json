@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "How Do You Know",
+  "url": "https://www.imdb.com/tt1341188/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTQyMzU4OTk1N15BMl5BanBnXkFtZTcwNTE5MTUxNA@@._V1_.jpg",
+  "description": "After being cut from the U.S.A. softball team and feeling a bit past her prime, Lisa finds herself evaluating her life and in the middle of a love triangle, as a corporate guy in crisis competes with her current, baseball-playing ...",
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2011-01-28",
+  "keywords": "fraud investigation,father son relationship,baseball player,baseball,ageism",
+  "duration": "PT2H1M",
+  "actor": [
+    {
+      "name": "Reese Witherspoon",
+      "url": "https://www.imdb.com/name/nm0000702/"
+    },
+    {
+      "name": "Paul Rudd",
+      "url": "https://www.imdb.com/name/nm0748620/"
+    },
+    {
+      "name": "Owen Wilson",
+      "url": "https://www.imdb.com/name/nm0005562/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James L. Brooks",
+      "url": "https://www.imdb.com/name/nm0000985/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James L. Brooks",
+      "url": "https://www.imdb.com/name/nm0000985/"
+    }
+  ],
+  "review": {
+    "author": "bvallred",
+    "dateCreated": "2010-12-20",
+    "inLanguage": "English",
+    "heading": "Not as bad as they're saying.",
+    "reviewBody": "Okay, so call me crazy, but I would NEVER give a movie a one star rating unless it was absolutely miserable. Like if I would rather leave the theater and the $10 I spent on it than watch it. How Do You Know was not a one star movie. The only problems I saw with it were that it was a little long. I thought they could have cut some scenes out and not only gotten away with it, but made it a more enjoyable experience. Also, with actors like Paul Rudd and Owen Wilson (plus how it was advertised as a comedy) I was expecting to do a lot more laughing in the movie than I really did. Don't get me wrong, it was funny, but not as much as you'd expect. I think if you go to this movie knowing it's more of a romantic comedy than a typical Owen Wilson/Paul Rudd style comedy then you'll be pleasantly surprised. I really enjoyed the movie, I thought it was very clever and surprisingly uplifting and I thought it was definitely worth the money.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 54397,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  }
+}

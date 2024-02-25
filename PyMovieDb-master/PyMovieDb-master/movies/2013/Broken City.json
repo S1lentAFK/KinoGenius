@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Broken City",
+  "url": "https://www.imdb.com/tt1235522/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY4OTIwODg4Ml5BMl5BanBnXkFtZTcwNjg0MDY1OA@@._V1_.jpg",
+  "description": "In a city rife with injustice, ex-cop Billy Taggart seeks redemption and revenge after being double-crossed by its most powerful figure: Mayor Nicholas Hostetler.",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "contentRating": "15",
+  "datePublished": "2013-03-01",
+  "duration": "PT1H49M",
+  "keywords": "father son relationship, gay slur, fellatio, title spoken by character, nipple piercing",
+  "actor": [
+    {
+      "name": "Mark Wahlberg",
+      "url": "https://www.imdb.com/name/nm0000242/"
+    },
+    {
+      "name": "Russell Crowe",
+      "url": "https://www.imdb.com/name/nm0000128/"
+    },
+    {
+      "name": "Catherine Zeta-Jones",
+      "url": "https://www.imdb.com/name/nm0001876/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Allen Hughes",
+      "url": "https://www.imdb.com/name/nm0400441/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brian Tucker",
+      "url": "https://www.imdb.com/name/nm3017566/"
+    }
+  ],
+  "review": {
+    "author": "ferguson-6",
+    "dateCreated": "2013-01-20",
+    "inLanguage": "English",
+    "heading": "We Broke this city on Mark and Crowe",
+    "reviewBody": "Greetings again from the darkness. The best Political crime dramas are complex films with multiple intersecting sub-plots, filled with stylish mis-direction and intense wordplay and back-stabbing between good guys and bad. What doesn't work is obvious. Especially obvious to the point where the audience is way ahead of the earnest, but clumsy protagonist. Luckily for director Allen Hughes (working solo without his brother Albert for the first time), he has stacked the film with a wonderful cast which makes it somewhat entertaining despite its major flaws.\\n\\nMark Wahlberg plays (what else?) a streetwise guy/cop/detective who tries to do the right thing but always seems to end up with the short straw. Russell Crowe is in fine form as the megalomaniac NYC mayor who plays dirty, but knows how to sell his stuff to the people ... even as he schemes to do great wrong. Their paths cross twice and neither time turns out so great for Wahlberg.\\n\\nAs for the rest of the cast, Barry Pepper is miscast as Crowe's mayoral opponent; Jeffrey Wright is intriguing as the Police Commissioner seemingly playing both sides against the middle; Catherine Zeta-Jones is Crowe's most unhappy and disloyal wife; Kyle Chandler plays Pepper's campaign manager (and evidently more); and Griffin Dunne is a rich Crowe supporter and knee deep in the evil scheme. Also interesting is Alona Tai as Wahlberg's wise-cracking assistant.\\n\\nWhile no details will be spilled here, there is a fun exchange during the debate between Crowe and Pepper, and well, the movie is just at its best when Crowe is on screen. Wahlberg's character is pretty much the same he has played a dozen times prior, but it seems the real issue is with first time screenwriter Brian Tucker. He is just overrun with ideas and because of that, most go undeveloped. A script clean-up from a screen veteran could have turned this one around. Still, if you have seen all the Oscar nominated films and are looking for a watchable January release, you could do worse. Just try not to think too much!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 83125,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  }
+}

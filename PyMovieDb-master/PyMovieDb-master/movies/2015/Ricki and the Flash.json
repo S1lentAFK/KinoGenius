@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Ricki and the Flash",
+  "url": "https://www.imdb.com/tt3623726/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY1NzIxNzkzM15BMl5BanBnXkFtZTgwMzAzNjIzNjE@._V1_.jpg",
+  "description": "A musician who gave up everything for her dream of rock-and-roll stardom returns home, looking to make things right with her family.",
+  "review": {
+    "author": "Hitchcoc",
+    "dateCreated": "2015-09-15",
+    "inLanguage": "English",
+    "heading": "Not a Great Film but Streep Brings It On",
+    "reviewBody": "How often have people said, it wasn't a great movie, but Meryl Streep is worth watching (I think of The Iron Lady, for example). In this one, a rock and roll singer (sort of reminded me of Bonnie Raitt) continues to ply her trade. In the past, she birthed three children, a girl and two boys, who have left her life. Her ex-husband calls her and says that the daughter is having serious trouble and it would be good for her to come to Indianapolis. She is totally broke and must use every available cent to get there and then live off her wealthy ex. He doesn't mind. But her daughter is hugely resentful of her, blaming her for her foibles. Played by Streep's actual daughter, she is a piece of work. Unfortunately, this slips into a maudlin, predictable presentation, much too contrived and simplistic. The final scenes, while a bit touching, are beyond the pale. But Streep again manages to make silk purses out of sow's ears.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 24687,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2015-09-04",
+  "keywords": "female protagonist,motherhood,self pity,homophobia,divorce",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Meryl Streep",
+      "url": "https://www.imdb.com/name/nm0000658/"
+    },
+    {
+      "name": "Kevin Kline",
+      "url": "https://www.imdb.com/name/nm0000177/"
+    },
+    {
+      "name": "Mamie Gummer",
+      "url": "https://www.imdb.com/name/nm0336701/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jonathan Demme",
+      "url": "https://www.imdb.com/name/nm0001129/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Diablo Cody",
+      "url": "https://www.imdb.com/name/nm1959505/"
+    }
+  ]
+}

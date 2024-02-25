@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "San Andreas",
+  "url": "https://www.imdb.com/tt2126355/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzZhYmQ2NGMtZmRmYi00NzgzLTllNmUtNDQwZDAxMmE3NzI0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "description": "In the aftermath of a massive earthquake in California, a rescue-chopper pilot makes a dangerous journey with his ex-wife across the state in order to rescue his daughter.",
+  "review": {
+    "author": "freshclean-66-318608",
+    "dateCreated": "2016-01-19",
+    "inLanguage": "English",
+    "heading": "San Andreas.",
+    "reviewBody": "Going into this film I knew it wasn't going to be one of the best films I've ever seen I just knew I would like the visual effects and the action, although there were some parts that wouldn't have happened in real life but that's standard Hollywood, it's expected. The story line and plot wasn't anything spectacular. It wasn't anything you haven't seen before, very clich\u00e9d and predictable. The Rock's performance in this film did give it that extra kick that was needed to make this film a bit more tolerable. If you're planning on seeing this film enjoy the ride for the visual effects and the action, don't expect very much more. I'm not going to say it's bad and I'm not going to say it's good. It's just a clich\u00e9d Hollywood work of art. You be the judge.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 254748,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "datePublished": "2015-05-28",
+  "keywords": "natural disaster,earthquake,san andreas fault,daughter,california",
+  "duration": "PT1H54M",
+  "actor": [
+    {
+      "name": "Dwayne Johnson",
+      "url": "https://www.imdb.com/name/nm0425005/"
+    },
+    {
+      "name": "Carla Gugino",
+      "url": "https://www.imdb.com/name/nm0001303/"
+    },
+    {
+      "name": "Alexandra Daddario",
+      "url": "https://www.imdb.com/name/nm1275259/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brad Peyton",
+      "url": "https://www.imdb.com/name/nm0679031/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Carlton Cuse",
+      "url": "https://www.imdb.com/name/nm0193681/"
+    },
+    {
+      "name": "Andre Fabrizio",
+      "url": "https://www.imdb.com/name/nm1061002/"
+    },
+    {
+      "name": "Jeremy Passmore",
+      "url": "https://www.imdb.com/name/nm0664920/"
+    }
+  ]
+}

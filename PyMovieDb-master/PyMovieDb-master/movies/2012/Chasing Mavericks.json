@@ -1,0 +1,80 @@
+
+
+{
+  "type": "Movie",
+  "name": "Chasing Mavericks",
+  "url": "https://www.imdb.com/tt1629757/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzc5MTU5MTk2OF5BMl5BanBnXkFtZTcwMzg3NjcxOA@@._V1_.jpg",
+  "description": "When young Jay Moriarity discovers that the mythic Mavericks surf break, one of the biggest waves on Earth, exists just miles from his Santa Cruz home, he enlists the help of local legend Frosty Hesson to train him to survive it.",
+  "contentRating": "PG",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2013-07-05",
+  "keywords": [
+    "younger version of character",
+    "time jump",
+    "mentor protege relationship",
+    "writing an essay",
+    "father son estrangement"
+  ],
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Jonny Weston",
+      "url": "https://www.imdb.com/name/nm4103976/"
+    },
+    {
+      "name": "Gerard Butler",
+      "url": "https://www.imdb.com/name/nm0124930/"
+    },
+    {
+      "name": "Elisabeth Shue",
+      "url": "https://www.imdb.com/name/nm0000223/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Apted",
+      "url": "https://www.imdb.com/name/nm0000776/"
+    },
+    {
+      "name": "Curtis Hanson",
+      "url": "https://www.imdb.com/name/nm0000436/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kario Salem",
+      "url": "https://www.imdb.com/name/nm0758002/"
+    },
+    {
+      "name": "Jim Meenaghan",
+      "url": "https://www.imdb.com/name/nm2249435/"
+    },
+    {
+      "name": "Brandon Hooper",
+      "url": "https://www.imdb.com/name/nm0393714/"
+    }
+  ],
+  "review": {
+    "author": "roadpoo",
+    "dateCreated": "2012-10-27",
+    "inLanguage": "English",
+    "heading": "FANTASTIC Surfing flick & actors",
+    "reviewBody": "For the life of me I don't know why it has a low review-- it's an amazing surfing movie. Heck, I'm not even a surfer and went into this very critical (I rarely go to sporty movies / inspirational flicks).\n\nIt's based on a TRUE story, has fantastic footage of surfing (after viewing how-to's I am now amazed at how they pulled this off), & features superb acting. \n\nIf you're looking for some ridiculous explosions, sex, and nonsensical action prepare to be impressed with something deeper. I loved how they didn't go with the norm simply to satisfy the masses.\n\nThis is a down-to-earth flick for people who are looking for something that really hits home and I would go spend $11 to re-watch this.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 34402,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  }
+}

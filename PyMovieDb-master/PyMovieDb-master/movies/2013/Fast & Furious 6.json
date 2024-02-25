@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Fast X",
+  "url": "https://www.imdb.com/tt5433140/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzZmOTU1ZTEtYzVhNi00NzQxLWI5ZjAtNWNhNjEwY2E3YmZjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+  "description": "Dom Toretto and his family are targeted by the vengeful son of drug kingpin Hernan Reyes.",
+  "review": {
+    "author": "akshatmahajan",
+    "dateCreated": "2023-06-15",
+    "inLanguage": "English",
+    "heading": "They need to stop",
+    "reviewBody": "The movie starts it story from the first ten minutes of Fast Five. The story starts out of nowhere and thr scenes are not even connected properly with each other. Any scene comes out of nowhere. The performances by all the cast members felt weak and the character development of the main Villian was bad. Jason&apos;s character wanted revenge in the movie but it more looked like he was a psycho who kills people for fun. The main problem with this franchise is saturated. It feels like we have seen all this millions of times and the action scenes doesn&apos;t amaze you.\\n\\nOverall, it was an average action movie and the franchise has reached fatigue.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 115015,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "datePublished": "2023-05-19",
+  "keywords": "fast and furious franchise,car,dominic toretto character,shared universe,blockbuster",
+  "duration": "PT2H21M",
+  "actor": [
+    {
+      "name": "Vin Diesel",
+      "url": "https://www.imdb.com/name/nm0004874/"
+    },
+    {
+      "name": "Michelle Rodriguez",
+      "url": "https://www.imdb.com/name/nm0735442/"
+    },
+    {
+      "name": "Jason Statham",
+      "url": "https://www.imdb.com/name/nm0005458/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Louis Leterrier",
+      "url": "https://www.imdb.com/name/nm0504642/"
+    },
+    {
+      "name": "Justin Lin",
+      "url": "https://www.imdb.com/name/nm0510912/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dan Mazeau",
+      "url": "https://www.imdb.com/name/nm2669197/"
+    },
+    {
+      "name": "Justin Lin",
+      "url": "https://www.imdb.com/name/nm0510912/"
+    },
+    {
+      "name": "Zach Dean",
+      "url": "https://www.imdb.com/name/nm3916149/"
+    }
+  ]
+}

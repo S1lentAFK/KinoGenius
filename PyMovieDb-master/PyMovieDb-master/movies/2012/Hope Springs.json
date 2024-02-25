@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hope Springs",
+  "url": "https://www.imdb.com/tt1535438/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIxODY2OTg2N15BMl5BanBnXkFtZTcwODAyODg5Nw@@._V1_.jpg",
+  "description": "After thirty years of marriage, a middle-aged couple attends an intense, week-long counseling session to work on their relationship.",
+  "review": {
+    "author": "spelaeologus",
+    "dateCreated": "2012-08-10",
+    "inLanguage": "English",
+    "heading": "Some plots aren't all about you... c'mon people!",
+    "reviewBody": "It's always interesting to read people's reviews of movies and instead of getting a review, we get a paragraphs full of narcissism, relentless scrutiny, and disappointment. What reviewers have to understand is that yours is not the only perspective on what makes a good movie, in fact, good.\\n\\nThe problem is, genuine realism is lost on those expecting the standard Hollywood-esque, brushed-canvasses, flawless plot lines, and riveting dialogue. Life is rarely like that and when a movie comes along that depicts some real-life humanity, with all our human idiosyncrasies and vulnerabilities, it gets dissected because a few outspoken individuals are expecting reality as its portrayed in Reality TV and not reality as most of us know it, as it really is.\\n\\nThis movie captured the tenuous nature of intimate relationships and all the things we don't say to each other. It is uncomfortable for most of us to be that exposed and vulnerable with another human being, and that is what Hope Springs capitalized on better than many other films of this genre. The communication difficulties Jones and Streep exhibited were masterfully portrayed. The dialogue wasn't always fun and lively, but that's what added to the authenticity of the plot and the main developing theme. If you're looking for mindless entertainment, something easy to digest, there's plenty out there. If you're up for a healthy dose of reality and a powerful, vital message, then give Hope Springs a viewing. I don't think you'll be disappointed. Happy film hunting!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 44114,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2012-09-14",
+  "keywords": "scene during end credits,story continued during end credits,man wears eyeglasses,woman wears eyeglasses,economy motel",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Meryl Streep",
+      "url": "https://www.imdb.com/name/nm0000658/"
+    },
+    {
+      "name": "Tommy Lee Jones",
+      "url": "https://www.imdb.com/name/nm0000169/"
+    },
+    {
+      "name": "Steve Carell",
+      "url": "https://www.imdb.com/name/nm0136797/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Frankel",
+      "url": "https://www.imdb.com/name/nm0291205/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Vanessa Taylor",
+      "url": "https://www.imdb.com/name/nm0961827/"
+    }
+  ]
+}

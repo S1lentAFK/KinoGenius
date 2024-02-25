@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Star Wars: The Clone Wars",
+  "url": "https://www.imdb.com/tt1185834/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTJiYTMyMGEtNjE0Zi00MzczLWI3ZWYtMmFkMDk0NWVjZGYzXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_.jpg",
+  "description": "After the Republic's victory on Christophsis, Anakin and his new apprentice, Ahsoka Tano, must rescue the kidnapped son of Jabba the Hutt. Political intrigue complicates their mission.",
+  "review": {
+    "author": "spdyeric",
+    "dateCreated": "2008-08-10",
+    "inLanguage": "English",
+    "heading": "Definitely not in the league of the other 6 films...",
+    "reviewBody": "I went to go see a special screening today at 1:00 at the Mainside theater in Camp Pendleton. My little brothers, 5 and 4, were very excited because they are huge Star Wars fans. I guess you could say I was excited too. Well, I did not know what I was going to expect, since this was the first animated Star Wars. First I must say this was not as grandeur as the other Star Wars, but I am pretty sure that it wasn't meant to be. And I know that this movie is going to kick off the new 100 episode cartoon. I was a little disappointed that they had new voice overs such as the one for Kenobi and Skywalker, however the new voice over for Kenobi is hard to tell that it is different. For Anakin, however, I did not think that there could be a more annoying voice than Hayden Christensen. YOu actually are going to miss Christen's voice. But I tried to not pay attention to that, which was very distracting, and focus on the whole picture, the plot. In my opinion, the plot was too simplistic for a Star Wars film because the whole entire movie is about Anakin and his new padawan, I forget her name, trying to rescue Jabba the Hutt's son. Thats it. Kenobi and Yoda are barely in the film. I loved the fight scenes and the ones at the end definitely pulled the movie up. And the grand scale scenes were pretty impressive. I wasn't too impressed with some the humor they tried to pull off. I mean some of the slapstick comedy sucked so bad that I almost wanted to leave ethe theater. there were some humorous moments that actually made me chuckle a bit but most of the comedy was meant for kids younger than 10 years old. Great movie for the little kids and people that are going to watch the TV series but you need to be a true Star Wars fan to love this movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 72442,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2008-08-15",
+  "keywords": "obi wan kenobi character,ahsoka tano character,clone wars,anakin skywalker character,mace windu character",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Matt Lanter",
+      "url": "https://www.imdb.com/name/nm1782667/"
+    },
+    {
+      "name": "Nika Futterman",
+      "url": "https://www.imdb.com/name/nm0296546/"
+    },
+    {
+      "name": "Tom Kane",
+      "url": "https://www.imdb.com/name/nm0437454/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dave Filoni",
+      "url": "https://www.imdb.com/name/nm1396048/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Henry Gilroy",
+      "url": "https://www.imdb.com/name/nm0319667/"
+    },
+    {
+      "name": "Steven Melching",
+      "url": "https://www.imdb.com/name/nm0017447/"
+    },
+    {
+      "name": "Scott Murphy",
+      "url": "https://www.imdb.com/name/nm0614693/"
+    }
+  ]
+}

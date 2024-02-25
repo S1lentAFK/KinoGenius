@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Good German",
+  "url": "https://www.imdb.com/tt0452624/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk3ODEzNDMxN15BMl5BanBnXkFtZTcwMzExODkzMQ@@._V1_.jpg",
+  "description": "While in post-war Berlin to cover the Potsdam Conference, an American military journalist is drawn into a murder investigation that involves his former mistress and his driver.",
+  "review": {
+    "author": "sidneysaffron",
+    "dateCreated": "2006-11-16",
+    "inLanguage": "English",
+    "heading": "Excellent story telling in the post World War II tradition of THE THIRD MAN",
+    "reviewBody": "The best film to evoke the period in recent memory. Blanchett and Clooney lead a strong cast and make a better film than expected from the novel's source material. Archival newsreel footage of 1945 Berlin and black and white cinematography put to very effective use. Toby McGuire as a self-serving, mean spirited weasel shows another side of the usually boyish charmer. Beau Bridges well cast as the US army brass who bears a self-righteous similarity to contemporary military higher-ups who think they have a corner on deciding the right thing to do. Secrets, lies, love and intrigue woven together to form a provocative study of moral ambiguities and tough choices in wartime. Highly recommended.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 25998,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "datePublished": "2007-01-19",
+  "keywords": "nazi,prostitute,head held underwater,sex shop,striptease",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "George Clooney",
+      "url": "https://www.imdb.com/name/nm0000123/"
+    },
+    {
+      "name": "Cate Blanchett",
+      "url": "https://www.imdb.com/name/nm0000949/"
+    },
+    {
+      "name": "Tobey Maguire",
+      "url": "https://www.imdb.com/name/nm0001497/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven Soderbergh",
+      "url": "https://www.imdb.com/name/nm0001752/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Paul Attanasio",
+      "url": "https://www.imdb.com/name/nm0001921/"
+    },
+    {
+      "name": "Joseph Kanon",
+      "url": "https://www.imdb.com/name/nm1874260/"
+    }
+  ]
+}

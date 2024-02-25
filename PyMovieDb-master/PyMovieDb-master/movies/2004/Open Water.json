@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Open Water",
+  "url": "https://www.imdb.com/tt0374102/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjQ5ODAyOTk3OF5BMl5BanBnXkFtZTcwNzQ1NjYyMQ@@._V1_.jpg",
+  "description": "Based on the true story of two scuba divers accidentally stranded in shark infested waters after their tour boat has left.",
+  "review": {
+    "author": "afdiazr",
+    "dateCreated": "2004-10-17",
+    "inLanguage": "English",
+    "heading": "If you are HUMAN, you will feel this movie",
+    "reviewBody": "This movie was never about character development. This movie is never about a couple having a fight. This movie is not about sharks. This movie was never meant to be filmed in a pro way. This movie is about how your will and your life falls to pieces when facing something that could be a nightmare and you feel you're totally awake. This movie is about desperation, about your life being taken from you with hours to feel how you will not be the same, because you know it's over for you, but you don't want to believe it... something we like to call hope. You may have entered Open Water willing to eat all your popcorn and coming out of the theater telling jokes and feeling life is here forever. But this movie is about the opposite. This is a wonderful film, and I thought Susan was going to be bit**ing all the time and stuff, but she didn't. The ending was so damn sad. I left the theater in a quiet fashion. I couldn't say a word to my girlfriend because I knew she felt for them too. You don't need character development when you turn on the news and see millions of unknowns blown to pieces or starving. You don't need it because you know they are like you. Made of the same matter, and as fragile as any other animal. Open Water is a beautiful piece of movie-making, and it's so human that it's almost unreal.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 56216,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Adventure",
+    "Drama",
+    "Horror"
+  ],
+  "datePublished": "2004-09-10",
+  "keywords": "based on true story,shark,lost at sea,diving,ocean",
+  "duration": "PT1H19M",
+  "actor": [
+    {
+      "name": "Blanchard Ryan",
+      "url": "https://www.imdb.com/name/nm0752436/"
+    },
+    {
+      "name": "Daniel Travis",
+      "url": "https://www.imdb.com/name/nm1047403/"
+    },
+    {
+      "name": "Saul Stein",
+      "url": "https://www.imdb.com/name/nm0825627/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chris Kentis",
+      "url": "https://www.imdb.com/name/nm0448900/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Chris Kentis",
+      "url": "https://www.imdb.com/name/nm0448900/"
+    }
+  ]
+}

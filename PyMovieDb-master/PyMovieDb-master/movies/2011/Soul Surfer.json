@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Soul Surfer",
+  "url": "https://www.imdb.com/tt1596346/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU2MDg0OTYyM15BMl5BanBnXkFtZTcwMjg5MjY0NA@@._V1_.jpg",
+  "description": "Bethany Hamilton, a professional surfer, loses her left arm in a shark attack. Unwilling to pay attention to the gravity of her situation, Bethany decides to get back into the ocean and surf again.",
+  "contentRating": "PG",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2011-09-23",
+  "keywords": "surfer,shark attack,based on autobiography,shark,hospital",
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "AnnaSophia Robb",
+      "url": "https://www.imdb.com/name/nm1455681/"
+    },
+    {
+      "name": "Dennis Quaid",
+      "url": "https://www.imdb.com/name/nm0000598/"
+    },
+    {
+      "name": "Helen Hunt",
+      "url": "https://www.imdb.com/name/nm0000166/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sean McNamara",
+      "url": "https://www.imdb.com/name/nm0573732/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sean McNamara",
+      "url": "https://www.imdb.com/name/nm0573732/"
+    },
+    {
+      "name": "Deborah Schwartz",
+      "url": "https://www.imdb.com/name/nm0777203/"
+    },
+    {
+      "name": "Douglas Schwartz",
+      "url": "https://www.imdb.com/name/nm0777209/"
+    }
+  ],
+  "review": {
+    "author": "UNOhwen",
+    "dateCreated": "2011-08-01",
+    "inLanguage": "English",
+    "heading": "Religious pandering",
+    "reviewBody": "8.\n\nThat's the number (low-ball) of the religious 'reviewers' listed - JUST here, on IMDb who've reviewed this film.\n\nThis film is a VERY obvious ode to Christianity. \n\nPeriod.\n\nOther reviewers pandered about saying that, explicitly, but, that IS what this purported 'mainstream' film is.\n\nI don't care WHAT your belief is, but, trying to put across a film, such as this - which is geared to bringing in (unsuspecting) families, is WRONG.\n\nIF it was marketed as what it IS - fine. But, that's NOT the case here.\n\nI find TRICKING - ANYONE - ESPECIALLY youngsters - what IS religious proselytizing dishonest.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 52569,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  }
+}

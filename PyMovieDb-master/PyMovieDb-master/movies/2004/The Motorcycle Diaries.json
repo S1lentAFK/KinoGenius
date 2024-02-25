@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Diarios de motocicleta",
+  "url": "https://www.imdb.com/tt0318462/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTNmZTgyMzAtMTUwZC00NjAwLTk4MjktODllYTY5YTUwN2YwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "Ernesto Guevara de la Serna, popularly known as Che, along with his friend Alberto Granado, decides to take a road trip across South America. His experiences on the journey transform him.",
+  "review": {
+    "author": "leloo dallas",
+    "dateCreated": "2004-04-28",
+    "inLanguage": "English",
+    "heading": "A sorely needed window on South America",
+    "reviewBody": "The Motorcycle Diaries does a great job of sketching out the character of Ernesto Guevara de la Serna, without any pandering to our knowledge of who he will become. There are no cheap shots and only one &apos;Che&apos; joke-to explain the origin of the nickname, which is a play on the Argentinian accent. It&apos;s a deeply felt examination of the events that inspired the development of a political consciousness, with only a few touches of the hagiography that has developed around &apos;el Che&apos; and those not until late in the film. Gael Garcia Bernal is completely believable and very human in the role, and there&apos;s real chemistry between him and Rodrigo de la Serna (any relation?) who plays his friend Granado, leading to a lot of funny moments-important, as ther are many stretches of the movie where it is just them and the scenery. The cinematography is truly gorgeous, and reminded me how little of the South American landscape we ever see on film in the U.S. The cinematographer has pulled off a major feat in shooting a period film in slightly grainy, sometimes shaky hand-held. No crane shots or sepia tinting here-the film quality immerses you in Guevara and Granado&apos;s experiences and makes them feel very immediate, without sacrificing any sense of history. A film like this is long overdue, and it deserves wide distribution. While the plot revolves around Che&apos;s awakening to the social struggles of South America (which are ongoing) there is a rich sense of place, and people, and beauty here. It seems to me that this is the first South American film in a few years that is not a world-weary documentary about social or political problems (and U.S. involvement in them), to open in the U.S. market. It&apos;s about the life of Che, yes, but it doesn&apos;t forget the people and problems that lead him into political activity, and will hopefully inspire viewers to pay more attention to what is going on around them, not only in Buenos Aires, Cuzco, Havana or Chiapas, but right next door.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 104445,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Adventure",
+    "Biography",
+    "Drama"
+  ],
+  "datePublished": "2004-08-27",
+  "keywords": "snow adventure,travel,road movie,motorcycle,20th century",
+  "duration": "PT2H6M",
+  "actor": [
+    {
+      "name": "Gael García Bernal",
+      "url": "https://www.imdb.com/name/nm0305558/"
+    },
+    {
+      "name": "Rodrigo de la Serna",
+      "url": "https://www.imdb.com/name/nm0209404/"
+    },
+    {
+      "name": "Mía Maestro",
+      "url": "https://www.imdb.com/name/nm0535502/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Walter Salles",
+      "url": "https://www.imdb.com/name/nm0758574/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ernesto &apos;Che&apos; Guevara",
+      "url": "https://www.imdb.com/name/nm0346466/"
+    },
+    {
+      "name": "Alberto Granado",
+      "url": "https://www.imdb.com/name/nm1424928/"
+    },
+    {
+      "name": "Jose Rivera",
+      "url": "https://www.imdb.com/name/nm1433580/"
+    }
+  ]
+}

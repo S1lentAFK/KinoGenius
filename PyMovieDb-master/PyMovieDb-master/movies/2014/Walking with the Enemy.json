@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "Walking with the Enemy",
+  "url": "https://www.imdb.com/tt1515208/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzUwOTg4MDg0MF5BMl5BanBnXkFtZTgwMTI1NzQyMTE@._V1_.jpg",
+  "description": "A young man, separated from his family in World War II, disguises himself as a Nazi S.S. Officer and uncovers more than just his family whereabouts.",
+  "review": {
+    "author": "emailme015",
+    "dateCreated": "2014-04-25",
+    "inLanguage": "English",
+    "heading": "Compelling Story",
+    "reviewBody": "Walking with the Enemy is a gripping tale of a horrible time in history. This emotionally wrenching movie is a unique re-telling of a real life story. I recommend watching this movie but caution you, if you do watch the film, please make sure you have plenty of Kleenex on hand to wipe away the tears you are sure to shed. This movie was interesting because it reveals the courage it took to impersonate a Nazi in order to save the lives of innocent people. It is sad to think of the heartache people had to live through and the lives that were lost due to demonic acts of inhumanity committed because of hate and a false sense of importance.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 2605,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Action",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2014-04-25",
+  "keywords": [
+    "year 1957",
+    "year 1975",
+    "year 1948",
+    "year 1946",
+    "year 1962"
+  ],
+  "duration": "PT2H4M",
+  "actor": [
+    {
+      "name": "Jonas Armstrong",
+      "url": "https://www.imdb.com/name/nm1765073/"
+    },
+    {
+      "name": "Ben Kingsley",
+      "url": "https://www.imdb.com/name/nm0001426/"
+    },
+    {
+      "name": "Hannah Tointon",
+      "url": "https://www.imdb.com/name/nm1482510/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mark Schmidt",
+      "url": "https://www.imdb.com/name/nm2005149/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kenny Golde",
+      "url": "https://www.imdb.com/name/nm0325374/"
+    },
+    {
+      "name": "Richard Lasser",
+      "url": "https://www.imdb.com/name/nm1103773/"
+    },
+    {
+      "name": "Jack Snyder",
+      "url": "https://www.imdb.com/name/nm0811468/"
+    }
+  ]
+}

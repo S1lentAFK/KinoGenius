@@ -1,0 +1,78 @@
+
+
+{
+  "type": "Movie",
+  "name": "Digimon: The Movie",
+  "url": "https://www.imdb.com/tt0259974/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE2NTAyMjUxMl5BMl5BanBnXkFtZTYwOTAwODQ3._V1_.jpg",
+  "description": "Throughout three different stories, Kari Kamiya and her friends take on explosive adventures involving digital creatures.",
+  "review": {
+    "author": "doug_funnie",
+    "dateCreated": "2000-10-09",
+    "inLanguage": "English",
+    "heading": "Surprisingly good!",
+    "reviewBody": "I watched this movie with my little brother and he is a Digimon fan. Now, I'm not a huge Digimon fan and I came with my brother because he couldn't go alone and I knew my parents did not want to see it. I came out of the movie really liking it, I enjoyed watching it. It's a fantastic movie for all Digimon fans, but kids parents may not like it. It does have some violence, but it's not bloody or full of guts. The violence is tasteful and the movie has it's funny moments! The animation is really the only thing about the movie that wasn't really great, but everything else about the movie is great!",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 7905,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2001-02-16",
+  "keywords": "neighborhood,whistle,pc,computer code,colorado",
+  "duration": "PT1H28M",
+  "actor": [
+    {
+      "name": "Lara Jill Miller",
+      "url": "https://www.imdb.com/name/nm0330070/"
+    },
+    {
+      "name": "Joshua Seth",
+      "url": "https://www.imdb.com/name/nm0293196/"
+    },
+    {
+      "name": "Bob Papenbrook",
+      "url": "https://www.imdb.com/name/nm0653071/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bob Buchholz",
+      "url": "https://www.imdb.com/name/nm0118176/"
+    },
+    {
+      "name": "Mamoru Hosoda",
+      "url": "https://www.imdb.com/name/nm0396074/"
+    },
+    {
+      "name": "Jeff Nimoy",
+      "url": "https://www.imdb.com/name/nm0632383/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Akiyoshi Hongo",
+      "url": "https://www.imdb.com/name/nm0393289/"
+    },
+    {
+      "name": "Jeff Nimoy",
+      "url": "https://www.imdb.com/name/nm0632383/"
+    },
+    {
+      "name": "Bob Buchholz",
+      "url": "https://www.imdb.com/name/nm0118176/"
+    }
+  ]
+}

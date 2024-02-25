@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Dance Flick",
+  "url": "https://www.imdb.com/tt1153706/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQ4NDc1MzE4NV5BMl5BanBnXkFtZTgwMzk2MTUwMjI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "steeleronaldr",
+    "dateCreated": "2023-05-22",
+    "inLanguage": "English",
+    "heading": "What did some people see in this movie",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 12712,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Music"
+  ],
+  "datePublished": "2009-08-21",
+  "keywords": "reference to pubic hair,female flatulence,parody comedy,dance,african american",
+  "duration": "PT1H23M",
+  "actor": [
+    {
+      "name": "Marlon Wayans",
+      "url": "https://www.imdb.com/name/nm0005541/"
+    },
+    {
+      "name": "Shawn Wayans",
+      "url": "https://www.imdb.com/name/nm0915465/"
+    },
+    {
+      "name": "Shoshana Bush",
+      "url": "https://www.imdb.com/name/nm2104193/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Damien Dante Wayans",
+      "url": "https://www.imdb.com/name/nm1349040/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Keenen Ivory Wayans",
+      "url": "https://www.imdb.com/name/nm0005540/"
+    },
+    {
+      "name": "Shawn Wayans",
+      "url": "https://www.imdb.com/name/nm0915465/"
+    },
+    {
+      "name": "Marlon Wayans",
+      "url": "https://www.imdb.com/name/nm0005541/"
+    }
+  ]
+}

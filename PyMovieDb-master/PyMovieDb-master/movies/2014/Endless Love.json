@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Endless Love",
+  "url": "https://www.imdb.com/tt0082329/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDQ3YWNhMjUtMjg3Zi00YmZhLTkzNDUtMzExN2FjZGMwNGIwXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+  "description": "Parental disapproval of a passionate romance between two teenagers leads to arguments, circumstance, insanity and tragedy.",
+  "review": {
+    "author": "betyblue3",
+    "dateCreated": "2005-06-21",
+    "inLanguage": "English",
+    "heading": "Somoe Clarification",
+    "reviewBody": "Jade's mother watched them on the stairs making love because she herself was in love or had a crush on David. Remember when he went to see her in NYC and she tried to kiss him?? Just because Jade's family is eccentric doesn't make it hard to believe. He attempted to set wet papers on fire so he could look like the hero when he saved everyone in the house just like the story that Tom Cruise told. The impression in the end of the movie is that they will be together when he gets out. Brook's acting in this was sub par. I read somewhere that during the sex scenes the director would pinch her big toe so her face showed more emotion...? Who knows if that is true or not. The book is absolutely fabulous and much more involved story line than the movie. If you read the book you would understand how difficult it would be to adapt it to the screen. I thought the movie was good and got it's point across of young love and obsession but the book was sensational.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 9478,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "1981-10-16",
+  "keywords": "sex scene,breasts,obsessive love,mental illness,arson",
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Brooke Shields",
+      "url": "https://www.imdb.com/name/nm0000222/"
+    },
+    {
+      "name": "Martin Hewitt",
+      "url": "https://www.imdb.com/name/nm0382063/"
+    },
+    {
+      "name": "Shirley Knight",
+      "url": "https://www.imdb.com/name/nm0004309/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Franco Zeffirelli",
+      "url": "https://www.imdb.com/name/nm0001874/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Scott Spencer",
+      "url": "https://www.imdb.com/name/nm0818098/"
+    },
+    {
+      "name": "Judith Rascoe",
+      "url": "https://www.imdb.com/name/nm0711083/"
+    }
+  ]
+}

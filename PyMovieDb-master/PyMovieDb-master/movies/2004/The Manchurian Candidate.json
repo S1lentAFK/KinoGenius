@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "The Manchurian Candidate",
+  "url": "https://www.imdb.com/tt0056218/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTY0ZTA1ZjUtN2MyNi00ZGRmLWExYmMtOTkyNzI1NGQ2Y2RlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+  "description": "An American POW in the Korean War is brainwashed as an unwitting assassin for an international Communist conspiracy.",
+  "review": {
+    "author": "mikerjones",
+    "dateCreated": "2013-06-16",
+    "inLanguage": "English",
+    "heading": "Even After 50 Years, It&apos;s Still The Best Political Thriller Out There",
+    "reviewBody": "There are simply not enough letters in the Summary to cover what this movie achieves. Angela Lansbury, in an interview on the DVD, says that everyone (all the actors) has at least one great scene in the movie. I would go a bit further than that and say everyone has great scenes...all of them. That is near to impossible to do, but John Frankenhemier did it.\n\nQuick Note: If you are watching on the DVD, absolutely DO NOT watch the interviews or specials before watching the movie; they are filled with spoilers! \n\nThis is considered by many to be Frank Sinatra&apos;s best movie; I agree. I&apos;m not a fan of Frank, but he gives a very deep and believable performance in this picture. He also was instrumental behind the scenes in getting the picture made. John Frankenheimer says so in an interview, with George Axelrod&apos;s agreement and Angela Lansbury also says she wasn&apos;t aware of Frank&apos;s crucial efforts at the time, but indicates she is now (1988).\n\nBe prepared to watch all the way through, at least once. If you must take a kitchen or bathroom break, pause the movie. The suspense and tension, maintained throughout, come from several sources, but chief among them is that very little is explained before it happens. In many ways, you learn at the same time as the characters.\n\nAnd yes, there is a twist in the climax, so don&apos;t blink. Just an excellent movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 79316,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "1962-11-08",
+  "keywords": "conspiracy,cold war,brainwashed assassin,communist conspiracy,korean war",
+  "duration": "PT2H6M",
+  "actor": [
+    {
+      "name": "Frank Sinatra",
+      "url": "https://www.imdb.com/name/nm0000069/"
+    },
+    {
+      "name": "Laurence Harvey",
+      "url": "https://www.imdb.com/name/nm0002131/"
+    },
+    {
+      "name": "Janet Leigh",
+      "url": "https://www.imdb.com/name/nm0001463/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Frankenheimer",
+      "url": "https://www.imdb.com/name/nm0001239/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Richard Condon",
+      "url": "https://www.imdb.com/name/nm0174410/"
+    },
+    {
+      "name": "George Axelrod",
+      "url": "https://www.imdb.com/name/nm0043480/"
+    },
+    {
+      "name": "John Frankenheimer",
+      "url": "https://www.imdb.com/name/nm0001239/"
+    }
+  ]
+}

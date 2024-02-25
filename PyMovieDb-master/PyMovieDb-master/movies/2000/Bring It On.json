@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Bring It On",
+  "url": "https://www.imdb.com/tt0204946/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmFlOWY1YTMtOGRkZC00ODRmLTlkNTQtZDBhNGU1Y2E0NmE1XkEyXkFqcGdeQXVyNDUzNzgxODE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Chris_Docker",
+    "dateCreated": "2000-10-22",
+    "inLanguage": "English",
+    "heading": "Flimsy stuff done rather well",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 104380,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Romance",
+    "Sport"
+  ],
+  "datePublished": "2000-10-20",
+  "keywords": "guilty pleasure,cheerleading squad,cheerleading,high school,directorial debut",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Kirsten Dunst",
+      "url": "https://www.imdb.com/name/nm0000379/"
+    },
+    {
+      "name": "Eliza Dushku",
+      "url": "https://www.imdb.com/name/nm0244630/"
+    },
+    {
+      "name": "Jesse Bradford",
+      "url": "https://www.imdb.com/name/nm0103038/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peyton Reed",
+      "url": "https://www.imdb.com/name/nm0715636/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jessica Bendinger",
+      "url": "https://www.imdb.com/name/nm0070566/"
+    }
+  ]
+}

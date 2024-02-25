@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Suspect Zero",
+  "url": "https://www.imdb.com/tt0324127/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTA1Zjc4MGQtYWZhOS00MTg4LWE1ZWItZTE5OWUxZDMwMGY1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A mysterious serial killer is preying on other serial killers and one FBI agent suspects there may be more to the vigilante than the obvious characteristics.",
+  "review": {
+    "author": "jmverville",
+    "dateCreated": "2005-07-02",
+    "inLanguage": "English",
+    "heading": "Something Was Lacking",
+    "reviewBody": "As I followed this film from beginning to end, I enjoyed the revelations of the various twists and I felt that the film even seemed to have a natural and proper progression to it, but at the same time, I felt that there was something very large missing. I think that the director ended up inserting the punchlines with too much subtlety, and the acting was too routine, while the action was too constant to be shocking or surprising... Whatever it may be, the film was lacking something large. The combination of all of the above seems to kill the feeling and plot of the film.\n\nI couldn&apos;t help but feel utterly indifferent in some parts of the film which are supposed to be exciting and thrilling, and this caused the film to let me down. I am not sure who is to blame, but in the end, this interesting plot with a lot of potential turned into &apos;just another movie.&apos;",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 20964,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2004-08-27",
+  "keywords": "serial killer,albuquerque new mexico,eyesight,sense of hearing,sense of smell",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Aaron Eckhart",
+      "url": "https://www.imdb.com/name/nm0001173/"
+    },
+    {
+      "name": "Ben Kingsley",
+      "url": "https://www.imdb.com/name/nm0001426/"
+    },
+    {
+      "name": "Carrie-Anne Moss",
+      "url": "https://www.imdb.com/name/nm0005251/"
+    }
+  ],
+  "director": [
+    {
+      "name": "E. Elias Merhige",
+      "url": "https://www.imdb.com/name/nm0580729/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Zak Penn",
+      "url": "https://www.imdb.com/name/nm0672015/"
+    },
+    {
+      "name": "Billy Ray",
+      "url": "https://www.imdb.com/name/nm0712753/"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+
+
+{
+  "type": "Movie",
+  "name": "Guest of Cindy Sherman",
+  "url": "https://www.imdb.com/tt0443524/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA3NzM1ODI1Nl5BMl5BanBnXkFtZTcwMjMwMjkzMg@@._V1_.jpg",
+  "description": "A documentary on art-scene commentator Paul Hasegawa-Overacker's relationship with enigmatic photographer Cindy Sherman.",
+  "review": {
+    "author": "whatithinkis",
+    "dateCreated": "2020-06-29",
+    "inLanguage": "English",
+    "heading": "Were I Cindy Sherman, et al",
+    "reviewBody": "I would do everything I could to expunge this . . . pedestrian . . . thing . . . from EVERYwhere. It more reduces than increases the invaluable mysteries.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 239,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": null,
+  "keywords": "art and entertainment documentary,arts,photography,new york art world,character name in title",
+  "duration": "PT1H28M",
+  "actor": [
+    {
+      "name": "Cindy Sherman",
+      "url": "https://www.imdb.com/name/nm0792398/"
+    },
+    {
+      "name": "John Waters",
+      "url": "https://www.imdb.com/name/nm0000691/"
+    },
+    {
+      "name": "Eric Bogosian",
+      "url": "https://www.imdb.com/name/nm0091899/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tom Donahue",
+      "url": "https://www.imdb.com/name/nm0231999/"
+    },
+    {
+      "name": "Paul Hasegawa-Overacker",
+      "url": "https://www.imdb.com/name/nm1827616/"
+    }
+  ],
+  "creator": []
+}

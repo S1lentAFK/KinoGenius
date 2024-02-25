@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Bad Grandpa",
+  "url": "https://www.imdb.com/tt3063516/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg4NjIwMTI5OV5BMl5BanBnXkFtZTgwNjU1MTMyMDE@._V1_.jpg",
+  "description": "86-year-old Irving Zisman takes a trip from Nebraska to North Carolina to take his 8 year-old grandson, Billy, back to his real father.",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2013-10-23",
+  "duration": "PT1H32M",
+  "contentRating": "15",
+  "rating": {
+    "ratingCount": 98003,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "review": {
+    "author": "shawneofthedead",
+    "dateCreated": "2014-01-16",
+    "inLanguage": "English",
+    "heading": "Lewd, crude, tasteless - and incredibly fun.",
+    "reviewBody": "In a world overrun by forgettable, banal reality television, Jackass has distinguished itself as a franchise with unexpected staying power. Who would have thought that a television show about pulling pranks on unsuspecting members of the public would go on to dominate the silver screen as well? That&apos;s precisely what Johnny Knoxville and his compatriots have done, however. Bad Grandpa marks the Jackass crew&apos;s fourth foray into the realm of feature films. The movie is itself more ambitious than its predecessors, betting that one character - an apparently doddering 86-year-old man - can carry an actual plot and an enormous arsenal of pranks. Surprisingly, it&apos;s a gamble that pays off: Bad Grandpa is frequently as funny as it is in bad taste.\\n\\nThe ostensible plot of it all goes something like this: Irving Zisman (Knoxville) is saddled with his grandson Billy (Jackson Nicoll) when his flaky daughter is sent to prison and his wife Ellie (Catherine Keener - yes, really!) passes away. Resolving to palm his grandson off to his ne&apos;er-do-well son-in-law, Irving embarks on a road trip across America - an adventure that takes them from strip club to diner, from funeral to beauty pageant, and everything in between. Along the way, they meet people from all walks of life: most of them unsuspecting, several of them kind, all of them pretty good sports.\\n\\nMuch of the thrill of watching Bad Grandpa comes from knowing that it is a hidden-camera comedy - one that draws its greatest laughs and amusement from people who have no clue that Irving isn&apos;t actually a senior citizen. Many of the pranks border on the tasteless (Irving gets a crucial body part caught in a vending machine, grandpa and grandson engage in a flatulence contest in a diner with disastrous results), but the horrified looks on the faces of innocent passers-by make it all work. There are even some moments of inspired comic genius: chiefly, the set-pieces that take place in a strip club and at a beauty pageant. (To spoil you any further, dear reader, would be criminal.) \\n\\nIt takes a pair of seasoned performers not to crack and give the game away. Knoxville, of course, has years of experience and bodily injury under his belt, and he is astonishingly good at playing a bawdy old man with very few social (and some might say moral) filters. The great surprise is Nicoll, a child with the most perfectly deadpan of faces - he&apos;s hilariously convincing whether he&apos;s asking a complete stranger to adopt him or re-enacting a scenario reminiscent of Abigail Breslin&apos;s wildly inappropriate grind-bump dance in Little Miss Sunshine.\\n\\nThis is - evidently - very far from great cinema, even though director Jeff Tremaine does actually manage to sneak a little more sentiment and plot into the film than you might expect. But great cinema does not always equate into a fun, brainless night out at the cinema - which Bad Grandpa, if you set your expectations as low as they can go, will almost indubitably provide you.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 98003,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "keywords": "dirty old man,road comedy,crude humor comedy,absurd comedy,dark comedy",
+  "actor": [
+    {
+      "name": "Johnny Knoxville",
+      "url": "https://www.imdb.com/name/nm0424216/"
+    },
+    {
+      "name": "Jackson Nicoll",
+      "url": "https://www.imdb.com/name/nm3850986/"
+    },
+    {
+      "name": "Gregorio",
+      "url": "https://www.imdb.com/name/nm0364739/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeff Tremaine",
+      "url": "https://www.imdb.com/name/nm0871860/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Johnny Knoxville",
+      "url": "https://www.imdb.com/name/nm0424216/"
+    },
+    {
+      "name": "Spike Jonze",
+      "url": "https://www.imdb.com/name/nm0005069/"
+    },
+    {
+      "name": "Jeff Tremaine",
+      "url": "https://www.imdb.com/name/nm0871860/"
+    }
+  ]
+}

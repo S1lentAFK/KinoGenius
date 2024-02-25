@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Country Strong",
+  "url": "https://www.imdb.com/tt1555064/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGY5MWJhM2UtZmNiMi00MTgyLThhYjMtYTE4ZDU1NThhOWZhXkEyXkFqcGdeQXVyNzYxNjU1ODQ@._V1_.jpg",
+  "description": "A rising country-music songwriter works with a fallen star to work their way to fame, causing romantic complications along the way.",
+  "review": {
+    "author": "vikings92503",
+    "dateCreated": "2010-07-16",
+    "inLanguage": "English",
+    "heading": "Great Movie",
+    "reviewBody": "My wife & I went to the screening of this movie (7/15/10)not knowing a lot about it. We just knew it had country music in it. Not being country music fans we were not sure how we would like it. We both thought it was a great movie. The acting, story & music was excellent.I am not able to go into too much detail abut the movie yet. But will when the trailers are released. I believe you will enjoy this movie greatly! It is hard to compare it with other movies I have seen but I guess you would call it a Drama / romance movie. I think it will appeal to people in their 20&apos;s and up. Maybe a date movie? This movie is NOT just for people that like Country Music. As I stated I am not a Country music fan but came out thinking I would not mind owning the soundtrack. It is a must see when it comes out in Dec. You will not be disappointed",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 18890,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2011-03-25",
+  "keywords": "songwriter,country music,singer,concert,singer songwriter",
+  "duration": "PT1H57M",
+  "actor": [
+    {
+      "name": "Garrett Hedlund",
+      "url": "https://www.imdb.com/name/nm1330560/"
+    },
+    {
+      "name": "Gwyneth Paltrow",
+      "url": "https://www.imdb.com/name/nm0000569/"
+    },
+    {
+      "name": "Leighton Meester",
+      "url": "https://www.imdb.com/name/nm1015262/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Shana Feste",
+      "url": "https://www.imdb.com/name/nm0275277/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Shana Feste",
+      "url": "https://www.imdb.com/name/nm0275277/"
+    }
+  ]
+}

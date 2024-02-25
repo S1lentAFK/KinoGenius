@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Corky Romano",
+  "url": "https://www.imdb.com/tt0250310/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2QwYjFmM2ItMmM1NS00NTAyLTkzNzQtNDdiMzg5ZjAwODdiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "The loser son of a Mafia honcho must go undercover for the FBI.",
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2001-10-12",
+  "keywords": "mafia,undercover,veterinarian,impersonating a police officer,vegetarian",
+  "duration": "PT1H26M",
+  "rating": {
+    "ratingCount": 13690,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.7
+  },
+  "review": {
+    "author": "skotgp",
+    "dateCreated": "2003-02-06",
+    "inLanguage": "English",
+    "heading": "A friend's 9-year-old daughter thought it was hilarious . . .tell you anything.",
+    "reviewBody": "Probably the only thing that got the movie up to a four for me is the fact that I love Peter Falk. One of the world's great portrayers of bumbling incompetence . . . and yet he is one of the only anchors that prevents this from being a chaotic disaster. As Pops Romano, he provides a respectable mix of gangster charm and straight man to Chris Kattan's manic foolishness. Respectable performances are also offered by Richard Roundtree as the harried boss, Vinessa Shaw as a talented female FBI agent bouncing her head off a glass ceiling and Fred Ward as Falk's advisor and Benedict Arnold.\\n\\nThe plot concept actually has some wonderful possibilities and, in the hands of a young Steve Martin or Chevy Chase, could have proved a great comedic vehicle. Kattan, who seems to idolize Ernest or Pee Wee Herman, just provides a muddled mess. Sadly, Peter Berg and Chris Penn, who portray his misfit brothers, both fall far short of their proven capability.\\n\\nThere are some very funny scenes, but they are far too few and separated by way too many boring ones. What I truly miss here is what always attracted me to the Leslie Neilsen movies. There is no 'second level' of wit riding over the slapstick. No cultural references that only the adults get. . no double entendre. . it is just silly.\\n\\nAnd, by the way, this doesn't all mean that I am recommending it for your 9-year-old, because hopefully they have better taste and less fascination with some of their body parts and their functions.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "actor": [
+    {
+      "name": "Chris Kattan",
+      "url": "https://www.imdb.com/name/nm0441592/"
+    },
+    {
+      "name": "Peter Falk",
+      "url": "https://www.imdb.com/name/nm0000393/"
+    },
+    {
+      "name": "Vinessa Shaw",
+      "url": "https://www.imdb.com/name/nm0005416/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rob Pritts",
+      "url": "https://www.imdb.com/name/nm0698125/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Garrett",
+      "url": "https://www.imdb.com/name/nm0308099/"
+    },
+    {
+      "name": "Jason Ward",
+      "url": "https://www.imdb.com/name/nm0911598/"
+    }
+  ]
+}

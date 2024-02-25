@@ -1,0 +1,55 @@
+
+
+{
+  "type": "Movie",
+  "name": "Crude",
+  "url": "https://www.imdb.com/tt1326204/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY3MzM1NzM5OV5BMl5BanBnXkFtZTcwMDgwMTM3Mg@@._V1_.jpg",
+  "description": "The story of lawsuit by tens of thousands of Ecuadorans against Chevron over contamination of the Ecuadorean Amazon.",
+  "review": {
+    "author": "hanagomolakova",
+    "dateCreated": "2009-10-15",
+    "inLanguage": "English",
+    "heading": "Brilliant documentary on a courageous battle",
+    "reviewBody": "This documentary about the Chevron-Texaso case and the struggle of a small law company trying to win a lawsuit against this oil giant and force them to take responsibility for the ecologic catastrophe they left behind when drilling oil in the Ecuador Amazon rainforest, leaving behind open or poorly sanitized oil pit holes, near or on top of \\u2013 yes, you heard me, on top of \\u2013 which people live and suffer from severe illnesses such as cancer, leukemia, or severe skin problems as a result.\\n\\nAmazing documentary, amazing story, which has so much reminded me of the courageous fight of David against Goliath combined with a sprinkle of Erin Brockowich. Amazing how a few can move mountains to help total strangers at a country far away from their ordinary world...",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 865,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "Unrated",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2010-01-15",
+  "keywords": "chevron,amazon rainforest,evil corporation,texaco,manmade environmental disaster",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Dan Ashley",
+      "url": "https://www.imdb.com/name/nm5026428/"
+    },
+    {
+      "name": "Pablo Fajardo",
+      "url": "https://www.imdb.com/name/nm4568622/"
+    },
+    {
+      "name": "Kent Robertson",
+      "url": "https://www.imdb.com/name/nm5026514/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joe Berlinger",
+      "url": "https://www.imdb.com/name/nm0075666/"
+    }
+  ],
+  "creator": []
+}

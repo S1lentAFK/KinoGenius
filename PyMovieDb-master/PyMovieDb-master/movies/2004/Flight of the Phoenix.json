@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "Flight of the Phoenix",
+  "url": "https://www.imdb.com/tt0377062/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYyMjY4MzcwNF5BMl5BanBnXkFtZTcwNDQ5MzcyMQ@@._V1_.jpg",
+  "description": "Survivors of a plane crash in the Mongolian desert work together to build a new plane.",
+  "review": {
+    "author": "ma-cortes",
+    "dateCreated": "2005-12-14",
+    "inLanguage": "English",
+    "heading": "Second version of the Robert Aldrich's classic with spectacular crashing on the desert",
+    "reviewBody": "The picture deals upon a varied bunch aboard airplane after locking-out an oil rig . The group is formed by an obstinate pilot (Dennis Quaid), a navigator pilot (Tyrese Gibson) and the passengers crew (Hugh Laurie, Miranda Otto , Jacob Vargas , Giovanni Rivisi..). The airplane crashes on desert of Mongolia (in first version was Sahara) and they must survive and hold numerous risks , odds , dangers , hardships and try to rebuild their aircraft from the wreckage in order to prevent the suffering caused for hostile elements : sandstorms , burn sun and Mongolian enemies. Misfortunes on desert atmosphere filling one with revulsion for the conditions in that unlucky are forced to exist stranded at uninhabited place : famine , warming , thirsty , bandits (in this adaptation have more importance than the first) and taking on themselves .\\n\\nMovie is a thoughtful change about the Hollywood screenplay of the plane that crashes in far countries as : \\u00a8Alive : Miracle of the Andes\\u00a8 or \\u00a8Airport\\u00a8 series . The film is based on Lukas Heller novel and screenwriter is the actor Edward Burns . It's an intelligent and dramatic movie developing the narration about the plane construction of riveting manner and with a semi-male star-studded , exception of the enticing Miranda Otto but in the original adaptation was totally masculine . Dennis Quaid acting as a stubborn pilot is nice although he doesn't reach to James Stewart who was greatest but he feels embittered considering himself guilty of the accident for his error . Tyrese Gibson as navigator is cool but in same role Richard Attemborough was better as a boozy alcoholic co-pilot . Giovanni Rivisi interpretation is first-rate but he copies the terrific playing by Hardy Kruger and imitates even the physical , bleaching the hair . Other secondary cast : Hugh Laurie , Jacob Vargas , Scott Campbell , Tony Curran , all of them are very fine . Sensational music score by Marco Beltrani. Motion picture was rightly directed by John Moore , though with no originality .",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 56567,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "datePublished": "2005-03-04",
+  "keywords": [
+    "aircraft cockpit",
+    "aerial camera shot",
+    "cell phone",
+    "desert adventure",
+    "eye patch"
+  ],
+  "duration": "PT1H53M",
+  "actor": [
+    {
+      "name": "Dennis Quaid",
+      "url": "https://www.imdb.com/name/nm0000598/"
+    },
+    {
+      "name": "Miranda Otto",
+      "url": "https://www.imdb.com/name/nm0001584/"
+    },
+    {
+      "name": "Giovanni Ribisi",
+      "url": "https://www.imdb.com/name/nm0000610/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Moore",
+      "url": "https://www.imdb.com/name/nm0601382/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lukas Heller",
+      "url": "https://www.imdb.com/name/nm0375355/"
+    },
+    {
+      "name": "Scott Frank",
+      "url": "https://www.imdb.com/name/nm0291082/"
+    },
+    {
+      "name": "Edward Burns",
+      "url": "https://www.imdb.com/name/nm0122653/"
+    }
+  ]
+}

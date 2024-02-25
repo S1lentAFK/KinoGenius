@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Logan",
+  "url": "https://www.imdb.com/tt3315342/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+  "description": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",
+  "review": {
+    "author": "silverkelt",
+    "dateCreated": "2017-08-14",
+    "inLanguage": "English",
+    "heading": "Solid and entertaining effort, better then the rest of the Wolverine stand alone&apos;s.",
+    "reviewBody": "With a bit more depth and dramatic flair then its predecessors, this is perhaps one of the best three or four superhero movies ever made, however it really could&apos;ve explored those depths a bit further and flushed them out. While, I appreciate the effort, those giving this movie a ten , seem a bit enthusiastic about the overall scope of this film. \n\nAt the same time, I will find it hard to believe, anyone , could in reality bring The Wolverine more to life then Hugh Jackman did, some actors, seem born to play certain roles. \n\nOverall? Worth the Watch!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 822237,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.1
+  },
+  "contentRating": "R",
+  "genre": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "datePublished": "2017-03-02",
+  "keywords": "x men,mutant,marvel comics,superhero,north dakota",
+  "duration": "PT2H17M",
+  "actor": [
+    {
+      "name": "Hugh Jackman",
+      "url": "https://www.imdb.com/name/nm0413168/"
+    },
+    {
+      "name": "Patrick Stewart",
+      "url": "https://www.imdb.com/name/nm0001772/"
+    },
+    {
+      "name": "Dafne Keen",
+      "url": "https://www.imdb.com/name/nm6748436/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Mangold",
+      "url": "https://www.imdb.com/name/nm0003506/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Mangold",
+      "url": "https://www.imdb.com/name/nm0003506/"
+    },
+    {
+      "name": "Scott Frank",
+      "url": "https://www.imdb.com/name/nm0291082/"
+    },
+    {
+      "name": "Michael Green",
+      "url": "https://www.imdb.com/name/nm0338169/"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Ghost Dog: The Way of the Samurai",
+  "url": "https://www.imdb.com/tt0165798/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5ZTc1NjAtMGNjNi00ZDY1LWIyM2EtZmM1NTcwMjkzNmMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": "An African-American Mafia hit man who models himself after the samurai of old finds himself targeted for death by the mob.",
+  "review": {
+    "author": "flingebunt",
+    "dateCreated": "2004-11-19",
+    "inLanguage": "English",
+    "heading": "I live by a code",
+    "reviewBody": "The movie is about codes of conduct, with 2 main codes that are dying out or are dead.\\n\\nOne is the code of the Mafia the other is the Samurai.\\n\\nThe basic plot is this. One of the Mafia wiseguys must be killed as he is having an affair with the daughter of the Mafia Don.\\n\\nThe person they get to do it is an African American who lives by the code of the Samurai and goes by the name of Ghost Dog. To be honest, I have met many Japanafiles so this is not so unbelievable. \\n\\nBut the code of the Mafia means that if you kill a wiseguy then you must be killed or the Mafia person who hired him must be killed.\\n\\nJim Jarmusch makes movies where the characters close relations based on only very small things. The Mafia wiseguy saved Ghost Dogs life, so now he must be his retainer. He lives off the land (lives on a roof, steals the cars and equipment he needs to do a job). There is also a friendship between 2 people who don&apos;t speak the same language. It is the connection between people that is so important here. \\n\\nIf you saw Dead man and like it, then you will love Ghost Dog. It is funny, serious, dark, tragic and beautiful all at the same time. Dead man missed the mark with some similar themes (though the DVD of Dead man has some deleted scenes that would have made the movie much better and reflected better the idea of small connections being strong connections).\\n\\nI loved this movie, and I don&apos;t expect everyone else to. Art house movies have small audiences for this exact reason. I know a lot of people who avoided this movie because they thought it was cheesy. The answer is, yes it is, and most of the bad reviews reflect this same idea.\\n\\nAlso I love the sound track, with lots of Phat beats, and uses Hip Hop (African American culture) to reflect Japanese culture.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 96292,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2000-04-28",
+  "keywords": "crime boss,samurai,african american,hitman,honor",
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Forest Whitaker",
+      "url": "https://www.imdb.com/name/nm0001845/"
+    },
+    {
+      "name": "Henry Silva",
+      "url": "https://www.imdb.com/name/nm0798328/"
+    },
+    {
+      "name": "John Tormey",
+      "url": "https://www.imdb.com/name/nm0868110/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jim Jarmusch",
+      "url": "https://www.imdb.com/name/nm0000464/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jim Jarmusch",
+      "url": "https://www.imdb.com/name/nm0000464/"
+    }
+  ]
+}

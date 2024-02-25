@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Le r\u00e8gne animal",
+  "url": "https://www.imdb.com/tt16606592/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjQ4NWE2YTctYTUyZC00MWIyLWFmODAtOTIyZmUwNjAxZDAxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "An adventure between a father and his son, in a world where some humans have started mutating into other animal species.",
+  "genre": [
+    "Adventure",
+    "Drama",
+    "Horror"
+  ],
+  "datePublished": "2023-10-04",
+  "keywords": "son,father son relationship,dog,dog pet,forest lake",
+  "duration": "PT2H8M",
+  "actor": [
+    {
+      "name": "Romain Duris",
+      "url": "https://www.imdb.com/name/nm0244151/"
+    },
+    {
+      "name": "Paul Kircher",
+      "url": "https://www.imdb.com/name/nm1712515/"
+    },
+    {
+      "name": "Ad\u00e8le Exarchopoulos",
+      "url": "https://www.imdb.com/name/nm2650819/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Thomas Cailley",
+      "url": "https://www.imdb.com/name/nm3619993/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Thomas Cailley",
+      "url": "https://www.imdb.com/name/nm3619993/"
+    },
+    {
+      "name": "Pauline Munier",
+      "url": "https://www.imdb.com/name/nm12028543/"
+    }
+  ],
+  "review": {
+    "author": "yusufpiskin",
+    "dateCreated": "2024-02-10",
+    "inLanguage": "English",
+    "heading": "Paul Kircher",
+    "reviewBody": "We are in a period when European cinema, which has always been ahead of Hollywood in terms of quality and quantity, has caught up with Hollywood in terms of technique and budget.\n\nWhile European cinema workers are using this technical skill and budget to serve the script, Hollywood is still looking for a shot.\n\nIn this sense, 'Le Regne Animal' is a very valuable production.\n\nIt was a movie that entered my radar as soon as I saw its poster at the French Cultural Center affiliated with the French consulate in Istanbul in 2022.\n\nC\u00e9sar Award director Thomas Cailley, with the support of his amazing behind-the-scenes team, manages to keep the audience's focus from the first seconds to the last moment of the film.\n\nBut the real reason why I'm waiting for this movie with great excitement is Paul Kircher.\n\nTake note of this name, keep an eye on it...\n\nAnd definitely watch this movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 3826,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": null
+}

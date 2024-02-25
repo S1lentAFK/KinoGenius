@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hellboy",
+  "url": "https://www.imdb.com/tt2274648/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODdkMDQzMzItZDc4YS00OGM4LTkxNTQtNjUzNzU0ZmJkMWY2XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg",
+  "description": "Caught between the worlds of the supernatural and human, Hellboy battles an ancient sorceress bent on revenge.",
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "2019-04-11",
+  "keywords": "demon,based on comic,superhero,magic,baba yaga",
+  "duration": "PT2H",
+  "actor": [
+    {
+      "name": "David Harbour",
+      "url": "https://www.imdb.com/name/nm1092086/"
+    },
+    {
+      "name": "Milla Jovovich",
+      "url": "https://www.imdb.com/name/nm0000170/"
+    },
+    {
+      "name": "Ian McShane",
+      "url": "https://www.imdb.com/name/nm0574534/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Neil Marshall",
+      "url": "https://www.imdb.com/name/nm0551076/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Cosby",
+      "url": "https://www.imdb.com/name/nm1184676/"
+    },
+    {
+      "name": "Mike Mignola",
+      "url": "https://www.imdb.com/name/nm0586005/"
+    }
+  ],
+  "review": {
+    "author": "mr_chatila",
+    "dateCreated": "2019-04-18",
+    "inLanguage": "English",
+    "heading": "Soulless lifeless dull af boring cgi action flick",
+    "reviewBody": "Had to write this review seeing how so many others give it a 10, seriously? There's almost nothing to like or admire about this compared to the great 2 previous hell-boy movies directed by the great Guillermo del Toro. So disappointing and so forgettable, it's a tragedy and sin to moviegoers they opted to make this ramshackle ruinous flick instead of ending the initial hellboy trilogy by making hellboy 3. The horde (audience) wins over the others who appreciate really good things I guess!!!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 97570,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  }
+}

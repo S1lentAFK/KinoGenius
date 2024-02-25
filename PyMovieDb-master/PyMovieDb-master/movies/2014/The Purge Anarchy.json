@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Purge: Anarchy",
+  "url": "https://www.imdb.com/tt2975578/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE2ODMxMTk1Nl5BMl5BanBnXkFtZTgwMDEzNjEzMTE@._V1_.jpg",
+  "description": "Three groups of people intertwine and are left stranded in the streets on Purge Night, trying to survive the chaos and violence that occurs.",
+  "review": {
+    "author": "TheMarwood",
+    "dateCreated": "2014-10-12",
+    "inLanguage": "English",
+    "heading": "Superior sequel",
+    "reviewBody": "The first film was a generic home invasion flick with a gimmick that reduced the 'all crime is legal for 12 hours' concept to essentially a narrative countdown clock device - a family must survive for such and such more time and the film wasted a decent premise. The Purge:Anarchy rights the wrongs of its predecessor and delivers on the high concept. The characters are thinly written, but played with adequate skill by the actors and a more than decent performance by Frank Grillo as the lead. The satire is about as subtle as a round of bullets to the chest and the film never feels comfortable during the few moments the story calms down to spend time developing the characters, but this was made for visceral thrills and B grade enjoyment. The mayhem is relentless and while the low budget certainly reduced the amount of arson to a few fleeting glimpses, the violent set pieces are staged with enough wit to make this sequel a nice surprise.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 161322,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "datePublished": "2014-07-25",
+  "keywords": "human hunting a human,2020s,anti hero,home invasion,los angeles california",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Frank Grillo",
+      "url": "https://www.imdb.com/name/nm0342029/"
+    },
+    {
+      "name": "Carmen Ejogo",
+      "url": "https://www.imdb.com/name/nm0252238/"
+    },
+    {
+      "name": "Zach Gilford",
+      "url": "https://www.imdb.com/name/nm1472917/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James DeMonaco",
+      "url": "https://www.imdb.com/name/nm0218621/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James DeMonaco",
+      "url": "https://www.imdb.com/name/nm0218621/"
+    }
+  ]
+}

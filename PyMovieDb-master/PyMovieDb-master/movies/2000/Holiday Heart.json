@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Holiday Heart",
+  "url": "https://www.imdb.com/tt0250425/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMzMjM3NzE2OF5BMl5BanBnXkFtZTcwNTQ4MzYxMQ@@._V1_.jpg",
+  "description": "A drag queen takes in a drug addict and her daughter and helps raise the daughter.",
+  "contentRating": "R",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2000-12-10",
+  "keywords": "lgbtq,drag queen,christmas,gay parent,gay protagonist",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Ving Rhames",
+      "url": "https://www.imdb.com/name/nm0000609/"
+    },
+    {
+      "name": "Alfre Woodard",
+      "url": "https://www.imdb.com/name/nm0005569/"
+    },
+    {
+      "name": "Jesika Reynolds",
+      "url": "https://www.imdb.com/name/nm0721778/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Townsend",
+      "url": "https://www.imdb.com/name/nm0870186/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Cheryl L. West",
+      "url": "https://www.imdb.com/name/nm0921985/"
+    }
+  ],
+  "review": {
+    "author": "originalsbyterry-44-687961",
+    "dateCreated": "2018-11-01",
+    "inLanguage": "English",
+    "heading": "Ving Rames BEST",
+    "reviewBody": "This is absolutely the very best film that Ving Rames has ever made. His performance was amazing, totally outside of his expected roles. His portrait of a gay drag queen is exquisite. It shows a depth of understanding and empathy which has not been seen is years. His performance is more than deserving of an academy award, not withstandinq that this offering does not qualify for such an award.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 1402,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  }
+}

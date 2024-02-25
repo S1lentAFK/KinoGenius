@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Batman: The Killing Joke",
+  "url": "https://www.imdb.com/tt4853102/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTdjZTliODYtNWExMi00NjQ1LWIzN2MtN2Q5NTg5NTk3NzliL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": "As Batman hunts for the escaped Joker, the Clown Prince of Crime attacks the Gordon family to prove a diabolical point mirroring his own fall into madness.",
+  "contentRating": "15",
+  "genre": [
+    "Animation",
+    "Action",
+    "Crime"
+  ],
+  "datePublished": "2016-07-25",
+  "keywords": "barbara gordon character,james gordon character,joker character,superhero,origin of villain",
+  "duration": "PT1H16M",
+  "actor": [
+    {
+      "name": "Kevin Conroy",
+      "url": "https://www.imdb.com/name/nm0175834/"
+    },
+    {
+      "name": "Mark Hamill",
+      "url": "https://www.imdb.com/name/nm0000434/"
+    },
+    {
+      "name": "Tara Strong",
+      "url": "https://www.imdb.com/name/nm0152839/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sam Liu",
+      "url": "https://www.imdb.com/name/nm0515005/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brian Azzarello",
+      "url": "https://www.imdb.com/name/nm1568755/"
+    },
+    {
+      "name": "Brian Bolland",
+      "url": "https://www.imdb.com/name/nm2082787/"
+    },
+    {
+      "name": "Bob Kane",
+      "url": "https://www.imdb.com/name/nm0004170/"
+    }
+  ],
+  "review": {
+    "author": "stormfury",
+    "dateCreated": "2016-07-30",
+    "inLanguage": "English",
+    "heading": "Not bad, but not great",
+    "reviewBody": "The complete first half hour was completely unnecessary, it may have intended to add emotional weight to when Barbara got shot, but the studio could have encapsulated that in a much better way. The main antagonist of the film failed to show up until half way through the movie which made the first half utterly boring. In addition, the needless sexualization of Batgirl and her 'special' relationship with Batman was also among the list of unnecessary items that were in this movie, this also contributed to ruining the characterization of Batman. The Joker was on point as one would usually expect. However, in summation the movie fails to capture the magic that the comic presented us with.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 61143,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  }
+}

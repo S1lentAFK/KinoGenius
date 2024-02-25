@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Friends with Money",
+  "url": "https://www.imdb.com/tt0436331/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE3Mjc3NjQ5NV5BMl5BanBnXkFtZTYwMjY5MjE3._V1_.jpg",
+  "description": "After she quits her lucrative job, Olivia finds herself unsure about her future and her relationships with her successful and wealthy friends.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2006-05-26",
+  "keywords": "money problems,marital problem,french maid costume,nervous breakdown,friendship",
+  "duration": "PT1H28M",
+  "actor": [
+    {
+      "name": "Jennifer Aniston",
+      "url": "https://www.imdb.com/name/nm0000098/"
+    },
+    {
+      "name": "Frances McDormand",
+      "url": "https://www.imdb.com/name/nm0000531/"
+    },
+    {
+      "name": "Catherine Keener",
+      "url": "https://www.imdb.com/name/nm0001416/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Nicole Holofcener",
+      "url": "https://www.imdb.com/name/nm0392237/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nicole Holofcener",
+      "url": "https://www.imdb.com/name/nm0392237/"
+    }
+  ],
+  "review": {
+    "author": "BenCurtisActor",
+    "dateCreated": "2021-11-28",
+    "inLanguage": "English",
+    "heading": "Great female leads. Weak everything else.",
+    "reviewBody": "The women were awesome however the script seemed a bit incomplete and the story ended abruptly. Frances MacDormand is amazing. A feel good movie with a sweet undertone.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 32002,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  }
+}

@@ -1,0 +1,52 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Czar of Black Hollywood",
+  "url": "https://www.imdb.com/tt3501904/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI0MDIyMDMwNl5BMl5BanBnXkFtZTgwMDcwMTAyMTE@._V1_.jpg",
+  "description": "The Czar of Black Hollywood is a documentary film chronicling the early life and career of African-American filmmaker Oscar Micheaux (1884-1951).\\n\\nOscar Micheaux was a towering figure even by today's standards. He was not only Ame...",
+  "review": {
+    "author": "paul-day-clone",
+    "dateCreated": "2015-05-03",
+    "inLanguage": "English",
+    "heading": "Great Story - Middling Execution",
+    "reviewBody": "I've seen a bunch of Micheaux's films so I was excited about this. Micheax, the pioneer of black film making, gets short shrift in mainstream cinema. A failed homesteading enterprise led him to novelize his experience, paving the way for a career as a successful novelist which led him to filmmaking. It makes for a helluva tale but, as presented here, the drama leaks slowly out. You'd expect an hour-seven minute film to whiz by. That's not the case. Instead, it's PBS-light without the benefit of multiple voices personalizing the story. When a train is mentioned, you see a train on screen. When Chicago is mentioned, you see a picture of Chicago. The graphics turn it more into an audiobook than a film. The narration does a decent job but he's flat and emotionless. \\n\\nThat said, the effort to research and create a movie about Micheaux must be heartily applauded even if the result turns out a movie without any real drive.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 13,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2014-12-24",
+  "keywords": null,
+  "duration": "PT1H",
+  "actor": [
+    {
+      "name": "Oscar Micheaux",
+      "url": "https://www.imdb.com/name/nm0584778/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bayer Mack",
+      "url": "https://www.imdb.com/name/nm5679045/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bayer Mack",
+      "url": "https://www.imdb.com/name/nm5679045/"
+    }
+  ]
+}

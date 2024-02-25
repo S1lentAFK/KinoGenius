@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Snow White and the Huntsman",
+  "url": "https://www.imdb.com/tt1735898/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGQ5MWNjZGQtOWM2ZC00MjEyLWEwODAtN2JmN2U0OWQ0YzI3XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+  "description": "In a twist to the fairy tale, the Huntsman ordered to take Snow White into the woods to be killed winds up becoming her protector and mentor in a quest to vanquish the Evil Queen.",
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "datePublished": "2012-05-30",
+  "keywords": "snow white,queen,magic,fairy tale,evil queen",
+  "duration": "PT2H7M",
+  "rating": {
+    "ratingCount": 301019,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "review": {
+    "author": "kittymallari",
+    "dateCreated": "2020-08-02",
+    "inLanguage": "English",
+    "heading": "Kristen Stewart ruined it",
+    "reviewBody": "Out of all the actors in the world, why did they choose Kristen Stewart to play the main role? Just why?",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "actor": [
+    {
+      "name": "Kristen Stewart",
+      "url": "https://www.imdb.com/name/nm0829576/"
+    },
+    {
+      "name": "Chris Hemsworth",
+      "url": "https://www.imdb.com/name/nm1165110/"
+    },
+    {
+      "name": "Charlize Theron",
+      "url": "https://www.imdb.com/name/nm0000234/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rupert Sanders",
+      "url": "https://www.imdb.com/name/nm2782185/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Evan Daugherty",
+      "url": "https://www.imdb.com/name/nm2489193/"
+    },
+    {
+      "name": "John Lee Hancock",
+      "url": "https://www.imdb.com/name/nm0359387/"
+    },
+    {
+      "name": "Hossein Amini",
+      "url": "https://www.imdb.com/name/nm0024925/"
+    }
+  ]
+}

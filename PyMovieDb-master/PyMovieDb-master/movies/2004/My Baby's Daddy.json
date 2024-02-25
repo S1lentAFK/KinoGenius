@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "My Baby's Daddy",
+  "url": "https://www.imdb.com/tt0332712/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQxOTIyMzQ1OF5BMl5BanBnXkFtZTcwMzQ0NTQyMQ@@._V1_.jpg",
+  "description": "A trio of young men (Griffin, Anderson, and Imperioli) are forced to grow up quick when their girlfriends all become pregnant around the same time.",
+  "review": {
+    "author": "bob the moo",
+    "dateCreated": "2007-05-06",
+    "inLanguage": "English",
+    "heading": "Roundly poor comedy that has very little to recommend it for",
+    "reviewBody": "Friends Lonnie, G and Dominic grew up together and, as young men, moved in together temporarily. Years later they are still in the same place living a party lifestyle and working days just to fund it. One night they hook up with their partners or lovers and all three find themselves fathers to be when they all turn out to be equally clueless in the world of birth control. More than a year later they are all facing the same challenges together as they enter fatherhood.\\n\\nWith the titles and cartoon sequence opening the film, I had low hopes for this film and I can confirm that the film just about met all of them. The plot is of course contrived and is little more than a series of unlikely relationship developments designed to generate laughs and easy comedy. Which is where it all falls flat because there is hardly a laugh to be had in the whole 90 minutes. The humour is not as base as it could have been but it never misses an opportunity to deliver jokes based on racial stereotypes, bodily functions and so on. None of it is very clever but I can see why some undemanding viewers would find it to be sufficient. The character stories behind it are mostly poorly conceived, poorly developed and poorly delivered.\\n\\nThe cast match this standard and deliver nothing more than the basics. Anderson mugs along like he often does and the effect is laziness incarnate. Griffin is equally poor and doesn't add much to anything although he isn't helped by his plot being so poor. Imperioli at least has the good taste to look a bit out of place and uncomfortable. The women in the cast are mainly eye candy but in fairness they are mostly very good eye candy. Parker is a growling clich\\u00e9 of a character that could only be more racially insensitive if played by Barbara Streisand in blackface. However Bacalso, Thomason and Ling are all stunning and sexy, regardless of what the material asks of them.\\n\\nA roundly poor comedy that has very little to recommend it for. Its aims seem low and in that regard it hits its targets, which will maybe suffice for some viewers, but not for me.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 3869,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.5
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2004-01-09",
+  "keywords": "animated opening credits,fatherhood,talking baby,animal costume,rapper",
+  "duration": "PT1H26M",
+  "actor": [
+    {
+      "name": "Eddie Griffin",
+      "url": "https://www.imdb.com/name/nm0341176/"
+    },
+    {
+      "name": "Anthony Anderson",
+      "url": "https://www.imdb.com/name/nm0026364/"
+    },
+    {
+      "name": "Michael Imperioli",
+      "url": "https://www.imdb.com/name/nm0408284/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Cheryl Dunye",
+      "url": "https://www.imdb.com/name/nm0243109/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Eddie Griffin",
+      "url": "https://www.imdb.com/name/nm0341176/"
+    },
+    {
+      "name": "Coke Daniels",
+      "url": "https://www.imdb.com/name/nm1248013/"
+    },
+    {
+      "name": "Brent Goldberg",
+      "url": "https://www.imdb.com/name/nm0325166/"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Gooby",
+  "url": "https://www.imdb.com/tt1132588/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjExMzU2MDc0MV5BMl5BanBnXkFtZTcwOTIzMTkyMg@@._V1_.jpg",
+  "description": "Eleven year old Willy&apos;s childhood toy, Gooby, comes to life as a real, live, six-foot tall monster who helps Willy through rough times, with hair-raising and hilarious adventures.",
+  "contentRating": "PG",
+  "genre": [
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2009-04-17",
+  "keywords": "canadian horror,psychosis,desperate laughter,not wearing pants,cat food",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Robbie Coltrane",
+      "url": "https://www.imdb.com/name/nm0001059/"
+    },
+    {
+      "name": "David James Elliott",
+      "url": "https://www.imdb.com/name/nm0004895/"
+    },
+    {
+      "name": "Ingrid Kavelaars",
+      "url": "https://www.imdb.com/name/nm0442635/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Wilson Coneybeare",
+      "url": "https://www.imdb.com/name/nm0174551/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Wilson Coneybeare",
+      "url": "https://www.imdb.com/name/nm0174551/"
+    }
+  ],
+  "review": {
+    "author": "windsweptme",
+    "dateCreated": "2010-09-30",
+    "inLanguage": "English",
+    "heading": "A waste of good talent and looks...",
+    "reviewBody": "WHEN is someone going to write a GOOD script for David James Elliott?? He&apos;s proved well beyond any doubt that he can carry a good show/movie, working for some of the biggest and successful names in the business. Now he&apos;s doing kid movies and obviously poor script opportunities. I&apos;ve been amazed at what he&apos;s had to stoop to, to support his family.\\n\\nWhere is Bellisario now? What about Bellisario&apos;s next new series?; or even an updating of his character from JAG? I&apos;ve heard many people miss the show and are upset to only find an occasional episode on USA network/channel. Many feel it could have a comeback with more current times and themes. It is, after all, the semi-spin-off for NCIS 1 and 2, frequently strolling many JAG actors and characters through the story lines. I&apos;d LOVE to see DJE in a good solid role again, playing the type of character he can challenge and make his own, and not be canceled after a season...\\n\\nGo for shows that aren&apos;t duplicates of all the others. Look what USA network/channel has done with unique story lines; no carbon copy shows, and they are QUITE successful. Find one that fits D J Elliott because the man deserves much better than he&apos;s been offered. Pretty soon the poor guy will be lowered to commercials--- when you really have at least a Pierce Brosnan and potentially a Tom Selleck at hand;-- if he could get a chance to really work out some of his better challenges as an actor.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 975,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 2.9
+  }
+}

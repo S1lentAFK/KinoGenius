@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Gridiron Gang",
+  "url": "https://www.imdb.com/tt0421206/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzk4NTAwNTAzN15BMl5BanBnXkFtZTcwNjczODYzMQ@@._V1_.jpg",
+  "description": "Teenagers at a juvenile detention center, under the leadership of their counselor, gain self-esteem by playing football together.",
+  "review": {
+    "author": "the-movie-guy",
+    "dateCreated": "2006-09-14",
+    "inLanguage": "English",
+    "heading": "Realistic look at our juvenile justice system",
+    "reviewBody": "(Synopsis) The movie is based on a true story of a juvenile detention camp probation officer Sean Porter (Dwayne 'The Rock' Johnson), who is frustrated by the 75% recidivism rate of the teenage felons that he is responsible for at Camp Kilpatrick. Sean Porter, a former college football star, comes up with an idea to form a football team. Porter believes that football will teach the teenage inmates what it takes to be responsible, teammates, and be winners for the first time, not losers. Porter and probation officer, Malcolm Moore (Xzibit) become the coaches, and they only have 4 weeks to get a team together before their first game. The juveniles must give up their gang rivalries on the gridiron to unite as a team.\\n\\n(My Comment) You may think that this is just another football movie, but you would be wrong. This is one intense movie that gives you a realistic look into the lives and attitudes of teenage gang members, and their mindset that life means nothing to them when it comes to being disrespected by other gang members. Coach Porter was able to change their ways and give the young men a second chance, and they were better for it. You may be surprised that the Rock actually did a fine job of acting as Coach Porter. You must stay to the very end during the credits, because they show scenes from the documentary of the actual people. (Columbia Pictures, Run time 2:00, Rated PG-13)(8/10)",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 80443,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2007-02-02",
+  "keywords": "los angeles california,california,football team,football coach,american football",
+  "duration": "PT2H5M",
+  "actor": [
+    {
+      "name": "Dwayne Johnson",
+      "url": "https://www.imdb.com/name/nm0425005/"
+    },
+    {
+      "name": "Xzibit",
+      "url": "https://www.imdb.com/name/nm0944702/"
+    },
+    {
+      "name": "L. Scott Caldwell",
+      "url": "https://www.imdb.com/name/nm0129749/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Phil Joanou",
+      "url": "https://www.imdb.com/name/nm0423333/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jeff Maguire",
+      "url": "https://www.imdb.com/name/nm0536587/"
+    },
+    {
+      "name": "Jac Flanders",
+      "url": "https://www.imdb.com/name/nm0281133/"
+    }
+  ]
+}

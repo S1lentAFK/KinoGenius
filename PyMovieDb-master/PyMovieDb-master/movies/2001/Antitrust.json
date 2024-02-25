@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Antitrust",
+  "url": "https://www.imdb.com/tt0218817/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2VjZjdiYzYtOGU1Yy00NWZmLWEyOTUtM2QzMDlkYmRlYmM2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A computer programmer&apos;s dream job at a hot Portland-based firm turns nightmarish when he discovers his boss has a secret and ruthless means of dispatching anti-trust problems.",
+  "contentRating": "12",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2001-05-04",
+  "keywords": "guy wears a too small tee,interracial friendship,startup company,boy wears eyeglasses,character repeats someone else&apos;s dialogue",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "Ryan Phillippe",
+      "url": "https://www.imdb.com/name/nm0000202/"
+    },
+    {
+      "name": "Tim Robbins",
+      "url": "https://www.imdb.com/name/nm0000209/"
+    },
+    {
+      "name": "Rachael Leigh Cook",
+      "url": "https://www.imdb.com/name/nm0000337/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Howitt",
+      "url": "https://www.imdb.com/name/nm0398185/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Howard Franklin",
+      "url": "https://www.imdb.com/name/nm0291442/"
+    }
+  ],
+  "review": {
+    "author": "LT-10",
+    "dateCreated": "2001-01-15",
+    "inLanguage": "English",
+    "heading": "A brainless movie that requires brain.",
+    "reviewBody": "I didn&apos;t expect much from AntiTrust, but I was surprised. The story was fast-paced and exciting, it never really slowed-down. When the movie was over I felt satisfied, it had a lot of what I look for in a movie. It requires you to think about what is happening, even if sometimes it gets un-realistic with plot twists. Good things aside, AntiTrust had its share of problems. There was some techy-talk that went on too long, whenever something bad was discovered by Milo(Ryan however you spell his last name) the camera would zoom in and then shake around, and it got a little un-realistic in the finale. All-in-all AntiTrust was good, but I just found-out it opened it 12th place. It deserves better.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 30213,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  }
+}

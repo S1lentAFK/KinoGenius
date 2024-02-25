@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Instant Death",
+  "url": "https://www.imdb.com/tt4447090/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzI3OTMwYWQtNWJkMS00YTA2LTkyMzMtZDYwMjg2MTczMGUxXkEyXkFqcGdeQXVyMzIzNzE4Njk@._V1_.jpg",
+  "description": "When the violence of a drug war becomes all too personal, a troubled Special Forces veteran seeks bloody revenge against criminals.",
+  "review": {
+    "author": "j-43695",
+    "dateCreated": "2017-05-05",
+    "inLanguage": "English",
+    "heading": "Charles Bronson-style revenge!",
+    "reviewBody": "One of the hottest things in the action genre over the past decade or so is the 'Old guy gets back into the killing game to get revenge for a friend or family member'. Any actor over the age of 55 has pretty much done this movie. Liam Neeson, Michael Caine, Sly Stallone, Clint Eastwood, and most recently, Keanu Reeves has gotten into the game. Now, it appears that even bodybuilding legend and former Incredible Hulk Lou Ferrigno has decided to knock the dust off of his old leather jacket and get some sweet Charles Bronson-style revenge! This film delivers in every way the action, the soundtrack, the ultra violence, girls, sweet revenge and lots of kills! The choreography is brilliant and Ara Paiaya makes Lou look amazing at fight scenes and shoot outs. Lou Ferrigno is 65! and moves like a 30 year old in this film. The Director obviously taught him a lot looking at his previous action films. One can only hope for more of the same! A must buy.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 702,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.2
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action"
+  ],
+  "datePublished": "2017-05-02",
+  "keywords": "exploitation film,rape and revenge,b movie,cult classic,grindhouse film",
+  "duration": "PT1H24M",
+  "actor": [
+    {
+      "name": "Lou Ferrigno",
+      "url": "https://www.imdb.com/name/nm0002073/"
+    },
+    {
+      "name": "Jerry Anderson",
+      "url": "https://www.imdb.com/name/nm3449013/"
+    },
+    {
+      "name": "Tania Staite",
+      "url": "https://www.imdb.com/name/nm4186496/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ara Paiaya",
+      "url": "https://www.imdb.com/name/nm1114894/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Adam Davidson",
+      "url": "https://www.imdb.com/name/nm4452676/"
+    }
+  ]
+}

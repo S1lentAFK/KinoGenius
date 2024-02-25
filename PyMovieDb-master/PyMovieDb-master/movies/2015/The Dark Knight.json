@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Dark Knight",
+  "url": "https://www.imdb.com/tt0468569/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+  "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+  "review": {
+    "author": "harrybhangu",
+    "dateCreated": "2021-01-12",
+    "inLanguage": "English",
+    "heading": "Perfect combo",
+    "reviewBody": "Best movie ever. Heath ledger's work is phenomenal no words......",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 2841788,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 9
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2008-07-24",
+  "keywords": "dc comics,psychopath,moral dilemma,superhero,clown",
+  "duration": "PT2H32M",
+  "actor": [
+    {
+      "name": "Christian Bale",
+      "url": "https://www.imdb.com/name/nm0000288/"
+    },
+    {
+      "name": "Heath Ledger",
+      "url": "https://www.imdb.com/name/nm0005132/"
+    },
+    {
+      "name": "Aaron Eckhart",
+      "url": "https://www.imdb.com/name/nm0001173/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Christopher Nolan",
+      "url": "https://www.imdb.com/name/nm0634240/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jonathan Nolan",
+      "url": "https://www.imdb.com/name/nm0634300/"
+    },
+    {
+      "name": "Christopher Nolan",
+      "url": "https://www.imdb.com/name/nm0634240/"
+    },
+    {
+      "name": "David S. Goyer",
+      "url": "https://www.imdb.com/name/nm0275286/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Gruz 200",
+  "url": "https://www.imdb.com/tt0847880/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWFlZDIwMTUtMzQ2Yi00OWMzLWE0ZTctNWY0YTU3MzZmYmY5XkEyXkFqcGdeQXVyMTAzMDg2MjMx._V1_.jpg",
+  "description": "A young woman is taken hostage by a police officer gone mad.",
+  "review": {
+    "author": "LazySod",
+    "dateCreated": "2009-06-22",
+    "inLanguage": "English",
+    "heading": "An odd trip",
+    "reviewBody": "The title of the film is a code name for the return home of a body from the battle field. The reason why this title is chosen becomes clear early in the film - but the build of the film would allow a lot of different titles and each one of them would be matching for this film goes far beyond a body returning from the battle field. As the story rolls the film switches back and forth between a number of people and tells their respective tales - and the way all of them connect in one way or the other. The stories are not altogether happy but are not too dark either so the film doesn't turn too dreary. It is very grim though. As each of the stories turns to its conclusion one can not escape the biting cold reality of them.\n\nPlayed out well enough to be believable and quick enough to be entertaining this film does pretty well. It's ending is fitting, its after-taste is bitter. But, above all, it's an interesting watch.\n\n8 out of 10 broken bottles of vodka",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 11214,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": null,
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2007-06-14",
+  "keywords": "brutality,corpse,dead body,drink,drunkenness",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Agniya Kuznetsova",
+      "url": "https://www.imdb.com/name/nm2401938/"
+    },
+    {
+      "name": "Aleksey Poluyan",
+      "url": "https://www.imdb.com/name/nm0689894/"
+    },
+    {
+      "name": "Leonid Gromov",
+      "url": "https://www.imdb.com/name/nm0343045/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Aleksey Balabanov",
+      "url": "https://www.imdb.com/name/nm0049326/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Aleksey Balabanov",
+      "url": "https://www.imdb.com/name/nm0049326/"
+    }
+  ]
+}

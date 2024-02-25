@@ -1,0 +1,71 @@
+
+
+{
+  "type": "Movie",
+  "name": "Water for Elephants",
+  "url": "https://www.imdb.com/tt1067583/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQzMDU3NDEwN15BMl5BanBnXkFtZTcwMTI3MDU0NA@@._V1_.jpg",
+  "description": "Jacob takes a job as an animal caretaker in a traveling circus. There he meets Marlena, a beautiful circus performer. Their shared compassion for a special elephant Rosie leads to love, but Marlena's cruel husband stands in their ...",
+  "review": {
+    "author": "Nefi",
+    "dateCreated": "2011-04-20",
+    "inLanguage": "English",
+    "heading": "very fine drama; old style and that's why it is so appealing",
+    "reviewBody": "Water For Elephants got released here a full week ahead of the US and first let me indulge in the joy of being able to review such a highly anticipated film before my fellow American film-loving counterparts.\\n\\nThe film completely fulfilled my expectations. It is a well scripted, meticulously shot and finely acted period drama, the likes of which are increasingly less to come by at the movies these days. A big congratulations to all those involved with the production for having the confidence to delve into this venture. Actually I am very curious about its box-office. Last year was a surprisingly profitable year for adult dramas and if that is any indication, this fine film should continue the same trend.\\n\\nWater For Elephants really impresses with the production design, atmosphere, costumes and stunts. Most of the time I felt like I was watching a classic film made during the studio era; it looked that authentic and faultless. The three main actors all seem satisfied for having such meaty parts and deliver more than satisfactory performances. Robert Pattinson shines and proves that he is capable as a serious actor. Reese Witherspoon has always been a true professional and here with her stunts demonstrates that again. She also fits surprisingly well to the 1930s platinum blonde beauty type. Christopher Waltz is a wonderful actor and here it becomes very clear that his success in Inglorious Basterds was not a one-off. The story is very emotional and while it touches the heart romantically, it also manages to lay down a heretofore unseen dark aspect of old era circus entertainment in particular and also crowd entertainment as a whole. I almost wished for a three hour epic after it ended; it left me wanting more. The whole thing was really interesting.\\n\\nAll in all a wonderful and deeply satisfying experience at the movies, well worth every dime. Go see it so that adult dramas of this caliber (in terms of star power, production budget and subsequent attention to detail) could continue to be made.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 120062,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2011-05-04",
+  "keywords": [
+    "animal abuse",
+    "20th century",
+    "bull hook",
+    "speaking polish",
+    "reference to a retirement community"
+  ],
+  "duration": "PT2H2M",
+  "actor": [
+    {
+      "name": "Robert Pattinson",
+      "url": "https://www.imdb.com/name/nm1500155/"
+    },
+    {
+      "name": "Reese Witherspoon",
+      "url": "https://www.imdb.com/name/nm0000702/"
+    },
+    {
+      "name": "Christoph Waltz",
+      "url": "https://www.imdb.com/name/nm0910607/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Francis Lawrence",
+      "url": "https://www.imdb.com/name/nm1349376/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Richard LaGravenese",
+      "url": "https://www.imdb.com/name/nm0481418/"
+    },
+    {
+      "name": "Sara Gruen",
+      "url": "https://www.imdb.com/name/nm2717485/"
+    }
+  ]
+}

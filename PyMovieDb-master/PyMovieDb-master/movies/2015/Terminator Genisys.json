@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Terminator Genisys",
+  "url": "https://www.imdb.com/tt1340138/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM1NTc0NzE4OF5BMl5BanBnXkFtZTgwNDkyNjQ1NTE@._V1_.jpg",
+  "description": "When John Connor, leader of the human resistance, sends Sgt. Kyle Reese back to 1984 to protect Sarah Connor and safeguard the future, an unexpected turn of events creates a fractured timeline.",
+  "review": {
+    "author": "Marshall-D-Teach",
+    "dateCreated": "2020-03-06",
+    "inLanguage": "English",
+    "heading": "Genisys",
+    "reviewBody": "Not quite as bad as i thought it would be, Terminator: Genisys brings back the nostalgia of the first two films. It even has the same old-school vibe to it. But when you get to its core, Genisys is simply a rehash of the first two masterpieces, which are so good there was no point in revisiting them.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 291200,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2015-07-02",
+  "keywords": "cyborg,future,time machine,human versus cyborg,human versus robot",
+  "duration": "PT2H6M",
+  "actor": [
+    {
+      "name": "Arnold Schwarzenegger",
+      "url": "https://www.imdb.com/name/nm0000216/"
+    },
+    {
+      "name": "Jason Clarke",
+      "url": "https://www.imdb.com/name/nm0164809/"
+    },
+    {
+      "name": "Emilia Clarke",
+      "url": "https://www.imdb.com/name/nm3592338/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Alan Taylor",
+      "url": "https://www.imdb.com/name/nm0851930/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Laeta Kalogridis",
+      "url": "https://www.imdb.com/name/nm0436164/"
+    },
+    {
+      "name": "Patrick Lussier",
+      "url": "https://www.imdb.com/name/nm0527261/"
+    },
+    {
+      "name": "James Cameron",
+      "url": "https://www.imdb.com/name/nm0000116/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hotel Transylvania 2",
+  "url": "https://www.imdb.com/tt2510894/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGVhZWM0YTEtM2YxYy00YWUzLWI1YWQtNjk5ZTRhNTJmM2VhXkEyXkFqcGdeQXVyNTk1MTAyODc@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Amthermandes",
+    "dateCreated": "2015-09-25",
+    "inLanguage": "English",
+    "heading": "This movie is hilarious, for kids AND for adults!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 141280,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2015-10-16",
+  "keywords": "hotel,vampire,party,bird,dracula",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Adam Sandler",
+      "url": "https://www.imdb.com/name/nm0001191/"
+    },
+    {
+      "name": "Andy Samberg",
+      "url": "https://www.imdb.com/name/nm1676221/"
+    },
+    {
+      "name": "Selena Gomez",
+      "url": "https://www.imdb.com/name/nm1411125/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Genndy Tartakovsky",
+      "url": "https://www.imdb.com/name/nm0850733/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Smigel",
+      "url": "https://www.imdb.com/name/nm0806912/"
+    },
+    {
+      "name": "Adam Sandler",
+      "url": "https://www.imdb.com/name/nm0001191/"
+    },
+    {
+      "name": "Todd Durham",
+      "url": "https://www.imdb.com/name/nm0244110/"
+    }
+  ]
+}

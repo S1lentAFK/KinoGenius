@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Masked and Anonymous",
+  "url": "https://www.imdb.com/tt0319829/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzYwNWZmYmUtOTE1NS00OTBiLTkyYjktNjVjYzFlZjc2MmFhXkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_.jpg",
+  "description": "A singer, whose career has gone on a downward spiral, is forced to make a comeback to the performance stage for a benefit concert.",
+  "review": {
+    "author": "baho2",
+    "dateCreated": "2003-01-22",
+    "inLanguage": "English",
+    "heading": "Johnny's in the Basement",
+    "reviewBody": "What could go wrong with a movie that features Bob Dylan playing some fun tunes, leading actors John Goodman, Jessica Lange, Luke Wilson, Jeff Bridges and Penelope Cruz, and bit parts by Christian Slater, Ed Harris, Angela Basset, Mickey Rourke and Val Kilmer? Well, let's start with a script penned by Bob Dylan that is easily as ineffable as, say, Subterranean Homesick Blues. If you know why the man in the coonskin cap wants eleven dollar bills (and you only got ten) then maybe you understood this movie. The rest of us struggled with mundane dialogue, disjointed vignettes, thinly veiled allusions to Dylan's life, some sort of statement on revolution, and perhaps an admission by Dylan himself that even he doesn't have a clue as to what most of his songs mean. Maybe if I saw this film another 2-3 times I would unravel the deeper meaning, peel back the layers of symbolism, and better grasp the metaphors that give deeper significance to the movie. On the other hand, it's been 35 years and I still don't know why I should hang around an ink well or watch the parking meters.\\n\\nI wish I could say that I enjoyed this movie. But the fact is, I rarely laughed, certainly didn't cry, and I didn't really care about any of the characters. I could barely follow the plot line. And I didn't understand most of what was lurking under the surface. None of the actors appeared to have clue as to what was going on either. But then, maybe that's what Dylan meant all along . Maybe, but you shouldn't need a weatherman to know which way the wind blows.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 4975,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2003-08-08",
+  "keywords": "reference to mahatma gandhi,concert,revolution,singer,jail",
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "Bob Dylan",
+      "url": "https://www.imdb.com/name/nm0001168/"
+    },
+    {
+      "name": "John Goodman",
+      "url": "https://www.imdb.com/name/nm0000422/"
+    },
+    {
+      "name": "Jessica Lange",
+      "url": "https://www.imdb.com/name/nm0001448/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Larry Charles",
+      "url": "https://www.imdb.com/name/nm0153078/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bob Dylan",
+      "url": "https://www.imdb.com/name/nm0001168/"
+    },
+    {
+      "name": "Larry Charles",
+      "url": "https://www.imdb.com/name/nm0153078/"
+    }
+  ]
+}

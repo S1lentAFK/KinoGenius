@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "Contemporary Color",
+  "url": "https://www.imdb.com/tt5258306/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODk4OTI3MDAtNTg3OS00ZDUwLWE4ZDEtZTQxMTFiNGVjZTI0XkEyXkFqcGdeQXVyMjg4Mzc3ODU@._V1_.jpg",
+  "description": "In the summer of 2015, legendary musician David Byrne staged an event at Brooklyn's Barclays Center to celebrate the art of Color Guard: synchronized dance routines involving flags, rifles, and sabers. Recruiting performers that include the likes of St. Vincent, Ad-Rock, Nelly Furtado, tUnE-yArDs, and Zola Jesus to collaborate on original compositions inspired by the color guard teams' synchronized moves, Contemporary Color is a beautifully filmed snapshot of a one-of-a-kind live event.",
+  "review": {
+    "author": "itsactuallyamanda",
+    "dateCreated": "2017-03-17",
+    "inLanguage": "English",
+    "heading": "just your standard concert movie with a whole lot of color.",
+    "reviewBody": "I somehow stumbled upon this movie and it looked very well whats the word: interesting. Contemporary Color just looked like another concert movie wannabe but they just add color guards and singers that no one have ever heard of (minus Nelly Furtado) and you have a movie that tried to be a documentary but in the end, turned out to be just one colorful mess. i mean, don't get me wrong. there were some postives to this film. 1) the color guards were very good. 2) the singers had good songs. 3) the fact it took place in NY was good too. what i also didn't get was that they event took place in 2015 so maybe 2016 would have been a good release year besides 2017. but ethier way, i was very happy with the whole vibe of the movie and i would see this movie again for sure.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 200,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Documentary",
+    "Music"
+  ],
+  "datePublished": "2016-04-14",
+  "keywords": "post punk",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Simon Bennett",
+      "url": "https://www.imdb.com/name/nm7968542/"
+    },
+    {
+      "name": "David Byrne",
+      "url": "https://www.imdb.com/name/nm0126154/"
+    },
+    {
+      "name": "Christian Delmotte",
+      "url": "https://www.imdb.com/name/nm7968633/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bill Ross IV",
+      "url": "https://www.imdb.com/name/nm3226377/"
+    },
+    {
+      "name": "Turner Ross",
+      "url": "https://www.imdb.com/name/nm3225731/"
+    }
+  ],
+  "creator": []
+}

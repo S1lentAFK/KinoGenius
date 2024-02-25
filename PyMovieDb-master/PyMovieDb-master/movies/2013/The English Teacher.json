@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "The English Teacher",
+  "url": "https://www.imdb.com/tt2055765/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU2MjIwNDA5MF5BMl5BanBnXkFtZTcwMjU2NzEzOQ@@._V1_.jpg",
+  "description": "An English teacher's life is disrupted when a former student returns to her small town after failing as a playwright in New York.",
+  "review": {
+    "author": "esub44",
+    "dateCreated": "2013-08-26",
+    "inLanguage": "English",
+    "heading": "A decent small film with good performances from the Leads",
+    "reviewBody": "First of all watch the film, then make up your own mind, I can't stand people who come on here and give bland one or two word reviews. Its a small budget film which centers around a returning high school grad and an English teacher trying to help him succeed and reminding him to keep at his dream of becoming a playwright in New York. Its films like this that make me want to continue watching films, they center around characters, story and actual acting. If you want gimmicks and explosions with no point then go play a computer game or watch a Michael Bay film.\n\nOkay so this film isn't the best you'll ever see but its decent.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 13067,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2013-08-01",
+  "keywords": "teacher student relationship,adolescent,infidelity,jealousy,fraud",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Julianne Moore",
+      "url": "https://www.imdb.com/name/nm0000194/"
+    },
+    {
+      "name": "Michael Angarano",
+      "url": "https://www.imdb.com/name/nm0029400/"
+    },
+    {
+      "name": "Greg Kinnear",
+      "url": "https://www.imdb.com/name/nm0001427/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Craig Zisk",
+      "url": "https://www.imdb.com/name/nm0957197/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dan Chariton",
+      "url": "https://www.imdb.com/name/nm0152911/"
+    },
+    {
+      "name": "Stacy Chariton",
+      "url": "https://www.imdb.com/name/nm0919173/"
+    }
+  ]
+}

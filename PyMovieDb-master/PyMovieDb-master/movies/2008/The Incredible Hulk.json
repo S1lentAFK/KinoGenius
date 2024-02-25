@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Incredible Hulk",
+  "url": "https://www.imdb.com/tt0800080/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_.jpg",
+  "description": "Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into whenever he loses his temper.",
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2008-06-13",
+  "keywords": "marvel cinematic universe,bruce banner character,the incredible hulk character,based on comic,hulk",
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "Edward Norton",
+      "url": "https://www.imdb.com/name/nm0001570/"
+    },
+    {
+      "name": "Liv Tyler",
+      "url": "https://www.imdb.com/name/nm0000239/"
+    },
+    {
+      "name": "Tim Roth",
+      "url": "https://www.imdb.com/name/nm0000619/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Louis Leterrier",
+      "url": "https://www.imdb.com/name/nm0504642/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Zak Penn",
+      "url": "https://www.imdb.com/name/nm0672015/"
+    },
+    {
+      "name": "Stan Lee",
+      "url": "https://www.imdb.com/name/nm0498278/"
+    },
+    {
+      "name": "Jack Kirby",
+      "url": "https://www.imdb.com/name/nm0456158/"
+    }
+  ],
+  "review": {
+    "author": "YoSafBridge",
+    "dateCreated": "2008-06-16",
+    "inLanguage": "English",
+    "heading": "Don't make me hungry...",
+    "reviewBody": "Three cheers for Marvel for finally realizing that no one knows their material better then themselves. May they never sell another beloved superhero to a lesser being again.\n\nFor the second time this summer Marvel has given us a superhero movie that just plain rocks. With the exact right amount of humour, character development and great action sequences, the Incredible Hulk is up there with Iron Man as one of my favourite films to be released so far in the summer movie season. While I didn't like it quite as much as Iron Man (Robert Downey WAS Tony Stark. Whereas something still doesn't sit right about Edward Norton as Bruce...) it was nevertheless a great, faithful adaptation of the comic books. Plus the cameo appearances by both Stan Lee and Robert Downey Jr where terrific! Possibly my favourite Stan Lee cameo yet.\n\nThere isn't really much else to say besides, go see it for yourselves. If you're a fan of the comics, or just of fun popcorn films you'll definitely enjoy this one.\n\n8/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 520140,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  }
+}

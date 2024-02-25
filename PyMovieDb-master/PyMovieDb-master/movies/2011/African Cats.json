@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "African Cats",
+  "url": "https://www.imdb.com/tt1223236/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYxOTQ3MjM5OV5BMl5BanBnXkFtZTcwMDYzMjAyNA@@._V1_.jpg",
+  "description": "Meet Mara, an endearing lion cub striving to be like her mother; Sita, a cheetah and single mother of five; and Fang, a proud leader of the pride who must defend his family from a rival lion.",
+  "review": {
+    "author": "tkksilvergun",
+    "dateCreated": "2011-12-03",
+    "inLanguage": "English",
+    "heading": "Surprisingly rousing, effortlessly entertaining and awesome to behold",
+    "reviewBody": "Disney Nature's new documentary could definitely have been more imaginatively titled, but it's still an impressively mounted experience for wildlife lovers, and feline fanatics especially. The film-makers forego an information-filled Attenborough-style narrative, instead favoring the incongruous delights of Samuel L Jackson regaling us with a 'true life adventure' like some hoary old story-teller reading from a children's tome. Some may find this non-scientific approach condescending, but there's no denying the film offers visual spectacle on an epic scale and an intimate, involving account of life for these surprisingly vulnerable killers.\\n\\nFang is an aging lion struggling to look after his pride while contending with the usurping efforts of some younger competition. His sheba is trying to do the best for her cub Mara, stuck between her loyalty to Fang and the security that the more virulent lions on the other side of the river might offer. As the two groups come to blows over food, territory and leadership, it becomes clear that Fang's days may be numbered. Meanwhile, Sita is a cheetah with five rambunctious cubs, who are prized as coveted meals for many of the animals sharing their domain. Her efforts to protect, feed and teach them put her in mortal danger not only from enemies from other species but also their own.\\n\\nAs the beautifully captured seasons come and go, drastically affecting the awesome landscape, we witness the cats face many hardships despite being so high up in their food chain. Motion capture and slo-mo are judiciously deployed to generate wonder and tension, with the film's narrowed focus really giving the audience time to appreciate the African countryside, while several sequences of our subjects in peril prove as heart-stopping as a well-orchestrated horror movie. The soundtrack also adds to the atmosphere despite being somewhat predictably crafted and employed. The stories of the lions and the cheetahs are nicely balanced and bring some dynamic variety to the footage; the bigger cats are as impressive and noble as you'd expect, but the cheetahs often steal the show, thanks to the cubs' undeniable cuteness and Sita's mind-boggling multi-tasking prowess and intelligence.\\n\\nJackson really does attack his narration with all the relish of a new father indulging his kids at bedtime, making Daniel Craig's po-faced voice-over for the recent One Life film seem joyless and disheartening in comparison. The use of character names does actually help the audience keep track of the cats, even though the attempts to characterize them are sometimes laid on a little too thick. Keith Scholey and John Truby's script invests proceedings with even more humor and pathos than they would already have, and for the most part directors Scholey and Alastair Fothergill know just when to let the action speak for itself. There's also a cringe-worthy but amusing credit roll, where the various animals are assigned appropriate film-making roles; giraffes posing as crane operators are just the tip of the iceberg. It's something of a novelty but also represents icing on the cake for a film that has been more lovingly assembled than you might expect.\\n\\nCynics will point to the film's release coinciding with that of The Lion King to accuse Disney of trying to fleece families, while some will find the child-friendly voice-over cloyingly sentimental, but it marks a bit of a change for cinematic nature documentaries and at least they had the good sense to stick to 2D. Cat-lovers young and old will be delighted with this release, and it truly deserves to be experienced on the big screen. By concentrating so steadfastly on such a particular topic, Disney have made a wonderfully immersive and invigorating film, even if it's not particularly enlightening. The film may gloss over its stars' violent nature and assemble footage in a way that manipulates audience sympathy while slightly toning down the harsh reality, but African Cats is an unexpected pleasure to behold, coming as a breath of fresh air in an often stuffily rarefied genre.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 6708,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "U",
+  "genre": [
+    "Documentary",
+    "Adventure"
+  ],
+  "datePublished": "2012-04-27",
+  "keywords": "nature documentary,family relationships,mother,cat,maasai mara national reserve kenya",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Samuel L. Jackson",
+      "url": "https://www.imdb.com/name/nm0000168/"
+    },
+    {
+      "name": "Patrick Stewart",
+      "url": "https://www.imdb.com/name/nm0001772/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Keith Scholey",
+      "url": "https://www.imdb.com/name/nm0774582/"
+    },
+    {
+      "name": "Alastair Fothergill",
+      "url": "https://www.imdb.com/name/nm0288144/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Keith Scholey",
+      "url": "https://www.imdb.com/name/nm0774582/"
+    },
+    {
+      "name": "John Truby",
+      "url": "https://www.imdb.com/name/nm0991399/"
+    },
+    {
+      "name": "Owen Newman",
+      "url": "https://www.imdb.com/name/nm1630422/"
+    }
+  ]
+}

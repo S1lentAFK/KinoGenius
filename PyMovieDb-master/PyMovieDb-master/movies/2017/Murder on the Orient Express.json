@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Murder on the Orient Express",
+  "url": "https://www.imdb.com/tt3402236/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk5OGFiYzktMTkwNS00ZjQ5LWFkNGQtNGM0MjA4MWE2MDIwXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "TheLittleSongbird",
+    "dateCreated": "2017-11-10",
+    "inLanguage": "English",
+    "heading": "Doesn&apos;t completely derail, but doesn&apos;t have enough steam",
+    "reviewBody": "&apos;Murder on the Orient Express&apos; as a book is, speaking as a big Agatha Christie fan, one of her best with a compelling and twisty story, many characters that are also nicely developed and one of her most ingenious endings (along with &apos;And Then There Were None&apos;, &apos;Death on the Nile&apos;, &apos;The Murder of Roger Ackroyd&apos; and &apos;Witness for the Prosecution&apos;).\n\nOf the four filmed adaptations of &apos;Murder on the Orient Express&apos; the only outstanding one is the 1974 Sidney Lumet film, which is one of the best cinematic Agatha Christie adaptations to me. The others are the David Suchet version, which is often considered one of the worst of the series but from personal opinion while very flawed it&apos;s better than given credit for, and the 2001 Alfred Molina version which is a mess. This latest version has a good deal going for it but feels like an adaptation too far. Actually saw it a couple of days ago, but was not sure what my thoughts on it were.\n\nLet&apos;s start with &apos;Murder on the Orient Express&apos;s&apos; good things. It is a very beautiful film visually, very elegantly shot, lots of stunning scenery, sumptuous costumes that are evocative of the period and a train that has the grandeur and claustrophobic confinement that is necessary. The make-up is also wonderfully elaborate. The story does have some intriguing moments and it is a very clever one in the first place. Poirot is an interesting as he should be. Kenneth Branagh does a very nice job with the visual style, the script is thought-provoking and Poirot&apos;s crime-solving is delightful. The relative faithfulness to the source material is commendable too.\n\nHe also stars as Poirot and generally is surprisingly good, he is very commanding, suitably steely and captures his crime-solving skills beautifully. He could however have brought out more of Poirot&apos;s lighter and more eccentric side, like the obsessiveness, there isn&apos;t enough of that here. The cast is star studded and generally the acting is very good. Standouts include Judi Dench, Michelle Pfeiffer, a surprisingly well-cast and suitably conflicted Josh Gad and Daisy Ridley, Derek Jacobi and Willem Dafoe also make much of not very much.\n\nConversely, there are other elements that don&apos;t work. The mystery itself is intriguing as a story but doesn&apos;t have enough tension or energy. With so many characters and so much focus on Poirot, the exploration of the supporting characters is limited, meaning many of the characters are really sketchy in development. Branagh excels in the visual side of the direction but it comes at the expense at providing enough depth to the mystery.\n\nThe film has a slow and awkwardly staged beginning and the ingenious denouement feels under-cooked and contrived for an ending so justifiably famous and brilliant. Just to make it clear, the problem is not the denouement itself, it&apos;s the execution of it that&apos;s the problem. While the cast are on very good form mostly, an exception is Johnny Depp. Really didn&apos;t get the sense that Rachett was a nasty piece of work, like in the book and especially Toby Jones&apos; interpretation in the Suchet adaptation when talking of the previous versions, and that the performance was too much of a pale caricature of Depp&apos;s lesser roles. Have really liked a lot of what Patrick Doyle has done, but this is not one of his better music scores. It&apos;s not awful, but it is blandly uninspired and its slightly syrupy feel doesn&apos;t fit. Oh, and Branagh&apos;s moustache is like a character of its own and am really not sure as to whether that is a compliment or not.\n\nIn summary, some good things that stops it from completely derailing but the lack of steam makes it a bland endeavour, this wonderful story and Christie deserve better. 5/10 Bethany Cox",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 293238,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2017-11-09",
+  "keywords": "based on novel,hercule poirot character,train,private detective,detective",
+  "duration": "PT1H54M",
+  "actor": [
+    {
+      "name": "Kenneth Branagh",
+      "url": "https://www.imdb.com/name/nm0000110/"
+    },
+    {
+      "name": "Penélope Cruz",
+      "url": "https://www.imdb.com/name/nm0004851/"
+    },
+    {
+      "name": "Willem Dafoe",
+      "url": "https://www.imdb.com/name/nm0000353/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kenneth Branagh",
+      "url": "https://www.imdb.com/name/nm0000110/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Green",
+      "url": "https://www.imdb.com/name/nm0338169/"
+    },
+    {
+      "name": "Agatha Christie",
+      "url": "https://www.imdb.com/name/nm0002005/"
+    }
+  ]
+}

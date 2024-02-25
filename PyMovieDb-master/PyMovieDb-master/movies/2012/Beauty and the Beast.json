@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "Beauty and the Beast",
+  "url": "https://www.imdb.com/tt2771200/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUwNjUxMTM4NV5BMl5BanBnXkFtZTgwODExMDQzMTI@._V1_.jpg",
+  "description": "A selfish Prince is cursed to become a monster for the rest of his life, unless he learns to fall in love with a beautiful young woman he keeps prisoner.",
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2017-03-17",
+  "keywords": "beast,fairy tale,heroine,beast's heart,remake of oscar winner",
+  "duration": "PT2H9M",
+  "rating": {
+    "ratingCount": 331987,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "review": {
+    "author": "paulinaskmx",
+    "dateCreated": "2020-07-30",
+    "inLanguage": "English",
+    "heading": "Disheartened",
+    "reviewBody": "Hadn't seen Emma Watson in a movie before (not a Harry Potter fan), but for some reason, social media had me with the idea she was a good actress. At least here, she wasn't. I read here on the Trivia section that while shooting Be Our Guest the crew had to make her smile and all: that's a bad actress right there, it's not like they were working with 6 year olds. (My daughter likes to watch the Cinderella live action almost every day, I highly doubt Lily James was actually witnessing a pumpkin turning into a charriot). She had the same face seeing spoons dancing, someone being shot, and when a handsome prince appeared before her.\n\nThe whole Belle being an inventor was so irrelevant to the story, and during the dance with the Beast, she was so stiff and it was so badly choreographed, it ruined one of the most beloved Disney scenes.\n\nNo chemistry between Beauty and Beast at all, the only moment that made me feel something was when the enchanted objects were becoming just objects. Too bad the main character was not great, the movie itself is enjoyable and the special effects are really good, wish horror movies had this kind of CGI.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 331987,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "actor": [
+    {
+      "name": "Emma Watson",
+      "url": "https://www.imdb.com/name/nm0914612/"
+    },
+    {
+      "name": "Dan Stevens",
+      "url": "https://www.imdb.com/name/nm1405398/"
+    },
+    {
+      "name": "Luke Evans",
+      "url": "https://www.imdb.com/name/nm1812656/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bill Condon",
+      "url": "https://www.imdb.com/name/nm0174374/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stephen Chbosky",
+      "url": "https://www.imdb.com/name/nm0154716/"
+    },
+    {
+      "name": "Evan Spiliotopoulos",
+      "url": "https://www.imdb.com/name/nm0818746/"
+    },
+    {
+      "name": "Linda Woolverton",
+      "url": "https://www.imdb.com/name/nm0941314/"
+    }
+  ]
+}

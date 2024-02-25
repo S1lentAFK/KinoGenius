@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Elizabethtown",
+  "url": "https://www.imdb.com/tt0368709/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmJkOTU0ZjEtYmRkNi00ODcwLTgwMDUtNjVjMTFjZGU2OWNiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "During a hometown memorial for his Kentucky-born father, a young man begins an unexpected romance with a too-good-to-be-true stewardess.",
+  "review": {
+    "author": "taylorhammons",
+    "dateCreated": "2019-02-05",
+    "inLanguage": "English",
+    "heading": "A criminally underrated movie",
+    "reviewBody": "I don't know why this movie seems to have fallen by the wayside, but I haven't met anyone outside of my family who's actually seen it.\n\nThis movie is insanely underrated. It's a near perfect blend of subtle comedy and heartbreaking tragedy. It's deep and meaningful without being pretentious. It's beautifully shot without being overly artsy. It's smartly written, expertly acted, and perfectly timed. It's relatable but fresh.\n\nEverything about this movie makes me continually want to come back to it. The soundtrack, the dialogue, the story, it's all absolutely perfect. I just wish more people knew about it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 72416,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2005-11-04",
+  "keywords": "manic pixie dream girl,publicity,bad publicity,quote,cubicle",
+  "duration": "PT2H3M",
+  "actor": [
+    {
+      "name": "Orlando Bloom",
+      "url": "https://www.imdb.com/name/nm0089217/"
+    },
+    {
+      "name": "Kirsten Dunst",
+      "url": "https://www.imdb.com/name/nm0000379/"
+    },
+    {
+      "name": "Susan Sarandon",
+      "url": "https://www.imdb.com/name/nm0000215/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Cameron Crowe",
+      "url": "https://www.imdb.com/name/nm0001081/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Cameron Crowe",
+      "url": "https://www.imdb.com/name/nm0001081/"
+    }
+  ]
+}

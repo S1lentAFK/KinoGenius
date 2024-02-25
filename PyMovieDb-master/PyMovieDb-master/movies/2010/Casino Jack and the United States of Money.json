@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Casino Jack and the United States of Money",
+  "url": "https://www.imdb.com/tt1540814/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA3MTc2MzM4NV5BMl5BanBnXkFtZTcwMzE5MjYxMw@@._V1_.jpg",
+  "description": "A probing investigation into the lies, greed and corruption surrounding D.C. super-lobbyist Jack Abramoff and his cronies.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2016-01-18",
+    "inLanguage": "English",
+    "heading": "eye-opening exhaustive doc on corrupt politics",
+    "reviewBody": "In Fort Lauderdale 2001, Greek tycoon Gus Boulis, who runs SunCruz casino ships, is gunned down. This is the beginning of the end for Republican lobbyist Jack Abramoff. He has built a career coning native groups, corrupted politics, and backslapping all the way to the highest level of Republican officials.\\n\\nThis is an exhaustive look at one of the reasons why American politics is so corrupt and how it has ingrained into the system. It is also a fascinating look at Abramoff&apos;s personality. Without a doubt, this is definitely ignored or panned by the political right. The big question for this two hour long documentary is whether the story is understandable and compelling. This is a simple to understand story. The story is eye-opening. It is compelling for anybody who wants to know what is going on.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 1730,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "R",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": null,
+  "keywords": "corruption,money in politics,scheme,quid pro quo,kickback",
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Jack Abramoff",
+      "url": "https://www.imdb.com/name/nm0009106/"
+    },
+    {
+      "name": "Tom DeLay",
+      "url": "https://www.imdb.com/name/nm1930597/"
+    },
+    {
+      "name": "William Branner",
+      "url": "https://www.imdb.com/name/nm3743079/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Alex Gibney",
+      "url": "https://www.imdb.com/name/nm0316795/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Alex Gibney",
+      "url": "https://www.imdb.com/name/nm0316795/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "A Christmas Carol",
+  "url": "https://www.imdb.com/tt1067106/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM1MTI5ODU4MV5BMl5BanBnXkFtZTcwNTYyNTU4Mg@@._V1_.jpg",
+  "description": "An animated retelling of Charles Dickens' classic novel about a Victorian-era miser taken on a journey of self-redemption, courtesy of several mysterious Christmas apparitions.",
+  "review": {
+    "author": "breakdownthatfilm-blogspot-com",
+    "dateCreated": "2012-06-08",
+    "inLanguage": "English",
+    "heading": "The same take on Dickens' tale but somewhat darker",
+    "reviewBody": "There have been many films based on Charles Dickens' Christmas carol and each one has their own way of telling it. This version is no different story wise (obviously). The only things changed were the visuals and tone. There was nothing I didn't like about this film but there were parts that make me question whether this movie was intended for children.\\n\\nThe voice cast to this story is pretty remarkable. Just like how Tom Hanks was able to do multiple voices for The Polar Express (2004), Jim Carrey plays Scrooge and various other characters throughout. Along side Carrey is Carey Elwes, Robin Wright, Bob Hoskins and much more. Surprisingly, the audience will be able to identify which actor/actress is doing the voice for whomever the character they are portraying. I suppose the voice characterizations were not needed to be enhanced. But it's blatantly clear whose speaking for whom. \\n\\nVisually, the film's animation is nothing to scorn at either. Much of the characters, the backgrounds and lighting is accurately spaced, colored and shaded. Perhaps the most colorful spectacle is the transition between the spirits who visit Scrooge during his sleep. But what's extremely odd is how all the animated characters in this movie look like the actors who give them their voice; especially Scrooge! Look closely when he's on screen; Scrooge at the current time, looks like a weathered Jim Carrey and the younger version of Scrooge looks like Carrey as he is now. I'm curious if the animators knew this while making the film.\\n\\nNevertheless, I am leery about the reactions small children will have if they are given the chance to view this film. Scenes where Marley, Scrooges' partner, pays him a visit from hell, or when the ghost of Christmas present dies, is on the edge of being dark. Marley having a lazy eye, or dislocating his jaw? Ehh...not quite sure what those parts were put in for. Comedy? Or the dying ghost of Christmas present having a maniacal laugh? That kind of stuff could freak out a child. The ghost of Christmas yet to come is always a spooker for kids. I'm surprised Disney went through with it. It's not bad though. I liked the change, but it's not suitable for a child maybe under twelve.\\n\\nOverall Zemeckis' take on Dickens' Christmas carol is visually intriguing and has a great voice cast. All the same, there are some elements in this film that are darker than usual and that's puzzling especially for Disney.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 128896,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2009-11-04",
+  "keywords": "snow adventure,ghost,ebenezer scrooge character,jacob marley character,bob cratchit character",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Jim Carrey",
+      "url": "https://www.imdb.com/name/nm0000120/"
+    },
+    {
+      "name": "Gary Oldman",
+      "url": "https://www.imdb.com/name/nm0000198/"
+    },
+    {
+      "name": "Colin Firth",
+      "url": "https://www.imdb.com/name/nm0000147/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Zemeckis",
+      "url": "https://www.imdb.com/name/nm0000709/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Charles Dickens",
+      "url": "https://www.imdb.com/name/nm0002042/"
+    },
+    {
+      "name": "Robert Zemeckis",
+      "url": "https://www.imdb.com/name/nm0000709/"
+    }
+  ]
+}

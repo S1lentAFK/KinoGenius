@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "That's My Boy",
+  "url": "https://www.imdb.com/tt1232200/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NDMyNzgzMV5BMl5BanBnXkFtZTcwMjIyMTA1Nw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "GanjiekIMDB",
+    "dateCreated": "2012-09-30",
+    "inLanguage": "English",
+    "heading": "Popular to hate Sandler these days.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 107855,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2012-09-07",
+  "keywords": "statutory rape, incest, teacher student relationship, teacher student sex, nerd",
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Adam Sandler",
+      "url": "https://www.imdb.com/name/nm0001191/"
+    },
+    {
+      "name": "Andy Samberg",
+      "url": "https://www.imdb.com/name/nm1676221/"
+    },
+    {
+      "name": "Leighton Meester",
+      "url": "https://www.imdb.com/name/nm1015262/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sean Anders",
+      "url": "https://www.imdb.com/name/nm1890845/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Caspe",
+      "url": "https://www.imdb.com/name/nm2791292/"
+    }
+  ]
+}

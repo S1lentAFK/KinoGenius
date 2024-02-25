@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Mr. Peabody & Sherman",
+  "url": "https://www.imdb.com/tt0864835/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc2NzUzOTMwM15BMl5BanBnXkFtZTcwNzcxNzI5OQ@@._V1_.jpg",
+  "description": null,
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2014-02-07",
+  "keywords": "talking dog,year 1789,early modern period,year 1508,year 1184 b.c.",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Ty Burrell",
+      "url": "https://www.imdb.com/name/nm0123092/"
+    },
+    {
+      "name": "Max Charles",
+      "url": "https://www.imdb.com/name/nm1934618/"
+    },
+    {
+      "name": "Stephen Colbert",
+      "url": "https://www.imdb.com/name/nm0170306/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rob Minkoff",
+      "url": "https://www.imdb.com/name/nm0591450/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jay Ward",
+      "url": "https://www.imdb.com/name/nm0911599/"
+    },
+    {
+      "name": "Craig Wright",
+      "url": "https://www.imdb.com/name/nm1362905/"
+    },
+    {
+      "name": "Robert Ben Garant",
+      "url": "https://www.imdb.com/name/nm0304830/"
+    }
+  ],
+  "review": {
+    "author": "didonatope",
+    "dateCreated": "2014-03-07",
+    "inLanguage": "English",
+    "heading": "Worth Your Time",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 77075,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  }
+}

@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "Dreamcatcher",
+  "url": "https://www.imdb.com/tt0285531/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTRkYzMwMDctNmU4Ni00NGMyLTliMDEtM2U2ZmY1ZjMyY2Y1XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+  "description": "Friends on a camping trip discover that the town they&apos;re vacationing in is being plagued in an unusual fashion by parasitic aliens from outer space.",
+  "review": {
+    "author": "papyrusss-97-239950",
+    "dateCreated": "2019-10-12",
+    "inLanguage": "English",
+    "heading": "Miss understood and underrated",
+    "reviewBody": "This Stephen King adaptation is underrated, sure it has it&apos;s flaws, it&apos;s a mishmash of many things in some sense it fails to find it&apos;s bearings. But that is only in the surface, in all it&apos;s weirdness these is a sense. Hard to grasp and see at first, I revisited this movie almost a decade later.\\n\\nI didn&apos;t recall this movie to be anything impressive or mind-blowing. Yep upon a recent viewing I find my self pleasantly surprise by this flick. Dreamcatcher isn&apos;t Stephen King&apos;s best book by a long shot. The four main actors gave stellar performances, John Seale&apos;s cinematography is simply perfect for this. Damian Lewis is simply genius in his role.\\n\\nDo your self a favor, watch this movie, ignore the low rating.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 96061,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "datePublished": "2003-04-25",
+  "keywords": [
+    "outer space",
+    "alien",
+    "derry maine",
+    "quarantine",
+    "mind palace"
+  ],
+  "duration": "PT2H16M",
+  "actor": [
+    {
+      "name": "Morgan Freeman",
+      "url": "https://www.imdb.com/name/nm0000151/"
+    },
+    {
+      "name": "Thomas Jane",
+      "url": "https://www.imdb.com/name/nm0005048/"
+    },
+    {
+      "name": "Jason Lee",
+      "url": "https://www.imdb.com/name/nm0005134/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lawrence Kasdan",
+      "url": "https://www.imdb.com/name/nm0001410/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stephen King",
+      "url": "https://www.imdb.com/name/nm0000175/"
+    },
+    {
+      "name": "William Goldman",
+      "url": "https://www.imdb.com/name/nm0001279/"
+    },
+    {
+      "name": "Lawrence Kasdan",
+      "url": "https://www.imdb.com/name/nm0001410/"
+    }
+  ]
+}

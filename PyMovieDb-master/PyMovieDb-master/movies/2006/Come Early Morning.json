@@ -1,0 +1,67 @@
+
+
+{
+  "type": "Movie",
+  "name": "Come Early Morning",
+  "url": "https://www.imdb.com/tt0457308/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMDc0NjI5Nl5BMl5BanBnXkFtZTcwOTExMjA0MQ@@._V1_.jpg",
+  "description": "A thirty-something southern woman searches for love, despite the burdens she carries with her.",
+  "contentRating": "R",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2007-08-31",
+  "keywords": [
+    "banging one's fist on a table",
+    "watching tv",
+    "woman fights a woman",
+    "female protagonist",
+    "church"
+  ],
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Ashley Judd",
+      "url": "https://www.imdb.com/name/nm0000171/"
+    },
+    {
+      "name": "Jeffrey Donovan",
+      "url": "https://www.imdb.com/name/nm0232998/"
+    },
+    {
+      "name": "Tim Blake Nelson",
+      "url": "https://www.imdb.com/name/nm0625789/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joey Lauren Adams",
+      "url": "https://www.imdb.com/name/nm0000725/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joey Lauren Adams",
+      "url": "https://www.imdb.com/name/nm0000725/"
+    }
+  ],
+  "review": {
+    "author": "asteroids1111",
+    "dateCreated": "2006-01-24",
+    "inLanguage": "English",
+    "heading": "This took 5 years?",
+    "reviewBody": "I just saw the the movie yesterday at the Tower Theatre in Salt Lake City obviously during Sundance. The place was packed. The movie was 97 minutes which I thought was long. The movie kept my attention somewhat (wasn't dozing off) but it was just missing something. No high or low points in the movie. After listening to the Director and finding out that it it has taken 5 years to produce this movie I was shocked. Ashley Judd did an OK job of acting but this movie was about a lady drinker who loved to have sex with no relationship. Thats it. Nothing more. The country music in the movie was good. I would consider buying the soundtrack if there was one. Don't count on it, according to the director.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 2764,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  }
+}

@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "A Million Ways to Die in the West",
+  "url": "https://www.imdb.com/tt2557490/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjUwYjJkNWEtMmE5NC00ZTJjLTk2MTEtNTM5MDcxZjYzZmJkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "description": "As a cowardly farmer begins to fall for the mysterious new woman in town, he must put his newly found courage to the test when her husband, a notorious gun-slinger, announces his arrival.",
+  "review": {
+    "author": "goofyball",
+    "dateCreated": "2014-05-31",
+    "inLanguage": "English",
+    "heading": "Wanted to like it but didn&apos;t. An interesting inconsistent misfire",
+    "reviewBody": "This review comes from someone who likes Famnily Guy and really enjoyed TED... but this new one... was... ouch... I went in expecting a few laughs but there were fewer than even my low expectations predicted. Other than the script everything is top notch. Actors are great. Charlize and Liam and Sarah Silverman etc are terrific. It&apos;s too bad they didn&apos;t have something better to work with. \\n\\nLiam in fact seems like he&apos;s in a different movie. He&apos;s 100 percent serious. That might be Seth&apos;s point in making a guy (himself) who is caught in the middle of a serious horrible deadly world that the west really was.\\n\\nIt looks very good visually. Great score. But very inconsistent. Not hit and miss. More like hit and miss miss miss groan miss semi-hit miss. And the joke style kept changing. Silly to sweet to over the top and serious at times. and some of the jokes were so disgusting I don&apos;t know what they were thinking. (and i like disgusting) \\n\\nPlus the anachronistic style gets tired fast. \\n\\nAnd Seth as predicted should not have made himself the lead. He&apos;s not awful but would have benefited greatly with a pro. His persona is not fit for leading man status. And his voice and style is so in step with Brian&apos;s on family guy its a bit distracting. \\n\\nBasically the tone of this film keeps changing. The joke styles keep changing. it doesn&apos;t know what it is. Is is a sweet western romcom? Is it a satire? Is it a serious comedy? \\n\\nWith all the success from Ted I&apos;m guessing Seth had carte blanche with this one and probably needed someone to question him more. \\n\\nMight be more fun if your stoned. Really really stoned. And/or maybe just see Blazing Saddles instead.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 197464,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Western"
+  ],
+  "datePublished": "2014-05-30",
+  "keywords": "western spoof,abraham lincoln impersonator,loud sex,poison,female gunfighter",
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Seth MacFarlane",
+      "url": "https://www.imdb.com/name/nm0532235/"
+    },
+    {
+      "name": "Charlize Theron",
+      "url": "https://www.imdb.com/name/nm0000234/"
+    },
+    {
+      "name": "Liam Neeson",
+      "url": "https://www.imdb.com/name/nm0000553/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Seth MacFarlane",
+      "url": "https://www.imdb.com/name/nm0532235/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Seth MacFarlane",
+      "url": "https://www.imdb.com/name/nm0532235/"
+    },
+    {
+      "name": "Alec Sulkin",
+      "url": "https://www.imdb.com/name/nm1273148/"
+    },
+    {
+      "name": "Wellesley Wild",
+      "url": "https://www.imdb.com/name/nm1273397/"
+    }
+  ]
+}

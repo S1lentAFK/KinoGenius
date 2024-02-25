@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Angels in Stardust",
+  "url": "https://www.imdb.com/tt1640483/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2OTUxNTM4OF5BMl5BanBnXkFtZTgwMzQ1NjMyMTE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Wuchakk",
+    "dateCreated": "2018-08-13",
+    "inLanguage": "English",
+    "heading": "The challenges of growing up in a desolate Southern trailer park with an irresponsible, single mother",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 671,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2016-03-25",
+  "keywords": "teenager",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "AJ Michalka",
+      "url": "https://www.imdb.com/name/nm1404488/"
+    },
+    {
+      "name": "Billy Burke",
+      "url": "https://www.imdb.com/name/nm0121605/"
+    },
+    {
+      "name": "Alicia Silverstone",
+      "url": "https://www.imdb.com/name/nm0000224/"
+    }
+  ],
+  "director": [
+    {
+      "name": "William Robert Carey",
+      "url": "https://www.imdb.com/name/nm0137056/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William Robert Carey",
+      "url": "https://www.imdb.com/name/nm0137056/"
+    }
+  ]
+}

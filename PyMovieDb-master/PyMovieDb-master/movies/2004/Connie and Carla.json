@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Connie and Carla",
+  "url": "https://www.imdb.com/tt0345074/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgyMzMyNDU0MV5BMl5BanBnXkFtZTYwMjg4MjI3._V1_.jpg",
+  "description": "A mob mix-up in Chicago sends two chanteuses screaming for L.A., where they score a perfect gig: posing as drag queens on the dinner theater/cabaret circuit. Things get extra-weird when a guy falls for one of the girls.",
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Music"
+  ],
+  "datePublished": "2004-06-11",
+  "keywords": "character names as title,forenames as title,three word title,performer,musical theater",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "Nia Vardalos",
+      "url": "https://www.imdb.com/name/nm0889522/"
+    },
+    {
+      "name": "Toni Collette",
+      "url": "https://www.imdb.com/name/nm0001057/"
+    },
+    {
+      "name": "David Duchovny",
+      "url": "https://www.imdb.com/name/nm0000141/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Lembeck",
+      "url": "https://www.imdb.com/name/nm0501185/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nia Vardalos",
+      "url": "https://www.imdb.com/name/nm0889522/"
+    }
+  ],
+  "review": {
+    "author": "BlockChuckster",
+    "dateCreated": "2004-04-12",
+    "inLanguage": "English",
+    "heading": "a little wooden, but totally fun",
+    "reviewBody": "Toni Collette will face a lot of comparisons to another Tony: Tony Curtis from Some Like It Hot, and possibly even to Julie Andrews for her performance in Victor/Victoria, why? Simple, there just aren't that many mainstream drag queen movies out there. Should those judgement's toward previous entries into the genre be fair or not will be up to the audience. However, on it's own merit, I found the movie was incredibly well written, particular in the scenes involving the gay community in West Hollywood.\n\n My only problem came with the cartoon-two dimensional depiction of the straights. Whether it be David Duchovny as the brother of a Drag Queen who wants to get close with his brother prior to his upcoming nuptials, his character's intolerant girlfriend who isn't aware of her future brother-in-law's lifestyle, or to a point even Nia Vardalos's acting in general...there were scenes that were stiff. Nia seriously reminds me of Al Gore...she has some moments of brilliance but more often than not, she is as stiff as a board and reminiscent of the talent you see in some small town dinner-theaters.\n\nDespite throwing in the kitchen sink of every gay joke, save one...no references to Dorothy and the Wizard of Oz...it was an overall enjoyable experience. Just enough titillation to warrant a good time by everyone.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 8590,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  }
+}

@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Chasing Liberty",
+  "url": "https://www.imdb.com/tt0360139/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU2MTg5NDg4N15BMl5BanBnXkFtZTYwMjQ1NDI3._V1_.jpg",
+  "description": "Anna wants to be like other girls her age (18): date a guy etc. but she&apos;s the US president&apos;s daughter and always guarded. In Prague he breaks his promise of only 2 agents following her to a concert and she runs away with Ben to se...",
+  "review": {
+    "author": "Before2020",
+    "dateCreated": "2021-01-22",
+    "inLanguage": "English",
+    "heading": "If only",
+    "reviewBody": "If it wasn&apos;t for Matthew Goode&apos;s big, pretty eyes, and warm acting, I wouldn&apos;t have made it through this movie. I forgot what a horrible actress Mandy Moore was. The story is beyond ridiculous, her character is so irritating. Why any man would fall for a twit like the one she plays, makes no sense. No wonder romantic movies have fallen out of popularity.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 40907,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2004-01-09",
+  "keywords": "first daughter,the white house washington d.c.,female nudity,female rear nudity,guilty pleasure",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Mandy Moore",
+      "url": "https://www.imdb.com/name/nm0601553/"
+    },
+    {
+      "name": "Matthew Goode",
+      "url": "https://www.imdb.com/name/nm0328828/"
+    },
+    {
+      "name": "Mark Harmon",
+      "url": "https://www.imdb.com/name/nm0001319/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andy Cadiff",
+      "url": "https://www.imdb.com/name/nm0128225/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Derek Guiley",
+      "url": "https://www.imdb.com/name/nm0346938/"
+    },
+    {
+      "name": "David Schneiderman",
+      "url": "https://www.imdb.com/name/nm1447604/"
+    }
+  ]
+}

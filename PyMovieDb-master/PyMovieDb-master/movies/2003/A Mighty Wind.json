@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "A Mighty Wind",
+  "url": "https://www.imdb.com/tt0310281/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI5MDAwMTg1OV5BMl5BanBnXkFtZTYwMzg0MDI3._V1_.jpg",
+  "description": "Mockumentary captures the reunion of 1960s folk trio the Folksmen as they prepare for a show at The Town Hall to memorialize a recently deceased concert promoter.",
+  "review": {
+    "author": "TxMike",
+    "dateCreated": "2004-02-11",
+    "inLanguage": "English",
+    "heading": "Guest and Levy orchestrate a nice tribute to the 1960s folk groups.",
+    "reviewBody": "We have a duo, a trio, and a group of 9. These three fictitious 'folk' groups from the 60s reunite for a concert in this mockumentary. What makes it so interesting is (1) I was a young adult in the 60s and vividly remember the folk group wave and (2) Guest, Levy and the others do their own singing and playing of songs they wrote for the movie. I think its IMDb ratings which cluster around 7 and 8 are about right. Not everyone will like 'A Mighty Wind' (song from final concert), it has improvised humor and many of the same actors from 'Best in Show'. But for fans of the humor of Guest and Levy it is a very nice little movie. The DVD has interesting extras, and the commentary track by Guest and Levy discuss how, for example, Levy had to take lessons to get is guitar skills back, and how O'Hara learned to play the autoharp for this role.\\n\\nThe movie is 92 minutes long, which includes the 7 minutes of end credits. Of the 85 minutes of actual movie, the first 60 sets up the characters and groups, shows them in rehearsals, covers several back stories, then the final 25 minutes are the concert itself, actually performed before a live audience. There were a few truly outstanding folk groups in the 1960s, but there also were a whole bunch of mediocre ones. The three groups featured in this movie are as good as many of the 1960s groups that actually made a living entertaining. And, as at least one critic said, that's part of the problem with 'A Mighty Wind' - the groups are good enough, and the final concert is real enough, that much of the impact of the humor went away during the last act. The lampooning was gone, replaced by a legitimate set of performances.\\n\\nStill, I found it thoroughly enjoyable, and my favorite of the 'Guest/Levy' movies.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 29375,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Music"
+  ],
+  "datePublished": "2004-01-16",
+  "keywords": "catchy song,satirical,singing along,singing girl,mockumentary comedy",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Christopher Guest",
+      "url": "https://www.imdb.com/name/nm0001302/"
+    },
+    {
+      "name": "Eugene Levy",
+      "url": "https://www.imdb.com/name/nm0506405/"
+    },
+    {
+      "name": "Michael McKean",
+      "url": "https://www.imdb.com/name/nm0571106/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Christopher Guest",
+      "url": "https://www.imdb.com/name/nm0001302/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Christopher Guest",
+      "url": "https://www.imdb.com/name/nm0001302/"
+    },
+    {
+      "name": "Eugene Levy",
+      "url": "https://www.imdb.com/name/nm0506405/"
+    }
+  ]
+}

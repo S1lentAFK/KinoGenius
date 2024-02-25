@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Scooby-Doo 2: Monsters Unleashed",
+  "url": "https://www.imdb.com/tt0331632/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzNzk3NTE1Ml5BMl5BanBnXkFtZTYwODM1MTU3._V1_.jpg",
+  "description": "The Mystery Inc. gang must save Coolsville from an attack of their past monsters brought to life by an evil masked figure trying to take down the gang.",
+  "review": {
+    "author": "Boba_Fett1138",
+    "dateCreated": "2005-10-16",
+    "inLanguage": "English",
+    "heading": "An improvement over the first.",
+    "reviewBody": "I had seen the first movie and didn&apos;t liked it at all. Still I decided to go and give this movie a chance, to see if they had improvement anything. I was pleasantly surprised to find out that they actually did. The story is better and more interesting and the monsters and CGI-effects in general are more convincing looking. The humor has also been improved and this movie actually does have some entertaining and funny moments in it.\n\nNot only the story itself has been improved but also the storytelling. The pace is good and the characters work better for this movie. Also the actors seemed more at ease in their roles. Freddie Prinze Jr. and Sarah Michelle Gellar certainly improved their acting compared to the first movie. Still best parts are played by Matthew Lillard and the perfectly cast Linda Cardellini. Plus of the movie is that it also has actors Alicia Silverstone, Tim Blake Nelson and Seth Green in it.\n\nThe monsters are enjoyable and are good looking. There still are some &apos;fake&apos; moments but on the other hand there also are some truly spectacular looking sequences involving monsters. The character of Scooby-Doo himself is also looking more convincingly this time.\n\nIt&apos;s not really a memorable or great movie but it is simple good entertainment to watch.\n\n6/10\n\nhttp://bobafett1138.blogspot.com/",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 64247,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2004-04-02",
+  "keywords": "monster,strong female character,team spirit,mysterious villain,masked figure",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Freddie Prinze Jr.",
+      "url": "https://www.imdb.com/name/nm0005327/"
+    },
+    {
+      "name": "Sarah Michelle Gellar",
+      "url": "https://www.imdb.com/name/nm0001264/"
+    },
+    {
+      "name": "Matthew Lillard",
+      "url": "https://www.imdb.com/name/nm0000498/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Raja Gosnell",
+      "url": "https://www.imdb.com/name/nm0331532/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William Hanna",
+      "url": "https://www.imdb.com/name/nm0360253/"
+    },
+    {
+      "name": "Joseph Barbera",
+      "url": "https://www.imdb.com/name/nm0053484/"
+    },
+    {
+      "name": "James Gunn",
+      "url": "https://www.imdb.com/name/nm0348181/"
+    }
+  ]
+}

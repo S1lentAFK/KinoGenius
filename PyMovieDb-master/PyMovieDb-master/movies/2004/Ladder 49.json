@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Ladder 49",
+  "url": "https://www.imdb.com/tt0349710/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEyNDQ0NjAzMV5BMl5BanBnXkFtZTcwMjk2OTUyMQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Boba_Fett1138",
+    "dateCreated": "2005-12-02",
+    "inLanguage": "English",
+    "heading": "All the clich\u00e9s you could expect from a movie about firefighters are present here.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 59271,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2005-01-21",
+  "keywords": "firefighter,fire,fire captain,burn,hero",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Joaquin Phoenix",
+      "url": "https://www.imdb.com/name/nm0001618/"
+    },
+    {
+      "name": "John Travolta",
+      "url": "https://www.imdb.com/name/nm0000237/"
+    },
+    {
+      "name": "Jacinda Barrett",
+      "url": "https://www.imdb.com/name/nm0057150/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jay Russell",
+      "url": "https://www.imdb.com/name/nm0751221/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lewis Colick",
+      "url": "https://www.imdb.com/name/nm0171474/"
+    }
+  ]
+}

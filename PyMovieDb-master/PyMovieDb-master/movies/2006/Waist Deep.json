@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Waist Deep",
+  "url": "https://www.imdb.com/tt0456020/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODQ3OTkxNTgyN15BMl5BanBnXkFtZTcwMjA0ODQzMQ@@._V1_.jpg",
+  "description": "An ex-convict (Tyrese) gets tangled up with a gang after his car is hijacked with his son inside.",
+  "review": {
+    "author": "xredgarnetx",
+    "dateCreated": "2006-10-14",
+    "inLanguage": "English",
+    "heading": "Puzzling",
+    "reviewBody": "WAIST DEEP follows a tried and true formula: Ex-con's son is kidnapped by his ex-partner in crime, a ransom is demanded, the ex-con works diligently to put together the ransom while doing his best to undermine his old partner, and there's a final showdown between them. The kid is cute, the ex-con is an impressive slab of beef, the former partner is suitably menacing and fugly beyond belief, and of course there's a pretty female to help things along. The formula works most of the time, but the movie is so predictable that in the end I asked myself why I bothered to rent it. There is a heckuva car chase near the end that sort of makes up for a dull middle. The movie, which could have just as easily starred Bruce Willis or Mel Gibson in his prime, clearly was aimed at an urban audience even though it was heavily marketed as a mainstream flick. That's why I rented it. It could have been a lot worse, I suppose.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 10467,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2006-11-03",
+  "keywords": "hood,hijack,hijacking,hijacker,child in jeopardy",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Tyrese Gibson",
+      "url": "https://www.imdb.com/name/nm0879085/"
+    },
+    {
+      "name": "Meagan Good",
+      "url": "https://www.imdb.com/name/nm0328709/"
+    },
+    {
+      "name": "Larenz Tate",
+      "url": "https://www.imdb.com/name/nm0005478/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Vondie Curtis-Hall",
+      "url": "https://www.imdb.com/name/nm0193554/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Vondie Curtis-Hall",
+      "url": "https://www.imdb.com/name/nm0193554/"
+    },
+    {
+      "name": "Darin Scott",
+      "url": "https://www.imdb.com/name/nm0779011/"
+    },
+    {
+      "name": "Michael Mahern",
+      "url": "https://www.imdb.com/name/nm0536893/"
+    }
+  ]
+}

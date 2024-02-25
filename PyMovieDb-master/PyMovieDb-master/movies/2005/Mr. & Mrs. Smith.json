@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Mr. & Mrs. Smith",
+  "url": "https://www.imdb.com/tt0356910/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzcxNzQzOF5BMl5BanBnXkFtZTcwMzQxNjUyMw@@._V1_.jpg",
+  "description": "A bored married couple is surprised to learn that they are both assassins hired by competing agencies to kill each other.",
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2005-06-10",
+  "keywords": "secret agent, character names as title, pump action shotgun, tough girl, arsenal",
+  "duration": "PT2H",
+  "rating": {
+    "ratingCount": 535829,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "review": {
+    "author": "thefilmguru-3",
+    "dateCreated": "2006-10-20",
+    "inLanguage": "English",
+    "heading": "Hmmm",
+    "reviewBody": "I find it quite hard to..i don't know..analyse this movie.\n\nOn one hand this could be a masterpiece, with the swirling clever cinematography and the obvious chemistry between Angelina Jolie and Brad Pitt (as they hitched up in real life during the filming). But, on the other hand, this is a stupid film, just an action flick, trying to be emotional and meaningful but turned out trying to be a blockbuster.\n\nI hope you see what i mean. I have rated this film 7, because of the reasons above, as the clever cinematography mixed with some good fun comedy and watchable action can't be that harmless can it. Can it? See for yourself.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "Brad Pitt",
+      "url": "https://www.imdb.com/name/nm0000093/"
+    },
+    {
+      "name": "Angelina Jolie",
+      "url": "https://www.imdb.com/name/nm0001401/"
+    },
+    {
+      "name": "Adam Brody",
+      "url": "https://www.imdb.com/name/nm0111013/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Doug Liman",
+      "url": "https://www.imdb.com/name/nm0510731/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Simon Kinberg",
+      "url": "https://www.imdb.com/name/nm1334526/"
+    }
+  ]
+}

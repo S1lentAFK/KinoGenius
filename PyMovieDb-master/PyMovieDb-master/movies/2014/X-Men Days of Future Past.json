@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "X-Men: Days of Future Past",
+  "url": "https://www.imdb.com/tt1877832/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjk3MGZhMjEtOTM4NC00NzE2LTk2NzctZDc4YTUwN2E3NDhhXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_.jpg",
+  "description": "The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants.",
+  "review": {
+    "author": "bthivet",
+    "dateCreated": "2014-05-13",
+    "inLanguage": "English",
+    "heading": "A new kind of super heroes movies (sorry for English mistakes)",
+    "reviewBody": "As a well known director one says, to make a great movie, you have to (as a director) believe your movie is the best ever made. In today's blockbuster standards, we do not see that at all. What I see when I watch a Marvel/Disney movie (just for the example), I feel as a spectator that directors want to make an entertainment movie, with an absolutely needs of huge action and explosion scenes, with a crescendo structure ending with a KABOOM (what an illustration^^). That's great, that make good blockbusters - but not great. I had high expectations with this movie, and yet I am not an X-Men fan and Bryan singer disappointed me a lot of times - but the trailer gave me chills and as French, I really wanted to see Omar Sy in a super-production (stupid but true). \n\nAnyway, after seeing it, with 2500 X-Men fan in Paris, I was divided. In fact, I expected something else entirely. There is some plot holes, monotonous parts However, after thought a lot about it, I have to say that is a masterpiece in super heroes' movies. Why? Because it is very different from what we see today, we are not waiting for a finale with explosions, characters just keep moving so the finale do not overdo it but is still very impressive visually. Plus, this movie is very human paradoxically: it speaks about usual mutants themes, but the very point of the movie is can we change, whether it be the past or our vision of the present. The intelligence of the movie is not to focus on changing the past but on writing the present. \n\nBut the most important thing that makes this movie great is that Bryan Singer loves this franchise and more than making a great blockbuster, he wanted to make a great movie relying on the characters. He was convinced of making the best movie ever and even if it is not the case, I felt it, so despite all is defaults, X-MEN DAYS OF THE FUTURE PAST is a great movie, maybe, one of the best super-hero movies ever made. \n\nI advise you to stay till the end of the credits, the scene is just awesome.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 740764,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2014-05-22",
+  "keywords": "time travel,supernatural power,super strength,time paradox,dystopia",
+  "duration": "PT2H12M",
+  "actor": [
+    {
+      "name": "Patrick Stewart",
+      "url": "https://www.imdb.com/name/nm0001772/"
+    },
+    {
+      "name": "Ian McKellen",
+      "url": "https://www.imdb.com/name/nm0005212/"
+    },
+    {
+      "name": "Hugh Jackman",
+      "url": "https://www.imdb.com/name/nm0413168/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bryan Singer",
+      "url": "https://www.imdb.com/name/nm0001741/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Simon Kinberg",
+      "url": "https://www.imdb.com/name/nm1334526/"
+    },
+    {
+      "name": "Jane Goldman",
+      "url": "https://www.imdb.com/name/nm0963359/"
+    },
+    {
+      "name": "Matthew Vaughn",
+      "url": "https://www.imdb.com/name/nm0891216/"
+    }
+  ]
+}

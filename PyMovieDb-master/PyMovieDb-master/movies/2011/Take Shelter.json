@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Take Shelter",
+  "url": "https://www.imdb.com/tt1675192/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzgzODA5MTU3MF5BMl5BanBnXkFtZTcwODY4MDEwNg@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "view_and_review",
+    "dateCreated": "2021-06-18",
+    "inLanguage": "English",
+    "heading": "When You Need a Disaster to Happen for Your Sanity",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 107021,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "datePublished": "2011-11-25",
+  "keywords": "schizophrenia,ambiguous ending,psychological,storm,storm shelter",
+  "duration": "PT2H1M",
+  "actor": [
+    {
+      "name": "Michael Shannon",
+      "url": "https://www.imdb.com/name/nm0788335/"
+    },
+    {
+      "name": "Jessica Chastain",
+      "url": "https://www.imdb.com/name/nm1567113/"
+    },
+    {
+      "name": "Shea Whigham",
+      "url": "https://www.imdb.com/name/nm0924154/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeff Nichols",
+      "url": "https://www.imdb.com/name/nm2158772/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jeff Nichols",
+      "url": "https://www.imdb.com/name/nm2158772/"
+    }
+  ]
+}

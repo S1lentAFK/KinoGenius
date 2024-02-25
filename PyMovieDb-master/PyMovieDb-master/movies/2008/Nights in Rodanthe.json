@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Nights in Rodanthe",
+  "url": "https://www.imdb.com/tt0956038/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI2MDA0MTI0Ml5BMl5BanBnXkFtZTcwMDkzNDMwMg@@._V1_.jpg",
+  "description": "A doctor, who is travelling to see his estranged son, sparks with an unhappily married woman at a North Carolina inn.",
+  "datePublished": "2008-10-10",
+  "contentRating": "PG",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "duration": "PT1H37M",
+  "keywords": "inn,north carolina,death,infidelity,surgeon",
+  "rating": {
+    "ratingCount": 26224,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "review": {
+    "author": "evetan00000",
+    "dateCreated": "2008-10-10",
+    "inLanguage": "English",
+    "heading": "Old-fashioned love story",
+    "reviewBody": "Nights in Rodanthe is based on a novel by Nicholas Sparks and I have read a few of his works which mainly involves 2nd-chance romance w a hint of tragedy behind it. I remembered 'A Walk To Remember', 'The Notebook', 'Message In A Bottle'. Starring Richard Gere & Diane Lane, it's a story about a housewife who just divorced her husband and was helping out her best friend's beach inn when Dr Paul arrived at the inn to stay for 5 days. Both had problems they had to face and through these few days they found each other and fell in love. Unfortunately they had to part but continued to keep in touch the old-fashioned way until... Initially, I was a bit reluctant to even make an effort to go to this movie but since it's Nicholas Sparks, I thought I should give it a chance cos Im no fan of Richard Gere nor Diane Lane. The story is pretty pacey w enough sexual tension between the 2 stars, I love the beach inn though, just what I would picture my dream beach house to be, except not that huge and prob not that close to the sea. Surprisingly I found myself mesmerized by Richard Gere, especially his eyes so I would say for his age, he's still very charming. This story is a tearjerker and even tho Im resistant to tearing, it did squeeze out a few drops and certain parts of the movie so it's still good. Overall, a so-so movie that makes you feel like you want to be in love again the old-fashioned way.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "actor": [
+    {
+      "name": "Diane Lane",
+      "url": "https://www.imdb.com/name/nm0000178/"
+    },
+    {
+      "name": "Richard Gere",
+      "url": "https://www.imdb.com/name/nm0000152/"
+    },
+    {
+      "name": "Christopher Meloni",
+      "url": "https://www.imdb.com/name/nm0005221/"
+    }
+  ],
+  "director": [
+    {
+      "name": "George C. Wolfe",
+      "url": "https://www.imdb.com/name/nm0938045/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ann Peacock",
+      "url": "https://www.imdb.com/name/nm0668754/"
+    },
+    {
+      "name": "John Romano",
+      "url": "https://www.imdb.com/name/nm0738908/"
+    },
+    {
+      "name": "Nicholas Sparks",
+      "url": "https://www.imdb.com/name/nm0817023/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Jeepers Creepers 2",
+  "url": "https://www.imdb.com/tt0301470/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIxNDI2NzQyNF5BMl5BanBnXkFtZTYwMTY5MTQ3._V1_.jpg",
+  "description": "Set a few days after the original, a championship basketball team's bus is attacked by The Creeper, the winged, flesh-eating terror, on the last day of his 23-day feeding frenzy.",
+  "contentRating": "15",
+  "genre": [
+    "Horror"
+  ],
+  "datePublished": "2003-08-29",
+  "keywords": "cornfield,demon,school bus,winged monster,serial killer",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Jonathan Breck",
+      "url": "https://www.imdb.com/name/nm0106534/"
+    },
+    {
+      "name": "Ray Wise",
+      "url": "https://www.imdb.com/name/nm0936403/"
+    },
+    {
+      "name": "Nicki Aycox",
+      "url": "https://www.imdb.com/name/nm0043704/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Victor Salva",
+      "url": "https://www.imdb.com/name/nm0759207/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Victor Salva",
+      "url": "https://www.imdb.com/name/nm0759207/"
+    }
+  ],
+  "review": {
+    "author": "Nightman85",
+    "dateCreated": "2005-12-22",
+    "inLanguage": "English",
+    "heading": "A very fun sequel!",
+    "reviewBody": "Sequel to the terrific 2001 horror film is a wildly fun ride, even if it doesn't quite live up to the chilling original.\n\nOn the final evening of his annual feeding, the Creeper terrorizes a bus load of students, while a local farmer is looking for some revenge.\n\nWhile it may lack some of the unique elements of the original film (like the Creeper's truck, the title song, etc.) this sequel is still a highly-energized and occasionally spooky thriller. There's plenty of action, impressive makeup FX, moments of gruesome humor, and tightening suspense to drive it. Once again Salva delivers good directorial touches and an entertaining story.\n\nThe cast, headed by veteran actor Ray Wise, is good. Especially good are the relatively unknown young stars Nenninger, Aycox, Schiffner, Brown, Hammond, and Delfino. Breck returns as the Creeper and is creepier than ever.\n\nWhile Jeepers Creepers 2 is never as scary as its predecessor it is a very entertaining sequel.\n\n*** out of ****",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 70092,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  }
+}

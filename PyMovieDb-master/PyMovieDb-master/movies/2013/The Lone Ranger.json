@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Lone Ranger",
+  "url": "https://www.imdb.com/tt1210819/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU1ODEyMzMyM15BMl5BanBnXkFtZTcwNjgyMDMwOQ@@._V1_.jpg",
+  "description": "Native American warrior Tonto recounts the untold tales that transformed John Reid, a man of the law, into a legend of justice.",
+  "review": {
+    "author": "centralbeerangi-307-394889",
+    "dateCreated": "2013-07-04",
+    "inLanguage": "English",
+    "heading": "Real film, real stunts, real actors and real fun",
+    "reviewBody": "You know the plot; you also know who is in this movie so lets get to it. Gore Verbinski has delivered a film that moves leisurely along peppered with rousing action sequences, comedy, villainy and pathos. It is solid entertainment. I would place this movie alongside Waterworld, The Last Action Hero, and John Carter as unfairly panned films which deserves to succeed in the cinema halls.\\n\\nIt is too bad that there appears to be a hate on for this movie simply because it seems that a lot of money was spent in its making. But look at it this way, when you hire real stunt persons, construct and destroy real trains and stage many stunts for real, it is not going to be cheap. I would rather support this type of movie-making any day instead of the tired CGI based effects laden yawners. Every penny of the budget is on screen in a beautiful shot and staged movie. I found it to be an enjoyable 159 minutes of entertainment.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 243554,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Western"
+  ],
+  "datePublished": "2013-08-09",
+  "keywords": "texas ranger,wild west,old west,american indian,horse",
+  "duration": "PT2H30M",
+  "actor": [
+    {
+      "name": "Johnny Depp",
+      "url": "https://www.imdb.com/name/nm0000136/"
+    },
+    {
+      "name": "Armie Hammer",
+      "url": "https://www.imdb.com/name/nm2309517/"
+    },
+    {
+      "name": "William Fichtner",
+      "url": "https://www.imdb.com/name/nm0001209/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gore Verbinski",
+      "url": "https://www.imdb.com/name/nm0893659/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Justin Haythe",
+      "url": "https://www.imdb.com/name/nm1244808/"
+    },
+    {
+      "name": "Ted Elliott",
+      "url": "https://www.imdb.com/name/nm0254645/"
+    },
+    {
+      "name": "Terry Rossio",
+      "url": "https://www.imdb.com/name/nm0744429/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Legend of Bagger Vance",
+  "url": "https://www.imdb.com/tt0146984/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWYzOGE4NGItYTAyNy00NDBkLTljYjMtYzE4MjFmYTY4NGVlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A down-and-out golfer attempts to recover his game and his life with help from a mystical caddie.",
+  "review": {
+    "author": "matthewtessnear",
+    "dateCreated": "2018-09-05",
+    "inLanguage": "English",
+    "heading": "Better Movie Than Critics Say",
+    "reviewBody": "Sports Illustrated once rated this the worst movie of all time. They&apos;re Crazy! Great story. Will Smith is excellent. Love the kid who plays the local Savannah boy! One of my favorite-if not my very favorite-golf movies.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 59172,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Drama",
+    "Fantasy",
+    "Sport"
+  ],
+  "datePublished": "2001-02-23",
+  "keywords": "golf,female removes her clothes,no music during opening credits,plus fours,barefoot male",
+  "duration": "PT2H6M",
+  "actor": [
+    {
+      "name": "Will Smith",
+      "url": "https://www.imdb.com/name/nm0000226/"
+    },
+    {
+      "name": "Matt Damon",
+      "url": "https://www.imdb.com/name/nm0000354/"
+    },
+    {
+      "name": "Charlize Theron",
+      "url": "https://www.imdb.com/name/nm0000234/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Redford",
+      "url": "https://www.imdb.com/name/nm0000602/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steven Pressfield",
+      "url": "https://www.imdb.com/name/nm0696267/"
+    },
+    {
+      "name": "Jeremy Leven",
+      "url": "https://www.imdb.com/name/nm0505230/"
+    }
+  ]
+}

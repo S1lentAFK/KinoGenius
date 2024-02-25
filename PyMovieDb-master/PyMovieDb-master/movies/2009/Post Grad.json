@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Post Grad",
+  "url": "https://www.imdb.com/tt1142433/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODlmZjU5MzUtMWY0ZC00N2ZlLTkyMTEtNjJjMDRjOTBmY2ExXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+  "description": "Ryden Malby graduates from college and is forced to move back into her childhood home with her eccentric family, while she attempts to find a job, the right guy, and just a hint of where her life is headed.",
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Romance"
+  ],
+  "datePublished": "2010-01-01",
+  "keywords": "title directed by female,unemployment,television studio,graduation,graduation speech",
+  "duration": "PT1H28M",
+  "actor": [
+    {
+      "name": "Alexis Bledel",
+      "url": "https://www.imdb.com/name/nm0088127/"
+    },
+    {
+      "name": "Michael Keaton",
+      "url": "https://www.imdb.com/name/nm0000474/"
+    },
+    {
+      "name": "Carol Burnett",
+      "url": "https://www.imdb.com/name/nm0000993/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Vicky Jenson",
+      "url": "https://www.imdb.com/name/nm0421776/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kelly Fremon Craig",
+      "url": "https://www.imdb.com/name/nm2609807/"
+    }
+  ],
+  "review": {
+    "author": "LiLTORTYA",
+    "dateCreated": "2011-08-07",
+    "inLanguage": "English",
+    "heading": "Deserves reconsideration",
+    "reviewBody": "The storyline, cast, scenery, and such are remedy for a decent product. The more I see it, the scenes are yes quirky but believably normal. Some comments I&apos;ve heard about this is that the 1 star raring is deserved but I wish this film was reconsidered considering the content. The editing may have been off or something but the meat of the movie is charmingly comfortable to watch. The lines are great, don&apos;tcha think? I&apos;m keeping this as more of a discussion topic rather than an actual review. From the house, the family car, the boyfriend situation, the temptations lurking next door, the cat scene, I mean there are so many parts to this movie that is lovable.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 14981,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  }
+}

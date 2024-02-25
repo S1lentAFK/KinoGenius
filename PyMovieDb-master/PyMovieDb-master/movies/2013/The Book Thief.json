@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Book Thief",
+  "url": "https://www.imdb.com/tt0816442/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM5MzE4NDU2Nl5BMl5BanBnXkFtZTgwNzM4ODkwMDE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "krocheav",
+    "dateCreated": "2014-01-26",
+    "inLanguage": "English",
+    "heading": "A Shining Gem In The Darkness",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 141755,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "War"
+  ],
+  "datePublished": "2014-02-26",
+  "keywords": "nazi,nazi germany,world war two,book,book burning",
+  "duration": "PT2H11M",
+  "actor": [
+    {
+      "name": "Sophie N\u00e9lisse",
+      "url": "https://www.imdb.com/name/nm4563869/"
+    },
+    {
+      "name": "Geoffrey Rush",
+      "url": "https://www.imdb.com/name/nm0001691/"
+    },
+    {
+      "name": "Emily Watson",
+      "url": "https://www.imdb.com/name/nm0001833/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brian Percival",
+      "url": "https://www.imdb.com/name/nm1093053/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Markus Zusak",
+      "url": "https://www.imdb.com/name/nm2295691/"
+    },
+    {
+      "name": "Michael Petroni",
+      "url": "https://www.imdb.com/name/nm0678104/"
+    }
+  ]
+}

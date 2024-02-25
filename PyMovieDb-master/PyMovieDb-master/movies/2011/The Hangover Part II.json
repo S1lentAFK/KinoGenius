@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Hangover Part II",
+  "url": "https://www.imdb.com/tt1411697/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM2MTM4MzY2OV5BMl5BanBnXkFtZTcwNjQ3NzI4NA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "ferguson-6",
+    "dateCreated": "2011-05-29",
+    "inLanguage": "English",
+    "heading": "It&apos; Happened Again ... And Again",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 530429,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2011-05-26",
+  "keywords": "wedding,strip club,female full frontal nudity,pubic hair,hangover",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Bradley Cooper",
+      "url": "https://www.imdb.com/name/nm0177896/"
+    },
+    {
+      "name": "Zach Galifianakis",
+      "url": "https://www.imdb.com/name/nm0302108/"
+    },
+    {
+      "name": "Ed Helms",
+      "url": "https://www.imdb.com/name/nm1159180/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Todd Phillips",
+      "url": "https://www.imdb.com/name/nm0680846/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Craig Mazin",
+      "url": "https://www.imdb.com/name/nm0563301/"
+    },
+    {
+      "name": "Scot Armstrong",
+      "url": "https://www.imdb.com/name/nm0035905/"
+    },
+    {
+      "name": "Todd Phillips",
+      "url": "https://www.imdb.com/name/nm0680846/"
+    }
+  ]
+}

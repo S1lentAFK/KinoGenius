@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hard Ball",
+  "url": "https://www.imdb.com/tt0180734/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjY3Nzk0NzkxMF5BMl5BanBnXkFtZTgwMTYxNzYxMTE@._V1_.jpg",
+  "description": "A gambling addict and ticket scalper living an aimless life reluctantly agrees to coach a Little League team from the Chicago projects as part of a loan agreement.",
+  "review": {
+    "author": "Abby-9",
+    "dateCreated": "2001-09-17",
+    "inLanguage": "English",
+    "heading": "Hope is always the better choice",
+    "reviewBody": "This is a stressful movie, with the gambling addiction and the gambling machine on one hand, and street gangs on the other. I really like the kids and think Keanu Reeves plays it straight with them. New York Times and local reviewers aside--way aside, this movie is definitely worth a look. I spent eight years on Chicago's South Side, and i'm grateful a cinema team is willing to show some emotion about some of the stuff that is part of grim daily life. The plot formula is good: i don't like cold voyeuristic slice-of-life with this material. I like that the material is used with an up-beat ending. Let us enjoy the entertainment of it, and find some hope in it. Goethe said that hope is always the better choice. And i will say it here: Keanu Reeves can act.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 33219,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2002-06-21",
+  "keywords": "chicago illinois,schoolteacher,intergenerational friendship,aimlessness,asthmatic child",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Keanu Reeves",
+      "url": "https://www.imdb.com/name/nm0000206/"
+    },
+    {
+      "name": "Diane Lane",
+      "url": "https://www.imdb.com/name/nm0000178/"
+    },
+    {
+      "name": "John Hawkes",
+      "url": "https://www.imdb.com/name/nm0370035/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brian Robbins",
+      "url": "https://www.imdb.com/name/nm0005367/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Daniel Coyle",
+      "url": "https://www.imdb.com/name/nm0185359/"
+    },
+    {
+      "name": "John Gatins",
+      "url": "https://www.imdb.com/name/nm0309691/"
+    }
+  ]
+}

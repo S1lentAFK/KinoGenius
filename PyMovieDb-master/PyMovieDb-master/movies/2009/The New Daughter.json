@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The New Daughter",
+  "url": "https://www.imdb.com/tt0951335/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAwNTQ2MzM4NF5BMl5BanBnXkFtZTcwMTgzNDcyMw@@._V1_.jpg",
+  "description": "A single father moves his two children to rural South Carolina, only to watch his daughter exhibit increasingly strange behavior.",
+  "review": {
+    "author": "rickytrapp",
+    "dateCreated": "2010-08-29",
+    "inLanguage": "English",
+    "heading": "A well crafted horror.",
+    "reviewBody": "Haven't seen a Kevin Costner movie in ages, I was looking forward to this solid horror. After his wife leaves him and his two kids, John James (Costner) and his children move to a isolated farm. But then, his daughter starts acting weird and it has something to do with a large mound near his home. Kevin Costner and the rest of the cast act well, but the star of the show is director Luis Berdejo for making a suspenseful, tense, well crafted thriller. Plenty of effective scares and a truly terrifying ending, The New Daughter is a solid horror film.\n\n7/10.\n\nRated PG-13 for strong violence.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 16033,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2010-10-07",
+  "keywords": "mound,ant farm,indian burial ground,shotgun,father daughter relationship",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "Kevin Costner",
+      "url": "https://www.imdb.com/name/nm0000126/"
+    },
+    {
+      "name": "Ivana Baquero",
+      "url": "https://www.imdb.com/name/nm1419440/"
+    },
+    {
+      "name": "Samantha Mathis",
+      "url": "https://www.imdb.com/name/nm0000526/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Luiso Berdejo",
+      "url": "https://www.imdb.com/name/nm1084937/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Travis",
+      "url": "https://www.imdb.com/name/nm2092862/"
+    },
+    {
+      "name": "John Connolly",
+      "url": "https://www.imdb.com/name/nm2391938/"
+    }
+  ]
+}

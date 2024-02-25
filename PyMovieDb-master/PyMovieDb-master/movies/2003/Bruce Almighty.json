@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Bruce Almighty",
+  "url": "https://www.imdb.com/tt0315327/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzMyZDhiZDUtYWUyMi00ZDQxLWE4NDQtMWFlMjI1YjVjMjZiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "description": "A whiny news reporter is given the chance to step into God&apos;s shoes.",
+  "review": {
+    "author": "Special-K88",
+    "dateCreated": "2003-05-24",
+    "inLanguage": "English",
+    "heading": "Carrey delivers",
+    "reviewBody": "Broad, amusing, and well-intended comic fantasy about an ambitious Buffalo reporter who hates his job and dreams of becoming a news anchor. After suffering from some hard luck, the jaded reporter directs his anger toward God whom he feels is ignoring him completely, at least until he has an unexpected celestial encounter that endows him with divine powers that allow him to see the truth. Well-crafted comedy does suffer from occasional lapses due to conventional story elements, but it&apos;s good-natured and consistently laugh-out loud funny, with some terrific sight gags, clever ideas, along with a perfect part for Carrey who makes a welcomed return to the kind of silliness that made him a star. ***",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 429940,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "datePublished": "2003-06-27",
+  "keywords": "supernatural power,divine intervention,catchphrase,magic,reference to god",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Jim Carrey",
+      "url": "https://www.imdb.com/name/nm0000120/"
+    },
+    {
+      "name": "Jennifer Aniston",
+      "url": "https://www.imdb.com/name/nm0000098/"
+    },
+    {
+      "name": "Morgan Freeman",
+      "url": "https://www.imdb.com/name/nm0000151/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tom Shadyac",
+      "url": "https://www.imdb.com/name/nm0001723/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steve Koren",
+      "url": "https://www.imdb.com/name/nm0466175/"
+    },
+    {
+      "name": "Mark O&apos;Keefe",
+      "url": "https://www.imdb.com/name/nm0641479/"
+    },
+    {
+      "name": "Steve Oedekerk",
+      "url": "https://www.imdb.com/name/nm0644203/"
+    }
+  ]
+}

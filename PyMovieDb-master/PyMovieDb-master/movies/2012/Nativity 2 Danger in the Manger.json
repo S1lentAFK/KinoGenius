@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Nativity 2: Danger in the Manger!",
+  "url": "https://www.imdb.com/tt2089750/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMDM0MzM0Ml5BMl5BanBnXkFtZTgwNjIxMTkyMTE@._V1_.jpg",
+  "description": "A worried new teacher has to juggle a pregnant wife and a class of children on a road trip to the National 'Song for Christmas' Competition.",
+  "review": {
+    "author": "r96sk",
+    "dateCreated": "2020-12-11",
+    "inLanguage": "English",
+    "heading": "A step down",
+    "reviewBody": "A step down, even if it isn't anything all that bad to be honest.\\n\\n'Nativity 2: Danger in the Manger!' is actually, only a tad, more serious than the first film, though it still features all the shenanigans that you'd expect from it. David Tennant is an upgrade on Martin Freeman, as is Joanna Page on Ashley Jensen. Marc Wootton is basically the same, as are Jason Watkins and Pam Ferris.\\n\\nThis one doesn't have as much charm as the original, not helped by the majority of it feeling like a copy. Sure, some things are changed but it's practically the same story - except for that fact that there is no actual Nativity play involved, so there's that. I still didn't dislike it though, it serves its purpose I guess.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 4355,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "U",
+  "genre": [
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2012-11-23",
+  "keywords": "christmas,exclamation point in title,punctuation in title,numbered sequel,competition",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "David Tennant",
+      "url": "https://www.imdb.com/name/nm0855039/"
+    },
+    {
+      "name": "Marc Wootton",
+      "url": "https://www.imdb.com/name/nm1742630/"
+    },
+    {
+      "name": "Jason Watkins",
+      "url": "https://www.imdb.com/name/nm0914327/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Debbie Isitt",
+      "url": "https://www.imdb.com/name/nm0411213/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Debbie Isitt",
+      "url": "https://www.imdb.com/name/nm0411213/"
+    }
+  ]
+}

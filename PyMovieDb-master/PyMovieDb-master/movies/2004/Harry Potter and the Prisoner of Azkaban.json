@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Harry Potter and the Prisoner of Azkaban",
+  "url": "https://www.imdb.com/tt0304141/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_.jpg",
+  "description": "Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat to the young wizard.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2013-12-22",
+    "inLanguage": "English",
+    "heading": "Darkest and best one yet",
+    "reviewBody": "This is the third movie in the franchise, and it&apos;s the darkest one yet. We&apos;re introduced to Dementors, vile creatures who are tasked to guard the prison of Azkaban. When Voldemort disciple Sirius Black escapes, Dementors are assigned to guard Hogwarts putting Harry and his friends in danger.\n\nThe introduction of Dementors ushers in a new darker chapter in the franchise. These CGI creatures look every bit the evil creatures they&apos;re suppose to be. Accomplished director Alfonso Cuar\u00f3n shows his great skills in creating tension and atmosphere. Even the darken corridors of Hogwarts are more foreboding. Without spoilers, I also must praise Hermione&apos;s part of the plot. The story loops created are usually fraught with problems. This one is done with care, and works great. Looking back, the change in tone is what drew me into the Harry Potter franchise. It is the first great Harry Potter movie and in my opinion, the best of the lot.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 685408,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2004-05-31",
+  "keywords": "werewolf,magic,wizard,rat,school of magic",
+  "duration": "PT2H22M",
+  "actor": [
+    {
+      "name": "Daniel Radcliffe",
+      "url": "https://www.imdb.com/name/nm0705356/"
+    },
+    {
+      "name": "Emma Watson",
+      "url": "https://www.imdb.com/name/nm0914612/"
+    },
+    {
+      "name": "Rupert Grint",
+      "url": "https://www.imdb.com/name/nm0342488/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Alfonso Cuar\u00f3n",
+      "url": "https://www.imdb.com/name/nm0190859/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "J.K. Rowling",
+      "url": "https://www.imdb.com/name/nm0746830/"
+    },
+    {
+      "name": "Steve Kloves",
+      "url": "https://www.imdb.com/name/nm0460141/"
+    }
+  ]
+}

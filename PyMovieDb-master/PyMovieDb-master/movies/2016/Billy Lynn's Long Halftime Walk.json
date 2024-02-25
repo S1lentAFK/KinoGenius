@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "Billy Lynn's Long Halftime Walk",
+  "url": "https://www.imdb.com/tt2513074/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY1NDI1Nzg4OF5BMl5BanBnXkFtZTgwNjYxOTg4ODE@._V1_.jpg",
+  "description": "19-year-old Billy Lynn is brought home for a victory tour after a harrowing Iraq battle. Through flashbacks, the film shows what really happened to his squad - contrasting the realities of war with America's perceptions.",
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2017-02-10",
+  "keywords": [
+    "based on novel",
+    "flashback",
+    "thanksgiving day",
+    "iraq war",
+    "character name in title"
+  ],
+  "duration": "PT1H53M",
+  "actor": [
+    {
+      "name": "Joe Alwyn",
+      "url": "https://www.imdb.com/name/nm7153679/"
+    },
+    {
+      "name": "Garrett Hedlund",
+      "url": "https://www.imdb.com/name/nm1330560/"
+    },
+    {
+      "name": "Arturo Castro",
+      "url": "https://www.imdb.com/name/nm3594330/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ang Lee",
+      "url": "https://www.imdb.com/name/nm0000487/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ben Fountain",
+      "url": "https://www.imdb.com/name/nm1697731/"
+    },
+    {
+      "name": "Jean-Christophe Castelli",
+      "url": "https://www.imdb.com/name/nm0144785/"
+    }
+  ],
+  "review": {
+    "author": "wanglivalley",
+    "dateCreated": "2016-11-12",
+    "inLanguage": "English",
+    "heading": "This movie is far more than anti-war.",
+    "reviewBody": "Many people said it is an anti-war movie,I don't think so. This movie is far more than anti-war.Because it is not a rich story ,but a rich truth and an emotion. It doesn't want to give you an opinion about what war is, but show you an emotion about a young man and a war. A so-called hero came back from Iraq, how is his life?\\n\\nIn the real world, the truth and emotion are complicated. So it is hard to say what its theme is. Maybe the theme is to doubt our fake society Maybe the theme is to show the hero's confused life. However, they are parts of this movie. It is more like a section of Billy's life. He has family,battle companion, stranger and girlfriends. Sometimes he is distracted at his important moment,sometims all in front of him remind him of war. He sees and thinks.He might find that life is difficult to choose,finally he go back to the place where he belongs.\\n\\nIf you can feel you are Billy Lynn, you can feel how ridiculous this society is.Nobody understands you,people see what they want to see.the sad thing is, you can change nothing but follow the direction of fate.\\n\\nIf you don't have sensory substitution,this movie is boring.\\n\\nFrom the beginning of Billy's halftime show\\uff0c I can't help crying. I even can't detail the reasons of my tears. The emotion is so strong, so complicate and so advanced. I feel so sad about Billy's life.\\n\\nI think it is a good movie, not very fun, but revolutionary.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 23933,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  }
+}

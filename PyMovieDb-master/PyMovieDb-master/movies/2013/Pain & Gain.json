@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Pain Hustlers",
+  "url": "https://www.imdb.com/tt15257160/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWMxYjNhZmEtNDBjZi00ZjFmLWJlZDMtYTVlYjljMmNkZWFhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "description": "Liza dreams of a better life for herself and her daughter. Hired to work for a bankrupt pharmaceutical company, Liza skyrockets with sales and into the high life, putting her in the middle of a federal criminal conspiracy.",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "contentRating": "15",
+  "duration": "PT2H3M",
+  "datePublished": "2023-10-27",
+  "keywords": "criminal,conspiracy,daughter,job,investigation",
+  "rating": {
+    "ratingCount": 39856,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "review": {
+    "author": "efardette",
+    "dateCreated": "2023-11-07",
+    "inLanguage": "English",
+    "heading": "Strong Acting Carries the Story",
+    "reviewBody": "Considering there are now more than 75 reviews on the movie, I&apos;ll keep it brief.\\n\\nEmily Blunt, Chris Evans, Andy Garcia, Catherine O&apos;Hara and all the actors turn in strong performances. It&apos;s really their acting that made the story engaging and effective. Especially considering the big pharma genre of drama movies has been milked a lot lately. Blunt is a stand-out here, bringing emotion to every scene she&apos;s in.\\n\\nYou&apos;ll get high drama, a little suspense, a few laughs and feel a connection with at least one of the main characters. You will likely also feel some anger... and compassion for Emily Blunt&apos;s character and her daughter.\\n\\nIt&apos;s a bit longer than I felt it should&apos;ve been but it will keep you interested to see how it all comes to a head at the end. If you&apos;ve got a couple hours and are looking for a dramatic story about the corruption of the pharmaceutical industry, this movie is worth the watch. A move has to be almost life-changing for me to rate it 8, 9, or10, but in my book, this one is a solid 7.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "Emily Blunt",
+      "url": "https://www.imdb.com/name/nm1289434/"
+    },
+    {
+      "name": "Chris Evans",
+      "url": "https://www.imdb.com/name/nm0262635/"
+    },
+    {
+      "name": "Catherine O&apos;Hara",
+      "url": "https://www.imdb.com/name/nm0001573/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Yates",
+      "url": "https://www.imdb.com/name/nm0946734/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Wells Tower",
+      "url": "https://www.imdb.com/name/nm2862509/"
+    },
+    {
+      "name": "Evan Hughes",
+      "url": "https://www.imdb.com/name/nm6937998/"
+    }
+  ]
+}

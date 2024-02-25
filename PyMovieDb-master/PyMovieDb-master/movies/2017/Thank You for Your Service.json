@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Thank You for Your Service",
+  "url": "https://www.imdb.com/tt2776878/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA0NTM5NzgzMjJeQTJeQWpwZ15BbWU4MDAwODc3NjIy._V1_.jpg",
+  "description": "A group of U.S. soldiers returning from Iraq struggle to integrate back into family and civilian life, while living with the memory of a war that threatens to destroy them long after they&apos;ve left the battlefield.",
+  "review": {
+    "author": "latinfineart",
+    "dateCreated": "2022-10-20",
+    "inLanguage": "English",
+    "heading": "Excellent film",
+    "reviewBody": "His film is very well done, the performances are great, the direction is great, and overall it&apos;s an excellent look at the effects of PTSD and the life that these guys come home to after fighting a useless and futile war. I call it the Cheney after effect because these guys went into a war without having any idea what they were coming back to, and they came back to a VA that completely betrayed them, because the budget was never there to take care of these guys after they devoted their hearts and souls to fighting for their nation. It&apos;s a real indictment of the VA but it&apos;s absolutely true from everything I&apos;m told.\n\nThis is a very powerful film that just tugs at your heart. Not what I would call entertainment, but a great movie. Cheney, Bush Jr., Rumsfeld, and Wolfowitz should have been tried at the Hague.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 15512,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "R",
+  "genre": [
+    "Biography",
+    "Drama",
+    "War"
+  ],
+  "datePublished": "2017-10-27",
+  "keywords": "soldier,u.s. invasion of iraq,military,sex scene,dog fight",
+  "duration": "PT1H49M",
+  "actor": [
+    {
+      "name": "Miles Teller",
+      "url": "https://www.imdb.com/name/nm1886602/"
+    },
+    {
+      "name": "Beulah Koale",
+      "url": "https://www.imdb.com/name/nm3872230/"
+    },
+    {
+      "name": "Joe Cole",
+      "url": "https://www.imdb.com/name/nm3771184/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jason Hall",
+      "url": "https://www.imdb.com/name/nm0355699/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Finkel",
+      "url": "https://www.imdb.com/name/nm4001152/"
+    },
+    {
+      "name": "Jason Hall",
+      "url": "https://www.imdb.com/name/nm0355699/"
+    }
+  ]
+}

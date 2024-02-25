@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "In My Country",
+  "url": "https://www.imdb.com/tt13163252/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmM5OTE2OTEtZDMxMS00OTdiLWE3ODItNjY4MTZhMGU3OGRhXkEyXkFqcGdeQXVyMTEwNDYwNzQ5._V1_.jpg",
+  "description": "A woman desperately seeks help from a man she knew in her past to raise the money needed for her daughter's critical surgery and faces dark consequences.",
+  "genre": [
+    "Action"
+  ],
+  "duration": "PT1H39M",
+  "datePublished": null,
+  "contentRating": null,
+  "keywords": "money,woman,past,man",
+  "actor": [
+    {
+      "name": "Sam Dede",
+      "url": "https://www.imdb.com/name/nm2120516/"
+    },
+    {
+      "name": "Bimbo Manuel",
+      "url": "https://www.imdb.com/name/nm2134954/"
+    },
+    {
+      "name": "Okawa Shaznay",
+      "url": "https://www.imdb.com/name/nm6331954/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Frank Rajah Arase",
+      "url": "https://www.imdb.com/name/nm2606732/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Frank Rajah Arase",
+      "url": "https://www.imdb.com/name/nm2606732/"
+    },
+    {
+      "name": "Kehinde Joseph Omoto",
+      "url": "https://www.imdb.com/name/nm11630233/"
+    }
+  ],
+  "review": {
+    "author": "RosanaBotafogo",
+    "dateCreated": "2022-02-28",
+    "inLanguage": "English",
+    "heading": "The film is more necessary than technical...",
+    "reviewBody": "The film is more necessary than technical, it talks about social classes, violence, precarious health system, parental abandonment, street children in the world of trafficking, at times it was extremely fast, running over the facts, and disconnecting action, especially in the 20 minutes introductory shows, then it only sinned in the execution, but the script filled with social criticism was the high point, culminating in a good lesson in family morals...",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 19,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  }
+}

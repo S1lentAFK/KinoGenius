@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Da Vinci Code",
+  "url": "https://www.imdb.com/tt0382625/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjQyMTc3Nl5BMl5BanBnXkFtZTcwMTA1MDUzMw@@._V1_.jpg",
+  "description": "A murder inside the Louvre, and clues in Da Vinci paintings, lead to the discovery of a religious mystery protected by a secret society for two thousand years, which could shake the foundations of Christianity.",
+  "review": {
+    "author": "jon2005",
+    "dateCreated": "2006-05-24",
+    "inLanguage": "English",
+    "heading": "The Da Vinci Code",
+    "reviewBody": "The controversy surrounding The Da Vinci Code hardly needs to be introduced. It seemed that very few people were actually going to give the film the benefit of the doubt, while most would criticize it before seeing it. Of course, many more of these critics had not read the book either, and so were pleasantly ignored by the 60 million and more people who went out and bought the book.\\n\\nWhen I read the book, I accepted it for what it was \\u0096 a pulp novel. The kind of book you take on holiday to read while you&apos;re at the airport. It wasn&apos;t wholly convincing, but I thought it was great fun to read, and very cinematic in style. The writing wasn&apos;t classic, but the pace of the novel was such that these points could be overlooked. It wasn&apos;t surprising that a film would be made given the book&apos;s success and despite initial critical reaction what we are given is, while not perfect, a solid adaptation of the book that will at least give the audience plenty of food for thought.\\n\\nThis is no National Treasure though. If you&apos;re looking for adventure and daring action then look to that film. This is a different beast, instead preferring the slow build up approach to story-telling - it is to the mystery/thriller genre what V for Vendetta is to the action genre. Most of the important parts of the book are when the characters are sat around a table talking. This immediately doesn&apos;t sound like it could translate to the screen that effectively, but there are enough nice touches to keep the audience interested.\\n\\nFirst of all, the story itself, whilst not necessarily historically accurate, it is still absorbing and it genuinely makes you wonder about the truth behind the religion. There are also some nice visual flairs, including some well shot flashbacks, and the way Robert Langdon (Hanks) visualises the unscrambling of the codes is a great way to show the inner workings of is mind. At first it may seem silly but there is very little choice as to how to portray someone thinking. Hanks himself is passable in the role, but is not really given anything meaty to do. However, the same can be said of a lot of the cast, and this is purely down to the fact that the plot is moving too fast, and giving out too much information, to be able to dive into character exposition. Ian McKellen as Leigh Teabing is wonderful as a slightly eccentric English Grail expert, and gives a lively performance, which helps considerably given that most of his role is to explain everything to Langdon and Sophie Neveu (Tautou). Paul Bettany plays against type to play the murderous monk Silas, and he will make you wince with his self-flagellation scenes. The other cast members are all satisfactory but nothing special, again because of the speed of the story.\\n\\nThere are a couple of chase scenes which are supposed to be tense, but they turn out rather lacklustre, and one scene near the end comes off as daft (no spoilers, but people get saved by a pigeon, of all things!). The plot may be hard to follow at times, especially if you haven&apos;t read the book, so full attention will be needed; however, if you have read the book, the film sticks very closely to the story, omitting some parts for timing reasons, and it is now that we realise why the Da Vinci Code is how it is \\u0096 the film-makers couldn&apos;t do much else with it, as the tone and content of the book has to be retained for it to be a faithful translation: what suffers in the book suffers in the film.\\n\\nOverall, The Da Vinci Code is worth seeing, if only to see what all the fuss was about. If I was the Catholic Church, though, I would be more concerned with the religious violence portrayed in the film than with the outcome of the plot, which can try all it likes to challenge established dogma but most likely won&apos;t succeed because people know the book and film are fiction. Keep that it mind when you see it \\u0096 don&apos;t take it literally and chances are you will enjoy it that much more. At two and a half hours it is a tad too long, and can be confusing to first time viewers, but it is definitely thought provoking, and a mostly worthy adaptation of the book.\\n\\nRated: 7/10 \\n\\nMore reviews at: http://www.thelazylounge.net",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 456210,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2006-05-19",
+  "keywords": "self flagellation,male nudity,catholic,police detective,church",
+  "duration": "PT2H29M",
+  "actor": [
+    {
+      "name": "Tom Hanks",
+      "url": "https://www.imdb.com/name/nm0000158/"
+    },
+    {
+      "name": "Audrey Tautou",
+      "url": "https://www.imdb.com/name/nm0851582/"
+    },
+    {
+      "name": "Jean Reno",
+      "url": "https://www.imdb.com/name/nm0000606/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ron Howard",
+      "url": "https://www.imdb.com/name/nm0000165/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Akiva Goldsman",
+      "url": "https://www.imdb.com/name/nm0326040/"
+    },
+    {
+      "name": "Dan Brown",
+      "url": "https://www.imdb.com/name/nm1467010/"
+    }
+  ]
+}

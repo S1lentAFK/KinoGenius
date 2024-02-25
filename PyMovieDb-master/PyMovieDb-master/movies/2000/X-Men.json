@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "X-Men",
+  "url": "https://www.imdb.com/tt0120903/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmIyMDk5NGYtYjQ5NS00ZWQxLTg2YzQtZDk1ZmM4ZDBlN2E3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "In a world where mutants (evolved super-powered humans) exist and are discriminated against, two groups form for an inevitable clash: the supremacist Brotherhood, and the pacifist X-Men.",
+  "review": {
+    "author": "Marshall-D-Teach",
+    "dateCreated": "2020-02-12",
+    "inLanguage": "English",
+    "heading": "X-Men",
+    "reviewBody": "I find X-men a good start to the x-men franchise since it brings the characters we all know in love from the comics or even the old animated TV show of x-men with people like the wolverine, jean grey or mystique, all of which we know from the comics and I get why some people say now that it doesn&apos;t really have good CGI anymore but in my opinion I honestly think that it still has good animation till this day. I give X-men 2000 10/10 stars, For its good story and how they put such good casting in this movie.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 642007,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2000-08-18",
+  "keywords": "mutant,superhero,superhero team,logan character,erik lehnsherr character",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Patrick Stewart",
+      "url": "https://www.imdb.com/name/nm0001772/"
+    },
+    {
+      "name": "Hugh Jackman",
+      "url": "https://www.imdb.com/name/nm0413168/"
+    },
+    {
+      "name": "Ian McKellen",
+      "url": "https://www.imdb.com/name/nm0005212/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bryan Singer",
+      "url": "https://www.imdb.com/name/nm0001741/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tom DeSanto",
+      "url": "https://www.imdb.com/name/nm0220892/"
+    },
+    {
+      "name": "Bryan Singer",
+      "url": "https://www.imdb.com/name/nm0001741/"
+    },
+    {
+      "name": "David Hayter",
+      "url": "https://www.imdb.com/name/nm0371684/"
+    }
+  ]
+}

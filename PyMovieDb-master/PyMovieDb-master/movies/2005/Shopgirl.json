@@ -1,0 +1,67 @@
+
+
+{
+  "type": "Movie",
+  "name": "Shopgirl",
+  "url": "https://www.imdb.com/tt0338427/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE2MTM5NjIyOV5BMl5BanBnXkFtZTcwOTg3NDAzMQ@@._V1_.jpg",
+  "description": "A film adaptation of Steve Martin's novel about a complex love triangle between a bored salesgirl, a wealthy businessman and an aimless young man.",
+  "review": {
+    "author": "JackCerf",
+    "dateCreated": "2005-10-31",
+    "inLanguage": "English",
+    "heading": "Only Connect",
+    "reviewBody": "Edward Hopper was the great painter of urban loneliness. Shopgirl had two perfectly composed and lit shots that could pass for Hopper paintings -- the one where we first see Mirabelle behind the glove counter at Saks, and the one where she solves the problem of how exactly to cross the intimacy threshold with Ray for the first time. Both involve the display of exquisite merchandise to customers who have excellent taste but don't quite appreciate the full value of what's being offered.\\n\\nThe relationship between Ray and Mirabelle is, of course, a transaction. Ray is what used to be called a sugar daddy. He knows it, and within the limits of that role he is apparently a generous and considerate keeper. We aren't given Ray's back story, but it is not hard to guess that a symbolic logician who made a fortune in computers might have been socially challenged, to put it mildly, as a young man, and suffered a good deal of rejection from women. He can now buy what he couldn't then woo, but experience has taught him never to relinquish control and never to let himself be vulnerable. A few hundred million dollars have cleaned up his exterior nicely and given him power over his surroundings, but the inner nerd is still there.\\n\\nMirabelle certainly appreciates the value of what Ray can do for her. Consider the shot in Vermont where she gazes at her dried out, prematurely worn mother and decides she'll meet Ray in New York after all. But Mirabelle refuses to admit to herself that she is only being kept. We are meant to think the better of her for her self deception. The sluttish, annoying and frankly mercenary but cheerfully self aware Lisa is there to draw an unfavorable contrast with Mirabelle. Paradoxically, it is Mirabelle's self-deceived integrity, and her refusal to use the crude manipulations Lisa suggests, that make her a more exquisite ornament for Ray -- gourmet arm candy for a man with the finest taste. Both women are punished for self deception, but Lisa suffers only comic humiliation while Mirabelle sets herself up for real pain.\\n\\nJeremy has the makings of a Ray in him, but we are meant to believe that he has -- implausibly -- attained emotional enlightenment, if not the capacity for articulate speech or sustained rational thought. He has earned Mirabelle, we are told, because he has remade himself to be worthy of her. Love may not conquer all in this bittersweet anti-romance, but it still does better than break even.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 24626,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2006-01-20",
+  "keywords": [
+    "slacker",
+    "depression",
+    "photography",
+    "foot closeup",
+    "camera shot of feet"
+  ],
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Steve Martin",
+      "url": "https://www.imdb.com/name/nm0000188/"
+    },
+    {
+      "name": "Claire Danes",
+      "url": "https://www.imdb.com/name/nm0000132/"
+    },
+    {
+      "name": "Jason Schwartzman",
+      "url": "https://www.imdb.com/name/nm0005403/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Anand Tucker",
+      "url": "https://www.imdb.com/name/nm0875793/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steve Martin",
+      "url": "https://www.imdb.com/name/nm0000188/"
+    }
+  ]
+}

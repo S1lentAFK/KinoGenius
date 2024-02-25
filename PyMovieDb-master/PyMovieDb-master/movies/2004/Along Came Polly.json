@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Along Came Polly",
+  "url": "https://www.imdb.com/tt0343135/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcxMDMwODg3Nl5BMl5BanBnXkFtZTYwMTM4NTY3._V1_.jpg",
+  "description": "A buttoned-up newlywed finds his strictly organized life descend into chaos when he falls in love with an old classmate.",
+  "review": {
+    "author": "Pookyiscute",
+    "dateCreated": "2006-01-07",
+    "inLanguage": "English",
+    "heading": "Funny, but not the funniest...",
+    "reviewBody": "Once again, Ben Stiller gives us yet another comedy, about love, life and being an adult nerd. Yet, this sadly doesn't hold a candle to 'Something About Mary', which may have been his best movie of his career.\n\nWe begin the film, seeing Reuben (Stiller) marrying Lisa (Messing). After their reception they head to St. Bartes, for their honeymoon. While on the beach they meet a French scuba instructor who has offered to take them out on his boat. Rebuen declines because he has a nervous stomach, but he insists that his beautiful new bride go, to make her happy. When he returns later that day to the boat, he finds his wife cheating on him. Upset, and hurt, he flies home, depressed that he has not only lost his wife, but now has decisions to deal with because of hers.\n\nEnter Polly. Several days after he returns to New York, his friend takes him to a party where he runs into a waitress (Aniston), whom he went to school with when he was in junior high. He calls her the next day and asks her out. Throughout the rest of the film, he learns how to deal with his phobias, irritations and just how to cut loose.\n\nEach time I see this film, it somehow has the opposite effect on me as most, where as normally I grow to love the film more and more, each time I see it, this one actually, seems to get worse and worse with each viewing. It is funny, and it's not a bad film at all, it's clever and cute, it's just that it does tend to lose flavor each time you see it.\n\nAniston and Stiller were equally good in this, and I still recommend it. It's a light comedy, and not at all like, 'The Cable Guy' or 'There's Something About Mary'. So, if you're looking for films that were as dark or adult as those, you won't find it here. But, it still is cute and clever in its own way, so it might still be worth a watch. Plus, Alec Baldwin plays a small part, which is not to be missed.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 143019,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2004-02-27",
+  "keywords": "ferret,dance scene,begins with a wedding,three word title,salsa dancing",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Ben Stiller",
+      "url": "https://www.imdb.com/name/nm0001774/"
+    },
+    {
+      "name": "Jennifer Aniston",
+      "url": "https://www.imdb.com/name/nm0000098/"
+    },
+    {
+      "name": "Debra Messing",
+      "url": "https://www.imdb.com/name/nm0005226/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Hamburg",
+      "url": "https://www.imdb.com/name/nm0357453/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Hamburg",
+      "url": "https://www.imdb.com/name/nm0357453/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Beethoven's 5th",
+  "url": "https://www.imdb.com/tt0342108/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGJmYmY3NWQtYmU5Ny00ZTZjLTliOWUtNDg4MzBkMTc3NDhiXkEyXkFqcGdeQXVyNDgyODgxNjE.jpg",
+  "description": "Sara Newton and Beethoven spends summer with Freddy Kablinski in Quicksilver, a weird town.",
+  "review": {
+    "author": "TheLittleSongbird",
+    "dateCreated": "2010-05-16",
+    "inLanguage": "English",
+    "heading": "Sorry, but for me Beethoven was the only good thing about this film",
+    "reviewBody": "I enjoyed the first Beethoven film, it was flawed but it was cute and charming. The second had its contrivances but it was watchable, while the third and fourth films were mediocre at best. So what can I say about Beethoven's 5th? My, my, my, this is by far the worst of the series, a real dog of a movie with one redeeming quality. And I have already given away that redeeming quality in the title. Yes, sorry to say, but for me Beethoven was the only good thing about this film, he is likable, funny and well trained and he is the only likable character here. I guess I could say the same for the previous two canine adventures, though the films themselves didn't quite reach this one's awfulness. Everything else did not work at all. The soundtrack, one of the redeeming qualities of the previous films, isn't necessarily horrendous, it is just the matter of how it was placed in the film. Sometimes it felt obtrusive and predictable here. But that isn't the worst part. Beethoven's 5th I felt was shoddily made, almost direct-to-video quality. Even worse than this was the direction, it was so awful and unfocused. The script has too many cheesy moments, and the plot is dreadfully weak. I know the plot wasn't necessarily a strong point of the first film not to mention the sequels that followed, but here it is disjointed and poorly structured with no sense of drive. And the characters, with the exception of Beethoven, don't have any sparkle. The actors just look as though they are trying to say here I am, and what am I doing in this movie, in short they looked embarrassed even those who were trying to give the film energy did not succeed due to the failure of the script and plot. Overall, this is an awful entry of the Beethoven series. 1/10 Bethany Cox",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 3576,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.1
+  },
+  "contentRating": "U",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Adventure"
+  ],
+  "datePublished": null,
+  "keywords": "nightmare, animal character name as title, beethoven the dog character, slimehouse, animals family",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Dave Thomas",
+      "url": "https://www.imdb.com/name/nm0858686/"
+    },
+    {
+      "name": "Faith Ford",
+      "url": "https://www.imdb.com/name/nm0004933/"
+    },
+    {
+      "name": "Daveigh Chase",
+      "url": "https://www.imdb.com/name/nm0153738/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mark Griffiths",
+      "url": "https://www.imdb.com/name/nm0341716/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Cliff Ruby",
+      "url": "https://www.imdb.com/name/nm0748429/"
+    },
+    {
+      "name": "Elana Lesser",
+      "url": "https://www.imdb.com/name/nm0504327/"
+    },
+    {
+      "name": "John Hughes",
+      "url": "https://www.imdb.com/name/nm0000455/"
+    }
+  ]
+}

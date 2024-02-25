@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "Angels & Demons",
+  "url": "https://www.imdb.com/tt0808151/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzNzM2MjgxMF5BMl5BanBnXkFtZTcwNTQ1MTM0Mg@@._V1_.jpg",
+  "description": "Harvard symbologist Robert Langdon works with a nuclear physicist to solve a murder and prevent a terrorist act against the Vatican during one of the significant events within the church.",
+  "review": {
+    "author": "EchoMaRinE",
+    "dateCreated": "2009-07-25",
+    "inLanguage": "English",
+    "heading": "worth watching but could have been done better",
+    "reviewBody": "This is an OK adaptation of the breath taking book of Dan Brown. I can't say it is novel or very good but they made a movie that you can enjoy. Given the excellent story, the result could have been better though. The movie is pretty long but at the end I was feeling like some things were missing. Sound effects and sound tracks were very good. Acting was well done but the character development phase was very weak. For people who didn't read the book, things may look happening too quickly. From my point of view, instead of trying to put as much as stuff from the book, they could have tried to do the important scenes more proper. What makes the book very good was all the puzzle like story combined with the excellent portrait of Vatican. You see neither of it in the movie. Too much rush and using the time not in a good way, these are main problems of the movie. So, it is worth watching but could have been done better.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 308074,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2009-05-14",
+  "keywords": [
+    "illuminati",
+    "reference to bernini",
+    "reference to raphael",
+    "murder of a priest",
+    "psychotronic film"
+  ],
+  "duration": "PT2H18M",
+  "actor": [
+    {
+      "name": "Tom Hanks",
+      "url": "https://www.imdb.com/name/nm0000158/"
+    },
+    {
+      "name": "Ewan McGregor",
+      "url": "https://www.imdb.com/name/nm0000191/"
+    },
+    {
+      "name": "Ayelet Zurer",
+      "url": "https://www.imdb.com/name/nm0957909/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ron Howard",
+      "url": "https://www.imdb.com/name/nm0000165/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Koepp",
+      "url": "https://www.imdb.com/name/nm0462895/"
+    },
+    {
+      "name": "Akiva Goldsman",
+      "url": "https://www.imdb.com/name/nm0326040/"
+    },
+    {
+      "name": "Dan Brown",
+      "url": "https://www.imdb.com/name/nm1467010/"
+    }
+  ]
+}

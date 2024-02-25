@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Agent Cody Banks 2: Destination London",
+  "url": "https://www.imdb.com/tt0358349/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY3NDg3NjktM2Q0MS00ZTJlLWE4Y2MtMGNhMjc3YThkN2M4XkEyXkFqcGdeQXVyMjM4NjgwODc@._V1_.jpg",
+  "description": "With all-new gadgets, high-flying action, exciting chases and a wisecracking new handler, Derek (Anthony Anderson), Cody has to retrieve the device before the world's leaders fall under the evil control of a diabolical villain.",
+  "review": {
+    "author": "The_Canuck_Critique",
+    "dateCreated": "2004-03-20",
+    "inLanguage": "English",
+    "heading": "from a kid's prospective....pretty darn good",
+    "reviewBody": "Seeing this movie with three boys aged 4,6 and 7, left me in stitches, sure it's corny, it's rigged, and the acting is so-so, but it's a kids movie and a darned entertaining one at that.\\n\\nMy kids loved it, and the theatre was packed, the laughter was loud and in the end, the cheering was louder! So take the movie at it's face value, it's with kids, and for the kids, and it's entertaining for them, nothing more, nothing more intended by the producers either I would assume!\\n\\nIn my books, the sequel like almost all sequels is not as good as the original, but well crafted nonetheless.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 15829,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.5
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2004-03-26",
+  "keywords": "tough girl,piano,listening to music,indian,girl",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Frankie Muniz",
+      "url": "https://www.imdb.com/name/nm0005260/"
+    },
+    {
+      "name": "Anthony Anderson",
+      "url": "https://www.imdb.com/name/nm0026364/"
+    },
+    {
+      "name": "Hannah Spearritt",
+      "url": "https://www.imdb.com/name/nm0817339/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kevin Allen",
+      "url": "https://www.imdb.com/name/nm0020728/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jeffrey Jurgensen",
+      "url": "https://www.imdb.com/name/nm1155510/"
+    },
+    {
+      "name": "Harald Zwart",
+      "url": "https://www.imdb.com/name/nm0958969/"
+    },
+    {
+      "name": "Dylan Sellers",
+      "url": "https://www.imdb.com/name/nm0783346/"
+    }
+  ]
+}

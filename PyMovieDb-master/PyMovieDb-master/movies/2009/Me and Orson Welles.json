@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Me and Orson Welles",
+  "url": "https://www.imdb.com/tt1175506/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzI5YjY0NjgtZDgxYi00YzFjLTljNzQtN2Y3ZTZjMDYzNjRkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "chaaa",
+    "dateCreated": "2009-01-14",
+    "inLanguage": "English",
+    "heading": "Just when you thought Linklater's body of work couldn't get any more erratic...",
+    "reviewBody": "Me and Orson Welles is a wonderful story of a young boy (Efron)whose only acting experience is in high school musicals (ha! See what they did there) who manages to get a small part in Orson Welles' (Adam McKay) 1937 production of Julius Caesar. The film follows the volatile relationship between Orson and his company. He is a madman, a selfish, arrogant user and an absolute genius. He knows how the politics of show-business and he knows people, and how to play them. However, for all his antics, he is powerfully charismatic and it seems generally accepted that he is a genius.\n\nChristian McKay's performance here as Orson Welles is wonderfully broad as he goes through every one of Orson Welles persona's with equal relish. He is snappy and arrogant but at the same time warm enough to earn some affection so when he lets a character down, you feel just as played yourself. The rest of the cast were great too. Zac Efron does his best here to leap from Disney heartthrob to leading man, and I personally thought he was solid and likable, with just enough of a sparkle in his eye and just enough skill to keep it there.\n\nOverall this film has a charming story, which ends on such a high note I didn't know whether to smile or cry. It also boasts a very strong cast and most importantly a sweet disposition that stayed with me for a good half hour after the credits rolled.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 11777,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2009-12-04",
+  "keywords": "based on real person,1930s,new york city,based on novel,inspired by a true story",
+  "duration": "PT1H54M",
+  "actor": [
+    {
+      "name": "Zac Efron",
+      "url": "https://www.imdb.com/name/nm1374980/"
+    },
+    {
+      "name": "Claire Danes",
+      "url": "https://www.imdb.com/name/nm0000132/"
+    },
+    {
+      "name": "Christian McKay",
+      "url": "https://www.imdb.com/name/nm1605114/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Richard Linklater",
+      "url": "https://www.imdb.com/name/nm0000500/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Kaplow",
+      "url": "https://www.imdb.com/name/nm2904878/"
+    },
+    {
+      "name": "Holly Gent",
+      "url": "https://www.imdb.com/name/nm0313012/"
+    },
+    {
+      "name": "Vincent Palmo Jr.",
+      "url": "https://www.imdb.com/name/nm0658628/"
+    }
+  ]
+}

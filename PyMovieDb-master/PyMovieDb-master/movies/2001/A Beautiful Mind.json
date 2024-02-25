@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "A Beautiful Mind",
+  "url": "https://www.imdb.com/tt0268978/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A mathematical genius, John Nash made an astonishing discovery early in his career and stood on the brink of international acclaim. But the handsome and arrogant Nash soon found himself on a harrowing journey of self-discovery.",
+  "review": {
+    "author": "auuwws",
+    "dateCreated": "2021-02-19",
+    "inLanguage": "English",
+    "heading": "A Beautiful Mind",
+    "reviewBody": "An excellent movie, and all the actors performed their roles perfectly, especially Russell Crowe, who presented the character of John in a great way, the story of the film was excellent and I did not expect the subject of illusions, the second half of the film was significantly better than the first half, I enjoyed watching the film and I recommend watching it",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 979728,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.2
+  },
+  "contentRating": "12",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2002-02-22",
+  "keywords": "mental illness,mathematician,schizophrenia,nobel prize,game theory",
+  "duration": "PT2H15M",
+  "actor": [
+    {
+      "name": "Russell Crowe",
+      "url": "https://www.imdb.com/name/nm0000128/"
+    },
+    {
+      "name": "Ed Harris",
+      "url": "https://www.imdb.com/name/nm0000438/"
+    },
+    {
+      "name": "Jennifer Connelly",
+      "url": "https://www.imdb.com/name/nm0000124/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ron Howard",
+      "url": "https://www.imdb.com/name/nm0000165/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Akiva Goldsman",
+      "url": "https://www.imdb.com/name/nm0326040/"
+    },
+    {
+      "name": "Sylvia Nasar",
+      "url": "https://www.imdb.com/name/nm0621586/"
+    }
+  ]
+}

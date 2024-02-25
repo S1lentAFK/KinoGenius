@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Where God Left His Shoes",
+  "url": "https://www.imdb.com/tt0756725/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjk2NjJjZDgtNzEwNC00YTY0LTlkOTUtNDJlMjg1MWJiMWM3XkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+  "description": "A failed boxer (Leguizamo) struggles to find a job and an apartment for his family on Christmas Eve.",
+  "contentRating": "Not Rated",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2007-04-27",
+  "keywords": "christmas,family relationships,job,boxer,poverty",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "John Leguizamo",
+      "url": "https://www.imdb.com/name/nm0000491/"
+    },
+    {
+      "name": "Leonor Varela",
+      "url": "https://www.imdb.com/name/nm0007237/"
+    },
+    {
+      "name": "David Castro",
+      "url": "https://www.imdb.com/name/nm1807350/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Salvatore Stabile",
+      "url": "https://www.imdb.com/name/nm0820905/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Salvatore Stabile",
+      "url": "https://www.imdb.com/name/nm0820905/"
+    }
+  ],
+  "review": {
+    "author": "AbundantDay",
+    "dateCreated": "2013-04-21",
+    "inLanguage": "English",
+    "heading": "Not a family movie.",
+    "reviewBody": "I greatly disliked this movie because it presented a very unhealthy way of parenting and allowed disrespect of children for parents. The language was real profane, especially between a stepfather and a young child. Every imaginable profanity was used. The story also showed a parent figure stealing in front of his stepson and using filthy words in front of him and allowing him to do the same. The stepdad also teased his 9yr old stepson about french kissing girls, which seems far too young to be dealing with a 9yr old child about. The movie turned me off in every way, except for the last scene where the stepdad tells his stepson he loves him. It is definitely not a movie for children. It does reflect reality on the street but most don&apos;t live in that way and my concern is that the title and jacket might appeal to families or young children and they will be shocked by its content. I can&apos;t imagine where the title came from. It seems very inappropriate. I give it a one because of my above comments and it was one of the worst movies I&apos;ve seen.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 1171,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  }
+}

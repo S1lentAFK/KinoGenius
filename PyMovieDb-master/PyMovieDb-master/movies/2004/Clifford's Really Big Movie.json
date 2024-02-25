@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Clifford's Really Big Movie",
+  "url": "https://www.imdb.com/tt0398872/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM2MzYzMDU1M15BMl5BanBnXkFtZTcwMTc4MzUyMQ@@._V1_.jpg",
+  "description": "Worried that he costs too much to feed, Clifford runs away to join a carnival act and help win a lifetime supply of Tummy Yummies.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2005-04-29",
+  "keywords": "animal character name in title,four word title,red,cartoon dog,dog",
+  "duration": "PT1H14M",
+  "rating": {
+    "ratingCount": 1064,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "review": {
+    "author": "abarel13",
+    "dateCreated": "2010-07-27",
+    "inLanguage": "English",
+    "heading": "A True Clifford Classic",
+    "reviewBody": "My 2-year old daughter loves watching Clifford on TV and when we showed her this movie she fell in love instantly. She loves dogs in general but the bright red fur of Clifford and the music make her happy and the lessons that Clifford and his friends teach make us happy. It's an adorable movie that anyone should show their preschooler. If you like Clifford or animated dogs, this movie should definitely be in your collection. There's comedy, thrills, and an infinite amount of fun in this movie. It is very child friendly, there are no uncomfortable scenes that could make a parent question the value of this movie and the lesson of not judging people based on looks is one of the unspoken central themes of both the show and the movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actors": [
+    {
+      "name": "John Ritter",
+      "url": "https://www.imdb.com/name/nm0000615/"
+    },
+    {
+      "name": "Cree Summer",
+      "url": "https://www.imdb.com/name/nm0838588/"
+    },
+    {
+      "name": "Kel Mitchell",
+      "url": "https://www.imdb.com/name/nm0005239/"
+    }
+  ],
+  "directors": [
+    {
+      "name": "Robert C. Ramirez",
+      "url": "https://www.imdb.com/name/nm0708371/"
+    },
+    {
+      "name": "Steve Trenbirth",
+      "url": "https://www.imdb.com/name/nm0872045/"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Rhett Reese",
+      "url": "https://www.imdb.com/name/nm1014201/"
+    },
+    {
+      "name": "Robert C. Ramirez",
+      "url": "https://www.imdb.com/name/nm0708371/"
+    },
+    {
+      "name": "Norman Bridwell",
+      "url": "https://www.imdb.com/name/nm1434696/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Ghost Rider",
+  "url": "https://www.imdb.com/tt0259324/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzIyNDE5ODI1OV5BMl5BanBnXkFtZTcwNTIyNDE0MQ@@._V1_.jpg",
+  "description": "When motorcycle rider Johnny Blaze sells his soul to the Devil to save his father&apos;s life, he is transformed into the Ghost Rider, the Devil&apos;s own bounty hunter, and is sent to hunt down sinners.",
+  "review": {
+    "author": "Marshall-D-Teach",
+    "dateCreated": "2020-02-24",
+    "inLanguage": "English",
+    "heading": "Ghost Rider",
+    "reviewBody": "This demonic Marvel adaptation is visually groundbreaking, no doubt, but is not an easy ride. Ghost Rider&apos;s exaggerated tone and dialogue and hell-driven sequences provides many speed bumps on this less-than-anticipated ride.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 250836,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Fantasy",
+    "Thriller"
+  ],
+  "datePublished": "2007-03-02",
+  "keywords": [
+    "playing a video game",
+    "wish fulfillment",
+    "forgotten man",
+    "horseback riding",
+    "sunrise"
+  ],
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Nicolas Cage",
+      "url": "https://www.imdb.com/name/nm0000115/"
+    },
+    {
+      "name": "Eva Mendes",
+      "url": "https://www.imdb.com/name/nm0578949/"
+    },
+    {
+      "name": "Sam Elliott",
+      "url": "https://www.imdb.com/name/nm0000385/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mark Steven Johnson",
+      "url": "https://www.imdb.com/name/nm0425756/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Steven Johnson",
+      "url": "https://www.imdb.com/name/nm0425756/"
+    }
+  ]
+}

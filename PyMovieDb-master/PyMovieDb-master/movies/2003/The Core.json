@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Core",
+  "url": "https://www.imdb.com/tt0298814/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY3MTY3MzkzNl5BMl5BanBnXkFtZTYwNTAwNDk2._V1_.jpg",
+  "description": "The only way to save Earth from catastrophe is to drill down to the core and set it spinning again.",
+  "review": {
+    "author": "Colin-630-935811",
+    "dateCreated": "2015-09-19",
+    "inLanguage": "English",
+    "heading": "Awesome rubbish.",
+    "reviewBody": "I love this flick,not boring for a second,moves along at a fair clip,no long drawn out boring scenes.But boy,is it stupid,oozes out of every frame but not for a second does that get in the way of doing it&apos;s job,which is to entertain,which it does in spades. The science is at the same level as &apos;Journey to the Center of the Earth&apos; with James Mason,no giant mushrooms here,but we do get giant diamonds and a geode the size of New York. The actors are all having a blast,playing it straight for the most part,their fun translates to the audience,but never over the top.The effects are capable,the story ridiculous,but who cares,a more fun disaster movie is not too easy to find,it certainly is a &apos;guilty pleasure&apos; type of flick,and some days,that&apos;s all you want to see.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 106671,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2003-03-28",
+  "keywords": "natural disaster,terranaut,earth,core,scientist",
+  "duration": "PT2H15M",
+  "actor": [
+    {
+      "name": "Aaron Eckhart",
+      "url": "https://www.imdb.com/name/nm0001173/"
+    },
+    {
+      "name": "Hilary Swank",
+      "url": "https://www.imdb.com/name/nm0005476/"
+    },
+    {
+      "name": "Delroy Lindo",
+      "url": "https://www.imdb.com/name/nm0005148/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jon Amiel",
+      "url": "https://www.imdb.com/name/nm0000750/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Cooper Layne",
+      "url": "https://www.imdb.com/name/nm0493548/"
+    },
+    {
+      "name": "John Rogers",
+      "url": "https://www.imdb.com/name/nm0736966/"
+    }
+  ]
+}

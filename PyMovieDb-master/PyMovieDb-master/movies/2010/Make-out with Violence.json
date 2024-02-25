@@ -1,0 +1,72 @@
+{
+  "type": "Movie",
+  "name": "Make-Out with Violence",
+  "url": "https://www.imdb.com/tt1284485/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk1MjgyMzk4OV5BMl5BanBnXkFtZTcwMDEyODg5Mg@@._V1_.jpg",
+  "description": "A genre-bending tale of a boy trying to fulfill his unrequited love for a girl who has risen from the grave.",
+  "review": {
+    "author": "dirkkrop-232-344393",
+    "dateCreated": "2015-02-06",
+    "inLanguage": "English",
+    "heading": "Slow and boring",
+    "reviewBody": "This is sort of an indie coming-of-age story with snippets of horror.\n\nDon&apos;t be misled by the cover and the title of this flick (as I was), because this is in no way a full blown horror flick.\n\nWendy comes back from the dead as some sort of a zombie. Without the craving for human brains that is, because once again: this is not a horror story.\n\nThe rest of the story is about Wendy&apos;s friends being bored and feeling sorry for themselves. Without having any shocking epiphanies while doing so.\n\nThe movie starts with over half an hour of storytelling and elaborating on the characters. \n\nAlthough the acting is more than decent, the pace of the story is excruciatingly slow and filled with unnecessary scenes (buying a chocolate milkshake, minutes of walking through fields etc.). \n\nMaybe it&apos;s me being impatient, but I turned it off. How long can one watch a couple of teenagers walking around explaining how sad they are? \n\nBut then again, that&apos;s just my 2 cents....",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 744,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.6
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Comedy",
+    "Fantasy",
+    "Horror"
+  ],
+  "datePublished": "2011-07-08",
+  "keywords": "dark comedy,love,twin,unrequited love,summer",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Brett Miller",
+      "url": "https://www.imdb.com/name/nm3109778/"
+    },
+    {
+      "name": "Shellie Marie Shartzer",
+      "url": "https://www.imdb.com/name/nm3118371/"
+    },
+    {
+      "name": "David Fuqua",
+      "url": "https://www.imdb.com/name/nm3140200/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Deagol Brothers",
+      "url": "https://www.imdb.com/name/nm2159009/"
+    },
+    {
+      "name": "Andrew Duensing",
+      "url": "https://www.imdb.com/name/nm2291396/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Deagol Brothers",
+      "url": "https://www.imdb.com/name/nm2159009/"
+    },
+    {
+      "name": "Cody DeVos",
+      "url": "https://www.imdb.com/name/nm2150295/"
+    },
+    {
+      "name": "Eric Lehning",
+      "url": "https://www.imdb.com/name/nm2159872/"
+    }
+  ]
+}

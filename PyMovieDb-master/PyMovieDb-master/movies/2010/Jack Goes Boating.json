@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Jack Goes Boating",
+  "url": "https://www.imdb.com/tt1278379/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODQ1ODEyMDkyOF5BMl5BanBnXkFtZTcwMzQ0NTYzNg@@._V1_.jpg",
+  "description": "A limo driver's blind date sparks a tale of love, betrayal, friendship, and grace centered around two working-class New York City couples.",
+  "review": {
+    "author": "artigao",
+    "dateCreated": "2011-07-13",
+    "inLanguage": "English",
+    "heading": "Beginning/end of relationships",
+    "reviewBody": "Perhaps the best way to watch Seymour's movie is without knowing a word about it as I did, and being enchanted by the magic on this film filled with the lights and shadows that can be found in two love parallel stories. Four characters played deeply by all the actors/actresses that carry you to the cold and meaningless streets of any big city where any story can develop to show you that we are still human and in any corner you have feelings and emotions. Beautiful screenplay where you follow the characters growing,applying the quote that the only normal people are the ones you do not know very well (Fr\u00e9d\u00e9rick J\u00e9z\u00e9gou). Perhaps being mature when you start a relationship means you can see around to other's mistakes trying to avoid them. Although not quite sure if you will finally behave in the same way. Brilliant film worth to see and being surprised by big Philip Seymour who should have a whole shelf in his house filled with Oscars.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 8702,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2010-12-29",
+  "keywords": "new york city,virgin,father daughter relationship,adultery,snowing",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Philip Seymour Hoffman",
+      "url": "https://www.imdb.com/name/nm0000450/"
+    },
+    {
+      "name": "Amy Ryan",
+      "url": "https://www.imdb.com/name/nm0752407/"
+    },
+    {
+      "name": "John Ortiz",
+      "url": "https://www.imdb.com/name/nm0651159/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Philip Seymour Hoffman",
+      "url": "https://www.imdb.com/name/nm0000450/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Glaudini",
+      "url": "https://www.imdb.com/name/nm0322165/"
+    }
+  ]
+}

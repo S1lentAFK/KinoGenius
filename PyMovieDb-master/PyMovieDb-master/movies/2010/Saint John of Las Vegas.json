@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Saint John of Las Vegas",
+  "url": "https://www.imdb.com/tt1276105/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0NjMxMjk2NF5BMl5BanBnXkFtZTcwNzI5MDU4Mg@@._V1_.jpg",
+  "description": "An ex-gambler is lured back into the game by a veteran insurance-fraud investigator.",
+  "review": {
+    "author": "bellino-angelo2014",
+    "dateCreated": "2021-12-04",
+    "inLanguage": "English",
+    "heading": "A comedy? I don&apos;t think so",
+    "reviewBody": "John (Steve Buscemi) is a compulsive gambler that in his last months has had a lot of bad luck and wants to move from Las Vegas to Pennsylvania and so he does a road trip with an insurance fraud investigator with which he joins his job thanks to Mr. Townsend (Peter Dinklage). John doesn&apos;t want to go anywhere near Las Vegas and on the road they&apos;ll meet a few odd types; a nude militant (Tim Blake Nelson), a stripper on a wheelchair and a human torch. John then realizes that his only solution is to go again to Las Vegas and face his demons head on.\n\nThe movie is billed as a comedy, but instead it was more a drama and it hadn&apos;t that many funny moments to begin with. The moments of the nudist and the stripper looked kinda awkward and only for the sake of shocking the viewer. If you are searching for a comedy, this movie is not for you.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 2959,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "R",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2009-06-10",
+  "keywords": "male frontal nudity,place name in title,city name in title",
+  "duration": "PT1H25M",
+  "actor": [
+    {
+      "name": "Steve Buscemi",
+      "url": "https://www.imdb.com/name/nm0000114/"
+    },
+    {
+      "name": "Romany Malco",
+      "url": "https://www.imdb.com/name/nm0539082/"
+    },
+    {
+      "name": "Sarah Silverman",
+      "url": "https://www.imdb.com/name/nm0798971/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Hue Rhodes",
+      "url": "https://www.imdb.com/name/nm2609910/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Hue Rhodes",
+      "url": "https://www.imdb.com/name/nm2609910/"
+    }
+  ]
+}

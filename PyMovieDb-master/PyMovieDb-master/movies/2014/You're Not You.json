@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "You're Not You",
+  "url": "https://www.imdb.com/tt1198156/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTczNDkyODA1N15BMl5BanBnXkFtZTgwNjIwOTI4MjE@._V1_.jpg",
+  "description": "A drama centered on a classical pianist who has been diagnosed with ALS and the brash college student who becomes her caregiver.",
+  "review": {
+    "author": "Arcturus1980",
+    "dateCreated": "2018-10-25",
+    "inLanguage": "English",
+    "heading": "It won me over",
+    "reviewBody": "I didn't take to this one at first. The premise seemed to me ludicrous: Kate (Swank), a severely handicapped ALS patient hires Bec (Rossum), a spaced-out party girl to be her caregiver. The wisdom of this decision and that of the film in general dawned on me in waves.\\n\\nThe characters are ultimately and invariably well written. Hilary Swank should be satisfied with her work here. Emmy Rossum wowed me by making a good part great. I have never been so unimpressed and then so compelled by a character. The film's atmosphere is not one of high cinema and ALS is not always accurately depicted, but everything to do with Bec's character arc is believable and executed to perfection.\\n\\nIt is a testament to the worthwhileness and transformative power of purposeful living.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 26692,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2014-11-26",
+  "keywords": "adultery,two in a shower,marital infidelity,marital separation,film starts with sex",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Hilary Swank",
+      "url": "https://www.imdb.com/name/nm0005476/"
+    },
+    {
+      "name": "Emmy Rossum",
+      "url": "https://www.imdb.com/name/nm0002536/"
+    },
+    {
+      "name": "Josh Duhamel",
+      "url": "https://www.imdb.com/name/nm0241049/"
+    }
+  ],
+  "director": [
+    {
+      "name": "George C. Wolfe",
+      "url": "https://www.imdb.com/name/nm0938045/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Shana Feste",
+      "url": "https://www.imdb.com/name/nm0275277/"
+    },
+    {
+      "name": "Jordan Roberts",
+      "url": "https://www.imdb.com/name/nm1471001/"
+    },
+    {
+      "name": "Michelle Wildgen",
+      "url": "https://www.imdb.com/name/nm2947761/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Pendatang",
+  "url": "https://www.imdb.com/tt22479650/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWY3ZGE3YjUtODNlNy00M2Y2LWIwY2EtZGQwYzMzNTBiMGQxXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_.jpg",
+  "description": "Set in a dystopian Malaysia in which different races are forbidden to mix. A Chinese family moves into their new house to find a scared Malay girl still hiding in it. Should they get rid of her or try to smuggle her back to safety?",
+  "review": {
+    "author": "vernonsen",
+    "dateCreated": "2023-12-27",
+    "inLanguage": "English",
+    "heading": "Pendatang: A truly Malaysian winner!",
+    "reviewBody": "A must view by every Malaysian - or foreign visitor - of any age group.\n\nThe theme is common - but has been exceptionally portrayed in every respect: The script, the Direction, the Production, the filming, sound etc and the location, and most of all the actors and the quality of the acting.\n\nThe strategy to use u-tube was a winner. The crowd funding an inspiration.\n\nThe only reason I did not give a 10 is because I found the closing story line just a tiny bit complicated and rushed, and the ending a tad abrupt.\n\nBut hey guys, this is worthy of an international award. Pease pursue that objective.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 151,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": null,
+  "genre": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "datePublished": "2023-12-21",
+  "keywords": "dystopian sci fi,dystopia,life,secret,house",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Fredy Chan",
+      "url": "https://www.imdb.com/name/nm12256315/"
+    },
+    {
+      "name": "Mayjune Tan",
+      "url": "https://www.imdb.com/name/nm3593657/"
+    },
+    {
+      "name": "Shareen Yeo",
+      "url": "https://www.imdb.com/name/nm15183728/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ken Kin Ng",
+      "url": "https://www.imdb.com/name/nm1981673/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Boon Siang Lim",
+      "url": "https://www.imdb.com/name/nm2413010/"
+    }
+  ]
+}

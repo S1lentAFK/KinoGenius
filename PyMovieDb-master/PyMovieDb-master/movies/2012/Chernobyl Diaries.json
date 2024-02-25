@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Chernobyl Diaries",
+  "url": "https://www.imdb.com/tt1991245/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzkwNDkyNTUxNV5BMl5BanBnXkFtZTcwODY1NTE3Nw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "j-vijay92",
+    "dateCreated": "2012-10-06",
+    "inLanguage": "English",
+    "heading": "Not ghost flick....A complete thriller one....Got lots of scenes that makes you sit on the edge of your seat...",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 68443,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2012-06-22",
+  "keywords": "chernobyl disaster,abandoned city,abandoned building,city name in title,chernobyl ukraine",
+  "duration": "PT1H26M",
+  "actor": [
+    {
+      "name": "Jesse McCartney",
+      "url": "https://www.imdb.com/name/nm0565366/"
+    },
+    {
+      "name": "Jonathan Sadowski",
+      "url": "https://www.imdb.com/name/nm1838070/"
+    },
+    {
+      "name": "Olivia Taylor Dudley",
+      "url": "https://www.imdb.com/name/nm2772584/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bradley Parker",
+      "url": "https://www.imdb.com/name/nm0662086/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Oren Peli",
+      "url": "https://www.imdb.com/name/nm2305431/"
+    },
+    {
+      "name": "Carey Van Dyke",
+      "url": "https://www.imdb.com/name/nm1139317/"
+    },
+    {
+      "name": "Shane Van Dyke",
+      "url": "https://www.imdb.com/name/nm0886749/"
+    }
+  ]
+}

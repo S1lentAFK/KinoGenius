@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Pride & Prejudice",
+  "url": "https://www.imdb.com/tt0414387/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA1NDQ3NTcyOTNeQTJeQWpwZ15BbWU3MDA0MzA4MzE@._V1_.jpg",
+  "description": "Sparks fly when spirited Elizabeth Bennet meets single, rich, and proud Mr. Darcy. But Mr. Darcy reluctantly finds himself falling in love with a woman beneath his class. Can each overcome their own pride and prejudice?",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2005-09-16",
+  "duration": "PT2H9M",
+  "contentRating": "U",
+  "keywords": "pride and prejudice,period drama,england,mansion,based on novel",
+  "rating": {
+    "ratingCount": 326782,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "review": {
+    "author": "isabelle1955",
+    "dateCreated": "2005-11-27",
+    "inLanguage": "English",
+    "heading": "Exquisitely filmed.",
+    "reviewBody": "Pride and Prejudice has always been one of my favourite books, so any screen incarnation has to live up to certain personal expectations of character, style etc. And of course, there is the gold standard of the 1995 BBC series, which, as other reviewers have pointed out, had the luxury of several episodes to cover a story that here takes just two hours. So I was truly delighted to enjoy this movie so much. It had a lot to live up to.\\n\\nThe first thing I must say is that it is exquisitely photographed. The atmosphere set by the beautiful cinematography, is perfect. The film deserves to be nominated for an Oscar on that basis alone. I am in awe of the technical crew and director who could find such unspoiled vistas and such perfect weather in England, and I say that as a Brit who used to live very close to some of the eastern England locations! I sat right through to the end of the credits to see where it was shot, because I assumed it must have been filmed in some remote, rural, continental European locale. I felt quite ashamed that I had doubted the ability of my native land to still provide such delightful scenery! The mist rising off early morning fields, geese on a perfect farm pond, magnificent country estates and enormous trees more usually associated with California than England. Also perfect were the interiors. The air of genteel poverty in which the Bennets lived was well captured. The slightly down at heel scruffiness of the Bennet&apos;s farm and house, and the general dirtiness of 18th century life for most people, contrasted well with the ridiculous, rich fussiness of Lady Catherine de Bourg&apos;s house and the stark, museum-like beauty of Darcy&apos;s home.\\n\\nThe cast were excellent. I thought Rosamunde Pike as Jane Bennet was perfect, Simon Woods as Mr Bingley was charming although perhaps a little too puppyish, I enjoyed Donald Sutherland and Brenda Blethyn as Mr and Mrs Bennet and I&apos;m one who thinks Matthew MacFadyen did a very good job as Mr Darcy, a characterization which was slightly more user-friendly than Colin Firth&apos;s 1995 Darcy. Also outstanding were Claudie Blakley as plain Charlotte Lucas, rescued from a life of unmarried oblivion by pompous Mr Collins (a very good Tom Hollander) and Kelly Reilly, as the bitchy Miss Bingley. Is Rupert Friend (Mr Wickham) destined to play Orlando Bloom&apos;s brother? Am I alone in seeing a similarity? Of course, Keira Knightley plays the title role of Elizabeth. I have followed her career closely since Bend it Like Beckham, and I thought this easily her best acting performance so far. She captured the playfulness and wit of Lizzie&apos;s bright mind wonderfully well, and made me think long and hard how truly frustrating it must have been to be an intelligent young woman in a world that expected nothing more of her than an ability to choose ribbon and to capture a husband possessed of money. The only possible slight criticism I might make, is that Keira Knightley is perhaps a little too waif-like to pull off the 18th century characterization entirely convincingly. She is stunningly beautiful, but her stick thin appearance alongside her more robust looking screen sisters, made her look as if Mr Bennet might well have doubted her parentage!",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "actor": [
+    {
+      "name": "Keira Knightley",
+      "url": "https://www.imdb.com/name/nm0461136/"
+    },
+    {
+      "name": "Matthew Macfadyen",
+      "url": "https://www.imdb.com/name/nm0532193/"
+    },
+    {
+      "name": "Brenda Blethyn",
+      "url": "https://www.imdb.com/name/nm0000950/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joe Wright",
+      "url": "https://www.imdb.com/name/nm0942504/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Deborah Moggach",
+      "url": "https://www.imdb.com/name/nm0595738/"
+    },
+    {
+      "name": "Jane Austen",
+      "url": "https://www.imdb.com/name/nm0000807/"
+    },
+    {
+      "name": "Emma Thompson",
+      "url": "https://www.imdb.com/name/nm0000668/"
+    }
+  ]
+}

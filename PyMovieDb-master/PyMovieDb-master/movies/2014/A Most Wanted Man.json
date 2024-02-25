@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "A Most Wanted Man",
+  "url": "https://www.imdb.com/tt1972571/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODY2MTA0MjYzMl5BMl5BanBnXkFtZTgwOTE3NzE4MTE@._V1_.jpg",
+  "description": "A Chechen Muslim illegally immigrates to Hamburg, where he gets caught in the international war on terror.",
+  "review": {
+    "author": "jaysanchu07",
+    "dateCreated": "2022-01-07",
+    "inLanguage": "English",
+    "heading": "The Artist That Is Phillip Seymour Hoffman",
+    "reviewBody": "You are missed sir Philipp Seymour Hoffman. Brilliance in full display in this highly compelling espionage film, A Most Wanted Man. PSF simply dominates his scenes with subtlety, without the need to turn in a stagey, overcompensating effort. In the few scenes that warrants his aggression, you are absorbed by his thoughts, by his reason. He is a TRUE ARTIST. As for the film, suspense and intrigue does not let up as good vs bad takes an unclear shape, form and allegiance. Sreenplay deserves commendation as we are graciously subjected to seemingly REAL events, what actually happens behind closed doors in the world of intelligence. And that ending... 7.5/10 (probably deserves more).",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 79724,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2014-09-12",
+  "keywords": "spy,intelligence,secret service,surveillance camera,cia officer",
+  "duration": "PT2H2M",
+  "actor": [
+    {
+      "name": "Philip Seymour Hoffman",
+      "url": "https://www.imdb.com/name/nm0000450/"
+    },
+    {
+      "name": "Rachel McAdams",
+      "url": "https://www.imdb.com/name/nm1046097/"
+    },
+    {
+      "name": "Daniel Br\\u00fchl",
+      "url": "https://www.imdb.com/name/nm0117709/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Anton Corbijn",
+      "url": "https://www.imdb.com/name/nm0179221/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Bovell",
+      "url": "https://www.imdb.com/name/nm0100597/"
+    },
+    {
+      "name": "John le Carr\\u00e9",
+      "url": "https://www.imdb.com/name/nm0494170/"
+    },
+    {
+      "name": "Stephen Cornwell",
+      "url": "https://www.imdb.com/name/nm0180508/"
+    }
+  ]
+}

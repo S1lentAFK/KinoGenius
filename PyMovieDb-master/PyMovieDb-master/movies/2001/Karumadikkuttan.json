@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Karumadikkuttan",
+  "url": "https://www.imdb.com/tt0319653/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTc3NGE0MDItNWUyYy00OTRlLTllMjgtMjdjMTMwYmRlODcwXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpg",
+  "description": "Kuttan, a thirty-year-old innocent man, has the mind of a ten-year-old, which enables him to enjoy the positives of life. He develops feelings for Nandini, but she makes fun of him.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 164,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": null,
+  "keywords": "mental retardation,character name in title",
+  "duration": "PT2H21M",
+  "actor": [
+    {
+      "name": "Kalabhavan Mani",
+      "url": "https://www.imdb.com/name/nm0542343/"
+    },
+    {
+      "name": "Joemon Joshy",
+      "url": "https://www.imdb.com/name/nm6446990/"
+    },
+    {
+      "name": "Kousalya",
+      "url": "https://www.imdb.com/name/nm1269614/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Vinayan",
+      "url": "https://www.imdb.com/name/nm0898524/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "J. Pallassery",
+      "url": "https://www.imdb.com/name/nm1269722/"
+    }
+  ]
+}

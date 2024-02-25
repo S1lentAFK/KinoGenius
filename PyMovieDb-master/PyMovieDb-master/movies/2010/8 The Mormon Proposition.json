@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "8: The Mormon Proposition",
+  "url": "https://www.imdb.com/tt1484522/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM1MjM1NjY2NF5BMl5BanBnXkFtZTcwMTY5MTI0Mw@@._V1_.jpg",
+  "description": "A scorching indictment of the Mormon Church's historic involvement in the promotion & passage of California's Proposition 8 and the Mormon religion's secretive, decades-long campaign against LGBT human rights.",
+  "contentRating": "R",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2010-01-24",
+  "keywords": "vomiting, mormon, church, mormon church, proposition",
+  "duration": "PT1H20M",
+  "rating": {
+    "ratingCount": 1268,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "review": {
+    "author": "valis1949",
+    "dateCreated": "2010-12-29",
+    "inLanguage": "English",
+    "heading": "Take The Power Back",
+    "reviewBody": "8:THE MORMON PROPOSITION provides a blue print as to how Big Money in one state orchestrated the outcome of a propositional ballot in two other states. Out of state Mormon influence and money flooded two state campaigns, Hawaii and California, and managed to sway the election to their political and religious agenda. This film emphatically demonstrates how this type of foreign influence strikes at the heart of the American democratic process. Regardless of your personal beliefs on the Gay Rights Issue, this film is really more about how our system of elections can be subverted by deceptively diabolical political marketing practices. Clearly, The Church of Jesus Christ of Latter-Day Saints is acting as a political action committee, and this form of ethical extortion by a rich and powerful tax exempt organization needs to be stopped. Supreme Court, where are you?",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Spencer Jones",
+      "url": "https://www.imdb.com/name/nm3673890/"
+    },
+    {
+      "name": "Tyler Barrick",
+      "url": "https://www.imdb.com/name/nm3667782/"
+    },
+    {
+      "name": "Dustin Lance Black",
+      "url": "https://www.imdb.com/name/nm0085257/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Reed Cowan",
+      "url": "https://www.imdb.com/name/nm3172825/"
+    },
+    {
+      "name": "Steven Greenstreet",
+      "url": "https://www.imdb.com/name/nm1481222/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Reed Cowan",
+      "url": "https://www.imdb.com/name/nm3172825/"
+    }
+  ]
+}

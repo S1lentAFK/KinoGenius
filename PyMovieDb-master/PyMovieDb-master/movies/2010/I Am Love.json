@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Io sono l'amore",
+  "url": "https://www.imdb.com/tt1226236/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAwNjY5OTUxM15BMl5BanBnXkFtZTcwNjE3MTQxMw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "howard.schumann",
+    "dateCreated": "2010-08-01",
+    "inLanguage": "English",
+    "heading": "Felt Distant and Contrived",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 23783,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2010-04-09",
+  "keywords": "male nudity,female full frontal nudity,sex with friend's mother,lesbian,bare chested male",
+  "duration": "PT2H",
+  "actor": [
+    {
+      "name": "Tilda Swinton",
+      "url": "https://www.imdb.com/name/nm0842770/"
+    },
+    {
+      "name": "Flavio Parenti",
+      "url": "https://www.imdb.com/name/nm2918889/"
+    },
+    {
+      "name": "Edoardo Gabbriellini",
+      "url": "https://www.imdb.com/name/nm0299998/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Luca Guadagnino",
+      "url": "https://www.imdb.com/name/nm0345174/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Barbara Alberti",
+      "url": "https://www.imdb.com/name/nm0016628/"
+    },
+    {
+      "name": "Ivan Cotroneo",
+      "url": "https://www.imdb.com/name/nm0182891/"
+    },
+    {
+      "name": "Walter Fasano",
+      "url": "https://www.imdb.com/name/nm0002576/"
+    }
+  ]
+}

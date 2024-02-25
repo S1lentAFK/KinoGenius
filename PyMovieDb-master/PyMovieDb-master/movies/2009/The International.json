@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The International",
+  "url": "https://www.imdb.com/tt0963178/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE3Njg5NzY2OV5BMl5BanBnXkFtZTcwMDMxNjEwMg@@._V1_.jpg",
+  "description": "An Interpol agent attempts to expose a high-profile financial institution's role in an international arms dealing ring.",
+  "review": {
+    "author": "wellthatswhatithinkanyway",
+    "dateCreated": "2009-07-22",
+    "inLanguage": "English",
+    "heading": "Efficient thriller, relevant for our times",
+    "reviewBody": "STAR RATING: ***** Saturday Night **** Friday Night *** Friday Morning ** Sunday Night * Monday Morning \n\nAs others have stated, the current banking scandals have cast a very grim light on bankers and the banking industry in general, and so The International is, if nothing else, a very timely and relevant thriller that plays on modern fears and frustrations. How it didn't do better at the box office with this in mind (maybe it was the recession? Hah, how ironic would that be, a film failed by the corrupt industry it's trying to expose?) is a mystery, but that it manages to be a genuinely intelligent and absorbing thriller anyway is a credit to it.\n\nWe have here a polished effort, slick, stylish and glossy and carried out with an accomplished flair that sets it a cut above some. In the lead role as the intrepid Interpol agent on a deadly trail of murder and corruption, Clive Owen continues to improve as an actor and has fine support, including the likes of Naomi Watts and Armin Mueheller Stall, carrying the story along as it gathers pace. The big down point, though, is that at the expense of this intelligence in the script comes a decidedly dull feeling to the film in parts, with maybe too much talking and too little action, which is counter productive to the riveting attention it's trying to demand. But this does improve towards the end and while there are some flaws, there are certainly more plusses. ***",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 99313,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2009-02-27",
+  "keywords": "interpol,money laundering,post punk,lyon france,milan italy",
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Clive Owen",
+      "url": "https://www.imdb.com/name/nm0654110/"
+    },
+    {
+      "name": "Naomi Watts",
+      "url": "https://www.imdb.com/name/nm0915208/"
+    },
+    {
+      "name": "Armin Mueller-Stahl",
+      "url": "https://www.imdb.com/name/nm0000090/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tom Tykwer",
+      "url": "https://www.imdb.com/name/nm0878756/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Eric Warren Singer",
+      "url": "https://www.imdb.com/name/nm2545235/"
+    }
+  ]
+}

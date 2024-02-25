@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Stop-Loss",
+  "url": "https://www.imdb.com/tt0489281/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAyNTI1NDg1MV5BMl5BanBnXkFtZTcwNzE2NTg1MQ@@._V1_.jpg",
+  "description": "A veteran soldier returns from his completed tour of duty in Iraq, only to find his life turned upside down when he is arbitrarily ordered to return to field duty by the Army.",
+  "review": {
+    "author": "evanston_dad",
+    "dateCreated": "2008-11-17",
+    "inLanguage": "English",
+    "heading": "Another Forgettable Entry in the Iraq War Movie Mill",
+    "reviewBody": "Kimberly Peirce becomes one of the latest directors to try and only marginally succeed in making a compelling film about the Iraq conflict.\\n\\nPeirce takes on as her subject the military&apos;s stop-loss clause, essentially a back door draft by which the military can use fine print in recruits&apos; contracts to prevent them from getting out once their time is up. Peirce obviously feels strongly about the policy, but what should be a hard-hitting drama feels instead like a rather preachy after-school special. She coaxes a nice performance out of Ryan Phillipe, as the soldier who goes AWOL when his stop-loss clause is activated, but she doesn&apos;t fare as well with the rest of the cast. The film suffers from confusing editing, that doesn&apos;t always make it clear where characters are or how events are related to one another, and the writing at times is weak as well, with character motivations not coming across as clearly as they should.\\n\\nI don&apos;t know what it is about the Iraq conflict that makes it so hard for filmmakers to make good movies about it. Maybe it will have to be over for a while before anyone can begin to approach it with any success.\\n\\nGrade: B-",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 20837,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "War"
+  ],
+  "datePublished": "2008-04-25",
+  "keywords": "ptsd post traumatic stress disorder,female director,female filmmaker,soldier,friendship",
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "Ryan Phillippe",
+      "url": "https://www.imdb.com/name/nm0000202/"
+    },
+    {
+      "name": "Abbie Cornish",
+      "url": "https://www.imdb.com/name/nm0180411/"
+    },
+    {
+      "name": "Joseph Gordon-Levitt",
+      "url": "https://www.imdb.com/name/nm0330687/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kimberly Peirce",
+      "url": "https://www.imdb.com/name/nm0005303/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Richard",
+      "url": "https://www.imdb.com/name/nm1649645/"
+    },
+    {
+      "name": "Kimberly Peirce",
+      "url": "https://www.imdb.com/name/nm0005303/"
+    }
+  ]
+}

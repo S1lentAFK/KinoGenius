@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Green Zone",
+  "url": "https://www.imdb.com/tt0947810/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMTA1NDMyNV5BMl5BanBnXkFtZTcwMzUwODY5Mg@@._V1_.jpg",
+  "description": "Discovering covert and faulty intelligence causes a U.S. Army officer to go rogue as he hunts for Weapons of Mass Destruction in an unstable region.",
+  "review": {
+    "author": "dsnider-790-336398",
+    "dateCreated": "2010-07-13",
+    "inLanguage": "English",
+    "heading": "Were the characters real? You betcha!",
+    "reviewBody": "This movie is not a sequel to Bourne flicks. It is more in the spirit of Costa-Gravas or Oliver Stone. MET Alpha is Mobile Exploitation Team Alpha. The 85th XTF is the 75th Exploitation Task Force. CWO Miller is CWO Gonzalez. The reporter is, of course, Judith Miller, the New York Times (not WSJ) reporter who sold out to the Bush administration to get bylines. She used her position as shill for Rummy to keep MET Alpha in Baghdad, chasing their tails while American soldiers died trying to find non-existent WMD, for the sole purpose of backing up Bush's lies. Miller's folio is full of information from Curveball (Magellan). The CIA, who knew Curveball was a liar, was also warning Miller. A perpetually smiling Ahmad Chalabi keeps popping up. He is no doubt thinking how fine it is for the US Army to hand him an entire country along with a treasury of several hundred million dollars.\\n\\nMiller is angry because he knows his intelligence is bogus, the CIA has told him that much, even though the Army vouches for it, and tells Miller to shut up and follow orders.\\n\\nThe Pentagon puke tries to bribe Miller with a job if he plays along, and offers a veiled threat if he doesn't.\\n\\nThe movie is history, and not a simple action adventure flick. It follows actual events very closely. Knowing the facts makes the movie much more fascinating.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 142291,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2010-03-12",
+  "keywords": "political military conspiracy,interrogation by torture,american,female reporter,speech",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Matt Damon",
+      "url": "https://www.imdb.com/name/nm0000354/"
+    },
+    {
+      "name": "Jason Isaacs",
+      "url": "https://www.imdb.com/name/nm0005042/"
+    },
+    {
+      "name": "Greg Kinnear",
+      "url": "https://www.imdb.com/name/nm0001427/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Paul Greengrass",
+      "url": "https://www.imdb.com/name/nm0339030/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brian Helgeland",
+      "url": "https://www.imdb.com/name/nm0001338/"
+    },
+    {
+      "name": "Rajiv Chandrasekaran",
+      "url": "https://www.imdb.com/name/nm2418487/"
+    }
+  ]
+}

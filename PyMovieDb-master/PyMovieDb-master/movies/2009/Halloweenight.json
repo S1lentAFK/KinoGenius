@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "HalloweeNight",
+  "url": "https://www.imdb.com/tt1815731/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM1NjE1OTQtZWI4Mi00ODI1LTgwNWItOThjMzQ0ZTk1MjhlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjg5MzE4NTA.jpg",
+  "description": "A college party is the stage for bloodshed and murder on Halloween Night, as a mistreated student exacts his revenge on those who wronged him. Using the effigy of a living scarecrow, his Frankenstein like creation carries out his ...",
+  "contentRating": "Not Rated",
+  "genre": [
+    "Horror"
+  ],
+  "datePublished": "2009-10-08",
+  "keywords": "killer scarecrow, slasher, supernatural serial killer, scarecrow, halloween",
+  "duration": "PT1H25M",
+  "rating": {
+    "ratingCount": 105,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.4
+  },
+  "review": {
+    "author": "kaplanwizardry",
+    "dateCreated": "2020-05-24",
+    "inLanguage": "English",
+    "heading": "Amazing story made with passion!",
+    "reviewBody": "This movie was amazing though the so called collage students were like 35 and married who cares this film has inspired me to do some filmaking as well and i could tell that the director aka ( Mark Polonia) putted a lot of effort into this to honor his brother and the effects and cgi at the end was great using stop motion\\n\\nA+",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "actor": [
+    {
+      "name": "Todd Carpenter",
+      "url": "https://www.imdb.com/name/nm0139473/"
+    },
+    {
+      "name": "Cindy Wheeler",
+      "url": "https://www.imdb.com/name/nm3077120/"
+    },
+    {
+      "name": "Danielle Donahue",
+      "url": "https://www.imdb.com/name/nm2567761/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mark Polonia",
+      "url": "https://www.imdb.com/name/nm0689789/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Polonia",
+      "url": "https://www.imdb.com/name/nm0689788/"
+    },
+    {
+      "name": "Mark Polonia",
+      "url": "https://www.imdb.com/name/nm0689789/"
+    }
+  ]
+}

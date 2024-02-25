@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "House of 1000 Corpses",
+  "url": "https://www.imdb.com/tt0251736/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjUyNjU0NDE0OV5BMl5BanBnXkFtZTYwNzcwMzg3._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "zombie84",
+    "dateCreated": "2003-05-03",
+    "inLanguage": "English",
+    "heading": "A revival of true horror",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 92673,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "18",
+  "genre": [
+    "Horror"
+  ],
+  "datePublished": "2003-10-03",
+  "keywords": "depravity,masked man,giant,clown face,axe",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Sid Haig",
+      "url": "https://www.imdb.com/name/nm0354085/"
+    },
+    {
+      "name": "Karen Black",
+      "url": "https://www.imdb.com/name/nm0000947/"
+    },
+    {
+      "name": "Bill Moseley",
+      "url": "https://www.imdb.com/name/nm0608405/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rob Zombie",
+      "url": "https://www.imdb.com/name/nm0957772/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Rob Zombie",
+      "url": "https://www.imdb.com/name/nm0957772/"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Imposter",
+  "url": "https://www.imdb.com/tt1966604/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODA2MzYzMTUzM15BMl5BanBnXkFtZTcwODk4ODgwOA@@._V1_.jpg",
+  "description": "A documentary centered on a young man in Spain who claims to a grieving Texas family that he is their 16-year-old son who has been missing for 3 years.",
+  "review": {
+    "author": "Lejink",
+    "dateCreated": "2020-06-01",
+    "inLanguage": "English",
+    "heading": "Old Nick",
+    "reviewBody": "Stranger than fiction true-life documentary of the opportunistic and heartless identity-theft by a mature 23 year old French nationality homeless man who, after being picked up on the street in Limares, Spain assumed the identity of a young boy who had disappeared three years ago aged 13 from his home in Texas.\\n\\nThe perpetrator, one Frederic Bourdin, randomly picked his new identity from a file of international missing persons whilst in police custody, although you would think he could have done a better job of it as he was at the time six years older than the boy Nicholas Barclay he chose to impersonate, had a different hair colour and spoke with a pronounced accent, never mind being separated by the Atlantic Ocean, but preying on a family elated at the prospect of the miraculous reappearance of their long lost son, he ran the whole nine yards in the role before finally a doctor&apos;s testimony put a stop to the charade and eventually saw Bourdin go to jail, leaving behind a family now heartbroken a second time and a host of incredulous officials duped by his brazen callowness.\\n\\nLike a dark version of the Emperor&apos;s New Clothes, this is a story of a desperate family seeing what wasn&apos;t there and believing the impossible through the blinding distortion of their individual and collective grief. It all really starts with the boy&apos;s sister who flies to Spain and immediately falls for her long-lost brother&apos;s incredible return from the dead, swallowing whole his explanations for his changes of appearance, voice and character. Bourdin, now spying a life of ease in America as the pampered born-again son, had decided to follow through with the ruse, dying his hair blond, adding a few tattoos and concocting a fantastical story of being kidnapped and transported abroad to a life as a sex-slave with the so-called gang even managing to conveniently change his eye-colour in the process.\\n\\nThere&apos;s no question of the film-maker here attempting some is-he-or-isn&apos;t-he mystery, as the film&apos;s title makes clear, confirmed by Bourdin&apos;s first smirking, unrepentant appearance. The key events in the fraud are recreated dramatically and interspersed with interviews of all the major players in this unbelievable story set to a deliberately light, capering musical soundtrack which itself from the first strongly hints at the elusiveness and illusion at the heart of this incredible story.\\n\\nIn the end Bourdin got jailed for six years, the missing boy&apos;s hapless family saw their hopes of his resurrection brutally dashed and of course, his abduction and likely murder returned to the files of the unexplained and unsolved.\\n\\nI came away from the film with a sense of how the power of loss, especially that of a child, can so blind a family which had given up hope and a sense of rage at the heartless selfishness of a still apparently unapologetic sick individual who even today diverts blame back to the trusting family who took him in.\\n\\nPity help the wife and three children the film tells us in an epilogue he lives with today.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 50162,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Documentary",
+    "Biography",
+    "Crime"
+  ],
+  "datePublished": "2012-08-24",
+  "keywords": "missing child,impostor,crime documentary,true crime,docudrama drama",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Adam O&apos;Brian",
+      "url": "https://www.imdb.com/name/nm4774039/"
+    },
+    {
+      "name": "Nicholas Barclay",
+      "url": "https://www.imdb.com/name/nm7926103/"
+    },
+    {
+      "name": "Carey Gibson",
+      "url": "https://www.imdb.com/name/nm5147401/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bart Layton",
+      "url": "https://www.imdb.com/name/nm1717925/"
+    }
+  ],
+  "creator": []
+}

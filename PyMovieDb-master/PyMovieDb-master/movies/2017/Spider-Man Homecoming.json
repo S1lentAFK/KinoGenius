@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Spider-Man: Homecoming",
+  "url": "https://www.imdb.com/tt2250912/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODY2MTAzOTQ4M15BMl5BanBnXkFtZTgwNzg5MTE0MjI@._V1_.jpg",
+  "description": "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",
+  "review": {
+    "author": "BA_Harrison",
+    "dateCreated": "2019-07-04",
+    "inLanguage": "English",
+    "heading": "Raimi&apos;s Spidey is still the best (not including Part 3).",
+    "reviewBody": "I had a reasonably fun time with Spiderman Homecoming, but I have a few big issues that prevent me from loving it...\n\nFirstly, Peter Parker&apos;s vulnerability/invulnerability. There&apos;s a scene where Spiderman bangs his head on the roof of a truck, knocking himself unconscious, yet later on in the film, a couple of tons of concrete and steel land on the lad&apos;s head with no lasting damage. Not long after, Peter falls to the ground from a crashing jet (presumably travelling at a couple of hundred miles an hour) and gets up without a problem. Concussion one minute, indestructible the next!\n\nSpiderman&apos;s strength is inconsistent too: Peter is holding together two halves of the Staten Island ferry in one scene, but later he is struggling to free himself from some rubble.\n\nI also have a problem with The Avengers&apos; very lax approach to shifting their equipment to new premises: Happy (Jon Favreau) loads all of the Avenger&apos;s weapons/armour onto an unmanned aircraft - not one person to guard it. Of course, this suited the plot, but it was extremely daft. Surely a couple of superheroes could have taken time out from saving the world to escort the precious cargo.\n\nLast moan: did Spidey really need a high-tech suit equipped with AI and special assault modes? I thought Spiderman relied on Spidey sense.\n\nOn a more positive note, I enjoyed Peter&apos;s trials and tribulations at high-school, and thought that the twist revelation about the true identity of Vulture was well handled (I didn&apos;t see it coming). The special effects are, as always, very impressive, and Director Jon Watts handles the action well enough, but Sam Raimi needn&apos;t worry: his first two Spiderman movies remain the best.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 712518,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2017-07-06",
+  "keywords": "marvel cinematic universe,superhero,reboot,spider man character,avengers",
+  "duration": "PT2H13M",
+  "actor": [
+    {
+      "name": "Tom Holland",
+      "url": "https://www.imdb.com/name/nm4043618/"
+    },
+    {
+      "name": "Michael Keaton",
+      "url": "https://www.imdb.com/name/nm0000474/"
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "url": "https://www.imdb.com/name/nm0000375/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jon Watts",
+      "url": "https://www.imdb.com/name/nm1218281/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jonathan Goldstein",
+      "url": "https://www.imdb.com/name/nm0326246/"
+    },
+    {
+      "name": "John Francis Daley",
+      "url": "https://www.imdb.com/name/nm0197855/"
+    },
+    {
+      "name": "Jon Watts",
+      "url": "https://www.imdb.com/name/nm1218281/"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Children of Huang Shi",
+  "url": "https://www.imdb.com/tt0889588/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM2MTM3MjM4NV5BMl5BanBnXkFtZTcwNDI1MzA3MQ@@._V1_.jpg",
+  "description": "About young British journalist, George Hogg, who with the assistance of a courageous Australian nurse, saves a group of orphaned children during the Japanese occupation of China in 1937.",
+  "datePublished": "2008-04-03",
+  "duration": "PT2H5M",
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "War"
+  ],
+  "keywords": "year 1937,china,1940s,1930s,year 1938",
+  "rating": {
+    "ratingCount": 9950,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "review": {
+    "author": "gradyharp",
+    "dateCreated": "2009-01-23",
+    "inLanguage": "English",
+    "heading": "A Nearly Impossible Story to Tell or Believe: True Heroism",
+    "reviewBody": "THE CHILDREN OF HUANG SHI is a long (greater than two hours) epic tale that happens to be a true story of an extraordinary hero's life and gift to humanity during World War II. If as a film the telling of this story is a bit shaky in spots, it is probably due to the episodic series of events that happened very quickly and under existing conditions of profound stress. Yet despite the occasional misfires in production this remains a bit of history we all should know. \\n\\nGeorge Hogg (Jonathan Rhys Meyers) is a journalist assigned to Shanghai in 1937 and with his colleagues he plans to explore the extent of the invasion of China by the Japanese. Under the guise of Red Cross workers his small band manages to enter Nanjing where now alone due to the loss of his friends to battle he observes and photographs the atrocities of mass murders of the people of Nanjing. He is captured by the Japanese, tortured when his confiscated camera reveals his terrifying photographs, and it is only by acts of fortune and the aid of a Chinese Nationalist Chen Hansheng (Chow Yun-Fat) that he escapes. Hogg probes the Chinese countryside for further evidences of the evil of the Japanese invasion, and he finds a village of children (adults are all absent) and realizes that he is in an orphanage without a leader. At first reluctant to assume the role of guardian of these impoverished and filthy frightened children, he soon accepts his responsibility and is challenged by an Australian nurse Lee Pearson (Radha Mitchell) to become not only the caretaker but also the father/teacher/provider/role model these children so desperately need. \\n\\nSeeing the advancing of the Japanese, Hogg decides to take his wards 700 mile away to a small village by the Gobi desert reachable only by the infamous Silk Road. It is this journey and the way both the children and Hogg are affected by the challenge that absorb the greater part of the film. Observing the transformation of George Hogg's view of the world is made credible by Jonathan Rhys Meyers' performance. The cast of children often steals the limelight, but with supporting cast members such as Chow Yun-Fat, Radha Mitchell and Michelle Yeoh as an opium merchant the story never lacks color and character. The look of the film is dark, but the message of this story is full of light. Here is a bit of Chinese history we should all know! Grady Harp",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Jonathan Rhys Meyers",
+      "url": "https://www.imdb.com/name/nm0001667/"
+    },
+    {
+      "name": "Radha Mitchell",
+      "url": "https://www.imdb.com/name/nm0593664/"
+    },
+    {
+      "name": "Chow Yun-Fat",
+      "url": "https://www.imdb.com/name/nm0000334/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Roger Spottiswoode",
+      "url": "https://www.imdb.com/name/nm0006854/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jane Hawksley",
+      "url": "https://www.imdb.com/name/nm1965665/"
+    },
+    {
+      "name": "James MacManus",
+      "url": "https://www.imdb.com/name/nm2472589/"
+    },
+    {
+      "name": "Simon van der Borgh",
+      "url": "https://www.imdb.com/name/nm1802945/"
+    }
+  ]
+}

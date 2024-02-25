@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Catch That Kid",
+  "url": "https://www.imdb.com/tt0337917/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI1NDE2ODc2NV5BMl5BanBnXkFtZTgwNTE3MDYyMDI@._V1_.jpg",
+  "description": "A girl and her two friends raid a bank, looking for the money needed for financing the cure of her dying father.",
+  "review": {
+    "author": "ma-cortes",
+    "dateCreated": "2006-10-30",
+    "inLanguage": "English",
+    "heading": "Immensely enjoyable caper with sympathetic as well as adventurer kids",
+    "reviewBody": "A young girl (Kristen Stewart) and her two teen friends pull off a bank heist for obtaining the cash needed for the operating her ill daddy (Sam Robards) where their mild-mannered mummy (Jennifer Beals) works as a security agent . They encounter complications with a humorous and botcher pair agents (James LeGros) in a robbery developed with imposing tension and intrigue ; it's , of course , the highlight and great climax of the movie . Thus , during the burgle the teens confront perils and risks as high-tech systems , vigilance dogs and she will raise a vault suspended many feet above ground (similar to Tom Cruise in Mission impossible) with the aim to take million of dollars from the safe .\\n\\nThe picture displays comedy , action , enjoyable humor and continuous entertainment . Besides , galore kart chases with impressive velocities and pursuits by police cars . The film is a crossover of \\u00a8Topkapi\\u00a8 caper, \\u00a8Ocean's eleven\\u00a8 heist pirouette and \\u00a8Italian job\\u00a8 races but wrapped in adolescent style . Likable acting from Kristen Stewart , Jennifer Beals and Max Thieriot's film debut . The picture contains a lively and jolly musical score by George S. Clinton . The movie was regularly directed by Bart Freudlich and turned out to be a remake of a Danish hit smash titled Klatret\\u00f8sen . It's a great stuff for schoolboys of all ages though especially for kids and teenagers .",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 10929,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2004-06-18",
+  "keywords": "child spy,reference to yao ming,reference to shaquille o'neal,teen adventure,reference to robert de niro",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Kristen Stewart",
+      "url": "https://www.imdb.com/name/nm0829576/"
+    },
+    {
+      "name": "Sam Robards",
+      "url": "https://www.imdb.com/name/nm0730168/"
+    },
+    {
+      "name": "Jennifer Beals",
+      "url": "https://www.imdb.com/name/nm0000884/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bart Freundlich",
+      "url": "https://www.imdb.com/name/nm0294505/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nikolaj Arcel",
+      "url": "https://www.imdb.com/name/nm1064048/"
+    },
+    {
+      "name": "Fabian Wullenweber",
+      "url": "https://www.imdb.com/name/nm0943308/"
+    },
+    {
+      "name": "Erlend Loe",
+      "url": "https://www.imdb.com/name/nm0517179/"
+    }
+  ]
+}

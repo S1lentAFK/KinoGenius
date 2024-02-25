@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Assault on Precinct 13",
+  "url": "https://www.imdb.com/tt0074156/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTQzMTA2ZjItMDA2Mi00YTNjLWFkOTktYTk3Y2JhZTdiYzU5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A Highway Patrol Officer, two criminals and a station secretary defend a defunct Los Angeles precinct office against a siege by a bloodthirsty street gang.",
+  "contentRating": "X",
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "1978-03-10",
+  "keywords": [
+    "street gang",
+    "power outage",
+    "social decay",
+    "inner city",
+    "mauser c96 pistol"
+  ],
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Austin Stoker",
+      "url": "https://www.imdb.com/name/nm0831288/"
+    },
+    {
+      "name": "Darwin Joston",
+      "url": "https://www.imdb.com/name/nm0430944/"
+    },
+    {
+      "name": "Laurie Zimmer",
+      "url": "https://www.imdb.com/name/nm0956633/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Carpenter",
+      "url": "https://www.imdb.com/name/nm0000118/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Carpenter",
+      "url": "https://www.imdb.com/name/nm0000118/"
+    }
+  ],
+  "review": {
+    "author": "moviemeister1",
+    "dateCreated": "2004-07-14",
+    "inLanguage": "English",
+    "heading": "intense to say the least",
+    "reviewBody": "This is possibly one of Carpenter's best films,with the exception of The thing.It is one of the great siege films of all time.The scene with Kim Richards(escape to witch mountain) is one of my favorites.This movie proves you don't have to have a multimillion dollar budget and big name stars to make a great movie.The performance by Laurie Zimmer was incredible.I can't believe she was never cast in another film(but thats Hollywood for you).If you like action and thrillers this film is definitely worth a look.Its not perfect, the plot has some holes, the premise is at times shaky, but all of the actors produce believable performances,especially Austin Stoker,Darwin Joston, and of course Zimmer.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 54964,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  }
+}

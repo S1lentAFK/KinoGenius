@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hollywood Homicide",
+  "url": "https://www.imdb.com/tt0329717/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOThkZWY0NjgtODBjMS00Njc4LTllNDQtMjc2N2MxOTY5MjAxXkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_.jpg",
+  "description": "Two LAPD detectives who moonlight in other fields investigate the murder of an up-and-coming rap group.",
+  "review": {
+    "author": "PhilmGuru",
+    "dateCreated": "2003-12-16",
+    "inLanguage": "English",
+    "heading": "So many people have missed the point",
+    "reviewBody": "Anyone who has seen this movie and commented on it as a serious action film should be shot.\\n\\nFrom the very start it is fairly obvious it crosses the cheese line into a parody. From the totally pointless/unrelated cheesy opening scene of HF on a shooting range, the lake chase scene, the whole buddy buddy chemistry (or total deliberate lack thereof) to the non stop annoying phone ringing or maybe the complete lack of an interesting plot? Some of these should have given away to most people the real intentions of this film.\\n\\nThe &apos;love&apos; scene with Harrison Ford should be the last clue to anyone blind enough, that this is really not to be taken seriously and can be considered made specially for Mystery Science Theatre.\\n\\nThe film is called &apos;Hollywood Homicide&apos;, I believe, so titled as to ruffle some Hollywood feathers with the notion that Hollywood has been killed by the never ending rain of terrible buddy cop movies. The real joke is that some suit somewhere probably OK&apos;d this as a real action movie.\\n\\nIn fact, the funniest thing is that some people took it seriously and enjoyed it as a serious action movie.\\n\\nThe chases are deliberately over the top lame (I mean really, really bad), the dialogue is so silly and pointless it just makes you laugh, the character development is totally non-existant, the cliches flow non-stop, the whole side plot of internal affairs is placed there because it&apos;s in every buddy cop movie, etc, etc. How anyone took this movie as a serious action film is beyond me.\\n\\nI give it 6/10 because, it&apos;s hilarious in places (in a MST kind of way), I agree with their intentions (THE COP FILMS MUST END!!!). Just please, don&apos;t take it anything more than a parody.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 39180,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2003-08-29",
+  "keywords": [
+    "criminal investigation",
+    "murder investigation",
+    "feet on table",
+    "murder",
+    "hollywood california"
+  ],
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Harrison Ford",
+      "url": "https://www.imdb.com/name/nm0000148/"
+    },
+    {
+      "name": "Josh Hartnett",
+      "url": "https://www.imdb.com/name/nm0001326/"
+    },
+    {
+      "name": "Isaiah Washington",
+      "url": "https://www.imdb.com/name/nm0913460/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ron Shelton",
+      "url": "https://www.imdb.com/name/nm0005421/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Souza",
+      "url": "https://www.imdb.com/name/nm1226736/"
+    },
+    {
+      "name": "Ron Shelton",
+      "url": "https://www.imdb.com/name/nm0005421/"
+    }
+  ]
+}

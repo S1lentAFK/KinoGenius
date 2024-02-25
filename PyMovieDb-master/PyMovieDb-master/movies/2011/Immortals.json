@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Immortals",
+  "url": "https://www.imdb.com/tt1253864/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMzMjA2MjA2N15BMl5BanBnXkFtZTcwMTkwNTc5Ng@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "ma-cortes",
+    "dateCreated": "2015-03-26",
+    "inLanguage": "English",
+    "heading": "Groundbreaking and colorful rendition about Greek mythology with breathtaking images and impressive battles",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 175668,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "Fantasy"
+  ],
+  "datePublished": "2011-11-11",
+  "keywords": "torture device,castration,slave,testicles pulped by bully,torture",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Henry Cavill",
+      "url": "https://www.imdb.com/name/nm0147147/"
+    },
+    {
+      "name": "Mickey Rourke",
+      "url": "https://www.imdb.com/name/nm0000620/"
+    },
+    {
+      "name": "John Hurt",
+      "url": "https://www.imdb.com/name/nm0000457/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tarsem Singh",
+      "url": "https://www.imdb.com/name/nm0802248/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Charley Parlapanides",
+      "url": "https://www.imdb.com/name/nm0663048/"
+    },
+    {
+      "name": "Vlas Parlapanides",
+      "url": "https://www.imdb.com/name/nm0663050/"
+    }
+  ]
+}

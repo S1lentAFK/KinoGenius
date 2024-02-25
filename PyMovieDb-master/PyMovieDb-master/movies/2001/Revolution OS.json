@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Revolution OS",
+  "url": "https://www.imdb.com/tt0308808/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgyNDU0NTIwNV5BMl5BanBnXkFtZTcwNzE4MDQyMQ@@._V1_.jpg",
+  "description": "While Microsoft may be the biggest software company in the world, not every computer user is a fan of their products, or their way of doing business. While Microsoft&apos;s Windows became the most widely used operating system for personal computers, the...e software and an explanation of why it&apos;s better than Microsoft Windows. There&apos;s a scene where Bill Gate&apos;s is responding to the issue of free software. Some of his remarks make sense- but it was difficult to focus on the ideas because at that point there was absolutely atrocious and intrusive music &apos;pasted&apos; into the background and I couldn&apos;t help feeling that I was being manipulated. I also did not get how some of these developers make their money. Someone has to create the software. This takes time. People have to eat and they need to pay for their food to eat. If they are giving their time away developing free software, where are they getting the money for food? I would have liked the documentary to address that issue. I would also like to say that I do use OpenSource software and find it to be quite good, and since it&apos;s free, remarkable. I think the OpenSource movement is revolutionary, but I&apos;m not sure this film brings this across.",
+  "review": {
+    "author": "EdwinRywalt",
+    "dateCreated": "2005-08-12",
+    "inLanguage": "English",
+    "heading": "Informative, but I felt somewhat manipulated",
+    "reviewBody": "I guess I expected Revolution OS to show not only the history of LINUX and OpenSource but also why these softwares are better than their commercial counterparts. I was pleased with the presentation of the history, as I had not been previously aware of it, but I was less than satisfied with the documentary&apos;s complete lack of any demonstration, however brief, of the software and an explanation of why it&apos;s better than Microsoft Windows. There&apos;s a scene where Bill Gate&apos;s is responding to the issue of free software. Some of his remarks make sense- but it was difficult to focus on the ideas because at that point there was absolutely atrocious and intrusive music &apos;pasted&apos; into the background and I couldn&apos;t help feeling that I was being manipulated. I also did not get how some of these developers make their money. Someone has to create the software. This takes time. People have to eat and they need to pay for their food to eat. If they are giving their time away developing free software, where are they getting the money for food? I would have liked the documentary to address that issue. I would also like to say that I do use OpenSource software and find it to be quite good, and since it&apos;s free, remarkable. I think the OpenSource movement is revolutionary, but I&apos;m not sure this film brings this across.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 2614,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Documentary",
+    "Comedy"
+  ],
+  "datePublished": "2002-02-15",
+  "keywords": "operating system,computer,microsoft,software company,linux",
+  "duration": "PT1H25M",
+  "actor": [
+    {
+      "name": "Linus Torvalds",
+      "url": "https://www.imdb.com/name/nm1127735/"
+    },
+    {
+      "name": "Richard Stallman",
+      "url": "https://www.imdb.com/name/nm1128476/"
+    },
+    {
+      "name": "Eric Raymond",
+      "url": "https://www.imdb.com/name/nm0713253/"
+    }
+  ],
+  "director": [
+    {
+      "name": "J.T.S. Moore",
+      "url": "https://www.imdb.com/name/nm1126861/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "J.T.S. Moore",
+      "url": "https://www.imdb.com/name/nm1126861/"
+    }
+  ]
+}

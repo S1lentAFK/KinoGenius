@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Soul Men",
+  "url": "https://www.imdb.com/tt1111948/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgxNjM4NDM4OF5BMl5BanBnXkFtZTcwNDk0NTM5MQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "hu675",
+    "dateCreated": "2009-03-16",
+    "inLanguage": "English",
+    "heading": "Familiar although enjoyable comedy of redemption and friendship.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 11624,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2008-11-07",
+  "keywords": "woman on top,viagra,oral sex,female topless nudity,african american",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Samuel L. Jackson",
+      "url": "https://www.imdb.com/name/nm0000168/"
+    },
+    {
+      "name": "Bernie Mac",
+      "url": "https://www.imdb.com/name/nm0005170/"
+    },
+    {
+      "name": "Sharon Leal",
+      "url": "https://www.imdb.com/name/nm0495095/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Malcolm D. Lee",
+      "url": "https://www.imdb.com/name/nm0002700/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Ramsey",
+      "url": "https://www.imdb.com/name/nm0709070/"
+    },
+    {
+      "name": "Matthew Stone",
+      "url": "https://www.imdb.com/name/nm0832043/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Princess Bride",
+  "url": "https://www.imdb.com/tt0093779/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzdiOTVjZmQtNjAyNy00YjA2LTk5ZTAtNmJkMGQ5N2RmNjUxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": "A bedridden boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",
+  "review": {
+    "author": "llltdesq",
+    "dateCreated": "2003-09-28",
+    "inLanguage": "English",
+    "heading": "A satiric comedy with humor and sadness, dark with the light.",
+    "reviewBody": "This film is an intelligent, sardonic send up of several genres that pokes fun (affectionately) at fairy tales, swashbucklers, love stories and basic conventions of film. One of my favorite scenes is where Inigo Montoya first confronts his quarry after years of searching. His adversary does the unexpected-and what most villains in real life WOULD do under the same circumstances, with hilarious results in the scene. Basil Rathbone probably whirled in his grave! Not by any means Citizen Kane (we already have one of those, anyway) but a champ in its weight class, with a perfect score, a fine script and good performances. Far more true to the flavor of the original fairy tales that it spoofs than even the best of Disney's takes. I loved it the first time I saw it and love it more now. Well worth watching. Recommended.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 448113,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "1988-03-25",
+  "keywords": "true love,princess,fairy tale,giant,pirate",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Cary Elwes",
+      "url": "https://www.imdb.com/name/nm0000144/"
+    },
+    {
+      "name": "Mandy Patinkin",
+      "url": "https://www.imdb.com/name/nm0001597/"
+    },
+    {
+      "name": "Robin Wright",
+      "url": "https://www.imdb.com/name/nm0000705/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rob Reiner",
+      "url": "https://www.imdb.com/name/nm0001661/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William Goldman",
+      "url": "https://www.imdb.com/name/nm0001279/"
+    }
+  ]
+}

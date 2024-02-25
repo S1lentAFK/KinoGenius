@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Taken 2",
+  "url": "https://www.imdb.com/tt1397280/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkwNTQ0ODExOV5BMl5BanBnXkFtZTcwNjU3NDQwOA@@._V1_.jpg",
+  "description": "In Istanbul, retired CIA operative Bryan Mills and his wife are taken hostage by the father of a kidnapper Mills killed while rescuing his daughter.",
+  "review": {
+    "author": "akadbos",
+    "dateCreated": "2012-10-10",
+    "inLanguage": "English",
+    "heading": "never recommended",
+    "reviewBody": "Such a disgusting movie ever. I am from Turkey but I have never seen those people and buildings in anywhere. They are just old historic buildings. The police cars are totally fake. I do not know what the director was trying to show by doing this but it is so stupid. Turkish Police Department never had those cars. I did not see any girls outside in the movie, just men and women with black scarf and covering all their body showed up everywhere. Turkey is a democratic and secular country and there is no difference between people who are walking around the streets live in USA and Turkey. If I knew that I would never go that movie and give money to those f.... people. Please protest this movie and do not watch it even in your house.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 321033,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "2012-10-04",
+  "keywords": "kidnapping,revenge,avenging son&apos;s death,funeral,handcuffed to a pipe",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Liam Neeson",
+      "url": "https://www.imdb.com/name/nm0000553/"
+    },
+    {
+      "name": "Famke Janssen",
+      "url": "https://www.imdb.com/name/nm0000463/"
+    },
+    {
+      "name": "Maggie Grace",
+      "url": "https://www.imdb.com/name/nm1192254/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Olivier Megaton",
+      "url": "https://www.imdb.com/name/nm0576298/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Luc Besson",
+      "url": "https://www.imdb.com/name/nm0000108/"
+    },
+    {
+      "name": "Robert Mark Kamen",
+      "url": "https://www.imdb.com/name/nm0436543/"
+    }
+  ]
+}

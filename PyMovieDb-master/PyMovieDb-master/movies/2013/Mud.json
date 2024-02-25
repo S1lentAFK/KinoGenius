@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Mud",
+  "url": "https://www.imdb.com/tt1935179/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU2MzcyODgyNV5BMl5BanBnXkFtZTcwNTc4MDYwOQ@@._V1_.jpg",
+  "description": "Two young boys encounter a fugitive and form a pact to help him evade the vigilantes that are on his trail and to reunite him with his true love.",
+  "datePublished": "2013-05-10",
+  "contentRating": "12A",
+  "genre": [
+    "Adventure",
+    "Drama"
+  ],
+  "duration": "PT2H10M",
+  "keywords": "southern gothic,river,friendship between boys,character name as title,river adventure",
+  "rating": {
+    "ratingCount": 187854,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "review": {
+    "author": "callanvass",
+    "dateCreated": "2013-10-04",
+    "inLanguage": "English",
+    "heading": "An exquisite piece of filmmaking, and I loved every minute of it. It's one of my favorite films of 2013",
+    "reviewBody": "Two curious young boys encounter a fugitive (Matthew McConaughey) named Mud where they live. They willingly do deeds for him, and try to reunite him with his love Juniper (Reese Witherspoon) The problem is, a bunch of bounty hunters are after Mud. \\n\\nIt's always nice to see such a tremendous film of this nature, after all the garbage Hollywood tends to churn out these days. Mud is a genuine piece of filmmaking, which is not only thoughtful, but engrossing until the very end. It's deliberate slow pace ends up serving this film well, giving us time to soak it all in. I also loved the southern setting in this film, which made it all the more genuine, and realistic. The cinematography is a sight to behold, with many beautiful sights that never failed to amaze me. Mud is a very likable fugitive, and quite sympathetic in my opinion, and I give all the credit to McConaughey for that. He still has that charismatic swagger he always does, but he delves a lot deeper for this role. His good looks, give way to a dirty, greasy fugitive, who will do anything to survive, but is not void of morality. He cares about the young boys, even if it is for his own reasons. McConaughey pulls it off with conviction, and I felt he was tremendous. The best performance might just be Tye Sherdian as Ellis. For an actor his age, he was absolutely incredible, displaying many ranges of emotion throughout the film. This kid is going special places in my opinion, and I'll be shocked if he doesn't. Jacob Lofland is great as Neckbone (Ellis's best friend) Reese Witherspoon doesn't have a ton of screen time as you may think, but her character Juniper plays a pivotal part. Reese nails the part, and is gorgeous to boot. Sam Shepard adds great support as a longtime friend to Mud, as the grumpy assassin. \\n\\nFinal Thoughts: Its films like this, that restore my faith in Hollywood. It's genuine, gritty, and downright absorbing. I loved this film, and I can't possibly see why anyone would dislike it. It's just a great film\\n\\n9/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "actor": [
+    {
+      "name": "Matthew McConaughey",
+      "url": "https://www.imdb.com/name/nm0000190/"
+    },
+    {
+      "name": "Tye Sheridan",
+      "url": "https://www.imdb.com/name/nm4446467/"
+    },
+    {
+      "name": "Jacob Lofland",
+      "url": "https://www.imdb.com/name/nm5015107/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeff Nichols",
+      "url": "https://www.imdb.com/name/nm2158772/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jeff Nichols",
+      "url": "https://www.imdb.com/name/nm2158772/"
+    }
+  ]
+}

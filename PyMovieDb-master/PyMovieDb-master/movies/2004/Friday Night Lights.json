@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Friday Night Lights",
+  "url": "https://www.imdb.com/tt0390022/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcxMDI5MTM4Ml5BMl5BanBnXkFtZTcwNjA4MDcyMQ@@._V1_.jpg",
+  "description": "Based on H.G. Bissinger's book, which profiled the economically depressed town of Odessa, Texas and their heroic high school football team, The Permian High Panthers.",
+  "review": {
+    "author": "joejasso-70-399261",
+    "dateCreated": "2019-07-02",
+    "inLanguage": "English",
+    "heading": "The music of sport",
+    "reviewBody": "Few films are truly elevated by their soundtracks, but the scores/songs composed by Explosions in the Sky capture the solitude of youth in suffocating situations (lost in their father's dreams, the isolation of a small Texas town, the aimlessness of high school etc.).",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 66495,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2005-05-13",
+  "keywords": "texas,coach,high school football,odessa texas,football team",
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Billy Bob Thornton",
+      "url": "https://www.imdb.com/name/nm0000671/"
+    },
+    {
+      "name": "Jay Hernandez",
+      "url": "https://www.imdb.com/name/nm0379596/"
+    },
+    {
+      "name": "Derek Luke",
+      "url": "https://www.imdb.com/name/nm1035682/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Berg",
+      "url": "https://www.imdb.com/name/nm0000916/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Buzz Bissinger",
+      "url": "https://www.imdb.com/name/nm0084334/"
+    },
+    {
+      "name": "David Aaron Cohen",
+      "url": "https://www.imdb.com/name/nm0169173/"
+    },
+    {
+      "name": "Peter Berg",
+      "url": "https://www.imdb.com/name/nm0000916/"
+    }
+  ]
+}

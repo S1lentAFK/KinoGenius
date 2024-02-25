@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "Me, Myself & Irene",
+  "url": "https://www.imdb.com/tt0183505/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODMwMDY2YzUtNGFiNS00NDA1LWI4YzMtYzVmM2RlZTk3NGVlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A nice-guy cop with Dissociative Identity Disorder must protect a woman on the run from a corrupt ex-boyfriend and his associates.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2000-09-22",
+  "duration": "PT1H56M",
+  "keywords": "dissociative identity disorder,multiple personality,on the road,erection visible through clothing,erect penis",
+  "rating": {
+    "ratingCount": 249793,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "review": {
+    "author": "Benji-80",
+    "dateCreated": "2022-03-20",
+    "inLanguage": "English",
+    "heading": "When comedies were funny",
+    "reviewBody": "This would not get made now. If you've never seen it, watch it and you'll see what I mean. If you haven't watched it in years (as I hadn't), watch it again and you'll also see what I mean. It's raunchy, it's outrageous, and it's not PC, at all. Jim Carrey is excellent value, and is hilarious. And as an added bonus, Renee Zellweger has never looked better. If this is your type of thing (as it is mine), check it out.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "Jim Carrey",
+      "url": "https://www.imdb.com/name/nm0000120/"
+    },
+    {
+      "name": "Ren\u00e9e Zellweger",
+      "url": "https://www.imdb.com/name/nm0000250/"
+    },
+    {
+      "name": "Anthony Anderson",
+      "url": "https://www.imdb.com/name/nm0026364/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bobby Farrelly",
+      "url": "https://www.imdb.com/name/nm0125803/"
+    },
+    {
+      "name": "Peter Farrelly",
+      "url": "https://www.imdb.com/name/nm0268380/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Peter Farrelly",
+      "url": "https://www.imdb.com/name/nm0268380/"
+    },
+    {
+      "name": "Mike Cerrone",
+      "url": "https://www.imdb.com/name/nm0148808/"
+    },
+    {
+      "name": "Bobby Farrelly",
+      "url": "https://www.imdb.com/name/nm0125803/"
+    }
+  ]
+}

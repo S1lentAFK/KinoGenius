@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Gift",
+  "url": "https://www.imdb.com/tt4178092/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGFmY2UyMmYtNDY1Yi00NTIwLTk1ZDktOGM2OTQwZDk0NjU5XkEyXkFqcGdeQXVyMjQwMjk0NjI._V1_.jpg",
+  "description": "A married couple, Simon and Robyn, run into Gordo, an old classmate. Things take a turn when Gordo begins to drop in unannounced at their house and inundates them with mysterious gifts.",
+  "review": {
+    "author": "moviewizguy",
+    "dateCreated": "2015-07-31",
+    "inLanguage": "English",
+    "heading": "The movie you didn't know you had to see this summer",
+    "reviewBody": "Here's a surprise: The Gift is a mature thriller that's more complex and classy than the trailers suggest. I don't know what caused the marketing department to make the film look like such a second-rate, cheap, predictable thriller that somehow had gotten ahold of talented actors, but now we know the truth. As Joel Edgerton's directorial debut, it's impressive, considering the sense of craft going on behind the camera. The cinematography is gorgeous and the pacing is that of a slow burn, but it's never dull. The premise is also deceptively simple, turning more intricate and involving as the film progresses.\\n\\nEdgerton, who also wrote the screenplay, refuses to adhere to genre conventions, constantly subverting audience's expectations on how the story plays out. Red herrings, plot twists, shifting perspectives, and moral ambiguity ensue, but they never feel cheap. Like the best thrillers, The Gift evolves naturally and realistically. Edgerton and Rebecca Hall are great, but it is Jason Bateman who impresses. As a natural comedian actor, he plays one of his rare, serious roles to terrific effect. But I digress. You should go into this film with a clean slate, but know that it is a rare, intelligent thriller that doesn't cheat or spoonfeed its audience. And in that regard, Joel Edgerton has given us a gift, indeed.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 170166,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2015-08-07",
+  "keywords": "gift, psycho thriller, rape, substance abuse, pregnancy",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "Jason Bateman",
+      "url": "https://www.imdb.com/name/nm0000867/"
+    },
+    {
+      "name": "Rebecca Hall",
+      "url": "https://www.imdb.com/name/nm0356017/"
+    },
+    {
+      "name": "Joel Edgerton",
+      "url": "https://www.imdb.com/name/nm0249291/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joel Edgerton",
+      "url": "https://www.imdb.com/name/nm0249291/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joel Edgerton",
+      "url": "https://www.imdb.com/name/nm0249291/"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "The Last Shot",
+  "url": "https://www.imdb.com/tt0357054/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTczMTAyNjI3M15BMl5BanBnXkFtZTcwNzk2ODYyMQ@@._V1_.jpg",
+  "description": "A movie director-screenwriter finds a man to finance his latest project but soon discovers that the producer is actually an undercover FBI agent working on a mob sting operation.",
+  "review": {
+    "author": "gradyharp",
+    "dateCreated": "2005-06-05",
+    "inLanguage": "English",
+    "heading": "Proof that a Seed of Truth is Stranger/Funnier than Fiction",
+    "reviewBody": "THE LAST SHOT is best viewed with a bit of info to let the patient viewer understand what is coming. The opening titles are clever, dealing with movie paraphernalia that serve as matrices for the stars and production staff names and should give a sense of what is to come. But it isn&apos;t until the first 20 or so minutes into the film that the significance of the movie can be appreciated.\n\nBased on an apparently true news article, THE LAST SHOT takes a pot shot at not only Hollywood, but also organized crime, production magnates, the FBI, and little people with big dreams lost in the elusive utopia of fame.The plot is well outlined on these pages. Suffice it to say that the FBI sends Joe Devine (Alec Baldwin) to Hollywood to pose as a producer to lure the underground crime lord Tommy Sanz (Tony Shalhoub) to surface and be caught. Devine needs a script as he discovers from the gross Fanny Nash (Joan Cusack at her hilarious best) and gradually encounters Steven Schats (Matthew Broderick) who with his pathetic brother Marshall Paris (Tim Blake Nelson) has written an unmarketable, non-salable script called &apos;Arizona&apos;. Devine grabs on to the project, making Schats the director (his dream come true) and casts the film with has-been actress with box office draw Emily French (Toni Collette who looks terrific and adds yet another priceless cameo to her brilliant repertoire) and Valerie Weston (Calista Flockhart) who just happens to be Schats&apos; squeeze.\n\nThe process of film-making and the infectious delirium of Hollywood affects everyone in this film - even the FBI and especially Devine who softens into a man who wants to provide the &apos;littleman&apos; Schats with his dream. The humor is broad, WAY over the top, crude, and slapstick and in so many ways this movie mimics all of the intangible oddities that make Hollywood what it is. The performances by Baldwin, Broderick, Cusack, Flockhart - and, well, all of the inserted cameos - are excellent. Once you get the premise of this film it moves from being inane to being a really terrific parody with some sensitive metaphors. Grady Harp",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 4370,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2004-11-05",
+  "keywords": "urination,film within a film,deception,grauman&apos;s chinese theatre los angeles,giallo",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Matthew Broderick",
+      "url": "https://www.imdb.com/name/nm0000111/"
+    },
+    {
+      "name": "Alec Baldwin",
+      "url": "https://www.imdb.com/name/nm0000285/"
+    },
+    {
+      "name": "Toni Collette",
+      "url": "https://www.imdb.com/name/nm0001057/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeff Nathanson",
+      "url": "https://www.imdb.com/name/nm0622288/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steve Fishman",
+      "url": "https://www.imdb.com/name/nm1547730/"
+    },
+    {
+      "name": "Jeff Nathanson",
+      "url": "https://www.imdb.com/name/nm0622288/"
+    }
+  ]
+}

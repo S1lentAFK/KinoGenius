@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Fruitvale Station",
+  "url": "https://www.imdb.com/tt2334649/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0OTU1MDkxMF5BMl5BanBnXkFtZTcwNjI5OTA3OQ@@._V1_.jpg",
+  "description": null,
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2014-06-06",
+  "keywords": "murder of an innocent person,family tragedy,racism,police brutality,gay",
+  "duration": "PT1H25M",
+  "actor": [
+    {
+      "name": "Michael B. Jordan",
+      "url": "https://www.imdb.com/name/nm0430107/"
+    },
+    {
+      "name": "Melonie Diaz",
+      "url": "https://www.imdb.com/name/nm0246686/"
+    },
+    {
+      "name": "Octavia Spencer",
+      "url": "https://www.imdb.com/name/nm0818055/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ryan Coogler",
+      "url": "https://www.imdb.com/name/nm3363032/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ryan Coogler",
+      "url": "https://www.imdb.com/name/nm3363032/"
+    }
+  ],
+  "review": {
+    "author": "estebangonzalez10",
+    "dateCreated": "2014-01-07",
+    "inLanguage": "English",
+    "heading": "The 2013 Sundance Winner is worth checking out",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 85499,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  }
+}

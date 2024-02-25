@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Brigsby Bear",
+  "url": "https://www.imdb.com/tt5805752/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgyODgyMTYzNV5BMl5BanBnXkFtZTgwMTk5NzY2MjI@._V1_.jpg",
+  "description": "After being freed from his life in an underground bunker, a man sets out to make a movie of the only TV show he has ever known.",
+  "review": {
+    "author": "UniqueParticle",
+    "dateCreated": "2019-06-07",
+    "inLanguage": "English",
+    "heading": "Wonderful sweetness - reminiscent of childhood shows",
+    "reviewBody": "Starts off a bit weird/sad then gets to be one of the most joyful and inspirational pieces of art in film. A very well written and adorable story, even written by the main actor (Kyle Mooney) James Pope, about how he's basically obsessed with Brigsby Bear and wants to make a movie about it, which is lovely. Purely delightful cult almost family flick! Also this is my 240th review which is awesome!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingValue": 7.3,
+    "ratingCount": 17689,
+    "bestRating": 10,
+    "worstRating": 1
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2017-09-21",
+  "keywords": "kidnapping,news report,friend,costume,first kiss",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Kyle Mooney",
+      "url": "https://www.imdb.com/name/nm3324982/"
+    },
+    {
+      "name": "Jorge Lendeborg Jr.",
+      "url": "https://www.imdb.com/name/nm7449863/"
+    },
+    {
+      "name": "Matt Walsh",
+      "url": "https://www.imdb.com/name/nm0909768/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dave McCary",
+      "url": "https://www.imdb.com/name/nm5050824/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kevin Costello",
+      "url": "https://www.imdb.com/name/nm8213708/"
+    },
+    {
+      "name": "Kyle Mooney",
+      "url": "https://www.imdb.com/name/nm3324982/"
+    }
+  ]
+}

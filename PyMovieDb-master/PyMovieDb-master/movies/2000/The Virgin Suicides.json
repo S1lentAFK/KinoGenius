@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Virgin Suicides",
+  "url": "https://www.imdb.com/tt0159097/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTMyMjI3MmItODIzNS00OWNiLWE5NTQtYmNhNGNlOTYyYWExXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+  "description": "A group of male friends become obsessed with five mysterious sisters who are sheltered by their strict, religious parents in suburban Detroit in the mid 1970s.",
+  "review": {
+    "author": "daoldiges",
+    "dateCreated": "2023-01-04",
+    "inLanguage": "English",
+    "heading": "Suicides Worthy of Reconsideration",
+    "reviewBody": "When I first saw The Virgin Suicides during its original release, I thought it was a good looking film but suffered from the 'style over substance' syndrome. Having revisited recently I have changed my mind.\n\nWhat does it all mean and how is this film to be viewed. I initially thought it was all and really only about the girls, but years later I realize it's more about the boys/now men. The whole thing is told exclusively from their perspectives. And one that is but distant memories/recollection from their youth. As such the viewer really must take these decades of distance between the events and the retelling into consideration and accept that the narration is suspect. It is suspect not only for the many years time, but it's basically teenage boys experiences with beautiful and captivating girls as the objects of those memories, told by the now adult teenage boys. The girls are so mysterious to the boys and the audience because teenage boys know nothing about teenage girls, and even though they are now adults they still don't understand them. The story is a combination of how things happened, along with how now decades later, they would have actually liked things to have played out. As such this makes a lot more sense and clarity to the story and one that I finally find to be interesting and worth checking out.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 167715,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2000-05-19",
+  "keywords": "suicide,catholic,1970s,sexual exploration,teen suicide",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Kirsten Dunst",
+      "url": "https://www.imdb.com/name/nm0000379/"
+    },
+    {
+      "name": "Josh Hartnett",
+      "url": "https://www.imdb.com/name/nm0001326/"
+    },
+    {
+      "name": "James Woods",
+      "url": "https://www.imdb.com/name/nm0000249/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sofia Coppola",
+      "url": "https://www.imdb.com/name/nm0001068/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jeffrey Eugenides",
+      "url": "https://www.imdb.com/name/nm0262325/"
+    },
+    {
+      "name": "Sofia Coppola",
+      "url": "https://www.imdb.com/name/nm0001068/"
+    }
+  ]
+}

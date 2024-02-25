@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Loving Jezebel",
+  "url": "https://www.imdb.com/tt0174885/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWRiMDRiZmYtNjA5MS00Nzg4LThlMWQtOTc1MmE1NDZhZGM2XkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+  "description": "A man is cursed with falling in love with other men's women.",
+  "contentRating": "R",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "1999-08-05",
+  "keywords": "man,female nudity,interracial relationship,infidelity,independent film",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Hill Harper",
+      "url": "https://www.imdb.com/name/nm0004991/"
+    },
+    {
+      "name": "Laurel Holloman",
+      "url": "https://www.imdb.com/name/nm0391274/"
+    },
+    {
+      "name": "David Moscow",
+      "url": "https://www.imdb.com/name/nm0608378/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kwyn Bader",
+      "url": "https://www.imdb.com/name/nm0046048/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kwyn Bader",
+      "url": "https://www.imdb.com/name/nm0046048/"
+    }
+  ],
+  "review": {
+    "author": "infointerluderecording",
+    "dateCreated": "2021-05-29",
+    "inLanguage": "English",
+    "heading": "Amazing",
+    "reviewBody": "This small and low budget movie inspired and defined my early years. I recommend this movie. I have become a life long fan of Hill Harper and Love Love Love, Lyse Aya Trenier.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 434,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "type": "Movie",
+  "name": "Living in Emergency",
+  "url": "https://www.imdb.com/tt1294182/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM0NzMxNDk5N15BMl5BanBnXkFtZTcwODYzNjc2Mw@@._V1_.jpg",
+  "description": "In the war-zones of Liberia and Congo, four volunteers with Doctors Without Borders struggle to provide emergency medical care under extreme conditions.",
+  "review": {
+    "author": "rodger-raderman",
+    "dateCreated": "2009-03-09",
+    "inLanguage": "English",
+    "heading": "Intense look into an intense world I&apos;d not seen before",
+    "reviewBody": "I saw Living in Emergency at Cinequest. While I&apos;d always heard about Doctors Without Borders, I didn&apos;t have a very good understanding of what they did. After seeing this movie, the best way I can describe these people is that they are like mercenaries for good--really bad-ass doctors/people who go into the world&apos;s most dangerous war zones to provide medical care where there otherwise would be none. The documentary footage of war and its effects on innocents in Liberia and Congo is very intense and sometimes hard to watch. It&apos;s against this background that the stories of these doctors play out. They are fascinating to watch. If you have the chance to see this film, I highly recommend doing so.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 1066,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  },
+  "contentRating": "Unrated",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2009-12-14",
+  "keywords": "democratic republic of the congo,war zone,liberia,doctor,charity organization",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Davinder Gill",
+      "url": "https://www.imdb.com/name/nm3179756/"
+    },
+    {
+      "name": "Chiara Lepora",
+      "url": "https://www.imdb.com/name/nm3179733/"
+    },
+    {
+      "name": "Chris Brasher",
+      "url": "https://www.imdb.com/name/nm1677786/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mark N. Hopkins",
+      "url": "https://www.imdb.com/name/nm0394233/"
+    }
+  ],
+  "creator": []
+}

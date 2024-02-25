@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "One for the Money",
+  "url": "https://www.imdb.com/tt1598828/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NzMxMDU1NF5BMl5BanBnXkFtZTcwNzYxNTA2Ng@@._V1_.jpg",
+  "description": "Unemployed and newly-divorced Stephanie Plum lands a job at her cousin's bail-bond business, where her first assignment puts her on the trail of a wanted local cop from her romantic past.",
+  "review": {
+    "author": "gensbill",
+    "dateCreated": "2020-07-12",
+    "inLanguage": "English",
+    "heading": "What a Cast...",
+    "reviewBody": "This was Debbie Reynolds' last movie but a waste of great talent including Louis Mustillo and many others.\n\nIt is alright for something running in the background or while you are reading, but not a film as the main entertainment.\n\nI give it a 6 for the cast and, as I said, Debbie's last movie, out of respect.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 43998,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2012-02-24",
+  "keywords": "tough woman,self defense,new jersey,bounty hunting,bail jumper",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Katherine Heigl",
+      "url": "https://www.imdb.com/name/nm0001337/"
+    },
+    {
+      "name": "Jason O'Mara",
+      "url": "https://www.imdb.com/name/nm0641816/"
+    },
+    {
+      "name": "Daniel Sunjata",
+      "url": "https://www.imdb.com/name/nm0839326/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Julie Anne Robinson",
+      "url": "https://www.imdb.com/name/nm1455688/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stacy Sherman",
+      "url": "https://www.imdb.com/name/nm1995411/"
+    },
+    {
+      "name": "Karen Ray",
+      "url": "https://www.imdb.com/name/nm4558594/"
+    },
+    {
+      "name": "Liz Brixius",
+      "url": "https://www.imdb.com/name/nm2470990/"
+    }
+  ]
+}

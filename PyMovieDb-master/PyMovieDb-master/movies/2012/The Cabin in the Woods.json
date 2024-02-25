@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Cabin in the Woods",
+  "url": "https://www.imdb.com/tt1259521/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTUxNzYyMjg2N15BMl5BanBnXkFtZTcwMTExNzExNw@@._V1_.jpg",
+  "description": "Five college friends head out to a remote cabin for a getaway, but things don't go as planned when they start getting killed. They soon discover that there is more to the cabin than it seems.",
+  "review": {
+    "author": "champjohnson29",
+    "dateCreated": "2012-10-15",
+    "inLanguage": "English",
+    "heading": "Either you love it or you hate it!",
+    "reviewBody": "I'm not a horror fan. Although, films pertaining to demonic possession scare me into a four year old, it's just not my taste. I'm also pretty late in watching this movie. I found it online and decided to watch since I had nothing else to do. I was kind of intrigued after seeing Joss Whedon's name in the credits for producing and writing. \\n\\nOverall, I loved this movie. It started off as your typical horror film, but turn into something much bigger and more authentic. Every horror in the past twenty years has been predictable. You know who is going to die, you know who the killer is, you know if the dumb blonde runs off screaming into a dark hallway she's more than likely going to have her head get cut off. But this movie was the exact opposite because I had absolutely no clue what was going to happen next. I'm sure a high percentage of people will not appreciate the sci-fi twist to the movie but I loved and thought it was an awesome idea. All horror movies are kind of science fiction anyways. It seems like all the killers are super human anyway because they don't seem to ever die no matter how many times you shoot them, stab them or hit them with a truck. This movie just did it on a larger scale.\\n\\nThe script was solid as well. Joss Whedon writes the best dialogue and knows how to play off of clich\\u00e9's and those corny predictable monologues and speeches. \\n\\nTo everyone saying they hated this movie, it's obvious that they don't like change and are probably upset because the originality of this film pretty much slays all their favorite horror movies to dust. It's not Oscar worthy but it's a great Friday night movie with your friends that will keep everyone on the edge of their seat, anticipating what's going to happen next.\\n\\nI have to hand it to the filmmakers. They definitely made a film that no one would have ever thought it. Just like my title says, you either love it or you hate it. You can't please everyone but this customer was satisfied from beginning.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 446818,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2012-04-13",
+  "keywords": "cabin in the woods,lovecraftian,torture chamber,topless woman,girl stripped down to panties",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Kristen Connolly",
+      "url": "https://www.imdb.com/name/nm1393354/"
+    },
+    {
+      "name": "Chris Hemsworth",
+      "url": "https://www.imdb.com/name/nm1165110/"
+    },
+    {
+      "name": "Anna Hutchison",
+      "url": "https://www.imdb.com/name/nm0404307/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Drew Goddard",
+      "url": "https://www.imdb.com/name/nm1206844/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joss Whedon",
+      "url": "https://www.imdb.com/name/nm0923736/"
+    },
+    {
+      "name": "Drew Goddard",
+      "url": "https://www.imdb.com/name/nm1206844/"
+    }
+  ]
+}

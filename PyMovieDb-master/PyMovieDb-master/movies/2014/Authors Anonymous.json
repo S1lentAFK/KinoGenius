@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Authors Anonymous",
+  "url": "https://www.imdb.com/tt2114461/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU5MzEwMzc1NF5BMl5BanBnXkFtZTgwMTk3MDkxMTE@._V1_.jpg",
+  "description": "When a dysfunctional group of unpublished writers accept Hannah into their fold, the last thing they expect is her overnight success. Can these lovable misfits achieve their artistic dreams and avoid killing one another in the pro...",
+  "review": {
+    "author": "magickchicken",
+    "dateCreated": "2014-04-18",
+    "inLanguage": "English",
+    "heading": "Unexpectedly good and moving",
+    "reviewBody": "I went to see based on a recommendation from my writer's group, dragging my husband along with me to a theater over an hour away. We had seen the trailer, but didn't realize that it would be laugh-out-loud funny so often. The semi-documentary style of the movie made it feel like you got to know each of the characters really well. The movie took you through all of the emotions that you experience as a writer; the heartache of rejection, the envy of others' success, and the fear that you might never get a contract yourself. \n\nThis movie is not 'easy' watching. As with many indie movies, there are times between laughs that are really uncomfortable, and you just have to sit with them and let them sink in. I was impressed by how each of the actors were able to show their characters struggle with the awkwardness of their own emotions in various situations.\n\nBoth my husband and I were impressed with the movie. We both think that it felt 'real'. It's definitely worth a watch - even if you're not a writer - if you've ever competed for anything and watched someone else win, you will get something from this movie. There was a powerful message in there as well - always keep writing.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 2329,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.4
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2014-03-18",
+  "keywords": "killing,group",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Kaley Cuoco",
+      "url": "https://www.imdb.com/name/nm0192505/"
+    },
+    {
+      "name": "Tricia Helfer",
+      "url": "https://www.imdb.com/name/nm1065454/"
+    },
+    {
+      "name": "Jonathan Banks",
+      "url": "https://www.imdb.com/name/nm0052186/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ellie Kanner",
+      "url": "https://www.imdb.com/name/nm0437802/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Congalton",
+      "url": "https://www.imdb.com/name/nm2892243/"
+    }
+  ]
+}

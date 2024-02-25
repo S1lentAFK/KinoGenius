@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Reader",
+  "url": "https://www.imdb.com/tt0976051/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM0NDQxNjA0N15BMl5BanBnXkFtZTcwNDUwMzcwMg@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "The_Film_Addict",
+    "dateCreated": "2009-01-08",
+    "inLanguage": "English",
+    "heading": "The Reader is a brilliant, sexually charged, and oddly heartbreaking tale about the complexity of human morality and the lifelong repercussions that result from our actions.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 257740,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "datePublished": "2009-01-02",
+  "keywords": "war crime,older woman younger man relationship,nazi,female nudity,sex with a minor",
+  "duration": "PT2H4M",
+  "actor": [
+    {
+      "name": "Kate Winslet",
+      "url": "https://www.imdb.com/name/nm0000701/"
+    },
+    {
+      "name": "Ralph Fiennes",
+      "url": "https://www.imdb.com/name/nm0000146/"
+    },
+    {
+      "name": "Bruno Ganz",
+      "url": "https://www.imdb.com/name/nm0004486/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Stephen Daldry",
+      "url": "https://www.imdb.com/name/nm0197636/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Hare",
+      "url": "https://www.imdb.com/name/nm0002376/"
+    },
+    {
+      "name": "Bernhard Schlink",
+      "url": "https://www.imdb.com/name/nm0772384/"
+    }
+  ]
+}

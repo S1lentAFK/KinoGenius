@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "Pineapple Express",
+  "url": "https://www.imdb.com/tt0910936/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY1MTE4NzAwM15BMl5BanBnXkFtZTcwNzg3Mjg2MQ@@._V1_.jpg",
+  "description": "A process server and his marijuana dealer wind up on the run from hitmen and a corrupt police officer after he witnesses his dealer's boss murder a competitor while trying to serve papers on him.",
+  "review": {
+    "author": "deepfrieddodo",
+    "dateCreated": "2021-06-11",
+    "inLanguage": "English",
+    "heading": "Franco Fantastic",
+    "reviewBody": "A good stoner comedy, as stupid as you might expect, but not really Rogen's funniest work. The standout is Franco, who plays the lovable idiot perfectly, his stupid innocence providing the best moments of the film. The rest of the characters are okay, Rogen plays his regular character, with all the same actors from that usual scene. Some parts are really funny, like the car chase, but at other points interest can drop. It's a good stoner action comedy, not much more.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 355595,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2008-09-12",
+  "keywords": [
+    "stoner",
+    "falling downhill",
+    "watching tv",
+    "man tied up",
+    "handcuffed man"
+  ],
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Seth Rogen",
+      "url": "https://www.imdb.com/name/nm0736622/"
+    },
+    {
+      "name": "James Franco",
+      "url": "https://www.imdb.com/name/nm0290556/"
+    },
+    {
+      "name": "Gary Cole",
+      "url": "https://www.imdb.com/name/nm0170550/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Gordon Green",
+      "url": "https://www.imdb.com/name/nm0337773/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Seth Rogen",
+      "url": "https://www.imdb.com/name/nm0736622/"
+    },
+    {
+      "name": "Evan Goldberg",
+      "url": "https://www.imdb.com/name/nm1698571/"
+    },
+    {
+      "name": "Judd Apatow",
+      "url": "https://www.imdb.com/name/nm0031976/"
+    }
+  ]
+}

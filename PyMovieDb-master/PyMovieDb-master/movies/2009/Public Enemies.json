@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Public Enemies",
+  "url": "https://www.imdb.com/tt1152836/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGI4YTIxMDQtNDlmNC00ZDJhLWIyZGItM2QyODRiMTEzN2ViXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": "The Feds try to take down notorious American gangsters John Dillinger, Baby Face Nelson, and Pretty Boy Floyd during a booming crime wave in the 1930s.",
+  "review": {
+    "author": "praveen77",
+    "dateCreated": "2009-08-13",
+    "inLanguage": "English",
+    "heading": "Not one of Mann&apos;s best, but still...",
+    "reviewBody": "Whenever a Michael Mann movie comes out, I am besieged by expectations. This is one director whose style I seem to consistently like. The Insider, Heat, Collateral, The Last of the Mohicans, and yes.. I LOVED Miami Vice the movie (despite the many negative reviews it seemed to have got). So, when Public Enemies came out, and seeing Mann team up with Johnny Depp and Christian Bale, I knew I could not miss this. However, probably because of the high standards he has set for himself, I was a little disappointed with this. \\n\\nThe story is about a gangster bank robber, John Dillinger(Johnny Depp), back in the &apos;30&apos;s, who pulled off a couple of daring heists and prison breaks. He was generally considered a hero among the public, as this was during the years of the great depression and Dillinger was seen as someone who steals from the rich man. A fledging FBI, led by the peerless J. Edgar Hoover, decide to hunt him down so that they can grow the organization, and name him Public Enemy Number 1. Melvin Purvis(Christian Bale) is assigned the task of leading this group of agents.\\n\\nJohnny Depp is as usual great, but you get a feeling he would have been even better if the script had given enough scope to explore the character of Dillinger. The same goes with his love interest, played by Marillon Cotillard. Again, a wonderful actress, but at times the love story seemed forced into the story. Despite this, they have great chemistry. \\n\\nWhich brings me to Christian Bale. This is an actor who has so much more to offer than the half baked roles he has been getting this year. You get a feeling this year that he is being offered big movies which don&apos;t give him a character he can bite his teeth into. First there was Terminator Salvation, and now this. In both, his character never really seemed into the movie as compared to the others. I&apos;m waiting to see a movie again where he will assert himself.\\n\\nDespite the flaws, this is still a good movie from Mann. Just don&apos;t go in expecting it to out do his best.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 317039,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Biography",
+    "Crime"
+  ],
+  "datePublished": "2009-07-01",
+  "keywords": "celebrity criminal,manhunt,great depression,ends with biographical notes,mafia",
+  "duration": "PT2H20M",
+  "actor": [
+    {
+      "name": "Christian Bale",
+      "url": "https://www.imdb.com/name/nm0000288/"
+    },
+    {
+      "name": "Johnny Depp",
+      "url": "https://www.imdb.com/name/nm0000136/"
+    },
+    {
+      "name": "Christian Stolte",
+      "url": "https://www.imdb.com/name/nm0831601/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Mann",
+      "url": "https://www.imdb.com/name/nm0000520/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ronan Bennett",
+      "url": "https://www.imdb.com/name/nm0072032/"
+    },
+    {
+      "name": "Michael Mann",
+      "url": "https://www.imdb.com/name/nm0000520/"
+    },
+    {
+      "name": "Ann Biderman",
+      "url": "https://www.imdb.com/name/nm0081189/"
+    }
+  ]
+}

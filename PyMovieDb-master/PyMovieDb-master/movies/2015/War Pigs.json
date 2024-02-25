@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "War Pigs",
+  "url": "https://www.imdb.com/tt3779300/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjUyNjg3MjMtZGVkZS00MzUzLWJhM2UtNWM1ZWFlOTc4MzA5XkEyXkFqcGdeQXVyMDI4NjM1MQ@@._V1_.jpg",
+  "description": "A rag tag unit of misfits known as the War Pigs must go behind enemy lines to exterminate Nazis by any means necessary.",
+  "genre": [
+    "Action",
+    "Drama",
+    "War"
+  ],
+  "contentRating": "15",
+  "datePublished": "2015-09-18",
+  "duration": "PT1H31M",
+  "keywords": "1940s,year 1944,world war two,western front,u.s. army",
+  "rating": {
+    "ratingCount": 3629,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.3
+  },
+  "review": {
+    "author": "quincytheodore",
+    "dateCreated": "2015-07-24",
+    "inLanguage": "English",
+    "heading": "Excruciatingly boring, it declares war of attrition on audience&apos;s patience.",
+    "reviewBody": "Let&apos;s be honest, you saw the cast or description and thought this would be an action packed war movie. Sad to say, War Pigs is a slow trudging march of bad acting and unappealing script. Even the supposed big names like Mickey Rourke and Chuck Liddell only appear briefly and what little action it has is done without finesse.\\n\\nStory follows Dolph Lundgren and Luke Goss as they assemble rag tag squad to overcome Nazi advances. This is practically the whole movie, they recruit some people, train them while creating bond of brotherhood. It may sound good if it had better material, yet the plot is barren and tedious. Be it may the actors or dialogues, neither are interesting.\\n\\nWar movie is tricky, it inherently has some expectations and emotions involved. Many movies with better cast and production have mixed result, War Pigs have none the polished delivery nor the gritty nature to pull off this kind of scale. It&apos;s simply a few men bantering for an hour and half. The subject may have been engaging, but the presentation offers barely any battle of wit or actual battle at all.\\n\\nIf the slow pace hasn&apos;t deterred the audience, the flimsy action would. With the leading action stars, the movie could have done at least action sequences right, instead it only produces a very amateurish effort. The camera lacks focus and gun fight doesn&apos;t even look remotely real. It probably wouldn&apos;t help much since the cumulative action is probably only ten minutes or less.\\n\\nWar Pigs certainly doesn&apos;t have the depth to present cerebral war theme, it lacks the production to capitalize on the action oriented cast and it&apos;s far from authentic to appeal to military fans. It only gives a sense of desolation and tediousness for the audience.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "actor": [
+    {
+      "name": "Luke Goss",
+      "url": "https://www.imdb.com/name/nm0331577/"
+    },
+    {
+      "name": "Dolph Lundgren",
+      "url": "https://www.imdb.com/name/nm0000185/"
+    },
+    {
+      "name": "Chuck Liddell",
+      "url": "https://www.imdb.com/name/nm1101910/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ryan Little",
+      "url": "https://www.imdb.com/name/nm0514662/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Adam Emerson",
+      "url": "https://www.imdb.com/name/nm3531157/"
+    },
+    {
+      "name": "Andrew Boodhoo Kightlinger",
+      "url": "https://www.imdb.com/name/nm3430550/"
+    },
+    {
+      "name": "Steven Luke",
+      "url": "https://www.imdb.com/name/nm3531089/"
+    }
+  ]
+}

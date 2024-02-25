@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "Osmosis Jones",
+  "url": "https://www.imdb.com/tt0181739/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTJlOGNhYTItYzdlOC00MWY1LWI1NzgtMGRjMmJiYzA0MTRlXkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_.jpg",
+  "description": "A policeman white blood cell, with the help of a cold pill, must stop a deadly virus from destroying the human they live in, Frank.",
+  "review": {
+    "author": "jarossi",
+    "dateCreated": "2001-11-15",
+    "inLanguage": "English",
+    "heading": "Very fun and imaginative",
+    "reviewBody": "I thought this movie was very good. The people leaving bad reviews are being too critical. This movie was meant to be fun. The way the inside of the body is a city, the white blood cells are the police, fireman, etc., the lymph nodes were the police stations, veins were highways, the stomach was a bus station/airport type place, and the germs and bacteria were, of course, the criminals, and so on. This movie gives a very imaginative way the body works to fight infection, as if the body was a city of people just like in the real world. You may need to have some sort of knowledge about the body to get some of the puns and jokes, maybe not very young kids will get it, but they will like the animation...this movie is even good for adults. I give the movie 8/10...I thought it was a very entertaining movie!!!!!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 38471,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2001-11-02",
+  "keywords": [
+    "white blood cell",
+    "two word title",
+    "close up of eye",
+    "wisecrack humor",
+    "cancer"
+  ],
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Laurence Fishburne",
+      "url": "https://www.imdb.com/name/nm0000401/"
+    },
+    {
+      "name": "Chris Rock",
+      "url": "https://www.imdb.com/name/nm0001674/"
+    },
+    {
+      "name": "David Hyde Pierce",
+      "url": "https://www.imdb.com/name/nm0001383/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bobby Farrelly",
+      "url": "https://www.imdb.com/name/nm0125803/"
+    },
+    {
+      "name": "Peter Farrelly",
+      "url": "https://www.imdb.com/name/nm0268380/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Marc Hyman",
+      "url": "https://www.imdb.com/name/nm0405190/"
+    }
+  ]
+}

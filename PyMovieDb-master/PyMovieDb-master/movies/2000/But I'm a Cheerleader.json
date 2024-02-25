@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "But I'm a Cheerleader",
+  "url": "https://www.imdb.com/tt0179116/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmZjNGVmYmItZWFmNi00ODQ1LThmZTUtMzYzMGJlMjZjMGFiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A naive teenager is sent to rehab camp when her straitlaced parents and friends suspect her of being a lesbian.",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "contentRating": "15",
+  "datePublished": "2000-01-01",
+  "duration": "PT1H32M",
+  "keywords": "cheerleader, conversion therapy, coming out, pretending to be straight, homophobia",
+  "rating": {
+    "ratingCount": 40429,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "review": {
+    "author": "TuckMN",
+    "dateCreated": "2000-07-28",
+    "inLanguage": "English",
+    "heading": "NOT your usual angst-ridden coming out film...",
+    "reviewBody": "This is a completely different take on any 'coming out' movie I have ever seen - but with RuPaul as a former homosexual turned 'conversion therapist,' it would pretty much have to be!\n\nMink Stole is delightfully smarmy as Amanda's (Natasha Lyonne) mother who sends Amanda the cheerleader to 'True Directions' a homosexual deprogramming camp - camp being the key word - mostly based on the fact that she doesn't like her quarterback boyfriend's extremely wet and sloppy kisses and (heaven forbid!) she has a poster of Melissa Etheridge in her bedroom.\n\nThe camp is a wonderful, non-stop visual joke.\n\nThe girl's bathroom has literally thousands of daisies attached to the walls. Their bedroom is a riot of pink satin, ribbons and lace worthy of Mae West.\n\nThe girls have to wear pink uniforms and do housework; the boys are in blue and have to learn to chop wood, work on cars and learn football. Watching RuPaul work on a car is worth the price of admission alone.\n\nEach of the kids has a 'root,' - the reason they became gay: ranging from 'a traumatic bris' to 'my mother got married in pants.'\n\nLarry and Lloyd (Richard Moll and Wesley Mann, respectively) are priceless as two of the first clients of True Direction and are now self described ex-ex-gays. They rescue kids via the 'underground homo railroad' with the message 'that no matter who you are, be yourself.'\n\nThey are an absolute delight.\n\nThe final 'graduation scene' which wraps up the film very nicely is a real gem - I didn't know they made lavender fatigues!\n\nThere were some real standout performances - Dante Basco as Dolph and Clea DuVall as Graham deserve special recognition.\n\nDon't run out as soon as the credits start rolling: There is one last scene that seals this film with just the perfect touch.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Natasha Lyonne",
+      "url": "https://www.imdb.com/name/nm0005169/"
+    },
+    {
+      "name": "Clea DuVall",
+      "url": "https://www.imdb.com/name/nm0245112/"
+    },
+    {
+      "name": "Michelle Williams",
+      "url": "https://www.imdb.com/name/nm0931329/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jamie Babbit",
+      "url": "https://www.imdb.com/name/nm0044803/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brian Peterson",
+      "url": "https://www.imdb.com/name/nm0677048/"
+    },
+    {
+      "name": "Jamie Babbit",
+      "url": "https://www.imdb.com/name/nm0044803/"
+    }
+  ]
+}

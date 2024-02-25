@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "The Incredibles",
+  "url": "https://www.imdb.com/tt0317705/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_.jpg",
+  "description": "While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.",
+  "review": {
+    "author": "silva-w-pius",
+    "dateCreated": "2014-05-29",
+    "inLanguage": "English",
+    "heading": "Is it a bird, no it&apos;s a plane, no it&apos;s the Incredibles",
+    "reviewBody": "Is it a bird, no it&apos;s a plane, no it&apos;s the IncrediblesImagine if one crazed scientist had a colossal sized blender and put the love and affection of The Modern Family in it, then sprinkled some dysfunctional madness of Malcolm in the Middle and then added superpowers to the mix, I guarantee that what comes out still won&apos;t be a match for the crazy, adorable, high octane and utter zaniness that are the Incredibles. The dad is supper strong, the mother can stretch like taffy, and the teenage girl can become invisible and throw up force fields and the 10 year old is lightening fast, which is quiet lucky when they must come up against the rich, genius of the villainous Syndrome, who seeks to destroy the hero he once worshipped in Mr. Incredible and an the whole city along with him. Despite the film being an animation featuring a story line that was extremely fantastical, not once did I remember it was a movie. The actions scenes were spell bounding and highly imaginative. But most importantly, I really believed in these characters that spat witty sharp dialogue at each other at a furious pace, not just because they were funny, but because the characters were so believable and relatable. Subsequently it should come as to no surprise that film was nominated for a best screenplay Oscar, which is a rarity for an animated film, but this ain&apos;t just your average animated film, it&apos;s an Incredible animated film",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 799974,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2004-11-26",
+  "keywords": "superhero family,superhero,non comic book superhero,strong female character,good versus evil",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Craig T. Nelson",
+      "url": "https://www.imdb.com/name/nm0005266/"
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "url": "https://www.imdb.com/name/nm0000168/"
+    },
+    {
+      "name": "Holly Hunter",
+      "url": "https://www.imdb.com/name/nm0000456/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brad Bird",
+      "url": "https://www.imdb.com/name/nm0083348/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brad Bird",
+      "url": "https://www.imdb.com/name/nm0083348/"
+    }
+  ]
+}

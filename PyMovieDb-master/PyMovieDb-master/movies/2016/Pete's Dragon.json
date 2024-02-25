@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Pete's Dragon",
+  "url": "https://www.imdb.com/tt0076538/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjJkMjcyOTktYTIwNC00MTY3LWE4ZTAtMTdlODg0NDE3YTQ1XkEyXkFqcGdeQXVyNjM1MTQ0NTQ@._V1_.jpg",
+  "description": "An orphan boy and his magical dragon come to town with his abusive adoptive parents in pursuit.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "1978-12-05",
+  "keywords": "live action animated hybrid,combined animation and live action,2d animation,traditional animation,cartoon dragon",
+  "duration": "PT2H8M",
+  "rating": {
+    "ratingCount": 26326,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "review": {
+    "author": "afonsobritofalves",
+    "dateCreated": "2018-09-13",
+    "inLanguage": "English",
+    "heading": "The Best Disney Dragon",
+    "reviewBody": "The best Disney Dragon, this movie is fantastic in many ways. It is good at the level of special effects, has good actors, good story and good bad guys. Highly recommend.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "Sean Marshall",
+      "url": "https://www.imdb.com/name/nm0551171/"
+    },
+    {
+      "name": "Helen Reddy",
+      "url": "https://www.imdb.com/name/nm0714761/"
+    },
+    {
+      "name": "Jim Dale",
+      "url": "https://www.imdb.com/name/nm0197715/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Don Chaffey",
+      "url": "https://www.imdb.com/name/nm0149548/"
+    },
+    {
+      "name": "Don Bluth",
+      "url": "https://www.imdb.com/name/nm0089940/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Malcolm Marmorstein",
+      "url": "https://www.imdb.com/name/nm0549393/"
+    },
+    {
+      "name": "Seton I. Miller",
+      "url": "https://www.imdb.com/name/nm0589316/"
+    },
+    {
+      "name": "S.S. Field",
+      "url": "https://www.imdb.com/name/nm0276039/"
+    }
+  ]
+}

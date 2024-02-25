@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Detroit",
+  "url": "https://www.imdb.com/tt5390504/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk4MTUxMF5BMl5BanBnXkFtZTgwNDE5NjA5MjI@._V1_.jpg",
+  "description": "Fact-based drama set during the 1967 Detroit riots in which a group of rogue police officers respond to a complaint with retribution rather than justice on their minds.",
+  "review": {
+    "author": "TheBigSick",
+    "dateCreated": "2017-08-06",
+    "inLanguage": "English",
+    "heading": "Bigelow is good at making a thriller, but not a drama",
+    "reviewBody": "Kathryn Bigelow is known for her documentary-style camera-work and the creation of an intense atmosphere. This can be seen, either from the early work like Near Dark and Point Break, or from her more recent films such as The Hurt Locker and Zero Dark Thirty. In one word, she is a good director for thrillers.\n\nBut Detroit is not a pure thriller. It is more like a period drama. On the one hand, the interrogation in the motel is the thriller part of the film, and without any doubt, it is brilliant. The audience keep wondering what would happen next. On the other hand, the film as a whole is mediocre in story-telling and character development. The setup for the interrogation is unnecessarily too long. Also, the courtroom process after the interrogation is too short. For more than once, Bigelow just simply displays lots of texts on the screen to make up for her unbalanced story-telling. John Boyega's character could have been the most impressive because he is the most struggling one in conscience. Yet it turns out to be untrue due to the limited time and space given to the character. \n\nOverall speaking, Detroit could have been a thought-provoking classic, but it lacks depth in the end. There is no deeper discussion on the cause of the injustice or the impact it is could bring to real life. One real classic period drama is Spielberg's Schindler's List. In this aspect, Bigelow is still one step away from being a great director. \n\nOne more thing, Will Poulter deserves a nomination for Oscar best supporting actor, whose performance is the key to the success of the thriller part.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 55706,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "R",
+  "genre": [
+    "Crime",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2017-08-04",
+  "keywords": "racism,police,1960s,riot,detroit riots",
+  "duration": "PT2H23M",
+  "actor": [
+    {
+      "name": "John Boyega",
+      "url": "https://www.imdb.com/name/nm3915784/"
+    },
+    {
+      "name": "Anthony Mackie",
+      "url": "https://www.imdb.com/name/nm1107001/"
+    },
+    {
+      "name": "Algee Smith",
+      "url": "https://www.imdb.com/name/nm4861346/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kathryn Bigelow",
+      "url": "https://www.imdb.com/name/nm0000941/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Boal",
+      "url": "https://www.imdb.com/name/nm1676793/"
+    }
+  ]
+}

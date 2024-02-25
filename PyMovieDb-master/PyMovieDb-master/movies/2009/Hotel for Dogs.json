@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hotel for Dogs",
+  "url": "https://www.imdb.com/tt0785006/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI5NjkxOTE5MF5BMl5BanBnXkFtZTcwMTcxNTAwMg@@._V1_.jpg",
+  "description": "Two kids secretly take in stray dogs at a vacant hotel.",
+  "contentRating": "U",
+  "genre": [
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2009-02-13",
+  "keywords": "overalls,male and female protagonists,older sister younger brother relationship,canadian dog,animal",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Emma Roberts",
+      "url": "https://www.imdb.com/name/nm0731075/"
+    },
+    {
+      "name": "Jake T. Austin",
+      "url": "https://www.imdb.com/name/nm1545471/"
+    },
+    {
+      "name": "Lisa Kudrow",
+      "url": "https://www.imdb.com/name/nm0001435/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Thor Freudenthal",
+      "url": "https://www.imdb.com/name/nm0294457/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jeff Lowell",
+      "url": "https://www.imdb.com/name/nm0523094/"
+    },
+    {
+      "name": "Bob Schooley",
+      "url": "https://www.imdb.com/name/nm0774792/"
+    },
+    {
+      "name": "Mark McCorkle",
+      "url": "https://www.imdb.com/name/nm0566407/"
+    }
+  ],
+  "review": {
+    "author": "jtuchler",
+    "dateCreated": "2009-01-11",
+    "inLanguage": "English",
+    "heading": "The dogs were amusing, the people less so",
+    "reviewBody": "I saw a preview of this film with kids 6, 7 and 12. We are a dog-loving family, so perhaps we were biased to enjoy the film. That said, we were split on our review. The adults and 12 year old were bored; the two youngsters were thrilled! Hence the score of 6.\n\nOverall, this was a harmless movie featuring a few humans and many trained dogs. It was sugary and nice - there was no real threat anywhere in the film of something bad happening (thus it is kid-safe for very young kids). And they've reduced the idea of foster homes down to a concocted McNugget of a concept. My younger kids didn't even follow that theme at all.\n\nWhat they did follow, and what I found most redeeming, were the numerous cutesy dog tricks and toys. The creators of the film did a nice job inventing clever ways to mechanize the caring for dogs (think the breakfast scene in Chitty Chitty Bang Bang). That was fun. And the dogs were cute.\n\nFor me the drawbacks were these: Slow start, unfunny 'comic' characters - like the foster parents and dog catchers, and a lame plot.\n\nBut ultimately - we had a nice outing, and you will too. And you will emerge from the film MORE likely to go get a dog of your own.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 24878,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  }
+}

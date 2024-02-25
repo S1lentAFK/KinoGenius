@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Warrior&apos;s Way",
+  "url": "https://www.imdb.com/tt1032751/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2NjNDdhMDktNDcxYy00MjM4LWIzMzQtODY2MzAyZTk5N2VhXkEyXkFqcGdeQXVyMTEyOTQ1OTk4._V1_.jpg",
+  "description": "A warrior-assassin is forced to hide in a small town in the American Badlands after refusing a mission.",
+  "review": {
+    "author": "Cruise2061",
+    "dateCreated": "2020-10-17",
+    "inLanguage": "English",
+    "heading": "Stylish and Arty but Elegant.",
+    "reviewBody": "Imagine a Sergio Leone western with swords. The setting is as sparse as the dialogue but you don&apos;t sit through one of his works for the acting or the plot. Warrior&apos;s Way is like that. What it lacks is made up in other ways. The choreography is above average, the CGI seamless and the set pieces pure art. And it&apos;s all cleverly portrayed, captured and presented. An enjoyable little gem from the genre.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 27186,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "Fantasy"
+  ],
+  "datePublished": "2010-12-03",
+  "keywords": "assassin,19th century,throwing a knife,bullet time,explosion",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Jang Dong-Gun",
+      "url": "https://www.imdb.com/name/nm0417520/"
+    },
+    {
+      "name": "Kate Bosworth",
+      "url": "https://www.imdb.com/name/nm0098378/"
+    },
+    {
+      "name": "Geoffrey Rush",
+      "url": "https://www.imdb.com/name/nm0001691/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sngmoo Lee",
+      "url": "https://www.imdb.com/name/nm1857002/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sngmoo Lee",
+      "url": "https://www.imdb.com/name/nm1857002/"
+    },
+    {
+      "name": "Scott Reynolds",
+      "url": "https://www.imdb.com/name/nm0721944/"
+    }
+  ]
+}

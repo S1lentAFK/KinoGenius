@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "Because of Winn-Dixie",
+  "url": "https://www.imdb.com/tt0317132/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA3NDYzNDE0MjBeQTJeQWpwZ15BbWU3MDc3NjA3MzM@._V1_.jpg",
+  "description": "A mischievous dog befriends a lonely young girl in a new town and helps her make new friends.",
+  "contentRating": "U",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2006-02-13",
+  "keywords": "girl,dog,supermarket,small town,dog movie",
+  "duration": "PT1H46M",
+  "rating": {
+    "ratingCount": 12569,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "review": {
+    "author": "jotix100",
+    "dateCreated": "2006-04-11",
+    "inLanguage": "English",
+    "heading": "A girl and her dog",
+    "reviewBody": "Opal, the daughter of a preacher, is a girl with a mind of her own. When she meets Winn-Dixie, she has found a pal. Her father is a man that is in pain. He is trying to reconcile himself to his present circumstances. Arriving at the small southern town, he must do good work in order to attract a faithful congregation. He doesn't have much to fear, just leave it Opal to get everyone together in a place where people have grown apart.\\n\\nThe great book by Kate DiCamillo, is an excellent book for young adults. Joan Singleton adapted it for the screen and Wayne Wang directed a nice cast that produced a movie that, while some would think it's too sugary for their taste, it captured perfectly the essence of a small southern town.\\n\\nThe sweet AnnaSophia Robb plays the leading role. This young actress is a natural, or so it seems. Jeff Daniels, one of our best actors is seen as the preacher who can't forget his wife and who has to come to terms with himself. Cicely Tyson and Eva Maria Saint are perfect as two of the town's oldest citizens that are won over by Opal's goodness. Elle Fanning is seen as Sweetie Pie, a lovely girl. B. J. Hopper and Dave Mathews also contributed to the film.\\n\\nThis film was clearly targeted for young audiences. It has the right ingredients that prove to be a magical combination for family movies, a girl and a cute dog, a sure formula for appealing to audiences. Wayne Wang, an unlikely choice for director, brings all these elements together for a film that will not disappoint.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 12569,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "actor": [
+    {
+      "name": "AnnaSophia Robb",
+      "url": "https://www.imdb.com/name/nm1455681/"
+    },
+    {
+      "name": "Jeff Daniels",
+      "url": "https://www.imdb.com/name/nm0001099/"
+    },
+    {
+      "name": "Eva Marie Saint",
+      "url": "https://www.imdb.com/name/nm0001693/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Wayne Wang",
+      "url": "https://www.imdb.com/name/nm0911061/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kate DiCamillo",
+      "url": "https://www.imdb.com/name/nm1164216/"
+    },
+    {
+      "name": "Joan Singleton",
+      "url": "https://www.imdb.com/name/nm0802306/"
+    }
+  ]
+}

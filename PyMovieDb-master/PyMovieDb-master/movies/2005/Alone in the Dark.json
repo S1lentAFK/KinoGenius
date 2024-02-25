@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Alone in the Dark",
+  "url": "https://www.imdb.com/tt0369226/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIxNDI5ODY2MF5BMl5BanBnXkFtZTcwNzQ1NzcyMQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "rthomp-1",
+    "dateCreated": "2005-01-28",
+    "inLanguage": "English",
+    "heading": "Spectacular Crap-fest",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 46894,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 2.4
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "datePublished": "2005-01-28",
+  "keywords": "based on video game,rocket launcher,bad acting,battle,creature",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Christian Slater",
+      "url": "https://www.imdb.com/name/nm0000225/"
+    },
+    {
+      "name": "Tara Reid",
+      "url": "https://www.imdb.com/name/nm0005346/"
+    },
+    {
+      "name": "Stephen Dorff",
+      "url": "https://www.imdb.com/name/nm0001151/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Uwe Boll",
+      "url": "https://www.imdb.com/name/nm0093051/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Elan Mastai",
+      "url": "https://www.imdb.com/name/nm0997459/"
+    },
+    {
+      "name": "Michael Roesch",
+      "url": "https://www.imdb.com/name/nm1178069/"
+    },
+    {
+      "name": "Peter Scheerer",
+      "url": "https://www.imdb.com/name/nm1396574/"
+    }
+  ]
+}

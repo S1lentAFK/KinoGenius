@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "My Man Is a Loser",
+  "url": "https://www.imdb.com/tt2166934/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzcyNjMzMjczOF5BMl5BanBnXkFtZTgwMDExMjk4MTE@._V1_.jpg",
+  "description": "Two married friends employ a single playboy to help them get their mojo back to save their marriages.",
+  "review": {
+    "author": "scottyhotty2002",
+    "dateCreated": "2020-07-23",
+    "inLanguage": "English",
+    "heading": "Poorly written, overly done bad jokes",
+    "reviewBody": "Only got 40 minutes in but had to turn it off. I think it the writing is terrible, the jokes don't hit the mark and are repetitive. I really like the male leads but I think the casting for the rest of the movie is awful.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 1433,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.4
+  },
+  "contentRating": "R",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2014-09-15",
+  "keywords": "playboy",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "John Stamos",
+      "url": "https://www.imdb.com/name/nm0001764/"
+    },
+    {
+      "name": "Tika Sumpter",
+      "url": "https://www.imdb.com/name/nm1754366/"
+    },
+    {
+      "name": "Michael Rapaport",
+      "url": "https://www.imdb.com/name/nm0001650/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mike Young",
+      "url": "https://www.imdb.com/name/nm2320169/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mike Young",
+      "url": "https://www.imdb.com/name/nm2320169/"
+    }
+  ]
+}

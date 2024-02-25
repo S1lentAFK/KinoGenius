@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Funny Games",
+  "url": "https://www.imdb.com/tt0808279/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg4OTExNTYzMV5BMl5BanBnXkFtZTcwOTg1MDU1MQ@@._V1_.jpg",
+  "description": "Two psychopathic young men take a family hostage in their cabin.",
+  "review": {
+    "author": "radiohed-1",
+    "dateCreated": "2007-10-22",
+    "inLanguage": "English",
+    "heading": "An intriguing exercise in copying one's self.",
+    "reviewBody": "I saw this at the London Film Festival and found it to be exactly what I expected: an English-language facsimile by Michael Haneke of his 1997 German film of the same title. Not that this is a bad thing. It is a testament to Haneke's artistic ability to replicate perfectly his previous film shot-by-shot with equal effect, tension, and intrigue even as one knows what to expect--although it might also say something about Haneke's ego that he doesn't feel that he needed to change or add new material for audiences who've already seen the original. The performances are overall well-executed, especially by Naomi Watts, an actress who has proved that she will still take risks despite the fact that she has made it both in the art-house scene and in mainstream Hollywood.\\n\\nHaneke wanted to replicate the original film for American audiences since he has considered the story closer culturally to American society. That is a noble effort, but I am not sure if it required him to remake an exact replica of one of his earlier works, nor am I sure that it will have quite the impact he wants since the American audiences he is targeting might avoid it all together (as it might be seen as too art-house or extreme) or be completely turned off by its content and artistic approach. Nonetheless, it is interesting to witness as an exercise in a film artist revisiting his earlier work, even if he didn't bother changing anything.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 103190,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "18",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2008-04-04",
+  "keywords": "home invasion,psychopath,hostage,hit with a golf club,torture",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Naomi Watts",
+      "url": "https://www.imdb.com/name/nm0915208/"
+    },
+    {
+      "name": "Tim Roth",
+      "url": "https://www.imdb.com/name/nm0000619/"
+    },
+    {
+      "name": "Michael Pitt",
+      "url": "https://www.imdb.com/name/nm0685856/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Haneke",
+      "url": "https://www.imdb.com/name/nm0359734/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Haneke",
+      "url": "https://www.imdb.com/name/nm0359734/"
+    }
+  ]
+}

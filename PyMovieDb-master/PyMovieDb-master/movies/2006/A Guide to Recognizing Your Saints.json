@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "A Guide to Recognizing Your Saints",
+  "url": "https://www.imdb.com/tt0473488/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU3OTQwNDAwMV5BMl5BanBnXkFtZTcwNjQ3OTYzMQ@@._V1_.jpg",
+  "description": "Coming-of-age drama about a boy growing up in Astoria, New York during the 1980s. As his friends end up dead, on drugs or in prison, he comes to believe he has been saved from their fates by various so-called saints.",
+  "review": {
+    "author": "jon-godfrey",
+    "dateCreated": "2006-10-29",
+    "inLanguage": "English",
+    "heading": "Strong dramatic portrayal of the difficult life in a threatening environment",
+    "reviewBody": "Good camera work and talented actors provide an excellent film script with realism and drama. Territorial issues within family, friends and neighborhoods keeps the audience on the edge. Having grown up in South Queens in the 1940's, in the low middle income, single home South Ozone and Ozone Park neighborhoods, I always felt it gave me a fulfilling, enjoyable place from which I could move on and move up economically.\n\nWhat a difference with Astoria in the 80's. There seemed to be no way out for most children and daily life was lived on the edge. The author's struggle with these conditions is a stimulating theme. I got more from the younger Dito's acting than I did from the mature Downey, although the latter rescues the finish. I recommend the movie to all who can accept the strong language as indicative of the neighborhood's limitations and the restrictions that keeps everyone from expressing themselves more intelligently. Chazz Palminteri was especially effective and it brought me back to some of the fathers of my teenage friends.\n\nIt also reminded me of how I could have an adventurous ride on the elevated and subway lines from Queens, through Brooklyn & Manhatten, on to the Bronx and back, all for a nickle and then a dime.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 26601,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2007-03-02",
+  "keywords": "coming of age,teenage boy,scot,gay man,autobiographical",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Robert Downey Jr.",
+      "url": "https://www.imdb.com/name/nm0000375/"
+    },
+    {
+      "name": "Rosario Dawson",
+      "url": "https://www.imdb.com/name/nm0206257/"
+    },
+    {
+      "name": "Shia LaBeouf",
+      "url": "https://www.imdb.com/name/nm0479471/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dito Montiel",
+      "url": "https://www.imdb.com/name/nm1996918/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dito Montiel",
+      "url": "https://www.imdb.com/name/nm1996918/"
+    }
+  ]
+}

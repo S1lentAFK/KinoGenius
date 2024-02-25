@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "American Violet",
+  "url": "https://www.imdb.com/tt1152397/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYwNjg4ODIwMV5BMl5BanBnXkFtZTcwODM3OTI4Mg@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "rcj5365",
+    "dateCreated": "2009-05-18",
+    "inLanguage": "English",
+    "heading": "Gripping tale that becomes of the year's best films of 2008",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 2765,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2009-04-17",
+  "keywords": "mother,town,texas,single mother,yelling",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Nicole Beharie",
+      "url": "https://www.imdb.com/name/nm2718512/"
+    },
+    {
+      "name": "Will Patton",
+      "url": "https://www.imdb.com/name/nm0001599/"
+    },
+    {
+      "name": "Alfre Woodard",
+      "url": "https://www.imdb.com/name/nm0005569/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tim Disney",
+      "url": "https://www.imdb.com/name/nm0228400/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bill Haney",
+      "url": "https://www.imdb.com/name/nm1683671/"
+    }
+  ]
+}

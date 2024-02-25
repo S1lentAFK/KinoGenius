@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Rumor Has It...",
+  "url": "https://www.imdb.com/tt0398375/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTg3Njk2NTIxNF5BMl5BanBnXkFtZTcwNTc4MTEzMw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "EUyeshima",
+    "dateCreated": "2007-04-11",
+    "inLanguage": "English",
+    "heading": "Resuscitating a Classic Movie with a Lacking, Lethargic Sequel Three Decades Later",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 61375,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2006-01-27",
+  "keywords": "biological father,author,search for father,female nudity,motor vehicle",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Jennifer Aniston",
+      "url": "https://www.imdb.com/name/nm0000098/"
+    },
+    {
+      "name": "Mark Ruffalo",
+      "url": "https://www.imdb.com/name/nm0749263/"
+    },
+    {
+      "name": "Shirley MacLaine",
+      "url": "https://www.imdb.com/name/nm0000511/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rob Reiner",
+      "url": "https://www.imdb.com/name/nm0001661/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ted Griffin",
+      "url": "https://www.imdb.com/name/nm0341372/"
+    }
+  ]
+}

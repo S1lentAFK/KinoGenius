@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Madea's Big Happy Family",
+  "url": "https://www.imdb.com/tt1787759/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjQ1NDQzNDAwMV5BMl5BanBnXkFtZTcwNDYxNzk0NA@@._V1_.jpg",
+  "description": null,
+  "contentRating": "PG-13",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2011-04-22",
+  "keywords": "2010s,mabel 'madea' simmons character",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Tyler Perry",
+      "url": "https://www.imdb.com/name/nm1347153/"
+    },
+    {
+      "name": "Loretta Devine",
+      "url": "https://www.imdb.com/name/nm0222643/"
+    },
+    {
+      "name": "Shad Moss",
+      "url": "https://www.imdb.com/name/nm0510168/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tyler Perry",
+      "url": "https://www.imdb.com/name/nm1347153/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tyler Perry",
+      "url": "https://www.imdb.com/name/nm1347153/"
+    }
+  ],
+  "review": {
+    "author": "mmthos",
+    "dateCreated": "2021-02-13",
+    "inLanguage": "English",
+    "heading": "HAPPY FAMILY?",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 8590,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  }
+}

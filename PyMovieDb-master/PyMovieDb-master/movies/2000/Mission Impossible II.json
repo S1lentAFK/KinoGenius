@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Mission: Impossible II",
+  "url": "https://www.imdb.com/tt0120755/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2RkYWVkZDQtNTMxMi00NWQ4LWE2ODctNmQzOWM2NjQzYzdlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Beard_Of_Serpico",
+    "dateCreated": "2020-04-13",
+    "inLanguage": "English",
+    "heading": "Not the best in the series but still a decent spy/action movie.",
+    "reviewBody": "I love the Mission Impossible series and MI2 is probably the weakest one but i don't think that makes it a bad movie. it's directed by John Woo who is a master of action cinema. Watch Hard Boiled, The Killer, Bullet in the head and Face Off to see his over the top, balls to the wall action movies. I just don't think his style really works in an American spy thriller as the slower more dialogue heavy moments are full of exposition and cartoonish moments. John Woo's movies are more theatrical in tone and it doesn't really work here, it comes off as a bit silly. There had to be some kind of studio meddling because you can tell the violence was toned down in editing as well. It's rated a 15 in the UK but i reckon it's more like a 12A. Even so i still enjoy this movie for what it is, there's strong performances by everyone, lots of cool high tech spy gadgets, decent action with some awesome stunts and you can see the start of Tom Cruise taking risks to make these movies as he performs a lot of the bike stunts and kung fu himself(As far as i can tell). There's also a pretty breathtaking rock climbing scene at the beginning of the movie.\\n\\nThe series really took off from Mission Impossible 3 onwards but this is still a fun action thriller, not brilliant but i have seen MUCH worse movies which other people claim to love and praise.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 375006,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "datePublished": "2000-07-07",
+  "keywords": "climbing,finger cut off,ethan hunt character,luther stickell character,weapon of mass destruction",
+  "duration": "PT2H3M",
+  "actor": [
+    {
+      "name": "Tom Cruise",
+      "url": "https://www.imdb.com/name/nm0000129/"
+    },
+    {
+      "name": "Dougray Scott",
+      "url": "https://www.imdb.com/name/nm0779084/"
+    },
+    {
+      "name": "Thandiwe Newton",
+      "url": "https://www.imdb.com/name/nm0628601/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Woo",
+      "url": "https://www.imdb.com/name/nm0000247/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bruce Geller",
+      "url": "https://www.imdb.com/name/nm0312367/"
+    },
+    {
+      "name": "Ronald D. Moore",
+      "url": "https://www.imdb.com/name/nm0601822/"
+    },
+    {
+      "name": "Brannon Braga",
+      "url": "https://www.imdb.com/name/nm0103804/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "A Dark Truth",
+  "url": "https://www.imdb.com/tt2083379/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYxOTQ0NTUzOV5BMl5BanBnXkFtZTcwMjc5MDA2OA@@._V1_.jpg",
+  "description": "A former CIA operative turned political talk show host is hired by a disaffected corporate shareholder to expose her company's cover-up of an incident and deaths in an Ecuadorian village.",
+  "review": {
+    "author": "LeonLouisRicci",
+    "dateCreated": "2013-01-03",
+    "inLanguage": "English",
+    "heading": "An Alarm Bell......Now That Your Awake",
+    "reviewBody": "On the surface, this contemporary assault on corporate maleficence is enough to make its point. But the subject matter is a complicated affair that is lacking in this movie that feels rushed.\\n\\nMessing about in third world countries and designing destinies built on precious resources and manipulating the environment is a heavy undertaking and the suffering of the population by these all too insensitive entities is a problem that is beginning to take shape and needs to be addressed.\\n\\nIt is attempted here as an action film with scruples and it does have its heart in the right place. But the very low budget and the glossy attempt to intertwine multi-national business interest and investigative journalism is a bit too much to maintain in this noble but shallow effort.\\n\\nThe name Actors are probably here for their moral support and do add a level of authenticity to the cause, but there just isn't enough depth pursued or motivations on either side to justify the broad concept that it is at hand here. \\n\\nIt plays like a short story or a magazine article. Enough to tantalize an interest in the matter but not enough to be at all convincing. It does open up the subject and allows some light if not insight into this very disturbing situation.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 6245,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2021-02-01",
+  "keywords": [
+    "south america",
+    "three word title",
+    "suspense",
+    "2010s",
+    "no opening credits"
+  ],
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Andy Garcia",
+      "url": "https://www.imdb.com/name/nm0000412/"
+    },
+    {
+      "name": "Kim Coates",
+      "url": "https://www.imdb.com/name/nm0167649/"
+    },
+    {
+      "name": "Deborah Kara Unger",
+      "url": "https://www.imdb.com/name/nm0000679/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Damian Lee",
+      "url": "https://www.imdb.com/name/nm0006860/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Damian Lee",
+      "url": "https://www.imdb.com/name/nm0006860/"
+    }
+  ]
+}

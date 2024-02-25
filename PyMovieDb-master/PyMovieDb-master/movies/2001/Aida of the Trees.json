@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Aida degli alberi",
+  "url": "https://www.imdb.com/tt0306444/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI5NTAzNDk1OV5BMl5BanBnXkFtZTYwNTUxOTc5._V1_.jpg",
+  "description": "Arborea, kingdom of great forests and great clearings flooded with light. A peaceful people has built wooden homes on the trees. Aida, the fearless daughter of the king of Arborea, roams through the trees riding her sweet Goa. But...",
+  "review": {
+    "author": "lauraperic",
+    "dateCreated": "2018-08-13",
+    "inLanguage": "English",
+    "heading": "beautiful",
+    "reviewBody": "One of the most beautiful cartoons ever! i'll always remember it <3",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 266,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "datePublished": "2002-06-21",
+  "keywords": "character name in title",
+  "duration": "PT1H15M",
+  "actor": [
+    {
+      "name": "Vittorio Bestoso",
+      "url": "https://www.imdb.com/name/nm1198945/"
+    },
+    {
+      "name": "Massimo Bitossi",
+      "url": "https://www.imdb.com/name/nm1198959/"
+    },
+    {
+      "name": "Simone D'Andrea",
+      "url": "https://www.imdb.com/name/nm1199127/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Guido Manuli",
+      "url": "https://www.imdb.com/name/nm0544306/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Guido Manuli",
+      "url": "https://www.imdb.com/name/nm0544306/"
+    },
+    {
+      "name": "Umberto Marino",
+      "url": "https://www.imdb.com/name/nm0547852/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Charlotte Gray",
+  "url": "https://www.imdb.com/tt0245046/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDQ1MTgzNTk4NV5BMl5BanBnXkFtZTYwODA5MzM3._V1_.jpg",
+  "description": "A young Scottish woman joins the French Resistance during World War II to rescue her Royal Air Force boyfriend who is lost in France.",
+  "review": {
+    "author": "rps-2",
+    "dateCreated": "2003-01-11",
+    "inLanguage": "English",
+    "heading": "A lovely film",
+    "reviewBody": "If nothing else, the superb cinematography makes Charlotte Grey a winner. The picture is filmed through a creative and sensitive eye with wonderful angles, evocative moods and sensitive textures and shades. The rain and snow outside the train window in the opening scenes is somehow just so right. But photography aside, this is a gripping and well acted work that will satisfy fans of both war movies and love stories. Michael Gambon gives an Oscar worthy performance. It's also so nice to see a film that does not have one of those dreadful syrupy and impractical happy endings. Not that it's a totally sad ending. Call it a bitter sweet ending. In any case this film is an absolute delight from the titles to the closing scene.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 13124,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "datePublished": "2002-02-22",
+  "keywords": "1940s,character name as title,train station,france,woman",
+  "duration": "PT2H1M",
+  "actor": [
+    {
+      "name": "Cate Blanchett",
+      "url": "https://www.imdb.com/name/nm0000949/"
+    },
+    {
+      "name": "James Fleet",
+      "url": "https://www.imdb.com/name/nm0281424/"
+    },
+    {
+      "name": "Abigail Cruttenden",
+      "url": "https://www.imdb.com/name/nm0190206/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gillian Armstrong",
+      "url": "https://www.imdb.com/name/nm0000788/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sebastian Faulks",
+      "url": "https://www.imdb.com/name/nm0269127/"
+    },
+    {
+      "name": "Jeremy Brock",
+      "url": "https://www.imdb.com/name/nm0110591/"
+    }
+  ]
+}

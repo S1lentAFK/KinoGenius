@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Katy Perry: Part of Me",
+  "url": "https://www.imdb.com/tt2215719/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI3MTMzNTU0OF5BMl5BanBnXkFtZTcwOTU4Njc4Nw@@._V1_.jpg",
+  "description": "A look at the life, career and music of singer Katy Perry as we follow her on the California Dreams World Tour.",
+  "contentRating": "PG",
+  "genre": [
+    "Documentary",
+    "Music"
+  ],
+  "datePublished": "2012-07-05",
+  "keywords": "11 year old boy,12 year old girl,15 year old girl,17 year old boy,17 year old girl",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Katy Perry",
+      "url": "https://www.imdb.com/name/nm2953537/"
+    },
+    {
+      "name": "Adam Marcello",
+      "url": "https://www.imdb.com/name/nm3404886/"
+    },
+    {
+      "name": "Casey Hooper",
+      "url": "https://www.imdb.com/name/nm4130202/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dan Cutforth",
+      "url": "https://www.imdb.com/name/nm0193838/"
+    },
+    {
+      "name": "Jane Lipsitz",
+      "url": "https://www.imdb.com/name/nm0513769/"
+    }
+  ],
+  "creator": [],
+  "review": {
+    "author": "absolutely-fabulous47",
+    "dateCreated": "2012-07-02",
+    "inLanguage": "English",
+    "heading": "Viewer satisfaction",
+    "reviewBody": "I went to this film last night with my friend who is a massive Katy Perry fan. As expected, we were practically the oldest patrons in the cinema, so the younger demographic surrounding us were of much entertainment as was the film. \\n\\nMy friend and I both went to her concert last year so it was a good insight into the 'behind the scenes' of the many hours of hard labor that went into this fantastic two hour show. I was sort of hoping for a bit more info into her personal life but I suppose there is only so much content that can be shown in a 90 minute segment.\\n\\nOverall I enjoyed Perry's documentary and her sheer dedication she commits to her ever prospering career. She, as a person, is absolutely stunning and always a pleasure to watch!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 13857,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  }
+}

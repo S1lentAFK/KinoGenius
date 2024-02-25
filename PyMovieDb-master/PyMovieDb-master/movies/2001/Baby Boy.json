@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Baby Boy",
+  "url": "https://www.imdb.com/tt0255819/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTc4MTJmMzYtYTg4Yy00YTE3LWI5MGQtYTcxYWU2MmIxY2U3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "LukeG",
+    "dateCreated": "2002-02-19",
+    "inLanguage": "English",
+    "heading": "Difficult to watch; doesn&apos;t make it a bad movie",
+    "reviewBody": "While watching this movie, I had absolutely no idea what I would end up rating it. It was not an enjoyable experience. Not until it was over did I realize what a good job John Singleton had actually done. This was not a comedy, nor a romantic story, but a true depiction of SOME (NOT ALL) aspects of Black life. I recognized each and everyone of these characters, for better or worse. They were not exaggerated or sugar-coated, but portrayed in a true light which is often difficult to watch or accept. Which explained my uncomfortableness, I&apos;m sure that was the point and it was well received. 7 out of 10***",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 16362,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2001-11-23",
+  "keywords": "drive by shooting,sex scene,hood,family relationships,ex convict",
+  "duration": "PT2H10M",
+  "actor": [
+    {
+      "name": "Alexsandra Wright",
+      "url": "https://www.imdb.com/name/nm0942189/"
+    },
+    {
+      "name": "Tyrese Gibson",
+      "url": "https://www.imdb.com/name/nm0879085/"
+    },
+    {
+      "name": "Taraji P. Henson",
+      "url": "https://www.imdb.com/name/nm0378245/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Singleton",
+      "url": "https://www.imdb.com/name/nm0005436/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Singleton",
+      "url": "https://www.imdb.com/name/nm0005436/"
+    }
+  ]
+}

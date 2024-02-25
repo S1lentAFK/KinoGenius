@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "Jeepers Creepers 3",
+  "url": "https://www.imdb.com/tt1139592/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY2NzQwNjY4M15BMl5BanBnXkFtZTgwOTM2MzkzMzI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "ofumalow",
+    "dateCreated": "2018-04-23",
+    "inLanguage": "English",
+    "heading": "Jeepers, this one isn&apos;t very creepy",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 24117,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.9
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Horror"
+  ],
+  "datePublished": "2017-11-02",
+  "keywords": "third part,number in title,slasher,impalement,spear",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Stan Shaw",
+      "url": "https://www.imdb.com/name/nm0789976/"
+    },
+    {
+      "name": "Gabrielle Haugh",
+      "url": "https://www.imdb.com/name/nm6648061/"
+    },
+    {
+      "name": "Brandon Smith",
+      "url": "https://www.imdb.com/name/nm0807503/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Victor Salva",
+      "url": "https://www.imdb.com/name/nm0759207/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Victor Salva",
+      "url": "https://www.imdb.com/name/nm0759207/"
+    }
+  ]
+}

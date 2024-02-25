@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hercules",
+  "url": "https://www.imdb.com/tt0119282/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDcwYjEyNWItMGI1Mi00MjI1LWIyMDEtMTQ4YjhkNjM4NDU3XkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "TheLittleSongbird",
+    "dateCreated": "2009-02-26",
+    "inLanguage": "English",
+    "heading": "Enjoyable, but not Disney's best!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 252509,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "1997-10-10",
+  "keywords": "hercules,olympus,satyr,greek god,ancient greece",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Tate Donovan",
+      "url": "https://www.imdb.com/name/nm0004883/"
+    },
+    {
+      "name": "Susan Egan",
+      "url": "https://www.imdb.com/name/nm0250743/"
+    },
+    {
+      "name": "James Woods",
+      "url": "https://www.imdb.com/name/nm0000249/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ron Clements",
+      "url": "https://www.imdb.com/name/nm0166256/"
+    },
+    {
+      "name": "John Musker",
+      "url": "https://www.imdb.com/name/nm0615780/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ron Clements",
+      "url": "https://www.imdb.com/name/nm0166256/"
+    },
+    {
+      "name": "John Musker",
+      "url": "https://www.imdb.com/name/nm0615780/"
+    },
+    {
+      "name": "Don McEnery",
+      "url": "https://www.imdb.com/name/nm0568490/"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Brideshead Revisited",
+  "url": "https://www.imdb.com/tt0412536/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MTU5MjAyN15BMl5BanBnXkFtZTcwOTcxMzE3MQ@@._V1_.jpg",
+  "description": "A poignant story of forbidden love and the loss of innocence set in England prior to World War II.",
+  "review": {
+    "author": "morrowmmm",
+    "dateCreated": "2008-07-27",
+    "inLanguage": "English",
+    "heading": "It's not Brideshead Revisited",
+    "reviewBody": "The greatness of the original Brideshead Revisited was in the luxury of being able to transpose a very complicated emotional and intellectual book into words. It succeeded in this, but only just, due to superb direction, photography and script which, even in its sparseness, only just allowed the successful transition to film. The problem with anything shorter is that, if it took Mortimer so many episodes to get it right, then there are very few writers who could even get near in under 4 hours, if that. So lets stop beating about the bush. This is a sound reproduction of the calender plot but after that it is not Brideshead Revisited. Call it by another name and I will laud it. It brings in a strong homosexual element and a early sexual attraction between Charles Ryder and Miss Flyte. With that everything becomes unbalanced. Motivations change. The beauty of the original is that it hinted at ????something (a je ne sais quoi) and it was that and the ever strengthening Catholic awareness of family that made this film so fascinating. The original's masterpiece was the script supported by the cine photography. That has been lost. But taken as is, a pretty and interesting film which seems to be loosely based on an early fifties work by Waugh.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 13607,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2008-10-03",
+  "keywords": "oxford university,catholic,gay character,period drama,love triangle",
+  "duration": "PT2H14M",
+  "actor": [
+    {
+      "name": "Matthew Goode",
+      "url": "https://www.imdb.com/name/nm0328828/"
+    },
+    {
+      "name": "Patrick Malahide",
+      "url": "https://www.imdb.com/name/nm0538869/"
+    },
+    {
+      "name": "Hayley Atwell",
+      "url": "https://www.imdb.com/name/nm2017943/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Julian Jarrold",
+      "url": "https://www.imdb.com/name/nm0418982/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Davies",
+      "url": "https://www.imdb.com/name/nm0203577/"
+    },
+    {
+      "name": "Jeremy Brock",
+      "url": "https://www.imdb.com/name/nm0110591/"
+    },
+    {
+      "name": "Evelyn Waugh",
+      "url": "https://www.imdb.com/name/nm0915284/"
+    }
+  ]
+}

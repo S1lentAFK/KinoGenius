@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Bride of the Wind",
+  "url": "https://www.imdb.com/tt0212827/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmQ5ODI3MmUtYzEyNy00NTQ0LWIyOTctMjhmODBlMDBmZWY5XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+  "description": "This movie is a biopic of Alma Mahler, the wife of composer Gustav Mahler (as well as Walter Gropius and Franz Werfel), and the mistress of Oskar Kokoschka.",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "contentRating": "R",
+  "datePublished": "2002-01-04",
+  "keywords": "female full frontal nudity, wife, mistress, spa, death",
+  "duration": "PT1H39M",
+  "rating": {
+    "ratingCount": 705,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "review": {
+    "author": "nbott",
+    "dateCreated": "2002-03-11",
+    "inLanguage": "English",
+    "heading": "The Boring Bride",
+    "reviewBody": "This film begins with very great promise. The opening credits are very involving. Unfortunately, the script is banal and not very engaging at all. So after the opening credits, it is all downhill. I just do not believe that the romantic liaisons of Alma Mahler were this shallow and trite. We are led to believe that Alma Mahler is nothing but an opportunistic loose woman. We are given no background to understand her actions. With the exception of her relationship with Gustav Mahler, we are not given any information so that we can understand why so many talented men were drawn to her. Perhaps a more formidable actress would have convinced us otherwise. Her relationships with most of these important historical figures are never really fleshed out so that we can become involved and feel something for these characters.\\n\\nThe acting by Jonathan Pryce as Mahler is good. Vincent Perez is alluring as Kokoschka. However, the weakest acting is that of Simon Verhoeven as Walter Gropius. Ms. Wynter is obviously an excellent actress but she is destroyed by this awful script and she is not that sexually alluring. The music is, of course, wonderful. It is Mahler for the most part.\\n\\nI was drawn to this film because I wanted to be moved by a chapter in the life of Mahler and to perhaps experience some of the excitement of this period of creative activity in Vienna and Central Europe. The settings are enjoyable but the film is a great disappointment for anyone seeking to know more about the life of Alma Mahler.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "actor": [
+    {
+      "name": "Sarah Wynter",
+      "url": "https://www.imdb.com/name/nm0944077/"
+    },
+    {
+      "name": "Vincent Perez",
+      "url": "https://www.imdb.com/name/nm0001641/"
+    },
+    {
+      "name": "Jonathan Pryce",
+      "url": "https://www.imdb.com/name/nm0000596/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bruce Beresford",
+      "url": "https://www.imdb.com/name/nm0000915/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Marilyn Levy",
+      "url": "https://www.imdb.com/name/nm0506529/"
+    }
+  ]
+}

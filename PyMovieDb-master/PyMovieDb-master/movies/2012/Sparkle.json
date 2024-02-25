@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Sparkle",
+  "url": "https://www.imdb.com/tt0075249/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjQ3M2QwODYtMTM3Ny00YzdiLWI1MmUtNmUyN2NkZTY4YzgzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTg3MTc4ODY@._V1_.jpg",
+  "description": "Three sisters form a singing group in 1950s Harlem, but success threatens to ruin their relationship forever.",
+  "review": {
+    "author": "netnuevo",
+    "dateCreated": "2006-07-12",
+    "inLanguage": "English",
+    "heading": "Unforgettable",
+    "reviewBody": "I watched this movie every chance I got, back in the Seventies when it came out on cable. It was my introduction to Harlem, which has fascinated me (and Bill Clinton) ever since. I was still very young, and the movie made a big impression on me. It was great to see a movie about other young girls growing up, trying to decide whom they wanted to be, and making some bad choices as well as good ones. I was dazzled by Lonette McKee's beauty, the great dresses they eventually got to wear, and the snappy dialogue. As someone being raised by a single mother as well, I could really identify with these girls and their lives. It's funny, these characters seem almost more real to me than Beyonce Knowles!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 1862,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "1976-04-07",
+  "keywords": "drugs,girl group,female protagonist,singing,show business",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Philip Michael Thomas",
+      "url": "https://www.imdb.com/name/nm0859365/"
+    },
+    {
+      "name": "Irene Cara",
+      "url": "https://www.imdb.com/name/nm0001011/"
+    },
+    {
+      "name": "Lonette McKee",
+      "url": "https://www.imdb.com/name/nm0571188/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sam O'Steen",
+      "url": "https://www.imdb.com/name/nm0642714/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joel Schumacher",
+      "url": "https://www.imdb.com/name/nm0001708/"
+    },
+    {
+      "name": "Howard Rosenman",
+      "url": "https://www.imdb.com/name/nm0742651/"
+    }
+  ]
+}

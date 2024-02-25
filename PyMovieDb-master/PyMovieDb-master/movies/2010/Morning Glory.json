@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Morning Glory",
+  "url": "https://www.imdb.com/tt1126618/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTc2ODYzYTktMWIzYy00NDA2LTgwYTItMmVmZWUwYzM3NzNiXkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "mdtscoates",
+    "dateCreated": "2010-11-08",
+    "inLanguage": "English",
+    "heading": "Thank you bright morning for your splendor!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 82211,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2011-01-21",
+  "keywords": "workaholic,professional woman,tv morning show,tv journalist,fictional tv network",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Rachel McAdams",
+      "url": "https://www.imdb.com/name/nm1046097/"
+    },
+    {
+      "name": "Harrison Ford",
+      "url": "https://www.imdb.com/name/nm0000148/"
+    },
+    {
+      "name": "Diane Keaton",
+      "url": "https://www.imdb.com/name/nm0000473/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Roger Michell",
+      "url": "https://www.imdb.com/name/nm0585011/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Aline Brosh McKenna",
+      "url": "https://www.imdb.com/name/nm0112459/"
+    }
+  ]
+}

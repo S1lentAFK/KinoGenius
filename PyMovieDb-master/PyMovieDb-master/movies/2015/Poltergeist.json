@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Poltergeist",
+  "url": "https://www.imdb.com/tt0084516/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODJiZTU1ZTMtZTEzMy00NzFmLWJjNzctZTc2MDcwZjE1MDBjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "AlsExGal",
+    "dateCreated": "2021-06-20",
+    "inLanguage": "English",
+    "heading": "This scared me to death at age 24",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 178257,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "1982-09-16",
+  "keywords": "poltergeist,ghost,haunting,paranormal investigation,haunted house",
+  "duration": "PT1H54M",
+  "actor": [
+    {
+      "name": "JoBeth Williams",
+      "url": "https://www.imdb.com/name/nm0001851/"
+    },
+    {
+      "name": "Heather O'Rourke",
+      "url": "https://www.imdb.com/name/nm0001576/"
+    },
+    {
+      "name": "Craig T. Nelson",
+      "url": "https://www.imdb.com/name/nm0005266/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tobe Hooper",
+      "url": "https://www.imdb.com/name/nm0001361/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steven Spielberg",
+      "url": "https://www.imdb.com/name/nm0000229/"
+    },
+    {
+      "name": "Michael Grais",
+      "url": "https://www.imdb.com/name/nm0334457/"
+    },
+    {
+      "name": "Mark Victor",
+      "url": "https://www.imdb.com/name/nm0896131/"
+    }
+  ]
+}

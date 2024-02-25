@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Damsels in Distress",
+  "url": "https://www.imdb.com/tt1667307/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3OTEwMzExOF5BMl5BanBnXkFtZTcwNjMwNTgzNw@@._V1_.jpg",
+  "description": "A trio of girls set out to change the male-dominated environment of the Seven Oaks college campus, and to rescue their fellow students from depression, grunge and low standards of every kind.",
+  "review": {
+    "author": "fluffchop",
+    "dateCreated": "2022-03-18",
+    "inLanguage": "English",
+    "heading": "Lovely pleasant film",
+    "reviewBody": "No killings, autopsies, swearing, nudity, guns or drugs. So what's left? It's a film filled with conversations between people. It's just all very pleasant with nice dialogue. I didn't like Rose or Jimbo because I hate those people. I thought Aubrey Plaza should have had a larger role.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 9957,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2012-04-27",
+  "keywords": "college,college campus,fraternity,depression,dance craze",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Greta Gerwig",
+      "url": "https://www.imdb.com/name/nm1950086/"
+    },
+    {
+      "name": "Adam Brody",
+      "url": "https://www.imdb.com/name/nm0111013/"
+    },
+    {
+      "name": "Lio Tipton",
+      "url": "https://www.imdb.com/name/nm3006818/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Whit Stillman",
+      "url": "https://www.imdb.com/name/nm0001775/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Whit Stillman",
+      "url": "https://www.imdb.com/name/nm0001775/"
+    }
+  ]
+}

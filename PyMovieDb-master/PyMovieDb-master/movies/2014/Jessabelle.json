@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Jessabelle",
+  "url": "https://www.imdb.com/tt2300975/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NTM1MjYzOV5BMl5BanBnXkFtZTgwNjQwMjA1MjE@._V1_.jpg",
+  "description": "Returning to her childhood home in Louisiana to recuperate from a horrific car accident, Jessabelle comes face to face with a long-tormented spirit that has been seeking her return -- and has no intention of letting her escape.",
+  "review": {
+    "author": "nitzanhavoc",
+    "dateCreated": "2015-02-26",
+    "inLanguage": "English",
+    "heading": "Excellent main actress, average film. Still fun and worth watching!",
+    "reviewBody": "After watching the trailer for this film, I must say I had really high hopes. As a devout Horror fan with a declared preference towards ghost stories and hauntings, I had looked forward to seeing another usual film of the genre, mediocre yet frightening and fun to watch.\\n\\nWhile Jessabelle is light-years away from competing with the sub- genres best like The Grudge or Dead Silence, it completes the task it unofficially took upon itself, as it obviously had no intentions of being profound or in any way great. Sarah Snook, while definitely not painful to look at to say the least, is far more than your usual Horror Eye-Candy made famous in classic Slashers. Trust me, this professional knows a hell of a lot more than screaming convincingly and looking fine in a bathing suite. This was my first encounter with her, and I must say she just might be the best thing about Jessabelle. Apparently she&apos;s been making quite a name for herself since 2012, and I can definitely see why. Even though her character is stuck in a wheel-chair, the empathy towards its desperation and helplessness is greatly created by Snook&apos;s acting skills.\\n\\nAs for the story, it suffers from one of the known banes of Horror - a mediocre plot twist leading to an anticlimactic ending, after a finely made build-up. At least there is a plot twist, true, as Horror films are highly upgraded by these in my opinion, but the one in Jessabelle simply feels unfulfilled. I find it difficult putting my finger on what should have been better about it, I just know it didn&apos;t create the sensation we expect from such twists. I believe that was the main reason for the ending being slightly wanting.\\n\\nAll in all, I found Jessabelle to be quite average, meaning anyone who doesn&apos;t expect to have their mind blown and being swept off their feet by a masterpiece could enjoy it quite a bit, as I did. Snook&apos;s acting and the sufficiently smart plot make it even slightly above average. As always, I would recommend that you ignore my humble opinion, watch it and judge for yourselves. If you ask me - as far as this one is concerned, it&apos;s definitely worth it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 25684,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2014-11-07",
+  "keywords": "southern gothic,woman in a wheelchair,wheelchair,baby coffin,voodoo cult",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Sarah Snook",
+      "url": "https://www.imdb.com/name/nm3512758/"
+    },
+    {
+      "name": "Mark Webber",
+      "url": "https://www.imdb.com/name/nm0916406/"
+    },
+    {
+      "name": "Joelle Carter",
+      "url": "https://www.imdb.com/name/nm0141710/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kevin Greutert",
+      "url": "https://www.imdb.com/name/nm0340436/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Ben Garant",
+      "url": "https://www.imdb.com/name/nm0304830/"
+    }
+  ]
+}

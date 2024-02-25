@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Battle: Los Angeles",
+  "url": "https://www.imdb.com/tt1217613/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDg2NzQwOGMtMGRkNC00YjAwLTg4NjgtZWQwYzljZmM1YzA4XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "rparham",
+    "dateCreated": "2011-03-12",
+    "inLanguage": "English",
+    "heading": "A familiar tale with a bit of a stylistic twist",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 184684,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2011-03-11",
+  "keywords": "alien invasion,extraterrestrial,gunfire,alien attack,female veterinarian",
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Aaron Eckhart",
+      "url": "https://www.imdb.com/name/nm0001173/"
+    },
+    {
+      "name": "Michelle Rodriguez",
+      "url": "https://www.imdb.com/name/nm0735442/"
+    },
+    {
+      "name": "Bridget Moynahan",
+      "url": "https://www.imdb.com/name/nm0005256/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jonathan Liebesman",
+      "url": "https://www.imdb.com/name/nm0509448/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Christopher Bertolini",
+      "url": "https://www.imdb.com/name/nm0078203/"
+    }
+  ]
+}

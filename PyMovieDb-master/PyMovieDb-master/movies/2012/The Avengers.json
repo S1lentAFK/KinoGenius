@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Avengers",
+  "url": "https://www.imdb.com/tt0118661/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWE1NTdjOWQtYTQ2Ny00Nzc5LWExYzMtNmRlOThmOTE2N2I4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "B1ade Runner",
+    "dateCreated": "2001-02-07",
+    "inLanguage": "English",
+    "heading": "Mrs. Peel - You&apos;re needed - AGAIN!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 45295,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.8
+  },
+  "contentRating": "12",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "1998-08-14",
+  "keywords": "snow adventure,good versus evil,heroine,evil man,villain",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Ralph Fiennes",
+      "url": "https://www.imdb.com/name/nm0000146/"
+    },
+    {
+      "name": "Uma Thurman",
+      "url": "https://www.imdb.com/name/nm0000235/"
+    },
+    {
+      "name": "Sean Connery",
+      "url": "https://www.imdb.com/name/nm0000125/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeremiah S. Chechik",
+      "url": "https://www.imdb.com/name/nm0154819/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sydney Newman",
+      "url": "https://www.imdb.com/name/nm0628285/"
+    },
+    {
+      "name": "Don MacPherson",
+      "url": "https://www.imdb.com/name/nm0534207/"
+    }
+  ]
+}

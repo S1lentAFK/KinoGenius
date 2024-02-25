@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "That Evening Sun",
+  "url": "https://www.imdb.com/tt1114680/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIzNDM3OTIyMV5BMl5BanBnXkFtZTcwNzc4NzA5Mg@@._V1_.jpg",
+  "description": "An aging Tennessee farmer returns to his homestead and must confront a family betrayal, the reappearance of an old enemy, and the loss of his farm.",
+  "contentRating": "12",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2010-02-22",
+  "keywords": "astronomical object in title,farmer,recording,family relationships,betrayal",
+  "duration": "PT1H49M",
+  "actor": [
+    {
+      "name": "Hal Holbrook",
+      "url": "https://www.imdb.com/name/nm0001358/"
+    },
+    {
+      "name": "Barlow Jacobs",
+      "url": "https://www.imdb.com/name/nm2049889/"
+    },
+    {
+      "name": "Mia Wasikowska",
+      "url": "https://www.imdb.com/name/nm1985859/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Scott Teems",
+      "url": "https://www.imdb.com/name/nm1802374/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Scott Teems",
+      "url": "https://www.imdb.com/name/nm1802374/"
+    },
+    {
+      "name": "William Gay",
+      "url": "https://www.imdb.com/name/nm2793287/"
+    }
+  ],
+  "review": {
+    "author": "toxiemite",
+    "dateCreated": "2010-10-19",
+    "inLanguage": "English",
+    "heading": "Much beneath the surface",
+    "reviewBody": "This movie came from nowhere for me here in Australa. Its a little middle-American indie film that I had never heard of until I saw it advertised on my upcoming orders list. I just finished watching it and it is a fantastic character study. It stars Hal Holbrook in one of the finest performances in his long and successful career. He plays an old man who walks out of his nursing-home and returns to the farm he owned for over 50 years only to find it occupied by new tenants. Being stubborn he squats in the old worker&apos;s quarters and wages a personal war against the new family. From there the film becomes a real examination of this old man&apos;s mind. He is at the narrow end of life and has nothing to show for it. Everything he knew was taken away and he is doomed to live the rest of his life with regret about many things in his life. Unbeknownst to him, much of his traits are reflected in his newly appointed enemy. Its a slow drama with moments of tension. The performances are exceptional and the relationship he has with his old neighbour is wonderful (some of the best scenes). Well worth a look.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 2878,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  }
+}

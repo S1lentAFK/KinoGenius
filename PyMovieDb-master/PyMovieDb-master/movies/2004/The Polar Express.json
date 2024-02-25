@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Polar Express",
+  "url": "https://www.imdb.com/tt0338348/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM1NTU0NTE4MV5BMl5BanBnXkFtZTcwMTQ0MjEzMw@@._V1_.jpg",
+  "description": "On Christmas Eve, a young boy embarks on a magical adventure to the North Pole on the Polar Express, while learning about friendship, bravery, and the spirit of Christmas.",
+  "review": {
+    "author": "sak007",
+    "dateCreated": "2005-01-03",
+    "inLanguage": "English",
+    "heading": "Should become a holiday classic",
+    "reviewBody": "A simple story . . . beautifully told . . . magnificently visualized.\n\nThe IMAX experience was stunning.\n\nI did not expect to enjoy the story as much as I did. Simple but quite heartwarming.\n\nAlthough it started a bit slow, it continued to gain momentum (no train analogy intended) through its conclusion. I was not a great lover of the animation of the human characters, but the other animation, whether it be the train, the scenery, the reindeer, or the elves (are elves human?) was quite well done. \n\nPerhaps the best review I can provide is that after I watched the Polar Express, I just felt happier.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 239690,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2004-12-10",
+  "keywords": "christmas movie,famous locomotive,train wreck,santa claus character,cult film",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Tom Hanks",
+      "url": "https://www.imdb.com/name/nm0000158/"
+    },
+    {
+      "name": "Chris Coppola",
+      "url": "https://www.imdb.com/name/nm0178875/"
+    },
+    {
+      "name": "Michael Jeter",
+      "url": "https://www.imdb.com/name/nm0005052/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Zemeckis",
+      "url": "https://www.imdb.com/name/nm0000709/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Chris Van Allsburg",
+      "url": "https://www.imdb.com/name/nm0885575/"
+    },
+    {
+      "name": "Robert Zemeckis",
+      "url": "https://www.imdb.com/name/nm0000709/"
+    },
+    {
+      "name": "William Broyles Jr.",
+      "url": "https://www.imdb.com/name/nm0115310/"
+    }
+  ]
+}

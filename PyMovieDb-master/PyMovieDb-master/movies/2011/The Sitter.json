@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Sitter",
+  "url": "https://www.imdb.com/tt1366344/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDU1ZWJmMmUtM2Q5Ny00MjdhLWE0OTMtMWJkMjg1OTc2YTgxXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+  "description": "A college student on suspension is coaxed into babysitting the kids next door, though he is fully unprepared for the wild night ahead of him.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2012-01-20",
+  "keywords": "brother sister relationship,gay teenager,babysitting,car crash,wanted poster",
+  "duration": "PT1H21M",
+  "actor": [
+    {
+      "name": "Jonah Hill",
+      "url": "https://www.imdb.com/name/nm1706767/"
+    },
+    {
+      "name": "Ari Graynor",
+      "url": "https://www.imdb.com/name/nm0310966/"
+    },
+    {
+      "name": "Sam Rockwell",
+      "url": "https://www.imdb.com/name/nm0005377/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Gordon Green",
+      "url": "https://www.imdb.com/name/nm0337773/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brian Gatewood",
+      "url": "https://www.imdb.com/name/nm2651299/"
+    },
+    {
+      "name": "Alessandro Tanaka",
+      "url": "https://www.imdb.com/name/nm0848966/"
+    }
+  ],
+  "review": {
+    "author": "kosmasp",
+    "dateCreated": "2012-06-09",
+    "inLanguage": "English",
+    "heading": "Bad Sitter",
+    "reviewBody": "While I&apos;m not a fan of titles being changed in Germany, this one should have been the original title. I&apos;m sure Bad Santa wouldn&apos;t have a problem with that. But Jonah Hill goes from this to his awesome performance in Moneyball? You wouldn&apos;t expect that, but the man has talent. This movie is really funny too. And while I am not a fan of watching trailers of movies beforehand, this time it didn&apos;t take away too much from the movie (not to mention that there is scene in the trailer, that didn&apos;t make the theatrical cut).\\n\\nJonah is surrounded by kids and they all have their moments. And while it is anything but PC, it also has its really emotional moments. Most of them may be predictable, but the way it is executed and played really works for the movie and the audience.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 72461,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  }
+}

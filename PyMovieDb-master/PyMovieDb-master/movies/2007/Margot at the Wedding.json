@@ -1,0 +1,67 @@
+
+
+{
+  "type": "Movie",
+  "name": "Margot at the Wedding",
+  "url": "https://www.imdb.com/tt0757361/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI4MTU2OTk3OF5BMl5BanBnXkFtZTYwMjE2MjY2._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "seawalker",
+    "dateCreated": "2008-03-07",
+    "inLanguage": "English",
+    "heading": "Peek into the life of a family with problems",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 22469,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2008-02-29",
+  "keywords": [
+    "upskirt",
+    "nipples visible through clothing",
+    "female frontal nudity",
+    "nudity",
+    "nude girl"
+  ],
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Nicole Kidman",
+      "url": "https://www.imdb.com/name/nm0000173/"
+    },
+    {
+      "name": "Jennifer Jason Leigh",
+      "url": "https://www.imdb.com/name/nm0000492/"
+    },
+    {
+      "name": "Flora Cross",
+      "url": "https://www.imdb.com/name/nm1552919/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Noah Baumbach",
+      "url": "https://www.imdb.com/name/nm0000876/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Noah Baumbach",
+      "url": "https://www.imdb.com/name/nm0000876/"
+    }
+  ]
+}

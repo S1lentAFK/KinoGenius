@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Letters to Juliet",
+  "url": "https://www.imdb.com/tt0892318/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjg0OTU0NDYwNF5BMl5BanBnXkFtZTcwNzUwNTMyMw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Dragoneyed363",
+    "dateCreated": "2010-05-22",
+    "inLanguage": "English",
+    "heading": "It&apos;s surprisingly a really cute and charming, lovable movie",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 106630,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2010-06-09",
+  "keywords": "female protagonist,writer,starring real life couple,vineyard,feel good romance",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Amanda Seyfried",
+      "url": "https://www.imdb.com/name/nm1086543/"
+    },
+    {
+      "name": "Gael García Bernal",
+      "url": "https://www.imdb.com/name/nm0305558/"
+    },
+    {
+      "name": "Vanessa Redgrave",
+      "url": "https://www.imdb.com/name/nm0000603/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gary Winick",
+      "url": "https://www.imdb.com/name/nm0935095/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jose Rivera",
+      "url": "https://www.imdb.com/name/nm1433580/"
+    },
+    {
+      "name": "Tim Sullivan",
+      "url": "https://www.imdb.com/name/nm0003201/"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Flickan som lekte med elden",
+  "url": "https://www.imdb.com/tt1216487/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI0MjIxMDIwNF5BMl5BanBnXkFtZTcwODk5MDc1Mw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "MusicaEternal",
+    "dateCreated": "2010-04-11",
+    "inLanguage": "English",
+    "heading": "A fine sequel",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 98129,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2010-08-27",
+  "keywords": "sweden,journalist,strong female lead,cunnilingus,riding a bicycle",
+  "duration": "PT2H9M",
+  "actor": [
+    {
+      "name": "Noomi Rapace",
+      "url": "https://www.imdb.com/name/nm0636426/"
+    },
+    {
+      "name": "Michael Nyqvist",
+      "url": "https://www.imdb.com/name/nm0638824/"
+    },
+    {
+      "name": "Lena Endre",
+      "url": "https://www.imdb.com/name/nm0256890/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Daniel Alfredson",
+      "url": "https://www.imdb.com/name/nm0019242/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jonas Frykberg",
+      "url": "https://www.imdb.com/name/nm0296926/"
+    },
+    {
+      "name": "Stieg Larsson",
+      "url": "https://www.imdb.com/name/nm2297183/"
+    }
+  ]
+}

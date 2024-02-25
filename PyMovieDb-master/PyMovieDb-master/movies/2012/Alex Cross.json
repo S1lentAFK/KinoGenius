@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "Alex Cross",
+  "url": "https://www.imdb.com/tt1712170/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDE0NjUyMV5BMl5BanBnXkFtZTcwNjQzNjg5Nw@@._V1_.jpg",
+  "description": "A homicide detective is pushed to the brink of his moral and physical limits as he tangles with a ferociously skilled hired killer who specializes in torture and pain.",
+  "review": {
+    "author": "james1844",
+    "dateCreated": "2012-10-19",
+    "inLanguage": "English",
+    "heading": "A Cross to Be Placed on A Grave",
+    "reviewBody": "When you make an action crime film please remember to connect all the dots so that we, the audience, can achieve some sense of the story line. The trailer was a slice of many of the best scenes but, unfortunately the real film falls so sadly short of good storyline due to poor dialog and some jerky acting that the viewer struggles to make sense of the various actors.\\n\\nIf this film had been prescreened (proof read) any average movie-goer would have pointed out just how poorly made it was. I sensed that Tyler Perry gave a over acted performance. I really wanted to like this film when it first came out but, it just was so boring and unimaginative I began to realize that it was due to faulty construction of scenes and character&apos;s dialog. This was mostly due to the director.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 35301,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Mystery"
+  ],
+  "datePublished": "2012-11-30",
+  "keywords": [
+    "interrupted sex",
+    "scene of the crime",
+    "character name as title",
+    "woman wears a bikini",
+    "woman on top sex"
+  ],
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Tyler Perry",
+      "url": "https://www.imdb.com/name/nm1347153/"
+    },
+    {
+      "name": "Matthew Fox",
+      "url": "https://www.imdb.com/name/nm0289142/"
+    },
+    {
+      "name": "Rachel Nichols",
+      "url": "https://www.imdb.com/name/nm0629697/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rob Cohen",
+      "url": "https://www.imdb.com/name/nm0003418/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Marc Moss",
+      "url": "https://www.imdb.com/name/nm0609031/"
+    },
+    {
+      "name": "Kerry Williamson",
+      "url": "https://www.imdb.com/name/nm1201058/"
+    },
+    {
+      "name": "James Patterson",
+      "url": "https://www.imdb.com/name/nm0666248/"
+    }
+  ]
+}

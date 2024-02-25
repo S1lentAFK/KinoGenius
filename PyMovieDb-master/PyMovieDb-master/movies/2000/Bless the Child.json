@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "Bless the Child",
+  "url": "https://www.imdb.com/tt0163983/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGFhMjI4OGUtZTkxNi00ZjNhLWI4NTQtYWY3YmI3ODEyZGViXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+  "description": "Cody, a little girl abandoned by her mother and raised by her aunt, a nurse, is kidnapped. The girl's guardian, aided by an F.B.I. agent, learn that Cody has supernatural abilities, and the abductees are a Satanic cult willing to ...",
+  "review": {
+    "author": "oliverburnett",
+    "dateCreated": "2002-01-09",
+    "inLanguage": "English",
+    "heading": "IF the writers had stuck to the book they would have had the next big horror movie on their hands",
+    "reviewBody": "The Book Bless the Child by Cathy Cash Spellman is absolutly fabulous. REally Scary. THen there is the movie which bears almost no resemblance to the book. DIfferent Plot. Different Charecters, Different story. Why oh why would they do this!?!?!?!? If they had been faithful to the book this movie would have been one hell of a scary ride. If your in the mood for a good scare go straight to the book!",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 15318,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Horror"
+  ],
+  "datePublished": "2001-01-05",
+  "keywords": [
+    "evil man",
+    "heroine",
+    "chloroform",
+    "threatened with a gun",
+    "burned alive"
+  ],
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Kim Basinger",
+      "url": "https://www.imdb.com/name/nm0000107/"
+    },
+    {
+      "name": "Jimmy Smits",
+      "url": "https://www.imdb.com/name/nm0001751/"
+    },
+    {
+      "name": "Rufus Sewell",
+      "url": "https://www.imdb.com/name/nm0001722/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chuck Russell",
+      "url": "https://www.imdb.com/name/nm0751080/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Cathy Cash Spellman",
+      "url": "https://www.imdb.com/name/nm0817697/"
+    },
+    {
+      "name": "Thomas Rickman",
+      "url": "https://www.imdb.com/name/nm0725564/"
+    },
+    {
+      "name": "Clifford Green",
+      "url": "https://www.imdb.com/name/nm0337731/"
+    }
+  ]
+}

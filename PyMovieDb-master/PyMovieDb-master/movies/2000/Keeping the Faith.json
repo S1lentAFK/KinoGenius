@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Keeping the Faith",
+  "url": "https://www.imdb.com/tt0171433/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNzg3MzQ3Nl5BMl5BanBnXkFtZTYwOTY4Nzc5._V1_.jpg",
+  "description": "Two friends, a priest and a rabbi, fall in love with the same woman they knew in their youth, but the religious position of both men denies them romance.",
+  "review": {
+    "author": "stamper",
+    "dateCreated": "2001-09-24",
+    "inLanguage": "English",
+    "heading": "Good comedy/romance",
+    "reviewBody": "This is a pretty good film and I think it hits perfectly the things we all want in life. Great friends and significant others. It is just a beautiful film which I must say (for a comedy) and a Ben Stiller film is pretty jokeless. Good acting, good directing a good story and good everything. There was one thing that was great though. The way Edward Norton used Faith in this film. Never have I seen so much depictions of Faith in a film and actually enjoyed it. I don't believe in church and stuff, but these two clergymen are way beyond cool, they ROCK!\n\n7 out of 10\n\nNote: this review has been amended to remove some sexist comments I included at the time. Apologies for any offence caused. I was young and stupid at the time, thinking I was being 'cool'.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 53101,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2000-09-08",
+  "keywords": "love triangle,bad date,romantic comedy,woman,love",
+  "duration": "PT2H8M",
+  "actor": [
+    {
+      "name": "Ben Stiller",
+      "url": "https://www.imdb.com/name/nm0001774/"
+    },
+    {
+      "name": "Edward Norton",
+      "url": "https://www.imdb.com/name/nm0001570/"
+    },
+    {
+      "name": "Jenna Elfman",
+      "url": "https://www.imdb.com/name/nm0001184/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Edward Norton",
+      "url": "https://www.imdb.com/name/nm0001570/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stuart Blumberg",
+      "url": "https://www.imdb.com/name/nm0089742/"
+    }
+  ]
+}

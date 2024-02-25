@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "And Now... Ladies and Gentlemen...",
+  "url": "https://www.imdb.com/tt0283883/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM5ODYyNTA3M15BMl5BanBnXkFtZTcwODQwMDY4Mw@@._V1_.jpg",
+  "description": null,
+  "contentRating": "PG",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2002-05-29",
+  "keywords": "singer,morocco,jewel thief,thief,jazz singer",
+  "duration": "PT2H13M",
+  "rating": {
+    "ratingCount": 2343,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "review": {
+    "author": "Galina_movie_fan",
+    "dateCreated": "2006-10-16",
+    "inLanguage": "English",
+    "heading": "Another Man and Another Woman 36 Years Later",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "actor": [
+    {
+      "name": "Jeremy Irons",
+      "url": "https://www.imdb.com/name/nm0000460/"
+    },
+    {
+      "name": "Patricia Kaas",
+      "url": "https://www.imdb.com/name/nm0433969/"
+    },
+    {
+      "name": "Thierry Lhermitte",
+      "url": "https://www.imdb.com/name/nm0508293/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Claude Lelouch",
+      "url": "https://www.imdb.com/name/nm0500988/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Claude Lelouch",
+      "url": "https://www.imdb.com/name/nm0500988/"
+    },
+    {
+      "name": "Pierre Leroux",
+      "url": "https://www.imdb.com/name/nm0503716/"
+    },
+    {
+      "name": "Pierre Uytterhoeven",
+      "url": "https://www.imdb.com/name/nm0882683/"
+    }
+  ]
+}

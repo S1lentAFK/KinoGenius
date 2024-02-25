@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "In a Dream",
+  "url": "https://www.imdb.com/tt1185251/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAyMjI3NTY5MF5BMl5BanBnXkFtZTcwOTA5NDM5Mg@@._V1_.jpg",
+  "description": "The story of Julia Zagar and her husband Isaiah, a renowned mosaic artist, who for the past 30 years has covered more than 40,000 square feet of Philadelphia top to bottom with tile, mirror, paint, and concrete.",
+  "review": {
+    "author": "leegaccmovies",
+    "dateCreated": "2009-03-30",
+    "inLanguage": "English",
+    "heading": "In a Dream, what a dream it is...",
+    "reviewBody": "This is an excellent visual documentary about a flawed family trying to make it work. Isaiah Zagar is an artist who suffers from a mental disorder, and his son documents his life, from his early childhood to his current lifestyle. He is kind, artistically brilliant, and yet emotionally troubled. His wife loves him, his older son is trying to start his own family, and his youngest son records it all. Each one tells their own story. We see them go through the good times and the bad. Speaking of good, Zagar's art is AMAZING. I wish I lived in Philadelphia to see it.\n\nAll in all, a touching tribute to a family that makes you reflect on your own.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 249,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": "Unrated",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2008-03-08",
+  "keywords": [
+    "husband",
+    "past",
+    "artist",
+    "male nudity",
+    "male frontal nudity"
+  ],
+  "duration": "PT1H17M",
+  "actor": [
+    {
+      "name": "Isaiah Zagar",
+      "url": "https://www.imdb.com/name/nm1855612/"
+    },
+    {
+      "name": "Julia Zagar",
+      "url": "https://www.imdb.com/name/nm2921960/"
+    },
+    {
+      "name": "Ezekiel Zagar",
+      "url": "https://www.imdb.com/name/nm2922438/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeremiah Zagar",
+      "url": "https://www.imdb.com/name/nm1476102/"
+    }
+  ],
+  "creator": []
+}

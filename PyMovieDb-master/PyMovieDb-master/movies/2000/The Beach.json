@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Beach",
+  "url": "https://www.imdb.com/tt0163978/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTljZTUzYWUtOTI4YS00NmZlLWE5MmQtZjFlZDZhNjg4MjQxXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_.jpg",
+  "description": "On vacation in Thailand, Richard sets out for an island rumored to be a solitary beach paradise.",
+  "review": {
+    "author": "ecwjedi",
+    "dateCreated": "2005-06-14",
+    "inLanguage": "English",
+    "heading": "The Beach WILL NOT DIE TODAY",
+    "reviewBody": "The Beach is interesting in that some people feel that its terrible while there are others who feel that it is an unsung hero of a movie. When I first saw The Beach, back in 2000, I thought it was OK, not as bad as most people said it was. But, just like with A Life Less Ordinary, The Beach grew on me and I had to watch it again. After seeing it a few more times I really started to pick up on what was going on and realized that at the end of the film the viewer has gone through quite an adventure with Dicaprio and co. The acting, cinematography, music, and story are great and hold up after repeat viewings. The Beach is one of those movies that I watch once a year as its enjoyability never decreases. This is a very solid film that will no doubt only increase in its popularity as time goes by as fans of The Beach are quite hardcore. Even though Dany Boyle has said that he is not very proud of The Beach I believe that he&apos;s made a gross error and misjudged his work because even after all these years The Beach still has a freshness to it that most films lose while they are still in the theaters. Because of these reasons The Beach will not die today.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 252254,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Adventure",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2000-02-11",
+  "keywords": "thailand,travel,beach,island,voice over narration",
+  "duration": "PT1H59M",
+  "actor": [
+    {
+      "name": "Leonardo DiCaprio",
+      "url": "https://www.imdb.com/name/nm0000138/"
+    },
+    {
+      "name": "Tilda Swinton",
+      "url": "https://www.imdb.com/name/nm0842770/"
+    },
+    {
+      "name": "Daniel York",
+      "url": "https://www.imdb.com/name/nm0948679/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Danny Boyle",
+      "url": "https://www.imdb.com/name/nm0000965/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Hodge",
+      "url": "https://www.imdb.com/name/nm0388076/"
+    },
+    {
+      "name": "Alex Garland",
+      "url": "https://www.imdb.com/name/nm0307497/"
+    }
+  ]
+}

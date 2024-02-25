@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Sleepover",
+  "url": "https://www.imdb.com/tt0368975/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA4ODg1OTk2MjJeQTJeQWpwZ15BbWU3MDc4MzIyNzQ@._V1_.jpg",
+  "description": "Desperate to improve their social status, four best friends enter into an all-night scavenger hunt against the popular clique in their school.",
+  "review": {
+    "author": "majidy_pam",
+    "dateCreated": "2020-10-16",
+    "inLanguage": "English",
+    "heading": "definitely a early 2000&apos;s movie",
+    "reviewBody": "I watched it last night ( October 15th 2020) as I was in the mood for something light and funny. The movie was that but definitely a early 2000&apos;s film. It was fun but awkward to watch today. It also made me realize just how many movies around that time were centered around middle school students acting and doing things much older than they should be ( hooking up!?, aren&apos;t they supposed to be playing 13- 15 year olds?) kinda like every show on disney today.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 17915,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Romance"
+  ],
+  "datePublished": "2004-07-09",
+  "keywords": "best friend,scavenger hunt,party,sleepover,rival",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Alexa PenaVega",
+      "url": "https://www.imdb.com/name/nm0891786/"
+    },
+    {
+      "name": "Mika Boorem",
+      "url": "https://www.imdb.com/name/nm0095561/"
+    },
+    {
+      "name": "Scout Taylor-Compton",
+      "url": "https://www.imdb.com/name/nm0174021/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joe Nussbaum",
+      "url": "https://www.imdb.com/name/nm0638271/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Elisa Bell",
+      "url": "https://www.imdb.com/name/nm0068183/"
+    }
+  ]
+}

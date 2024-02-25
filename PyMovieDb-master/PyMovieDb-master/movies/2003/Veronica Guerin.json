@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "Veronica Guerin",
+  "url": "https://www.imdb.com/tt0312549/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWZhZDdiMDYtYTRkMi00MzEzLWI0NjgtZjJjODFmN2ZjNmZmXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg",
+  "description": "An Irish journalist writes a series of stories about drug dealers.",
+  "review": {
+    "author": "hitchcockthelegend",
+    "dateCreated": "2014-06-30",
+    "inLanguage": "English",
+    "heading": "You'd do the same. If you saw those kids on the street, you would do the same.",
+    "reviewBody": "The assassination of Dublin crime reporter Veronica Guerin in 1996 shook Ireland to the core, her murder saw a public swell of determination to rid the country of its drug peddlers. Joel Schumacher's film is an in depth interpretation of the woman, her beliefs, her family life, her complexities and her stoicism to root out the drug barons putting liquid death into the arms of the many.\\n\\nThankfully avoiding Hollywood clich\\u00e9s, it's often gritty and well thought out, Schumacher and his writers, Carol Doyle and Mary Agnes Donoghue, don't soft soap the Guerin image, her faults are laid bare alongside her searing strengths. The dangers of her work are very prominent throughout, leading to some suspenseful and fearsome scenes. Cate Blanchett as Guerin is inspired casting, an actress capable of covering all facets of the human condition, and in support Ciaran Hinds, Gerard McSorley and Brenda Fricker give powerful performances. 8/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 21761,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "18",
+  "genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2003-08-01",
+  "keywords": [
+    "strong female character",
+    "strong female lead",
+    "tough woman",
+    "murder of a journalist",
+    "shooting a woman"
+  ],
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Cate Blanchett",
+      "url": "https://www.imdb.com/name/nm0000949/"
+    },
+    {
+      "name": "Colin Farrell",
+      "url": "https://www.imdb.com/name/nm0268199/"
+    },
+    {
+      "name": "Brenda Fricker",
+      "url": "https://www.imdb.com/name/nm0002084/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joel Schumacher",
+      "url": "https://www.imdb.com/name/nm0001708/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Carol Doyle",
+      "url": "https://www.imdb.com/name/nm0236305/"
+    },
+    {
+      "name": "Mary Agnes Donoghue",
+      "url": "https://www.imdb.com/name/nm0232858/"
+    }
+  ]
+}

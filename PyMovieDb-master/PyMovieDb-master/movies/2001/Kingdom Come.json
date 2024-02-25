@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Kingdom Come",
+  "url": "https://www.imdb.com/tt2701772/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY1NTE5OTE5M15BMl5BanBnXkFtZTgwNzc2NjI2OTE@._V1_.jpg",
+  "description": "A group of strangers who wake up in what appears to be an abandoned building, unable to remember how they got there, find themselves haunted by strange visions and are forced to face all the wrongs they have done in their lives.",
+  "contentRating": "15",
+  "genre": [
+    "Horror"
+  ],
+  "datePublished": "2014-08-20",
+  "keywords": "no cell phone signal, father daughter relationship, flashback, forgiveness, nudity",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Ry Barrett",
+      "url": "https://www.imdb.com/name/nm2028004/"
+    },
+    {
+      "name": "Camille Hollett-French",
+      "url": "https://www.imdb.com/name/nm3844586/"
+    },
+    {
+      "name": "William Foley",
+      "url": "https://www.imdb.com/name/nm1807034/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Greg A. Sager",
+      "url": "https://www.imdb.com/name/nm3419080/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Greg A. Sager",
+      "url": "https://www.imdb.com/name/nm3419080/"
+    },
+    {
+      "name": "Geoff Hart",
+      "url": "https://www.imdb.com/name/nm2326370/"
+    },
+    {
+      "name": "A. Jaye Williams",
+      "url": "https://www.imdb.com/name/nm5296721/"
+    }
+  ],
+  "review": {
+    "author": "munchiesme",
+    "dateCreated": "2015-01-27",
+    "inLanguage": "English",
+    "heading": "Some of the Twilight Zone episodes are online, just watch those.",
+    "reviewBody": "The movie opens with questions and fear of the unknown. Where are our characters and what sort of craziness have they gotten into? Oh wait no you&apos;ll figure it out in about 30 seconds because the writers spell it out for you. Every single twist and character development is nicely packaged with a lovely little bow leaving nothing to your imagination. I do appreciate it when the movie does all my thinking for me so I can go back to checking my email on my smart phone.\\n\\nThe movie does have a few positives such as every now and then some of the actors will let their Canadian accents slip out and that&apos;s always good for a few laughs. Please let him say sorry a few more times, oh that&apos;s adorable. Oh and there is some unneeded nudity which is always a win.\\n\\nIn short if these people would have woken up instead on that island from Lost, you would be rooting for the smoke monster the entire time. See ya on the island.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 1387,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.3
+  }
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Thomas and the Magic Railroad",
+  "url": "https://www.imdb.com/tt0205461/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTNkY2Y2NDQtMmEwMi00ODI3LTg1MzAtNmIzOGFkYWY0ZTFmXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "adammichcon00",
+    "dateCreated": "2000-08-07",
+    "inLanguage": "English",
+    "heading": "For The Kid In All Of US",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 4732,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.2
+  },
+  "contentRating": "U",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2000-07-14",
+  "keywords": "anthropomorphic train,sodor,magic gold dust,gold dust,magic dust",
+  "duration": "PT1H25M",
+  "actor": [
+    {
+      "name": "Alec Baldwin",
+      "url": "https://www.imdb.com/name/nm0000285/"
+    },
+    {
+      "name": "Cody McMains",
+      "url": "https://www.imdb.com/name/nm0573097/"
+    },
+    {
+      "name": "Russell Means",
+      "url": "https://www.imdb.com/name/nm0575184/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Britt Allcroft",
+      "url": "https://www.imdb.com/name/nm0020150/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Britt Allcroft",
+      "url": "https://www.imdb.com/name/nm0020150/"
+    },
+    {
+      "name": "Wilbert Awdry",
+      "url": "https://www.imdb.com/name/nm0043423/"
+    },
+    {
+      "name": "Rick Siggelkow",
+      "url": "https://www.imdb.com/name/nm1138141/"
+    }
+  ]
+}

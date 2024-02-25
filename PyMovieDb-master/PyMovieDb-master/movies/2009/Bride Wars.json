@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Bride Wars",
+  "url": "https://www.imdb.com/tt0901476/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNTg2OTUwN15BMl5BanBnXkFtZTgwNzEzMzg5MTI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "A_Random_Guy_22",
+    "dateCreated": "2009-01-09",
+    "inLanguage": "English",
+    "heading": "If you&apos;ve seen the trailer, you&apos;ve seen the movie.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 114733,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2009-01-09",
+  "keywords": "wedding,best friend,rivalry,fake tan,dyed hair",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Kate Hudson",
+      "url": "https://www.imdb.com/name/nm0005028/"
+    },
+    {
+      "name": "Anne Hathaway",
+      "url": "https://www.imdb.com/name/nm0004266/"
+    },
+    {
+      "name": "Candice Bergen",
+      "url": "https://www.imdb.com/name/nm0000298/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gary Winick",
+      "url": "https://www.imdb.com/name/nm0935095/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Greg DePaul",
+      "url": "https://www.imdb.com/name/nm0220045/"
+    },
+    {
+      "name": "Casey Wilson",
+      "url": "https://www.imdb.com/name/nm1988111/"
+    },
+    {
+      "name": "June Diane Raphael",
+      "url": "https://www.imdb.com/name/nm2053085/"
+    }
+  ]
+}

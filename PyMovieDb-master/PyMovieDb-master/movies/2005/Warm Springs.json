@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Warm Springs",
+  "url": "https://www.imdb.com/tt5769532/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmRmNjQxMGEtYWQ4Zi00ZDk4LThhMTctMmE3ZmZmOTVjN2UyXkEyXkFqcGdeQXVyNjM3NTcwOTY@._V1_.jpg",
+  "description": "An impressionable young boy&apos;s determination to be accepted by his older brother leads him head-on into trouble.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 6,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "contentRating": null,
+  "genre": [
+    "Short",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": null,
+  "keywords": null,
+  "duration": "PT16M",
+  "actor": [
+    {
+      "name": "Bradley Bundlie",
+      "url": "https://www.imdb.com/name/nm5893507/"
+    },
+    {
+      "name": "John Edward Cusack",
+      "url": "https://www.imdb.com/name/nm7506681/"
+    },
+    {
+      "name": "Daniel J. Donovan",
+      "url": "https://www.imdb.com/name/nm6390553/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sean Wang",
+      "url": "https://www.imdb.com/name/nm7648876/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sean Wang",
+      "url": "https://www.imdb.com/name/nm7648876/"
+    }
+  ]
+}

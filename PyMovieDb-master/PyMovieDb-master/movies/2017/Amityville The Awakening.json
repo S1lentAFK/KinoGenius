@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Amityville: The Awakening",
+  "url": "https://www.imdb.com/tt1935897/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQwOTI3Nzk5OV5BMl5BanBnXkFtZTgwMzY3NDMyODE@._V1_.jpg",
+  "description": "A desperate single mother moves with her three children into the notorious, supposedly haunted, real-life Amityville house to try and use its dark powers to cure her comatose son. Things go horribly wrong.",
+  "review": {
+    "author": "Misss25",
+    "dateCreated": "2022-01-27",
+    "inLanguage": "English",
+    "heading": "Enjoyable!!",
+    "reviewBody": "This is my first movie of this entire series. I don't know if there is any connection with other movies or not but I really get the whole story without watching the previous ones. All I can say, it's a decent movie which can be enjoyed with your whole family. If I talked about story, all horror movies stories are same xD. All horror movies either start with moving into a haunted house which they didn't know :) but eventually get to know or someone has possessed someone.\n\nPersonally, I kind of love this. It was an average type of movie. It has what I usually look for 'Jump scares'.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 15379,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2017-08-24",
+  "keywords": "village name in title, place name in title, mother daughter relationship, haunted house, coma",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Jennifer Jason Leigh",
+      "url": "https://www.imdb.com/name/nm0000492/"
+    },
+    {
+      "name": "Bella Thorne",
+      "url": "https://www.imdb.com/name/nm2254074/"
+    },
+    {
+      "name": "Mckenna Grace",
+      "url": "https://www.imdb.com/name/nm5085683/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Franck Khalfoun",
+      "url": "https://www.imdb.com/name/nm0451076/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Franck Khalfoun",
+      "url": "https://www.imdb.com/name/nm0451076/"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "Stitch! The Movie",
+  "url": "https://www.imdb.com/tt0348124/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDQyMTYwZGYtZmZlMS00NGE3LWE2YmItYzgwNGEwYTJkOTk1XkEyXkFqcGdeQXVyODk1MjAxNzQ@._V1_.jpg",
+  "description": "Stitch, an alien living on Earth disguised as a dog with his human family, continues his adventures when he discovers that the alien family he never knew he had is now in Hawaii, being hunted down by galactic forces.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2003-09-22",
+  "keywords": [
+    "stitch character",
+    "exclamation point in title",
+    "movie in title",
+    "spin off",
+    "pilot"
+  ],
+  "duration": "PT1H",
+  "actor": [
+    {
+      "name": "Daveigh Chase",
+      "url": "https://www.imdb.com/name/nm0153738/"
+    },
+    {
+      "name": "Chris Sanders",
+      "url": "https://www.imdb.com/name/nm0761498/"
+    },
+    {
+      "name": "Tia Carrere",
+      "url": "https://www.imdb.com/name/nm0000119/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tony Craig",
+      "url": "https://www.imdb.com/name/nm0186038/"
+    },
+    {
+      "name": "Bobs Gannaway",
+      "url": "https://www.imdb.com/name/nm0304432/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jess Winfield",
+      "url": "https://www.imdb.com/name/nm0934897/"
+    },
+    {
+      "name": "Bobs Gannaway",
+      "url": "https://www.imdb.com/name/nm0304432/"
+    }
+  ],
+  "review": {
+    "author": "tord-1",
+    "dateCreated": "2003-11-18",
+    "inLanguage": "English",
+    "heading": "Low-budget follow-up?",
+    "reviewBody": "While Lilo & Stich is an endearing saga, the Stich: the Movie isn't. Almost all the bits of the original is back, but it is so much flatter, so much less artistic, so much less well-paced.\\n\\nMy wife, who loved L & S, fell asleep while watching it and for anyone that has not seen the first L & S-film it must be utterly incomprehensible.\\n\\nAnd even the animation feels rougher, and it sure lacks the deep feelings and suspense of the original, in short a typical low-budget follow-up, that supposedly links the real film with the TV-series (which I have not seen).",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 11120,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  }
+}

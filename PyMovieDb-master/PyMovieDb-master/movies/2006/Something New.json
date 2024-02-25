@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Something New",
+  "url": "https://www.imdb.com/tt0437777/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzMzNzU0NzQ1NF5BMl5BanBnXkFtZTcwNTMzOTEzMQ@@._V1_.jpg",
+  "description": "Kenya McQueen, an accountant finds love in the most unexpected place when she agrees to go on a blind date with Brian Kelly, a sexy and free-spirited landscaper.",
+  "review": {
+    "author": "kmsairam",
+    "dateCreated": "2006-02-06",
+    "inLanguage": "English",
+    "heading": "A Romantic Comedy with Substance",
+    "reviewBody": "First off, this movie is NOT about a shortage of black men. In fact, there are plenty of black men in this movie: husbands, brothers, boyfriends, guys at Starbucks, club-goers. It just so happens that the main character Kenya, a black woman, falls in love with a white man. What&apos;s the big freakin deal?!?! To repeat, this movie is not about a shortage of black men; it never claims to be. It&apos;s a love story and one that is complicated by race. I thought the issues they had to deal with as a couple were very real, particularly Kenya&apos;s issues with her job.\\n\\nI can totally relate to the Kenya character and I can easily think of 10 other black women who probably can too. This film was refreshing; it was so nice to see a smart, successful black woman as the main character of a movie. GO SEE IT!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 14405,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2006-11-24",
+  "keywords": "black woman white man kiss,black woman white man relationship,black woman white male,interracial kiss,interracial love",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Sanaa Lathan",
+      "url": "https://www.imdb.com/name/nm0005125/"
+    },
+    {
+      "name": "Simon Baker",
+      "url": "https://www.imdb.com/name/nm0048932/"
+    },
+    {
+      "name": "Golden Brooks",
+      "url": "https://www.imdb.com/name/nm0112001/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sanaa Hamri",
+      "url": "https://www.imdb.com/name/nm1065402/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kriss Turner",
+      "url": "https://www.imdb.com/name/nm0877701/"
+    }
+  ]
+}

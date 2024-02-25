@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Elling",
+  "url": "https://www.imdb.com/tt0279064/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzczMzg1NzM3Nl5BMl5BanBnXkFtZTYwNjQ5ODc5._V1_.jpg",
+  "description": "When his mother, who has sheltered him his entire 40 years, dies, sensitive would-be poet Elling is sent to live in a state institution. There he meets Kjell Bjarne, a gentle giant and woman-obsessed virgin in his 40s. After two y...",
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2003-03-14",
+  "keywords": "male virgin, christmas eve, character name as title, one word title, gentle giant",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Per Christian Ellefsen",
+      "url": "https://www.imdb.com/name/nm0253967/"
+    },
+    {
+      "name": "Sven Nordin",
+      "url": "https://www.imdb.com/name/nm0635109/"
+    },
+    {
+      "name": "Marit Pia Jacobsen",
+      "url": "https://www.imdb.com/name/nm0414758/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Petter N\u00e6ss",
+      "url": "https://www.imdb.com/name/nm0639033/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ingvar Ambj\u00f8rnsen",
+      "url": "https://www.imdb.com/name/nm0024310/"
+    },
+    {
+      "name": "Axel Hellstenius",
+      "url": "https://www.imdb.com/name/nm0375561/"
+    },
+    {
+      "name": "Larry Stuckey",
+      "url": "https://www.imdb.com/name/nm0836001/"
+    }
+  ],
+  "review": {
+    "author": "gogoschka-1",
+    "dateCreated": "2018-02-11",
+    "inLanguage": "English",
+    "heading": "An Underrated Comedy Masterpiece",
+    "reviewBody": "A comedy masterpiece. Sometimes tragic but more often outrageously funny, this wonderful tale of two mentally challenged outcasts caught me fully unprepared.\n\nThere wasn't a single face without a wide grin in the audience after this film. An amazing script, fantastic actors: this was the feel-good movie of 2001. 9 stars out of 10.\n\nIn case you're interested in more underrated masterpieces, here's some of my favorites: \n\nimdb.com/list/ls070242495",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 15767,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  }
+}

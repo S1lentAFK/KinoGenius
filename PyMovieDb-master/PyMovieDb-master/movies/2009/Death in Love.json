@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Death in Love",
+  "url": "https://www.imdb.com/tt1079980/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzYyMDVmNTUtNzgxNi00ODMxLWJjNzgtYWI5YTdiYTQzYzI5XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+  "description": "The devastating legacy of a liaison between a concentration camp inmate and a Nazi doctor reflects on the lives of her sons.",
+  "review": {
+    "author": "frasif00",
+    "dateCreated": "2019-08-27",
+    "inLanguage": "English",
+    "heading": "Not everyone's cup of tea",
+    "reviewBody": "It's a very hard character study. Self loathing, love, betrayal and twisted life is gruesomely portrayed here with no compromise. Not everyone can go on making this movie, I'm just glad I found it. Top notch job guys. Specially Lucas, Bissett and Hall. They gave everything to their character. If you think of yourself as a hardcore cinephile and love character study, go after it. If not, then plz don't try. It's not for you, you won't stay on for long either.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 1220,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.7
+  },
+  "contentRating": "18",
+  "genre": [
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "datePublished": "2009-07-17",
+  "keywords": "world war two,female frontal nudity,nazi,concentration camp,jewish",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Josh Lucas",
+      "url": "https://www.imdb.com/name/nm0524197/"
+    },
+    {
+      "name": "Jacqueline Bisset",
+      "url": "https://www.imdb.com/name/nm0000302/"
+    },
+    {
+      "name": "Lukas Haas",
+      "url": "https://www.imdb.com/name/nm0001305/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Boaz Yakin",
+      "url": "https://www.imdb.com/name/nm0945026/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Boaz Yakin",
+      "url": "https://www.imdb.com/name/nm0945026/"
+    }
+  ]
+}

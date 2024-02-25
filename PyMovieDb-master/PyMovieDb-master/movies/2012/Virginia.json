@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Virginia",
+  "url": "https://www.imdb.com/tt1440379/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQyMDY2Mzg3OV5BMl5BanBnXkFtZTcwNTI1Mjk2Nw@@._V1_.jpg",
+  "description": "A sheriff sees his state senate bid slide out onto the ice when his daughter begins to date the son of a charming but psychologically disturbed woman with whom the sheriff has engaged in a two-decade-long affair.",
+  "contentRating": "R",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2010-09-15",
+  "keywords": "extramarital affair,female stockinged legs,suntan pantyhose,pantyhose,mormon missionary",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Jennifer Connelly",
+      "url": "https://www.imdb.com/name/nm0000124/"
+    },
+    {
+      "name": "Ed Harris",
+      "url": "https://www.imdb.com/name/nm0000438/"
+    },
+    {
+      "name": "Harrison Gilbertson",
+      "url": "https://www.imdb.com/name/nm1549295/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dustin Lance Black",
+      "url": "https://www.imdb.com/name/nm0085257/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dustin Lance Black",
+      "url": "https://www.imdb.com/name/nm0085257/"
+    }
+  ],
+  "review": {
+    "author": "michael-335-141594",
+    "dateCreated": "2012-09-09",
+    "inLanguage": "English",
+    "heading": "Get out the hankies boys and girls!",
+    "reviewBody": "Few actors today have the breadth of Jennifer Connelly. She never shirks from difficult roles. From Mullholland Falls to Little Children or The House Of Sand and Fog and now this, she plays her characters convincingly as though she owns them in her heart. She never takes it over the top. Ed Harris&apos; character is a cardboard cop and is well done given the parameters of the role. This movie is a brilliant portrait of a mentally challenged mom trying to make the best in this world for her son. Harrison Gilbertson is very good as her boy. Emma Roberts as his girlfriend does a great job as a dutiful Mormon 16 year old. Amy Madigan is convincing as Ed Harris&apos; wife. See it with an open heart and this movie will transport you. Brilliant.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 2357,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Three Billboards Outside Ebbing, Missouri",
+  "url": "https://www.imdb.com/tt5027774/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDBiNjQwZjktZWRjMC00ZDAxLTk0NTgtY2M0OTk3ZjdkMTZmXkEyXkFqcGdeQXVyNzQwNzQwMjA@._V1_.jpg",
+  "description": "A mother personally challenges the local authorities to solve her daughter&apos;s murder when they fail to catch the culprit.",
+  "review": {
+    "author": "rubenm",
+    "dateCreated": "2017-10-16",
+    "inLanguage": "English",
+    "heading": "Extremely funny film about grief, anger, revenge and violence",
+    "reviewBody": "It seemed that the pregnant police detective Marge Gunderson from &apos;Fargo&apos; would forever be the most memorable character of Frances McDormand&apos;s acting career. But now I&apos;m not so sure. Mildred Hayes, the heroine from &apos;Three Billboards&apos;, is a serious contender. This might well be her best performance ever.\n\nThe part of Mildred Hayes was written with McDormand in mind. Hayes is a divorced single mother, living with her son on the outskirts of a small, remote town. She had a daughter too, but the girl was raped and killed on a quiet mountain road not far from home. Frustrated by the lack of progress of the investigation, Hayes decides to rent three dilapidated billboards, publicly accusing the local police chief of incompetence. By doing so, she attracts the attention of the media, angers almost the entire town and causes a succession of increasingly violent actions.\n\nAlthough the film is about grief, anger, revenge and violence, it is extremely funny. Above all because of Mildred Hayes&apos; stubborn character and her ability to verbally humiliate people by her extremely sharp tongue. The monologue she delivers when a priest visits her house to tell her she has gone too far, is priceless.\n\nApart from McDormand&apos;s performance, the screenplay is another great feature of this film. The story is full of unexpected twists, gradually shifting the positions of the main characters towards each other. None of the characters are one-dimensional: they all reveal surprising parts of their personalities as the story moves forward.\n\nAnd then there is the overall, almost Coen-esque atmosphere of a small town full of colourful characters. There is a racist cop, a friendly midget, a smart advertising guy and a pretty girl who is so dumb she doesn&apos;t know the difference between polo and polio.\n\nIt is hard to mention something negative about this film. &apos;Three Billboards&apos; is, from start to finish, a great movie. I can&apos;t imagine anyone not enjoying it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 549714,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.1
+  },
+  "contentRating": "R",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2018-02-22",
+  "keywords": "billboard,police brutality,small town,death of daughter,ambiguous ending",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Frances McDormand",
+      "url": "https://www.imdb.com/name/nm0000531/"
+    },
+    {
+      "name": "Woody Harrelson",
+      "url": "https://www.imdb.com/name/nm0000437/"
+    },
+    {
+      "name": "Sam Rockwell",
+      "url": "https://www.imdb.com/name/nm0005377/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Martin McDonagh",
+      "url": "https://www.imdb.com/name/nm1732981/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Martin McDonagh",
+      "url": "https://www.imdb.com/name/nm1732981/"
+    }
+  ]
+}

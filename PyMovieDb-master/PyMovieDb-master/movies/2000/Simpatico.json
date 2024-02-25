@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Simpatico",
+  "url": "https://www.imdb.com/tt0174204/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzE5YjQ0MjItOTNhMS00NTliLWJjYmEtMTE1NTExNjRlZjRjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "After scams at horse races and making lots of money, 3 young people split. 20 years later, one of them, a drunk, creates chaos with photos from back then.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2000-01-28",
+  "keywords": "kentucky,blackmail,scam,woman smoker,volkswagen beetle",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Nick Nolte",
+      "url": "https://www.imdb.com/name/nm0000560/"
+    },
+    {
+      "name": "Jeff Bridges",
+      "url": "https://www.imdb.com/name/nm0000313/"
+    },
+    {
+      "name": "Sharon Stone",
+      "url": "https://www.imdb.com/name/nm0000232/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Matthew Warchus",
+      "url": "https://www.imdb.com/name/nm0911334/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sam Shepard",
+      "url": "https://www.imdb.com/name/nm0001731/"
+    },
+    {
+      "name": "Matthew Warchus",
+      "url": "https://www.imdb.com/name/nm0911334/"
+    },
+    {
+      "name": "David Nicholls",
+      "url": "https://www.imdb.com/name/nm0390141/"
+    }
+  ],
+  "review": {
+    "author": "deltadave669",
+    "dateCreated": "2001-03-20",
+    "inLanguage": "English",
+    "heading": "Great actors in a mediocre movie",
+    "reviewBody": "You'd think that a movie with the acting power of Nick Nolte, Jeff Bridges, and Sharon Stone would be one to watch. Well.......it is and it isn't.\n\nFirst off, I'd never in my life thought I'd see Nolte and Bridges in the same movie. Talk about an odd pairing!\n\nWith that out of the way, they both put in good performances, as does Stone. The star of this movie though is Albert Finney. His performance is the best of all the parts in this movie.\n\nUnfortunately the plot, involving a racing scam many years ago which resurfaces, is only mildly interesting at best. It seems almost a shame to have such good performances wasted on such a story. Still, it's worth a watch if nothing else is on.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 3706,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.7
+  }
+}

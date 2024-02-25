@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "See Spot Run",
+  "url": "https://www.imdb.com/tt0250720/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIwNjg4MTk1NF5BMl5BanBnXkFtZTYwMjE4Nzc5._V1_.jpg",
+  "description": "A mailman takes care of a dog that, unbeknownst to him, is an FBI drug-sniffing superdog that has escaped from the witness protection program after becoming the target of an assassination.",
+  "review": {
+    "author": "LauraH2477",
+    "dateCreated": "2003-05-10",
+    "inLanguage": "English",
+    "heading": "You folks need to relax!",
+    "reviewBody": "Apparently a lot of people like to watch little kid's movies and then complain because they aren't cinematic masterpieces. How ridiculous. This is a film that was made to entertain young kids, and it's entertaining enough for parents to watch along with them. My little boy enjoyed it, but then he isn't much of an intellectual, since he's only six! Anything that makes him laugh is okay with me, though. \n\nAlso, I have to say that people are WAY too hard on David Arquette. I'm not a serious fan of his, or anything, but I feel bad for the guy when people trash him. I have noticed that it's mainly men who are so down on him. Gee, I wonder if it has anything to do with the fact that he's married to one of TV's most popular, attractive, and highly-paid stars? He seems like a perfectly sweet, charming man who is having fun with his life and enjoys making silly films. He doesn't seem to take himself seriously, so why do so many people hate him? It's ridiculous. \n\nOh, and just to let you know, he doesn't get film roles because of his wife. He was acting before he married Courtney Cox, and he is actually quite a talented actor. If you don't believe me, check out a little gem of an indie film called Dream with the Fishes. He gives quite an engaging and touching performance as a man on the verge of suicide whose life is changed when he befriends a terminally ill man, proving that he CAN do serious dramatic work. He just chooses not to. So why don't you people lay off of him? Not that he cares either way, I'm sure. He is having the time of his life. You go David!",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 9693,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2001-05-25",
+  "keywords": "postal worker,police officer,little boy,dog,dog movie",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "David Arquette",
+      "url": "https://www.imdb.com/name/nm0000274/"
+    },
+    {
+      "name": "Michael Clarke Duncan",
+      "url": "https://www.imdb.com/name/nm0003817/"
+    },
+    {
+      "name": "Leslie Bibb",
+      "url": "https://www.imdb.com/name/nm0004753/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Whitesell",
+      "url": "https://www.imdb.com/name/nm0925870/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "George Gallo",
+      "url": "https://www.imdb.com/name/nm0303032/"
+    },
+    {
+      "name": "Gregory Poirier",
+      "url": "https://www.imdb.com/name/nm0201304/"
+    },
+    {
+      "name": "Dan Baron",
+      "url": "https://www.imdb.com/name/nm7971037/"
+    }
+  ]
+}

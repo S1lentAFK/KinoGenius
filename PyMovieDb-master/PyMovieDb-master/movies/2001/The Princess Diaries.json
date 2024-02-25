@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Princess Diaries",
+  "url": "https://www.imdb.com/tt0247638/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzcwYjEwMzEtZTZmMi00ZGFhLWJhZjItMDAzNDVkNjZmM2U5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "Mia Thermopolis has just found out that she is the heir apparent to the throne of Genovia. With her friends Lilly and Michael Moscovitz in tow, she tries to navigate through the rest of her sixteenth year.",
+  "review": {
+    "author": "AbeStreet",
+    "dateCreated": "2004-09-07",
+    "inLanguage": "English",
+    "heading": "A surprise treat!",
+    "reviewBody": "When I was 32 years old, back in 2001 when this movie came out, I took my then 7 year old daughter to see this move. As a parent I often have to suffer through books my children read to me, music they like, and television shows & movies that I have no desire to see. The previews made this movie look like the standard Disney channel fluff I occasionally have to endure. However, I found that I actually enjoyed this movie.\\n\\nGarry Marshall basically redressed his PRETTY WOMAN storyline for kids. He even brought in Hector Elizondo, the hotel manager in PW, as the head security officer for the Queen of Genovia, who is played by Julie Andrews. The story also has aspects of the LITTLE LORD FAUNTLEROY novel in it.\\n\\nThe story is not all that original. A long lost heir to the throne of Genovia has been identified as a klutzy teenager who lives in San Francisco. The Queen of Genovia goes to San Francisco and attempts to persuade her to come back to Genovia and take her place as a princess of the realm. From their the typical hijinks ensue. The princess gets an education in proper royal behavior & procedures. The Queen learns to loosen up and relax. Princess Mia also struggles between dating the school jock, who ignored her before she became famous and dating an unpopular guy who has been her friend for years.\\n\\nThe story is predictable and hold no real surprises. Despite this I still found myself enjoying the film. Julie Andrews did well in her role as the Queen and it was a treat to see her in another Disney film. I was surprised by how well Anne Hathaway did in her role as Princess Mia. She held her own against such performers as Andrews and Elizondo. This movie could have come off as cheezy but thanks to the director and skilled actors it proved to be a real treat. I remember back in 1990 when PW came out that girls thought it was so romantic that a hooker could find romance, true love and wealth. In my opinion PD is a much better role model. I'd rather have my little girl wishing she that she was heir to throne than a hooker who happens to find true love. \\n\\nAnyway, thanks to my daughter I discovered a film that I really enjoyed It is also because of her that I just saw the sequel, PD-2. It was even better than PD.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 161731,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "U",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Romance"
+  ],
+  "datePublished": "2001-12-21",
+  "keywords": "princess,makeover,teenager,high school,fish out of water",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Julie Andrews",
+      "url": "https://www.imdb.com/name/nm0000267/"
+    },
+    {
+      "name": "Anne Hathaway",
+      "url": "https://www.imdb.com/name/nm0004266/"
+    },
+    {
+      "name": "Hector Elizondo",
+      "url": "https://www.imdb.com/name/nm0001185/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Garry Marshall",
+      "url": "https://www.imdb.com/name/nm0005190/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Meg Cabot",
+      "url": "https://www.imdb.com/name/nm0127690/"
+    },
+    {
+      "name": "Gina Wendkos",
+      "url": "https://www.imdb.com/name/nm0920859/"
+    }
+  ]
+}

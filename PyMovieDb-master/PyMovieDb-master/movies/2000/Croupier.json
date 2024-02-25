@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Croupier",
+  "url": "https://www.imdb.com/tt0159382/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmMwNDE5YmYtNzdmYy00ZTlmLWJkOWYtMDY5NDBiMGQyNTFmXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": "An aspiring writer is hired as a croupier at a casino, where he realizes that his life as a croupier would make a great novel.",
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "1999-06-18",
+  "keywords": "casino,croupier,casino dealer,writing a novel,blackjack dealer",
+  "duration": "PT1H34M",
+  "rating": {
+    "ratingCount": 23366,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "review": {
+    "author": "filthyphil",
+    "dateCreated": "2003-04-20",
+    "inLanguage": "English",
+    "heading": "This guy knows his stuff!",
+    "reviewBody": "I was a croupier myself for the best part of 15 years and I expected to see the usual depiction of a casino. You know the scene - think of any Bond movie - the Roulette wheel spins so fast that you can't see the numbers, the dealers all have sticks and speak in French accents, the bets are all placed before the ball is spun and all straight up on the number.\\n\\nNot so this movie. Anyone that has ever been inside a real casino would\\n\\nrecognise this place. The urgency of every punter trying to get the last bet on before the ball drops, the cheats, the sad, sad losers that wait forever to place their last chips.\\n\\nThis is the most realistic depiction of a casino I have ever seen.\\n\\nClive Owen is perfect. He has obviously had a lot of training - only one criticism of his technique - he looks in the wheel as the ball is dropping - a good dealer looks at the layout and watches for late bets, he should be the last person to know which number has come up - he must have eyes in the back of his head to\\n\\nspot a cheat the way he deals!\\n\\nFor realism, you can't fault this film - every character, even the peripheral extras are real and believable - it's a tour de force of perfect character sketches - the plot is almost irrelevant - in fact, it is not quite up to the incredible atmosphere created - but it's good enough, the film is well worth your time. Hell, it's worth watching 2 or 3 times just to catch all of the great little cameos that you might have missed the first time\\n\\n9 out of 10",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "actor": [
+    {
+      "name": "Clive Owen",
+      "url": "https://www.imdb.com/name/nm0654110/"
+    },
+    {
+      "name": "Nick Reding",
+      "url": "https://www.imdb.com/name/nm0714919/"
+    },
+    {
+      "name": "Nicholas Ball",
+      "url": "https://www.imdb.com/name/nm0050437/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mike Hodges",
+      "url": "https://www.imdb.com/name/nm0388198/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Paul Mayersberg",
+      "url": "https://www.imdb.com/name/nm0562577/"
+    }
+  ]
+}

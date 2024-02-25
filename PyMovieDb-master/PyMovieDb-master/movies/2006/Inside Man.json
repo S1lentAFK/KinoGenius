@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Inside Man",
+  "url": "https://www.imdb.com/tt0454848/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjc4MjA2ZDgtOGY3YS00NDYzLTlmNTEtYWMxMzcwZjgzYWNjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A police detective, a bank robber, and a high-power broker enter high-stakes negotiations after the criminal's brilliant heist spirals into a hostage situation.",
+  "review": {
+    "author": "El Gato-4",
+    "dateCreated": "2006-03-22",
+    "inLanguage": "English",
+    "heading": "Intelligent thrills",
+    "reviewBody": "A pleasure from start to finish. An older Denzel Washington has begun to emerge, and his performance here suggests he has many good years left. Clive Owen is terrific as the mastermind. He, and the plot, keeps you guessing. And while there are plenty of clues, they are so well incorporated that very few viewers will see how this one comes together in the end.\\n\\nOne major quibble: Jodie Foster's character is more archetype than person so it's to her credit that she pulls it off as well as it does. However, don't let that deter you from enjoying one of the best movies of the year. I'm glad to see Spike Lee tackle another genre film. He brings a re-invigorating approach to what, in other hands, would be a tiresome rehash. That liveliness seems to have worked on him, too -- this is his best film in several years.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 394764,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2006-03-24",
+  "keywords": "bank,bank robber,hostage,robber,negotiation",
+  "duration": "PT2H9M",
+  "actor": [
+    {
+      "name": "Denzel Washington",
+      "url": "https://www.imdb.com/name/nm0000243/"
+    },
+    {
+      "name": "Clive Owen",
+      "url": "https://www.imdb.com/name/nm0654110/"
+    },
+    {
+      "name": "Jodie Foster",
+      "url": "https://www.imdb.com/name/nm0000149/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Spike Lee",
+      "url": "https://www.imdb.com/name/nm0000490/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Russell Gewirtz",
+      "url": "https://www.imdb.com/name/nm1897957/"
+    }
+  ]
+}

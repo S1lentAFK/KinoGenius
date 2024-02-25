@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Fat Albert",
+  "url": "https://www.imdb.com/tt0396592/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg2MzYxMDI2M15BMl5BanBnXkFtZTYwNTAzNTM3._V1_.jpg",
+  "description": "Fat Albert and the Cosby Kids come to life and step out of their animated, inner-city Philadelphia world.",
+  "review": {
+    "author": "inkblot11",
+    "dateCreated": "2005-02-13",
+    "inLanguage": "English",
+    "heading": "A mildly amusing movie with great messages",
+    "reviewBody": "Teenage Doris has a problem. No one wants to be her friend or invite her to their parties. As she is crying over the television's remote control, a tear drops into the device. As she happens to have a Fat Albert cartoon on the set, her sadness seeps onto the title character. Albert insists on jumping through the screen, along with his friends, to help her develop a more positive self image. While they are in the real world, the whole gang adapts to modern culture quickly. They never lose sight of their true goal, however. Will Fat Albert and his crew be able to better Doris' life? It is so satisfying to watch a film for teens and children that is determined to amuse and enlighten without objectionable material. Although the story is somewhat weak and a bit wandering, Albert and the actors playing the gang members are just wonderful, as is Doris and her lovely cousin, Laurie. Bill Cosby himself has a small part in the film, too. If you are a choosy parent, who screens every film before making a decision on a movie's worth, you will probably give thumbs up to this new entry into family features. It has an upbeat message that overcomes any weaknesses.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 12887,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.4
+  },
+  "contentRating": "U",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2005-07-15",
+  "keywords": "slimehouse,live action and animation,part animated,cartoon world,2d animation",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Kenan Thompson",
+      "url": "https://www.imdb.com/name/nm0860380/"
+    },
+    {
+      "name": "Kyla Pratt",
+      "url": "https://www.imdb.com/name/nm0695497/"
+    },
+    {
+      "name": "Omarion",
+      "url": "https://www.imdb.com/name/nm1217506/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joel Zwick",
+      "url": "https://www.imdb.com/name/nm0959034/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bill Cosby",
+      "url": "https://www.imdb.com/name/nm0001070/"
+    },
+    {
+      "name": "Charles Kipps",
+      "url": "https://www.imdb.com/name/nm0456063/"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Confessions of a Shopaholic",
+  "url": "https://www.imdb.com/tt1093908/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzFlMjVkMzQtMTk2OS00ZTY2LWEyMGMtM2ZkN2QxN2FkNzUzXkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_.jpg",
+  "description": "A college grad lands a job as a financial journalist in New York City to support where she nurtures her shopping addiction and falls for a wealthy entrepreneur.",
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2009-02-20",
+  "keywords": "f rated,female journalist,college,job,dinner",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Isla Fisher",
+      "url": "https://www.imdb.com/name/nm0279545/"
+    },
+    {
+      "name": "Hugh Dancy",
+      "url": "https://www.imdb.com/name/nm0199215/"
+    },
+    {
+      "name": "Krysten Ritter",
+      "url": "https://www.imdb.com/name/nm1269983/"
+    }
+  ],
+  "director": [
+    {
+      "name": "P.J. Hogan",
+      "url": "https://www.imdb.com/name/nm0389591/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tracey Jackson",
+      "url": "https://www.imdb.com/name/nm0414117/"
+    },
+    {
+      "name": "Tim Firth",
+      "url": "https://www.imdb.com/name/nm0278759/"
+    },
+    {
+      "name": "Kayla Alpert",
+      "url": "https://www.imdb.com/name/nm1547852/"
+    }
+  ],
+  "review": {
+    "author": "misterembryo",
+    "dateCreated": "2009-03-08",
+    "inLanguage": "English",
+    "heading": "Confessions of a Shopaholic-aholic",
+    "reviewBody": "I confess. I fell for the Shopaholic. Isla Fisher is charming, funny, adorably goofy yet undeniably attractive. You can't help but notice her uncanny resemblance to Enchanted's Amy Adams, which is not a bad thing at all, yet she still maintains the same unique kookiness we all enjoyed in her role as Vince Vaughn's equal in The Wedding Crashers. The incredible job on the CGI'd mannequins, done by Lucasfilms' Industrial Light & Magic, is also worth mentioning.\\n\\nYou're not supposed to go into the movie expecting it to be the next epic Titanic love story. You're expecting it to be goofy and sentimental yet genuine and entertaining, and it was all those things.\\n\\nConfessions of a Shopaholic is a rare gem that's worth the guilty swipe of a maximized credit card.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 82680,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  }
+}

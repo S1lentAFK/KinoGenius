@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Eu c\u00e2nd vreau sa fluier, fluier",
+  "url": "https://www.imdb.com/tt1590024/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTQ5NzMyMTg3NF5BMl5BanBnXkFtZTcwMzI2MTMwNA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Chris_Docker",
+    "dateCreated": "2010-06-25",
+    "inLanguage": "English",
+    "heading": "How do you react when someone whistles?",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 6533,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2012-05-18",
+  "keywords": "forced sexual contact,romanian new wave,mother,love,penitentiary",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "George Pistereanu",
+      "url": "https://www.imdb.com/name/nm3778618/"
+    },
+    {
+      "name": "Ada Condeescu",
+      "url": "https://www.imdb.com/name/nm3778527/"
+    },
+    {
+      "name": "Mihai Constantin",
+      "url": "https://www.imdb.com/name/nm0176040/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Florin Serban",
+      "url": "https://www.imdb.com/name/nm2758521/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "C\u00e3t\u00e3lin Mitulescu",
+      "url": "https://www.imdb.com/name/nm0594198/"
+    },
+    {
+      "name": "Florin Serban",
+      "url": "https://www.imdb.com/name/nm2758521/"
+    },
+    {
+      "name": "Andreea Valean",
+      "url": "https://www.imdb.com/name/nm1994414/"
+    }
+  ]
+}

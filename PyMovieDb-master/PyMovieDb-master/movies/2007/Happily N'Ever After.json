@@ -1,0 +1,78 @@
+
+
+{
+  "type": "Movie",
+  "name": "Happily N'Ever After",
+  "url": "https://www.imdb.com/tt0308353/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzA3MTA0Mjk1M15BMl5BanBnXkFtZTcwNTE0NTQ0MQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "jp_011205",
+    "dateCreated": "2007-02-01",
+    "inLanguage": "English",
+    "heading": "Truthful Title",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 11082,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.5
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2007-08-03",
+  "keywords": "pun in title,germany,parody comedy,slimehouse,shrekcore",
+  "duration": "PT1H15M",
+  "actor": [
+    {
+      "name": "Sigourney Weaver",
+      "url": "https://www.imdb.com/name/nm0000244/"
+    },
+    {
+      "name": "Sarah Michelle Gellar",
+      "url": "https://www.imdb.com/name/nm0001264/"
+    },
+    {
+      "name": "Patrick Warburton",
+      "url": "https://www.imdb.com/name/nm0911320/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Paul Bolger",
+      "url": "https://www.imdb.com/name/nm0092959/"
+    },
+    {
+      "name": "Yvette Kaplan",
+      "url": "https://www.imdb.com/name/nm0438394/"
+    },
+    {
+      "name": "Greg Tiernan",
+      "url": "https://www.imdb.com/name/nm0862911/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Moreland",
+      "url": "https://www.imdb.com/name/nm0603668/"
+    },
+    {
+      "name": "Doug Langdale",
+      "url": "https://www.imdb.com/name/nm0486007/"
+    },
+    {
+      "name": "Andre Sikojev",
+      "url": "https://www.imdb.com/name/nm1208548/"
+    }
+  ]
+}

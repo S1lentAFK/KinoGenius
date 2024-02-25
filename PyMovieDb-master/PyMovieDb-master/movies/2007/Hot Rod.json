@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hot Rod",
+  "url": "https://www.imdb.com/tt0787475/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjYwNjA3OTY0Nl5BMl5BanBnXkFtZTcwNDMyNDUzMw@@._V1_.jpg",
+  "description": "Self-proclaimed stuntman Rod Kimble is preparing for the jump of his life - to clear fifteen buses to raise money for his abusive stepfather Frank's life-saving heart operation.",
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Sport"
+  ],
+  "datePublished": "2007-09-28",
+  "keywords": "restaurant,ebenezer scrooge character,falling downhill,nickname as title,two word title",
+  "duration": "PT1H28M",
+  "actor": [
+    {
+      "name": "Andy Samberg",
+      "url": "https://www.imdb.com/name/nm1676221/"
+    },
+    {
+      "name": "Isla Fisher",
+      "url": "https://www.imdb.com/name/nm0279545/"
+    },
+    {
+      "name": "Ian McShane",
+      "url": "https://www.imdb.com/name/nm0574534/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Akiva Schaffer",
+      "url": "https://www.imdb.com/name/nm1676223/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Pam Brady",
+      "url": "https://www.imdb.com/name/nm0103702/"
+    }
+  ],
+  "review": {
+    "author": "j-burke-2",
+    "dateCreated": "2007-08-06",
+    "inLanguage": "English",
+    "heading": "Landmark Achievement in American Cinema",
+    "reviewBody": "If you're looking for THE ground-breaking cinematic achievement this summer, look no further than this hidden gem. This movie is chalk full of cool beans! It is destined to have a long life as a cult-classic. Sissy Spacek plays an extremely strong woman with unending patience and the emotional strength of Hercules. Don't be surprised if she garners a lot of support come Oscar time.\\n\\nOur hero is surrounded by a devoted team of friends that double as his stunt crew. In the spirit of Evel Knievel, each stunt is meticulously worked on until perfected. The characters are well developed and the writers and directors go to great lengths to demonstrate the difficulty in being raised by a step-father and winning his respect, especially when your younger, half-brother is of his blood line. The dramatic tension at times got so thick, I constricted into the fetal position and caught fleeting glimpses between my fingers covering my face.\\n\\nWhen discussion of great directors comes up, the names like Scorcese, Coppola, and Spielberg are bandied about. Well, it is time add the name Akiva Shaffer to the pantheon of Hollywood Heavyweights. The plot twists keep you guessing, until an ending that I just didn't see coming.\\n\\nLet me be the first to congratulate Andy Samberg for his ascension to SuperStardom. He is officially a MegaStar.\\n\\nHonestly, this movie is Napolean dynamite on steroids. My eight-year-old son, my wife, and I loved it. And, I'm not as think as you dumb I am.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 92773,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  }
+}

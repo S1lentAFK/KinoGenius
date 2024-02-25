@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Robot Dreams",
+  "url": "https://www.imdb.com/tt13429870/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzE4ZDlmNzUtY2QyZS00MmZiLWE1ZTgtOTcyNTEzNmNkODEzXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+  "description": "The adventures and misfortunes of Dog and Robot in New York City during the 1980s.",
+  "review": {
+    "author": "Joanna_jo",
+    "dateCreated": "2024-02-15",
+    "inLanguage": "English",
+    "heading": "Delightful film about meaningful friendships",
+    "reviewBody": "The movie touches moving, universal themes such as: the power of connection, the essence of knowing someone who helps you discover the world with new eyes, and the painful absurdities of fate. The animation has beautiful details, rich in color and details, delightfully lit. It's amazing that such a simple style of animation can be so deep and intricate.\n\nThe story is told without any spoken words and in a beautiful minimalist animation, but yet it brings forward such complex emotions. I felt loneliness, excitement, despair, hope, and tears from my heart. In the end, it is making us reflect on our own experiences, reminding us to appreciate the relationships we have had and we will have.\n\nA thoroughly grown-up movie that has something important to say to children too, and a wistful work of animated art.\n\nNow, I wish I had a robot friend.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 3008,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Animation",
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2023-12-06",
+  "keywords": "1980s,based on graphic novel,2d animation,robot,dog",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Ivan Labanda",
+      "url": "https://www.imdb.com/name/nm1705364/"
+    },
+    {
+      "name": "Albert Trifol Segarra",
+      "url": "https://www.imdb.com/name/nm13807015/"
+    },
+    {
+      "name": "Rafa Calvo",
+      "url": "https://www.imdb.com/name/nm15062183/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Pablo Berger",
+      "url": "https://www.imdb.com/name/nm0074311/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Pablo Berger",
+      "url": "https://www.imdb.com/name/nm0074311/"
+    },
+    {
+      "name": "Sara Varon",
+      "url": "https://www.imdb.com/name/nm2848069/"
+    }
+  ]
+}

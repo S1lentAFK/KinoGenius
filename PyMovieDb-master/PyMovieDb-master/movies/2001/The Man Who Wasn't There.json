@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Man Who Wasn't There",
+  "url": "https://www.imdb.com/tt0243133/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjEwMGZkYTgtMTA5Ny00OWFhLTgzMWItYjhhMWUxYTIxNDgwXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_.jpg",
+  "description": "A laconic, chain-smoking barber blackmails his wife's boss and lover for money to invest in dry cleaning, but his plan goes terribly wrong.",
+  "review": {
+    "author": "jhochner",
+    "dateCreated": "2001-10-29",
+    "inLanguage": "English",
+    "heading": "Why you should see this movie",
+    "reviewBody": "It is beautifully and refreshingly unpretentious. It is acted and filmed with grace and delicacy. This is the kind if movie we hope to find while sitting through most of the glitz and superficiality that gets made. Without question worth eight bucks, and two hours of your evening. Score another one for the Coen brothers.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 114474,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2001-10-26",
+  "keywords": "santa rosa california,1940s,neo noir,blackmail,chain smoking",
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Billy Bob Thornton",
+      "url": "https://www.imdb.com/name/nm0000671/"
+    },
+    {
+      "name": "Frances McDormand",
+      "url": "https://www.imdb.com/name/nm0000531/"
+    },
+    {
+      "name": "Michael Badalucco",
+      "url": "https://www.imdb.com/name/nm0045937/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joel Coen",
+      "url": "https://www.imdb.com/name/nm0001054/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joel Coen",
+      "url": "https://www.imdb.com/name/nm0001054/"
+    },
+    {
+      "name": "Ethan Coen",
+      "url": "https://www.imdb.com/name/nm0001053/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Book of Life",
+  "url": "https://www.imdb.com/tt2262227/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkzOTgzNDYzOF5BMl5BanBnXkFtZTgwOTgxMTkyMjE@._V1_.jpg",
+  "description": "Manolo, a young man who is torn between fulfilling the expectations of his family and following his heart, embarks on an adventure that spans three fantastic worlds where he must face his greatest fears.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2014-10-24",
+  "keywords": "mexico,afterlife,day of the dead,death character,mexican folklore",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Diego Luna",
+      "url": "https://www.imdb.com/name/nm0526019/"
+    },
+    {
+      "name": "Zoe Saldana",
+      "url": "https://www.imdb.com/name/nm0757855/"
+    },
+    {
+      "name": "Channing Tatum",
+      "url": "https://www.imdb.com/name/nm1475594/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jorge R. Guti\\u00e9rrez",
+      "url": "https://www.imdb.com/name/nm1509613/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jorge R. Guti\\u00e9rrez",
+      "url": "https://www.imdb.com/name/nm1509613/"
+    },
+    {
+      "name": "Doug Langdale",
+      "url": "https://www.imdb.com/name/nm0486007/"
+    }
+  ],
+  "review": {
+    "author": "Figgy66-915-598470",
+    "dateCreated": "2014-10-24",
+    "inLanguage": "English",
+    "heading": "Spectacular",
+    "reviewBody": "24 October 2014 Film of Choice at The Plaza Dorchester This Morning - The Book of Life. An unusual animation from the stable of Jorge R Gutierrez. Joaquin, Maria and Manolo are best friends who are torn apart when Maria is sent to Europe to calm her wild ways. The two boys are both in love with her and when she returns, they compete for her affections unaware their lives are being controlled by the two Lords of the Underworlds, who have set a wager on the outcome of their love triangle. La Muerta is the mistress of the beautiful and vibrant Land of The Remembered, whilst Xibalba is the discontented ruler of the Land of The Forgotten. The characters were portrayed as wooden puppet style people, yet when they entered the Land of The Remembered they became exquisitely carved skeletons. The animation was amazing. Apart from all the characters in in three lands I found myself avidly watching the backgrounds. The colours were so vibrant and the details were so beautifully worked. This film was set around the Mexican Day of The Dead and the whole feel of it came across as one glorious fiesta. Another animation triumph and a spectacular musical score to match.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 77417,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  }
+}

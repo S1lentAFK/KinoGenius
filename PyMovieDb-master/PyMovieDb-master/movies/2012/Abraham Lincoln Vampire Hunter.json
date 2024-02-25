@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Abraham Lincoln: Vampire Hunter",
+  "url": "https://www.imdb.com/tt1611224/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjY2Mzc0MDA4NV5BMl5BanBnXkFtZTcwOTg5OTcxNw@@._V1_.jpg",
+  "description": "Abraham Lincoln, the 16th President of the United States, discovers vampires are planning to take over the United States. He makes it his mission to eliminate them.",
+  "review": {
+    "author": "Prismark10",
+    "dateCreated": "2014-04-03",
+    "inLanguage": "English",
+    "heading": "Kick ass Lincoln",
+    "reviewBody": "This is what a comedy-action-horror should be like. A preposterous idea mixed with some drama, wit, scares and decent enough CGI. Because of events he saw as a child Lincoln trains to become a vampire hunter with the assistance of Dominic Cooper.\\n\\nHe wants to hunt down Rufus Sewell who is the leader of the pack and before long Sewell plans to lead the South against Lincoln who is now President but not before inflicting another personal tragedy on the Lincoln family.\\n\\nAt least Benjamin Walker did not have to go through some faux type Daniel Day Lewis authenticity for his version of Lincoln. It was wielding axes, swords and other instruments of vampire death.\\n\\nThe action mixes historical fact and fiction with cartoon like action. Its fun although the movie makers might have taken things a tad too seriously in light of the fact that a Spielberg epic on Lincoln was around the corner.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 161054,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Fantasy",
+    "Horror"
+  ],
+  "datePublished": "2012-06-20",
+  "keywords": "vampire hunter,abraham lincoln character,vampire,president,revenge",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Benjamin Walker",
+      "url": "https://www.imdb.com/name/nm0907548/"
+    },
+    {
+      "name": "Rufus Sewell",
+      "url": "https://www.imdb.com/name/nm0001722/"
+    },
+    {
+      "name": "Dominic Cooper",
+      "url": "https://www.imdb.com/name/nm1002641/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Timur Bekmambetov",
+      "url": "https://www.imdb.com/name/nm0067457/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Seth Grahame-Smith",
+      "url": "https://www.imdb.com/name/nm0334381/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Lookout",
+  "url": "https://www.imdb.com/tt0427470/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjkyMzE5Nzg0OV5BMl5BanBnXkFtZTcwNTM3MzU0MQ@@._V1_.jpg",
+  "description": "Chris is a once promising high school athlete whose life is turned upside down following a tragic accident. As he tries to maintain a normal life, he takes a job as a janitor at a bank, where he ultimately finds himself caught up ...",
+  "review": {
+    "author": "jzappa",
+    "dateCreated": "2007-04-01",
+    "inLanguage": "English",
+    "heading": "Non-Formulaic Mixture of Heist Film and Character Drama",
+    "reviewBody": "What was interesting about going to see The Lookout, for me, was the uncertainty with Scott Frank, the screenwriter who makes his directorial debut here. It would be one thing if he were a screenwriter whose work I&apos;ve seen was all original. If his previous screenplays had been great original works, I&apos;d be absolutely sure that he&apos;d be a great director, but because the only films he&apos;s written that I&apos;ve seen have been adaptations of Elmore Leonard novels and a Philip K. Dick story, it was not only the first time I&apos;d see his direction by also the first time I&apos;d experience his own story.\\n\\nI found that the script was great. I enjoy heist films possibly more than any other genre, and even though the heist itself is not so intricate and clever the way I prefer them the premise that sets up the gimmick used in the heist is quite clever. Really though, the film is not about the heist at all. It&apos;s about a very young person whose life is now completely different because of a car wreck that was all his fault. He has short term memory loss and deals with its shortcomings accompanied by horrible feelings of guilt for the deaths of his two friends and the maiming of his girlfriend. The movie at times seems a little uneven, because the makings of a thriller are intercut estrangedly with the makings of a slice-of-life drama. But both sides of the story work and it&apos;s generally fulfilling despite not being so tightly done. The movie is, upon reflection, reminiscent of realist films from the 1970s in its story and directorial style.\\n\\nThe cinematography and editing are adequate, yet strangely, in many scenes, particularly those that take place at the main character&apos;s family&apos;s home and those that takes place at the bank, have great atmosphere, a coziness.\\n\\nWhat I admire about the movie is that it avoids clich\\u00e9s that seem on the very brink of being outrageous displays of them. For instance, there is the friendly airhead patrol cop that stops off at the bank every night to check up on things, bringing doughnuts and all, and we feel as if we know what will happen with him, and even now, one can&apos;t truly say it was or wasn&apos;t expected. The almost unbearably riveting climax, for instance, is for heist movie fans, a near-clich\\u00e9, but wraps up with a fresh and new take on what we would expect. The characters are all inventive actually, and quite realistic.\\n\\nJoseph Gordon-Levitt, a very young face without a name, will perhaps have a name now due to his deep, impressive performance in the title role. Jeff Daniels, however, has reached the point in his career where he steals every scene he is in, a la Michael Caine or Al Pacino, playing the sagacious and outgoing friend. Matthew Goode, playing the lead villain, is also a major plus for the cast. Leave it to an English actor to portray the villain with such a whispering convincing disposition that even we almost like him at first even though we are in on his scheme from the beginning. Greg Dunham, who plays another would-be clich\\u00e9, the stoic sunglassed killer of only about five words in his vocabulary, avoids clichehood by somehow drawing such intense hatred from the audience that we are spared nothing by his cold and ruthless behavior.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 60422,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2007-11-02",
+  "keywords": "female nudity,amnesia,sex,casual sex,seduction",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Joseph Gordon-Levitt",
+      "url": "https://www.imdb.com/name/nm0330687/"
+    },
+    {
+      "name": "Jeff Daniels",
+      "url": "https://www.imdb.com/name/nm0001099/"
+    },
+    {
+      "name": "Matthew Goode",
+      "url": "https://www.imdb.com/name/nm0328828/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Scott Frank",
+      "url": "https://www.imdb.com/name/nm0291082/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Scott Frank",
+      "url": "https://www.imdb.com/name/nm0291082/"
+    }
+  ]
+}

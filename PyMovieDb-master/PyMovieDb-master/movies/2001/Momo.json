@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Momo",
+  "url": "https://www.imdb.com/tt0091537/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzA3OTYxZTctMjJjYS00ZWRlLWExY2UtODVjNGI5NDgyYjNiXkEyXkFqcGdeQXVyMTAyNDU2NDM@._V1_.jpg",
+  "description": "In the village of Momo the pace of time goes very slowly. Nobody is bothering about stress but everyone has time to chat and rest - until the day the grey men arrive. With a great selling strategy they offer the people an account ...",
+  "review": {
+    "author": "slowcando",
+    "dateCreated": "2015-04-28",
+    "inLanguage": "English",
+    "heading": "poor DVD release may have cost it a point",
+    "reviewBody": "Note: this review is from my perspective as a grown man seeing Momo for the first time. Kids may not notice my criticisms and thus may enjoy the film regardless.\\n\\nI was looking forward to this as I recently watched Never-Ending Story for the first time in 20+ years...in gloriously-restored bluray. 8/10 classic stuff! I&apos;ve never seen Momo before, and now having watched it I can understand how it didn&apos;t quite capture the imagination of viewers back then. Michael Ende again has some fantastic ideas, with the odd nugget of wisdom too, but Momo&apos;s protagonist, at least in the film version, offers nothing apart from pretty doe eyes and a sweet smile (which is the point, I know...but on film it&apos;s not terribly convincing).\\n\\nAdd that to the rather tame threat from the incoherent/abstract/slapstick/baldy antagonists, a cheesy & treacly support cast (among them Leopoldo Trieste&apos;s Beppo channeling Geppetto from Pinocchio), odd jarring pacing in the first half & forgettable music and you&apos;re left thinking this is very much the poorer partner when compared with Never-Ending Story: its antagonist - The Nothing - was abstract too, but it was demonstrably stronger than those &apos;Two Big Strong Hands&apos;, and utilised a certain scary wolf to level-up the jeopardy factor (Not to mention the more memorable characters and engaging music).\\n\\nThe Momo DVD I&apos;ve got (EAN 4006680017280) offers awful quality: the image looks like an old VHS copy with the sound poorly mixed. The dialogue is overdubbed...badly. You can hear the studio acoustics. The sync is all over the place too, adding to the detachment. I had a quick gander online and found some lengthy clips in English...with John Huston sounding like John Huston and generally the lip-syncing looking natural (tho&apos; Momo sounds older than the 10 years old Radost Bokel, more like a grown woman doing a twee voice).\\n\\nSo what language is this film originally in? According to IMDb&apos;s page it is German so they just did a very poor job of the overdubbing, while the English crew evidently did a good job (with much better audio-mixing too). John Huston tho&apos; is not German, so his original audio must be the English mix, and someone I watched it with insisted the German dub for M\\u00fcller-Stahl&apos;s character wasn&apos;t his own voice, so perhaps he did it in English originally.\\n\\nThis lazy cheap DVD release has potentially cost some key enjoyment out of the experience, as aside from my other criticisms I quite liked the concept: I appreciate it would work much better in book form, but as a follower of &apos;Die Strebe Nach Langsamkeit&apos; myself, Momo&apos;s special power felt warmly familiar to me :) - and a few visual shots were very nicely done - strong plus points which earn it a solid 6/10.\\n\\nSaying that, even if Momo had a bluray-remaster as superb as Never-Ending Story, with ambiently-mixed & timed dialogue, it would still reveal itself as inferior to Petersen&apos;s effort, purely as a film experience. Seems Petersen was more aware of his (film) audience whereas the makers of Momo perhaps were too tied to the source material (thanks to Ende himself being more involved).\\n\\nRecommended only with reservations: at least make sure you&apos;re watching a good-quality release with the option for both languages (and subs where necessary).",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 2065,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": null,
+  "genre": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "1986-10-24",
+  "keywords": "character name as title,one word title,stopped time,time freeze,foreign language adaptation",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Radost Bokel",
+      "url": "https://www.imdb.com/name/nm0092573/"
+    },
+    {
+      "name": "Mario Adorf",
+      "url": "https://www.imdb.com/name/nm0000728/"
+    },
+    {
+      "name": "Armin Mueller-Stahl",
+      "url": "https://www.imdb.com/name/nm0000090/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Johannes Schaaf",
+      "url": "https://www.imdb.com/name/nm0769421/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Johannes Schaaf",
+      "url": "https://www.imdb.com/name/nm0769421/"
+    },
+    {
+      "name": "Rosemarie Fendel",
+      "url": "https://www.imdb.com/name/nm0271729/"
+    },
+    {
+      "name": "Michael Ende",
+      "url": "https://www.imdb.com/name/nm0256779/"
+    }
+  ]
+}

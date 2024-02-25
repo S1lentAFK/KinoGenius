@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Thor: The Dark World",
+  "url": "https://www.imdb.com/tt1981115/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "jojunno",
+    "dateCreated": "2013-10-30",
+    "inLanguage": "English",
+    "heading": "Pure Enjoyment!",
+    "reviewBody": "Occasionally in life there are those moments of unutterable fulfillment which cannot be completely explained by those symbols called words. This sequel is one such moment. I do need to see it again. In terms of pure enjoy-ability, I put it top 3 of all sequels that I have enjoyed.\\n\\nWhat I really liked...\\n\\n-Every single character gets a moment to shine and every single actor cast in these parts are perfect. \\n\\n-The comedy is perfect. It&apos;s such a fine balance overall and everything works because it&apos;s very subtle and fits in with certain circumstances. \\n\\n-Some very tender emotional scenes. I won&apos;t spoil anything with specifics. \\n\\n-Some superb action and what could very well be award winning special effects. \\n\\n-All characters interactions are great and handled very well. This is a fantasy story that really cares about character first and it shows all the way through. Even Natalie Portman&apos;s Jane feel more fleshed out than she did in the original film. \\n\\n-The set pieces and other realms talked about in the first are seen here and are beautiful and well done. Asgard was even better believe it or not. \\n\\n-The mid-credit and end credit scenes, both cool. Make sure you stay for both.\\n\\nMarvel hit a pure home run with this endeavor. This film works because of the great cast and the fact that they took this subject matter seriously but remember to have fun. Chris Hemsworth was again perfect. I thoroughly enjoyed this movie.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 720086,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "2013-10-30",
+  "keywords": "superhero action,elf,open ended,end of the world,adopted brother",
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "Chris Hemsworth",
+      "url": "https://www.imdb.com/name/nm1165110/"
+    },
+    {
+      "name": "Natalie Portman",
+      "url": "https://www.imdb.com/name/nm0000204/"
+    },
+    {
+      "name": "Tom Hiddleston",
+      "url": "https://www.imdb.com/name/nm1089991/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Alan Taylor",
+      "url": "https://www.imdb.com/name/nm0851930/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Christopher L. Yost",
+      "url": "https://www.imdb.com/name/nm1236653/"
+    },
+    {
+      "name": "Christopher Markus",
+      "url": "https://www.imdb.com/name/nm1321655/"
+    },
+    {
+      "name": "Stephen McFeely",
+      "url": "https://www.imdb.com/name/nm1321656/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Gedo senki",
+  "url": "https://www.imdb.com/tt0495596/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGFlN2FhYTktZGYzNi00MzllLWFlOTAtY2ExNjRjZjhkZWM2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "description": "In a mythical land, a man and a young boy investigate a series of unusual occurrences.",
+  "review": {
+    "author": "kichiverde",
+    "dateCreated": "2006-08-01",
+    "inLanguage": "English",
+    "heading": "Like all Ghibli films, something worth watching",
+    "reviewBody": "After watching this film I was pleased with the overall feel and look the production. Most notably I was impressed with the studio&apos;s visual creation of Earthsea. While the artistry and animation quality does not entirely measure up to other recent Ghibli studio films, I felt it did create a rich and colorful setting in which the story unfolds. A solid score also helps to shape the vibrant world that the movie conveys. However, I wouldn&apos;t consider all this to be a faithful representation of Ursula k. Le Guin&apos;s literary Earthsea, but rather something unique on to itself. One thing in particular that I think separates the film setting from that of the books&apos; is the absence of the sea. I&apos;m not saying its not there, just that it seems to mostly be in the background. \n\nAs for the story I don&apos;t think it stands out as anything great. It was limited from the start. The movie like the book is a single episode in a much larger tale. In no way could it possibly encompass the magnitude of the Earthsea series, let alone the main events in The Farthest Shore. It would simply be too much to present in a canvass of its length. As a result It lacks the epic feel of Princess Mononoke or the closure that comes at the end of Spirited Away. In other respects though, the film borrows heavily from Ghibli&apos;s previous works, mainly with the characters. They are shadows of former Ghibli creations, but due to their interaction and set of circumstances they retain some originality. I might also add that they come off as serious, and are far removed from the playful personalities that give other Ghibli films their charm. This said they still manage to play out their given roles and drive the story forward. From beginning to end the film holds up in large part because the setting never loses its feel.\n\nI enjoyed this picture in spite of its flaws, again because of it&apos;s look and feel. For once I could see winged dragons clash and wizards face off in a Ghibli film. In my opinion Goro Miyazaki did a decent job bringing it all to life. At the same time, I hope he will learn from this experience and strive to do better next time. After my seeing Gedo Senki he has my support.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 43709,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "2006-07-29",
+  "keywords": "studio ghibli,magic,wizard,anime animation,dragon",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Timothy Dalton",
+      "url": "https://www.imdb.com/name/nm0001096/"
+    },
+    {
+      "name": "Willem Dafoe",
+      "url": "https://www.imdb.com/name/nm0000353/"
+    },
+    {
+      "name": "Mariska Hargitay",
+      "url": "https://www.imdb.com/name/nm0002127/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gorô Miyazaki",
+      "url": "https://www.imdb.com/name/nm2066439/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ursula K. Le Guin",
+      "url": "https://www.imdb.com/name/nm0494372/"
+    },
+    {
+      "name": "Gorô Miyazaki",
+      "url": "https://www.imdb.com/name/nm2066439/"
+    },
+    {
+      "name": "Keiko Niwa",
+      "url": "https://www.imdb.com/name/nm2146668/"
+    }
+  ]
+}

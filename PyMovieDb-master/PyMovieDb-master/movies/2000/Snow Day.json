@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Snow Day",
+  "url": "https://www.imdb.com/tt0184907/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTE3M2Y4YjQtNDQzMS00NWYzLTkyODUtNGFkZmY0MTk4NjE3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "When a school in upstate New York is snowed in, a group of students hi-jack a plow to keep the school closed.",
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2000-04-21",
+  "keywords": "girl, kiss, voice over narration, small town, snowplow",
+  "duration": "PT1H29M",
+  "rating": {
+    "ratingCount": 13655,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "review": {
+    "author": "upsidedown_i",
+    "dateCreated": "2005-12-10",
+    "inLanguage": "English",
+    "heading": "Underrated, funny movie",
+    "reviewBody": "I first saw this movie at my cottage in 2001 because my little cousins begged to rent it. I groaned because it looked like any other Family Channel movie with cheesy lines, etc. However, I was very wrong. I enjoyed it thoroughly. It was recently advertised to be shown on TV again, and I felt nostalgic about it. But, I couldn't help thinking that since I was about 13 when I first saw it, my tastes might have changed, and I would hate it now. Again, I was definitely wrong.\n\nThis movie can appeal to any age group, because it has plot lines involving a wide range of ages. All the plot lines offer something funny and cute, even if sometimes unbelievable. But with a movie like this, you have to be able to suspend your grasp on reality for a couple hours.\n\nIf you're looking for a good, light movie to pass some time with, you will not be disappointed by this one. I recommend it to anyone.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Chevy Chase",
+      "url": "https://www.imdb.com/name/nm0000331/"
+    },
+    {
+      "name": "Mark Webber",
+      "url": "https://www.imdb.com/name/nm0916406/"
+    },
+    {
+      "name": "Schuyler Fisk",
+      "url": "https://www.imdb.com/name/nm0004922/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chris Koch",
+      "url": "https://www.imdb.com/name/nm0462277/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Will McRobb",
+      "url": "https://www.imdb.com/name/nm0574509/"
+    },
+    {
+      "name": "Chris Viscardi",
+      "url": "https://www.imdb.com/name/nm0899531/"
+    }
+  ]
+}

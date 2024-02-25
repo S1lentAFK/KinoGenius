@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Dan in Real Life",
+  "url": "https://www.imdb.com/tt0480242/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA2Nzc1NzQ1OV5BMl5BanBnXkFtZTcwOTE0MDE1MQ@@._V1_.jpg",
+  "description": "A widower finds out the woman he fell in love with is his brother's girlfriend.",
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2008-01-11",
+  "keywords": "teenage girl, game, young girl, gymnasium, new york city",
+  "duration": "PT1H38M",
+  "rating": {
+    "ratingCount": 106597,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "review": {
+    "author": "schmidteren",
+    "dateCreated": "2008-03-09",
+    "inLanguage": "English",
+    "heading": "It could be Dan in real life",
+    "reviewBody": "This is my review of Dan in real life which i've just seen.\n\nThe movie was in my eyes very realistic, and I think that is a big plus. I can't recollect that I've seen a movie where I felt that what I saw was real like I did with this movie. The acting was great, Steve Carrol gives the character so much, the awkwardness that he brings to the person in some of the scenes are just great, you feel like it was happening to you, and it probably could, and we are all familiar with the situations which are seen in this movie.\n\nThe movie also had some great Hilarious moments. The movie was not made to be all fun, it had a good script, a nice well written story, where you at no time where confused about anything. The plot was straight out, and there was no time you where like oh my god what is happening now. In my opinion was the movie excellent :D:) And I loved the last scene, where he finish it with the best quote, and a really helpful one, which I would try thinking of from time to time in my life, a very good advice. And I think that that the movie had a nice message to send out to everyone, and it did it in a very good and well done way. Last words. I think that especially the connection between Steve Carell and Juliette Binoche was just fantastic. The emotions between them where very realistic and sweet. I rate this movie 9 out of 10, VERY close to a 10\n\n:) (:\n\nEdit: I bumped it up to 10 after rewatching several times. It's a movie I really like coming back to, so I think it deserves a 10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "actor": [
+    {
+      "name": "Steve Carell",
+      "url": "https://www.imdb.com/name/nm0136797/"
+    },
+    {
+      "name": "Juliette Binoche",
+      "url": "https://www.imdb.com/name/nm0000300/"
+    },
+    {
+      "name": "Dane Cook",
+      "url": "https://www.imdb.com/name/nm0176981/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Hedges",
+      "url": "https://www.imdb.com/name/nm0373282/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Pierce Gardner",
+      "url": "https://www.imdb.com/name/nm0307070/"
+    },
+    {
+      "name": "Peter Hedges",
+      "url": "https://www.imdb.com/name/nm0373282/"
+    }
+  ]
+}

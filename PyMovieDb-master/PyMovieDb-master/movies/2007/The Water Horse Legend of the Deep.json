@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Water Horse",
+  "url": "https://www.imdb.com/tt0760329/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc1MjcxMjg5OV5BMl5BanBnXkFtZTcwNDE1NzYzMw@@._V1_.jpg",
+  "description": "A lonely boy discovers a mysterious egg that hatches a sea creature of Scottish legend.",
+  "review": {
+    "author": "Dragoneyed363",
+    "dateCreated": "2008-04-15",
+    "inLanguage": "English",
+    "heading": "A nice little take on the tale",
+    "reviewBody": "When I picked this movie up I thought it was just going to be exactly like all these new children&apos;s movies coming out where they focus on stupid stuff like overrated sarcasm and farting, but it was actually a good little film. This movie was entertaining and I thought that there was some stuff that could be changed about it, but I still cut some slack to all kid&apos;s movies, because they are meant for kids and they sometimes make stuff in the movie unbelievable. Anyway, this is a nice kid&apos;s film and from my point of view, when I got through watching it I thought of it more as something an adult could be entertained by rather than a kid, because there were some parts where it would have gotten boring to the kid watching or even kind of scary the kid watching! So, I think this is one of the best new kid&apos;s films that has been released so far and I think you should see it for yourself if you don&apos;t believe me because it&apos;s harmless, charming fun.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 42840,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "U",
+  "genre": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2008-02-08",
+  "keywords": "scottish highlands,bathtub,war widow,single mother,scotland",
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "Emily Watson",
+      "url": "https://www.imdb.com/name/nm0001833/"
+    },
+    {
+      "name": "David Morrissey",
+      "url": "https://www.imdb.com/name/nm0607375/"
+    },
+    {
+      "name": "Alex Etel",
+      "url": "https://www.imdb.com/name/nm1375020/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jay Russell",
+      "url": "https://www.imdb.com/name/nm0751221/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Nelson Jacobs",
+      "url": "https://www.imdb.com/name/nm0414608/"
+    },
+    {
+      "name": "Dick King-Smith",
+      "url": "https://www.imdb.com/name/nm0455404/"
+    }
+  ]
+}

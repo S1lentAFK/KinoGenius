@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Hobbit: An Unexpected Journey",
+  "url": "https://www.imdb.com/tt0903624/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_.jpg",
+  "description": "A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home, and the gold within it from the dragon Smaug.",
+  "contentRating": "12A",
+  "genre": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "2012-12-13",
+  "keywords": "wizard,hobbit,dragon,orc,sword and sorcery",
+  "duration": "PT2H49M",
+  "actor": [
+    {
+      "name": "Martin Freeman",
+      "url": "https://www.imdb.com/name/nm0293509/"
+    },
+    {
+      "name": "Ian McKellen",
+      "url": "https://www.imdb.com/name/nm0005212/"
+    },
+    {
+      "name": "Richard Armitage",
+      "url": "https://www.imdb.com/name/nm0035514/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Jackson",
+      "url": "https://www.imdb.com/name/nm0001392/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Fran Walsh",
+      "url": "https://www.imdb.com/name/nm0909638/"
+    },
+    {
+      "name": "Philippa Boyens",
+      "url": "https://www.imdb.com/name/nm0101991/"
+    },
+    {
+      "name": "Peter Jackson",
+      "url": "https://www.imdb.com/name/nm0001392/"
+    }
+  ],
+  "review": {
+    "author": "auuwws",
+    "dateCreated": "2020-12-20",
+    "inLanguage": "English",
+    "heading": "The Hobbit: An Unexpected Journey",
+    "reviewBody": "A very good start to the series. Very sensitive for the rest of the process, even though the movie was slow for the first half hour, it didn't affect my experience that much. The story is fun and interesting. Most of the film's protagonists were fun and watching Gandalf bring back memories of The Lord of the Rings. Filming and directing dazzles you and makes you wish to live in the world of cinema, especially in the Elf area. Although the film is not at the level of The Lord of the Rings, it is still excellent.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 866957,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  }
+}

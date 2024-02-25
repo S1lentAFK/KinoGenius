@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Something's Gotta Give",
+  "url": "https://www.imdb.com/tt0337741/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODYyNmRlNDMtYzg1Zi00NzlhLWI4ZDMtZWUwOTQzMDZiYTQyXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "dfranzen70",
+    "dateCreated": "2004-04-07",
+    "inLanguage": "English",
+    "heading": "Kids! Love nicely!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 128345,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2004-02-06",
+  "keywords": "clothed male naked female scene,female full frontal nudity,embarrassing female nudity,playboy,mouth to mouth resuscitation",
+  "duration": "PT2H8M",
+  "actor": [
+    {
+      "name": "Jack Nicholson",
+      "url": "https://www.imdb.com/name/nm0000197/"
+    },
+    {
+      "name": "Diane Keaton",
+      "url": "https://www.imdb.com/name/nm0000473/"
+    },
+    {
+      "name": "Keanu Reeves",
+      "url": "https://www.imdb.com/name/nm0000206/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Nancy Meyers",
+      "url": "https://www.imdb.com/name/nm0583600/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nancy Meyers",
+      "url": "https://www.imdb.com/name/nm0583600/"
+    }
+  ]
+}

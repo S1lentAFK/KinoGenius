@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Much Ado About Nothing",
+  "url": "https://www.imdb.com/tt0107616/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2Q3YTU4OTgtZTc0My00YmY1LWJmOTQtMmMwNGE2ZjBmNmIxXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg",
+  "description": "Young lovers, and soon to wed, Hero and Claudio conspire to get verbal sparring partners and confirmed singles, Benedick and Beatrice, to wed as well.",
+  "review": {
+    "author": "Spleen",
+    "dateCreated": "1999-08-17",
+    "inLanguage": "English",
+    "heading": "Shakespeare at his most exhilarating",
+    "reviewBody": "Be honest: does the idea of a Shakespearean joke make your heart sink a little? Do you think of obscure, lowbrow Elizabethan humour that MAYBE someone was kind enough to explain in a footnote?\n\nCertainly the comedies are harder to stage, but when they're well done ... One of the most exhilarating things about Shakespeare is the certain knowledge that no character will ever express himself poorly. Well, characters like Dogberry do, in a sort of a way, but that's deliberately done for comic effect and doesn't count. No character is ever thwarted by a lack of expressive power. Whenever Benedick must plead his case, you know that he will summon up all the eloquence he needs; and whenever Beatrice insults anyone, you know that she will summon up all the venom and wit SHE needs. In some ways it's easier to appreciate this in a comedy when the plot is, reduced to its essence, much ado about nothing.\n\nNo film director working today can approach Branagh when it comes to presenting Shakespeare cleanly and clearly, in a way that lets us participate in this verbal delight. This particular film is actually funny, as well as verbally delightful. It's also visually delightful - it has an attractive cast (Kate Beckinsale plays one of Shakespeare's ciphers but makes us understand why people fell in love with her), a sunny Tuscan landscape and a long tracking shot at the end that has to be seen to be believed. Performances are all good (other comments here have convinced me that even Keanu Reeves fits into his role). Comedy or not, this is the best Shakespeare film in years and is a candidate for being the best of all time.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 51538,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "1993-08-27",
+  "keywords": "shakespeare's much ado about nothing,mischief,battle of wits,false accusation,overhearing",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Kenneth Branagh",
+      "url": "https://www.imdb.com/name/nm0000110/"
+    },
+    {
+      "name": "Emma Thompson",
+      "url": "https://www.imdb.com/name/nm0000668/"
+    },
+    {
+      "name": "Keanu Reeves",
+      "url": "https://www.imdb.com/name/nm0000206/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kenneth Branagh",
+      "url": "https://www.imdb.com/name/nm0000110/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William Shakespeare",
+      "url": "https://www.imdb.com/name/nm0000636/"
+    },
+    {
+      "name": "Kenneth Branagh",
+      "url": "https://www.imdb.com/name/nm0000110/"
+    }
+  ]
+}

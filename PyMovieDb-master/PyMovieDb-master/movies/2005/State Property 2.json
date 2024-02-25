@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "State Property 2",
+  "url": "https://www.imdb.com/tt0403537/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NjIzNDgyN15BMl5BanBnXkFtZTcwMTUxNzgyMQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "itssosublime",
+    "dateCreated": "2007-07-08",
+    "inLanguage": "English",
+    "heading": "Why musicians should stick to music",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 1534,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Musical",
+    "Action",
+    "Crime"
+  ],
+  "datePublished": "2005-04-13",
+  "keywords": "hood,doggystyle sex,miniskirt,reference to cabbage patch dolls,philadelphia pennsylvania",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Beanie Sigel",
+      "url": "https://www.imdb.com/name/nm0797421/"
+    },
+    {
+      "name": "N.O.R.E.",
+      "url": "https://www.imdb.com/name/nm1099891/"
+    },
+    {
+      "name": "Damon Dash",
+      "url": "https://www.imdb.com/name/nm0201965/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Damon Dash",
+      "url": "https://www.imdb.com/name/nm0201965/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Blue Moreno",
+      "url": "https://www.imdb.com/name/nm0089525/"
+    },
+    {
+      "name": "Damon Dash",
+      "url": "https://www.imdb.com/name/nm0201965/"
+    }
+  ]
+}

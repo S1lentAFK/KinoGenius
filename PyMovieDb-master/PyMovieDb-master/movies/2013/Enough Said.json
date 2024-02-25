@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Enough Said",
+  "url": "https://www.imdb.com/tt2390361/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI2MjIwMDk2Ml5BMl5BanBnXkFtZTcwNTQ1MzQ5OQ@@._V1_.jpg",
+  "description": "A divorced woman who decides to pursue the man she's interested in learns he's her new friend's ex-husband.",
+  "review": {
+    "author": "freemanpatrick7",
+    "dateCreated": "2013-10-06",
+    "inLanguage": "English",
+    "heading": "Much better than box office will reflect",
+    "reviewBody": "Considering that James Gandolfini is dead now and we'll never get any more from him I would have seen this movie if it was a $300 million bankbuster about a drunk Indian with a dead bird on his head. Thankfully it wasn't.\\n\\nYou never really know how good an actor is until you see him (or her) do something completely different than what you're used to. Gandolfini was incredible in this role, making you forget Tony Soprano or anything else he's done. He completely loses himself in the role.\\n\\nJulia Louis-Dreyfus, I haven't seen since Seinfeld so I'm not as familiar with all her talents but this character definitely wasn't Elaine Bennis. \\n\\nIf you're tired of all the schlock Hollywood has been pumping out the past couple years and would just like some good old fashioned entertainment then this is the movie to see.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 65886,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2013-10-18",
+  "keywords": "empty nest syndrome,united states of america,falling in love,discomfort,embarrassment",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Julia Louis-Dreyfus",
+      "url": "https://www.imdb.com/name/nm0000506/"
+    },
+    {
+      "name": "James Gandolfini",
+      "url": "https://www.imdb.com/name/nm0001254/"
+    },
+    {
+      "name": "Catherine Keener",
+      "url": "https://www.imdb.com/name/nm0001416/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Nicole Holofcener",
+      "url": "https://www.imdb.com/name/nm0392237/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nicole Holofcener",
+      "url": "https://www.imdb.com/name/nm0392237/"
+    }
+  ]
+}

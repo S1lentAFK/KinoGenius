@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Road to Paloma",
+  "url": "https://www.imdb.com/tt2386285/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYxOTAyOTI3Ml5BMl5BanBnXkFtZTgwOTg3MzQ3MTE@._V1_.jpg",
+  "description": "Wolf, a Native American on the run after avenging his mother's murder, flees across the desolate American West on his motorcycle, where he'll discover that justice has a cost.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2021-02-07",
+    "inLanguage": "English",
+    "heading": "Momoa's biker flick",
+    "reviewBody": "Robert Wolf (Jason Momoa) is a native American from the Mojave reservation. He's wanted by the law after killing his mother's rapist. He is joined by unstable fellow rider Cash.\n\nJason Momoa is the star, the director, and also co-wrote the script. He has basically made a 70's biker movie, probably inspired by Easy Rider. It's not bad but I wouldn't call it great. It has some interesting moments but it doesn't have a real direction. In a way, that's the movie and the road trip. There are interesting sections like the bare knuckle fight and carrying the rape victim with flares. It does need to show a snippet of the inciting killing incident at the start of the movie. It's missing that and the movie struggles to get into gear at the beginning. If I had to dissect Momoa's abilities, he's a charismatic lead and his directing style is functional biker flick. There is a bit of art to his work but nothing exceptional. The writing is the one main aspect lacking and quite frankly, one can only guess at what he actually wrote for this movie. Next time, he should get a better writer to polish off his script.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 5474,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2014-07-11",
+  "keywords": "strip bar,place in title,tank top,cigar smoking,man wears a tank top",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Jason Momoa",
+      "url": "https://www.imdb.com/name/nm0597388/"
+    },
+    {
+      "name": "Robert Homer Mollohan",
+      "url": "https://www.imdb.com/name/nm1855099/"
+    },
+    {
+      "name": "Lisa Bonet",
+      "url": "https://www.imdb.com/name/nm0000956/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jason Momoa",
+      "url": "https://www.imdb.com/name/nm0597388/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jason Momoa",
+      "url": "https://www.imdb.com/name/nm0597388/"
+    },
+    {
+      "name": "Robert Homer Mollohan",
+      "url": "https://www.imdb.com/name/nm1855099/"
+    },
+    {
+      "name": "Jonathan Hirschbein",
+      "url": "https://www.imdb.com/name/nm1272009/"
+    }
+  ]
+}

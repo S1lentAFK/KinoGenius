@@ -1,0 +1,75 @@
+
+
+{
+  "type": "Movie",
+  "name": "Indiana Jones and the Kingdom of the Crystal Skull",
+  "url": "https://www.imdb.com/tt0367882/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmY5ZTk3ZDMtZjA1MS00NzU4LTk5ZDItYmNhOTkxMGYxMjRlXkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_.jpg",
+  "description": "Indiana Jones becomes entangled in a Soviet plot to uncover the secret behind mysterious artifacts known as the Crystal Skulls.",
+  "review": {
+    "author": "Marshall-D-Teach",
+    "dateCreated": "2020-03-06",
+    "inLanguage": "English",
+    "heading": "Indiana Jones",
+    "reviewBody": "Many will definitely argue this addition to the 'Indiana Jones' saga was unnecessary and somewhat confusing. But as another film, you can't deny Spielberg's crisp direction and Harrison Ford's slick leading performance. Kingdom of the Crystal Skull is visually a blockbuster success, though potholes could be avoided in its story and plot, it's still stable nonetheless.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 488841,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2008-05-22",
+  "keywords": [
+    "crystal skull",
+    "area 51",
+    "sequel",
+    "alien",
+    "colon in title"
+  ],
+  "duration": "PT2H2M",
+  "actor": [
+    {
+      "name": "Harrison Ford",
+      "url": "https://www.imdb.com/name/nm0000148/"
+    },
+    {
+      "name": "Cate Blanchett",
+      "url": "https://www.imdb.com/name/nm0000949/"
+    },
+    {
+      "name": "Shia LaBeouf",
+      "url": "https://www.imdb.com/name/nm0479471/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven Spielberg",
+      "url": "https://www.imdb.com/name/nm0000229/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Koepp",
+      "url": "https://www.imdb.com/name/nm0462895/"
+    },
+    {
+      "name": "George Lucas",
+      "url": "https://www.imdb.com/name/nm0000184/"
+    },
+    {
+      "name": "Jeff Nathanson",
+      "url": "https://www.imdb.com/name/nm0622288/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The One",
+  "url": "https://www.imdb.com/tt0267804/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjk3ZjYxNDUtZDNhZi00ODU0LThlYjYtNWU4M2I2NDRmMjE1XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "mstomaso",
+    "dateCreated": "2006-03-14",
+    "inLanguage": "English",
+    "heading": "Highlander with Kung Fu and alternate dimensions!",
+    "reviewBody": "Jet Li and Jet Li star in this goofy sci-fi flick about a power-hungry sociopath Yulaw (Jet Li) who goes dimension-hopping on a killing spree focused on his alternate universe counterparts. As Yulaw finally comes to what I must assume is our universe to kill the last remaining version of himself - Gabriel Law - both his and his counterpart's strength, intelligence and agility have been increased to superhuman levels by the deaths (quickenings?) of previous counterparts. Predictably, the pace is furious and deadly. Many people are caught up in the violence of the ensuing battle, and , of course, since the honest, hard-working and altogether decent Gabe Law appears to be responsible for all of it, he becomes a wanted fugitive. Besides being pursued by this earth's police, both men are also sought by an inter-dimensional police force seeking to imprison Yulaw on a far-off prison planet.\\n\\nGabe Law is a likable character who works as a prison guard and has a loving wife. The few minutes of character development permitted by the furious pace of this film are what makes it work. And although the plot seems a bit like a pastiche of recent sci-fi clich\\u00e9s, at least the combination of clich\\u00e9s assembled for The One is original.\\n\\nRecommended for sci-fi action and martial arts fans.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 95684,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "datePublished": "2002-04-12",
+  "keywords": "criminal,convicted criminal,law enforcement officer,multiverse agent,running from police",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Jet Li",
+      "url": "https://www.imdb.com/name/nm0001472/"
+    },
+    {
+      "name": "Carla Gugino",
+      "url": "https://www.imdb.com/name/nm0001303/"
+    },
+    {
+      "name": "Delroy Lindo",
+      "url": "https://www.imdb.com/name/nm0005148/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Wong",
+      "url": "https://www.imdb.com/name/nm0939128/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Glen Morgan",
+      "url": "https://www.imdb.com/name/nm0604688/"
+    },
+    {
+      "name": "James Wong",
+      "url": "https://www.imdb.com/name/nm0939128/"
+    }
+  ]
+}

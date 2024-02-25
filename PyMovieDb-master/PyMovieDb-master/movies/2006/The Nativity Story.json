@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Nativity Story",
+  "url": "https://www.imdb.com/tt0762121/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc0MDM4MzM4Nl5BMl5BanBnXkFtZTcwNTczNzUzMQ@@._V1_.jpg",
+  "description": "A drama that focuses on the period in Mary and Joseph's life where they journeyed to Bethlehem for the birth of Jesus.",
+  "review": {
+    "author": "bargen",
+    "dateCreated": "2006-11-17",
+    "inLanguage": "English",
+    "heading": "Finally, a Christmas film without Santa Clause.",
+    "reviewBody": "While in Hawaii recently, I had a chance to preview The Nativity Story, in its complete form, which, surprisingly, turned out to be quite a good film. I guess as a Christian, I am going to be seen as biased. And that's fair, however as a filmmaker as well, I will say that the majority of Christian or Christian based films I have seen are quite simply lower grade movies. That's why, this one in particular was very refreshing.\\n\\nThe story itself of course I was familiar with having grown up hearing it every Christmas time. And, surprisingly, I think it translates very well onto the screen. I was surprised at the humour they were able to bring out (mainly with the Three Kings storyline) and I was actually quite impressed with the movie in general. It was nice to see actors of the correct age and race. Jesus was not white, despite what some may say.\\n\\nThe movie was not perfect, few are. It was obviously PG friendly as there were a few things that were toned down (I guess babies in that day didn't have umbilical cords), but do we really need to see that? No, not really. All in all it was a very enjoyable film that hopefully makes its way as a holiday classic for years to come.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 12318,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2006-12-08",
+  "keywords": "palestine,nazareth israel,star,f rated,year 1",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Keisha Castle-Hughes",
+      "url": "https://www.imdb.com/name/nm1095720/"
+    },
+    {
+      "name": "Shohreh Aghdashloo",
+      "url": "https://www.imdb.com/name/nm0013037/"
+    },
+    {
+      "name": "Oscar Isaac",
+      "url": "https://www.imdb.com/name/nm1209966/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Catherine Hardwicke",
+      "url": "https://www.imdb.com/name/nm0362566/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mike Rich",
+      "url": "https://www.imdb.com/name/nm0723692/"
+    }
+  ]
+}

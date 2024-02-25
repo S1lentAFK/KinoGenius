@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Love Don't Cost a Thing",
+  "url": "https://www.imdb.com/tt0337592/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDlkNjc2NzQtNGI5Ny00ZjNmLWJjYzktMTk0MDUyZmVkMWRhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "NatalieShaak",
+    "dateCreated": "2007-04-22",
+    "inLanguage": "English",
+    "heading": "Remake",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 9301,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Romance",
+    "Drama"
+  ],
+  "datePublished": "2003-12-12",
+  "keywords": "remake,daydreaming,pervert,jealousy,popularity",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Nick Cannon",
+      "url": "https://www.imdb.com/name/nm0134244/"
+    },
+    {
+      "name": "Christina Milian",
+      "url": "https://www.imdb.com/name/nm0587396/"
+    },
+    {
+      "name": "Jordan Burg",
+      "url": "https://www.imdb.com/name/nm1491136/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Troy Byer",
+      "url": "https://www.imdb.com/name/nm0004752/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Swerdlick",
+      "url": "https://www.imdb.com/name/nm0842464/"
+    },
+    {
+      "name": "Troy Byer",
+      "url": "https://www.imdb.com/name/nm0004752/"
+    }
+  ]
+}

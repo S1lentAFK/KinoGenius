@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Flintstones in Viva Rock Vegas",
+  "url": "https://www.imdb.com/tt0158622/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTUzYzQzMGQtNTYyNS00NmUzLThmZmUtMmIyNjQzNDU4YWYwXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_.jpg",
+  "description": "In this live-action prequel to The Flintstones (1994), the Flintstones and the Rubbles go on a trip to Rock Vegas, where Wilma Slaghoople is pursued by playboy Chip Rockefeller.",
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Romance"
+  ],
+  "datePublished": "2000-07-28",
+  "keywords": "casino,catchphrase,cavewoman,laughter,alien spacecraft",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Mark Addy",
+      "url": "https://www.imdb.com/name/nm0004692/"
+    },
+    {
+      "name": "Stephen Baldwin",
+      "url": "https://www.imdb.com/name/nm0000286/"
+    },
+    {
+      "name": "Kristen Johnston",
+      "url": "https://www.imdb.com/name/nm0005060/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brian Levant",
+      "url": "https://www.imdb.com/name/nm0505152/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William Hanna",
+      "url": "https://www.imdb.com/name/nm0360253/"
+    },
+    {
+      "name": "Joseph Barbera",
+      "url": "https://www.imdb.com/name/nm0053484/"
+    },
+    {
+      "name": "Deborah Kaplan",
+      "url": "https://www.imdb.com/name/nm0438226/"
+    }
+  ],
+  "review": {
+    "author": "robertjdrury",
+    "dateCreated": "2000-04-28",
+    "inLanguage": "English",
+    "heading": "Don't even waste your time!",
+    "reviewBody": "There is actually no need to comment on the film itself. It's pants! End of story.\n\nI never thought I would ever say it but the best thing in this movie is Stephen Baldwin!! This tells you all you need to know.\n\nThe story is poor. Mark Addy as Fred is out of his depth and not as loveable a character as John Goodman.\n\nPlease save your children and take them to the park and get some fresh air.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 25285,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.7
+  }
+}

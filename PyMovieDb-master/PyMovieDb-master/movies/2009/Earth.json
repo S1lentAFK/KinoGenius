@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "Earth Girls Are Easy",
+  "url": "https://www.imdb.com/tt0097257/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2RlYjE4MWItZmY0ZS00YjIzLWEyYTAtMDhkZmQ2Njc4MzgwXkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_.jpg",
+  "description": "A Southern California girl befriends three furry aliens after their spaceship lands in her swimming pool.",
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Musical",
+    "Romance"
+  ],
+  "datePublished": "1989-12-22",
+  "keywords": [
+    "interspecies sex",
+    "alien contact",
+    "spacecraft",
+    "interspecies relationship",
+    "interspecies romance"
+  ],
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Geena Davis",
+      "url": "https://www.imdb.com/name/nm0000133/"
+    },
+    {
+      "name": "Jeff Goldblum",
+      "url": "https://www.imdb.com/name/nm0000156/"
+    },
+    {
+      "name": "Jim Carrey",
+      "url": "https://www.imdb.com/name/nm0000120/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Julien Temple",
+      "url": "https://www.imdb.com/name/nm0854697/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Julie Brown",
+      "url": "https://www.imdb.com/name/nm0113935/"
+    },
+    {
+      "name": "Charlie Coffey",
+      "url": "https://www.imdb.com/name/nm0168849/"
+    },
+    {
+      "name": "Terrence E. McNally",
+      "url": "https://www.imdb.com/name/nm0573644/"
+    }
+  ],
+  "review": {
+    "author": "dougdoepke",
+    "dateCreated": "2020-08-02",
+    "inLanguage": "English",
+    "heading": "Too Lively For Its Own Good",
+    "reviewBody": "The 90-minute flick amounts to a goofy interplanetary love match that takes time for its lovers to jump the species gap. One thing about the flick-- the schtick flies so fast nothing dawdles, except maybe the steady stream of whirlwind activity itself. Too bad the on-rush is more like overdoing gags without let-up. So in that sense, the one-note pacing does get tiresome. Nonetheless, some gags are amusing, especially Julie Brown&apos;s genuinely comedic talent. Too bad we don&apos;t see more of her. Davis too does well in the central role that&apos;s also a fairly straight one, with plenty of attractive close-ups. However, the cast&apos;s other principals, with the fun exception of Carrey, are mainly dramatic (Wayans & Goldblum), not comedic, performers. Thus their mission is mainly to stand around amidst the swirl of activity. Anyway, the LA area color photography is good, along with plenty of skin and innuendo. So I&apos;m thinking the 90-minutes is mainly for guys who aren&apos;t too particular. Too bad the director (Temple) didn&apos;t know how to shape the comedic scenes because the premise itself is an imaginative one.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 25005,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  }
+}

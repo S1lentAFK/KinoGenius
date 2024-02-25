@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Maid",
+  "url": "https://www.imdb.com/tt10147910/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2RhNmZmZmQtYzQ4ZS00MDYyLTgwMmUtZGY5NDMwNDQzNWI1XkEyXkFqcGdeQXVyOTMzOTMzMTg@._V1_.jpg",
+  "description": "A teenager Joy, work as a domestic maid and being haunted by the previous maid spirit, to discover the secret behind her death.",
+  "review": {
+    "author": "francisss",
+    "dateCreated": "2020-07-09",
+    "inLanguage": "English",
+    "heading": "Unexpectedly Satisfying Good Movie!",
+    "reviewBody": "The film is divided into three chapters. Every chapter has its own revelation by the end of each chapter. Though the plot is predictable and quite cliche, the execution is really good. From character introduction to character development/build up until revelation.\\n\\nI&apos;m not sure why this film is really good. If it&apos;s because it&apos;s a Netflix original film or it&apos;s from Thailand. Thailand&apos;s cinema is really improving a lot especially in horror genre, they&apos;re next to South Korea & Japan who&apos;s really good in horror films.\\n\\nOverall, movie is way beyond good. Entertaining to watch from beginning til the end.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 1149,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "18",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2021-10-11",
+  "keywords": "teenager,maid,domestic servant,ghost,thai horror",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Ploy Sornarin",
+      "url": "https://www.imdb.com/name/nm7888547/"
+    },
+    {
+      "name": "Savika Chaiyadej",
+      "url": "https://www.imdb.com/name/nm1982259/"
+    },
+    {
+      "name": "Theerapat Sajakul",
+      "url": "https://www.imdb.com/name/nm0756931/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lee Thongkham",
+      "url": "https://www.imdb.com/name/nm3873857/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lee Thongkham",
+      "url": "https://www.imdb.com/name/nm3873857/"
+    },
+    {
+      "name": "Piyaluk Tuntisrisakul",
+      "url": "https://www.imdb.com/name/nm10603928/"
+    }
+  ]
+}

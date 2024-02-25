@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "American Made",
+  "url": "https://www.imdb.com/tt8385334/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTRiMmYxZWItN2YxOC00NDQyLThhZDYtNzlhMDU3NDkwNGQxXkEyXkFqcGdeQXVyMjEwNjg0OTY@._V1_.jpg",
+  "description": "After being left behind by her school bus, a scrappy mountain girl forges hazardous social terrain as she marches toward school.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": null,
+  "genre": [
+    "Short",
+    "Drama"
+  ],
+  "datePublished": "2018-01-01",
+  "keywords": null,
+  "duration": null,
+  "actor": [
+    {
+      "name": "Annette Bizal",
+      "url": "https://www.imdb.com/name/nm8910497/"
+    },
+    {
+      "name": "Reed Campbell",
+      "url": "https://www.imdb.com/name/nm8383590/"
+    },
+    {
+      "name": "Reed Michael Campbell",
+      "url": "https://www.imdb.com/name/nm9891580/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Christopher Beaton",
+      "url": "https://www.imdb.com/name/nm4307680/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Christopher Beaton",
+      "url": "https://www.imdb.com/name/nm4307680/"
+    }
+  ]
+}

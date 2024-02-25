@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hollywoodland",
+  "url": "https://www.imdb.com/tt0427969/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc4ODQ2OTI5NF5BMl5BanBnXkFtZTcwMDIyNjYzMQ@@._V1_.jpg",
+  "description": null,
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2006-11-24",
+  "keywords": "pinup girl,lois lane character,actress,adulterous wife,scantily clad female",
+  "duration": "PT2H6M",
+  "actor": [
+    {
+      "name": "Adrien Brody",
+      "url": "https://www.imdb.com/name/nm0004778/"
+    },
+    {
+      "name": "Ben Affleck",
+      "url": "https://www.imdb.com/name/nm0000255/"
+    },
+    {
+      "name": "Diane Lane",
+      "url": "https://www.imdb.com/name/nm0000178/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Allen Coulter",
+      "url": "https://www.imdb.com/name/nm0002339/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Paul Bernbaum",
+      "url": "https://www.imdb.com/name/nm0076602/"
+    }
+  ],
+  "review": {
+    "author": "JoshuaMHetu",
+    "dateCreated": "2019-08-14",
+    "inLanguage": "English",
+    "heading": "Affleck Shines But the Movie Fails to Entertain",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 35819,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  }
+}

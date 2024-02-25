@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Black Christmas",
+  "url": "https://www.imdb.com/tt0071222/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTllYWY5ZDYtZjExYy00ZTY5LTk2OWEtMTQ3NTdlNzE5NjcyXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+  "description": "During their Christmas break, a group of sorority girls are stalked by a stranger.",
+  "review": {
+    "author": "reeceicy",
+    "dateCreated": "2021-12-18",
+    "inLanguage": "English",
+    "heading": "Godfather to the slasher genre",
+    "reviewBody": "The godfather of all slasher movies, Black Christmas laid the foundation for an entire sub-genre. Nearly every trope/cliche of the genre can be traced back to this movie. One of the darkest films I&apos;ve ever seen; even to this day there are some genuinely creepy/disturbing moments. Bob Clark masterfully crafts his sick vision through chilling shots, effective zooms, and some of the single greatest first person pov shots of any slasher. Margot Kidder, Marian Waldman, and of course Olivia Hussey all giving enjoyable performances. A bit slow in some parts, but as a whole it ranks among the best slashers ever made.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 47967,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "18",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "1975-09-25",
+  "keywords": "telephone,christmas,sorority house,telephone call,sorority",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Olivia Hussey",
+      "url": "https://www.imdb.com/name/nm0001377/"
+    },
+    {
+      "name": "Keir Dullea",
+      "url": "https://www.imdb.com/name/nm0001158/"
+    },
+    {
+      "name": "Margot Kidder",
+      "url": "https://www.imdb.com/name/nm0452288/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bob Clark",
+      "url": "https://www.imdb.com/name/nm0163706/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Roy Moore",
+      "url": "https://www.imdb.com/name/nm0600860/"
+    }
+  ]
+}

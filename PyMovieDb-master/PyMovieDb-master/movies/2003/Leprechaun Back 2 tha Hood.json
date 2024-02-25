@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Leprechaun 6: Back 2 Tha Hood",
+  "url": "https://www.imdb.com/tt0339294/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjgyZjJlYmEtNmZlNC00OWE1LTljMWMtMzRjYmY2NTQyYTAyXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Crazyfarts",
+    "dateCreated": "2006-06-03",
+    "inLanguage": "English",
+    "heading": "Only hardcore fans may find merit in this film.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 5627,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Fantasy",
+    "Horror"
+  ],
+  "datePublished": "2003-12-30",
+  "keywords": "greed,leprechaun,gold coin,heart ripped out,ghetto",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Warwick Davis",
+      "url": "https://www.imdb.com/name/nm0001116/"
+    },
+    {
+      "name": "Tangi Miller",
+      "url": "https://www.imdb.com/name/nm0005233/"
+    },
+    {
+      "name": "Laz Alonso",
+      "url": "https://www.imdb.com/name/nm0022306/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven Ayromlooi",
+      "url": "https://www.imdb.com/name/nm0044021/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steven Ayromlooi",
+      "url": "https://www.imdb.com/name/nm0044021/"
+    },
+    {
+      "name": "Mark Jones",
+      "url": "https://www.imdb.com/name/nm0428751/"
+    }
+  ]
+}

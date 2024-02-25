@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Spring Breakers",
+  "url": "https://www.imdb.com/tt2101441/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDBmYjU3NzAtZGVkNS00N2E3LWEyNTgtMjIwMTczYTE0M2Y4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "brando647",
+    "dateCreated": "2013-09-13",
+    "inLanguage": "English",
+    "heading": "A Surreal Mind-Trip into the Seedier Side of Spring Break",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 147979,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "18",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2013-04-05",
+  "keywords": "spring break,debauchery,party,female killer,rapper",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Vanessa Hudgens",
+      "url": "https://www.imdb.com/name/nm1227814/"
+    },
+    {
+      "name": "Selena Gomez",
+      "url": "https://www.imdb.com/name/nm1411125/"
+    },
+    {
+      "name": "Ashley Benson",
+      "url": "https://www.imdb.com/name/nm1667364/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Harmony Korine",
+      "url": "https://www.imdb.com/name/nm0005101/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Harmony Korine",
+      "url": "https://www.imdb.com/name/nm0005101/"
+    }
+  ]
+}

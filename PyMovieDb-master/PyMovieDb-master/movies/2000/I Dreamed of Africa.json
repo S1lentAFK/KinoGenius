@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "I Dreamed of Africa",
+  "url": "https://www.imdb.com/tt0167203/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGQyODhhN2QtNTM4Ni00YmI0LWI2NjctM2Y1OWU2NzkwZDc0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A bored Italian socialite (Kim Basinger) abandons her jet-set lifestyle for the rigors and rewards of rural Kenya in this true story, based on the best-selling memoir by Kuki Gallmann. Directed by Hugh Hudson (Chariots of Fire).",
+  "contentRating": "12",
+  "genre": [
+    "Adventure",
+    "Biography",
+    "Drama"
+  ],
+  "datePublished": "2000-05-05",
+  "keywords": "kenya,ranch,italian,snake,dream",
+  "duration": "PT1H54M",
+  "actor": [
+    {
+      "name": "Kim Basinger",
+      "url": "https://www.imdb.com/name/nm0000107/"
+    },
+    {
+      "name": "Vincent Perez",
+      "url": "https://www.imdb.com/name/nm0001641/"
+    },
+    {
+      "name": "Liam Aiken",
+      "url": "https://www.imdb.com/name/nm0014582/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Hugh Hudson",
+      "url": "https://www.imdb.com/name/nm0399853/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kuki Gallmann",
+      "url": "https://www.imdb.com/name/nm0302990/"
+    },
+    {
+      "name": "Paula Milne",
+      "url": "https://www.imdb.com/name/nm0590360/"
+    },
+    {
+      "name": "Susan Shilliday",
+      "url": "https://www.imdb.com/name/nm0793463/"
+    }
+  ],
+  "review": {
+    "author": "andre_giao",
+    "dateCreated": "2000-07-14",
+    "inLanguage": "English",
+    "heading": "Amazing Kim Basinger!",
+    "reviewBody": "When I read all the reviews I could about this movie, including specialized magazines, I thought to myself that Kim Basinger had a bad dream after the great LA Confidential, one of my favourite movies of the 90's.\n\nNow that I've seen it, I believe that 'I Dreamed of Africa' was not well understood. This is a different movie, the story was written to show dramatic and common scenes of Kuki's life, trying to reveal that all dreams can bring nightmares. And Kim shows us that she's a mature actress, not only a sex-symbol. She had no glamour in Africa, but her sensuality is so natural that I thought to myself that she was the most beautiful animal in Africa.\n\nThis film deserved more positive reviews than it had. It's not worse or better than 'Out Africa'. Only different. And this difference makes it fabulous.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 4865,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  }
+}

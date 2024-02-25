@@ -1,0 +1,67 @@
+
+
+{
+  "type": "Movie",
+  "name": "Sleuth",
+  "url": "https://www.imdb.com/tt0069281/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2EzZmFmMmItODY3Zi00NjdjLWE0MTYtZWQ3MGIyM2M4YjZhXkEyXkFqcGdeQXVyMzg2MzE2OTE.jpg",
+  "description": null,
+  "review": {
+    "author": "Mr. Pulse",
+    "dateCreated": "2001-08-05",
+    "inLanguage": "English",
+    "heading": "A brilliantly twisty mystery.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 49893,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8
+  },
+  "contentRating": "AA",
+  "genre": [
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "1973-07-12",
+  "keywords": [
+    "battle of wits",
+    "suspense",
+    "surprise ending",
+    "psychotronic film",
+    "mg car"
+  ],
+  "duration": "PT2H18M",
+  "actor": [
+    {
+      "name": "Laurence Olivier",
+      "url": "https://www.imdb.com/name/nm0000059/"
+    },
+    {
+      "name": "Michael Caine",
+      "url": "https://www.imdb.com/name/nm0000323/"
+    },
+    {
+      "name": "Alec Cawthorne",
+      "url": "https://www.imdb.com/name/nm0147250/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joseph L. Mankiewicz",
+      "url": "https://www.imdb.com/name/nm0000581/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Anthony Shaffer",
+      "url": "https://www.imdb.com/name/nm0787289/"
+    }
+  ]
+}

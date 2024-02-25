@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Mummy Returns",
+  "url": "https://www.imdb.com/tt0209163/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2U1NmZmYTUtZWVjNC00Zjk5LWI0YjAtOTc2NWVkMzE3ODYzXkEyXkFqcGdeQXVyOTYyMTY2NzQ@._V1_.jpg",
+  "description": "The mummified body of Imhotep is shipped to a museum in London, where he once again wakes and begins his campaign of rage and terror.",
+  "review": {
+    "author": "zetes",
+    "dateCreated": "2001-05-04",
+    "inLanguage": "English",
+    "heading": "Unpretentious and fun. 7/10",
+    "reviewBody": "The Mummy Returns is maybe a step above the first one. The action is non-stop, and it does manage, for the most part, to rouse the audience, or at least me. The good guys are likable. Brendan Fraser is where he belongs. Rachel Weisz is beautiful. John Hannah amuses as Jonathan, and Freddie Boath manages not to annoy as Alex, the kid. He&apos;s pretty good as a smart-mouthed brat. The bad guys are, for the most part, fun to hate. Im-Ho-Tep is a good villain. Maybe he isn&apos;t given enough to do here, but he&apos;s still cool. Patricia Valazquez is a real stunner as his love interst, Anck-Su-Namun. She&apos;s probably the best thing about the film. Adewale Akinnuoye-Agbaje was good as Lock Nah, the main henchman. Perhaps the weakest part of the film is the Rock as the Scorpion King. The narration during the film&apos;s prologue is not nearly as good as it would be if we were watching the story develop. The Scorpion King is basically a boring character. His computer-animated doppleganger at the film&apos;s climax is neat, but it would have been better if there were some feelings towards that character.\\n\\nPeople who know their action flicks will notice that the Mummy Returns steals about every action scene from every action movie made in the past 20 years, quoting movies like Aliens, Indiana Jones, Jurassic Park 2 (why? that movie was terrible), and especially Star Wars Episode I: The Phantom Menace, with which, if you remember, The Mummy I was competing with in the box office successfully in May of 1999. They don&apos;t try to hide any of it. They even make a jest at Spielberg with a shadow against the moon from ET and Amblin Entertainment. It&apos;s all in good fun. You shouldn&apos;t be too angry at the sloppy script. If you are going to be angry, the shoddy computer animation should be your target. Still, it&apos;s not bad.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 343689,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "2001-05-18",
+  "keywords": "good versus evil,mummy character,evil woman,villain,villainess",
+  "duration": "PT2H10M",
+  "actor": [
+    {
+      "name": "Brendan Fraser",
+      "url": "https://www.imdb.com/name/nm0000409/"
+    },
+    {
+      "name": "Rachel Weisz",
+      "url": "https://www.imdb.com/name/nm0001838/"
+    },
+    {
+      "name": "John Hannah",
+      "url": "https://www.imdb.com/name/nm0001314/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Stephen Sommers",
+      "url": "https://www.imdb.com/name/nm0814085/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stephen Sommers",
+      "url": "https://www.imdb.com/name/nm0814085/"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Christmas with the Kranks",
+  "url": "https://www.imdb.com/tt0388419/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQxMDMxODEwNF5BMl5BanBnXkFtZTYwNzM4OTc2._V1_.jpg",
+  "description": "With their daughter, Blair, away in Peru, Luther and Nora Krank decide to skip Christmas all together until she decides to come home, causing an uproar when they have to celebrate it at the last minute.",
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2004-12-03",
+  "keywords": "christmas party,christmas,arrest,slapstick comedy,police",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Tim Allen",
+      "url": "https://www.imdb.com/name/nm0000741/"
+    },
+    {
+      "name": "Jamie Lee Curtis",
+      "url": "https://www.imdb.com/name/nm0000130/"
+    },
+    {
+      "name": "Dan Aykroyd",
+      "url": "https://www.imdb.com/name/nm0000101/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joe Roth",
+      "url": "https://www.imdb.com/name/nm0005387/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Grisham",
+      "url": "https://www.imdb.com/name/nm0001300/"
+    },
+    {
+      "name": "Chris Columbus",
+      "url": "https://www.imdb.com/name/nm0001060/"
+    }
+  ],
+  "review": {
+    "author": "Kingslaay",
+    "dateCreated": "2021-10-01",
+    "inLanguage": "English",
+    "heading": "Light hearted fun",
+    "reviewBody": "Christmas is a great time for joy and happiness and this film serves that purpose with some easy viewing. Tim Allen and Jamie Lee Curtis are fun to watch and it has the odd dose of humour that lands well.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 57376,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  }
+}

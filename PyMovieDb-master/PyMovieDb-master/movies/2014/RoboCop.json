@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "RoboCop",
+  "url": "https://www.imdb.com/tt0093870/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWVlYzU2ZjQtZmNkMi00OTc3LTkwZmYtZDVjNmY4OWFmZGJlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Theo Robertson",
+    "dateCreated": "2014-02-08",
+    "inLanguage": "English",
+    "heading": "80s Classic That Didn&apos;t Need Remaking",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 280213,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Crime",
+    "Sci-Fi"
+  ],
+  "datePublished": "1988-02-05",
+  "keywords": "robot,police,cyborg,graphic violence,robocop",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Peter Weller",
+      "url": "https://www.imdb.com/name/nm0000693/"
+    },
+    {
+      "name": "Nancy Allen",
+      "url": "https://www.imdb.com/name/nm0000262/"
+    },
+    {
+      "name": "Dan O&apos;Herlihy",
+      "url": "https://www.imdb.com/name/nm0641397/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Paul Verhoeven",
+      "url": "https://www.imdb.com/name/nm0000682/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Edward Neumeier",
+      "url": "https://www.imdb.com/name/nm0627159/"
+    },
+    {
+      "name": "Michael Miner",
+      "url": "https://www.imdb.com/name/nm0591160/"
+    }
+  ]
+}

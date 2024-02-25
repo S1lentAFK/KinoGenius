@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Megiddo: The Omega Code 2",
+  "url": "https://www.imdb.com/tt0263728/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDhkMjRhZTktOTQ2OS00ZTY5LWE3Y2MtMmUxOWMwNmRiYWMzXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+  "description": "Megiddo is a supernatural ride into a world teetering on the edge of the Apocalypse. It follows the rise of a Machiavellian leader bent on amassing the armies of the world for the battle of Armageddon while calamities of Biblical ...",
+  "contentRating": "PG-13",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "2001-09-21",
+  "keywords": "christian,younger version of character,apocalypse,fictional war,ruler of the planet",
+  "duration": "PT1H44M",
+  "rating": {
+    "ratingCount": 2951,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.9
+  },
+  "review": {
+    "author": "br522",
+    "dateCreated": "2001-09-27",
+    "inLanguage": "English",
+    "heading": "Fantastic movie!",
+    "reviewBody": "A movie that you must see. Even if you aren't into end-time prophecy the special effects in the movie will blow you away...especially coming from a private film company. Michael York plays his part very well just like he usually does. You think that Stone Alexander (Michael York) has beaten the world with his schemes and under-handed ways, think again. Hold onto your seats because the special effects in the beginning and middle of the movie are amazing, but just wait until you see the end, WOW!",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "actor": [
+    {
+      "name": "Michael York",
+      "url": "https://www.imdb.com/name/nm0001868/"
+    },
+    {
+      "name": "Michael Biehn",
+      "url": "https://www.imdb.com/name/nm0000299/"
+    },
+    {
+      "name": "Joseph Makkar",
+      "url": "https://www.imdb.com/name/nm0538654/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brian Trenchard-Smith",
+      "url": "https://www.imdb.com/name/nm0872062/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stephan Blinn",
+      "url": "https://www.imdb.com/name/nm0088478/"
+    },
+    {
+      "name": "Hollis Barton",
+      "url": "https://www.imdb.com/name/nm0059158/"
+    },
+    {
+      "name": "John Fasano",
+      "url": "https://www.imdb.com/name/nm0004591/"
+    }
+  ]
+}

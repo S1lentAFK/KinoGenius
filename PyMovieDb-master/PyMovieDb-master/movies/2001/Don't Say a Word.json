@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Don't Say a Word",
+  "url": "https://www.imdb.com/tt0260866/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmZmNTg4NGQtOTMxZi00MWU3LTlkY2MtMjEyNzk3NTBlNzk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": "When the daughter of a psychiatrist is kidnapped, he's horrified to discover that the abductors' demand is that he break through to a post traumatic stress disorder suffering young woman who knows a secret...",
+  "review": {
+    "author": "mattkratz",
+    "dateCreated": "2002-03-11",
+    "inLanguage": "English",
+    "heading": "good thriller",
+    "reviewBody": "This movie provides in the thrills department. It stars Michael Douglas in the lead role (and he IS well cast) as a psychiatrist whose daughter is kidnapped by a bunch of men who want him to extract a six-digit number from a mentally disturbed young lady. Both parties then proceed to match wits en route to a great climax towards the end of the movie.\n\nThis was based on the book by the same name. The book was quite good, too. I rank this movie as your typical thriller with good twists.\n\n *** out of ****",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 56808,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2002-02-22",
+  "keywords": "neo noir,female psychiatric patient,stolen gem,murder investigation,video surveillance",
+  "duration": "PT1H53M",
+  "actor": [
+    {
+      "name": "Michael Douglas",
+      "url": "https://www.imdb.com/name/nm0000140/"
+    },
+    {
+      "name": "Sean Bean",
+      "url": "https://www.imdb.com/name/nm0000293/"
+    },
+    {
+      "name": "Brittany Murphy",
+      "url": "https://www.imdb.com/name/nm0005261/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gary Fleder",
+      "url": "https://www.imdb.com/name/nm0001219/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Klavan",
+      "url": "https://www.imdb.com/name/nm0458461/"
+    },
+    {
+      "name": "Anthony Peckham",
+      "url": "https://www.imdb.com/name/nm0669756/"
+    },
+    {
+      "name": "Patrick Smith Kelly",
+      "url": "https://www.imdb.com/name/nm0446761/"
+    }
+  ]
+}

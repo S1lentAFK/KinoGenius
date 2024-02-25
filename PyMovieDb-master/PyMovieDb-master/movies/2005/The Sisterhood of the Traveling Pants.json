@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Sisterhood of the Traveling Pants",
+  "url": "https://www.imdb.com/tt0403508/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmRjYWE3OTQtYzEwOC00OWM4LTk3MzktZTUyZTgzNjY4NDc0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "ruby_fff",
+    "dateCreated": "2005-07-04",
+    "inLanguage": "English",
+    "heading": "Endearing accounts of four girl friends - how their friendships endured and enriched one memorable summer by the sharing of a pair of jeans",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 64668,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2005-08-26",
+  "keywords": "friendship,pantyhose,vacation,sisterhood,female friendship",
+  "duration": "PT1H59M",
+  "actor": [
+    {
+      "name": "Amber Tamblyn",
+      "url": "https://www.imdb.com/name/nm0848554/"
+    },
+    {
+      "name": "Alexis Bledel",
+      "url": "https://www.imdb.com/name/nm0088127/"
+    },
+    {
+      "name": "America Ferrera",
+      "url": "https://www.imdb.com/name/nm1065229/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ken Kwapis",
+      "url": "https://www.imdb.com/name/nm0477129/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ann Brashares",
+      "url": "https://www.imdb.com/name/nm1569351/"
+    },
+    {
+      "name": "Delia Ephron",
+      "url": "https://www.imdb.com/name/nm0258286/"
+    },
+    {
+      "name": "Elizabeth Chandler",
+      "url": "https://www.imdb.com/name/nm0151358/"
+    }
+  ]
+}

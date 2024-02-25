@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Reindeer Games",
+  "url": "https://www.imdb.com/tt0184858/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDdlNzdhMWYtNjNiYi00Mjk1LTk0MDEtMTY4NTI1YWQ4NGE3XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+  "description": "After assuming his dead cell-mate's identity to get with the other man's girlfriend, an ex-convict finds himself a reluctant participant in a casino heist.",
+  "review": {
+    "author": "Xophianic",
+    "dateCreated": "2000-02-27",
+    "inLanguage": "English",
+    "heading": "Would've been better with just a touch of more action",
+    "reviewBody": "I though REINDEER GAMES was a pretty good movie, especially compared to some other movies of the year 2000 so far, but I think there should have been a little more action than there actually was. There was quite a lot of buildup to the casino robbery, but when it finally got there, not much happened. The ending was very good. Just when you think you've identified all the twists, there's another one right there.\\n\\nRudy (Ben Affleck), a car-thief, and his cellmate Nick (James Frain), a guy who killed another man while defending his girlfriend, are both about to be freed from jail when Nick is murdered during a lunch fight. Rudy decides to pretend to be him when his pen-pal-like girlfriend Ashley (Charlize Theron), who never met Nick before, comes to find him. The two really hit it off and things are going well, until Ashley's brother Gabriel (Gary Sinise) finds Rudy and threatens to kill him if he doesn't help them get into and rob a casino, which the real Nick previously worked at.\\n\\nThe plot is actually pretty cool, but it's hard to believe that this bunch of idiot-thieves would really believe that this was the real Nick, even after he told them time after time that he wasn't. There are many great twists at the end which leads to an unpredictable, although somewhat unbelievable, ending. The characters are pretty cool, about half of which turn out to be different from whom you originally thought.\\n\\nBen Affleck, new to the action genre, did a pretty good job. After proving himself to be able to play very different parts, like in Dogma, Armageddon and now this, I think he is really going places. Charlize Theron did an OK job as well as the mysterious girlfriend of Nick. Gary Sinise stole the show. I really like this guy. Boy can he act! He's played so many different characters very well. Gary doesn't do as well as the villain as he did in SNAKE EYES or RANSOM, but he still did a very good and believable job.\\n\\nThe main flaw in this movie was the lack of action until the end. The casino robbery itself should've been more action-packed, like it seemed on the commercial. Even in the ending there was more irony and surprise than there was action. But the story and was action was there was still very well done. I'd recommend this movie over many of the movies out now.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 42194,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "2000-06-30",
+  "keywords": "no panties,casino,christmas,casino robbery,planning robbery",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Ben Affleck",
+      "url": "https://www.imdb.com/name/nm0000255/"
+    },
+    {
+      "name": "Gary Sinise",
+      "url": "https://www.imdb.com/name/nm0000641/"
+    },
+    {
+      "name": "Charlize Theron",
+      "url": "https://www.imdb.com/name/nm0000234/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Frankenheimer",
+      "url": "https://www.imdb.com/name/nm0001239/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ehren Kruger",
+      "url": "https://www.imdb.com/name/nm0472567/"
+    }
+  ]
+}

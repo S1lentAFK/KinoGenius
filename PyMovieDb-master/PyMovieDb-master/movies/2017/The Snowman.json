@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Falcon and the Snowman",
+  "url": "https://www.imdb.com/tt0087231/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjM4NTI0MjUzNV5BMl5BanBnXkFtZTcwMTMzNzYzNA@@._V1_.jpg",
+  "description": "The true story of a disillusioned military contractor employee and his drug pusher childhood friend who became walk-in spies for the Soviet Union.",
+  "review": {
+    "author": "matlock-6",
+    "dateCreated": "2003-12-07",
+    "inLanguage": "English",
+    "heading": "Dark, disturbing, and outstanding",
+    "reviewBody": "For the 1980s, this is a very dark movie. At this point, filmmakers were beginning to operate under the assumption that all films require smarmy comic relief (which, of course, is taken to the extreme today), flashy action scenes (even more overdone today), or steamy sex scenes.\n\nHutton and Penn are stupendous in their roles as childhood friends turned Soviet spies. Penn in particular is brilliant as hapless drug dealer Daulton Lee.\n\nWhat you have here is a true thriller/drama. There is no eye candy to speak of, but the story is so compelling and the acting so superb that (hopefully) most people wouldn&apos;t miss it. There are a couple amusing scenes, in particular the one where Penn tries to get his Soviet benefactors involved in a major drugrunning deal.\n\nWell worth watching.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 12531,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "R",
+  "genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "1985-02-08",
+  "keywords": "political superpower,naivete,cia central intelligence agency,mexico city,prosthetic leg",
+  "duration": "PT2H11M",
+  "actor": [
+    {
+      "name": "Timothy Hutton",
+      "url": "https://www.imdb.com/name/nm0000459/"
+    },
+    {
+      "name": "Sean Penn",
+      "url": "https://www.imdb.com/name/nm0000576/"
+    },
+    {
+      "name": "Pat Hingle",
+      "url": "https://www.imdb.com/name/nm0385757/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Schlesinger",
+      "url": "https://www.imdb.com/name/nm0772259/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Lindsey",
+      "url": "https://www.imdb.com/name/nm0512396/"
+    },
+    {
+      "name": "Steven Zaillian",
+      "url": "https://www.imdb.com/name/nm0001873/"
+    }
+  ]
+}

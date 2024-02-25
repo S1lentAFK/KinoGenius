@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Stardust",
+  "url": "https://www.imdb.com/tt0486655/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_.jpg",
+  "description": "In a countryside town bordering on a magical land, a young man makes a promise to his beloved that he'll retrieve a fallen star by venturing into the magical realm.",
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2007-10-19",
+  "keywords": "witch,magic,transformation,shooting star,one word title",
+  "duration": "PT2H7M",
+  "actor": [
+    {
+      "name": "Charlie Cox",
+      "url": "https://www.imdb.com/name/nm1214435/"
+    },
+    {
+      "name": "Claire Danes",
+      "url": "https://www.imdb.com/name/nm0000132/"
+    },
+    {
+      "name": "Sienna Miller",
+      "url": "https://www.imdb.com/name/nm1092227/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Matthew Vaughn",
+      "url": "https://www.imdb.com/name/nm0891216/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jane Goldman",
+      "url": "https://www.imdb.com/name/nm0963359/"
+    },
+    {
+      "name": "Matthew Vaughn",
+      "url": "https://www.imdb.com/name/nm0891216/"
+    },
+    {
+      "name": "Neil Gaiman",
+      "url": "https://www.imdb.com/name/nm0301274/"
+    }
+  ],
+  "review": {
+    "author": "markshark-2",
+    "dateCreated": "2007-08-09",
+    "inLanguage": "English",
+    "heading": "If you liked Princess Bride",
+    "reviewBody": "This movie is a lot of fun. The actors really make the movie go the distance though. Without giving away the plot, I would describe it as a new Princess Bride cult favorite that should stand the test of time. You get to see a whole different side to Robert DeNiro in this movie! (Worth the price of admission just for that!) All the elements are there from adventure to romance, and well placed comedy.\\n\\nPeople of all ages will enjoy it. (My parents even did!) Good special effects, may be scary for the little ones. Good date movie. Great for some escapism.\\n\\nDeserves an A. (Hope it does well at the box office)",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 283685,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  }
+}

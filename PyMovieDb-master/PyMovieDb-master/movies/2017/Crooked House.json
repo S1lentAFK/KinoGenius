@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Crooked House",
+  "url": "https://www.imdb.com/tt1869347/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODQ3NjI2MzU4OF5BMl5BanBnXkFtZTgwNTc5NDIyNDM@._V1_.jpg",
+  "description": "In Agatha Christie's most twisted tale, a spy-turned-private-detective is lured by his former lover to catch her grandfather's murderer before Scotland Yard exposes dark family secrets.",
+  "review": {
+    "author": "Sleepin_Dragon",
+    "dateCreated": "2017-12-24",
+    "inLanguage": "English",
+    "heading": "A Lavish production",
+    "reviewBody": "It is so wonderful to see Agatha Christie's work still in demand, on the small and big screen alike. Brave to see the production team take on Crooked House, a feat never before attempted. The results are pretty good, as a novel I think Crooked House is one of her best, it is outstanding, so the story is not in question, firstly it's quite a faithful adaptation, and they were brave enough to stick with the shock ending. The acting is excellent, Glenn Close is commanding in every single scene, showing the class act she is. Gillian Anderson and young Honor Kneafsey also impress. The settings and fashions are flawless, it looks wonderfully glamorous, and is again in keeping with the text. If I were being critical I would pick on some of the editing and cutting, at times it was a bit clunky, which is a shame because the core elements are strong.\n\nI'm always glad to see a new production from Agatha Christie's catalogue of brilliance. More please, 7/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 27238,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2017-11-21",
+  "keywords": "whodunit,murder,private detective,dysfunctional family,poison",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Max Irons",
+      "url": "https://www.imdb.com/name/nm1796057/"
+    },
+    {
+      "name": "Stefanie Martini",
+      "url": "https://www.imdb.com/name/nm7607873/"
+    },
+    {
+      "name": "Glenn Close",
+      "url": "https://www.imdb.com/name/nm0000335/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gilles Paquet-Brenner",
+      "url": "https://www.imdb.com/name/nm0660707/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Julian Fellowes",
+      "url": "https://www.imdb.com/name/nm0271501/"
+    },
+    {
+      "name": "Tim Rose Price",
+      "url": "https://www.imdb.com/name/nm0741217/"
+    },
+    {
+      "name": "Gilles Paquet-Brenner",
+      "url": "https://www.imdb.com/name/nm0660707/"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Benchwarmers",
+  "url": "https://www.imdb.com/tt0437863/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcxMzg3NDQwNl5BMl5BanBnXkFtZTcwMjk1ODQzMQ@@._V1_.jpg",
+  "description": "A trio of guys try and make up for missed opportunities in childhood by forming a three-player baseball team to compete against standard children's Little League squads.",
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Sport"
+  ],
+  "datePublished": "2006-06-02",
+  "duration": "PT1H25M",
+  "keywords": "darth vader character, man wears eyeglasses, girl wears eyeglasses, happy madison, reference to reggie jackson",
+  "rating": {
+    "ratingCount": 54585,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "review": {
+    "author": "Zingbot_9000",
+    "dateCreated": "2006-04-17",
+    "inLanguage": "English",
+    "heading": "Is what it is....if you like these kind of movies see it if not please don't complain after you see it.",
+    "reviewBody": "I saw this movie the other day. And I was pleasantly surprised. It amazes me that people come on here and complain about these type of movies like it is the worst movie ever. I like Rob Schneider and David Spade. I have liked many of the Adam Sandler movies also. This movie is from the same production companies of Sandlers movies. And I must say it is better than most of their recent offerings. I laughed out loud about 10 times and laughed silently many more times. Laughing out loud is something I generally don't do.\n\nMy review is mostly for those of you that have liked some of the Adam Sandler, Rob Schneider, or David Spade movies. I think this movie was better than Anger Management, Mr Deeds, The Longest Yard, The Animal among others. It was very funny at times and it was cute also.\n\nRob Schneider was the man of the group. He played it is the athlete in the group and the leader of the team of misfits. David Spade played a nerd in David Spade style. And Jon Heder was good as a Napolean Dynamite guy with a little more energy.\n\nSure this movie has it's flows especially in the storyline. Like if Rob Schneider is so much better than Heder or Spade why did the other teams not just walk him.....things like that. But take this movie as it is.....it is better than most Happy Madison productions of late. Schneider, Spade, and Heder fans don't ignore this movie because of comments by people who don't like them to begin with.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "David Spade",
+      "url": "https://www.imdb.com/name/nm0005450/"
+    },
+    {
+      "name": "Jon Heder",
+      "url": "https://www.imdb.com/name/nm1417647/"
+    },
+    {
+      "name": "Rob Schneider",
+      "url": "https://www.imdb.com/name/nm0001705/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dennis Dugan",
+      "url": "https://www.imdb.com/name/nm0240797/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Allen Covert",
+      "url": "https://www.imdb.com/name/nm0184445/"
+    },
+    {
+      "name": "Nick Swardson",
+      "url": "https://www.imdb.com/name/nm0841910/"
+    }
+  ]
+}

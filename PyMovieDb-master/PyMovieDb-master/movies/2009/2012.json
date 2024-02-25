@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "2012",
+  "url": "https://www.imdb.com/tt1190080/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY0MjEyODQzMF5BMl5BanBnXkFtZTcwMTczMjQ4Mg@@._V1_.jpg",
+  "description": "A frustrated writer struggles to keep his family alive when a series of global catastrophes threatens to annihilate mankind.",
+  "review": {
+    "author": "benxrichardson",
+    "dateCreated": "2022-03-21",
+    "inLanguage": "English",
+    "heading": "An intense thrill fest",
+    "reviewBody": "I think the hate for this film is overblown. Of course it's far fetched but the non stop action and exceptional special effects are gripping.\n\nJohn Cusac plays the protagonist role well. His flawed yet likeable style makes him an engaging character.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 395401,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2009-11-13",
+  "keywords": "earthquake,end of the world,apocalypse,elizabeth i character,disaster film",
+  "duration": "PT2H38M",
+  "actor": [
+    {
+      "name": "John Cusack",
+      "url": "https://www.imdb.com/name/nm0000131/"
+    },
+    {
+      "name": "Thandiwe Newton",
+      "url": "https://www.imdb.com/name/nm0628601/"
+    },
+    {
+      "name": "Chiwetel Ejiofor",
+      "url": "https://www.imdb.com/name/nm0252230/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Roland Emmerich",
+      "url": "https://www.imdb.com/name/nm0000386/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Roland Emmerich",
+      "url": "https://www.imdb.com/name/nm0000386/"
+    },
+    {
+      "name": "Harald Kloser",
+      "url": "https://www.imdb.com/name/nm0460057/"
+    }
+  ]
+}

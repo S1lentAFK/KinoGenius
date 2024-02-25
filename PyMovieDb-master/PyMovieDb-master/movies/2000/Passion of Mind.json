@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Passion of Mind",
+  "url": "https://www.imdb.com/tt0160644/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWNkYjYwOWUtNThmZS00YzYwLTk4ZGUtZmY5MTBjNDc1NjMwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A psychological romantic thriller where fantasy and reality become indistinguishable for a woman leading a double life in her dreams.",
+  "review": {
+    "author": "esteban1747",
+    "dateCreated": "2002-12-09",
+    "inLanguage": "English",
+    "heading": "A double life in your mind",
+    "reviewBody": "An interesting argument in a very slow film, which seems to be more French than an American made one. You must see carefully the first scenes to follow the proposed plot. If you do not that you will be certainly lost by mid of the film. Even though you will be in doubt regarding the real personality of Marie/Martha Marie 'Marty' Talmadge (Demi Moore). Whom she really loved? it was a mystery.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 3565,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "12",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "datePublished": "2000-06-02",
+  "keywords": "double life,multiple personality,dream,widow,female protagonist",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Demi Moore",
+      "url": "https://www.imdb.com/name/nm0000193/"
+    },
+    {
+      "name": "Eloise Eonnet",
+      "url": "https://www.imdb.com/name/nm0258250/"
+    },
+    {
+      "name": "Hadrian Dagannaud-Brouard",
+      "url": "https://www.imdb.com/name/nm0196718/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Alain Berliner",
+      "url": "https://www.imdb.com/name/nm0075626/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ron Bass",
+      "url": "https://www.imdb.com/name/nm0060103/"
+    },
+    {
+      "name": "David Field",
+      "url": "https://www.imdb.com/name/nm0275914/"
+    }
+  ]
+}

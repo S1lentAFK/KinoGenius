@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Spotlight",
+  "url": "https://www.imdb.com/tt1895587/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_.jpg",
+  "description": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+  "review": {
+    "author": "bob the moo",
+    "dateCreated": "2016-03-06",
+    "inLanguage": "English",
+    "heading": "Engagingly told story of process, with a strong emotional core",
+    "reviewBody": "By coincidence I watched this film only a week after listening to the editor in chief of Huffington Post UK say that authentic writing cannot come from paid journalists, which is why they do not pay their writers (although Adriana Huffington seemed fine with the millions she got when she sold the website). This stuck in my mind when watching this very fine drama about how the Boston Globe reporters uncovered and exposed a mass cover-up of abuse within the Catholic Church. Also in my mind was a sense of disbelief that this true story is not too much more than a decade old \\u2013 the mass abuse of children by Catholic Priests now just seems such a known thing now that it is hard to imagine a time when it wasn&apos;t.\\n\\nPerhaps because this is so well known, the film is compelling because it focuses on the story of the story, focusing on the journalism. This gives the film the challenge that in terms of action it is mostly people typing, people on the phone, and lots of talking. This it manages really well, building a compelling but robust drama that builds well and takes the viewer along with it. The subject matter means that the emotional side is not left behind either, and the film deftly reminds us of the people (not just the facts) in ways that are natural and integrated, not sentimental or manipulative.\\n\\nMcCarthy directs with professional control, and standards are high \\u2013 mostly noticeably in the casting. It is not easy to point out one lead, because so many famous faces are here, and all of them do their job in a way that integrates with the rest \\u2013 there are no really showing moments, no moments where you feel someone is pushing for an Oscar; it is a real ensemble piece, with too many good turns to start to name them all. The end result is that strong writing, and respect for the process of journalism, combines with the importance of the true story and the strong delivery of all aspects to produce an engaging story which carries emotional and professional weight.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 498487,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2016-01-29",
+  "keywords": "investigation,child molestation,sexual abuse,catholic church,cover up",
+  "duration": "PT2H9M",
+  "actor": [
+    {
+      "name": "Mark Ruffalo",
+      "url": "https://www.imdb.com/name/nm0749263/"
+    },
+    {
+      "name": "Michael Keaton",
+      "url": "https://www.imdb.com/name/nm0000474/"
+    },
+    {
+      "name": "Rachel McAdams",
+      "url": "https://www.imdb.com/name/nm1046097/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tom McCarthy",
+      "url": "https://www.imdb.com/name/nm0565336/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Josh Singer",
+      "url": "https://www.imdb.com/name/nm1802857/"
+    },
+    {
+      "name": "Tom McCarthy",
+      "url": "https://www.imdb.com/name/nm0565336/"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Animal Factory",
+  "url": "https://www.imdb.com/tt0204137/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTU1ZDc1MTEtNGNiOC00OGI1LTk0NzUtM2Y1YTc0YjczY2ZmXkEyXkFqcGdeQXVyNjU5MjcxOTg._V1_.jpg",
+  "description": "A young man goes to prison and a tough, older convict takes him under his wing as a mentor.",
+  "review": {
+    "author": "dougraham",
+    "dateCreated": "2001-01-17",
+    "inLanguage": "English",
+    "heading": "Underrated, but will be enjoyed by few...",
+    "reviewBody": "Whew. What can I say. This was a fascinating film that was very hard to turn away from (even to answer the phone!). Edward Furlong turns in another very solid performance as a too-young-to-be-in-this-type-of-place prisoner and Willem Dafoe was very interesting as his would-be mentor.\\n\\nPrison films are always tough to make as they tend to lean heavily upon stereotypes (the prisoner who runs the prison, male rape scenes, the violence in the prison yard) and this film is no exception. Buscemi gets away with it by making it all seem so workaday and routine, which in some ways is even more frightening.\\n\\nOverall I enjoyed this film but I imagine the audience for a stark prison flick is pretty small. Kudos to Buscemi for having the nerve to make it, tho.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 14502,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2003-07-04",
+  "keywords": "prison,prison cell,transvestite,murder,violence",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Willem Dafoe",
+      "url": "https://www.imdb.com/name/nm0000353/"
+    },
+    {
+      "name": "Edward Furlong",
+      "url": "https://www.imdb.com/name/nm0000411/"
+    },
+    {
+      "name": "Danny Trejo",
+      "url": "https://www.imdb.com/name/nm0001803/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steve Buscemi",
+      "url": "https://www.imdb.com/name/nm0000114/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Edward Bunker",
+      "url": "https://www.imdb.com/name/nm0120483/"
+    },
+    {
+      "name": "John Steppling",
+      "url": "https://www.imdb.com/name/nm0827386/"
+    }
+  ]
+}

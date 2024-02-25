@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Boys and Girls",
+  "url": "https://www.imdb.com/tt0204175/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWVjNTFiNGYtMmI0My00MzUzLWE4ZDgtYzAwOTIzYTQwZTE3XkEyXkFqcGdeQXVyNDAxNjkxNjQ@._V1_.jpg",
+  "description": "A friendship is put to the ultimate test when two best friends wind up in bed together.",
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2000-06-16",
+  "keywords": "bare chested male,casual sex,unhappy woman,reference to pubic hair,friend",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Freddie Prinze Jr.",
+      "url": "https://www.imdb.com/name/nm0005327/"
+    },
+    {
+      "name": "Claire Forlani",
+      "url": "https://www.imdb.com/name/nm0001231/"
+    },
+    {
+      "name": "Brendon Ryan Barrett",
+      "url": "https://www.imdb.com/name/nm0057075/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Iscove",
+      "url": "https://www.imdb.com/name/nm0410769/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Lowery",
+      "url": "https://www.imdb.com/name/nm0523198/"
+    },
+    {
+      "name": "Andrew Miller",
+      "url": "https://www.imdb.com/name/nm0587884/"
+    }
+  ],
+  "review": {
+    "author": "bjarias",
+    "dateCreated": "2015-06-18",
+    "inLanguage": "English",
+    "heading": ".. sure.. it&apos;s worth three minutes",
+    "reviewBody": "..the only reason to watch begins at the thirty-six minute mark and lasts approximately three minutes. Otherwise the entire remainder of this movie is mindless banter between the two of them...one spewing more absurd dialogue than the other. Without a doubt she is easy on the eyes, but when she opens her mouth that&apos;s when the trouble starts. Someday it might be nice to see her in a film where she is not acting and talking like a complete airhead. Box Office Mojo indicates this film unbelievably made twenty-five million dollars worldwide, be that the case, it just shows how much trouble the culture is in. Watch the three minutes (like watching a short music video).. and do yourself a big favor and take a pass on all the rest.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 17543,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  }
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Dark Shadows",
+  "url": "https://www.imdb.com/tt1077368/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWJlNTIzYjEtZGU1Ni00MmU0LTk5YzMtZTcxOTYwOGMxYzExXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_.jpg",
+  "description": "An imprisoned vampire, Barnabas Collins, is set free and returns to his ancestral home, where his dysfunctional descendants are in need of his protection.",
+  "review": {
+    "author": "Marshall-D-Teach",
+    "dateCreated": "2020-02-23",
+    "inLanguage": "English",
+    "heading": "Love theme, story, but execution falls flat",
+    "reviewBody": "Dark Shadows offers stunning visuals, a delightfully dark atmosphere, quirky humor, and a talented cast in spite of an inconsistent story and a lack of narrative focus",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 279184,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Fantasy",
+    "Horror"
+  ],
+  "datePublished": "2012-05-11",
+  "keywords": "vampire,blood,surrealism,cartoon on tv,year 1972",
+  "duration": "PT1H53M",
+  "actor": [
+    {
+      "name": "Johnny Depp",
+      "url": "https://www.imdb.com/name/nm0000136/"
+    },
+    {
+      "name": "Michelle Pfeiffer",
+      "url": "https://www.imdb.com/name/nm0000201/"
+    },
+    {
+      "name": "Eva Green",
+      "url": "https://www.imdb.com/name/nm1200692/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tim Burton",
+      "url": "https://www.imdb.com/name/nm0000318/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Seth Grahame-Smith",
+      "url": "https://www.imdb.com/name/nm0334381/"
+    },
+    {
+      "name": "John August",
+      "url": "https://www.imdb.com/name/nm0041864/"
+    },
+    {
+      "name": "Dan Curtis",
+      "url": "https://www.imdb.com/name/nm0193303/"
+    }
+  ]
+}

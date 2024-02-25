@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Django Unchained",
+  "url": "https://www.imdb.com/tt1853728/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg",
+  "description": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
+  "review": {
+    "author": "manseetswaroop",
+    "dateCreated": "2020-10-16",
+    "inLanguage": "English",
+    "heading": "A masterpiece!",
+    "reviewBody": "Django Unchained is a 2012 Hollywood movie depicting the story of a former slave turned freeman who just wants to get his wife back. He will stop at nothing to unite with his wife.\n\nA brilliant masterpiece of a movie. The gut-wrenching way in which slavery in past-America is depicted is simply awe-inspiring. Quentin Tarantino goes all out to show the viewers what slavery was like in those days.\n\nEvery character in the movie were aptly cast and put on a splendid show. Every scene with Jamie Foxx and Christoph Waltz is memorable and impressionable.\n\nAll in all, this is a Tarantino movie. So, you gotta watch it. A revenge story so good that it will stir up your insides!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 1675747,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.5
+  },
+  "contentRating": "18",
+  "genre": [
+    "Drama",
+    "Western"
+  ],
+  "datePublished": "2013-01-18",
+  "keywords": "slavery,racial vengeance,racial violence,torture,ku klux klan",
+  "duration": "PT2H45M",
+  "actor": [
+    {
+      "name": "Jamie Foxx",
+      "url": "https://www.imdb.com/name/nm0004937/"
+    },
+    {
+      "name": "Christoph Waltz",
+      "url": "https://www.imdb.com/name/nm0910607/"
+    },
+    {
+      "name": "Leonardo DiCaprio",
+      "url": "https://www.imdb.com/name/nm0000138/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Quentin Tarantino",
+      "url": "https://www.imdb.com/name/nm0000233/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Quentin Tarantino",
+      "url": "https://www.imdb.com/name/nm0000233/"
+    }
+  ]
+}

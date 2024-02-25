@@ -1,0 +1,78 @@
+
+
+{
+  "type": "Movie",
+  "name": "Kronk's New Groove",
+  "url": "https://www.imdb.com/tt0401398/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NjQyOTU2MF5BMl5BanBnXkFtZTcwOTU0NjMzMQ@@._V1_.jpg",
+  "description": null,
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2005-12-05",
+  "keywords": "flashback,second part,direct to video sequel to theatrical movie,rivalry,told in flashback",
+  "duration": "PT1H15M",
+  "rating": {
+    "ratingCount": 15466,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "review": {
+    "author": "NatTatherton",
+    "dateCreated": "2006-01-13",
+    "inLanguage": "English",
+    "heading": "Great movie for fans of the original",
+    "reviewBody": "Being a huge fan of the original movie, The Emperor's New Groove, I was thrilled to find that a sequel had been made. I bought the movie thinking that, at its worst, it would have some familiar characters and a couple of laugh-out-loud moments. However, I was delighted to find that it was as good as it could be without being the original classic.\n\nFor those who weren't fans of the first movie, this may be such a good choice as there are many 'in jokes' and nods to the original. Also the plot is quite complicated for a cartoon, effectively covering three stories in the one film.\n\nHowever, the music is fantastic, opening with a very original and funky tune 'You Should Be True To Your Groove' and continuing with a fabulous jazz piece sung by the talented Eartha Kitt and a classic track by Earth Wind and Fire.\n\nThis is a movie that works on different levels, so that parents will not be bored when watching it with their children. There are a couple of cringe-worthy moments, perhaps aiming for a young teen market but these can be easily overlooked.\n\nOverall a really great movie with some brilliant and original moments.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "Patrick Warburton",
+      "url": "https://www.imdb.com/name/nm0911320/"
+    },
+    {
+      "name": "Tracey Ullman",
+      "url": "https://www.imdb.com/name/nm0001808/"
+    },
+    {
+      "name": "Eartha Kitt",
+      "url": "https://www.imdb.com/name/nm0457755/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Saul Blinkoff",
+      "url": "https://www.imdb.com/name/nm1291225/"
+    },
+    {
+      "name": "Elliot M. Bour",
+      "url": "https://www.imdb.com/name/nm1074748/"
+    },
+    {
+      "name": "Robin Steele",
+      "url": "https://www.imdb.com/name/nm0824655/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tony Leondis",
+      "url": "https://www.imdb.com/name/nm1902232/"
+    },
+    {
+      "name": "Michael LaBash",
+      "url": "https://www.imdb.com/name/nm1713427/"
+    },
+    {
+      "name": "Tom Rogers",
+      "url": "https://www.imdb.com/name/nm0737241/"
+    }
+  ]
+}

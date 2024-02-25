@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "How to Deal",
+  "url": "https://www.imdb.com/tt0319524/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTMzOTk0NDA4OV5BMl5BanBnXkFtZTYwNTY5NjY3._V1_.jpg",
+  "description": "A teenager (Moore), disillusioned by too many examples of love gone wrong, refuses to believe that true love exists. Then this new guy (Ford) comes along...",
+  "contentRating": "PG-13",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2003-07-18",
+  "keywords": "love,shorthaired woman,psychotronic film,woman with short hair,female with short hair",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Mandy Moore",
+      "url": "https://www.imdb.com/name/nm0601553/"
+    },
+    {
+      "name": "Trent Ford",
+      "url": "https://www.imdb.com/name/nm0285913/"
+    },
+    {
+      "name": "Dylan Baker",
+      "url": "https://www.imdb.com/name/nm0048414/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Clare Kilner",
+      "url": "https://www.imdb.com/name/nm0453270/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sarah Dessen",
+      "url": "https://www.imdb.com/name/nm1181077/"
+    },
+    {
+      "name": "Neena Beber",
+      "url": "https://www.imdb.com/name/nm0064842/"
+    }
+  ],
+  "review": {
+    "author": "chris_ts",
+    "dateCreated": "2021-03-11",
+    "inLanguage": "English",
+    "heading": "Nothing too special.",
+    "reviewBody": "A little bit of laugh, a little bit of cry. It's an ok movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 9936,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  }
+}

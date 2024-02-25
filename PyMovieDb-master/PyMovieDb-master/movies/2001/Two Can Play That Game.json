@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Two Can Play That Game",
+  "url": "https://www.imdb.com/tt0269341/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2IwYzM1ODAtYmExZS00NzY0LTkxMWYtYWU1YWRhNzk0NzQyXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "DunnDeeDaGreat",
+    "dateCreated": "2002-01-08",
+    "inLanguage": "English",
+    "heading": "Very funny film",
+    "reviewBody": "Two Can Play That Game is a great take on the battle of the sexes. Vivca A Fox is great in the lead role as Shantel. Anthony Anderson who is always good is great here as the comic relief and Morris Chestnut plays his standard pretty boy role. All in all this was a great film that I would recommend.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 7325,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2002-09-13",
+  "keywords": "sex comedy,feel good romance,woman,guilty pleasure,nightgown",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Vivica A. Fox",
+      "url": "https://www.imdb.com/name/nm0000407/"
+    },
+    {
+      "name": "Morris Chestnut",
+      "url": "https://www.imdb.com/name/nm0004820/"
+    },
+    {
+      "name": "Anthony Anderson",
+      "url": "https://www.imdb.com/name/nm0026364/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mark Brown",
+      "url": "https://www.imdb.com/name/nm0114197/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Brown",
+      "url": "https://www.imdb.com/name/nm0114197/"
+    }
+  ]
+}

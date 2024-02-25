@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Inherent Vice",
+  "url": "https://www.imdb.com/tt1791528/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTVhMjA0OWEtNzY4MS00YWY0LThlOWYtOWNkYjUwMzE5NDYwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "amanmsp",
+    "dateCreated": "2019-10-28",
+    "inLanguage": "English",
+    "heading": "Its impossible to criticize this movie",
+    "reviewBody": "We can't criticize the incomprehensible nature of the movie because it was intentionally written that way to capture the tone of the novel. Eventhough I personally couldn't enjoy this movie, I completely understand why other people like it. I understand what they were going for but I couldn't connect with it personally. All the performances, especially by Phoenix and Brolin were top notch. Both those characters were written extremely well. There were some genuinely funny sequences too. However there are several instances where Doc relies on coincidences and conveniences to uncover the cases. This aspect felt like lazy writing.\n\n I don't dislike this movie but I can't like it either. I have such a complicated opinion on this movie. PTA is one of the best directors working today. But I couldn't appreciate this movie like I did with his other movies like The Master, There will be blood etc.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 110015,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2015-01-30",
+  "keywords": "ex boyfriend ex girlfriend relationship,drug trade,southern california,voice over narration,california",
+  "duration": "PT2H28M",
+  "actor": [
+    {
+      "name": "Joaquin Phoenix",
+      "url": "https://www.imdb.com/name/nm0001618/"
+    },
+    {
+      "name": "Josh Brolin",
+      "url": "https://www.imdb.com/name/nm0000982/"
+    },
+    {
+      "name": "Owen Wilson",
+      "url": "https://www.imdb.com/name/nm0005562/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Paul Thomas Anderson",
+      "url": "https://www.imdb.com/name/nm0000759/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Paul Thomas Anderson",
+      "url": "https://www.imdb.com/name/nm0000759/"
+    },
+    {
+      "name": "Thomas Pynchon",
+      "url": "https://www.imdb.com/name/nm1535410/"
+    }
+  ]
+}

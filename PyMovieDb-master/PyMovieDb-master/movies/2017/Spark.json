@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Spark: A Space Tail",
+  "url": "https://www.imdb.com/tt3228088/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcwNzc2Mzk2M15BMl5BanBnXkFtZTgwNzU2MzA2MTI@._V1_.jpg",
+  "description": "Spark, a teenage monkey and his friends, Chunk and Vix, are on a mission to regain Planet Bana, a kingdom overtaken by the evil overlord Zhong.",
+  "review": {
+    "author": "subxerogravity",
+    "dateCreated": "2017-04-22",
+    "inLanguage": "English",
+    "heading": "It was kinda lame.",
+    "reviewBody": "Not the best animated feature I ever seen. I feel sorry for some of the stars in the movie like Jessica Biel, Susan Sarandon, Hilary Swank and Patrick Stewart who picked the wrong animated feature to voice. Possibly thought it was going to be a hit cause it was an animated feature.\n\nThe animation is very mediocre. Feels like there they created a program for generic computer animation that can spit out animation films that all look the same and Spark decided to use this instead of animators. Most importantly, the story was lame. I&apos;ve seen the story a million times. One could point out that if you look at this hard enough you can see the same story as the Lion King in Spark, but that&apos;s not the point. Spark&apos;s vision to add their own twist to this story fell very short of being decent.\n\nWanted to like it but didn&apos;t happen.\n\nhttp://cinemagardens.com",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 1338,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.4
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2017-05-04",
+  "keywords": "fox,wilhelm scream,space adventure,3d,3 dimensional",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Jace Norman",
+      "url": "https://www.imdb.com/name/nm5836557/"
+    },
+    {
+      "name": "Jessica Biel",
+      "url": "https://www.imdb.com/name/nm0004754/"
+    },
+    {
+      "name": "Patrick Stewart",
+      "url": "https://www.imdb.com/name/nm0001772/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Aaron Woodley",
+      "url": "https://www.imdb.com/name/nm0005616/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Aaron Woodley",
+      "url": "https://www.imdb.com/name/nm0005616/"
+    },
+    {
+      "name": "Daniel Woo",
+      "url": "https://www.imdb.com/name/nm5371827/"
+    },
+    {
+      "name": "Goran Delic",
+      "url": "https://www.imdb.com/name/nm2597646/"
+    }
+  ]
+}

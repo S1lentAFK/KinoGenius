@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Spanglish",
+  "url": "https://www.imdb.com/tt0371246/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzVkY2UzZTYtNzg1ZS00NDdkLWE3OTItNTFkM2FjODM0ZmUzXkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_.jpg",
+  "description": "A woman and her daughter emigrate from Mexico for a better life in America, where they start working for a family whose patriarch is a newly celebrated chef with an insecure wife.",
+  "review": {
+    "author": "atlasmb",
+    "dateCreated": "2021-01-29",
+    "inLanguage": "English",
+    "heading": "Strong Performances Elevate This Film",
+    "reviewBody": "This is a story about an undocumented Mexican woman named Flor (Paz Vega) who moves to the U.S. with her daughter. The story is told via flashback, through voice over by the daughter Cristina (Shelbie Bruce), who wants to attend a prestigious university.\n\nAs one might expect, there is a culture clash between Flor and the white family that employs her services for household help--especially as personified by Deborah (Tea Leoni), the mother. It should be noted that Leoni and the entire cast give fantastic performances, even if some of the portrayals are written as caricatures. Adam Sandler, who plays the father, John, is particularly fun to watch, because he mostly plays his character straight, without his usual comedic embellishments. I was most impressed by Sarah Steele, who plays the teenage daughter of Leoni and Sandler.\n\nMuch of the story is intended to be comedy, though it deals with social issues that go well beyond the disconnect caused by the fact that the two mothers do not speak a common language. The film has a definite perspective about the various cultural issues it addresses, but it is only partially convincing in its arguments.\n\nI found the film to be disjointed, but that did not bother me. There is so much to appreciate in the story of the two families.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 88239,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2005-02-25",
+  "keywords": "car,cadillac,cadillac escalade,jeep,jeep grand cherokee",
+  "duration": "PT2H11M",
+  "actor": [
+    {
+      "name": "Adam Sandler",
+      "url": "https://www.imdb.com/name/nm0001191/"
+    },
+    {
+      "name": "Téa Leoni",
+      "url": "https://www.imdb.com/name/nm0000495/"
+    },
+    {
+      "name": "Paz Vega",
+      "url": "https://www.imdb.com/name/nm0891895/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James L. Brooks",
+      "url": "https://www.imdb.com/name/nm0000985/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James L. Brooks",
+      "url": "https://www.imdb.com/name/nm0000985/"
+    }
+  ]
+}

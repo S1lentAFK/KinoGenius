@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Deadpool & Wolverine",
+  "url": "https://www.imdb.com/tt6263850/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGZjYzE4M2MtNmE5ZC00MjdkLThmYTAtNTAyNjQyN2Q4YmVlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+  "description": "The irresponsible hero Deadpool will change the history of the MCU with Wolverine!?",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": null,
+  "genre": [
+    "Action",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "datePublished": "2024-07-26",
+  "keywords": "deadpool character,wolverine character,x men,marvel cinematic universe,shared universe",
+  "duration": null,
+  "actor": [
+    {
+      "name": "Ryan Reynolds",
+      "url": "https://www.imdb.com/name/nm0005351/"
+    },
+    {
+      "name": "Morena Baccarin",
+      "url": "https://www.imdb.com/name/nm1072555/"
+    },
+    {
+      "name": "Brianna Hildebrand",
+      "url": "https://www.imdb.com/name/nm6552202/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Shawn Levy",
+      "url": "https://www.imdb.com/name/nm0506613/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Shawn Levy",
+      "url": "https://www.imdb.com/name/nm0506613/"
+    },
+    {
+      "name": "Rhett Reese",
+      "url": "https://www.imdb.com/name/nm1014201/"
+    },
+    {
+      "name": "Ryan Reynolds",
+      "url": "https://www.imdb.com/name/nm0005351/"
+    }
+  ]
+}

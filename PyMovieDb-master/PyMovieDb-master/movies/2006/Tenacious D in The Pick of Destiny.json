@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Tenacious D in The Pick of Destiny",
+  "url": "https://www.imdb.com/tt0365830/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc2NGI0NjktZjM5Ny00ZjEwLTliMDItOGE1ZjQzYjRkNzMwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+  "description": "To become the greatest band of all time, two slacker, wannabe-rockers set out on a quest to steal a legendary guitar pick that gives its holders incredible guitar skills, from a maximum security Rock and Roll museum.",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Music"
+  ],
+  "contentRating": "15",
+  "datePublished": "2006-11-24",
+  "duration": "PT1H34M",
+  "keywords": "lucifer morningstar character,bigfoot character,written by star,guilty pleasure,rock musical",
+  "rating": {
+    "ratingCount": 114581,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "review": {
+    "author": "gregory6689",
+    "dateCreated": "2007-01-29",
+    "inLanguage": "English",
+    "heading": "A really good movie but still I&apos;m disappointed!",
+    "reviewBody": "When I first heard that Jack Black and Kyle Gass would make a movie about their band I was freaking out! I love their music and I hoped that this movie would be really funny! Now that I have watched it I can&apos;t really say that these hopes weren&apos;t satisfied but I think I expected more. The movie is full of Tenacious D&apos;s great music and I really loved listening to all of it. There are a lot of great jokes and I just love the story, at least the first bit. I don&apos;t like the way the movie ends. The ending is very abrupt and in my opinion they could have extended that a bit more.\\n\\nOverall I think it is a good movie to watch! Everyone who likes rock music should watch it! It&apos;ll give you a good laugh!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "Jack Black",
+      "url": "https://www.imdb.com/name/nm0085312/"
+    },
+    {
+      "name": "Kyle Gass",
+      "url": "https://www.imdb.com/name/nm0309307/"
+    },
+    {
+      "name": "JR Reed",
+      "url": "https://www.imdb.com/name/nm0715469/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Liam Lynch",
+      "url": "https://www.imdb.com/name/nm0528381/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jack Black",
+      "url": "https://www.imdb.com/name/nm0085312/"
+    },
+    {
+      "name": "Kyle Gass",
+      "url": "https://www.imdb.com/name/nm0309307/"
+    },
+    {
+      "name": "Liam Lynch",
+      "url": "https://www.imdb.com/name/nm0528381/"
+    }
+  ]
+}

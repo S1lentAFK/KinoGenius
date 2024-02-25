@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "In the Land of Women",
+  "url": "https://www.imdb.com/tt0419843/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWI2ZmRlZTQtOTllMS00ZDc3LTllNTAtNWNiOTgyNTNmZjhjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A sleazy writer has a chance to redeem himself when he goes to stay with his grandmother and befriends the neighbors.",
+  "datePublished": "2007-04-20",
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "duration": "PT1H37M",
+  "keywords": "cutting one's own hair, writer, running into a tree, shower, death of grandmother",
+  "rating": {
+    "ratingCount": 32577,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "review": {
+    "author": "killbillfanatic2005",
+    "dateCreated": "2008-12-01",
+    "inLanguage": "English",
+    "heading": "Ryan is Wonderful, but everything else is just kind of there.",
+    "reviewBody": "Meg Ryan has always been one of my favorite actresses. I loved her in You've Got Mail, Joe Versus the Volcano, and virtually everything she has ever done. When I saw that she was coming out with a new movie, I was more than excited. In the Land of Women is an interesting look into the lives of several people who live in a small Michigan suburb.\\n\\nCarter (Adam Brody), who happens to write scripts for pornos, has just been dumped by his famous actress/model girlfriend, and decides to go live with his grandmother in Michigan to get over it. His grandmother (Olympia Dukakis) is constantly thinking that she is dying, and is always trying to convince Carter that any minute could be her last. Sarah (played to absolute perfection by Meg Ryan), the woman from across the street, soon comes over to welcome Carter to the neighborhood, and the two become friends. The pair begin to take walks where Carter tells Sarah everything about his painful breakup while she tells him how her daughter resents her. \\n\\nSarah's daughter Lucy (Kristin Stewart) is the usual angsty teen girl, who's life is filled to the brim with regular, and some not-so-regular, teenage drama. Her boyfriend, the quarterback, is a total jerk and she thinks her mother doesn't care for her at all. When it is discovered that Sarah has breast cancer, Lucy must face her issues with her mother in order to show her that she loves her. \\n\\nOverall, this movie is quite good. Meg Ryan is truly spectacular, and so is her material. The mistake that this film made, however, was shifting its focus from Sarah to Lucy. There have been so many teen movies that have dealt with the same thing, but Sarah's character (due to Meg Ryan) was incredibly original and well-developed. If the story had focused more on the friendship that developed between Carter and Sarah, the film would have been much more effective. Stewart does do a pretty good job with her material, but the applause must be given to Ryan for her exceptional performance. As usual, Adam Brody is his normal cynical and sarcastic self, but his scenes with Meg Ryan were quite good. If you are up for a dramatic film that deals with some of life's greatest challenges, then this one's for you.\\n\\nMy Grade: B- (But A+ for Meg Ryan's scenes)",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Adam Brody",
+      "url": "https://www.imdb.com/name/nm0111013/"
+    },
+    {
+      "name": "Kristen Stewart",
+      "url": "https://www.imdb.com/name/nm0829576/"
+    },
+    {
+      "name": "Meg Ryan",
+      "url": "https://www.imdb.com/name/nm0000212/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jonathan Kasdan",
+      "url": "https://www.imdb.com/name/nm0440459/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jonathan Kasdan",
+      "url": "https://www.imdb.com/name/nm0440459/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "An Extremely Goofy Movie",
+  "url": "https://www.imdb.com/tt0208185/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTJkNmQ1ODItNTJhOS00NWRhLTg0NjAtYjZlNWYxZWJmNTY4XkEyXkFqcGdeQXVyOTg4MDk3MTQ@._V1_.jpg",
+  "description": "Max goes to college, but to his embarassment his father loses his job and goes to his son's campus.",
+  "review": {
+    "author": "TheLittleSongbird",
+    "dateCreated": "2011-01-26",
+    "inLanguage": "English",
+    "heading": "Bland and disappointing, but it has its moments",
+    "reviewBody": "I really liked A Goofy Movie, it is not my favourite Disney movie, but it was charming, funny and touching with some great music and a sweet story. An Extremely Goofy Movie does have its moments, but while A Goofy Movie is very good in my book, this is just so-so.\\n\\nThe voice acting is very well done though, both Bill Farmer and Jason Marsden capture Goofy and Max perfectly. Plus Goofy provides the most amusing moments, but he isn't as funny admittedly here. The animation is good enough, it is colourful and at least tolerable to look at. The film also moves at a good pace, while the soundtrack while not as catchy or as touching is worth the listen.\\n\\nHowever, An Extremely Goofy Movie lacks the heart and magic of A Goofy Movie. The film is too short I think, so some relationships and the story and script are not as well thought out this time around. Goofy and Max's relationship here is very awkward and sometimes uncomfortable to watch, I actually felt sorry for Goofy more than I did for Max which didn't happen in A Goofy Movie, then I cared for them both. The absence of Roxann is notable too, that was a pivotal point of A Goofy Movie and what made it so heart-warming and realistic. While I liked Goofy, I actually felt somewhat indifferent towards Max. He is not as easy to relate to and he was a bit of a bore. Also there were numerous points in the movie where I got really frustrated with him.\\n\\nThe other characters I cared little for either. They are either underdeveloped or fall into the stereotypical category. The story is a let down here, it is predictable and rather ordinary with a number of disconnected moments. And like others have said, this movie feels very contradictory in comparison, not just with Roxann but I don't think I ever saw Max behave the way he did here. The writing and humour are also not as strong. The humour does have its amusing moments, such as Max's shocked reaction in one scene and a few parts to do with Goofy, but it is not enough. When it does happen, it is never more than amusing, and at worst some parts come across as rather mean-spirited.\\n\\nAll in all, a bland and disappointing follow-up to a very enjoyable film. 5/10 Bethany Cox",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 14351,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2000-05-08",
+  "keywords": "single father,sequel,pegleg pete character,goofy the dog character,max goof character",
+  "duration": "PT1H19M",
+  "actor": [
+    {
+      "name": "Bill Farmer",
+      "url": "https://www.imdb.com/name/nm0267724/"
+    },
+    {
+      "name": "Jason Marsden",
+      "url": "https://www.imdb.com/name/nm0005189/"
+    },
+    {
+      "name": "Jeff Bennett",
+      "url": "https://www.imdb.com/name/nm0071818/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Douglas McCarthy",
+      "url": "https://www.imdb.com/name/nm0565119/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Scott Spencer Gorden",
+      "url": "https://www.imdb.com/name/nm0329879/"
+    },
+    {
+      "name": "Hillary Carlip",
+      "url": "https://www.imdb.com/name/nm0137575/"
+    }
+  ]
+}

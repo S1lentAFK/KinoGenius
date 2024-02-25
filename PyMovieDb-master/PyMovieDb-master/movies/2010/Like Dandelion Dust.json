@@ -1,0 +1,66 @@
+{
+  "type": "Movie",
+  "name": "Like Dandelion Dust",
+  "url": "https://www.imdb.com/tt0981042/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYxMDM1OTM4OV5BMl5BanBnXkFtZTcwNDk3NTk0Mw@@._V1_.jpg",
+  "description": "A young boy is torn away from his adoptive parents by his alcoholic, abusive birth parents.",
+  "review": {
+    "author": "gradyharp",
+    "dateCreated": "2011-06-30",
+    "inLanguage": "English",
+    "heading": "An Important Little Film",
+    "reviewBody": "LIKE DANDELION DUST is a very small scaled film about a very large subject: adoption and the struggles that at times are associated between birth parents and adoptive parents. Adapted from Karen Kingsbury&apos;s popular novel by Stephen J Rivele and Michael Lachance and directed with sensitivity and fine pacing by Jon Gunn, the film succeeds primarily because of the exceptional acting on the part of the acting by Mira Sorvino and Barry Pepper. \n\nBlue collar worker Richard &apos;Rip&apos; Porter (Barry Pepper) is an alcoholic with anger management problems and as the film opens he is arrested for beating his wife Wendy (Mira Sorvino) and imprisoned for seven years. Simultaneously we meet the wealthy Jack Campbell (Cole Hauser) and his wife Molly (Kate Levering) who are playing with their six year old son Joey (Maxwell Perry Cotton) and interacting with Molly&apos;s sister Beth (Abby Brammell) and husband Bill (Kirk B.R. Woller) who are suggesting that Joey, being adopted, should be brought up in the church: there is conflict as Beth seems to feel Molly isn&apos;t caring correctly for Joey since he is adopted! \n\nRip is released form prison and is clean from his alcoholism and anger management problems and Wendy confesses that when Rip was incarcerated she had been pregnant and because of Rip&apos;s problems she put her newborn son up for adoption, having her mother sign for Rip. Rip is shocked with the news and at once wants to get his son back. An adoption agency is consulted in the person of Allyson Bower (L. Scott Caldwell) who is placed between the Porters and the Campbells in making the decision as to where Joey should be. Because of the forged adoption papers Joey is still the child of the Porters and they fight the Campbells for custody. Joey is in the middle and with Allyson&apos;s guidance tries to adapt to his birth parents on planned visits while the Campbells try every avenue to retain their beloved Joey. How the game is played includes errors on the parts of both sets of parents but the situation is finally resolved in a very touching manner. \n\nSorvino and Pepper are brilliant in their roles as the beleaguered Porters. The reason the film works as well as it does is the fact that the good and bad aspects of human behavior on the part of all the characters in the film is balanced. It is a realistic look at what appears on the surface to be polar opposite couples - and in the middle is the very finely tuned performance of little Maxwell Perry Cotton. This is a film that tugs a bit heavily on the heartstrings, but for anyone who has been involved in an adoption problem it will ring true. \n\nGrady Harp",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 3076,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2010-09-24",
+  "keywords": "alcoholic,adoptive parent,birth parents,wife abuse,adopted son",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Mira Sorvino",
+      "url": "https://www.imdb.com/name/nm0000227/"
+    },
+    {
+      "name": "Barry Pepper",
+      "url": "https://www.imdb.com/name/nm0001608/"
+    },
+    {
+      "name": "Cole Hauser",
+      "url": "https://www.imdb.com/name/nm0369513/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jon Gunn",
+      "url": "https://www.imdb.com/name/nm0348197/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stephen J. Rivele",
+      "url": "https://www.imdb.com/name/nm0729151/"
+    },
+    {
+      "name": "Michael Lachance",
+      "url": "https://www.imdb.com/name/nm1831005/"
+    },
+    {
+      "name": "Karen Kingsbury",
+      "url": "https://www.imdb.com/name/nm0455481/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Bourne Legacy",
+  "url": "https://www.imdb.com/tt1194173/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc4Njk3MDM1Nl5BMl5BanBnXkFtZTcwODgyOTMxOA@@._V1_.jpg",
+  "description": "An expansion of the universe from Robert Ludlum's novels, centered on a new hero whose stakes have been triggered by the events of the previous three films.",
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "datePublished": "2012-08-13",
+  "keywords": "wolf,drone,pamela landy character,snow adventure,pill",
+  "duration": "PT2H15M",
+  "rating": {
+    "ratingCount": 314307,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "review": {
+    "author": "DUKEJBM",
+    "dateCreated": "2012-08-10",
+    "inLanguage": "English",
+    "heading": "A Deeper Look At The Bourne Universe And That's A Good Thing!",
+    "reviewBody": "As a fan of the Bourne franchise, I enjoyed this deeper look in to that universe. The movie really does feel like one giant glorified DVD extra for that trilogy and I mean that in a good way. Deeper layers are revealed and the intrigue is as good as what we've seen before even though the character motivation isn't as strong across the board. Renner is fabulous as the second generation super spy. My only real complaint about this installment (because it does feel like they are blatantly building for three more films) is that the resolution has no real teeth. Still, it's a very good effort from a very good cast with hints and touches to the Bourne films of the past.\n\nOverall, a thumbs up and a very enjoyable time at the cinema.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "actor": [
+    {
+      "name": "Jeremy Renner",
+      "url": "https://www.imdb.com/name/nm0719637/"
+    },
+    {
+      "name": "Rachel Weisz",
+      "url": "https://www.imdb.com/name/nm0001838/"
+    },
+    {
+      "name": "Edward Norton",
+      "url": "https://www.imdb.com/name/nm0001570/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tony Gilroy",
+      "url": "https://www.imdb.com/name/nm0006904/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tony Gilroy",
+      "url": "https://www.imdb.com/name/nm0006904/"
+    },
+    {
+      "name": "Dan Gilroy",
+      "url": "https://www.imdb.com/name/nm0319659/"
+    },
+    {
+      "name": "Robert Ludlum",
+      "url": "https://www.imdb.com/name/nm0524924/"
+    }
+  ]
+}

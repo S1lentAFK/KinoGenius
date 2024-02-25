@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Drinking Buddies",
+  "url": "https://www.imdb.com/tt2265398/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMwNDU1NzMzM15BMl5BanBnXkFtZTcwNTY3ODk1OQ@@._V1_.jpg",
+  "description": null,
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2013-11-01",
+  "keywords": "brewery,group of friends,boyfriend girlfriend relationship,woman wears a string bikini,hand wound",
+  "duration": "PT1H30M",
+  "rating": {
+    "ratingCount": 60758,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "review": {
+    "author": "evanston_dad",
+    "dateCreated": "2013-12-13",
+    "inLanguage": "English",
+    "heading": "People Drinking Beer Doesn&apos;t Make for Gripping Entertainment",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "actor": [
+    {
+      "name": "Olivia Wilde",
+      "url": "https://www.imdb.com/name/nm1312575/"
+    },
+    {
+      "name": "Jake Johnson",
+      "url": "https://www.imdb.com/name/nm2159926/"
+    },
+    {
+      "name": "Anna Kendrick",
+      "url": "https://www.imdb.com/name/nm0447695/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joe Swanberg",
+      "url": "https://www.imdb.com/name/nm1846132/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joe Swanberg",
+      "url": "https://www.imdb.com/name/nm1846132/"
+    }
+  ]
+}

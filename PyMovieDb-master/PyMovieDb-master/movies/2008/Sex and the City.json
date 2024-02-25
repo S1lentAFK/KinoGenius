@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Sex and the City",
+  "url": "https://www.imdb.com/tt1000774/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODZlODUzMWMtZDA4ZS00YjI3LWIxZmEtZWZiZDkxMjc3MTM5XkEyXkFqcGdeQXVyMjIzMTQzNDE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "ameli-1",
+    "dateCreated": "2008-06-09",
+    "inLanguage": "English",
+    "heading": "The movie did NOT do the show justice",
+    "reviewBody": "I am a big fan of the show. I am one of those people who have seen every episode at least 4 times, and some of them around 10 times. Even so, I still watch the reruns, and I was really looking forward to the movie.\\n\\nSo, it is really upsetting that I have to give it such a bad review. I went to see it with the best of intentions. I really wanted to love it. Unfortunately the movie has nothing to do with the wittiness and character of the series. Even putting aside the wooden and/or exaggerated acting, you fail to recognize the characters who where transformed into caricatures, pathetic versions of themselves.\\n\\nThere were very very few lines that gave a glimpse of the old clever dialog, and they all got lost in a mass of cheesy lines about love and friendship that you even rarely anymore encounter in the corniest of Hollywood&apos;s chick flicks, and toiler humor that you only expect from movies like Harold and Kumar. OK, maybe the comparison to Harold and Kumar is a little unfair, but really I had never expected Sex and the City to rely on fart jokes for comic relief.\\n\\nPeople comment that those who rate this movie badly are either men, or just not fans of the show. From my perspective the fans of the show should be the ones most disappointed by the travesty that was this film.\\n\\nWe grew to love the show because of its honesty towards sexual issues, its shocking but clever dialog, and its characters who, however unreal with their designer obsessions, uncontrollable spending and lack of real jobs, remained true to their personas regarding sex, relationships, commitment, independence.\\n\\nThe show was about sex. The movie is about love, and treats the subject from the weakest, corniest and most disappointing standpoint.\\n\\nThis movie is a fake Fendi. Dropping 15 designer names in one sentence, showing bulging men&apos;s underpants and orgasming at the sight of huge closets, Sex and the City does not make.\\n\\nAs for me, I will keep watching the reruns and pretend this movie never happened.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 126747,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2008-05-28",
+  "keywords": "sequel to tv series,wedding dress,overreaction,2000s,sex in bed",
+  "duration": "PT2H25M",
+  "actor": [
+    {
+      "name": "Sarah Jessica Parker",
+      "url": "https://www.imdb.com/name/nm0000572/"
+    },
+    {
+      "name": "Kim Cattrall",
+      "url": "https://www.imdb.com/name/nm0000326/"
+    },
+    {
+      "name": "Cynthia Nixon",
+      "url": "https://www.imdb.com/name/nm0633223/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Patrick King",
+      "url": "https://www.imdb.com/name/nm0455078/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Patrick King",
+      "url": "https://www.imdb.com/name/nm0455078/"
+    },
+    {
+      "name": "Candace Bushnell",
+      "url": "https://www.imdb.com/name/nm0124299/"
+    },
+    {
+      "name": "Darren Star",
+      "url": "https://www.imdb.com/name/nm0823015/"
+    }
+  ]
+}

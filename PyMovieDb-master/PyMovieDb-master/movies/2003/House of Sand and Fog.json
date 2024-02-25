@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "House of Sand and Fog",
+  "url": "https://www.imdb.com/tt0315983/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIzMjQ5NzM2M15BMl5BanBnXkFtZTYwMzU2NDY3._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "lee_eisenberg",
+    "dateCreated": "2016-09-17",
+    "inLanguage": "English",
+    "heading": "some houses can't be homes",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 72160,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2004-02-27",
+  "keywords": "tragedy,based on novel,suicide,depressed woman,family abandonment",
+  "duration": "PT2H6M",
+  "actor": [
+    {
+      "name": "Jennifer Connelly",
+      "url": "https://www.imdb.com/name/nm0000124/"
+    },
+    {
+      "name": "Ben Kingsley",
+      "url": "https://www.imdb.com/name/nm0001426/"
+    },
+    {
+      "name": "Ron Eldard",
+      "url": "https://www.imdb.com/name/nm0253035/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Vadim Perelman",
+      "url": "https://www.imdb.com/name/nm1166926/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andre Dubus III",
+      "url": "https://www.imdb.com/name/nm1164318/"
+    },
+    {
+      "name": "Vadim Perelman",
+      "url": "https://www.imdb.com/name/nm1166926/"
+    },
+    {
+      "name": "Shawn Lawrence Otto",
+      "url": "https://www.imdb.com/name/nm1171067/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Annie",
+  "url": "https://www.imdb.com/tt0083564/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzU2YzA3NTYtNDg3OS00YTg3LThiODctZTQ3MzhkZDVjZDNlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+  "description": "A spunky young orphan is taken in by a rich eccentric, much to the chagrin of the cantankerous woman who runs the orphanage.",
+  "contentRating": "U",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "1982-07-07",
+  "keywords": "orphanage,new york city,pantyhose,dog,orphan",
+  "duration": "PT2H6M",
+  "rating": {
+    "ratingCount": 49058,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "review": {
+    "author": "bellabanana93",
+    "dateCreated": "2017-10-10",
+    "inLanguage": "English",
+    "heading": "The Best Songs",
+    "reviewBody": "Annie is a family favourite for a good reason. The songs are catchy and memorable. You and your family will be singing and humming them everywhere you go. The entire movie is well done but it gets the most interesting at the ending. The character development of Annie&apos;s adopted dad is heartwarming.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "Aileen Quinn",
+      "url": "https://www.imdb.com/name/nm0703747/"
+    },
+    {
+      "name": "Albert Finney",
+      "url": "https://www.imdb.com/name/nm0001215/"
+    },
+    {
+      "name": "Carol Burnett",
+      "url": "https://www.imdb.com/name/nm0000993/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Huston",
+      "url": "https://www.imdb.com/name/nm0001379/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Carol Sobieski",
+      "url": "https://www.imdb.com/name/nm0811807/"
+    },
+    {
+      "name": "Thomas Meehan",
+      "url": "https://www.imdb.com/name/nm0576070/"
+    },
+    {
+      "name": "Martin Charnin",
+      "url": "https://www.imdb.com/name/nm0153377/"
+    }
+  ]
+}

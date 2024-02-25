@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Yours, Mine & Ours",
+  "url": "https://www.imdb.com/tt0443295/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjQ2OGY1YTQtZjIwZC00ODE1LWJlZTQtNzRjNGJlNDNlMWFiL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A widowed Coast Guard Admiral and a widowed handbag designer fall in love and marry, much to the dismay of his 8 and her 10 children.",
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Romance"
+  ],
+  "datePublished": "2006-03-31",
+  "keywords": "large family,admiral,high school,marshmallow,blended family",
+  "duration": "PT1H28M",
+  "rating": {
+    "ratingCount": 30129,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "review": {
+    "author": "g-bodyl",
+    "dateCreated": "2012-02-17",
+    "inLanguage": "English",
+    "heading": "A Fair Family Movie!",
+    "reviewBody": "Yours, Mine, and Ours and is fair, unoffensive movie that the whole family could enjoy. It&apos;s not the best family movie in the world but its passable because of the charm given off from the two lead actors.\\n\\nThis is about two high school sweethearts who reunite thirty years later and get married on the spot. But both people have a large number of children and those children combine forces so they can break up Frank and Helen.\\n\\nThe acting is okay. The leads are pretty much what carried this movie. Dennis Quaid and Rene Russo are great actors. I wish that the children had more screen time. I could barely tell them apart.\\n\\nThe film should have been paced better. It seems like thirty minutes in, we are already near then end. A better screenplay would have also helped this movie.\\n\\nOverall, this is a fair but not great family film. Kids will certainly enjoy it but adults should stay clear from this film. I rate this film 6/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "actor": [
+    {
+      "name": "Dennis Quaid",
+      "url": "https://www.imdb.com/name/nm0000598/"
+    },
+    {
+      "name": "Rene Russo",
+      "url": "https://www.imdb.com/name/nm0000623/"
+    },
+    {
+      "name": "Jerry O&apos;Connell",
+      "url": "https://www.imdb.com/name/nm0005278/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Raja Gosnell",
+      "url": "https://www.imdb.com/name/nm0331532/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ron Burch",
+      "url": "https://www.imdb.com/name/nm0120816/"
+    },
+    {
+      "name": "David Kidd",
+      "url": "https://www.imdb.com/name/nm0452235/"
+    },
+    {
+      "name": "Melville Shavelson",
+      "url": "https://www.imdb.com/name/nm0789520/"
+    }
+  ]
+}

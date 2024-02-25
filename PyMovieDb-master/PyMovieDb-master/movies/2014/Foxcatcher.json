@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Foxcatcher",
+  "url": "https://www.imdb.com/tt1100089/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MjQxNjYxOV5BMl5BanBnXkFtZTgwMzIwODUxMzE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Hitchcoc",
+    "dateCreated": "2015-07-12",
+    "inLanguage": "English",
+    "heading": "What the Hell Am I Doing Here?",
+    "reviewBody": "John du Pont has more money than he knows what to do with. He is a miserable man who has spent his life trying to be something he can never be. He is pathetic as an athlete, so he brings in a man who suffers from an inferiority complex despite his earning a gold medal in the Olympics. Mark Schultz should have the world by the butt but he is caught in an aimless quest to earn enough to survive. His brother Dave, who has also been an Olympic champion, has gone on with his life. His love and affection for his brother keep the poor guy going, but it also overshadows him. DuPont decides to create a wrestling club and enlist the help of Mark Schultz and pretty soon the poor schmuck becomes his right hand man. Steve Carell is brilliant as the schizophrenic du Pont who imagines himself the savior of the country. He believe he is a real wrestling coach, even though he knows very little (he is able to look good because he gives huge sums of money to his stable of athletes). Carell's sickness pervades the entire picture as the men he commands begin to see his irrationality for what it is. There is also the classic Freudian stuff. This movie makes one uncomfortable from the get-go and yet we can't take our eyes off the sick man.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 148417,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2015-01-09",
+  "keywords": "domination,binging on junk food,wrestler,pennsylvania,upper class",
+  "duration": "PT2H14M",
+  "actor": [
+    {
+      "name": "Steve Carell",
+      "url": "https://www.imdb.com/name/nm0136797/"
+    },
+    {
+      "name": "Channing Tatum",
+      "url": "https://www.imdb.com/name/nm1475594/"
+    },
+    {
+      "name": "Mark Ruffalo",
+      "url": "https://www.imdb.com/name/nm0749263/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bennett Miller",
+      "url": "https://www.imdb.com/name/nm0587955/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "E. Max Frye",
+      "url": "https://www.imdb.com/name/nm0296861/"
+    },
+    {
+      "name": "Dan Futterman",
+      "url": "https://www.imdb.com/name/nm0001246/"
+    }
+  ]
+}

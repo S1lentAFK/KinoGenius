@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Footloose",
+  "url": "https://www.imdb.com/tt0087277/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGZjZWRlNjYtMDM3Ny00N2M4LWFjZDYtYmM3NWZmMDUwYzUyXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+  "description": null,
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "datePublished": "1984-04-13",
+  "keywords": "teenage rebellion,small town,high school dance,church,sweating",
+  "duration": "PT1H47M",
+  "rating": {
+    "ratingCount": 90272,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "review": {
+    "author": "evanston_dad",
+    "dateCreated": "2008-03-17",
+    "inLanguage": "English",
+    "heading": "Gotta Cut Loose for Kevin Bacon",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "Kevin Bacon",
+      "url": "https://www.imdb.com/name/nm0000102/"
+    },
+    {
+      "name": "Lori Singer",
+      "url": "https://www.imdb.com/name/nm0001742/"
+    },
+    {
+      "name": "John Lithgow",
+      "url": "https://www.imdb.com/name/nm0001475/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Herbert Ross",
+      "url": "https://www.imdb.com/name/nm0006889/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dean Pitchford",
+      "url": "https://www.imdb.com/name/nm0685673/"
+    }
+  ]
+}

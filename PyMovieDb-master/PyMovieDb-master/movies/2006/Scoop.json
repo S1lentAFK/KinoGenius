@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Scoop",
+  "url": "https://www.imdb.com/tt21279806/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDI0NDI5YWYtZWRkNS00ODIxLThlYTYtZmY3YzkwOWYwMjRhXkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_.jpg",
+  "description": "How the BBC obtained the bombshell interview with Prince Andrew about his friendship with convicted sex offender Jeffrey Epstein",
+  "datePublished": "2024-04-05",
+  "contentRating": null,
+  "genre": [
+    "Biography",
+    "Drama"
+  ],
+  "keywords": "based on real people,reference to prince andrew,reference to the bbc,2010s,year 2019",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Keeley Hawes",
+      "url": "https://www.imdb.com/name/nm0369954/"
+    },
+    {
+      "name": "Gillian Anderson",
+      "url": "https://www.imdb.com/name/nm0000096/"
+    },
+    {
+      "name": "Rufus Sewell",
+      "url": "https://www.imdb.com/name/nm0001722/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Philip Martin",
+      "url": "https://www.imdb.com/name/nm1530431/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Geoff Bussetil",
+      "url": "https://www.imdb.com/name/nm2199316/"
+    },
+    {
+      "name": "Peter Moffat",
+      "url": "https://www.imdb.com/name/nm0595584/"
+    }
+  ],
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  }
+}

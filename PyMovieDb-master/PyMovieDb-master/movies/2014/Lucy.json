@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Lucy",
+  "url": "https://www.imdb.com/tt2872732/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODcxMzY3ODY1NF5BMl5BanBnXkFtZTgwNzg1NDY4MTE@._V1_.jpg",
+  "description": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.",
+  "review": {
+    "author": "TheAnimalMother",
+    "dateCreated": "2014-09-27",
+    "inLanguage": "English",
+    "heading": "What Is The Limit Of Your Imagination?",
+    "reviewBody": "In my view this is the best film Besson has directed since 1997's The Fifth Element. The film in certain ways is a lot like Limitless, but at the same time it takes a very different overall approach and look on the subject of human evolution. I'm sure that many people will not care much for this film since it is filled with a lot of mystical/spiritual references and ideas and even some false science, however those with an open mind and an active imagination will likely be very glad they saw the film. This is clearly a work of fiction people, but there is no one saying you can't relate fiction to reality either, and actually learn something from it once in a while too. Our limitless imaginations are part of what makes human beings so extraordinary, we are best off using this gift and appreciating it. Fictional films can still be very thought provoking, and this one definitely fits that category. 2001: A Space Odyssey isn't scientifically accurate in many ways to our current knowledge, but it's still a monster landmark of a film nonetheless. Lucy is certainly not 2001, however they both ride that same imagination rules line that can spark the internal fires of unique creative thinking. In my view Lucy is a sci-fi trip worth taking. 7.5/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 530436,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "datePublished": "2014-08-22",
+  "keywords": "drugs,brain capacity,tough girl,fictional drug,telekinesis",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Scarlett Johansson",
+      "url": "https://www.imdb.com/name/nm0424060/"
+    },
+    {
+      "name": "Morgan Freeman",
+      "url": "https://www.imdb.com/name/nm0000151/"
+    },
+    {
+      "name": "Choi Min-sik",
+      "url": "https://www.imdb.com/name/nm0158856/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Luc Besson",
+      "url": "https://www.imdb.com/name/nm0000108/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Luc Besson",
+      "url": "https://www.imdb.com/name/nm0000108/"
+    }
+  ]
+}

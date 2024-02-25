@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Fallen",
+  "url": "https://www.imdb.com/tt0119099/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2Q1OGI4ZGQtMzc3OS00YzIyLThhNWQtYWUxODc3NzU0YWQ4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "Homicide detective John Hobbes witnesses the execution of serial killer Edgar Reese. Soon after the execution, the killings start again, and they are very similar to Reese's style.",
+  "review": {
+    "author": "hengir",
+    "dateCreated": "2005-11-16",
+    "inLanguage": "English",
+    "heading": "Fallen Up",
+    "reviewBody": "Came across this film in a video store sale bin at a giveaway price and bought it on the strength of the cast, Denzil Washington, John Goodman, Donald Sutherland and Embeth Davidtz. Found it to be surprisingly good. Not a horror film as such, no gore or unconvincing CGI effects but a gripping story with supernatural elements. There are subtle shivers, particularly the 'touching' scenes and the sense of something evil hidden behind the everyday. The setting is bleakly autumnal and it is finishes with a nice twist. If you watch the film again knowing the ending it makes more sense.\n\nOf the acting, Goodman and Sutherland don't have much to play with but it is always good to see them in a film. Washington is very good as his normal cop character grapples with the mystery and Davidtz is excellent as the academic, scared and solitary and fallible. The scenes between Washington and Davidtz are well played. Tan Dun's music adds to the atmosphere. Well directed and well written. Well done.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 91443,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "R",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "1998-01-16",
+  "keywords": "serial killer,demonic possession,neo noir,detective,demon",
+  "duration": "PT2H4M",
+  "actor": [
+    {
+      "name": "Denzel Washington",
+      "url": "https://www.imdb.com/name/nm0000243/"
+    },
+    {
+      "name": "John Goodman",
+      "url": "https://www.imdb.com/name/nm0000422/"
+    },
+    {
+      "name": "Donald Sutherland",
+      "url": "https://www.imdb.com/name/nm0000661/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gregory Hoblit",
+      "url": "https://www.imdb.com/name/nm0387706/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nicholas Kazan",
+      "url": "https://www.imdb.com/name/nm0443582/"
+    }
+  ]
+}

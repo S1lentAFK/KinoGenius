@@ -1,0 +1,73 @@
+
+
+{
+  "type": "Movie",
+  "name": "Down to Earth",
+  "url": "https://www.imdb.com/tt0231775/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWU2NjczNzgtOThhZS00NjI1LWE2MjgtYTU4YzBlMmE5NWI3XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Pigface1",
+    "dateCreated": "2001-07-30",
+    "inLanguage": "English",
+    "heading": "A total snore",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 24722,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "datePublished": "2001-06-08",
+  "keywords": "remake,adulterous wife,psychotronic film,disguised as homeless person,body swap comedy",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Chris Rock",
+      "url": "https://www.imdb.com/name/nm0001674/"
+    },
+    {
+      "name": "Regina King",
+      "url": "https://www.imdb.com/name/nm0005093/"
+    },
+    {
+      "name": "Chazz Palminteri",
+      "url": "https://www.imdb.com/name/nm0001590/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chris Weitz",
+      "url": "https://www.imdb.com/name/nm0919363/"
+    },
+    {
+      "name": "Paul Weitz",
+      "url": "https://www.imdb.com/name/nm0919369/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Elaine May",
+      "url": "https://www.imdb.com/name/nm0561938/"
+    },
+    {
+      "name": "Warren Beatty",
+      "url": "https://www.imdb.com/name/nm0000886/"
+    },
+    {
+      "name": "Chris Rock",
+      "url": "https://www.imdb.com/name/nm0001674/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "War, Inc.",
+  "url": "https://www.imdb.com/tt0884224/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODk3NzkxMzE2Nl5BMl5BanBnXkFtZTcwMTIzMzQ2MQ@@._V1_.jpg",
+  "description": "A corporation hires a professional assassin to pose as its trade show representative who must organize the wedding of a Middle Eastern pop star, which will allow him the opportunity to kill a Middle Eastern politician.",
+  "review": {
+    "author": "Juicy92888",
+    "dateCreated": "2008-05-04",
+    "inLanguage": "English",
+    "heading": "Critics might be off the mark on this one...",
+    "reviewBody": "I thought this movie was a lot better than most movie critics are giving it credit for. Though it has its confusing parts of the plot, it doesn't greatly interfere with your understanding of the movie. That being said, If you're not open to more liberal political ideas, then this probably isn't the movie for you. I thought all the actors in the movie were outstanding. Each character has their funny moments and the audience at the Tribeca Film Festival was laughing throughout the whole thing. I thought the satire was a tad over the top in one particular area, but that's intentionally done. John Cusack is right in that although it's set in the future, it really makes you see the present.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 22428,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Thriller"
+  ],
+  "datePublished": "2008-06-13",
+  "keywords": "corporation,satire,reporter,assassin,pop star",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "John Cusack",
+      "url": "https://www.imdb.com/name/nm0000131/"
+    },
+    {
+      "name": "Marisa Tomei",
+      "url": "https://www.imdb.com/name/nm0000673/"
+    },
+    {
+      "name": "Hilary Duff",
+      "url": "https://www.imdb.com/name/nm0240381/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joshua Seftel",
+      "url": "https://www.imdb.com/name/nm0781733/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Leyner",
+      "url": "https://www.imdb.com/name/nm2061096/"
+    },
+    {
+      "name": "Jeremy Pikser",
+      "url": "https://www.imdb.com/name/nm0683282/"
+    },
+    {
+      "name": "John Cusack",
+      "url": "https://www.imdb.com/name/nm0000131/"
+    }
+  ]
+}

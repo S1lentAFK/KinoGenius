@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "What Just Happened",
+  "url": "https://www.imdb.com/tt0486674/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTEyMDg3ODAwNl5BMl5BanBnXkFtZTcwMzM3MTc3MQ@@._V1_.jpg",
+  "description": "Two weeks in the life of a fading Hollywood producer who's having a rough time trying to get his new picture made.",
+  "review": {
+    "author": "Michael_Elliott",
+    "dateCreated": "2009-03-09",
+    "inLanguage": "English",
+    "heading": "Too Boring",
+    "reviewBody": "What Just Happened (2008) \n\n** (out of 4) \n\nDisappointing adaptation of Art Linson's book about a major Hollywood producer (Robert DeNiro) who finds his world both personally and professionally falling apart in the matter of one week. His latest finished film has the director butting heads with the studio over the ending and his upcoming picture is on the rocks because its star Bruce Willis wants to have a beard. The producer then finds out that his ex-wife (Robin Wright Penn) might be having an affair with his screenwriter (Stanley Tucci). You know, if you're going to make a satire about Hollywood then it might be a good idea to put in some humor. If you're going to make a hard edged film about Hollywood then it might be a good idea to put in some edge. This film comes off as a major disappointment considering the source material, the director and the all-star cast they lined up to do the film. Not only do we get DeNiro turning in a very good performance but we get a fun cameo by Sean Penn as well as nice supporting work by Tucci, Penn and John Turturro. The main reason for folks to see this picture would be for the performance by DeNiro who after years of so-so work actually manages to pull off a pretty good comeback. It's just a shame to see it wasted in such a bland movie. I think every bit of the blame has to be thrown at Levinson and the screenplay. It's clear the director and writer had something to say about Hollywood but they rarely ever say anything. I was really shocked at how few laughs the movie had and it wasn't because they went for them and missed but instead they simply didn't go for them. We really don't get any major incites into Hollywood that we haven't seen before and the movie never really takes any punches either. There's the whole subplot about a director having his vision taken away by the studio yet the movie isn't critical of the studio. This movie really isn't critical about anything so in the end you have to wonder what the whole point was to begin with.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 28432,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2008-11-28",
+  "keywords": "falling downhill,looking at oneself in a mirror,woman in a men's room,satirical,showbiz comedy",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Robert De Niro",
+      "url": "https://www.imdb.com/name/nm0000134/"
+    },
+    {
+      "name": "John Turturro",
+      "url": "https://www.imdb.com/name/nm0001806/"
+    },
+    {
+      "name": "Stanley Tucci",
+      "url": "https://www.imdb.com/name/nm0001804/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Barry Levinson",
+      "url": "https://www.imdb.com/name/nm0001469/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Art Linson",
+      "url": "https://www.imdb.com/name/nm0513165/"
+    }
+  ]
+}

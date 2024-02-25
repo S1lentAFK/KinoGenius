@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Step Up 2: The Streets",
+  "url": "https://www.imdb.com/tt1023481/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODI2MTllYzMtNjA0Yi00MzNkLTg1MWItMWRhZTI3YTVjZjMyXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg",
+  "description": "Romantic sparks occur between two dance students from different backgrounds at the Maryland School of the Arts.",
+  "contentRating": "PG",
+  "genre": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "datePublished": "2008-03-21",
+  "keywords": "dance off,dancing in the rain,dance movie,dance audition,dance crew",
+  "duration": "PT1H38M",
+  "rating": {
+    "ratingCount": 90677,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "review": {
+    "author": "LikeAn_Angel",
+    "dateCreated": "2008-02-14",
+    "inLanguage": "English",
+    "heading": "Dialogue laughable...Dancing beyond incredible",
+    "reviewBody": "As with the last user who commented, the reason for this score was purely the dancing. Now, to be fair, the acting abilities of the two main characters was average...even above average at times...though not stellar. However, their dancing was freaking SICK. I&apos;ve seen a lot, and some of this freestyle was off the charts incredible. The only reason that I went to see this movie, in fact.\\n\\nBriana Evigan (Andie) is an amazingly talented dancer. Her acting was actually not that bad, I was pleased. Robert Hoffman (Chase) was the typical charming, blond-haired and privileged pretty-boy...with an edge. His dancing was phenomenal, they were both exciting to watch. Their chemistry together was enough to make it hard to tear my eyes from the screen. If the trailers entertain you, and you&apos;re a fan of dance see this movie. Though the plot is weak, and the dialogue laughable, the dancing is enough to make spending your $8 on the ticket more than worth it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "Robert Hoffman",
+      "url": "https://www.imdb.com/name/nm1382207/"
+    },
+    {
+      "name": "Briana Evigan",
+      "url": "https://www.imdb.com/name/nm0263759/"
+    },
+    {
+      "name": "Cassie Ventura",
+      "url": "https://www.imdb.com/name/nm0144260/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jon M. Chu",
+      "url": "https://www.imdb.com/name/nm0160840/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Toni Ann Johnson",
+      "url": "https://www.imdb.com/name/nm0426355/"
+    },
+    {
+      "name": "Karen Barna",
+      "url": "https://www.imdb.com/name/nm1661137/"
+    },
+    {
+      "name": "Duane Adler",
+      "url": "https://www.imdb.com/name/nm0012137/"
+    }
+  ]
+}

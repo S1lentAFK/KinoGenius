@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Emperor",
+  "url": "https://www.imdb.com/tt2103264/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI4OTcwMTY3N15BMl5BanBnXkFtZTcwMTI1MzcxOQ@@._V1_.jpg",
+  "description": "As the Japanese surrender at the end of World War II, General Fellers is tasked with deciding if Emperor Hirohito will be hanged as a war criminal. Influencing his ruling is his quest to find Aya, an exchange student he met years ...",
+  "review": {
+    "author": "l_rawjalaurence",
+    "dateCreated": "2013-06-20",
+    "inLanguage": "English",
+    "heading": "A Strangely Haunting Movie Narrating an Actual Event in American History",
+    "reviewBody": "I have to admit I liked this movie a lot. The plot is straightforward: General Bonner Fellers (Matthew Fox) is hired by General Douglas MacArthur (Tommy Lee Jones) to investigate the role of Emperor Hirohito (Takataro Kataoka) during World War II, to investigate whether the Emperor should be tried as a war criminal. However the film is about a lot more than just conduct during war; it is a story of cultural adaptation, as Fellers comes to know something about Japanese attitudes towards the conflict, and how they differ significantly from those embraced by the Americans. Eventually the two sides come to an understanding - so much so that Hirohito actually deigns to have a meeting with MacArthur, something hitherto considered unthinkable in Japanese aristocratic culture. Jones&apos; MacArthur is just wonderful - although physically very different from the actual person, the actor captures the mannerisms, the aggressiveness, and the softness lurking beneath an apparently gruff personality.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 14759,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "datePublished": "2013-10-04",
+  "keywords": "douglas macarthur,u.s. japanese relations,hirohito,emperor,japanese surrender",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Matthew Fox",
+      "url": "https://www.imdb.com/name/nm0289142/"
+    },
+    {
+      "name": "Colin Moy",
+      "url": "https://www.imdb.com/name/nm0610325/"
+    },
+    {
+      "name": "Tommy Lee Jones",
+      "url": "https://www.imdb.com/name/nm0000169/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Webber",
+      "url": "https://www.imdb.com/name/nm0916424/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Vera Blasi",
+      "url": "https://www.imdb.com/name/nm0087733/"
+    },
+    {
+      "name": "David Klass",
+      "url": "https://www.imdb.com/name/nm0458318/"
+    },
+    {
+      "name": "Shiro Okamoto",
+      "url": "https://www.imdb.com/name/nm5477351/"
+    }
+  ]
+}

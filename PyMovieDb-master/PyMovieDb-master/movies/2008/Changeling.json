@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Changeling",
+  "url": "https://www.imdb.com/tt0824747/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTA1Mzg3NjIxNV5BMl5BanBnXkFtZTcwNzU2NTc5MQ@@._V1_.jpg",
+  "description": null,
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2008-11-26",
+  "keywords": "gaslighting,boy,missing child,abuse of power,los angeles police department",
+  "duration": "PT2H21M",
+  "actor": [
+    {
+      "name": "Angelina Jolie",
+      "url": "https://www.imdb.com/name/nm0001401/"
+    },
+    {
+      "name": "Colm Feore",
+      "url": "https://www.imdb.com/name/nm0272173/"
+    },
+    {
+      "name": "Amy Ryan",
+      "url": "https://www.imdb.com/name/nm0752407/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Clint Eastwood",
+      "url": "https://www.imdb.com/name/nm0000142/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "J. Michael Straczynski",
+      "url": "https://www.imdb.com/name/nm0833089/"
+    }
+  ],
+  "review": {
+    "author": "aharmas",
+    "dateCreated": "2008-11-02",
+    "inLanguage": "English",
+    "heading": "Eastwood and Angeline deliver a strong punch",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 264340,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  }
+}

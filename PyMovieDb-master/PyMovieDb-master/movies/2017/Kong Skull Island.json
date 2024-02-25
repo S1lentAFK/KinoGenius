@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Kong: Skull Island",
+  "url": "https://www.imdb.com/tt3731562/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWUxNjZiNTAtZmMwMi00MmYxLTkxZGEtZWE1MzU0OWFjOTNhXkEyXkFqcGdeQXVyNzk1MzI3MTI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "spencergrande6",
+    "dateCreated": "2017-04-22",
+    "inLanguage": "English",
+    "heading": "Kind of all over the place but distinct enough",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 343121,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "2017-03-09",
+  "keywords": "giant monster,pointless self sacrifice,giant spider,monster movie,monster versus monster",
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Tom Hiddleston",
+      "url": "https://www.imdb.com/name/nm1089991/"
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "url": "https://www.imdb.com/name/nm0000168/"
+    },
+    {
+      "name": "Brie Larson",
+      "url": "https://www.imdb.com/name/nm0488953/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jordan Vogt-Roberts",
+      "url": "https://www.imdb.com/name/nm3611349/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dan Gilroy",
+      "url": "https://www.imdb.com/name/nm0319659/"
+    },
+    {
+      "name": "Max Borenstein",
+      "url": "https://www.imdb.com/name/nm1440919/"
+    },
+    {
+      "name": "Derek Connolly",
+      "url": "https://www.imdb.com/name/nm2081046/"
+    }
+  ]
+}

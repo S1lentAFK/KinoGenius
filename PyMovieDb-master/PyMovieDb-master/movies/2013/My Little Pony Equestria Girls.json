@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "My Little Pony: Equestria Girls",
+  "url": "https://www.imdb.com/tt2908228/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMThmYjIxODUtMGRlYS00YmM2LTk4ODEtYjcxM2JiNzdlYjY4XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+  "description": "Via a magic mirror, Twilight Sparkle travels into an alternate universe in order to recover a crown that was stolen from the Crystal Empire. Upon her arrival she is horrified to learn that she has turned into a human.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2016-11-18",
+  "keywords": "friendship,magic,high school,apology,dancing",
+  "duration": "PT1H12M",
+  "actor": [
+    {
+      "name": "Tara Strong",
+      "url": "https://www.imdb.com/name/nm0152839/"
+    },
+    {
+      "name": "Ashleigh Ball",
+      "url": "https://www.imdb.com/name/nm1868320/"
+    },
+    {
+      "name": "Andrea Libman",
+      "url": "https://www.imdb.com/name/nm0508877/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jayson Thiessen",
+      "url": "https://www.imdb.com/name/nm2149505/"
+    },
+    {
+      "name": "Noelle Benvenuti",
+      "url": "https://www.imdb.com/name/nm6348823/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Meghan McCarthy",
+      "url": "https://www.imdb.com/name/nm2436273/"
+    },
+    {
+      "name": "Lauren Faust",
+      "url": "https://www.imdb.com/name/nm0269260/"
+    },
+    {
+      "name": "Bonnie Zacherle",
+      "url": "https://www.imdb.com/name/nm9261564/"
+    }
+  ],
+  "review": {
+    "author": "SmallDog95",
+    "dateCreated": "2013-06-30",
+    "inLanguage": "English",
+    "heading": "Surprisingly okay.",
+    "reviewBody": "There's a lot of things you can say about this movie. Yes, it's corny. Yes, it panders to the fan-base. Yes, the concept is silly. Yes, it's basically an hour-long commercial for a new toy line. But that doesn't change the fact that My Little Pony: Equestria Girls is, honestly, pretty alright. No, it's not perfect, not by a long shot, but then, neither is the show (blasphemy, I know but it's true).\\n\\nIf you're a fan of the show and you take this movie for what it is: the pilot episode for what will hopefully be a decent cartoon and an advertisement for toys, then you'll probably enjoy it. Your kids, if you have any, will most likely enjoy it. If you're not a fan of the show, a kid, or both, then steer clear.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 5873,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  }
+}

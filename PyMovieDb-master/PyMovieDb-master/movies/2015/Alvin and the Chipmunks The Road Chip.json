@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Alvin and the Chipmunks: The Road Chip",
+  "url": "https://www.imdb.com/tt2974918/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcyNDY0MjY2M15BMl5BanBnXkFtZTgwMTU3Mjk4NjE@._V1_.jpg",
+  "description": "The Chipmunks believe that Dave plans to propose to his new girlfriend in Miami.--and dump them. They have three days to get to him and save themselves not only from losing Dave but also from gaining a terrible stepbrother.",
+  "contentRating": "U",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2016-02-12",
+  "keywords": "alvin and the chipmunks characters,chipmunk,new orleans louisiana,animal protagonist,on the road",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Jason Lee",
+      "url": "https://www.imdb.com/name/nm0005134/"
+    },
+    {
+      "name": "Justin Long",
+      "url": "https://www.imdb.com/name/nm0519043/"
+    },
+    {
+      "name": "Matthew Gray Gubler",
+      "url": "https://www.imdb.com/name/nm1131557/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Walt Becker",
+      "url": "https://www.imdb.com/name/nm0065608/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ross Bagdasarian",
+      "url": "https://www.imdb.com/name/nm0046564/"
+    },
+    {
+      "name": "Janice Karman",
+      "url": "https://www.imdb.com/name/nm0439739/"
+    },
+    {
+      "name": "Randi Mayem Singer",
+      "url": "https://www.imdb.com/name/nm0802020/"
+    }
+  ],
+  "review": {
+    "author": "bellasbarden",
+    "dateCreated": "2015-12-25",
+    "inLanguage": "English",
+    "heading": "Great movie for all ages!",
+    "reviewBody": "Awesome movie for kids.It so funny!! All the soundtrack is awesome.\n\nThis movie is worth to watch! The reason why this movie is awesome is:\n\n01. All chipmunks face is cute 02. The storyline is perfect 03. The location that chosen is perfect. 04. The soundtrack that chosen in this movie is great with chipmunks voice. 05. The chipmunks voice is great!\n\nSo, this movie was recommended for all ages.It should be rated G and the IMDb is should be 6 not 3!! 20th Century Fox and Regency Entreprises was do the great sequel for this series. I hope this movie will getting a sequel again and it was perfect then another series.\n\nI hope this movie will be the top movie after Star Wars VII - The Force Awakens",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 22216,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.9
+  }
+}

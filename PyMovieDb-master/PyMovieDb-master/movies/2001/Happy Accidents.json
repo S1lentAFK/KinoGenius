@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Happy Accidents",
+  "url": "https://www.imdb.com/tt0208196/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYyNDY2ODg3NF5BMl5BanBnXkFtZTcwMDQ0Mjk3OA@@._V1_.jpg",
+  "description": "New Yorker Ruby Weaver believes she has found the man of her dreams in Sam Deed, who is her best catch in some time--except that he assures her that he came from the future.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2001-09-12",
+  "keywords": "time travel romance,the future,therapist,time travel,2000s",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Marisa Tomei",
+      "url": "https://www.imdb.com/name/nm0000673/"
+    },
+    {
+      "name": "Vincent D'Onofrio",
+      "url": "https://www.imdb.com/name/nm0000352/"
+    },
+    {
+      "name": "Holland Taylor",
+      "url": "https://www.imdb.com/name/nm0852466/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brad Anderson",
+      "url": "https://www.imdb.com/name/nm0026442/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brad Anderson",
+      "url": "https://www.imdb.com/name/nm0026442/"
+    }
+  ],
+  "review": {
+    "author": "chron",
+    "dateCreated": "2003-06-20",
+    "inLanguage": "English",
+    "heading": "Interesting and Refreshingly New",
+    "reviewBody": "I tend to like character-driven movies and am quickly put off by movies that follow one of the familiar Hollywood stories. This movie successfully ventures into interesting and largely untested ground.\\n\\nThe story is about a man (Vincent D'Onofrio) who becomes romantically involved with a woman (Marisa Tomei) who has a history of co-dependence and failed relationships. He claims that he is from the future. The plot takes us on the journey of their relationship and her questioning of the truth to his claims vs. whether he is another in a string of loser guys that she seems to cling to.\\n\\nThe plot synopsis sounded a little odd, but it was my hope that these two talented actors could pull it off. Both Tomei and D'Onofrio turn in excellent performances. They present complex, interesting and flawed characters who engage our interest. The writing is very good and enjoyable.\\n\\nMy only complaint is the the story sags a little about 2/3 of the way through. A little tighter editing of about 10 minutes of essentially redundant scenes would have made the movie a more engaging.\\n\\nI rate it a 8/10 and encourage those who like well-written, character-driven movies to check this one out.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 10183,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  }
+}

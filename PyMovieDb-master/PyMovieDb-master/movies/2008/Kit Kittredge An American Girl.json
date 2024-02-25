@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Kit Kittredge: An American Girl",
+  "url": "https://www.imdb.com/tt0846308/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzYzMTBjZGYtODZlMi00ZDNjLTk0YjQtODc0ZWQ0MGVlYmY0XkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "cklarson-1",
+    "dateCreated": "2008-07-06",
+    "inLanguage": "English",
+    "heading": "This movie was beyond my expectations",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 6311,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2008-07-02",
+  "keywords": "young,father,girl,house,great depression",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Abigail Breslin",
+      "url": "https://www.imdb.com/name/nm1113550/"
+    },
+    {
+      "name": "Stanley Tucci",
+      "url": "https://www.imdb.com/name/nm0001804/"
+    },
+    {
+      "name": "Joan Cusack",
+      "url": "https://www.imdb.com/name/nm0000349/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Patricia Rozema",
+      "url": "https://www.imdb.com/name/nm0005390/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ann Peacock",
+      "url": "https://www.imdb.com/name/nm0668754/"
+    },
+    {
+      "name": "Valerie Tripp",
+      "url": "https://www.imdb.com/name/nm2090987/"
+    }
+  ]
+}

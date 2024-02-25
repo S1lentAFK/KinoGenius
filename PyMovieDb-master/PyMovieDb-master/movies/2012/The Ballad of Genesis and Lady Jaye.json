@@ -1,0 +1,57 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Ballad of Genesis and Lady Jaye",
+  "url": "https://www.imdb.com/tt1821635/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk1MzY5OTIwMl5BMl5BanBnXkFtZTcwNzUyMDgxNw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "jean0519",
+    "dateCreated": "2012-04-12",
+    "inLanguage": "English",
+    "heading": "How Did They Turn a Compelling Story into a Boring Endurance Test?",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 2
+    }
+  },
+  "rating": {
+    "ratingCount": 685,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Documentary",
+    "Biography",
+    "Music"
+  ],
+  "datePublished": "2011-10-26",
+  "keywords": "artist,wife",
+  "duration": "PT1H5M",
+  "actor": [
+    {
+      "name": "Genesis P-Orridge",
+      "url": "https://www.imdb.com/name/nm0654889/"
+    },
+    {
+      "name": "Lady Jaye Breyer P&apos;Orridge",
+      "url": "https://www.imdb.com/name/nm2495711/"
+    },
+    {
+      "name": "Big Boy Breyer P&apos;Orridge",
+      "url": "https://www.imdb.com/name/nm4731557/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Marie Losier",
+      "url": "https://www.imdb.com/name/nm1633031/"
+    }
+  ],
+  "creator": []
+}

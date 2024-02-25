@@ -1,0 +1,63 @@
+
+
+{
+  "type": "Movie",
+  "name": "George Harrison: Living in the Material World",
+  "url": "https://www.imdb.com/tt1113829/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2FkMzc0ZjUtMjU0Yi00OTg5LTg1NDgtNTNlOTI3MmYyNzQ5XkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_.jpg",
+  "description": "Filmmaker Martin Scorsese examines the life of musician George Harrison, weaving together interviews, concert footage, home movies and photographs.",
+  "review": {
+    "author": "paul2001sw-1",
+    "dateCreated": "2012-03-22",
+    "inLanguage": "English",
+    "heading": "Hagiographic, but interesting because of its subject",
+    "reviewBody": "George Harrison was a creative force in the Beatles; not as much a creative force as Lennon and McCartney, but still someone who contributed to their amazing, transformative body of music in a significant way. He was also unusually interested (for a westerner) in eastern mysticism; but was not without his attachments to aspects of the material world. The man&apos;s life is told, through old and new interviews with himself and his friends, and archive footage (of which there is plenty), in Martin Scorcese&apos;s film. It&apos;s fair to say the film is somewhat hagiographic, telling an overwhelming sympathetic story: a reference to a period of heavy drug abuse is made, but not directly commented upon, and no reference is made to the Natural Law Party (whose bizarre platform in the 1992 British general election was actively supported by Harrison). And one might question how much of the story of his later life is really that interesting, or whether his apparent contradictions were the simple consequence of having too much money and time. But one thing does come over: for all his failings, he seems to have been a genuinely loved human being, in a decidedly unusual way; to combine that with the musical legacy of the Beatles is not such a bad epitaph for a life.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 12527,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Documentary",
+    "Biography",
+    "Music"
+  ],
+  "datePublished": "2011-10-04",
+  "keywords": [
+    "spirituality",
+    "hare krishna",
+    "laughter",
+    "songwriter",
+    "song"
+  ],
+  "duration": "PT3H28M",
+  "actor": [
+    {
+      "name": "George Harrison",
+      "url": "https://www.imdb.com/name/nm0365600/"
+    },
+    {
+      "name": "Harry Harrison",
+      "url": "https://www.imdb.com/name/nm3353329/"
+    },
+    {
+      "name": "Peter Harrison",
+      "url": "https://www.imdb.com/name/nm5170367/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Martin Scorsese",
+      "url": "https://www.imdb.com/name/nm0000217/"
+    }
+  ],
+  "creator": []
+}

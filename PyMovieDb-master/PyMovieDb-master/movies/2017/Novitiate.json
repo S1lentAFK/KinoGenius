@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "Novitiate",
+  "url": "https://www.imdb.com/tt4513316/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU5NDQzNTY2MV5BMl5BanBnXkFtZTgwMjgxMTMyMzI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "fciocca",
+    "dateCreated": "2021-03-14",
+    "inLanguage": "English",
+    "heading": "Some good ideas here and there. Movie starts really good, but then becomes cringey",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 4972,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "R",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2017-01-20",
+  "keywords": "nun,vatican two,year 1964,catholic church,catholicism",
+  "duration": "PT2H3M",
+  "actor": [
+    {
+      "name": "Melissa Leo",
+      "url": "https://www.imdb.com/name/nm0502425/"
+    },
+    {
+      "name": "Lisa Stewart",
+      "url": "https://www.imdb.com/name/nm1274602/"
+    },
+    {
+      "name": "Alyssa Brindley",
+      "url": "https://www.imdb.com/name/nm9844100/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Maggie Betts",
+      "url": "https://www.imdb.com/name/nm0079448/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Maggie Betts",
+      "url": "https://www.imdb.com/name/nm0079448/"
+    }
+  ]
+}

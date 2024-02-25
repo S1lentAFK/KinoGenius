@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Water Diviner",
+  "url": "https://www.imdb.com/tt3007512/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMzODA4NDYzM15BMl5BanBnXkFtZTgwMTc0Mzc0NDE@._V1_.jpg",
+  "description": "An Australian man travels to Turkey after the Battle of Gallipoli to try to locate his three missing sons.",
+  "review": {
+    "author": "tillydimech",
+    "dateCreated": "2014-12-28",
+    "inLanguage": "English",
+    "heading": "A Great Film from A Great Man",
+    "reviewBody": "If this is Russell Crowe's first film I can't wait to see what is to come. The Water Diviner takes you an an impossible, heart warming journey of a father looking for his sons after the tragedy of Gallipoli. What this film does well is captures both sides of the battle, the Turkish and the ANZAC's. It is visually stunning, emotionally charged and does more than most movies to pry open your empathetic side.\\n\\nThe cast are amazing but I think my praise would have to go to Ryan Corr, Yilmaz Erdogen and Olga Kurylenko for three beautiful performances. All three of them aid Crowe's performance in a highly emotional way and create depth and love within the film.\\n\\nI highly recommend giving this film a go if you appreciate a film with a good story and good talent and I hope it receives the praise and attention it deserves. It is definitely worth the watch.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 77657,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "datePublished": "2015-04-03",
+  "keywords": "world war one,based on true story,anzac cavalry,1910s,gallipoli",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Russell Crowe",
+      "url": "https://www.imdb.com/name/nm0000128/"
+    },
+    {
+      "name": "Olga Kurylenko",
+      "url": "https://www.imdb.com/name/nm1385871/"
+    },
+    {
+      "name": "Jai Courtney",
+      "url": "https://www.imdb.com/name/nm2541974/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Russell Crowe",
+      "url": "https://www.imdb.com/name/nm0000128/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Knight",
+      "url": "https://www.imdb.com/name/nm0460795/"
+    },
+    {
+      "name": "Andrew Anastasios",
+      "url": "https://www.imdb.com/name/nm4854061/"
+    }
+  ]
+}

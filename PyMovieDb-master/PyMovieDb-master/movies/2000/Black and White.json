@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Black and White",
+  "url": "https://www.imdb.com/tt0165643/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDdkMTVlZDYtOTc5Yi00MjcxLWI5ZTItNjMyZTE0ZDI2NWU4XkEyXkFqcGdeQXVyODg2MjMxMTc@._V1_.jpg",
+  "description": "A group of white high school teens become involved with Harlem's black hip-hop crowd.",
+  "review": {
+    "author": "Shiva-11",
+    "dateCreated": "2000-04-08",
+    "inLanguage": "English",
+    "heading": "Don't buy the hype!",
+    "reviewBody": "Black & White: a documentary director and her husband follows several upper middle class high school kids to try and comprehend why they have chosen to emulate black inner city hip-hop rappers. \n\nWhat is intended to be an avante-garde-in-your-face mockumentary addressing serious sociological issues is a weak series of loosely interconnecting stories with poorly developed and uninteresting characters. The credits tout many big names - Robert Downey Jr., Ben Stiller, Brooke Shields among them - but the performances are lackluster at best: while Downey's stereotypical fey gay character borders on offensive, he can't compare with Mike Tyson's ludicrous attempts at philosophizing. \n\nAt least there are no shades of grey here - it is all bad.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 6025,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5
+  },
+  "contentRating": "18",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "1999-10-08",
+  "keywords": "timberland boot,intimidation,female rear nudity,homophobia,gay husband",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Ben Stiller",
+      "url": "https://www.imdb.com/name/nm0001774/"
+    },
+    {
+      "name": "Allan Houston",
+      "url": "https://www.imdb.com/name/nm0396796/"
+    },
+    {
+      "name": "Claudia Schiffer",
+      "url": "https://www.imdb.com/name/nm0000629/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Toback",
+      "url": "https://www.imdb.com/name/nm0864812/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Toback",
+      "url": "https://www.imdb.com/name/nm0864812/"
+    }
+  ]
+}

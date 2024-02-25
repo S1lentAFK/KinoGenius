@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Amber Alert",
+  "url": "https://www.imdb.com/tt2093944/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkyNjEzMzI4MF5BMl5BanBnXkFtZTcwMjE3MDk2OA@@._V1_.jpg",
+  "description": "When a group of friends decides to follow a car they&apos;ve seen posted on an Amber Alert, things start to go very wrong.",
+  "contentRating": "R",
+  "genre": [
+    "Crime",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2012-11-02",
+  "duration": "PT1H20M",
+  "keywords": "amber alert,risk,shot to death,video camera,kidnapped girl",
+  "rating": {
+    "ratingCount": 3469,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.4
+  },
+  "review": {
+    "author": "rachelcoleman-57919",
+    "dateCreated": "2021-06-08",
+    "inLanguage": "English",
+    "heading": "awful movie",
+    "reviewBody": "It took me a while to figure out if this was a legitimate movie people tried to make or 3 kids actually filming something because thats how bad it was I couldn&apos;t even finish it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "actor": [
+    {
+      "name": "Summer Bellessa",
+      "url": "https://www.imdb.com/name/nm5045573/"
+    },
+    {
+      "name": "Chris Hill",
+      "url": "https://www.imdb.com/name/nm1740957/"
+    },
+    {
+      "name": "Jasen Wade",
+      "url": "https://www.imdb.com/name/nm1751183/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kerry Bellessa",
+      "url": "https://www.imdb.com/name/nm2913384/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kerry Bellessa",
+      "url": "https://www.imdb.com/name/nm2913384/"
+    },
+    {
+      "name": "Joshua Oram",
+      "url": "https://www.imdb.com/name/nm2739661/"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+
+
+{
+  "type": "Movie",
+  "name": "Furious 7: Talking Fast",
+  "url": "https://www.imdb.com/tt5273488/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTBmNWQ0Y2UtOTQ3Yy00OTZjLWE0MWYtOTk1YWRiNTFlN2EzXkEyXkFqcGdeQXVyMTE5NzI0NDM@._V1_.jpg",
+  "description": "Director James Wan hosts a closer look at some of the key moments from the film. This is essentially a mini-commentary in which Wan discusses some technically and dramatically insightful details over a large monitor that shows bot...",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 169,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": null,
+  "genre": [
+    "Documentary",
+    "Short"
+  ],
+  "datePublished": "2015-09-15",
+  "keywords": "fast talking,dvd extra",
+  "duration": "PT32M",
+  "actor": [
+    {
+      "name": "James Wan",
+      "url": "https://www.imdb.com/name/nm1490123/"
+    },
+    {
+      "name": "Michelle Rodriguez",
+      "url": "https://www.imdb.com/name/nm0735442/"
+    },
+    {
+      "name": "Jordana Brewster",
+      "url": "https://www.imdb.com/name/nm0108287/"
+    }
+  ],
+  "director": [],
+  "creator": []
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Black Hawk Down",
+  "url": "https://www.imdb.com/tt0265086/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWMwMzQxZjQtODM1YS00YmFiLTk1YjQtNzNiYWY1MDE4NTdiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+  "description": "The story of 160 elite U.S. soldiers who dropped into Mogadishu in October 1993 to capture two top lieutenants of a renegade warlord, but found themselves in a desperate battle with a large force of heavily armed Somalis.",
+  "review": {
+    "author": "dberman-2",
+    "dateCreated": "2005-03-03",
+    "inLanguage": "English",
+    "heading": "one of the best ACCURATE war movies",
+    "reviewBody": "Unlike most of the war movies of our time, Black Hawk Down sticks to the facts about what happened in Mogadishu and doesn't romanticize the story. To support this observation, the viewer will notice that there is not really one main character. This shows that the film focuses more on what happened in Somalia instead of on the characters personality and/or struggles. Another important aspect of the film that makes it so great is the cinematography. Not only was the setting of the film accurate to the real thing, but the way that the movie was filmed is great because it seems like someone is running along the battle scene getting everything on tape. In addition, the film contains small aspects that one may not notice that are important to the situation in Mogadishu. For instance, the bullet shells that fell from the firing helicopter fell into one of the soldiers' vests, and he scrambled to get it out because of how hot it was. This small detail makes the movie that much more realistic. To conclude, Black Hawk Down is a great movie that is both an eye opener that sticks to the facts as well as a quality film. I recommend this movie to any war-film fan, as well as anyone that likes watching movies in general.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 420650,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2002-01-18",
+  "keywords": "somalia,u.s. army,gunfight,peacekeeper,chaos",
+  "duration": "PT2H24M",
+  "actor": [
+    {
+      "name": "Josh Hartnett",
+      "url": "https://www.imdb.com/name/nm0001326/"
+    },
+    {
+      "name": "Ewan McGregor",
+      "url": "https://www.imdb.com/name/nm0000191/"
+    },
+    {
+      "name": "Tom Sizemore",
+      "url": "https://www.imdb.com/name/nm0001744/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ridley Scott",
+      "url": "https://www.imdb.com/name/nm0000631/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Bowden",
+      "url": "https://www.imdb.com/name/nm0100736/"
+    },
+    {
+      "name": "Ken Nolan",
+      "url": "https://www.imdb.com/name/nm0634307/"
+    }
+  ]
+}

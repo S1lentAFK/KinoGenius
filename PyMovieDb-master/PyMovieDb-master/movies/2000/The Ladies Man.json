@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Ladies Man",
+  "url": "https://www.imdb.com/tt0213790/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTBjNzU5YmQtN2JhNi00ODA4LTg5MDctMmVhYTQwOTE5OTA2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "The Saturday Night Live (1975) character gets a big screen treatment.",
+  "review": {
+    "author": "docm-32304",
+    "dateCreated": "2020-10-20",
+    "inLanguage": "English",
+    "heading": "Yup...silly enough to be just plain funny",
+    "reviewBody": "Come on people...you don't pick this movie expecting anything high brow. This is just one of those simple comedies that is silly enough to be funny enough to watch, but not stupid enough to turn away from. Both my wife and I giggled through the whole thing. So for those who want to leave reality for a bit and escape into something that delivers nothing more than laughs, this is a film to enjoy",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 13755,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2001-07-13",
+  "keywords": "womanizer,african american,buttocks,male rear nudity,interrupted sex",
+  "duration": "PT1H24M",
+  "actor": [
+    {
+      "name": "Tim Meadows",
+      "url": "https://www.imdb.com/name/nm0005218/"
+    },
+    {
+      "name": "Karyn Parsons",
+      "url": "https://www.imdb.com/name/nm0663854/"
+    },
+    {
+      "name": "Billy Dee Williams",
+      "url": "https://www.imdb.com/name/nm0001850/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Reginald Hudlin",
+      "url": "https://www.imdb.com/name/nm0399737/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tim Meadows",
+      "url": "https://www.imdb.com/name/nm0005218/"
+    },
+    {
+      "name": "Dennis McNicholas",
+      "url": "https://www.imdb.com/name/nm0574005/"
+    },
+    {
+      "name": "Harper Steele",
+      "url": "https://www.imdb.com/name/nm0824482/"
+    }
+  ]
+}

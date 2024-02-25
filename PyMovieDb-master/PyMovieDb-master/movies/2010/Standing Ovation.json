@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "Standing Ovation",
+  "url": "https://www.imdb.com/tt1303803/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDQ0NjYwNDk5M15BMl5BanBnXkFtZTcwMzgzMDk0Mw@@._V1_.jpg",
+  "description": "About a group of friends competing in a national tween music video contest. Enter a world of hilarious adventures, original songs and never before seen dance routines. You will be left believing in the power of childhood dreams.",
+  "review": {
+    "author": "Jongho-is-my-Daddy",
+    "dateCreated": "2021-07-31",
+    "inLanguage": "English",
+    "heading": "its so cringey, its funny.",
+    "reviewBody": "I dont like this movie, it was cringe. The acting was bad, the story is questionable, and it&apos;s just weird. But, it&apos;s so bad that there is a point it&apos;s likable because it&apos;s bad. I know i sound like i am on drugs, but it&apos;s just how i see the movie XD. Like, the reason why i dont like it, is the same reason why i do like it. You know what i mean? But if i just pay attention to the movie itself, its bad.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 848,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Musical"
+  ],
+  "datePublished": "2010-07-16",
+  "keywords": "pop musical,stage musical,world,group,power",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Devon Jordan",
+      "url": "https://www.imdb.com/name/nm3610766/"
+    },
+    {
+      "name": "Ashley Cutrona",
+      "url": "https://www.imdb.com/name/nm3159791/"
+    },
+    {
+      "name": "Erika Corvette",
+      "url": "https://www.imdb.com/name/nm3143762/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Stewart Raffill",
+      "url": "https://www.imdb.com/name/nm0706296/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stewart Raffill",
+      "url": "https://www.imdb.com/name/nm0706296/"
+    }
+  ]
+}

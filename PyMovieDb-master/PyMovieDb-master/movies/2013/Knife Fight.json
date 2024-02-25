@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "Knife Fight",
+  "url": "https://www.imdb.com/tt1931466/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MDU4NjM1MV5BMl5BanBnXkFtZTcwNjQ3MzY5OA@@._V1_.jpg",
+  "description": "A political strategist juggling three clients questions whether or not to take the high road as the ugly side of his work begins to haunt him.",
+  "review": {
+    "author": "xhidden99",
+    "dateCreated": "2017-06-24",
+    "inLanguage": "English",
+    "heading": "It's dangerous to believe your own nonsense",
+    "reviewBody": "The first rule of satire is remember that it's satire. Because there are three types of political movies. One, the Mr Smith Goes to Washington true believer movie; two, the anti political nihilist flick like The Parallax View and lastly, the satire. The two points you have to include in a satire are a, humor and b, a broad sense of farce. The problem this movie has is that it started with the goal of being satire but halfway through it drank the Kool Aid and capitulated to becoming Mr Smith. By the end, the people we're supposed to be poking fun at have become moral crusaders for the forces of good and all the things we were poking fun at have become virtues. It's neither one nor the other but a watered down mixture of both. The dirty tricks and outright crimes they commit are swept away as nothing more than data points on the road to moral supremacy. If your cause is just then not only do the ends justify the means but the dirtier they are the more virtuous the end.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 1550,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "R",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2013-01-28",
+  "keywords": "politics,political communication,elections,political news,political scandal",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Rob Lowe",
+      "url": "https://www.imdb.com/name/nm0000507/"
+    },
+    {
+      "name": "Jamie Chung",
+      "url": "https://www.imdb.com/name/nm1512166/"
+    },
+    {
+      "name": "Julie Bowen",
+      "url": "https://www.imdb.com/name/nm0100866/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bill Guttentag",
+      "url": "https://www.imdb.com/name/nm0349702/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bill Guttentag",
+      "url": "https://www.imdb.com/name/nm0349702/"
+    },
+    {
+      "name": "Chris Lehane",
+      "url": "https://www.imdb.com/name/nm4459177/"
+    }
+  ]
+}

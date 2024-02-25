@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Pieces of April",
+  "url": "https://www.imdb.com/tt0311648/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDQyMDM3MzIyMl5BMl5BanBnXkFtZTcwMzUwMDU2NA@@._V1_.jpg",
+  "description": "A wayward daughter invites her dying mother and the rest of her estranged family to her apartment for Thanksgiving dinner.",
+  "review": {
+    "author": "JohnDeSando",
+    "dateCreated": "2003-10-27",
+    "inLanguage": "English",
+    "heading": "I recommend the film for its true contribution to the American version of 'kitchen-sink' realism.",
+    "reviewBody": "My family Thanksgiving dinner is latent with chaos, a breath away from murder, on the edge of total misunderstanding. But we survive it and return another year because we don't know any better, or amnesia sets in, or these are the only people who will feast with us. Tim Hedges catches my family and others I am sure in 'Pieces of April,' a comedy in which Goth girl April and her black boyfriend invite her family from Jersey to their Manhattan apartment for Thanksgiving dinner.\n\nMom, played by the current middle-age rage, Patricia Clarkson ('Station Agent'), is dying from cancer, which allows her on the tumultuous ride with hubby and two other children to indulge in sardonic observations about her daughter's inability to do anything right, much less pull off a dinner, to comments about her lovers, including long-suffering dad (Oliver Platt), who patiently waits in horror for his wife to die.\n\nKatie Holmes' April flies to almost every other apartment to find a working stove, but what she finds is a menagerie of tenants, most of whom like her don't know their way around a dinner, much less Thanksgiving. As she figures out how to cut an onion or carry a turkey, each one of us can remember the first time we learned those tricks, often when the family could enjoy the humiliation.\n\nThe HD filming adds a home-movie touch to the proceedings, which are all predictable because we have all been there. I recommend the film for its true contribution to the American version of 'kitchen-sink' realism and its evocation of thankfulness in all of us that our Thanksgivings were never this disastrous, just by a hair though!",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 22047,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2004-02-20",
+  "keywords": "reference to sean john 'puff daddy' combs,no opening credits,payphone,reference to armani,reference to prada",
+  "duration": "PT1H20M",
+  "actor": [
+    {
+      "name": "Katie Holmes",
+      "url": "https://www.imdb.com/name/nm0005017/"
+    },
+    {
+      "name": "Oliver Platt",
+      "url": "https://www.imdb.com/name/nm0001624/"
+    },
+    {
+      "name": "Patricia Clarkson",
+      "url": "https://www.imdb.com/name/nm0165101/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Hedges",
+      "url": "https://www.imdb.com/name/nm0373282/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Peter Hedges",
+      "url": "https://www.imdb.com/name/nm0373282/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+  "url": "https://www.imdb.com/tt0443453/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk0MTQ3NDQ4Ml5BMl5BanBnXkFtZTcwOTQ3OTQzMw@@._V1_.jpg",
+  "description": "Kazakh TV talking head Borat is dispatched to the United States to report on the greatest country in the world. With a documentary crew in tow, Borat becomes more interested in locating and marrying Pamela Anderson.",
+  "review": {
+    "author": "danielrko",
+    "dateCreated": "2020-09-29",
+    "inLanguage": "English",
+    "heading": "7.3 ? Where is your sense of humor people?",
+    "reviewBody": "Wonderfull movie. You laugh until you cry. A perfect portrait of american culture.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 438423,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2006-11-02",
+  "keywords": "erect penis,mockumentary,nudity,parody,road movie",
+  "duration": "PT1H24M",
+  "actor": [
+    {
+      "name": "Sacha Baron Cohen",
+      "url": "https://www.imdb.com/name/nm0056187/"
+    },
+    {
+      "name": "Ken Davitian",
+      "url": "https://www.imdb.com/name/nm0205772/"
+    },
+    {
+      "name": "Luenell",
+      "url": "https://www.imdb.com/name/nm0132685/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Larry Charles",
+      "url": "https://www.imdb.com/name/nm0153078/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sacha Baron Cohen",
+      "url": "https://www.imdb.com/name/nm0056187/"
+    },
+    {
+      "name": "Anthony Hines",
+      "url": "https://www.imdb.com/name/nm0385630/"
+    },
+    {
+      "name": "Peter Baynham",
+      "url": "https://www.imdb.com/name/nm0063165/"
+    }
+  ]
+}

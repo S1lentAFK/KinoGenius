@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Defiance",
+  "url": "https://www.imdb.com/tt1034303/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjEyYjk4ZDQtZDhjMi00NGFkLWExM2UtZjgyMDMxODgwNjgyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+  "description": "Jewish brothers in German-occupied Eastern Europe escape into a Belorussian forest, where they join Russian resistance fighters, and endeavor to build a village, in order to protect themselves and about one thousand Jewish non-com...",
+  "review": {
+    "author": "skerrqc",
+    "dateCreated": "2008-03-13",
+    "inLanguage": "English",
+    "heading": "Preview Screening...",
+    "reviewBody": "James Bond and Oscar winning director Ed Zwick take on the Nazis.\n\nSaw a preview screening of DEFIANCE last week in Woodland Hills. Daniel Craig stars as Tuvia Bielski in the true WWII story of three Jewish brothers who hid in the Belorussian forests and built a community of partisan fighters, saving over 1200 Jews by war's end.\n\nLiev Schreiber (Zus Bielski) and Jamie Bell (Asael Bielski) star alongside Craig as his two younger brothers. Both Craig and Schreiber give powerhouse performances as the older brothers competing for leadership, and Jamie Bell, who most recently starred in the abysmal Jumper, gives a surprisingly great performance as well. \n\nZwick has created one of the most beautiful and thought provoking films of his career and definitely one of the most Oscar worthy movies to hit cinemas in years. War and destruction has never been so captivating and moving. There have been dozens of war movies in recent years but none have left me caring so much or feeling so attached to the characters. My eyeballs wouldn't break from the screen for the full 120 mins, and by the film's end, I wasn't ready to stop watching. I can't wait for the release (which appears to be some time this winter) in order to see it again.\n\nIt's a superb film with a nice balance of heavy hitting action and intense drama, but if that's not enough to make you want to see it, just the fact that these on screen heroes existed in real life definitely make it worth the watch.\n\nThis is a WWII movie that doesn't hide or glamorize war but shows the intense reality of what happens when people band together against overwhelming evil and survive. \n\nA solid 8.5/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 155070,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2009-01-09",
+  "keywords": "firearm,nazi soldier,nazi officer,british actor playing foreigner,nazi uniform",
+  "duration": "PT2H17M",
+  "actor": [
+    {
+      "name": "Daniel Craig",
+      "url": "https://www.imdb.com/name/nm0185819/"
+    },
+    {
+      "name": "Liev Schreiber",
+      "url": "https://www.imdb.com/name/nm0000630/"
+    },
+    {
+      "name": "Jamie Bell",
+      "url": "https://www.imdb.com/name/nm0068260/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Edward Zwick",
+      "url": "https://www.imdb.com/name/nm0001880/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Clayton Frohman",
+      "url": "https://www.imdb.com/name/nm0296243/"
+    },
+    {
+      "name": "Edward Zwick",
+      "url": "https://www.imdb.com/name/nm0001880/"
+    },
+    {
+      "name": "Nechama Tec",
+      "url": "https://www.imdb.com/name/nm2739958/"
+    }
+  ]
+}

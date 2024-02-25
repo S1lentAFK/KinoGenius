@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Turistas",
+  "url": "https://www.imdb.com/tt0454970/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTAwNjAwOTAyMDdeQTJeQWpwZ15BbWU2MDIyMTU1Nw@@._V1_.jpg",
+  "description": "A group of young backpackers' vacation turns sour when a bus accident leaves them marooned in a remote Brazilian rural area that holds an ominous secret.",
+  "review": {
+    "author": "kevin_robbins",
+    "dateCreated": "2022-02-04",
+    "inLanguage": "English",
+    "heading": "This is a slightly above average horror movie with some good gore and kill scenes",
+    "reviewBody": "Turistas (2006) is a movie I saw an advance screening of ages ago and recently watched again on Tubi. The storyline follows a group of tourists in Brazil whose tour bus breaks down and they decide to continue their trip on foot. As they get off the beaten path they find more fun than they could ever imagine but then wake up the next day to their worst nightmare.\\n\\nThis movie is directed by John Stockwell (Dark Tide) and stars Josh Duhamel (Transformers), Melissa George (Hunted), Olivia Wilde (Tron: Legacy), Desmond Askew (Go), Max Brown (The Tudors) and Beau Garrett (Tron: Legacy).\\n\\nThe settings and circumstances are well established in this and the cast is pretty solid. The storyline is cliche and straightforward but still fun to watch unfold. There's also some comedy mixed in here and there, the prostitution scene always cracks me up. I did like how they did the drug scenes and the kill sequences and gore are very solid. There's a machete scene in this I always love. There's a good use of a staple gun in this as well; and to be honest, there's some surgery scenes that make me woozy. The use of underwater scenes was a bit too much but the circumstances overall felt realistic.\\n\\nOverall this is a slightly above average horror movie with some good gore and kill scenes. This is definitely worth a viewing for horror enthusiasts that I would score a 5.5-6/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 40609,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "contentRating": "18",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2007-06-01",
+  "keywords": [
+    "female removes her clothes",
+    "organ harvesting",
+    "organ theft",
+    "female nudity",
+    "drugged drink"
+  ],
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Josh Duhamel",
+      "url": "https://www.imdb.com/name/nm0241049/"
+    },
+    {
+      "name": "Melissa George",
+      "url": "https://www.imdb.com/name/nm0313534/"
+    },
+    {
+      "name": "Olivia Wilde",
+      "url": "https://www.imdb.com/name/nm1312575/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Stockwell",
+      "url": "https://www.imdb.com/name/nm0007082/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Arlen Ross",
+      "url": "https://www.imdb.com/name/nm0743683/"
+    }
+  ]
+}

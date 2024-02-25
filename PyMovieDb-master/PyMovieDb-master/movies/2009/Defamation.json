@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hashmatsa",
+  "url": "https://www.imdb.com/tt1377278/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY0ODYxNDI2Nl5BMl5BanBnXkFtZTcwMTkyODgyMw@@._V1_.jpg",
+  "description": null,
+  "contentRating": "Not Rated",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": null,
+  "duration": "PT1H31M",
+  "keywords": "director,jew,israeli,anti semitism,author",
+  "actor": [
+    {
+      "name": "Yoav Shamir",
+      "url": "https://www.imdb.com/name/nm1516376/"
+    },
+    {
+      "name": "Abraham Foxman",
+      "url": "https://www.imdb.com/name/nm1585052/"
+    },
+    {
+      "name": "Bob Wolfson",
+      "url": "https://www.imdb.com/name/nm4991586/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Yoav Shamir",
+      "url": "https://www.imdb.com/name/nm1516376/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Yoav Shamir",
+      "url": "https://www.imdb.com/name/nm1516376/"
+    }
+  ],
+  "review": {
+    "author": "gavin6942",
+    "dateCreated": "2011-11-27",
+    "inLanguage": "English",
+    "heading": "A Great Look at the Realities of Anti-Semitism",
+    "reviewBody": "This film really hits the mark with regards to anti-semitism. For all intents and purposes, it does not exist. Racism against Jews is nothing compared to racism against blacks, Latinos or Arabs.\\n\\nThe Anti-Defamation League really show their true selves in this video and do not even seem to notice. Complaints sent to them seem to be largely about Jewish folks not getting days off for holidays. That is not anti-Semitism. That is a work policy.\\n\\nInterestingly, Norman Finkelstein is shown raw here, too. Finkelstein is a great scholar and critic of the Jewish lobby. Here is shown making statements that do not present him in a favorable light. While his underlying point is correct, he comes off like a ranting lunatic, which hardly helps his cause.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 1856,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  }
+}

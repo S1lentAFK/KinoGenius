@@ -1,0 +1,55 @@
+
+
+{
+  "type": "Movie",
+  "name": "Jiro Dreams of Sushi",
+  "url": "https://www.imdb.com/tt1772925/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA5NzQzODUxOTheQTJeQWpwZ15BbWU3MDIwODg1MDc@._V1_.jpg",
+  "description": "A documentary on 85-year-old sushi master Jiro Ono, his renowned Tokyo restaurant, and his relationship with his son and eventual heir, Yoshikazu.",
+  "review": {
+    "author": "anonfish",
+    "dateCreated": "2012-03-22",
+    "inLanguage": "English",
+    "heading": "Lessons for life",
+    "reviewBody": "When I got the invitation to go to this film, I was extremely hesitant and worried as to what I was going to be viewing. Even to go so far as to accept the impending nap I was about to have. \\n\\nI was sorely mistaken about getting a nap. From the very beginning the story and life lessons presented were gripping. True respect for the dedication, hard work and absolute presence of mind to clear away all the minutiae that many of us get caught up in to focus on the details that are so very important. \\n\\nI have actually seen action films with more lulls and uninteresting parts then what I watched in this film. It's a great story.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 37787,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "contentRating": "U",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2013-01-11",
+  "keywords": "japanese kitchen,japanese food,fish dish,sushi,japanese culture",
+  "duration": "PT1H21M",
+  "actor": [
+    {
+      "name": "Jiro Ono",
+      "url": "https://www.imdb.com/name/nm4807635/"
+    },
+    {
+      "name": "Yoshikazu Ono",
+      "url": "https://www.imdb.com/name/nm4929877/"
+    },
+    {
+      "name": "Masuhiro Yamamoto",
+      "url": "https://www.imdb.com/name/nm3975879/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Gelb",
+      "url": "https://www.imdb.com/name/nm0312173/"
+    }
+  ],
+  "creator": []
+}

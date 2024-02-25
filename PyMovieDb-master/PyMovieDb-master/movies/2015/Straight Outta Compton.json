@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Straight Outta Compton",
+  "url": "https://www.imdb.com/tt1398426/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1NjYzMjA2N15BMl5BanBnXkFtZTgwMTE1MTYyNTE@._V1_.jpg",
+  "description": "The rap group NWA emerges from the mean streets of Compton in Los Angeles, California, in the mid-1980s and revolutionizes Hip Hop culture with their music and tales about life in the hood.",
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2015-08-28",
+  "keywords": "hip hop,gangsta rap,based on true story,1980s,marijuana",
+  "duration": "PT2H27M",
+  "rating": {
+    "ratingCount": 216683,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "review": {
+    "author": "jack_o_hasanov_imdb",
+    "dateCreated": "2021-08-26",
+    "inLanguage": "English",
+    "heading": "But as a metalhead, I liked the movie.",
+    "reviewBody": "I never liked rap, I don't, and I never will.\n\nBut as a metalhead, I liked the movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "O'Shea Jackson Jr.",
+      "url": "https://www.imdb.com/name/nm6578009/"
+    },
+    {
+      "name": "Corey Hawkins",
+      "url": "https://www.imdb.com/name/nm3659660/"
+    },
+    {
+      "name": "Jason Mitchell",
+      "url": "https://www.imdb.com/name/nm4207146/"
+    }
+  ],
+  "director": [
+    {
+      "name": "F. Gary Gray",
+      "url": "https://www.imdb.com/name/nm0336620/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jonathan Herman",
+      "url": "https://www.imdb.com/name/nm6707680/"
+    },
+    {
+      "name": "Andrea Berloff",
+      "url": "https://www.imdb.com/name/nm0075696/"
+    },
+    {
+      "name": "S. Leigh Savidge",
+      "url": "https://www.imdb.com/name/nm0767655/"
+    }
+  ]
+}

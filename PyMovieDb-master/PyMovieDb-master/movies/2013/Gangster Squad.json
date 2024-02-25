@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Gangster Squad",
+  "url": "https://www.imdb.com/tt1321870/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcwMjAyMTUzMl5BMl5BanBnXkFtZTcwODgxNzk1OA@@._V1_.jpg",
+  "description": "It's 1949 Los Angeles, the city is run by gangsters and a malicious mobster, Mickey Cohen. Determined to end the corruption, John O'Mara assembles a team of cops, ready to take down the ruthless leader and restore peace to the city.",
+  "review": {
+    "author": "undeaddt",
+    "dateCreated": "2018-03-20",
+    "inLanguage": "English",
+    "heading": "Such an uderrated movie.",
+    "reviewBody": "When you pick actors as good as all of these that were picked here, no matter the decency of the movie, you get a winning formula. I like mob stories, mafia movies and crime thrillers, so this was a match made in heaven for me. Both the protagonists and the antagonist were acting amazing, the story was pretty decent, the action was great, the style of the movie was retro and original at the same time. I think that this movie deserves at least a 7/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 222020,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2013-01-10",
+  "keywords": "police vigilantism,year 1949,smoking after sex,interrogation,torture",
+  "duration": "PT1H53M",
+  "actor": [
+    {
+      "name": "Sean Penn",
+      "url": "https://www.imdb.com/name/nm0000576/"
+    },
+    {
+      "name": "Ryan Gosling",
+      "url": "https://www.imdb.com/name/nm0331516/"
+    },
+    {
+      "name": "Emma Stone",
+      "url": "https://www.imdb.com/name/nm1297015/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ruben Fleischer",
+      "url": "https://www.imdb.com/name/nm0281508/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Will Beall",
+      "url": "https://www.imdb.com/name/nm3263825/"
+    },
+    {
+      "name": "Paul Lieberman",
+      "url": "https://www.imdb.com/name/nm4624299/"
+    }
+  ]
+}

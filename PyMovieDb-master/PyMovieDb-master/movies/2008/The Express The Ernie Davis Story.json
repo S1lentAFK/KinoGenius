@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Express",
+  "url": "https://www.imdb.com/tt0469903/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM3MTY5OTA5MF5BMl5BanBnXkFtZTcwMjA5ODk3MQ@@._V1_.jpg",
+  "description": "A drama based on the life of college football hero Ernie Davis, the first African-American to win the Heisman Trophy.",
+  "contentRating": "PG",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2008-12-05",
+  "keywords": "john f. kennedy character,african american,syracuse university,coach,football movie",
+  "duration": "PT2H10M",
+  "actor": [
+    {
+      "name": "Rob Brown",
+      "url": "https://www.imdb.com/name/nm0114532/"
+    },
+    {
+      "name": "Dennis Quaid",
+      "url": "https://www.imdb.com/name/nm0000598/"
+    },
+    {
+      "name": "Clancy Brown",
+      "url": "https://www.imdb.com/name/nm0000317/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gary Fleder",
+      "url": "https://www.imdb.com/name/nm0001219/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Charles Leavitt",
+      "url": "https://www.imdb.com/name/nm0495378/"
+    },
+    {
+      "name": "Robert Gallagher",
+      "url": "https://www.imdb.com/name/nm1974392/"
+    }
+  ],
+  "review": {
+    "author": "ctomvelu1",
+    "dateCreated": "2009-11-29",
+    "inLanguage": "English",
+    "heading": "A punt here, a punt there",
+    "reviewBody": "Loosely based on the life of the first black football player to win the Heisman Trophy, this follows a chap named Ernie Davis -- a name most viewers are unlikely to be familiar with -- throughout his school years. When he reaches Syracuse College, he finds he is one of two black players on his team. His coach is played by Dennis Quaid. The period was just far enough back in time that there were very few black football players, and in some states, blacks could not stay in the same hotels or attend social functions with whites. All of this is dealt with in a forthright manner, although some facts have been slightly altered to punch home the drama of the era. Quaid's coach is a gruff old man with a heart of gold, a role Quaid likely will be playing more and more often as he ages. You may not recognize many of the actors in this, but they are uniformly excellent. Worth a watch, even if you dislike football.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 22778,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  }
+}

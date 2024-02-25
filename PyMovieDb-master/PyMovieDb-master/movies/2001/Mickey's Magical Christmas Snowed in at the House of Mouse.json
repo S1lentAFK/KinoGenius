@@ -1,0 +1,78 @@
+
+
+{
+  "type": "Movie",
+  "name": "Mickey's Magical Christmas: Snowed in at the House of Mouse",
+  "url": "https://www.imdb.com/tt0300195/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkyODU0MTA1MF5BMl5BanBnXkFtZTcwNzEzODcxMQ@@._V1_.jpg",
+  "description": "Mickey and all his friends hold their own Christmas party at the House of Mouse, after being snowed in.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2001-11-06",
+  "keywords": "snow adventure,christmas,duck,dog,animal as human",
+  "duration": "PT1H5M",
+  "rating": {
+    "ratingCount": 3802,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "review": {
+    "author": "rrrrssssrrrrssss",
+    "dateCreated": "2017-08-17",
+    "inLanguage": "English",
+    "heading": "Disney characters having fun on Christmas!",
+    "reviewBody": "I&apos; was excited to see my favorite characters from the movies I like . Jafar Iago Simba and Aladdin aren&apos;t from the same movie they&apos;re all in a different one. But when Daisy says that they have been snowed inside they walk to the door and see snow outside but Mickey then tells them that they will have their own party and everyone follows him except Donald. And everyone tells Mickey what they want Jafar says the lamp get me the lamp! Which is so hilarious and then he goes like it&apos;s good to see that Christmas is being enjoyed by all! And his staff turned into candy which makes Iago smile. And then he actually sings the Christmas song with the Heroes since he is a Hero instead of a Villain. He sounds very good when he sings the song but he should have been in the front instead of the back. He did sound nice in the song he should be just like that in every episode of the show especially since he was good in this episode.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "actor": [
+    {
+      "name": "Carlos Alazraqui",
+      "url": "https://www.imdb.com/name/nm0016141/"
+    },
+    {
+      "name": "Wayne Allwine",
+      "url": "https://www.imdb.com/name/nm0021656/"
+    },
+    {
+      "name": "Tony Anselmo",
+      "url": "https://www.imdb.com/name/nm0030615/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tony Craig",
+      "url": "https://www.imdb.com/name/nm0186038/"
+    },
+    {
+      "name": "Bobs Gannaway",
+      "url": "https://www.imdb.com/name/nm0304432/"
+    },
+    {
+      "name": "Burny Mattinson",
+      "url": "https://www.imdb.com/name/nm0560329/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Thomas Hart",
+      "url": "https://www.imdb.com/name/nm0366554/"
+    },
+    {
+      "name": "Bobs Gannaway",
+      "url": "https://www.imdb.com/name/nm0304432/"
+    },
+    {
+      "name": "Jess Winfield",
+      "url": "https://www.imdb.com/name/nm0934897/"
+    }
+  ]
+}

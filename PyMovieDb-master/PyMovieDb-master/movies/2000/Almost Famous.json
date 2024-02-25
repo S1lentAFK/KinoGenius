@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Almost Famous",
+  "url": "https://www.imdb.com/tt0181875/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmZjZDUxYjgtZDY4Yi00MTY1LWE3ZTctOTIyNDA3ZGY5ZDZjXkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg",
+  "description": "A high-school boy in the early 1970s is given the chance to write a story for Rolling Stone magazine about an up-and-coming rock band as he accompanies them on their concert tour.",
+  "contentRating": "15",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2001-01-26",
+  "keywords": "rock 'n' roll, 1970s, rolling stone magazine, on the road, journalism",
+  "duration": "PT2H2M",
+  "actor": [
+    {
+      "name": "Billy Crudup",
+      "url": "https://www.imdb.com/name/nm0001082/"
+    },
+    {
+      "name": "Patrick Fugit",
+      "url": "https://www.imdb.com/name/nm0297578/"
+    },
+    {
+      "name": "Kate Hudson",
+      "url": "https://www.imdb.com/name/nm0005028/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Cameron Crowe",
+      "url": "https://www.imdb.com/name/nm0001081/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Cameron Crowe",
+      "url": "https://www.imdb.com/name/nm0001081/"
+    }
+  ],
+  "review": {
+    "author": "Michael_Elliott",
+    "dateCreated": "2013-02-08",
+    "inLanguage": "English",
+    "heading": "Perhaps the Best Film of the Decade",
+    "reviewBody": "Almost Famous (2000) \n\n**** (out of 4)\n\nCameron Crowe's masterpiece about high schooler William Miller (Patrick Fugit) who gets a job with Rolling Stone to do a story on an upcoming band named Stillwater. The young and naive kid gets to go out on the road with them where he quickly grows up and sees that the world isn't always perfect. ALMOST FAMOUS is one of the greatest coming of age movies ever made and it's perhaps the greatest love story to rock 'n roll ever filmed. I think a strong argument could also be made that it's the greatest film of the decade as well. There's so much love and passion during every single scene that you can't help but see and feel that this is Crowe's baby and it's easy to see why since much of this is based on his life growing up. This film contains so many terrific moments but I think what makes it so special are the various relationships that are built on the road. This includes William trying to mix it up with the band's guitar player (Billy Crudup) who refuses to give him an interview as well as the girl (Kate Hudson) that both of them love for different reasons. The overly worried mother (Frances McDormand) is perfectly written and thrown into the story for some comic relief but even the smaller characters are so well-written and detailed that by the time the movie is over it's almost like you've seen a documentary of a real band. Crowe's direction has never been better as this film has quite a bit of different emotions going for it yet he perfectly holds it together and really makes the film take off to levels one wouldn't expect. As a fan of rock and roll you have to love the behind-the-scenes look at a tour and the various problems that come from the sex and drugs. You also have to have fun and admire this young kid being able to go out on the road as this would be an ultimate dream job for many. The film mixes in some terrific music but the highlight is of course 'Tiny Dancer' from Elton John, which is without question one of the best and most magical scenes from any movie. The performances are all a major plus from the bigger acts to the smaller roles. Everyone fits their roles perfectly and help bring the story to life. ALMOST FAMOUS is a flawless picture that just keeps getting better with each new viewing. Some say the film is too soft and should have attacked the music harder or been more raw but I really disagree with these comments. The film is a love story to the music and one of the greatest out there.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 291563,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  }
+}

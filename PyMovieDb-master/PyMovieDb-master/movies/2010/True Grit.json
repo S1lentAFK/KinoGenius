@@ -1,0 +1,71 @@
+{
+  "type": "Movie",
+  "name": "True Grit",
+  "url": "https://www.imdb.com/tt1403865/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU5MjU3MTI4OF5BMl5BanBnXkFtZTcwMTQxOTAxNA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Rockwell_Cronenberg",
+    "dateCreated": "2011-05-27",
+    "inLanguage": "English",
+    "heading": "Surprisingly un-Hollywood. Unsurprisingly brilliant.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 355563,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Western"
+  ],
+  "datePublished": "2011-02-11",
+  "keywords": "based on novel,19th century,texas ranger,determination,one armed woman",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Jeff Bridges",
+      "url": "https://www.imdb.com/name/nm0000313/"
+    },
+    {
+      "name": "Matt Damon",
+      "url": "https://www.imdb.com/name/nm0000354/"
+    },
+    {
+      "name": "Hailee Steinfeld",
+      "url": "https://www.imdb.com/name/nm2794962/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ethan Coen",
+      "url": "https://www.imdb.com/name/nm0001053/"
+    },
+    {
+      "name": "Joel Coen",
+      "url": "https://www.imdb.com/name/nm0001054/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joel Coen",
+      "url": "https://www.imdb.com/name/nm0001054/"
+    },
+    {
+      "name": "Ethan Coen",
+      "url": "https://www.imdb.com/name/nm0001053/"
+    },
+    {
+      "name": "Charles Portis",
+      "url": "https://www.imdb.com/name/nm0692427/"
+    }
+  ]
+}

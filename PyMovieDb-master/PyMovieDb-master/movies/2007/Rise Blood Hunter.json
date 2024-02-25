@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Rise",
+  "url": "https://www.imdb.com/tt0389328/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MjY2ODgxNF5BMl5BanBnXkFtZTcwNjA3NDc0MQ@@._V1_.jpg",
+  "description": "A reporter wakes up in a morgue and finds herself a member of the undead, before vowing revenge against the sect which put her there.",
+  "review": {
+    "author": "kane4782",
+    "dateCreated": "2007-10-22",
+    "inLanguage": "English",
+    "heading": "Disappointing, confusing & predictable",
+    "reviewBody": "I saw the trailer of this a while back and thought it could be one of those sleeper hits, as it had a relatively good premise and I&apos;ve always been intrigued by vampire films, so when I saw it on the shelves I thought I&apos;d give it a go.\\n\\nAs the film was overall a disappointment for me, I won&apos;t put any spoilers in this review. I will say however that from the outset, the sequence of events are disjointed and make for confusing viewing. The film tries to be too clever throughout and ultimately ends up being hard to follow. For a vampire film, it doesn&apos;t really give much background to the whole vampire genre as most do and adds to the confusion as to who is who and what is what. Apart from Lucy Liu&apos;s character, there is no back story or build up to the antagonists, everything just happens randomly, which makes it an effort to keep track of things.\\n\\nAs for the acting, I find it a shame that Lucy Liu continues to make films that don&apos;t really challenge her. She spends most of this film looking either in distress or moody, oh and naked. Having seen her in Kill Bill and her earlier turns in Ally McBeal, Rise & Ecks vs Sever really don&apos;t do her justice as an actress. The vampire contingent here are pretty poor too, with James D&apos;Arcy playing a poor mans version of every other bad vampire we&apos;ve seen before (notably Stephen Dorff in Blade). Michael Chiklis is at best, mediocre, looking like he did this when short of a few bob, in his spare time from filming Silver Surfer.\\n\\nOverall, another addition to the growing number of mediocre vampire-themed films. I would avoid this if I were you, but if Lucy Liu (+ a few others) prancing about naked and lots of blood tickles your fancy, then give it a go.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 12503,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.9
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Crime",
+    "Horror"
+  ],
+  "datePublished": "2007-07-06",
+  "keywords": "reporter,morgue,revenge,blood,vampire",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Lucy Liu",
+      "url": "https://www.imdb.com/name/nm0005154/"
+    },
+    {
+      "name": "Michael Chiklis",
+      "url": "https://www.imdb.com/name/nm0004821/"
+    },
+    {
+      "name": "Carla Gugino",
+      "url": "https://www.imdb.com/name/nm0001303/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sebastian Gutierrez",
+      "url": "https://www.imdb.com/name/nm0349406/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sebastian Gutierrez",
+      "url": "https://www.imdb.com/name/nm0349406/"
+    }
+  ]
+}

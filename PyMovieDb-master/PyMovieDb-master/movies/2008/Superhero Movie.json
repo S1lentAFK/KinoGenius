@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Superhero Movie",
+  "url": "https://www.imdb.com/tt0426592/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc0Njc1MTU5Nl5BMl5BanBnXkFtZTcwMjA4NDE2MQ@@._V1_.jpg",
+  "description": "Orphaned high school student Rick Riker is bitten by a radioactive dragonfly, develops super powers (except for the ability to fly), and becomes a hero.",
+  "datePublished": "2008-06-06",
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "duration": "PT1H15M",
+  "rating": {
+    "ratingCount": 74799,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.7
+  },
+  "review": {
+    "author": "atinder",
+    "dateCreated": "2009-07-14",
+    "inLanguage": "English",
+    "heading": "Very funny",
+    "reviewBody": "With all these bad Spoof movies like Date movie, Not Another Teen Movie,Epic Movie and Disaster Movie (which is the worst spoof movie ever). So i was thinking this will be the same, but my god, this movie made me laugh so much, This so much better then others movies listed above. Plot: In this spoof of Hollywood blockbusters, director and screenwriter Craig Mazin (THE SPECIALS) tackles the age-old story of a regular guy who suddenly finds that he possesses super powers. Ricky Riker (Drake Bell) is a typical teenager, except that his luck is worse then most. Basically, he's a loser. He's been in love with beautiful Jill (Sara Paxton) for years, but is sure she doesn't know he exists. Even his best friend, Trey (Kevin Hart), is willing to throw him over for another clique. But Rick's life changes dramatically when a genetically enhanced dragonfly bites him during a school field trip. In a flash, he becomes the Dragonfly. He can scale buildings, and has immense strength--though he's still a klutz. Rick isn't sure he has what it takes to be a superhero, but it's up to him to save the city from the villainous Hourglass (Christopher McDonald), who literally sucks the life out of people, and threatens to harm those dearest to Rick. Mazin, The main spoof is spider man they also spoof Batman, the Fantastic Four, and the X-Men. I love this movie , well the last spoof movie I Saw was Disaster movie, that was oh my god, that movie was SO bad ) (That is one the reason why i like this more then I Should) The superhero movie is one of the better spoof to come out last year, I am not saying it the best spoof. I enjoyed it!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "keywords": "parody,field trip,professor charles xavier character,storm character,wolverine character",
+  "actor": [
+    {
+      "name": "Drake Bell",
+      "url": "https://www.imdb.com/name/nm0068166/"
+    },
+    {
+      "name": "Leslie Nielsen",
+      "url": "https://www.imdb.com/name/nm0000558/"
+    },
+    {
+      "name": "Sara Paxton",
+      "url": "https://www.imdb.com/name/nm0668139/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Craig Mazin",
+      "url": "https://www.imdb.com/name/nm0563301/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Craig Mazin",
+      "url": "https://www.imdb.com/name/nm0563301/"
+    }
+  ]
+}

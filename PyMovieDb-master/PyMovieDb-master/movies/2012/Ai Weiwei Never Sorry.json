@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "Ai Weiwei: Never Sorry",
+  "url": "https://www.imdb.com/tt1845773/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE4NjEwNDAyN15BMl5BanBnXkFtZTcwNDk5MTIxOA@@._V1_.jpg",
+  "description": null,
+  "contentRating": "15",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2012-08-10",
+  "keywords": "cat,art and entertainment documentary,art documentary,artist,china",
+  "duration": "PT1H31M",
+  "rating": {
+    "ratingCount": 4512,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "review": {
+    "author": "lasttimeisaw",
+    "dateCreated": "2012-11-20",
+    "inLanguage": "English",
+    "heading": "Ai Weiwei: Never Sorry",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "actor": [
+    {
+      "name": "Ai Weiwei",
+      "url": "https://www.imdb.com/name/nm2675885/"
+    },
+    {
+      "name": "Dan Ai",
+      "url": "https://www.imdb.com/name/nm5542733/"
+    },
+    {
+      "name": "Lao Ai",
+      "url": "https://www.imdb.com/name/nm5542865/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Alison Klayman",
+      "url": "https://www.imdb.com/name/nm3052903/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Alison Klayman",
+      "url": "https://www.imdb.com/name/nm3052903/"
+    },
+    {
+      "name": "Jonathan Oppenheim",
+      "url": "https://www.imdb.com/name/nm0649165/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Rise of the Planet of the Apes",
+  "url": "https://www.imdb.com/tt1318514/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzE3ZmNlZTctMDdmNy00MjMzLWFmZmYtN2M5N2YyYTQ1ZDJjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": "A substance designed to help the brain repair itself gives advanced intelligence to a chimpanzee who leads an ape uprising.",
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "datePublished": "2011-08-11",
+  "keywords": "ape,planet of the apes,chimpanzee,animal cruelty,reboot",
+  "duration": "PT1H45M",
+  "rating": {
+    "ratingCount": 554235,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "review": {
+    "author": "Lodewickus",
+    "dateCreated": "2011-08-04",
+    "inLanguage": "English",
+    "heading": "More than expected",
+    "reviewBody": "There are so many things right about this movie, the little things that are wrong are easily forgiven. Some slight plot holes, but the film and characters make up for it. The chemistry between Franco and Pinto is weak, however Franco plays his part. Lithgow is always a great asset to any production, and does a great job here.\\n\\nAlbeit you know the chimps are CGI, their eyes look amazing, with depth and personality, and along with their body language and facial animations, you really do forget they are CGI. The music is powerful and tense, and I loved the way it builds up through out the movie. Starting with light orchestra at the beginning, while starting to feel very tribal without overdoing it towards the end.\\n\\nThere are moments that are truly gratifying, and Caeser really steals the show with his evolution through out the movie. The journey Caeser takes really connects and you feel his plight. With moments of thought, heart and action, Rise really hits the mark for the audience it&apos;s aiming for.\\n\\nExcellent entertainment all round!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "James Franco",
+      "url": "https://www.imdb.com/name/nm0290556/"
+    },
+    {
+      "name": "Andy Serkis",
+      "url": "https://www.imdb.com/name/nm0785227/"
+    },
+    {
+      "name": "Freida Pinto",
+      "url": "https://www.imdb.com/name/nm2951768/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rupert Wyatt",
+      "url": "https://www.imdb.com/name/nm1012501/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Rick Jaffa",
+      "url": "https://www.imdb.com/name/nm0415425/"
+    },
+    {
+      "name": "Amanda Silver",
+      "url": "https://www.imdb.com/name/nm0798646/"
+    },
+    {
+      "name": "Pierre Boulle",
+      "url": "https://www.imdb.com/name/nm0099541/"
+    }
+  ]
+}

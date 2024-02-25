@@ -1,0 +1,75 @@
+
+
+{
+  "type": "Movie",
+  "name": "I Now Pronounce You Chuck & Larry",
+  "url": "https://www.imdb.com/tt0762107/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjU4ZmFmMDMtMWQ3MS00MDk0LTk3MWMtYThkZGZiZDdlODFiXkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_.jpg",
+  "description": "Two straight, single Brooklyn firefighters pretend to be a gay couple in order to receive domestic partner benefits.",
+  "review": {
+    "author": "ctron1",
+    "dateCreated": "2007-08-19",
+    "inLanguage": "English",
+    "heading": "Give it a go",
+    "reviewBody": "OK it is full of stereotypes, yes the movie does old jokes, it is fairly predictable and we have seen it before. The crucial question is this \u0096 is it funny? The simple answer is yes. My wife wasn't enthused about this one, but she laughed heartily. For a comedy to be any good you need to laugh out loud at least 6 times. I think I laughed about 10-12 times. Some of the scenes were set up really well and the comedy acting was superb.\n\nOK the plot is unbelievable and a little silly, but it's a comedy! Give it a go. If you love meet the parents, dumb and dumber, there is something about Mary and Kingpin, you will enjoy the show. If you have a cinematic bypass and love politically correct left-wing tripe \u0096 then this one isn't for you. Its as simple as that!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 153402,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2007-09-21",
+  "keywords": [
+    "posing as a gay couple",
+    "insurance",
+    "womanizer",
+    "hand gesture imitating sex",
+    "camera focus on cleavage"
+  ],
+  "duration": "PT1H55M",
+  "actors": [
+    {
+      "name": "Adam Sandler",
+      "url": "https://www.imdb.com/name/nm0001191/"
+    },
+    {
+      "name": "Kevin James",
+      "url": "https://www.imdb.com/name/nm0416673/"
+    },
+    {
+      "name": "Jessica Biel",
+      "url": "https://www.imdb.com/name/nm0004754/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dennis Dugan",
+      "url": "https://www.imdb.com/name/nm0240797/"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Barry Fanaro",
+      "url": "https://www.imdb.com/name/nm0266673/"
+    },
+    {
+      "name": "Alexander Payne",
+      "url": "https://www.imdb.com/name/nm0668247/"
+    },
+    {
+      "name": "Jim Taylor",
+      "url": "https://www.imdb.com/name/nm0852591/"
+    }
+  ]
+}

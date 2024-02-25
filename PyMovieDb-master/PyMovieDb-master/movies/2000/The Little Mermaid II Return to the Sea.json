@@ -1,0 +1,78 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Little Mermaid II: Return to the Sea",
+  "url": "https://www.imdb.com/tt0240684/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzdhNTBlNTAtZmQ3My00ZTFiLTkzODQtOWM5YTRjMGFkNmVkXkEyXkFqcGdeQXVyNDcxMTk4Mzc@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "TheLittleSongbird",
+    "dateCreated": "2009-03-04",
+    "inLanguage": "English",
+    "heading": "While not as bad as some DTV sequels, this was still a huge disappointment!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 22070,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2001-05-07",
+  "keywords": "sequel,second part,ocean,witch,trident",
+  "duration": "PT1H15M",
+  "actor": [
+    {
+      "name": "Tara Strong",
+      "url": "https://www.imdb.com/name/nm0152839/"
+    },
+    {
+      "name": "Pat Carroll",
+      "url": "https://www.imdb.com/name/nm0140946/"
+    },
+    {
+      "name": "Jodi Benson",
+      "url": "https://www.imdb.com/name/nm0072533/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jim Kammerud",
+      "url": "https://www.imdb.com/name/nm0436851/"
+    },
+    {
+      "name": "Brian Smith",
+      "url": "https://www.imdb.com/name/nm0807531/"
+    },
+    {
+      "name": "Bill Speers",
+      "url": "https://www.imdb.com/name/nm0817585/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Elizabeth Anderson",
+      "url": "https://www.imdb.com/name/nm0026671/"
+    },
+    {
+      "name": "Temple Mathews",
+      "url": "https://www.imdb.com/name/nm0558721/"
+    },
+    {
+      "name": "Elise D'Haene",
+      "url": "https://www.imdb.com/name/nm0195705/"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "When a Stranger Calls",
+  "url": "https://www.imdb.com/tt0455857/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTcyYjRhZTQtOTVlMy00MDU0LWFhNjktM2MyZDRmODgzMmNjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "During a babysitting gig, a high-school student is harassed by an increasingly threatening prank caller.",
+  "review": {
+    "author": "xactlyme2",
+    "dateCreated": "2006-12-26",
+    "inLanguage": "English",
+    "heading": "i watched this film out of morbid curiosity....",
+    "reviewBody": "and i really wanted to hate it. i so adored the original and found it offensive that it was being remade, that whole 'you cant mess with perfection' idea in my head. i came away from it with the distinct impression that the director had only the highest regard for the original film and total respect for the filmmaker. the new version tries to update the story for the 21st century and actually has some interesting takes on how modern technology can be used for scary elements. the smart house motion sensored lights added a nice touch as did caller id when its not who it says it is! although they tried too hard to bulk up the story with unnecessary side nonense and the timing was off, i give the man high marks for effort and his obvious attention to the integrity of the original work.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 48362,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2006-05-12",
+  "keywords": "cell phone,high school,babysitting,teenager,nightmare",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Camilla Belle",
+      "url": "https://www.imdb.com/name/nm0004741/"
+    },
+    {
+      "name": "Tommy Flanagan",
+      "url": "https://www.imdb.com/name/nm0281107/"
+    },
+    {
+      "name": "Katie Cassidy",
+      "url": "https://www.imdb.com/name/nm1556320/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Simon West",
+      "url": "https://www.imdb.com/name/nm0922346/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jake Wade Wall",
+      "url": "https://www.imdb.com/name/nm0908411/"
+    },
+    {
+      "name": "Steve Feke",
+      "url": "https://www.imdb.com/name/nm0270841/"
+    },
+    {
+      "name": "Fred Walton",
+      "url": "https://www.imdb.com/name/nm0910510/"
+    }
+  ]
+}

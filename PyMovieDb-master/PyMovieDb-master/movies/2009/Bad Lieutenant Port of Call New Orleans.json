@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Bad Lieutenant: Port of Call - New Orleans",
+  "url": "https://www.imdb.com/tt1095217/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcyMzY0NTMzMF5BMl5BanBnXkFtZTcwMTc1MjY4Mg@@._V1_.jpg",
+  "description": "Terence McDonagh is a drug- and gambling-addled detective in post-Katrina New Orleans investigating the killing of five Senegalese immigrants.",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2010-05-21",
+  "contentRating": "18",
+  "duration": "PT2H2M",
+  "keywords": "crack pipe,nude photograph,murder investigation,hallucination,envelope of money",
+  "rating": {
+    "ratingCount": 80573,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "review": {
+    "author": "lekgolah",
+    "dateCreated": "2010-06-07",
+    "inLanguage": "English",
+    "heading": "A film not made for everyone but worth watching if you are interested",
+    "reviewBody": "Many will look at this and will think that it is an action thriller about a cop trying to solve the murders of 5 people in New Orleans and that is a basic idea of what the film is about. 'Trying' is right word to use; Nicolas Cage's characters is deeply flawed and is taking drugs to ease his back pain, which he got for saving a prisoner in a flooded prison. He has no interest in bringing the people responsible to justice.\n\nIt is difficult to describe what happens in the film because it is so different from other films that I have seen. If you have seen Werner Herzog's other films then you will like this maybe not as much as some of his other films but there is a lot to like. Nicolas Cage gives a fantastic performance and is clearly back on form after the likes of Next, National Treasure and The Wicker Man. The rest of the cast also do a good job but the focus is on Cage. The chosen location of New Orleans suits the film well and the cinematographer does a good job showing it. The script writer must also be credited for providing the film with interesting pieces of dialogue even though its difficult to tell what was improvised and what was not. \n\nThis film is not for everyone though since the trailer shows it as a more of an crime thriller than a drama. If you are not a fan of art house films or films that have an offbeat sense of humor then you might not enjoy it as much as those who do. Those who watch this film and liked it will be able to find plenty of things about the film that represent something else. There is clearly more to this film than what is happening on the surface.\n\nIf you do choose to watch this film then go in with an open mind as there is a lot to like but I can't guarantee that it will be for everyone.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "Nicolas Cage",
+      "url": "https://www.imdb.com/name/nm0000115/"
+    },
+    {
+      "name": "Eva Mendes",
+      "url": "https://www.imdb.com/name/nm0578949/"
+    },
+    {
+      "name": "Russell M. Haeuser",
+      "url": "https://www.imdb.com/name/nm2963760/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Werner Herzog",
+      "url": "https://www.imdb.com/name/nm0001348/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William M. Finkelstein",
+      "url": "https://www.imdb.com/name/nm0277925/"
+    }
+  ]
+}

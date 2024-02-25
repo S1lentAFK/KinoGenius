@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Going in Style",
+  "url": "https://www.imdb.com/tt0079219/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmZmY2E1MzYtOWViOS00MWJjLWE2OTUtMDFlNjQ1ZjY0MzQ0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+  "description": "Three friends living on the dole decide to rob a bank.",
+  "review": {
+    "author": "Camera-Obscura",
+    "dateCreated": "2006-11-22",
+    "inLanguage": "English",
+    "heading": "'How would you guys like to go on a stick-up with me?'",
+    "reviewBody": "Martin Brest is best known for his popular successes BEVERLY HILLS COP, MIDNIGHT RUN and SCENT OF A WOMAN, but more recently his career made a bit of a tumble with the disastrous GIGLI (2003), starring Ben Affleck and Jennifer Lopez and snoozefest (and trying so hard to be 'profound') MEET JOE BLACK (1998), but this little gem is how he got noticed (and might even be his best effort yet).\nThe story is simple: three kindly old men (George Burns, Art Carney and Lee Strasberg), indistinguishable from the half-forgotten ranks of senior citizens you might pass on any city park bench in warm weather, decide to light up their lives by sticking up a Manhattan bank in broad daylight.\nDon't be put off by the idea of 'three old guys robbing a bank.' This film is a delight in a very New York and very low-key fashion with hardly any grand scenes or set-ups, but with great writing, sharp dialog and the three leads giving their very best. Although the film was marketed as a comedy, it's above all a heartfelt drama and a truly moving portrayal of old age. \nOne of the highlights: when the three seniors are on a little trip to Manhattan and Art Carney starts dancing to the rhythms some Caribbean Street musicians. It's such a marvel to see 80-year old George Burns clapping and smiling and genuinely having fun at this improvised street scene. It's a shame this film is practically forgotten. A heartfelt, funny, and ultimately a very moving picture. Don't miss this one.\nCamera Obscura --- 9/10",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 3872,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "1979-12-25",
+  "keywords": "man wears eyeglasses,black and white photographs during opening credits,scene during opening credits,crotchety old man,satire comedy",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "George Burns",
+      "url": "https://www.imdb.com/name/nm0122675/"
+    },
+    {
+      "name": "Art Carney",
+      "url": "https://www.imdb.com/name/nm0138770/"
+    },
+    {
+      "name": "Lee Strasberg",
+      "url": "https://www.imdb.com/name/nm0833448/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Martin Brest",
+      "url": "https://www.imdb.com/name/nm0000976/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Edward Cannon",
+      "url": "https://www.imdb.com/name/nm0134191/"
+    },
+    {
+      "name": "Martin Brest",
+      "url": "https://www.imdb.com/name/nm0000976/"
+    }
+  ]
+}

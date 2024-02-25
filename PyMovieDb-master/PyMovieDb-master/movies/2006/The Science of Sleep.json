@@ -1,0 +1,38 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Science of Sleep",
+  "url": "https://www.imdb.com/tt5922860/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGZlZDBkMWEtZGVmZC00NmVhLTg2OGItYzRjMzliNWIyNmZlXkEyXkFqcGdeQXVyNTM3MDMyMDQ._V1_.jpg",
+  "description": "From controlling our weight, to helping us learn, to washing our brain, and fighting off disease like Alzheimer's, around the world researchers are penetrating the mysterious world of sleep and deciphering its secrets.",
+  "contentRating": "Not Rated",
+  "genre": [
+    "Documentary",
+    "Short"
+  ],
+  "datePublished": "2016-09-01",
+  "keywords": "fight",
+  "duration": "PT43M",
+  "actor": [],
+  "director": [],
+  "creator": [],
+  "review": {
+    "author": "UniqueParticle",
+    "dateCreated": "2019-04-20",
+    "inLanguage": "English",
+    "heading": "Very interesting & informative!",
+    "reviewBody": "I love learning about sleep especially since I struggle with it sometimes. Nice to learn about the different tests they used between 2 people or 1 person or even a baby; glad I subscribed to curiosity stream.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 50,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  }
+}

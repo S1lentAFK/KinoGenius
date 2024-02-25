@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Fitzgerald Family Christmas",
+  "url": "https://www.imdb.com/tt2331880/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU0MzY4MzE0NF5BMl5BanBnXkFtZTcwOTIwOTI3OA@@._V1_.jpg",
+  "description": "The adult siblings of the Fitzgerald family prepare for their estranged father to return home for Christmas for the first time since he walked out on his family 20 years ago.",
+  "contentRating": "PG-13",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2012-12-07",
+  "keywords": "long island new york,hamptons,family relationships,father,estranged father",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Kerry Bish\u00e9",
+      "url": "https://www.imdb.com/name/nm2628935/"
+    },
+    {
+      "name": "Edward Burns",
+      "url": "https://www.imdb.com/name/nm0122653/"
+    },
+    {
+      "name": "Heather Burns",
+      "url": "https://www.imdb.com/name/nm0122688/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Edward Burns",
+      "url": "https://www.imdb.com/name/nm0122653/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Edward Burns",
+      "url": "https://www.imdb.com/name/nm0122653/"
+    }
+  ],
+  "review": {
+    "author": "ksf-2",
+    "dateCreated": "2020-12-20",
+    "inLanguage": "English",
+    "heading": "Ed Burns project",
+    "reviewBody": "Written, directed, AND starring... Ed Burns. that&apos;s not always a good thing when the same person writes, directs, and stars.. here, Gerry Fitzgerald wants to round up the whole family for a get-together for mom&apos;s birthday. just listening to Gerry and mom talk over the plans, it already sounds like a huge passive aggressive fest waiting to happen. typical family shenanigans are about to ensue. except the siblings all bail on Gerry&apos;s party. the whole family will get together on christmas in a couple days, and family can only take so much of each other. family emotions, stories, guilt, secrets. and now the father who walked out years ago wants to visit. perfect cocktail for trouble. Connie Britton is nurse Nora, who looks after Gerry&apos;s neighbor... and sparks start to fly. it&apos;s okay.a bit hallmarkish.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 1653,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  }
+}

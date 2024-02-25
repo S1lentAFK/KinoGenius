@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Strange Wilderness",
+  "url": "https://www.imdb.com/tt0489282/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTI1OTUxNl5BMl5BanBnXkFtZTcwMDQzMjU1MQ@@._V1_.jpg",
+  "description": "With the ratings dropping for a wilderness-themed television show, two animal fans go to the Andes Mountains in search of Bigfoot.",
+  "review": {
+    "author": "c_hafer",
+    "dateCreated": "2008-02-02",
+    "inLanguage": "English",
+    "heading": "Subpar at best and disappointing because of the great actors!",
+    "reviewBody": "This movie extremely disappointed me! I remember watching the trailer months prior to its release, so I was pretty excited for it. I really enjoy most of the Happy Madison films, but this one was a complete bummer! I love Jonah Hill and Steve Zahn is just as good. Not to mention the cast of characters that usually appear in these films, specifically Allen Covert of Grandma's Boy. I really loved that movie, so I then put faith that this one would be somewhat comparable, but quite the contrary. I mean there was some funny and sometimes hilarious parts, but it was just a stretch. They tried way too hard for laughs and some of the time they did succeed, but fell short quite numerously! Jonah Hill's character got few lines, but when he did, they were fairly funny. I did enjoy Justin Long as he is coming into his own as an actor. Kevin Heffernan didn't get nearly enough funny lines or the proper camera time he deserved, I mean he's Farva for the love of god, the man is funny. With all this being said, wait for the DVD. Poor plot, great actors, but wrongly used their talents! Severely disappointed in this film.....I even went opening night I was so excited.....stupid film.....not even a stoner flick at best and trust me I love stoner flicks!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 22681,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2008-04-11",
+  "keywords": "pufferfish,gross out comedy,man uses a wheelchair,bigfoot,tv show",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Steve Zahn",
+      "url": "https://www.imdb.com/name/nm0001872/"
+    },
+    {
+      "name": "Allen Covert",
+      "url": "https://www.imdb.com/name/nm0184445/"
+    },
+    {
+      "name": "Justin Long",
+      "url": "https://www.imdb.com/name/nm0519043/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Fred Wolf",
+      "url": "https://www.imdb.com/name/nm0937748/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Peter Gaulke",
+      "url": "https://www.imdb.com/name/nm0310087/"
+    },
+    {
+      "name": "Fred Wolf",
+      "url": "https://www.imdb.com/name/nm0937748/"
+    }
+  ]
+}

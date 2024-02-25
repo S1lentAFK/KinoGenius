@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Scooby-Doo! The Mystery Begins",
+  "url": "https://www.imdb.com/tt1258157/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjZiMTlkNzEtMWU1YS00MjEzLWE0MTctNWFkM2M3OTVkZWZjXkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "holyspiritdriven",
+    "dateCreated": "2012-11-28",
+    "inLanguage": "English",
+    "heading": "Meh...Not Terrible, But Not Great",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 7365,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2009-09-13",
+  "keywords": "2000s,animal character name in title,scooby doo character,fred jones character,velma dinkley character",
+  "duration": "PT1H22M",
+  "actor": [
+    {
+      "name": "Kate Melton",
+      "url": "https://www.imdb.com/name/nm2196325/"
+    },
+    {
+      "name": "Hayley Kiyoko",
+      "url": "https://www.imdb.com/name/nm3072243/"
+    },
+    {
+      "name": "Robbie Amell",
+      "url": "https://www.imdb.com/name/nm2064412/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brian Levant",
+      "url": "https://www.imdb.com/name/nm0505152/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Daniel Altiere",
+      "url": "https://www.imdb.com/name/nm1662741/"
+    },
+    {
+      "name": "Steven Altiere",
+      "url": "https://www.imdb.com/name/nm1662742/"
+    }
+  ]
+}

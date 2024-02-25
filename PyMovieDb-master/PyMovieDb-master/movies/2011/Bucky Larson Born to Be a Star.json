@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Bucky Larson: Born to Be a Star",
+  "url": "https://www.imdb.com/tt1411664/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIzMjY4MTk2M15BMl5BanBnXkFtZTcwNzQ3ODg3NQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "J_M_Kiff",
+    "dateCreated": "2011-09-14",
+    "inLanguage": "English",
+    "heading": "Worst Movie Ever",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 12797,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.3
+  },
+  "contentRating": "18",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2011-09-09",
+  "keywords": "male masturbation,sperm,diner,masturbation,bare chested male",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Nick Swardson",
+      "url": "https://www.imdb.com/name/nm0841910/"
+    },
+    {
+      "name": "Don Johnson",
+      "url": "https://www.imdb.com/name/nm0000467/"
+    },
+    {
+      "name": "Christina Ricci",
+      "url": "https://www.imdb.com/name/nm0000207/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tom Brady",
+      "url": "https://www.imdb.com/name/nm0103744/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Adam Sandler",
+      "url": "https://www.imdb.com/name/nm0001191/"
+    },
+    {
+      "name": "Allen Covert",
+      "url": "https://www.imdb.com/name/nm0184445/"
+    },
+    {
+      "name": "Nick Swardson",
+      "url": "https://www.imdb.com/name/nm0841910/"
+    }
+  ]
+}

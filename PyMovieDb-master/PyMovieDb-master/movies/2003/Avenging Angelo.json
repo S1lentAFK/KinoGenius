@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Avenging Angelo",
+  "url": "https://www.imdb.com/tt0275947/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzFmZDM0NDctNTk2Ny00ZjVmLTkwODItMWUxYzIwMGIzYzEzXkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_.jpg",
+  "description": "A woman who has just discovered she is the daughter of a murdered Mafia chieftain seeks revenge, with the aide of her father's faithful bodyguard.",
+  "review": {
+    "author": "sat-elite",
+    "dateCreated": "2004-07-23",
+    "inLanguage": "English",
+    "heading": "Give it a chance...you might be surprised",
+    "reviewBody": "Disclaimer: I am not a Stallone fan, . but I readily admit that Sylvester Stallone has made both good and bad films. This is definitely one of the former.\\n\\nStallone rarely gets any respect for his acting in the mainstream press, which is accurate rather than biased: if he were an unknown in this role, and had given an identical performance, the press would laud him for his ability to handle subtle bits of comedy interspersed with action and gun-play. But he's Stallone- with all the baggage that this carries, both good and bad- so whilst he should know better, his work in the light hearted flicks is quite often overlooked.\\n\\nIf I were assisting Mr. Stallone's career, I would have suggested putting this out in film, and keeping 'Get Carter' for the nearest black hole. The director of this film works well but should be shot on sight for one scene, where the Merc is accelerating from the garage and the cars behind are happily catching up.\\n\\nMadeline Stowe has rarely been annoying to me, and in this film, one has to admire her (again) her for her amazing physical shape: she's beautiful, with a figure that a lot of current 20-year-olds round here could never aspire to! She deftly handles both the comic and the pathos of the script, in much the same way as Stakeout 1.\\n\\nNice to know that Quinn and Stowe did it again for the last time with a simple story about adultery and revenge rather than a simple story about adultery and revenge. \\n\\nRent it with an open mind. I think you'll be pleasantly surprised. Quinn R.I.P.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 9976,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2004-08-11",
+  "keywords": "stitching one's wound,adultery,flower,neo screwball comedy,female full frontal nudity",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Sylvester Stallone",
+      "url": "https://www.imdb.com/name/nm0000230/"
+    },
+    {
+      "name": "Madeleine Stowe",
+      "url": "https://www.imdb.com/name/nm0000656/"
+    },
+    {
+      "name": "Anthony Quinn",
+      "url": "https://www.imdb.com/name/nm0000063/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Martyn Burke",
+      "url": "https://www.imdb.com/name/nm0121789/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William Porter",
+      "url": "https://www.imdb.com/name/nm0017620/"
+    },
+    {
+      "name": "Steve Mackall",
+      "url": "https://www.imdb.com/name/nm0533111/"
+    }
+  ]
+}

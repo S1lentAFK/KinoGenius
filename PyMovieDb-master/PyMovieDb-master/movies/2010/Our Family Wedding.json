@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "Our Family Wedding",
+  "url": "https://www.imdb.com/tt1305583/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI4MDU1MzY3N15BMl5BanBnXkFtZTcwNTYzMTUxMw@@._V1_.jpg",
+  "description": "The weeks leading up to a young couple&apos;s wedding are comic and stressful, especially as their respective fathers try to lay their long standing feud to rest.",
+  "review": {
+    "author": "Prismark10",
+    "dateCreated": "2018-01-21",
+    "inLanguage": "English",
+    "heading": "Guess Who is Getting Married?",
+    "reviewBody": "Our Family Wedding is a race based culture clash comedy that starts out rather awkwardly.\n\nLucia Ramirez (America Ferrera) and Marcus Boys (Lance Gross) have been going out together for some time but have never told their parents about each other.\n\nShe is Hispanic, he is black. As the film starts there is an altercation when a black radio host (Forest Whitaker) as his car towed away by Carlos (Miguel Ramirez) leading to some racial slurs. You guessed it they are the dads and sparks fly when they later meet each other again.\n\nYou know where this film is going, it is a little like Meet the Parents but not as amusing. Once the ethnic differences are blown over, the film settles down as both parties understand each other but it should had been a lot funnier.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 7455,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2010-06-18",
+  "keywords": "wedding,marriage,love,wedding dress,california",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "America Ferrera",
+      "url": "https://www.imdb.com/name/nm1065229/"
+    },
+    {
+      "name": "Forest Whitaker",
+      "url": "https://www.imdb.com/name/nm0001845/"
+    },
+    {
+      "name": "Carlos Mencia",
+      "url": "https://www.imdb.com/name/nm0578788/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rick Famuyiwa",
+      "url": "https://www.imdb.com/name/nm0266622/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Wayne Conley",
+      "url": "https://www.imdb.com/name/nm0174806/"
+    },
+    {
+      "name": "Malcolm Spellman",
+      "url": "https://www.imdb.com/name/nm1173259/"
+    },
+    {
+      "name": "Rick Famuyiwa",
+      "url": "https://www.imdb.com/name/nm0266622/"
+    }
+  ]
+}

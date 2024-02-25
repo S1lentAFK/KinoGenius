@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Stoning of Soraya M.",
+  "url": "https://www.imdb.com/tt1277737/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU0NzYyMTQyNl5BMl5BanBnXkFtZTcwOTU4MDY0Mg@@._V1_.jpg",
+  "description": "A story told by Zahra to a French journalist of her niece Soraya Manutchehri, a 35-year-old married woman, who received capital punishment and stoned to death because of false accusations in the remote village of Kuhpayeh, Iran, i...",
+  "contentRating": "18",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2010-10-22",
+  "keywords": "death penalty,religion,iran,murder,stoned to death",
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Shohreh Aghdashloo",
+      "url": "https://www.imdb.com/name/nm0013037/"
+    },
+    {
+      "name": "Jim Caviezel",
+      "url": "https://www.imdb.com/name/nm0001029/"
+    },
+    {
+      "name": "Mozhan Navabi",
+      "url": "https://www.imdb.com/name/nm2236560/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Cyrus Nowrasteh",
+      "url": "https://www.imdb.com/name/nm0637493/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Betsy Giffen Nowrasteh",
+      "url": "https://www.imdb.com/name/nm0637492/"
+    },
+    {
+      "name": "Cyrus Nowrasteh",
+      "url": "https://www.imdb.com/name/nm0637493/"
+    },
+    {
+      "name": "Freidoune Sahebjam",
+      "url": "https://www.imdb.com/name/nm3120590/"
+    }
+  ],
+  "review": {
+    "author": "Harmik01",
+    "dateCreated": "2009-06-19",
+    "inLanguage": "English",
+    "heading": "A gripping and intense cinematic experience",
+    "reviewBody": "I can't remember the last time I had such a gripping and emotional experience in movie theatre. In the screening I attended there was audible sobbing and gasps throughout a large part of the film.\n\nSohreh Aghdashloo is excellent in her portrayal of the feisty Zarah. Newcomer Marzhan Marno is equally moving, and sympathetic in her role of the title character. I'll be surprised if come award time these ladies are not recognized for their work.\n\nThough some have criticized the portrayals of the male characters as unbelievable I found them to be very accurate. Let's not pretend that sexism and religious hypocrisy are something new...even in our own society. These are men who abuse religious laws and principals for their own gain and too keep women subservient. However, the director does show other sides of these characters as well, struggling with their own beliefs and decisions (in private as to not show weakness in public).\n\nThe film is beautifully filmed as well, with the sweeping shots of the village landscape and the poetic images of chadors moving in the wind.\n\nI never come on IMDb to write reviews, but 'The Stoning of Soroya M.' was such an intense and beautiful film that I had to spread the word. It deserves a much wider release than its getting, because its a breath of fresh air in a summer movie season full of inane comedies and action romps.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 21635,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  }
+}

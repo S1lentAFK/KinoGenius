@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "American Assassin",
+  "url": "https://www.imdb.com/tt2091858/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmJhZWFmNGEtMjUyYi00MjI4LTlmODktZGY1MzAzZjc5MDJlXkEyXkFqcGdeQXVyODU2NjU0NjA@._V1_.jpg",
+  "description": "Delving into the least-known facets of notorious assassin Lee Harvey Oswald's history, this intriguing documentary details the future killer's years living in the former Soviet Union during the Cold War. Filmed in Minsk, where Osw...",
+  "review": {
+    "author": "knurveren",
+    "dateCreated": "2020-07-24",
+    "inLanguage": "English",
+    "heading": "waste of time",
+    "reviewBody": "The movie is obviously awful. Just a waste of time. Countries have always shown their bad places. Especially images have nothing to do with Turkey. They shot films in the worst places. Even the plates of the taxis are not Turkish plates. People do not even reflect Turkish people. Arab types show it as Turkish. The film also has classic Islamophobia.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 41,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": null,
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": null,
+  "keywords": "assassination,president",
+  "duration": "PT1H",
+  "actor": [
+    {
+      "name": "Valentina Checknmova",
+      "url": "https://www.imdb.com/name/nm4737240/"
+    },
+    {
+      "name": "Peter Chenmorits",
+      "url": "https://www.imdb.com/name/nm4737898/"
+    },
+    {
+      "name": "Yulia Petroshnik",
+      "url": "https://www.imdb.com/name/nm4738396/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Bayne",
+      "url": "https://www.imdb.com/name/nm4737494/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Bayne",
+      "url": "https://www.imdb.com/name/nm4737494/"
+    }
+  ]
+}

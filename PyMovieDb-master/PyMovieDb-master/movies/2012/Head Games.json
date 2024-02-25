@@ -1,0 +1,56 @@
+
+
+{
+  "type": "Movie",
+  "name": "Head Games",
+  "url": "https://www.imdb.com/tt2239400/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODkyNTMwNjQ0OF5BMl5BanBnXkFtZTcwNjQwOTIyOA@@._V1_.jpg",
+  "description": "A documentary that follows football player and pro-wrestler Chris Nowinski's quest to uncover the truth about the consequences of sports-related head injuries.",
+  "review": {
+    "author": "Gnossos",
+    "dateCreated": "2013-02-07",
+    "inLanguage": "English",
+    "heading": "All parents and coaches should see this.",
+    "reviewBody": "I was unexpectedly moved and also quite shocked by this fine documentary about the potential for CTE in contact sports at all levels.\\n\\nThe film moves far beyond the now widely-known phenomenon of concussions in the NFL to focus on the potential for serious damage to younger kids who play football, hockey, lacrosse and even soccer. The anguish of those parents and coaches who both understand the risks yet love sports and want to support their children is heartbreaking. And, due to interlacing footage of a fantastic inner-city pee-wee game, the viewer experiences much of the same conflict.\\n\\nI can see why people might give this film a low rating. It runs long, and covers material that, frankly, is unpleasant to view or think about. Nevertheless, this is an extremely important and well constructed film. If you're a parent of a younger athlete, you need to see it, today.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 365,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Documentary",
+    "Sport"
+  ],
+  "datePublished": "2012-09-21",
+  "keywords": "knocked unconscious,truth,football,football player,concussion",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Chris Nowinski",
+      "url": "https://www.imdb.com/name/nm1054042/"
+    },
+    {
+      "name": "Gene Atkins",
+      "url": "https://www.imdb.com/name/nm3204434/"
+    },
+    {
+      "name": "Laura Balcer",
+      "url": "https://www.imdb.com/name/nm5978111/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steve James",
+      "url": "https://www.imdb.com/name/nm0416945/"
+    }
+  ],
+  "creator": []
+}

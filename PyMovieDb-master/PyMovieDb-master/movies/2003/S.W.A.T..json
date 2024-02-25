@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "S.W.A.T.",
+  "url": "https://www.imdb.com/tt0257076/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTVkMzllYjUtOTM2My00Y2QxLWI5Y2UtN2RlN2EyMTk2ZjQ5XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "grahamsj3",
+    "dateCreated": "2004-04-19",
+    "inLanguage": "English",
+    "heading": "Underrated",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 153360,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "datePublished": "2003-12-05",
+  "keywords": "female police officer,swat team,police,crime boss,police sergeant",
+  "duration": "PT1H57M",
+  "actor": [
+    {
+      "name": "Samuel L. Jackson",
+      "url": "https://www.imdb.com/name/nm0000168/"
+    },
+    {
+      "name": "Colin Farrell",
+      "url": "https://www.imdb.com/name/nm0268199/"
+    },
+    {
+      "name": "Michelle Rodriguez",
+      "url": "https://www.imdb.com/name/nm0735442/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Clark Johnson",
+      "url": "https://www.imdb.com/name/nm0424800/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Hamner",
+      "url": "https://www.imdb.com/name/nm0358842/"
+    },
+    {
+      "name": "Ron Mita",
+      "url": "https://www.imdb.com/name/nm0593856/"
+    },
+    {
+      "name": "Jim McClain",
+      "url": "https://www.imdb.com/name/nm0572151/"
+    }
+  ]
+}

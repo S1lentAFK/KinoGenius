@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Marie Antoinette",
+  "url": "https://www.imdb.com/tt0422720/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDViNjYxNWYtMWRiOS00NmMyLTgwNDMtNTg3MWYwNjAxNWM4XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": "The retelling of France's iconic but ill-fated queen, Marie Antoinette. From her betrothal and marriage to Louis XVI at 14 to her reign as queen at 19 and to the end of her reign as queen, and ultimately the fall of Versailles.",
+  "review": {
+    "author": "bm230199",
+    "dateCreated": "2022-07-09",
+    "inLanguage": "English",
+    "heading": "A very overly criticised movie",
+    "reviewBody": "This movie was a solid 7/10. It wasn't groundbreaking but it was entertaining, Dunst was endearing and of course very visually pleasing. I find it amusing and rather telling how critical most of the reviewers are of the director and think if. Sofia was named Simon they would not be mentioning her so much. I enjoyed it and it taught me some new things about Marie Antoinette.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 120630,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2006-10-20",
+  "keywords": [
+    "french revolution",
+    "female rear nudity",
+    "nudity",
+    "title directed by female",
+    "public nudity"
+  ],
+  "duration": "PT2H3M",
+  "actor": [
+    {
+      "name": "Kirsten Dunst",
+      "url": "https://www.imdb.com/name/nm0000379/"
+    },
+    {
+      "name": "Jason Schwartzman",
+      "url": "https://www.imdb.com/name/nm0005403/"
+    },
+    {
+      "name": "Rip Torn",
+      "url": "https://www.imdb.com/name/nm0001800/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sofia Coppola",
+      "url": "https://www.imdb.com/name/nm0001068/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sofia Coppola",
+      "url": "https://www.imdb.com/name/nm0001068/"
+    }
+  ]
+}

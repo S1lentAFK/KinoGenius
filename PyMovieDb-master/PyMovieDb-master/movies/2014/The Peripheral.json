@@ -1,0 +1,58 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Peripheral",
+  "url": "https://www.imdb.com/tt4229750/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzA2NTM2OTkwNl5BMl5BanBnXkFtZTgwMDA2MDg1MzE@._V1_.jpg",
+  "description": "When a patient, Kenny, shows up at her home unexpectedly, Dr. Joanna Redding attempts to help him overcome his 'irrational' phobia of the creatures that he sees in his peripheral vision.Of course, the creatures that terrify Kenny ...",
+  "review": {
+    "author": "Kirpianuscus",
+    "dateCreated": "2023-06-02",
+    "inLanguage": "English",
+    "heading": "admirable crafted",
+    "reviewBody": "Well crafted is the fair definition for this clever perspective about a man, his fear, a skeptic psychiatrist and a terrible revelation.\n\nWell acted, it has as virtue the office of psychiatrist and the reference to adventure films, inspired by mythology, of 1960 decade.\n\nThe real problem is the obvious dubts of director about the end. His solution seems more didactic, ignoring, maybe, the virtues of ambiguity and suggestion.\n\nBut, sure, well acted, wel crafted scene by scene, offering fair dialogue and tension, it is one of rare films proposing the old fashion atmosphere of classic horrors.\n\nAnd this is more than a simple virtue.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 34,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8
+  },
+  "contentRating": null,
+  "genre": [
+    "Short",
+    "Fantasy",
+    "Horror"
+  ],
+  "datePublished": "2015-04-25",
+  "keywords": null,
+  "duration": "PT12M",
+  "actor": [
+    {
+      "name": "Randy Frank",
+      "url": "https://www.imdb.com/name/nm3897780/"
+    },
+    {
+      "name": "Lynn Lowry",
+      "url": "https://www.imdb.com/name/nm0523344/"
+    }
+  ],
+  "director": [
+    {
+      "name": "J.T. Seaton",
+      "url": "https://www.imdb.com/name/nm1615010/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "J.T. Seaton",
+      "url": "https://www.imdb.com/name/nm1615010/"
+    }
+  ]
+}

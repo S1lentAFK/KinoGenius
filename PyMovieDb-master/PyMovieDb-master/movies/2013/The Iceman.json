@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Iceman",
+  "url": "https://www.imdb.com/tt1491044/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDQyMjM5MTc2OF5BMl5BanBnXkFtZTgwMzg1NTMxMjE@._V1_.jpg",
+  "description": "The story of Richard Kuklinski, the notorious contract killer and family man. When he was finally arrested in 1986, neither his wife nor his daughters had any clue about his real profession.",
+  "review": {
+    "author": "coastdaze",
+    "dateCreated": "2013-05-31",
+    "inLanguage": "English",
+    "heading": "Now this is good acting...",
+    "reviewBody": "Michael Shannon should get at least an Academy Award for his performance in this movie. This guy can act and you lose the person and totally see the characters he portrays. Reminds me of Daniel Day Lewis.\\n\\nAnyway, I had never heard of this Kuklinsky person and it was interesting to see his story. The multiplicity of his lifestyle had to be a killer (no pun intended) to live out. I don&apos;t know of many actors who could go from one to the other so effortlessly. From cold-hearted killer to nice person to ragging man to loving husband and father. Michael Shannon can do this well. And those subtle expressions of his! They&apos;re great. Icy. Kind. Murderous.\\n\\nI&apos;m not a fan of Winona Ryder but I liked her portrayal of the Mrs. in this movie. She was believable and really had the suffering wife thing down.\\n\\nWhile leaving the movie I ran into a gentleman who had watched the actual documentary of Kuklinsky&apos;s life and he said the movie was a good portrayal of the facts. That is a good thing to hear because this kind of story like lends itself to Hollywood sensationalism. And while some of that may have happened, it was a good movie about a bad man. Did I feel sorry for Kuklinsky at the end? Yes...well actually it was pity that I felt.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 78820,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2013-06-07",
+  "keywords": [
+    "based on true story",
+    "contract killer",
+    "murder of a girl",
+    "crime family",
+    "gambino crime family"
+  ],
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Michael Shannon",
+      "url": "https://www.imdb.com/name/nm0788335/"
+    },
+    {
+      "name": "Chris Evans",
+      "url": "https://www.imdb.com/name/nm0262635/"
+    },
+    {
+      "name": "James Franco",
+      "url": "https://www.imdb.com/name/nm0290556/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ariel Vromen",
+      "url": "https://www.imdb.com/name/nm1033517/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Morgan Land",
+      "url": "https://www.imdb.com/name/nm1337892/"
+    },
+    {
+      "name": "Ariel Vromen",
+      "url": "https://www.imdb.com/name/nm1033517/"
+    },
+    {
+      "name": "Anthony Bruno",
+      "url": "https://www.imdb.com/name/nm1547715/"
+    }
+  ]
+}

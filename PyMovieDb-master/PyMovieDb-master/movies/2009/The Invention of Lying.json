@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Invention of Lying",
+  "url": "https://www.imdb.com/tt1058017/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU2OTQzOTc1Nl5BMl5BanBnXkFtZTcwNDM5MDE4Mg@@._V1_.jpg",
+  "description": "A comedy set in a world where no one has ever lied, until a writer seizes the opportunity for personal gain.",
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "datePublished": "2009-10-02",
+  "keywords": "truth,lie,screenwriter,heaven,genetics",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Ricky Gervais",
+      "url": "https://www.imdb.com/name/nm0315041/"
+    },
+    {
+      "name": "Jennifer Garner",
+      "url": "https://www.imdb.com/name/nm0004950/"
+    },
+    {
+      "name": "Jonah Hill",
+      "url": "https://www.imdb.com/name/nm1706767/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ricky Gervais",
+      "url": "https://www.imdb.com/name/nm0315041/"
+    },
+    {
+      "name": "Matthew Robinson",
+      "url": "https://www.imdb.com/name/nm2816668/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ricky Gervais",
+      "url": "https://www.imdb.com/name/nm0315041/"
+    },
+    {
+      "name": "Matthew Robinson",
+      "url": "https://www.imdb.com/name/nm2816668/"
+    }
+  ],
+  "review": {
+    "author": "Magic_Lantern",
+    "dateCreated": "2009-10-07",
+    "inLanguage": "English",
+    "heading": "Clever concept that never reaches its full potential",
+    "reviewBody": "In a world where people can only tell the truth, Ricky Gervais creates the lie. What follows this simple concept with great potential is a series of quick fire jokes made funny by the sheer bluntness of the absolute truth. The screenplay is lightly comical but rarely laugh-out-loud funny and continually relies on the same concept.\n\nAs the plot progresses, it veers from quick-fire jokes to a parody of religion. On the one hand, this offers an interesting and thought-provoking reflection; however, I found the developing plot to become mildly preachy and irritating to watch. The humour level drops and the religious overtones and romantic subplot overshadow the interesting idea.\n\nVisually, I found the film to be rather drab and dreary. Similarly, I didn't care for the dowdy and monotonous score and soundtrack choices. I understand that these are probably intended to represent a world without fiction, but they make the film a little tedious to watch and don't add anything to the movie. I enjoyed Jenifer Garner's performance as Gervais' love interest which she's plays with harsh yet likable realism, but Gervais' lead performance left me a little cold. In combination with lacklustre screenplay, I was left unimpressed with the utilisation of a potentially hilarious and fascinating concept.\n\nThe Invention of Lying is a quiet, simple movie on the surface, but underneath lies a more complex, thought-provoking moral allegory, albeit one that fails to deliver anything truly remarkable.\n\n5/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 148335,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  }
+}

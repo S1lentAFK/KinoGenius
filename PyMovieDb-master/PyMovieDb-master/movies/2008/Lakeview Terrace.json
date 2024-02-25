@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Lakeview Terrace",
+  "url": "https://www.imdb.com/tt0947802/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI0MzI0NDI4Ml5BMl5BanBnXkFtZTcwOTk4ODk3MQ@@._V1_.jpg",
+  "description": "A troubled and racist African-American L.A.P.D. Officer will stop at nothing to force out a friendly interracial couple who just moved in next door to him.",
+  "review": {
+    "author": "UniqueParticle",
+    "dateCreated": "2020-10-25",
+    "inLanguage": "English",
+    "heading": "Tense, captivating and bold",
+    "reviewBody": "An excellent story about a dirty cop for a neighbor and Patrick Wilson's character not being able to do much about it. Great that it's not the type to contrive racist things all over it instead it's more subtle. I love how the movie gets away with 2 f bombs! Lakeview Terrace is under appreciated and highly entertaining in my opinion; deserves more credit!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 55235,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2008-12-05",
+  "keywords": "interracial couple,neighbor,suburb,racist cop,double standard",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Samuel L. Jackson",
+      "url": "https://www.imdb.com/name/nm0000168/"
+    },
+    {
+      "name": "Patrick Wilson",
+      "url": "https://www.imdb.com/name/nm0933940/"
+    },
+    {
+      "name": "Kerry Washington",
+      "url": "https://www.imdb.com/name/nm0913488/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Neil LaBute",
+      "url": "https://www.imdb.com/name/nm0001438/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Loughery",
+      "url": "https://www.imdb.com/name/nm0521739/"
+    },
+    {
+      "name": "Howard Korder",
+      "url": "https://www.imdb.com/name/nm0466122/"
+    }
+  ]
+}

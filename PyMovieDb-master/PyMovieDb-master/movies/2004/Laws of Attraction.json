@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Laws of Attraction",
+  "url": "https://www.imdb.com/tt0323033/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzODg4MjM1NF5BMl5BanBnXkFtZTYwNzQzNTI3._V1_.jpg",
+  "description": "Amidst a sea of litigation, two New York City divorce lawyers find love.",
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2004-05-07",
+  "keywords": "neo screwball comedy,workplace romance,coworker coworker relationship,using others,love",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Pierce Brosnan",
+      "url": "https://www.imdb.com/name/nm0000112/"
+    },
+    {
+      "name": "Julianne Moore",
+      "url": "https://www.imdb.com/name/nm0000194/"
+    },
+    {
+      "name": "Parker Posey",
+      "url": "https://www.imdb.com/name/nm0000205/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Howitt",
+      "url": "https://www.imdb.com/name/nm0398185/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Aline Brosh McKenna",
+      "url": "https://www.imdb.com/name/nm0112459/"
+    },
+    {
+      "name": "Robert Harling",
+      "url": "https://www.imdb.com/name/nm0363326/"
+    }
+  ],
+  "review": {
+    "author": "Bob-45",
+    "dateCreated": "2004-12-07",
+    "inLanguage": "English",
+    "heading": "Forget the Movie, Watch the 'Deleted Scenes'",
+    "reviewBody": "I believe 'Laws of Attraction' is the only movie I've ever seen which I greatly preferred the 'alternate scenes and subplots' to what the producers chose to present. The plot involves way too little law. Most of the time when either Brosnan or Lewis winds, it's because of some piece of information the other lawyer should have known. The romance is weak, though not in the alternate scenes, especially those short ones which involves a former romance between Brosnan and the judge's sister.\n\nHad 'Laws of Attraction' incorporated the alternate scenes and subplots, it would be deeper, grittier and funnier, well worthy of a '7'. However, as presented, 'Laws of Attraction' is good only for a weak '6', primarily due to the charms of Pierce Brosnan.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 24489,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  }
+}

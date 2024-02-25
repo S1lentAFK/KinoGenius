@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Muppets",
+  "url": "https://www.imdb.com/tt1204342/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE0MTM4NTc3NF5BMl5BanBnXkFtZTcwMjYzOTIxNg@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "byrann_gowan",
+    "dateCreated": "2011-11-24",
+    "inLanguage": "English",
+    "heading": "All you sceptics, have no fear! I was once like you, but the Muppets are here!!!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 96480,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "U",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2012-02-10",
+  "keywords": "nightmare,charlie chaplin character,miss piggy character,swedish chef character,kermit the frog character",
+  "duration": "PT2H",
+  "actor": [
+    {
+      "name": "Amy Adams",
+      "url": "https://www.imdb.com/name/nm0010736/"
+    },
+    {
+      "name": "Jason Segel",
+      "url": "https://www.imdb.com/name/nm0781981/"
+    },
+    {
+      "name": "Chris Cooper",
+      "url": "https://www.imdb.com/name/nm0177933/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Bobin",
+      "url": "https://www.imdb.com/name/nm0090386/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jason Segel",
+      "url": "https://www.imdb.com/name/nm0781981/"
+    },
+    {
+      "name": "Nicholas Stoller",
+      "url": "https://www.imdb.com/name/nm0831557/"
+    },
+    {
+      "name": "Jim Henson",
+      "url": "https://www.imdb.com/name/nm0001345/"
+    }
+  ]
+}

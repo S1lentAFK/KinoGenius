@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Just Friends",
+  "url": "https://www.imdb.com/tt0433400/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA0Mzg2NjUzMl5BMl5BanBnXkFtZTcwNDg2ODUzMQ@@._V1_.jpg",
+  "description": "While visiting his hometown during Christmas, a man comes face-to-face with his old high-school crush and best friend--a woman whose rejection of him turned him into a ferocious womanizer.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2013-08-31",
+    "inLanguage": "English",
+    "heading": "characters are an unlikeable pathetic mess.",
+    "reviewBody": "Chris Brander (Ryan Reynolds) is an overweight teen and he's in love with his best friend Jamie Palamino (Amy Smart). But in an attempt to proclaim his love, he makes a fool of himself in front of a class party. And Jamie just want to be friends. Now they're grown up and he's not fat anymore. Plus he's a success in the music industry. He has to accompany a ridiculous pop princess Samantha James (Anna Faris). Their jet catches on fire and they land back in his home town. It just might be his chance to be more than friends with Jamie.\\n\\nChris is an unlikeable character. And I don't think I rooted for him and Jamie to get together. Anna Faris is playing her character way too broad. At least I thought so, until the pond hockey game with the kids. The whole thing is full of anger, the characters are an unlikeable pathetic mess, and there are so many douchey characters. It's just too hard to root for anybody in this one.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 126571,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2006-01-06",
+  "keywords": "scantily clad female,upskirt,blonde,cleavage,high school",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Ryan Reynolds",
+      "url": "https://www.imdb.com/name/nm0005351/"
+    },
+    {
+      "name": "Amy Smart",
+      "url": "https://www.imdb.com/name/nm0005442/"
+    },
+    {
+      "name": "Anna Faris",
+      "url": "https://www.imdb.com/name/nm0267506/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Roger Kumble",
+      "url": "https://www.imdb.com/name/nm0474955/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Adam 'Tex' Davis",
+      "url": "https://www.imdb.com/name/nm0204129/"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Lake City",
+  "url": "https://www.imdb.com/tt0875705/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg3MzYyMTgxMV5BMl5BanBnXkFtZTcwNzAxNzg3Mg@@._V1_.jpg",
+  "description": "A desperate young man, on the run from a dangerous drug dealer, returns to his mother, years after a family tragedy drove them far apart, to hide. However, his old and new life are about to collide.",
+  "review": {
+    "author": "geronimo109-1",
+    "dateCreated": "2010-03-31",
+    "inLanguage": "English",
+    "heading": "Lake City(2008)",
+    "reviewBody": "'Lake City' is a film written and directed by Perry Moore and Hunter Hill, about a man named Billy (Troy Garity) running away back to his home down South and his mother Maggie (Sissy Spacek) to escape his drug connections. In tow, he has Clayton (Colin Ford) his girlfriend's son and a large amount of drugs sought by Red (Dave Matthews), a nefarious dealer. Though he does his best to keep his head down and readjust to life in the small town, his old life (and tragedies therein) proves too difficult to shake off, forcing a direct confrontation with both the life he has created (and destroyed) for himself and the life that he was running away from when he left. \n\nSissy Spacek as Maggie is clearly the rock at the center of the film, around which all other elements orbit and evolve. With each and every glance and turn of her sturdy but weathered face, she conveys the wisdom and strength of the 'people of the land', to spin a tired phrase, and the environment that they live in. Though the film's story ostensibly hinges on the actions taken by Billy, it is Maggie who is the film's heart and soul, personifying all of the conflicted feelings that Billy has about the rather double-edged notion of home, where you can count on everyone knowing who you are, but also on being the same person that you were when they first met you. Maggie's relationship with Billy is a complicated (and frequently tense) one, but as convincing as Garity is as a drug user, it is Spacek who lets us know just where the divide between them lies. \n\n'Lake City' is a very solid film, and I highly recommend it. It may be a little hard to track down(it is available on Netflix), but I suggest you do; you won't be disappointed.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 949,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "R",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2008-04-25",
+  "keywords": "mother,spitting fire,on the run,tennessee,father son relationship",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Sissy Spacek",
+      "url": "https://www.imdb.com/name/nm0000651/"
+    },
+    {
+      "name": "Jason Davis",
+      "url": "https://www.imdb.com/name/nm1151921/"
+    },
+    {
+      "name": "Alina Phelan",
+      "url": "https://www.imdb.com/name/nm1615826/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Hunter Hill",
+      "url": "https://www.imdb.com/name/nm2406995/"
+    },
+    {
+      "name": "Perry Moore",
+      "url": "https://www.imdb.com/name/nm1461981/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Hunter Hill",
+      "url": "https://www.imdb.com/name/nm2406995/"
+    },
+    {
+      "name": "Perry Moore",
+      "url": "https://www.imdb.com/name/nm1461981/"
+    }
+  ]
+}

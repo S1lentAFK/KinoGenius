@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Tyler Perry's Boo 2! A Madea Halloween",
+  "url": "https://www.imdb.com/tt6217804/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmQ0OWE5ZGItMDgyMi00MzIyLWJiYmItYzZkZTFmYWI1N2UyXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+  "description": "Madea, Bam, and Hattie venture to a haunted campground and the group must run for their lives when monsters, goblins, and the boogeyman are unleashed.",
+  "review": {
+    "author": "kevinpleasant",
+    "dateCreated": "2018-01-31",
+    "inLanguage": "English",
+    "heading": "A Huge Disappointment for Madea Fans.",
+    "reviewBody": "First let me say that I love the Madea of old. The last few films have really started to become obscene and have lost any sense of morality they once had. Not only is this film not funny it's torturous to sit through. Tyler Perry has traded quality and morals for a quick buck and cheap obscene attempts at laughter. Don't waste your time on this crap. Re-watch one of the earlier films when Madea was still funny and endearing.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 2
+    }
+  },
+  "rating": {
+    "ratingCount": 5221,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Horror"
+  ],
+  "datePublished": "2017-10-20",
+  "keywords": "sequel,second part,directed by star,rhyme in title,birthday",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Tyler Perry",
+      "url": "https://www.imdb.com/name/nm1347153/"
+    },
+    {
+      "name": "Cassi Davis",
+      "url": "https://www.imdb.com/name/nm0204322/"
+    },
+    {
+      "name": "Patrice Lovely",
+      "url": "https://www.imdb.com/name/nm4776479/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tyler Perry",
+      "url": "https://www.imdb.com/name/nm1347153/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tyler Perry",
+      "url": "https://www.imdb.com/name/nm1347153/"
+    },
+    {
+      "name": "Brian Schulman",
+      "url": "https://www.imdb.com/name/nm1447447/"
+    }
+  ]
+}

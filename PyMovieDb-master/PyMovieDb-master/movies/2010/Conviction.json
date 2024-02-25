@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Conviction",
+  "url": "https://www.imdb.com/tt1244754/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjUyZDMxMDUtMDRkMi00MDYwLTk5N2EtYjM2NjQ0NzI1YmY4XkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_.jpg",
+  "description": "A working mother puts herself through law school in an effort to represent her brother, who has been wrongfully convicted of murder and has exhausted his chances to appeal his conviction through public defenders.",
+  "genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2011-01-14",
+  "duration": "PT1H47M",
+  "contentRating": "15",
+  "keywords": [
+    "year 1995",
+    "year 2001",
+    "year 1992",
+    "what happened to epilogue",
+    "ends with biographical notes"
+  ],
+  "rating": {
+    "ratingCount": 45709,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "review": {
+    "author": "the-movie-guy",
+    "dateCreated": "2010-10-14",
+    "inLanguage": "English",
+    "heading": "An inspirational true story of commitment & life's struggles",
+    "reviewBody": "(Synopsis) Conviction is based on an inspiring true story of Betty Anne Waters (Hilary Swank), a high school dropout who over 18-years put herself through law school to represent and hopefully overturn her innocent brother's, Kenny Waters (Sam Rockwell), murder conviction. Betty Anne is a working mother of two boys who believes that her brother was wrongfully convicted and sentenced to life in prison for a 1980 bloody murder of a woman living in a trailer next door to him in Ayer, Massachusetts. Kenny's ability to appeal his conviction using public defenders has been exhausted and without a lawyer, he will die in prison. That is when Betty Anne decides to dedicate her life to save her brother. With a newly earned law degree in hand, she hopes to exonerate her brother with new evidence and the new science of DNA.\\n\\n(My Comment) This is a story of what a devoted and inseparable loving sister can do for her brother when he needs her most. Their family bond for each other, while growing up on a farm, is stronger than any prison can break. The movie shows Betty Anne Waters' commitment in freeing her brother as the only thing that will make her life complete. The struggles she endures to become a lawyer, and her willpower to save her brother from any further pain is inspirational. The bond between Hilary Swank and Sam Rockwell seems very real, including the steps that she takes as an obsessed lawyer to set him free. Their performances were brilliant, and I believe that both of them will be nominated for an Oscar. This is a movie to see. Footnote: The Innocence Project using DNA matching since 1989 has freed over 254 innocent people from prison in the United States. (Fox Searchlight Pictures, Run Time 1:46, Rated R) (8/10)",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Hilary Swank",
+      "url": "https://www.imdb.com/name/nm0005476/"
+    },
+    {
+      "name": "Sam Rockwell",
+      "url": "https://www.imdb.com/name/nm0005377/"
+    },
+    {
+      "name": "Melissa Leo",
+      "url": "https://www.imdb.com/name/nm0502425/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tony Goldwyn",
+      "url": "https://www.imdb.com/name/nm0001282/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Pamela Gray",
+      "url": "https://www.imdb.com/name/nm0336861/"
+    }
+  ]
+}

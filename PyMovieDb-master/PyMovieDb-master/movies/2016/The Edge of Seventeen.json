@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "The Edge of Seventeen",
+  "url": "https://www.imdb.com/tt1878870/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODE2NjE4NjYyMV5BMl5BanBnXkFtZTgwNzk3MjQ0OTE@._V1_.jpg",
+  "description": "High-school life gets even more unbearable for Nadine when her best friend, Krista, starts dating her older brother.",
+  "review": {
+    "author": "Jessicat66",
+    "dateCreated": "2018-06-28",
+    "inLanguage": "English",
+    "heading": "An emotional rollercoaster for loners of any age",
+    "reviewBody": "Though this film fits the coming of age genre the struggles that Nadine, the main character, is going through are not purely &apos;teen problems&apos;, As a 20 something year old this film deeply resonated with me and though similar to Nadine I was a socially awkward, defensive and pessimistic teenager it wasn&apos;t just the teenage me who could find the character relatable. I&apos;ve noticed in the low rated comments one of the main reasons people didn&apos;t like the film is because the main character isn&apos;t likeable. And though I loved the film, I would agree; she isn&apos;t likeable. And the film is more realistic and better off for it. In real life we aren&apos;t always likeable people ourselves and the film almost acts as a tool to allow us to step back and really look at our current or teenage selves. Nadine does realise and understand towards the end and throughout the film her erratic and selfish behaviour is a result of her self loathing because she knows she doesn&apos;t want to continue being that way but she&apos;s stuck in this endless cycle and doesn&apos;t know how to get out. The valuable lesson from the film and her journey within it is that we often bring misfortune and unhappiness on ourselves in the way we handle and respond to bad things in our lives. \n\nI think this film will speak to anyone who has felt alone in the world, lost without purpose or anywhere to fit in. If you like films about people rather than action and you watch a film to be taken on a journey (albeit an emotional one) rather than to have an enjoyable couple of hours then this may be the film for you. It helps that is has an excellent cast, each actor fitting their roles well and bringing them to life.\n\nAnother positive note I took away from the film is the way it handles and represents mental illness/ distress as it does so without labels and in a subtle way without needing to bring it to the forefront.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 139118,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2016-11-30",
+  "keywords": "adolescence,coming of age film,high school,depressed teen,suicide talk",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Hailee Steinfeld",
+      "url": "https://www.imdb.com/name/nm2794962/"
+    },
+    {
+      "name": "Haley Lu Richardson",
+      "url": "https://www.imdb.com/name/nm4726634/"
+    },
+    {
+      "name": "Blake Jenner",
+      "url": "https://www.imdb.com/name/nm4296357/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kelly Fremon Craig",
+      "url": "https://www.imdb.com/name/nm2609807/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kelly Fremon Craig",
+      "url": "https://www.imdb.com/name/nm2609807/"
+    }
+  ]
+}

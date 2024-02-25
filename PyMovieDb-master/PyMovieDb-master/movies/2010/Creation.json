@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Creation",
+  "url": "https://www.imdb.com/tt0974014/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAwMjgxMDUwNl5BMl5BanBnXkFtZTcwMjM3ODAxMw@@._V1_.jpg",
+  "description": "Torn between faith and science, and suffering hallucinations, English naturalist Charles Darwin struggles to complete 'On the Origin of Species' and maintain his relationship with his wife.",
+  "review": {
+    "author": "gradyharp",
+    "dateCreated": "2010-06-30",
+    "inLanguage": "English",
+    "heading": "The Private Life of Charles Darwin",
+    "reviewBody": "CREATION is not a film about the development of Charles Darwin's Theory of Evolution, and if that is what the audience expects it will be disappointed. What this little film presents instead is the midlife crisis (the film takes place in 1858-59 and Darwin was born in 1809, having completed his 1840 'Voyage of the Beagle' after the famous time he spent from 1831 -36 on the HMS Beagle as a naturalist gathering data) when Darwin had made his observations of nature and natural survival of the fittest and was struggling with writing of 'The Origin of Species by Means of Natural Selection', a book that would threaten to incise his relationship not only with Christian society but also with his fervently religious wife Emma. It is a story of the tortured man coping with the dichotomy between science and religion, between a man obsessed with his scientific discoveries while longing to be a good father to the children he loved. Yes there is discussion of his scientific theories, made mostly in his stories he told his children, but the book on which it is based, Randal Keynes 'Annie's Box' (Keynes is the great great grandson of Darwin) - a book of diaries and quiet notes about the Darwin and his oldest daughter Annie whose death as a young girl nearly destroyed Darwin - is more concerned with opening the windows to the family life of the great scientist than expounding the scientific theory we all know so well. John Collee's screenplay serves the film well as does the careful direction of Jon Amiel. \n\nCharles Darwin's presence is illuminated by Paul Bettany's performance and the difficult role of his wife Emma is played with great sensitivity by Bettany's real wife Jennifer Connelly. The pivotal role of Annie (Darwin's eldest daughter who seemed to have inherited all of the curiosity and imagination of Darwin) is portrayed by first time actress Martha West (daughter of actor Dominic West): it is Annie's death that alters the course of this story, that event and the final reconciliation between Darwin and Emma after Emma actually reads the completed book (The Origin of Species). The supporting cast is excellent: Jeremy Northam is the unforgiving cleric Reverend Innes, the other Darwin children are very natural in their acting - Freya Parks, Harrison Sansostri, Christopher Dunkin - and Toby Jones adds sparks as Thomas Huxley who declares that Darwin's theories prove that God is dead! The cinematography by Jess Hall is excellent - especially in the scenes involving man's first connection with the apes. The musical score by Christopher Young rather blurs all the action into a Victorian mush, but the actors and director are able to make us forget that ill- conceived add-on. In all, the film is a family story - it just so happens that the family is that of a great man about whose personal life we know very little. Impressive work. \n\nGrady Harp",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 15079,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2009-09-25",
+  "keywords": "hallucination,marriage between cousins,father daughter relationship,evolution,loss of daughter",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "Paul Bettany",
+      "url": "https://www.imdb.com/name/nm0079273/"
+    },
+    {
+      "name": "Jennifer Connelly",
+      "url": "https://www.imdb.com/name/nm0000124/"
+    },
+    {
+      "name": "Ian Kelly",
+      "url": "https://www.imdb.com/name/nm4037686/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jon Amiel",
+      "url": "https://www.imdb.com/name/nm0000750/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Collee",
+      "url": "https://www.imdb.com/name/nm0171722/"
+    },
+    {
+      "name": "Jon Amiel",
+      "url": "https://www.imdb.com/name/nm0000750/"
+    },
+    {
+      "name": "Randal Keynes",
+      "url": "https://www.imdb.com/name/nm2568171/"
+    }
+  ]
+}

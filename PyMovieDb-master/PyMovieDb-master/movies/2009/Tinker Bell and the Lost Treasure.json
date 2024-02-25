@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Tinker Bell and the Lost Treasure",
+  "url": "https://www.imdb.com/tt1216516/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTJlNzM1ODMtMjRkYy00NWU5LWExNTAtMzE4ZWE2OTVmZjdkXkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_.jpg",
+  "description": "Tinker Bell journey far North of Never Land to patch things up with her friend Terence and restore a Pixie Dust Tree.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "datePublished": "2010-01-02",
+  "keywords": "disney animated sequel,queen of the fairies,fairies,moon,dust",
+  "duration": "PT1H21M",
+  "actor": [
+    {
+      "name": "Mae Whitman",
+      "url": "https://www.imdb.com/name/nm0926165/"
+    },
+    {
+      "name": "Jesse McCartney",
+      "url": "https://www.imdb.com/name/nm0565366/"
+    },
+    {
+      "name": "Jane Horrocks",
+      "url": "https://www.imdb.com/name/nm0001363/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Klay Hall",
+      "url": "https://www.imdb.com/name/nm0355806/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Evan Spiliotopoulos",
+      "url": "https://www.imdb.com/name/nm0818746/"
+    },
+    {
+      "name": "Klay Hall",
+      "url": "https://www.imdb.com/name/nm0355806/"
+    }
+  ],
+  "review": {
+    "author": "judecas",
+    "dateCreated": "2009-10-30",
+    "inLanguage": "English",
+    "heading": "Nice and entertaining",
+    "reviewBody": "I don't understand the low rating (4.9) up to date. I really liked it, not to mention my 3yo daughter. I was really curious to see the sequel after TB1 was highly satisfactory for the whole family. I watched it about a couple of dozen times with the little one. Now this new DVD would experience the hard times the first one did until now... but I grabbed it to our NMT and put the media to safety. I can nothing but recommend it. Really nice animation, eye candy from the beginning to the end, nice story, nice message. Most of the characters from the first TB got just marginal appearances, on the other way others were promoted. This one was more about Tink, less about interaction between the fairies like in the first one, but imo the movie did not suffer because of that. All in all - 8/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 12187,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  }
+}

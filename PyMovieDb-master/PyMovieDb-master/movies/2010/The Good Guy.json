@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "The Good Guy",
+  "url": "https://www.imdb.com/tt1247662/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc3MTExMzIzMV5BMl5BanBnXkFtZTcwMjI1MzUxMw@@._V1_.jpg",
+  "description": "Calm and quiet Daniel starts on Wall Street. His womanizing colleague, Tommy, encourages him to meet women. He unknowingly meets Tommy&apos;s girlfriend, Beth, and ends up in her 5 women book club. Will he find the woman?",
+  "review": {
+    "author": "maeander",
+    "dateCreated": "2022-02-09",
+    "inLanguage": "English",
+    "heading": "Wall Street doesn&apos;t work that way.",
+    "reviewBody": "Screenwriters of a certain age think a stockbroker can make a cold call to a rich/poor person on the phone and they will sell them massive amounts of stock by pressuring them to buy now. That really doesn&apos;t happen.\n\nIt is true that this is only a muguffin to set up the three way romance. Still, the premise is so silly...They might as well be scientist trying to cure hiccups or philosophers fighting over the meaning of existence...or farmers growing the perfect ear of corn.\n\nThe basic premise is silly. That undermines the entire film. Nothing new happens in this very pedestrian film. A complete disappointment. The basic story has been done so many times before...and done so much better.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 9737,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "R",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2010-02-19",
+  "keywords": "william shakespeare character,women,new york city,manhattan new york city,cheating boyfriend",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Alexis Bledel",
+      "url": "https://www.imdb.com/name/nm0088127/"
+    },
+    {
+      "name": "Scott Porter",
+      "url": "https://www.imdb.com/name/nm2187603/"
+    },
+    {
+      "name": "Bryan Greenberg",
+      "url": "https://www.imdb.com/name/nm1034965/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Julio DePietro",
+      "url": "https://www.imdb.com/name/nm2360037/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Julio DePietro",
+      "url": "https://www.imdb.com/name/nm2360037/"
+    }
+  ]
+}

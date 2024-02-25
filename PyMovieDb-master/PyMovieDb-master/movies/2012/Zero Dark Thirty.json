@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Zero Dark Thirty",
+  "url": "https://www.imdb.com/tt1790885/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4OTUyNzcwN15BMl5BanBnXkFtZTcwMTQ1NDE3OA@@._V1_.jpg",
+  "description": "A chronicle of the decade-long hunt for al-Qaeda terrorist leader Osama bin Laden after the September 2001 attacks, and his death at the hands of the Navy S.E.A.L.s Team 6 in May 2011.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2013-11-02",
+    "inLanguage": "English",
+    "heading": "Shocked how real the raid look",
+    "reviewBody": "Maya (Jessica Chastain) is a CIA analyst who won&apos;t rest from the hunt fro Bin Laden. Director Kathryn Bigelow has followed the hunt from 9-11 to the tension filled raid in Abbottabad, Pakistan. The movie is based on the true events. There is a relevant question of how true to the events is the movie. Unlike most movies, this is actually an important question.\\n\\nMost of us have no hope of knowing the true facts that actually happened. This movie is certainly a possible reality. Some of it is probably wrong. They&apos;ve probably changed some of it to not reveal CIA trade craft. Others looks different than what&apos;s been reported on the news. However it is overall following the story already laid out for the public.\\n\\nThe hunt for Bin Laden can meander and not follow a straight line. It doesn&apos;t really built like a normal movie. Bigelow is still able to maintain the tension throughout the movie. The last 40 minutes is where this movie truly excels. The raid in Abbottabad is incredibly tense. The Hollywood flashiness is mostly removed. It takes its time. It&apos;s done almost in real time. It has the intensity of realism. It&apos;s shocking how real the raid looked.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 317101,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "datePublished": "2013-01-25",
+  "keywords": "al qaeda,terrorist,special forces,death of osama bin laden,commando raid",
+  "duration": "PT2H37M",
+  "actor": [
+    {
+      "name": "Jessica Chastain",
+      "url": "https://www.imdb.com/name/nm1567113/"
+    },
+    {
+      "name": "Joel Edgerton",
+      "url": "https://www.imdb.com/name/nm0249291/"
+    },
+    {
+      "name": "Chris Pratt",
+      "url": "https://www.imdb.com/name/nm0695435/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kathryn Bigelow",
+      "url": "https://www.imdb.com/name/nm0000941/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Boal",
+      "url": "https://www.imdb.com/name/nm1676793/"
+    }
+  ]
+}

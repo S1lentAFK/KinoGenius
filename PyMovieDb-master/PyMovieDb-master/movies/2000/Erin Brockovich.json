@@ -1,0 +1,67 @@
+
+
+{
+  "type": "Movie",
+  "name": "Erin Brockovich",
+  "url": "https://www.imdb.com/tt0195685/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTA1NWRkNTktNDMxNS00NjE4LWEzMDAtNzA3YzlhYzRhNDA4L2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Movie_Muse_Reviews",
+    "dateCreated": "2008-04-30",
+    "inLanguage": "English",
+    "heading": "When feel-good becomes Oscar-worthy feel-good",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 218395,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Drama"
+  ],
+  "datePublished": "2000-04-07",
+  "keywords": [
+    "environmental issue",
+    "contamination",
+    "corporate crime",
+    "single mother",
+    "contaminated water"
+  ],
+  "duration": "PT2H11M",
+  "actor": [
+    {
+      "name": "Julia Roberts",
+      "url": "https://www.imdb.com/name/nm0000210/"
+    },
+    {
+      "name": "Albert Finney",
+      "url": "https://www.imdb.com/name/nm0001215/"
+    },
+    {
+      "name": "David Brisbin",
+      "url": "https://www.imdb.com/name/nm0109773/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven Soderbergh",
+      "url": "https://www.imdb.com/name/nm0001752/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Susannah Grant",
+      "url": "https://www.imdb.com/name/nm0335666/"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+
+
+{
+  "type": "Movie",
+  "name": "It's Such a Beautiful Day",
+  "url": "https://www.imdb.com/tt2396224/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2Y0YjBiNjAtZjMwZS00ZGY4LWE0MWItMGE5MWI3ZWRmODAyXkEyXkFqcGdeQXVyMjM5NDU5ODY@._V1_.jpg",
+  "description": "Bill struggles to put together his shattered psyche, in this new feature film version of Don Hertzfeldt's animated short film trilogy.",
+  "review": {
+    "author": "rvdawesome",
+    "dateCreated": "2013-02-15",
+    "inLanguage": "English",
+    "heading": "You should totally buy this movie.",
+    "reviewBody": "This film is amazing. It's a beautiful, philosophical film that leaves you feeling paralyzed after viewing. Every time I watch it, I notice more and more of the great things about this film. The superb effects are even more amazing when you think about how there were no computers used in its filming. This movie feels like the longest hour of your life, but you wish the hour never ends. It is about a man named Bill. It starts of following Bill around with narration by Don Hertzfeldt. Hertzfeldt's narration sounds unconventional and unprofessional, but it adds to the effect of the film. You soon learn that BIll is struggling with some sort of disease never mentioned in the film that affects his mind. Most of the film is split into little windows across the screen, something weird, but original and interesting. All this, plus some darkly funny humor, makes this film not only a great one, but an artistic achievement that will make you do some major thinking about life. This film is perfect.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 15768,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.2
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2016-05-21",
+  "keywords": "stick figure,illness,mental health,narration,dark comedy",
+  "duration": "PT1H2M",
+  "actor": [],
+  "director": [
+    {
+      "name": "Don Hertzfeldt",
+      "url": "https://www.imdb.com/name/nm0381116/"
+    }
+  ],
+  "creator": []
+}

@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Loser",
+  "url": "https://www.imdb.com/tt0217630/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWY5ZTEwZDItZWQ0My00NzEwLWI3NzAtNzI1ZTJkMjgyZWMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "jkuun96",
+    "dateCreated": "2018-01-18",
+    "inLanguage": "English",
+    "heading": "A decent movie with heart",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 30257,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2000-11-03",
+  "keywords": "college student,roommate,teacher student relationship,fish out of water,nerd",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Jason Biggs",
+      "url": "https://www.imdb.com/name/nm0004755/"
+    },
+    {
+      "name": "Mena Suvari",
+      "url": "https://www.imdb.com/name/nm0002546/"
+    },
+    {
+      "name": "Zak Orth",
+      "url": "https://www.imdb.com/name/nm0651008/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Amy Heckerling",
+      "url": "https://www.imdb.com/name/nm0002132/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Amy Heckerling",
+      "url": "https://www.imdb.com/name/nm0002132/"
+    }
+  ]
+}

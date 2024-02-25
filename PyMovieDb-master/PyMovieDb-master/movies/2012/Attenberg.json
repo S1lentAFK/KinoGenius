@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Attenberg",
+  "url": "https://www.imdb.com/tt1691323/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI4MTM2NzMyNV5BMl5BanBnXkFtZTcwMTE0MTc0Nw@@._V1_.jpg",
+  "description": "Stuck in her boring factory town, twenty-three-year-old Marina is at the mercy of both her father's impending death and her distaste for other humans.",
+  "contentRating": "18",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2011-09-02",
+  "keywords": "male frontal nudity,terminal illness,architect,female nudity,industrial town",
+  "duration": "PT1H37M",
+  "rating": {
+    "ratingCount": 7560,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "review": {
+    "author": "briefexistance",
+    "dateCreated": "2019-01-19",
+    "inLanguage": "English",
+    "heading": "I'm speechless",
+    "reviewBody": "It's weird, it's fresh, it's new, it's youth portrayed. I loved it, it's one of those films that stick with you even days after seeing it. It's a pretty simple plot but the interactions of Marina with her friend, her lover and specially her father are thoughtful, intimate, funny and very interesting to watch. The feeling of this movie is not to take very seriously major life events. In a way, it's a very positive, weird, original and funny movie. The intimacy achieved by the main actress it's amazing, and as much as I loved it, I understand not everyone will get it, or feel it the way I had. But to me, it was a journey whom I connected deeply with. The misanthropic and weird nature, but also positivity and amazingness of Marina captivated me. I'm very grateful I had the opportunity to watch it through MUBI. Plus! the soundtrack fu*king rocks, I love the band Suicide. It's a greek gem, and it certainly has become one of my favorites.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "actor": [
+    {
+      "name": "Ariane Labed",
+      "url": "https://www.imdb.com/name/nm3987673/"
+    },
+    {
+      "name": "Vangelis Mourikis",
+      "url": "https://www.imdb.com/name/nm0609999/"
+    },
+    {
+      "name": "Evangelia Randou",
+      "url": "https://www.imdb.com/name/nm2032234/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Athina Rachel Tsangari",
+      "url": "https://www.imdb.com/name/nm0718125/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Athina Rachel Tsangari",
+      "url": "https://www.imdb.com/name/nm0718125/"
+    }
+  ]
+}

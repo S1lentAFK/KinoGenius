@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Assassination of Jesse James by the Coward Robert Ford",
+  "url": "https://www.imdb.com/tt0443680/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY2NDI2MTc2NV5BMl5BanBnXkFtZTcwNjA2NTQzMw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "TheWylde",
+    "dateCreated": "2007-10-14",
+    "inLanguage": "English",
+    "heading": "Great but hard to sell...",
+    "reviewBody": "If you have watched the trailer and know this movie is two hours and forty minutes long you know what you are getting into and should not be disappointed. This movie delivers on every level of film making, be it cinematography, acting, or writing. Casey Affleck delivers a fantastic performance in how he portrays Robert Ford as the bright eyed fawning kid in a way so sincere it makes the audience uncomfortable even when it shouldn't. Brad Pitt underplays his part as Jesse James hitting all the right notes while never saying much. Exactly the way one would expect an outlaw to act when they have everything in the world to hide. I can't say the movie didn't FEEL two hours and forty minutes long but I never wanted it to end sooner than it did. I guess I just enjoyed the time I got to spend watching these characters for the full running time.\n\nI loved this movie. Unfortunately, a long western without action is something seemingly impossible to sell to the public these days. It would be to the advantage of the studio to sell this like The English Patient was sold 10 years ago. Just make people feel like ignorant idiots if they don't like it! As much as it pains me to say it, I think most people don't care enough to bother seeing what makes this movie so great. The only other option to make this a success is to fool them into THINKING they love the movie. I'm really curious how many folks out there that like the movie agree with me here.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 191808,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2007-11-30",
+  "keywords": "betrayal,idol,jesse james character,bob ford character,long title",
+  "duration": "PT2H40M",
+  "actor": [
+    {
+      "name": "Brad Pitt",
+      "url": "https://www.imdb.com/name/nm0000093/"
+    },
+    {
+      "name": "Casey Affleck",
+      "url": "https://www.imdb.com/name/nm0000729/"
+    },
+    {
+      "name": "Sam Shepard",
+      "url": "https://www.imdb.com/name/nm0001731/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrew Dominik",
+      "url": "https://www.imdb.com/name/nm0231596/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Dominik",
+      "url": "https://www.imdb.com/name/nm0231596/"
+    },
+    {
+      "name": "Ron Hansen",
+      "url": "https://www.imdb.com/name/nm0361069/"
+    }
+  ]
+}

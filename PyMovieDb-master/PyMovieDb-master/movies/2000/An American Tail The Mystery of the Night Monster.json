@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "An American Tail: The Mystery of the Night Monster",
+  "url": "https://www.imdb.com/tt0197230/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTEwMTM1MDUwMDVeQTJeQWpwZ15BbWU4MDUwNTUwMDcx._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "GazHack",
+    "dateCreated": "2000-08-24",
+    "inLanguage": "English",
+    "heading": "Wholly disposable kid fodder.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 1399,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "datePublished": "2000-03-06",
+  "keywords": "nightmare,half dressed cartoon animal,cartoon mouse,modified under censorship,slimehouse",
+  "duration": "PT1H18M",
+  "actor": [
+    {
+      "name": "Thomas Dekker",
+      "url": "https://www.imdb.com/name/nm0215281/"
+    },
+    {
+      "name": "Lacey Chabert",
+      "url": "https://www.imdb.com/name/nm0000327/"
+    },
+    {
+      "name": "Jane Singer",
+      "url": "https://www.imdb.com/name/nm0801958/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Larry Latham",
+      "url": "https://www.imdb.com/name/nm0490099/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Kirschner",
+      "url": "https://www.imdb.com/name/nm0456946/"
+    },
+    {
+      "name": "Len Uhley",
+      "url": "https://www.imdb.com/name/nm0880204/"
+    }
+  ]
+}

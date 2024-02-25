@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Phoebe in Wonderland",
+  "url": "https://www.imdb.com/tt1034325/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIyMjQ2NDQ0MF5BMl5BanBnXkFtZTcwNjE1NTEzMg@@._V1_.jpg",
+  "description": "Confounded by her clashes with the seemingly rule-obsessed world, a troubled young girl seeks enlightenment from her unconventional drama teacher.",
+  "contentRating": "12",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2010-04-02",
+  "keywords": "difficulty,young girl,girl,art,mushroom",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Elle Fanning",
+      "url": "https://www.imdb.com/name/nm1102577/"
+    },
+    {
+      "name": "Patricia Clarkson",
+      "url": "https://www.imdb.com/name/nm0165101/"
+    },
+    {
+      "name": "Felicity Huffman",
+      "url": "https://www.imdb.com/name/nm0005031/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Daniel Barnz",
+      "url": "https://www.imdb.com/name/nm1400426/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Daniel Barnz",
+      "url": "https://www.imdb.com/name/nm1400426/"
+    }
+  ],
+  "review": {
+    "author": "pooh441",
+    "dateCreated": "2008-05-02",
+    "inLanguage": "English",
+    "heading": "Terrific movie!",
+    "reviewBody": "I just saw this movie in Rochester NY at the High Falls Film Festival. Bill Pullman introduced the movie.\n\nTo put it simply, this was a terrific movie! One of the best I have seen in a long time. How it is scoring so low on this site is beyond me. I would not trust the ratings on this site if this movie is scoring so low.\n\nElle Fanning is amazing in her role - one of the best performances I have ever seen by a child actor. Felicity Huffman gives her normal strong performance. Bill does not have a big part in the movie but plays it very effectively. Patricia Clarkson's performance as the drama teacher is perhaps the 2nd best in the movie behind Elle's. The rest of the cast was stellar as well.This movie holds you in its spell throughout. It's moving, funny at times and captivating in its style. Ignore the ratings - see this movie!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 8059,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  }
+}

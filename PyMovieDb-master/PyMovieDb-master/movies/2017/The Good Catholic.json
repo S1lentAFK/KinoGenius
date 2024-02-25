@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "The Good Catholic",
+  "url": "https://www.imdb.com/tt4721404/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzdjYTk1OTAtNTY4Ni00OTQzLWEwM2UtZDI2NGNiYjFiMmQ4XkEyXkFqcGdeQXVyMzM0NzU1MzA@._V1_.jpg",
+  "description": "Daniel loved his job as a small town priest more than anything. Then he met Jane. God help him.",
+  "review": {
+    "author": "tmjirgal",
+    "dateCreated": "2017-09-18",
+    "inLanguage": "English",
+    "heading": "Good movie, but do research after...",
+    "reviewBody": "I read a lot about this movie and since I&apos;m a Catholic I looked up information about this movie from Catholic websites I could trust. I&apos;m not sure what kind of light this shows Catholics in, especially the monk who smokes and seems to not care about the fact that this priest might be breaking his vow of chastity. Yes, I understand that priests are human and temptations are real. But I think it&apos;s important to point out that not all Catholic priests act this way. In fact, when a priest breaks his vow, its a very big deal. It sounds like a funny, romantic movie but its good to keep in mind, especially if you don&apos;t know much about Catholics, that this is not 100% accurate.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 974,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2017-09-08",
+  "keywords": "priest,confessional,dying woman,writer director,singing",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Zachary Spicer",
+      "url": "https://www.imdb.com/name/nm3845862/"
+    },
+    {
+      "name": "Wrenn Schmidt",
+      "url": "https://www.imdb.com/name/nm2486357/"
+    },
+    {
+      "name": "Danny Glover",
+      "url": "https://www.imdb.com/name/nm0000418/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Paul Shoulberg",
+      "url": "https://www.imdb.com/name/nm2749225/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Paul Shoulberg",
+      "url": "https://www.imdb.com/name/nm2749225/"
+    }
+  ]
+}

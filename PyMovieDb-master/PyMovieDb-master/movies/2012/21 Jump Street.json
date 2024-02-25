@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "21 Jump Street",
+  "url": "https://www.imdb.com/tt1232829/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTZjNzRjMTMtZDMzNy00Y2ZjLTg0OTAtZjVhNzYyZmJjOTljXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "description": "A pair of underachieving cops are sent back to a local high school to blend in and bring down a synthetic drug ring.",
+  "review": {
+    "author": "CraigLindholmMedia",
+    "dateCreated": "2012-03-16",
+    "inLanguage": "English",
+    "heading": "Touche...",
+    "reviewBody": "Precursor: I just moved back into town two days ago and had made plans to see one of my old friends tonight. I did not want to see this movie, and wouldn't have under any other circumstances but my friend really wanted to and the tickets were free so I went. \n\nReview itself: This is of no disrespect to Jonah Hill, his fashion of humor or his fans at all, but I, personally have grown tired of what seems to now be a plethora of wanna be Hangover and Superbad's. (The success of Project X seriously worries me...). Anyways, having that mind set approaching tonight and considering the fact I didn't laugh once during the 21 JS trailer, green or red band... I really wasn't expecting all that much out of the experience aside from leaving the house and catching up with a buddy. \n\nBut damn. \n\nI honestly thought this movie was great. Yes, there were parts I wasn't fond of... a bit of the dialogue seemed to me to be vulgar strictly for the sake of being vulgar... there was the usual expected Jonah Hill trademarked myriad of penis jokes and one extremely unnecessary shock gag but the majority of the movie was, to me, surprisingly satirical/smart/relevant in today's society, self-aware, and situationally hilarious. Even the dumbest and most profane of this movie's jokes and clich\u00e9s seemed to know that they were such and were given the proper comedic build up/context to at least warrant a chuckle. This movie had some surprisingly clever dialogue throughout and some of the best supporting characters I've seen in recent comedies (Ice Cube, The Principal, etc..) What really stood out to me though was the editing. 21 Jump Street features some of the most awkwardly humorous camera shot transitions, scene changes and music integration. Despite it's faults, I found this to be a damn hard movie to hate, and would recommend it to anyone looking for a fun weekend movie.\n\nAll in all... genuine, clever, vulgar yet respectable comedy with some heart. \n\nIMO a very good career move for both Hill and Tatum. \n\nStoked for the sequel.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 594053,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2012-03-16",
+  "keywords": "undercover cop,underage drinking,remake,buddy movie,jock",
+  "duration": "PT1H49M",
+  "actor": [
+    {
+      "name": "Jonah Hill",
+      "url": "https://www.imdb.com/name/nm1706767/"
+    },
+    {
+      "name": "Channing Tatum",
+      "url": "https://www.imdb.com/name/nm1475594/"
+    },
+    {
+      "name": "Ice Cube",
+      "url": "https://www.imdb.com/name/nm0001084/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Phil Lord",
+      "url": "https://www.imdb.com/name/nm0520488/"
+    },
+    {
+      "name": "Christopher Miller",
+      "url": "https://www.imdb.com/name/nm0588087/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Bacall",
+      "url": "https://www.imdb.com/name/nm0045209/"
+    },
+    {
+      "name": "Jonah Hill",
+      "url": "https://www.imdb.com/name/nm1706767/"
+    },
+    {
+      "name": "Patrick Hasburgh",
+      "url": "https://www.imdb.com/name/nm0367895/"
+    }
+  ]
+}

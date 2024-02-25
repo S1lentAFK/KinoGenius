@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Inferno",
+  "url": "https://www.imdb.com/tt3062096/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUzNTE2NTkzMV5BMl5BanBnXkFtZTgwMDAzOTUyMDI@._V1_.jpg",
+  "description": "When Robert Langdon wakes up in an Italian hospital with amnesia, he teams up with Dr. Sienna Brooks and they race across Europe together against the clock to foil a deadly global plot.",
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "datePublished": "2016-10-14",
+  "keywords": "amnesia,church,museum,police,virus",
+  "duration": "PT2H1M",
+  "actor": [
+    {
+      "name": "Tom Hanks",
+      "url": "https://www.imdb.com/name/nm0000158/"
+    },
+    {
+      "name": "Felicity Jones",
+      "url": "https://www.imdb.com/name/nm0428065/"
+    },
+    {
+      "name": "Irrfan Khan",
+      "url": "https://www.imdb.com/name/nm0451234/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ron Howard",
+      "url": "https://www.imdb.com/name/nm0000165/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dan Brown",
+      "url": "https://www.imdb.com/name/nm1467010/"
+    },
+    {
+      "name": "David Koepp",
+      "url": "https://www.imdb.com/name/nm0462895/"
+    }
+  ],
+  "review": {
+    "author": "zeki-4",
+    "dateCreated": "2016-10-09",
+    "inLanguage": "English",
+    "heading": "Empty calories, mainly due to poor direction",
+    "reviewBody": "Imagine if Spielberg had directed 'Godfather' and Coppola had directed the Indiana Jones movies. Both great directors, but it wouldn't have worked.\n\nSame thing applies here. Like the first two in this franchise, 'Da Vinci Code' and 'Angels and Demons', there's just something terribly wrong with the direction. Yes, the Langdon movies are suppose to be fast paced, but if almost no scenes are allowed to breathe, does it matter? \n\nAnd why do director Ron Howard keep on insisting insulting my intelligence? Like in the first two, many things are explained twice, so even the dumbest one in the audience knows what's going on.\n\nThen there's the blatant mistake of shooting the movie in standard widescreen, instead of cinemascope, like the first two. When you make a movie with several visually looking fantastic locales around the world, it SCREAMS cinemascope. \n\nAnd the best park of the book? They completely changed it. Guess they wanted to avoid any controversy.\n\nHans Zimmer's score was great, as usual, though.\n\nThe first two Langdon-movies are hovering at 6,6 on IMDb. So will this when the dust settles.\n\nIf the studio decides to make 'Lost Symbol' and - for once - have a Langdon movie getting great reviews, they should probably hire another director.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 188457,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  }
+}

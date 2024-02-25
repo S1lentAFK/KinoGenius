@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Civic Duty",
+  "url": "https://www.imdb.com/tt0446298/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTAzODc2OTUwMV5BMl5BanBnXkFtZTcwMTUxNzQ0MQ@@._V1_.jpg",
+  "description": null,
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2008-09-11",
+  "keywords": "conspiracy,conspiracy thriller,neighbor,paranoia,accountant",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Peter Krause",
+      "url": "https://www.imdb.com/name/nm0470244/"
+    },
+    {
+      "name": "Kal Naga",
+      "url": "https://www.imdb.com/name/nm1178100/"
+    },
+    {
+      "name": "Richard Schiff",
+      "url": "https://www.imdb.com/name/nm0771493/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeff Renfroe",
+      "url": "https://www.imdb.com/name/nm1199954/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Joiner",
+      "url": "https://www.imdb.com/name/nm1830055/"
+    }
+  ],
+  "review": {
+    "author": "aml04057",
+    "dateCreated": "2006-05-02",
+    "inLanguage": "English",
+    "heading": "Roller Coaster Ride!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 3445,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  }
+}

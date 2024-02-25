@@ -1,0 +1,75 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Spectacular Now",
+  "url": "https://www.imdb.com/tt1714206/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA5MTc0NTkzM15BMl5BanBnXkFtZTcwODEwNjE3OQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "ferguson-6",
+    "dateCreated": "2013-08-15",
+    "inLanguage": "English",
+    "heading": "A rare worthy entry into teen Dramedy genre",
+    "reviewBody": "Greetings again from the darkness. Coming-of-age teen dramas with a comedic flair that speak to that tumultuous period of life are rarely worthy of discussion. The exceptions hover film greatness: Rebel Without a Cause, Fast Times at Ridgemont High, Dazed and Confused, The Breakfast Club, and Say Anything ... Along comes young director James Ponsoldt and his adaptation of Tim Tharp's novel. While not perfect and falling just short of the level of those classics, it is nonetheless a welcome addition and quite interesting.\\n\\nIt's tempting to call Sutter (played by up-and-comer Miles Teller) a happy-go-lucky kid. He's the frat boy type - quick with a quip, smooth with the parents and girls, and the envy of the masses. That term would be misapplied to a kid who not only is never without his flask, but also gives them as gifts. He uses his wit and booze to dull the pain of his aimless existence. We see his lackadaisical efforts at completing a college admission form, and it's used as a plot device to track Sutter's progression through the film.\\n\\nBrie Larson is terrific as Sutter's perfect match ... right up until she decides that his philosophy of living in the now (even spectacularly) doesn't leave hope for much of a future. After an extreme night of drinking and partying, Sutter gets awakened while laying in a neighbor's front yard. Shailene Woodley (The Descendants) is Aimee Finicky who recognizes the popular Sutter, even though he has no idea who she is. Slowly, the two connect on a level previously unknown to either ... some good, some not so wise (just like real teenagers).\\n\\nThis couple of opposites learn much from each other, and soon enough, Sutter is confronting his long last father (Kyle Chandler). No real surprises what he discovers, but it's a life lesson that must be learned. Sutter seeks more from his remaining family - a big sister (Mary Elizabeth Winstead) who escaped the grind, and a workaholic mom (Jennifer Jason Leigh) doing her best to provide hope for Sutter.\\n\\nThe script is co-written by Scott Neustadter and Michael Weber who also wrote (500) Days of Summer. John Hughes and Cameron Crowe proved they could present teen dilemmas in an entertaining way, and this one follows the same structure. This is a dialogue-heavy story as Sutter and Aimee struggle alone and together to figure out life's next steps.\\n\\nI will say that for the first few minutes of the movie, I found Sutter to be the kind of guy that I would typically have no interest in. Tip of the cap to the filmmakers and Miles Teller for turning that around. It should also be noted that Shailene Woodley is so naturally affecting, that her character never comes across as anything but sincere. Given the state of today's mainstream coming of age stories, this one definitely deserves a look and could gather some attention come awards time.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 160694,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2013-09-13",
+  "keywords": [
+    "first kiss",
+    "coming of age",
+    "drunkenness",
+    "underage drinking",
+    "loss of virginity"
+  ],
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Miles Teller",
+      "url": "https://www.imdb.com/name/nm1886602/"
+    },
+    {
+      "name": "Shailene Woodley",
+      "url": "https://www.imdb.com/name/nm0940362/"
+    },
+    {
+      "name": "Kyle Chandler",
+      "url": "https://www.imdb.com/name/nm0151419/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Ponsoldt",
+      "url": "https://www.imdb.com/name/nm1242054/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Scott Neustadter",
+      "url": "https://www.imdb.com/name/nm2354099/"
+    },
+    {
+      "name": "Michael H. Weber",
+      "url": "https://www.imdb.com/name/nm2352210/"
+    },
+    {
+      "name": "Tim Tharp",
+      "url": "https://www.imdb.com/name/nm4043665/"
+    }
+  ]
+}

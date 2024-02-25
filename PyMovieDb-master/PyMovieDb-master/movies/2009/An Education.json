@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "An Education",
+  "url": "https://www.imdb.com/tt1174732/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg4NjgzOTc0MF5BMl5BanBnXkFtZTcwOTc2OTE3Mg@@._V1_.jpg",
+  "description": "A coming-of-age story about a teenage girl in 1960s suburban London, and how her life changes with the arrival of a playboy nearly twice her age.",
+  "review": {
+    "author": "secondtake",
+    "dateCreated": "2010-04-10",
+    "inLanguage": "English",
+    "heading": "Education is a double entendre well intended, well done...London 1961!",
+    "reviewBody": "An Education\n\nTake a star high school senior shooting for Oxford, and add a charming man more like thirty who seduces her (and you) with his utterly kind, gentle, clever, and generous nature. \n\nYou can guess what follows. And in a way, that's the let down of the whole thing. The idea is a simple one, yet it unfolds so beautifully, with some extraordinary acting, it is quite engrossing. John Peter Sarsgaard as David, the seducer, is totally convincing, even though we know fairly early that something isn't quite what it seems. As events gradually devolve, so does his character, to a final, deflated ending. The heroine, Jenny, swept into the mess, is played with predictable delicacy by Carey Mulligan, and in a surprise she is really a great supporting role, of sorts, for Sarsgaard, even though she is the star.\n\nPart of the appeal of the movie is the period, early 1960s, as England is finally getting out of the huge debts and doldrums of World War II and the swinging 60s are ready to fly (the Beatles are together but not well known). The old fashioned world, conservative and conventional, of Jenny and her family is dismal and yet comfortable, adorned with small worldly decorations. David brings Jenny to modern life, with its jazzy clubs and trips to Paris, and it's hard not to say his version of life is far superior. Oxford, after all, is so old-school.\n\nIt's a joy on all these levels. It doesn't quite have the naturalness it always needs, a few are scenes forced, and the plot lacks complexity (not that complexity is needed, but it needs something to layer it up). Most off-putting of all is the overly precocious Jenny, whose speeches to her schoolmistress and her teacher, and to David, sound like literature, not like a real 17 year old struggling to escape a sheltered upbringing. It doesn't ring true, and the movie depends on believability.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 137880,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2009-10-30",
+  "keywords": "age difference,1960s,coming of age,teenage girl,betrayal",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Carey Mulligan",
+      "url": "https://www.imdb.com/name/nm1659547/"
+    },
+    {
+      "name": "Peter Sarsgaard",
+      "url": "https://www.imdb.com/name/nm0765597/"
+    },
+    {
+      "name": "Alfred Molina",
+      "url": "https://www.imdb.com/name/nm0000547/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lone Scherfig",
+      "url": "https://www.imdb.com/name/nm0771054/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lynn Barber",
+      "url": "https://www.imdb.com/name/nm2902972/"
+    },
+    {
+      "name": "Nick Hornby",
+      "url": "https://www.imdb.com/name/nm0394984/"
+    }
+  ]
+}

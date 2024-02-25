@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "You Got Served",
+  "url": "https://www.imdb.com/tt0365957/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjkzZWZjZmMtMjliYi00Zjg5LTkzZGYtYzZkOGNhNzc5MzQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "planktonrules",
+    "dateCreated": "2019-01-25",
+    "inLanguage": "English",
+    "heading": "I didn&apos;t totally hate it...and the dancing was pretty amazing.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 28538,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.8
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2004-06-25",
+  "keywords": "reference to &apos;nsync,dance movie,grammatical error in title,guilty pleasure,dream",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Omarion",
+      "url": "https://www.imdb.com/name/nm1217506/"
+    },
+    {
+      "name": "Jarell Houston",
+      "url": "https://www.imdb.com/name/nm1216791/"
+    },
+    {
+      "name": "Raz B",
+      "url": "https://www.imdb.com/name/nm1215800/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chris Stokes",
+      "url": "https://www.imdb.com/name/nm0831321/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Chris Stokes",
+      "url": "https://www.imdb.com/name/nm0831321/"
+    }
+  ]
+}

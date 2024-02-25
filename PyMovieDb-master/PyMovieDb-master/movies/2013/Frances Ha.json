@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Frances Ha",
+  "url": "https://www.imdb.com/tt2347569/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTY0NDQ2NzQ2N15BMl5BanBnXkFtZTcwMTU0OTkwOQ@@._V1_.jpg",
+  "description": "A New York woman apprentices for a dance company and throws herself headlong into her dreams, even as the possibility of realizing them dwindles.",
+  "review": {
+    "author": "nikicianciola-702-657633",
+    "dateCreated": "2013-06-02",
+    "inLanguage": "English",
+    "heading": "Frances Hmmm...",
+    "reviewBody": "Can't really decide how I feel about this film. It was somewhat intriguing, beautifully shot (in black and white), and the lead character was perfectly cast. I love quirky characters in independent movies, but most of the time I couldn't decide if Frances was incredibly endearing or incredibly annoying. Immature, yes. Quirky, yes. Childlike, yes.\\n\\nI didn't by any means hate this movie, but I did not love it as much as others. It is a film like no other, and worth a watch, but it left me feeling ambivalent. There was really no plot, which made sense because Frances didn't really seem to have any clearcut goals or ambitions (other than being a dancer, which wasn't ever going to happen). She lived moment by moment and the film took us on her journeys even though I am not sure they served much of a purpose.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 93331,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2013-07-26",
+  "keywords": "mumblecore,best friend,black and white,coming of age drama,quirky comedy",
+  "duration": "PT1H26M",
+  "actor": [
+    {
+      "name": "Greta Gerwig",
+      "url": "https://www.imdb.com/name/nm1950086/"
+    },
+    {
+      "name": "Mickey Sumner",
+      "url": "https://www.imdb.com/name/nm2316017/"
+    },
+    {
+      "name": "Adam Driver",
+      "url": "https://www.imdb.com/name/nm3485845/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Noah Baumbach",
+      "url": "https://www.imdb.com/name/nm0000876/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Noah Baumbach",
+      "url": "https://www.imdb.com/name/nm0000876/"
+    },
+    {
+      "name": "Greta Gerwig",
+      "url": "https://www.imdb.com/name/nm1950086/"
+    }
+  ]
+}

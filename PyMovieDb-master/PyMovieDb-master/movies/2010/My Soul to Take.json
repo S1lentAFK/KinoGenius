@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "My Soul to Take",
+  "url": "https://www.imdb.com/tt0872230/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk4NjE1OTg1MV5BMl5BanBnXkFtZTcwNTgwOTU3Mw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "KimbleLinda",
+    "dateCreated": "2014-03-11",
+    "inLanguage": "English",
+    "heading": "Everyone is a Critic",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 21523,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.7
+  },
+  "contentRating": "18",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2010-10-08",
+  "keywords": "birthday,slasher,schizophrenia,possession,dual personality",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Max Thieriot",
+      "url": "https://www.imdb.com/name/nm1302735/"
+    },
+    {
+      "name": "John Magaro",
+      "url": "https://www.imdb.com/name/nm1910274/"
+    },
+    {
+      "name": "Denzel Whitaker",
+      "url": "https://www.imdb.com/name/nm1091701/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Wes Craven",
+      "url": "https://www.imdb.com/name/nm0000127/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Wes Craven",
+      "url": "https://www.imdb.com/name/nm0000127/"
+    }
+  ]
+}

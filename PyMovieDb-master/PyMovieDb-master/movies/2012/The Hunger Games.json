@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Hunger Games",
+  "url": "https://www.imdb.com/tt1392170/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_.jpg",
+  "description": "Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.",
+  "review": {
+    "author": "billygoat1071",
+    "dateCreated": "2012-03-25",
+    "inLanguage": "English",
+    "heading": "Silent Thrills",
+    "reviewBody": "The Hunger Games is ought to be the next big thing like Harry Potter, except it already started in a darker and more serious tone than any other young adult fantasy book films. The film did a good job executing its grit and thrills. Decent directing and amazing performances. The filmmakers did a fantastic job bringing Suzanne Collins' book to life. It's not the usual kind of blockbuster that focuses to its loudness. It's a film with moving drama and has its suspense.\\n\\nIt's pretty easy to understand everything about this story and its world. We get to know most of it and the entire film is intriguing and undeniably entertaining. The cast brings most of it to life. Jennifer Lawrence is simply fantastic as Katniss. Josh Hutcherson is okay but does not tie with Lawrence. Woody Harrelson, Elizabeth Banks, Wes Bentley, Donald Sutherland, and Stanley Tucci didn't get a lot of screen time but they were good to their roles.\\n\\nThe movie is great in suspense and drama. It doesn't have a lot of score which makes it moving and compelling. The moments of Katniss in the arena are stirring. Thrilling music score is a great effect to these sequences. Unlike our blockbusters these days, the film doesn't focus too much to the CGI and the explosions. There isn't really much explosions here. Surprisingly, the filmmakers aren't lazy to create a non-CGI set(except the chariots). There is, of course, still CGI here but not as excessive as our modern blockbusters. The action is pretty good with the shaky camera. It's nicely shot gives enough momentum and excitement. Most people complain to that though. Lastly, the production design is beyond decent.\\n\\nThe Hunger Games is thrilling and solid enough. Decent filmmaking made it spectacular. It's amazing and intriguing enough to start a big series. It succeeds to become a solid and one and not a lackluster like Twilight or I Am Number Four. I don't know what else to say about it, but it's silent, gritty, and compelling.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 995723,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2012-03-23",
+  "keywords": "female protagonist,self survival,tough girl,teenage killer,child murderer",
+  "duration": "PT2H22M",
+  "actor": [
+    {
+      "name": "Jennifer Lawrence",
+      "url": "https://www.imdb.com/name/nm2225369/"
+    },
+    {
+      "name": "Josh Hutcherson",
+      "url": "https://www.imdb.com/name/nm1242688/"
+    },
+    {
+      "name": "Liam Hemsworth",
+      "url": "https://www.imdb.com/name/nm2955013/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gary Ross",
+      "url": "https://www.imdb.com/name/nm0002657/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Gary Ross",
+      "url": "https://www.imdb.com/name/nm0002657/"
+    },
+    {
+      "name": "Suzanne Collins",
+      "url": "https://www.imdb.com/name/nm1056741/"
+    },
+    {
+      "name": "Billy Ray",
+      "url": "https://www.imdb.com/name/nm0712753/"
+    }
+  ]
+}

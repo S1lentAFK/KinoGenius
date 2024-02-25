@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Aloha",
+  "url": "https://www.imdb.com/tt1243974/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg4Mjc0NTE1NV5BMl5BanBnXkFtZTgwNzcwNTQ3NTE@._V1_.jpg",
+  "description": "A celebrated military contractor returns to the site of his greatest career triumphs and reconnects with a long-ago love while unexpectedly falling for the hard-charging Air Force watchdog assigned to him.",
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2015-09-25",
+  "keywords": "hawaii, written by director, one word title, reference to kesha, military industrial complex",
+  "duration": "PT1H45M",
+  "rating": {
+    "ratingCount": 70628,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "review": {
+    "author": "lnvicta",
+    "dateCreated": "2015-12-12",
+    "inLanguage": "English",
+    "heading": "Aloha is identity crisis masquerading as a movie.",
+    "reviewBody": "Aloha has absolutely no idea what it wants to be. If I had to count, I'd say there are about 10 subplots in this movie which is about 9 too many for a romcom. Sure, it's based on real-life, but that's no excuse to make a terrible movie. It's a chore to watch this thing, it took me three separate sittings before I can make it to the end without falling asleep or dying of boredom. Its tone is probably the worst offender. Like I said, it has no idea what it wants to be, so it tries to be everything. A love story, a political statement, a bittersweet comedy, a tense drama-mystery about a guy trying to control space - it does not mesh well at all. I had forgotten Alec Baldwin was even in the movie at one point, and that was probably the most interesting storyline in the damn thing. It's frustrating because there is a good story in there! Somewhere! I think. It's hard to tell with all the surrounding sh*t. \\n\\nThe cast is the only good thing about this movie. It's just a shame watching them have to recite this terrible dialogue to one another. They even have chemistry at times which helps during the cringe-y moments, but convincing acting doesn't make a bad script good. It just makes a bad script... somewhat watchable. But don't watch it. It sucks.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "actor": [
+    {
+      "name": "Bradley Cooper",
+      "url": "https://www.imdb.com/name/nm0177896/"
+    },
+    {
+      "name": "Rachel McAdams",
+      "url": "https://www.imdb.com/name/nm1046097/"
+    },
+    {
+      "name": "Emma Stone",
+      "url": "https://www.imdb.com/name/nm1297015/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Cameron Crowe",
+      "url": "https://www.imdb.com/name/nm0001081/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Cameron Crowe",
+      "url": "https://www.imdb.com/name/nm0001081/"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Biker Boyz",
+  "url": "https://www.imdb.com/tt0326769/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTAxNTY1NzA4MzJeQTJeQWpwZ15BbWU2MDQzMTMzNw@@._V1_.jpg",
+  "description": "A son of the leader of a legendary group of an urban biker gang tries to retain his championship title.",
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Drama"
+  ],
+  "datePublished": "2003-06-27",
+  "keywords": "california,los angeles california,motorcycle,african american,helmet",
+  "duration": "PT1H50M",
+  "rating": {
+    "ratingCount": 14059,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.6
+  },
+  "review": {
+    "author": "igornveiga",
+    "dateCreated": "2022-07-17",
+    "inLanguage": "English",
+    "heading": "2Fast2Wheels",
+    "reviewBody": "Basically Fast and Furious on motorcycles.\n\nI'm a motorcycle fan, I loved this movie, the bikes are really amazing, stunts, soundtrack and etc.\n\nOkay, the plot is very generic and predictable, but not every movie is required to have deep plots, sometimes you just need to entertain the audience, which this movie achieves. In addition, it's no masterpiece, but it's still a great movie, especially for those who like motorcycles like me.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "actor": [
+    {
+      "name": "Laurence Fishburne",
+      "url": "https://www.imdb.com/name/nm0000401/"
+    },
+    {
+      "name": "Derek Luke",
+      "url": "https://www.imdb.com/name/nm1035682/"
+    },
+    {
+      "name": "Orlando Jones",
+      "url": "https://www.imdb.com/name/nm0428963/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Reggie Rock Bythewood",
+      "url": "https://www.imdb.com/name/nm0090066/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Gougis",
+      "url": "https://www.imdb.com/name/nm1213025/"
+    },
+    {
+      "name": "Craig Fernandez",
+      "url": "https://www.imdb.com/name/nm0272948/"
+    },
+    {
+      "name": "Reggie Rock Bythewood",
+      "url": "https://www.imdb.com/name/nm0090066/"
+    }
+  ]
+}

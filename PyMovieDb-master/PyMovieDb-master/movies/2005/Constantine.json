@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Constantine",
+  "url": "https://www.imdb.com/tt0360486/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODZiMzAxNTctZjdiZC00OGY5LTg2NDAtNWJhNmQwZTcyMWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": "Supernatural exorcist and demonologist John Constantine helps a policewoman prove her sister's death was not a suicide, but something more.",
+  "review": {
+    "author": "dfranzen70",
+    "dateCreated": "2005-08-02",
+    "inLanguage": "English",
+    "heading": "Moody, vivid occultothriller; Reeves does a fine job",
+    "reviewBody": "John Constantine (Keanu Reeves) can see things, you know. Demons, angels, stuff like that. Oddly enough, though, people believe he can - mostly because he moonlights as an exorcist, trapping demons - who shall not stay in his plane! - in mirrors and smashing them to teeny bits. World weary and constantly sucking on a coffin nail, Constantine is beleaguered and burned out, a noir detective for the afterlife, if you will. But he's alive; he's just cursed with the gift of seeing demons and angels. And he's a suicide, having been clinically dead for two minutes once upon a time, a time during which he literally saw Hell.\\n\\nCop Angela Dodson (Rachel Weisz) just lost her sister, a patient who jumped off the top of a mental hospital; Angela thinks her sister also Saw Something, and so she goes to John for help. Did Isabel know something? Where is she now? Can Angela see, too? Well, she can, actually, because Isabel was her twin sister, and as we all know twins share everything. So, using Angela, Constantine learns that the Bad Guys (demons), who are supposed to stay in Hell, have been crossing over to the plane of the living, presumably to raise hell. But Constnatine knows there's something else afoot, something only witchcraft, voodoo, and other otherworldly things can uncover.\\n\\nIf there was ever a role that the adult Reeves was born to play (besides that of Neo), it's that of John Constantine. Constantine wanders hither and yon, doing good deeds and helping with crimes involving the occult, and so forth, all with a resigned and - pardon another pun - rather soulless attitude. Constantine knows he's doomed to a lifetime of doing this, partly because he tried to kill himself and partly because he has The Gift. It's this kind of dispassionate nihilism that plays perfectly to Reeves' own dull, emotionless acting range. He's perfect for the role, based on a comic book called Hellblazer.\\n\\nWeisz is pretty good - believable, at least - as the clumsily named Angela, but the real standout among the supporting cast is Peter Stormare as Satan himself. Incredibly creepy; he looks like a kindergarten teacher but behaves like a pedophile. The hair on the back of your neck will rise when Stormare enters the picture about three-fourths through.\\n\\nTwo other things the movie has going for it are a rather simplistic plot and some fantastic special effects (for example, a demon made up of bugs). Movies based on comic books tend to overburden themselves and the viewer with far too many plot twists. It's not tough - you have a good guy, you have a bad guy, and the first must defeat the second. Throw in some ethical and moral conflicts, give the good guy a power of sorts, and you're off and running. Constantine does this pretty well.\\n\\nThe atmosphere of the film is riveting as well, with effects special and otherwise transporting the viewer to Right There, whether it's a voodoo bar, Hell, or the mean streets of the city.\\n\\nIf you watch the movie with the idea that it's a filmed comic book, you shouldn't be dissatisfied with the result. John Constantine lives in a world in which he sees unspeakable evil on a daily basis, and he himself has literally been to Hell and back on more than one occasion. His lot is to suffer for his sin; can he find redemption in a cutie named Angela?",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 370988,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Fantasy",
+    "Horror"
+  ],
+  "datePublished": "2005-03-18",
+  "keywords": "hell,demon,based on comic book,supernatural horror,based on comic",
+  "duration": "PT2H1M",
+  "actor": [
+    {
+      "name": "Keanu Reeves",
+      "url": "https://www.imdb.com/name/nm0000206/"
+    },
+    {
+      "name": "Rachel Weisz",
+      "url": "https://www.imdb.com/name/nm0001838/"
+    },
+    {
+      "name": "Djimon Hounsou",
+      "url": "https://www.imdb.com/name/nm0005023/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Francis Lawrence",
+      "url": "https://www.imdb.com/name/nm1349376/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jamie Delano",
+      "url": "https://www.imdb.com/name/nm1393443/"
+    },
+    {
+      "name": "Garth Ennis",
+      "url": "https://www.imdb.com/name/nm1212017/"
+    },
+    {
+      "name": "Kevin Brodbin",
+      "url": "https://www.imdb.com/name/nm0110778/"
+    }
+  ]
+}

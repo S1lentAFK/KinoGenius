@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Nice Guys",
+  "url": "https://www.imdb.com/tt3799694/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODNlNmU4MGItMzQwZi00NGQyLWEyZWItYjFkNmI0NWI4NjBhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "description": "In 1970s Los Angeles, a mismatched pair of private eyes investigate a missing girl and the mysterious death of a porn star.",
+  "review": {
+    "author": "Flippo9204",
+    "dateCreated": "2020-12-19",
+    "inLanguage": "English",
+    "heading": "Great film",
+    "reviewBody": "FINALLY!! A comedy that tries to tell a story! As a bonus, it gets told amazingly well. The cast was also great, but I have to say that Angourie stole the show. I enjoyed watching it, a lot actually.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 367899,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2016-06-03",
+  "keywords": "neo noir,investigation,falling asleep while driving,falling off a balcony,los angeles california",
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Russell Crowe",
+      "url": "https://www.imdb.com/name/nm0000128/"
+    },
+    {
+      "name": "Ryan Gosling",
+      "url": "https://www.imdb.com/name/nm0331516/"
+    },
+    {
+      "name": "Angourie Rice",
+      "url": "https://www.imdb.com/name/nm3886028/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Shane Black",
+      "url": "https://www.imdb.com/name/nm0000948/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Shane Black",
+      "url": "https://www.imdb.com/name/nm0000948/"
+    },
+    {
+      "name": "Anthony Bagarozzi",
+      "url": "https://www.imdb.com/name/nm0046524/"
+    }
+  ]
+}

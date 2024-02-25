@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "Beach Rats",
+  "url": "https://www.imdb.com/tt6303866/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmZiM2RmMWUtNjcyZi00ZDcxLWE3ZjktY2VlYTk3Y2I0NTZjXkEyXkFqcGdeQXVyMjU3NTI0Mg@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "evanston_dad",
+    "dateCreated": "2018-02-28",
+    "inLanguage": "English",
+    "heading": "Sensitive and Haunting",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 16292,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "R",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2017-11-22",
+  "keywords": "gay sex,gay kiss,new york city,gay,male frontal nudity",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Harris Dickinson",
+      "url": "https://www.imdb.com/name/nm6170168/"
+    },
+    {
+      "name": "Madeline Weinstein",
+      "url": "https://www.imdb.com/name/nm7187575/"
+    },
+    {
+      "name": "Kate Hodge",
+      "url": "https://www.imdb.com/name/nm0388082/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Eliza Hittman",
+      "url": "https://www.imdb.com/name/nm2151374/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Eliza Hittman",
+      "url": "https://www.imdb.com/name/nm2151374/"
+    }
+  ]
+}

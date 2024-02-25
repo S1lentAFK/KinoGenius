@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Lucky Number Slevin",
+  "url": "https://www.imdb.com/tt0425210/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjczMWI1YWMtYTZjOS00ZDc5LWE2MWItMTY3ZGUxNzFkNjJmL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "description": "A case of mistaken identity lands Slevin into the middle of a war being plotted by two of the city's most rival crime bosses. Under constant surveillance by Detective Brikowski and assassin Goodkat, he must get them before they ge...",
+  "review": {
+    "author": "energyman-speed",
+    "dateCreated": "2007-04-28",
+    "inLanguage": "English",
+    "heading": "Why people don't like this movie is beyond me...",
+    "reviewBody": "The subject says it all...\n\nThis is a good, fast paced thriller... It would have been a really good thriller if it were not for the graphic scenes at the start of the movie, but once you get through that and a little bit of the confusion, this movie picks up very well...\n\nI don't want to mention any thing about the story, I think there is enough mentioned already at the plot summary and that's all you need to know.\n\nBut trust me, do not believe people that say this is a bad movie... it is better than the many garbage movies that come out nowadays.. the acting and suspense is solid across the board. Bruce Willis, Morgan Freeman and Ben Kingsley are good, but the trump has to be Josh Harnett. He was good.\n\nLike I said, the only bad point of this movie are the graphic scenes at the start.. If you approach this movie looking for entertainment, you will enjoy it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 324414,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  },
+  "contentRating": "18",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2006-02-24",
+  "keywords": "original story,assassin,jewish mafia,organized crime,hitman",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Josh Hartnett",
+      "url": "https://www.imdb.com/name/nm0001326/"
+    },
+    {
+      "name": "Ben Kingsley",
+      "url": "https://www.imdb.com/name/nm0001426/"
+    },
+    {
+      "name": "Morgan Freeman",
+      "url": "https://www.imdb.com/name/nm0000151/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Paul McGuigan",
+      "url": "https://www.imdb.com/name/nm0006476/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jason Smilovic",
+      "url": "https://www.imdb.com/name/nm1429512/"
+    }
+  ]
+}

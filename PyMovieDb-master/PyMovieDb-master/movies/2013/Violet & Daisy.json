@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Violet",
+  "url": "https://www.imdb.com/tt6852672/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE5NzllZDYtYzVmYy00YTM1LWJiZjMtZGY0OWYxYTY0OGUzXkEyXkFqcGdeQXVyMzMwMDIwMA@@._V1_.jpg",
+  "description": "Violet realizes that her entire life is built on fear-based decisions, and must do everything differently to become her true self.",
+  "review": {
+    "author": "Horror_Flick_Fanatic",
+    "dateCreated": "2022-05-29",
+    "inLanguage": "English",
+    "heading": "Recommended for anyone that suffers from personal anxieties",
+    "reviewBody": "I liked it. Initially I was put off by the large script writing on the screen. I think it could have been less intrusive on the frame. Nevertheless, I did like the character, her inner doubts and insecurities, her need to conform to fit in, her internal struggles with both herself and those around her. Her overall anxiety at the workplace and in her personal life. Not feeling good enough or worthy enough. I could very much identify with her even though I am a male. These anxieties and challenges happen to both genders. I deal with anxieties and OCD all my life too so I could see myself in this character. I especially loved our she overcame it. Especially with the death of her mother and the family dynamics. I had a very similar experience with an older brother. The way she responded to that event gave me personal solace that I did the right thing in my own life.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 1366,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "R",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2021-11-05",
+  "keywords": "lie,anxiety disorder,intrusive thoughts,imposter syndrome,self doubt",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Olivia Munn",
+      "url": "https://www.imdb.com/name/nm1601397/"
+    },
+    {
+      "name": "Luke Bracey",
+      "url": "https://www.imdb.com/name/nm3478396/"
+    },
+    {
+      "name": "Justin Theroux",
+      "url": "https://www.imdb.com/name/nm0857620/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Justine Bateman",
+      "url": "https://www.imdb.com/name/nm0000868/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Justine Bateman",
+      "url": "https://www.imdb.com/name/nm0000868/"
+    }
+  ]
+}

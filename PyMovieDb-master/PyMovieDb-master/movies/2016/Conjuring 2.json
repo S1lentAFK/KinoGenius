@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Conjuring 2",
+  "url": "https://www.imdb.com/tt3065204/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjU5OWVlN2EtODNlYy00MjhhLWI0MDUtMTA3MmQ5MGMwYTZmXkEyXkFqcGdeQXVyNjE5MTM4MzY@._V1_.jpg",
+  "description": "Ed and Lorraine Warren travel to North London to help a single mother raising four children alone in a house plagued by a supernatural spirit.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2017-08-20",
+    "inLanguage": "English",
+    "heading": "great horrorverse",
+    "reviewBody": "It&apos;s 1976. Ed (Patrick Wilson) and Lorraine Warren (Vera Farmiga) investigate the Amityville house. After the incident, they are attacked for participating in a hoax. Lorraine is haunted by the nun and visions of Ed&apos;s death. She convinces him to stop. Meanwhile in London, the Hodgson family is suffering from a haunting. Peggy Hodgson (Frances O&apos;Connor) is a single mom with four kids. Janet, the 11 year old, is possessed by the spirit intermediately. As more incidents occur and a media crisis gather, the church calls in the Warrens.\n\nAt its core, this is a simple haunted house horror. There are a few good horror moves but by itself, it&apos;s not that special. The Warrens make it special. They have create a compelling horror universe. Lorraine and the nun have a great nightmare scene. The best is Lorraine having a heart to heart with Janet. They make all the difference.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 297590,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2016-06-13",
+  "keywords": "haunted house,demonic possession,psychic,paranormal investigation,second part",
+  "duration": "PT2H14M",
+  "actor": [
+    {
+      "name": "Vera Farmiga",
+      "url": "https://www.imdb.com/name/nm0267812/"
+    },
+    {
+      "name": "Patrick Wilson",
+      "url": "https://www.imdb.com/name/nm0933940/"
+    },
+    {
+      "name": "Madison Wolfe",
+      "url": "https://www.imdb.com/name/nm4068901/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Wan",
+      "url": "https://www.imdb.com/name/nm1490123/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Chad Hayes",
+      "url": "https://www.imdb.com/name/nm0370937/"
+    },
+    {
+      "name": "Carey W. Hayes",
+      "url": "https://www.imdb.com/name/nm0370928/"
+    },
+    {
+      "name": "James Wan",
+      "url": "https://www.imdb.com/name/nm1490123/"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+
+
+{
+  "type": "Movie",
+  "name": "Luv",
+  "url": "https://www.imdb.com/tt0061927/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjc0NWJhNTctYWU3Mi00NTBiLTgyM2MtNTVmOTliN2JmNmQ5XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+  "description": "Milt, who's having difficulties with his wife, runs into his friend Harry, who's about to kill himself. Milt asks Harry to stay with his wife Ellen while he goes off with his girlfriend. Harry and Ellen hit it off immediately, but...",
+  "review": {
+    "author": "kbkrdh1",
+    "dateCreated": "2002-07-24",
+    "inLanguage": "English",
+    "heading": "I loved it!",
+    "reviewBody": "Although I haven't seen this film in years, it remains one of my favorites. It was goofy, quirky and an odd-ball film. Jack Lemmon wearing a paper scrub hat and hollering at the TV doctors is priceless. Peter Falk's running gag of selling things is truly a genius at work. I would love to see it again, if I can ever find it!",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 783,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "X",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "1967-07-28",
+  "keywords": [
+    "slapstick comedy",
+    "montage during opening credits",
+    "riding a scooter",
+    "new york cityscape",
+    "negotiation"
+  ],
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Jack Lemmon",
+      "url": "https://www.imdb.com/name/nm0000493/"
+    },
+    {
+      "name": "Peter Falk",
+      "url": "https://www.imdb.com/name/nm0000393/"
+    },
+    {
+      "name": "Elaine May",
+      "url": "https://www.imdb.com/name/nm0561938/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Clive Donner",
+      "url": "https://www.imdb.com/name/nm0232795/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Elliott Baker",
+      "url": "https://www.imdb.com/name/nm0048432/"
+    },
+    {
+      "name": "Murray Schisgal",
+      "url": "https://www.imdb.com/name/nm0772003/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Lincoln Lawyer",
+  "url": "https://www.imdb.com/tt1189340/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4NDE4NTY5MV5BMl5BanBnXkFtZTcwODQyMTkxNA@@._V1_.jpg",
+  "description": "A lawyer defending a wealthy man begins to believe his client is guilty of more than just one crime.",
+  "review": {
+    "author": "staff-577-378882",
+    "dateCreated": "2011-03-18",
+    "inLanguage": "English",
+    "heading": "Review: Lincoln Lawyer",
+    "reviewBody": "I know what you&apos;re thinking and I can agree with you that the name, Matthew McConaughey, does not instill great confidence that you&apos;re going to get a great movie experience. Now that is not to say that McConaughey hasn&apos;t done some great movies. For every Ghosts of Girlfriend&apos;s Past, Sahara, and Failure to Launch there are We Are Marshall and How to Lose a Guy in 10 Days. Lincoln Lawyer is luckily part of the later group and reminds us that McConaughey can carry movie without having to take off his shirt in every scene.\\n\\nLincoln Lawyer is a thrilling drama about a cocky and smooth defense attorney Mick Haller, played by McConaughey, who represents a high-profile client on charges of attempted murder. But as new evidence continues to pile on, Mick starts to grow suspicious that perhaps his client isn&apos;t telling him everything. With twists and turns at every corner, Lincoln Lawyer keeps you guessing till the very end.\\n\\nWith the help of that distinct country voice and southern charm, McConaughey takes the movie to another level with this portrayal of the fast-talking lawyer. With the role of Mick, McConaughey is actually given a chance to show off a range of emotions that will truly surprise viewers. Mcconaughey doesn&apos;t carry this alone, Lincoln Lawyer gets some great acting from the likes of William H. Macy, Michael Pena, John Leguizamo, Josh Lucas, and Marisa Tomei. The only black sheep of his movie comes from the alleged murderer Louis Roulet, played by the ever wooden Ryan Phillippe. The only thing I find amazing from Phillippe&apos;s attempt at acting is his unique talent to deliver every line of dialogue without moving a single muscle on his face.\\n\\nThe tension and intensity that begins to engulf Mike as the case continues is stellar. Lincoln Lawyer really pushes Mike to edge as his whole world becomes begins to collapse due to his Attorney-Client relationship. This is where Lincoln Lawyer really comes alive and delivers a must see movie experience. The court room scenes are some of my favorite scenes in the movie and there are plenty. The approach they took to portraying the lawyer aspect of the film feels accurate and realistic. The plot is solid and keeps you invested right from the beginning and keeps the grip tight throughout the movie. The movie keeps a good pacing and the dialogue is smart and witty. The film&apos;s color and camera work gives a very raw feel although at times it can be a little too unstable. The story and characterization is done well but there are a few things that should have been given more focus, like Mike and Maggie&apos;s relationship and more insight as to why they got divorced. The movie touches on the idea with a scene or two but never really reveals too much. We also never really get too much on Mike&apos;s relationship with his daughter. My biggest problem with the film was the underwhelming ending that really had everything necessary to end the movie with, but still felt lackluster when it came. However, don&apos;t let these few problems sway you. I strongly recommend this film and promise you that you will leave satisfied.\\n\\n-www.MovieFloss.com",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 252376,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2011-03-18",
+  "keywords": "defense lawyer,plot twist,drug rehabilitation,envelope of money,illegal gun purchase",
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Matthew McConaughey",
+      "url": "https://www.imdb.com/name/nm0000190/"
+    },
+    {
+      "name": "Marisa Tomei",
+      "url": "https://www.imdb.com/name/nm0000673/"
+    },
+    {
+      "name": "Ryan Phillippe",
+      "url": "https://www.imdb.com/name/nm0000202/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brad Furman",
+      "url": "https://www.imdb.com/name/nm1026778/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Romano",
+      "url": "https://www.imdb.com/name/nm0738908/"
+    },
+    {
+      "name": "Michael Connelly",
+      "url": "https://www.imdb.com/name/nm0175093/"
+    }
+  ]
+}

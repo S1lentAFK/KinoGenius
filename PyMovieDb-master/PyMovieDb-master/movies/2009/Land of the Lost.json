@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Land of the Lost",
+  "url": "https://www.imdb.com/tt0457400/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTkzNDg2OTc1NF5BMl5BanBnXkFtZTcwNDcxODE2Mg@@._V1_.jpg",
+  "description": "A space-time vortex sucks scientist Rick Marshall, his assistant Holly and a survivalist Will into a world populated by dinosaurs and painfully slow creatures called Sleestaks.",
+  "datePublished": "2009-07-31",
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "duration": "PT1H42M",
+  "rating": {
+    "ratingCount": 74954,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "review": {
+    "author": "mhlong",
+    "dateCreated": "2010-05-21",
+    "inLanguage": "English",
+    "heading": "What Audience Was This For?",
+    "reviewBody": "First, I&apos;m not sure what the complaining about the ratings is all about. Most critics would have given this a 1 or 2 to read the professional reviews. I think a 5 or 6 is quite reasonable, unless you love Will Ferrell.\\n\\nI tried, I really tried to watch the original Land of the Lost when it was on, but it was obviously for kids about 6-12 (boys and girls) that being fairly older than that (late teens to early 20&apos;s), I just couldn&apos;t get into it. I mean, a park ranger and his two kids? A poor man&apos;s Lost in Space. \\n\\nI turned it on several times (I really remember all the creatures, but the stars faces are lost to me!) The problem I have with this is that I think the writers/producers/directors were torn between what audience to appeal to - fans of the original Land of the Lost who would be in their 40&apos;s - 50&apos;s, or young boys 12-16.\\n\\nSo, they made a movie that really didn&apos;t appeal to either. Just fans of Will. Fine. I get the zaniness of the movie. Three lovable losers. Pratfall after pratfall. But, the dino urine turned me off. I get it, you didn&apos;t have to hit me over the head twice more (the second dose, the, uh, yeah!).\\n\\nBut I suppose what really turned me off was reading that two of the original stars were given cameos and then cut. Sorry, that tells me the writers/producers/directors didn&apos;t really love the original (how could they, they must have been about 3 - or less! - when it originally aired!). Part of the appeal of nostalgia is tossing out little appreciations to the original fans - like cameos. Because they axed them, to me, it meant they also axed the original audience.\\n\\nI get the humor, sarcasm, satire, but it didn&apos;t do much. 5 is much better than 1, but it&apos;s only a so-so comedy.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "keywords": "dinosaur,time travel,reference to bob&apos;s big boy,bob&apos;s big boy restaurant,carnivorous dinosaur",
+  "actor": [
+    {
+      "name": "Will Ferrell",
+      "url": "https://www.imdb.com/name/nm0002071/"
+    },
+    {
+      "name": "Danny McBride",
+      "url": "https://www.imdb.com/name/nm1144419/"
+    },
+    {
+      "name": "Anna Friel",
+      "url": "https://www.imdb.com/name/nm0295484/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brad Silberling",
+      "url": "https://www.imdb.com/name/nm0797869/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Chris Henchy",
+      "url": "https://www.imdb.com/name/nm0376260/"
+    },
+    {
+      "name": "Dennis McNicholas",
+      "url": "https://www.imdb.com/name/nm0574005/"
+    },
+    {
+      "name": "Sid Krofft",
+      "url": "https://www.imdb.com/name/nm0471898/"
+    }
+  ]
+}

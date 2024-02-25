@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "The Wall",
+  "url": "https://www.imdb.com/tt4218696/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc5ODMyNzE4OF5BMl5BanBnXkFtZTgwNTM0Mzc4MTI@._V1_.jpg",
+  "description": "Two American Soldiers are trapped by a lethal sniper, with only an unsteady wall between them.",
+  "review": {
+    "author": "trublu215",
+    "dateCreated": "2017-05-12",
+    "inLanguage": "English",
+    "heading": "A Bare Bones Thriller That Works More Than It Doesn&apos;t",
+    "reviewBody": "The Wall is the latest thriller from director Doug Liman and features Aaron Taylor-Johnson and John Cena as a two man recon team stationed in Iraq who are pinned down by sniper fire and must take refuge behind a wall. Their calls for help are heard by no one...except the enemy sniper. As the battle of wits rages on so does the courage of the two men and their will to survive. This proves to be very beneficial for this film because, honestly, it did not feel like it would be able to sustain a feature length film. However, with the sheer intensity of the film and the perfect performances from Johnson and Cena, The Wall works even when it doesn&apos;t.\n\nFirst off, the film is a lean, mean 80 minutes. As soon as the film starts, it starts. There is no warming up to it, it drops you in the movie unapologetic. What comes next is a reckoning of pure adrenaline pumping cinema. Much like last year&apos;s The Shallows, The Wall benefits from its bare bones approach. There isn&apos;t big explosions or typical warfare, this is more a war of wits which has been done before (and better) but this film is successful in the way that it doesn&apos;t need huge action numbers to sustain suspense. Director Doug Liman knows what it is and he knows the strengths are in the performances. It makes for a very interesting addition in the new age war film genre, sitting nicely between The Hurt Locker and American Sniper.\n\nDespite all that is well with the film, there are a few moments where you&apos;re expecting the film to go one way and then it absolutely does not take any risks and gives you exactly what you expected. For that, I have to say that it was disappointing to not see as much innovation with such a bare bones film. For me, I like when characters are forced to use their environments for their benefit. The Wall definitely did that but in sort of a half-assed way. There really isn&apos;t anything clever or cool about the way it all pans out. With that being said, it still makes for an intense movie even if sometimes it feels a little cheap.\n\nOverall, The Wall is a short yet intense film that will keep you hanging on until the last frame. The performances from Aaron Taylor Johnson and John Cena are nothing short of amazing. This is especially for John Cena, who absolutely blew me away with his fantastic performance as Matthews. While Cena shines, so does Aaron Taylor Johnson who bucks up and carries the movie on his shoulders without even thinking about it. It stands as Johnson and Cena&apos;s best performances to date and it definitely is worth watching.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 30446,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "R",
+  "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2017-05-18",
+  "keywords": "sniper,soldier,deception,wound,helicopter shot down",
+  "duration": "PT1H28M",
+  "actor": [
+    {
+      "name": "Aaron Taylor-Johnson",
+      "url": "https://www.imdb.com/name/nm1093951/"
+    },
+    {
+      "name": "John Cena",
+      "url": "https://www.imdb.com/name/nm1078479/"
+    },
+    {
+      "name": "Laith Nakli",
+      "url": "https://www.imdb.com/name/nm1821298/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Doug Liman",
+      "url": "https://www.imdb.com/name/nm0510731/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dwain Worrell",
+      "url": "https://www.imdb.com/name/nm3742281/"
+    }
+  ]
+}

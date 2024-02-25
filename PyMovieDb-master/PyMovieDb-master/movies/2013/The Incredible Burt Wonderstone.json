@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Incredible Burt Wonderstone",
+  "url": "https://www.imdb.com/tt0790628/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk3MDkxMDAyN15BMl5BanBnXkFtZTcwODY5NzQyOQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Hellmant",
+    "dateCreated": "2013-03-27",
+    "inLanguage": "English",
+    "heading": "This movie doesn't completely blow.",
+    "reviewBody": "'THE INCREDIBLE BURT WONDERSTONE': Three Stars (Out of Five) \n\nA movie with a cast like this (Steve Carell, Jim Carrey, Steve Buscemi, Alan Arkin, Olivia Wilde and James Gandolfini) can't be all bad and I'm a little puzzled at how poorly it's done at the box office. I think it's just the premise; no one is eager to see a movie about competitive stage magicians and I wasn't either (that's why I wasn't entirely sold by the previews despite the cast as well). The reviews for the film have been mediocre to negative too so I did go into it with somewhat low expectations. In my opinion that's the best way to see any movie because if it doesn't completely blow you're happy. This movie doesn't completely blow. It's funny and the cast all gives decent to good performances. It's not one of the most well written or best directed comedies in recent years but it's decent. Carell, Carrey and the rest of the cast have all done much better work but this isn't too big of a blemish for any of their resumes.\n\nThe film stars Carell and Buscemi as popular magicians, Burt Wonderstone and Anton Marvelton, who've had a sold-out stage act on the Las Vegas Strip for years. They met as children and learned magic together but in recent years they've grown apart. As Burt's ego has only gotten bigger and bigger he's learned to take Anton for granted and is only interested in getting laid. Their act has grown old and unoriginal as a result of their lack of motivation and passion. They've also now been threatened by a new street magician (Carrey) who's grown in popularity as theirs has diminished. An old idol (Arkin) and their mistreated assistant (Wilde) do what they can to help bring back the duo's magic and friendship.\n\nThe film was directed by Don Scardino (a veteran TV director) and written by Jonathan M. Goldstein, John Francis Daley, Chad Kultgen and Tyler Mitchell. With all those writers you'd think they could have came up with a better script but usually the more writers there are the poorer the writing tends to be in Hollywood. Scardino isn't the most experienced director to deliver the power to the punch lines these jokes need either. Still the movie isn't amateurish and like I said the acting is all good. Carell is always a great leading man, Buscemi is good in any role he's put in and it's nice to see Carrey trying a supporting turn as the movie's dislikeable villain. He's in great shape for the role and gives it his all (and I think he's probably paying Carell back for all the supporting turns he did in Carey's movies earlier in his career). The movie is definitely not bad, it's funny, and while the laugh out loud jokes might be a little few and far between the film is still always mildly amusing in the least.\n\nWatch our movie review show 'MOVIE TALK' at: http://www.youtube.com/watch?v=DlL2HwB_YmA",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 75702,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2013-03-15",
+  "keywords": "elvis presley character,slapstick comedy,woman changes clothes,woman wears a gas mask,magician",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Steve Carell",
+      "url": "https://www.imdb.com/name/nm0136797/"
+    },
+    {
+      "name": "Luke Vanek",
+      "url": "https://www.imdb.com/name/nm3769935/"
+    },
+    {
+      "name": "Steve Buscemi",
+      "url": "https://www.imdb.com/name/nm0000114/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Don Scardino",
+      "url": "https://www.imdb.com/name/nm0769135/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jonathan Goldstein",
+      "url": "https://www.imdb.com/name/nm0326246/"
+    },
+    {
+      "name": "John Francis Daley",
+      "url": "https://www.imdb.com/name/nm0197855/"
+    },
+    {
+      "name": "Chad Kultgen",
+      "url": "https://www.imdb.com/name/nm2226753/"
+    }
+  ]
+}

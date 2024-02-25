@@ -1,0 +1,56 @@
+
+
+{
+  "type": "Movie",
+  "name": "Stanley Kubrick: A Life in Pictures",
+  "url": "https://www.imdb.com/tt0278736/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2IxNTU4ODYtZDNiMC00MWVmLWFlMDYtNGQ2YzAyN2M2MTBjXkEyXkFqcGdeQXVyNDQzMDg4Nzk@._V1_.jpg",
+  "description": null,
+  "contentRating": "15",
+  "genre": [
+    "Documentary",
+    "Biography"
+  ],
+  "datePublished": "2001-09-03",
+  "keywords": "director name in title,stanley kubrick character,six word title,hollywood legend,entertainment documentary",
+  "duration": "PT2H22M",
+  "actor": [
+    {
+      "name": "Katharina Kubrick",
+      "url": "https://www.imdb.com/name/nm0473585/"
+    },
+    {
+      "name": "Malcolm McDowell",
+      "url": "https://www.imdb.com/name/nm0000532/"
+    },
+    {
+      "name": "Stanley Kubrick",
+      "url": "https://www.imdb.com/name/nm0000040/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jan Harlan",
+      "url": "https://www.imdb.com/name/nm0363214/"
+    }
+  ],
+  "creator": [],
+  "review": {
+    "author": "MaxBorg89",
+    "dateCreated": "2008-10-07",
+    "inLanguage": "English",
+    "heading": "A Life in Pictures - exactly what it sounds like",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 12146,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8
+  }
+}

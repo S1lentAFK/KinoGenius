@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Cairo Time",
+  "url": "https://www.imdb.com/tt0896529/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzEwODMxNjIwNl5BMl5BanBnXkFtZTcwMjc0MjI3Mw@@._V1_.jpg",
+  "description": "A romantic drama about a brief, unexpected love affair that catches two people completely off-guard.",
+  "review": {
+    "author": "mgorman-6",
+    "dateCreated": "2010-09-04",
+    "inLanguage": "English",
+    "heading": "bored in Cairo",
+    "reviewBody": "About two scenes worth of plot and dialog function as an excuse to string together a couple of hours of beautiful footage of Cairo. Our heroine is placed in an impossible situation, met at the airport by an attractive, exotic swarthy debonair 'Middle Eastern' guy when she is expecting her husband. Alone in Cairo pursued by lecherous, uncivilized types whenever she leaves her hotel room. Virtuous super hero husband interminably delayed saving free world in nearby Gaza refugee camp - impossible to resent neglectful spouse, even as he stands her up for days and days. What's a hard working, repressed, glamorous, New York, magazine writer to do? Coy titillation ensues as relationship with brainy Egyptian hunk with car and time on his hands slowly develops. Though 'develops' definitely overstates what occurs. Perhaps most distressing is the dialog. No one says anything that is not banal, the one Arabic word she learns early on is endlessly repeated. Put on some appropriate music, turn off the sound, and display as background to conversation. What a waste of a good actress.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 6799,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2009-10-16",
+  "keywords": "american,watching tv,bobby pin,magazine,wristwatch",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Patricia Clarkson",
+      "url": "https://www.imdb.com/name/nm0165101/"
+    },
+    {
+      "name": "Alexander Siddig",
+      "url": "https://www.imdb.com/name/nm0796502/"
+    },
+    {
+      "name": "Elena Anaya",
+      "url": "https://www.imdb.com/name/nm0025745/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ruba Nadda",
+      "url": "https://www.imdb.com/name/nm0618779/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ruba Nadda",
+      "url": "https://www.imdb.com/name/nm0618779/"
+    }
+  ]
+}

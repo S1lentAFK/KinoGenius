@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Haven",
+  "url": "https://www.imdb.com/tt0386504/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMzQzNjAzMl5BMl5BanBnXkFtZTcwMDk5OTYzMQ@@._V1_.jpg",
+  "description": "On Friday the 13th, different people meet on Grand Cayman - a US money launderer and his daughter, a lawyer, a young fisherman in love with a rich man's daughter, other high school students, a crime gang etc.",
+  "review": {
+    "author": "terrywdhs",
+    "dateCreated": "2004-09-14",
+    "inLanguage": "English",
+    "heading": "Great ensemble piece",
+    "reviewBody": "I just got back from a holiday in Toronto where I had the pleasure of attending the film festival there. One of the films I ended up seeing was Haven, which I knew very little about beforehand. What an absolute gem of a movie it turned out to be. Similar in structure to Amores Perros, the tale unfolds from different perspectives. All actors played their parts well but there were three who deserve special mention. Victor Razuk as Fritz and Zoe Saldana as Andrea are definite names to watch in future. However, Orlando Bloom was the real genuine surprise here. I don't think I have seen a more heartbreaking performance all year. The disintegration of his character - Shy - provides much of the emotional centre of Frank E. Flowers gripping first feature length movie. He is a director who is going to be talked about a great deal in the years to come. All in all , I would have no hesitation in recommending this powerful, though somewhat dark movie, to any discerning film-goer.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 6870,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "R",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2006-10-14",
+  "keywords": "interracial relationship,gift,brassiere,briton,british territory",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Bill Paxton",
+      "url": "https://www.imdb.com/name/nm0000200/"
+    },
+    {
+      "name": "Agnes Bruckner",
+      "url": "https://www.imdb.com/name/nm0115671/"
+    },
+    {
+      "name": "Orlando Bloom",
+      "url": "https://www.imdb.com/name/nm0089217/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Frank E. Flowers",
+      "url": "https://www.imdb.com/name/nm1248193/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Frank E. Flowers",
+      "url": "https://www.imdb.com/name/nm1248193/"
+    }
+  ]
+}

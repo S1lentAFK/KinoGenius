@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "A Haunted House 2",
+  "url": "https://www.imdb.com/tt2828996/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4Njc2MTY4OF5BMl5BanBnXkFtZTgwNTQyNTg1MTE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "cosmo_tiger",
+    "dateCreated": "2014-06-19",
+    "inLanguage": "English",
+    "heading": "A movie that started off annoying and never really got better, I really struggled to get through this one.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 23255,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.7
+  },
+  "contentRating": "18",
+  "genre": [
+    "Comedy",
+    "Fantasy",
+    "Horror"
+  ],
+  "datePublished": "2014-06-26",
+  "keywords": "woman wears a bra and panties,woman wears lingerie,female topless nudity,sexual innuendo,obscene finger gesture",
+  "duration": "PT1H26M",
+  "actor": [
+    {
+      "name": "Marlon Wayans",
+      "url": "https://www.imdb.com/name/nm0005541/"
+    },
+    {
+      "name": "Jaime Pressly",
+      "url": "https://www.imdb.com/name/nm0005326/"
+    },
+    {
+      "name": "Cedric The Entertainer",
+      "url": "https://www.imdb.com/name/nm0147825/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Tiddes",
+      "url": "https://www.imdb.com/name/nm1639277/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Marlon Wayans",
+      "url": "https://www.imdb.com/name/nm0005541/"
+    },
+    {
+      "name": "Rick Alvarez",
+      "url": "https://www.imdb.com/name/nm0023315/"
+    }
+  ]
+}

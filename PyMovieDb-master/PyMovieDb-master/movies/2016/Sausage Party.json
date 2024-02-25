@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Sausage Party",
+  "url": "https://www.imdb.com/tt1700841/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjkxOTk1MzY4MF5BMl5BanBnXkFtZTgwODQzOTU5ODE@._V1_.jpg",
+  "description": "A sausage strives to discover the truth about his existence.",
+  "contentRating": "15",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2016-09-02",
+  "keywords": "adult humor,adult animation,supermarket,eaten alive,sex scene",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Seth Rogen",
+      "url": "https://www.imdb.com/name/nm0736622/"
+    },
+    {
+      "name": "Kristen Wiig",
+      "url": "https://www.imdb.com/name/nm1325419/"
+    },
+    {
+      "name": "Jonah Hill",
+      "url": "https://www.imdb.com/name/nm1706767/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Conrad Vernon",
+      "url": "https://www.imdb.com/name/nm0970447/"
+    },
+    {
+      "name": "Greg Tiernan",
+      "url": "https://www.imdb.com/name/nm0862911/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kyle Hunter",
+      "url": "https://www.imdb.com/name/nm3773434/"
+    },
+    {
+      "name": "Ariel Shaffir",
+      "url": "https://www.imdb.com/name/nm3782043/"
+    },
+    {
+      "name": "Seth Rogen",
+      "url": "https://www.imdb.com/name/nm0736622/"
+    }
+  ],
+  "review": {
+    "author": "brchthethird",
+    "dateCreated": "2017-03-24",
+    "inLanguage": "English",
+    "heading": "A graphic religious allegory (and not for kids)",
+    "reviewBody": "Nothing in the trailers will prepare you for this movie, including what it's actually about. SAUSAGE PARTY is an allegory about religion and how ridiculous it is, but also about how we can overcome our differences and learn to get along. Granted, there is no solution proposed nor does the humor rarely rise above obvious sexual puns and stereotypes (different foods represent ethnic groups, minorities, etc.), but the throw-everything-at-the-wall approach guarantees that at least some of it sticks. And importantly, for a comedy, there are plenty of genuine laughs to be had. Then there's the ending, which I will not spoil. Suffice it to say that it seemed oddly appropriate...and that you can get away with quite a bit more in an animated film than live-action. This wasn't the craziest or funniest thing I've ever seen, but it made for a few dollars and a couple hours well-spent.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 208675,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  }
+}

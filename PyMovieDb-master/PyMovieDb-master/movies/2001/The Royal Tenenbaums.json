@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Royal Tenenbaums",
+  "url": "https://www.imdb.com/tt0265666/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmUzODQ5MGItZTZlNy00MDBhLWIxMmItMjg4Y2QyNDFlMWQ2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "description": "The eccentric members of a dysfunctional family reluctantly gather under the same roof for various reasons.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2002-03-15",
+  "keywords": "family relationships,forbidden love,dysfunctional family,eccentric family,panties",
+  "duration": "PT1H50M",
+  "rating": {
+    "ratingCount": 311435,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2015-12-01",
+    "inLanguage": "English",
+    "heading": "love the style but not the family",
+    "reviewBody": "Royal Tenenbaum (Gene Hackman) left his family. Etheline (Anjelica Huston) raised their three children as oddball geniuses. Twenty two years later, their early successes are now old memories. Chas (Ben Stiller) is a death-obsessed widowed father to Ari and Uzi. Richie (Luke Wilson) is a former tennis champ in love with his adopted sister Margot (Gwyneth Paltrow). Their neighbor childhood friend Eli Cash (Owen Wilson) is now a successful writer and professor. Margot is married to neurologist Raleigh St. Clair (Bill Murray). Etheline is asked by her friend Henry Sherman (Danny Glover) to get marry. Royal is broke. After finding out about the proposal, he tries to inject himself into the family by telling them that he's dying.\n\nDirector Wes Anderson starts his journey to discover his unique style. I love the visual concept of what he's doing. I don't particularly like the characters or their story. I don't find it funny but I do like the unique style. This is a wacky dysfunctional family that doesn't make me laugh.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "actor": [
+    {
+      "name": "Gene Hackman",
+      "url": "https://www.imdb.com/name/nm0000432/"
+    },
+    {
+      "name": "Gwyneth Paltrow",
+      "url": "https://www.imdb.com/name/nm0000569/"
+    },
+    {
+      "name": "Anjelica Huston",
+      "url": "https://www.imdb.com/name/nm0001378/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Wes Anderson",
+      "url": "https://www.imdb.com/name/nm0027572/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Wes Anderson",
+      "url": "https://www.imdb.com/name/nm0027572/"
+    },
+    {
+      "name": "Owen Wilson",
+      "url": "https://www.imdb.com/name/nm0005562/"
+    }
+  ]
+}

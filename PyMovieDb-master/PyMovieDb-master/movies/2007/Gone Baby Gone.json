@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Gone Baby Gone",
+  "url": "https://www.imdb.com/tt0452623/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmM2NDNiNGItMTRhMi00ZDA2LTgzOWMtZTE2ZjFhMDQ2M2U5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": "Two Boston area detectives investigate a little girl's kidnapping, which ultimately turns into a crisis both professionally and personally.",
+  "review": {
+    "author": "Craig_McPherson",
+    "dateCreated": "2007-10-21",
+    "inLanguage": "English",
+    "heading": "A masterpiece",
+    "reviewBody": "Every once in a while, amid the dross that reviewers have to sit through, comes a movie that hits like a sucker punch to the gut and haunts you long after you've left the theater. Such is the case with Gone Baby Gone.\\n\\nBased on the book by Dennis Lehane (Mystic River), Gone Baby Gone marks the directorial debut of Ben Affleck, who also penned the screenplay in tandem with Aaron Stockard, and easily puts him at the front of the line for Oscar contention.\\n\\nCasey Affleck and Michelle Monaghan star as a pair of private investigators based in the rough working class Dorchester district of Boston. The two are hired by the family of a missing four-year-old girl to assist the police investigation because of their street connections and ability to get people to talk who otherwise would never open up to a cop. As they navigate through the neighborhood's seamy underbelly of pimps, drug dealers and crack whores they uncover an ever-expanding mystery that takes on the added dimension of provoking the question of just what is right and what is wrong, firmly pitting both story and viewer in a struggle between situational ethics and moral absolutes.\\n\\nMorgan Freeman and Ed Harris round out an impressive cast, but it's the younger Affleck who takes this movie on his back and runs with it, easily surpassing his director brother in terms of acting breadth and range. This is no slight to Ben, however. It's been a long time since I was this impressed with a directorial debut, and even longer since I was given cause to reflect upon the values that we hold dear as individuals and a society, and the moral foundations upon which they are based. Gone Baby Gone manages both, and wraps it up in a hard-hitting detective story that serves as much to satisfy the baser urges of bar fights and gun play, as it does tackling bigger issues.\\n\\nIt's also one of those rare movies in which it can easily be said that the less you know about the story going in, the richer the experience. There's no clear twist ending to give away, but rather a layered story that unfolds like a Russian stacking doll with a moral dilemma at its core.\\n\\nOne thing I do feel comfortable revealing, however, is that this movie comes about as close as any can to being a bonafide lock come Academy Award time. Congrats Ben, you may well have redeemed yourself from your J-Lo/Gigli reputation at last.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 290485,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2008-06-06",
+  "keywords": "moral dilemma,missing child,private detective,kidnapping,boston massachusetts",
+  "duration": "PT1H54M",
+  "actor": [
+    {
+      "name": "Morgan Freeman",
+      "url": "https://www.imdb.com/name/nm0000151/"
+    },
+    {
+      "name": "Ed Harris",
+      "url": "https://www.imdb.com/name/nm0000438/"
+    },
+    {
+      "name": "Casey Affleck",
+      "url": "https://www.imdb.com/name/nm0000729/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ben Affleck",
+      "url": "https://www.imdb.com/name/nm0000255/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ben Affleck",
+      "url": "https://www.imdb.com/name/nm0000255/"
+    },
+    {
+      "name": "Aaron Stockard",
+      "url": "https://www.imdb.com/name/nm0830760/"
+    },
+    {
+      "name": "Dennis Lehane",
+      "url": "https://www.imdb.com/name/nm1212331/"
+    }
+  ]
+}

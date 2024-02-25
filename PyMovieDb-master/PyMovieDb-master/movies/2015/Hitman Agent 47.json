@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hitman: Agent 47",
+  "url": "https://www.imdb.com/tt2679042/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjkwNjc1NzUwOV5BMl5BanBnXkFtZTgwNzQ5NjkwNTE@._V1_.jpg",
+  "description": "An assassin teams up with a woman to help her find her father and uncover the mysteries of her ancestry.",
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "datePublished": "2015-08-27",
+  "keywords": "based on video game,assassin,hitman,human experiment,f word",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Rupert Friend",
+      "url": "https://www.imdb.com/name/nm1670029/"
+    },
+    {
+      "name": "Hannah Ware",
+      "url": "https://www.imdb.com/name/nm3799669/"
+    },
+    {
+      "name": "Zachary Quinto",
+      "url": "https://www.imdb.com/name/nm0704270/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Aleksander Bach",
+      "url": "https://www.imdb.com/name/nm5507490/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Skip Woods",
+      "url": "https://www.imdb.com/name/nm0940790/"
+    },
+    {
+      "name": "Michael Finch",
+      "url": "https://www.imdb.com/name/nm3360218/"
+    },
+    {
+      "name": "Morten Iversen",
+      "url": "https://www.imdb.com/name/nm0412282/"
+    }
+  ],
+  "review": {
+    "author": "zathan-32848",
+    "dateCreated": "2019-10-14",
+    "inLanguage": "English",
+    "heading": "This is not a hitman movie",
+    "reviewBody": "This is not a bad action movie, but it is not a hitman movie. Its not about a sneaky hitman. And rupert does not get the part right... This is not living up to the first hitman movie that was awesome",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 95264,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  }
+}

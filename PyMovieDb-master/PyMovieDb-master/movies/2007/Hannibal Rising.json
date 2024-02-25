@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hannibal Rising",
+  "url": "https://www.imdb.com/tt0367959/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIzMTA0NTM4NF5BMl5BanBnXkFtZTcwNjY3ODM0MQ@@._V1_.jpg",
+  "description": "After the death of his parents during World War II, young Hannibal Lecter moves in with his beautiful aunt and begins plotting revenge on the barbarians responsible for his sister's death.",
+  "contentRating": "18",
+  "genre": [
+    "Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2007-02-09",
+  "keywords": "snow adventure,faked death,medical student,1950s,1940s",
+  "duration": "PT2H1M",
+  "actor": [
+    {
+      "name": "Gaspard Ulliel",
+      "url": "https://www.imdb.com/name/nm0880484/"
+    },
+    {
+      "name": "Rhys Ifans",
+      "url": "https://www.imdb.com/name/nm0406975/"
+    },
+    {
+      "name": "Gong Li",
+      "url": "https://www.imdb.com/name/nm0000084/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Webber",
+      "url": "https://www.imdb.com/name/nm0916424/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Thomas Harris",
+      "url": "https://www.imdb.com/name/nm0365383/"
+    }
+  ],
+  "review": {
+    "author": "drpainters",
+    "dateCreated": "2021-04-27",
+    "inLanguage": "English",
+    "heading": "A Razzie really?",
+    "reviewBody": "Like come on, sure it's not silence of the lambs, but nominated for worst sequel/horror movie, that's just dumb. Snobby reviewers who can't judge a movie on its own merits, only a comparison to one of the greatest thrillers ever made. Of course any other Hannibal stories won't compare, doesn't mean they are aweful. This is an interesting tale of revenge that setups the character. Worth the watch if you enjoy the Hannibal movies.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 115277,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  }
+}

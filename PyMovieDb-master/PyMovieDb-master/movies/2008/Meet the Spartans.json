@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Meet the Spartans",
+  "url": "https://www.imdb.com/tt1073498/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjYzMjNiMGQtN2RlNS00NWJlLTg2NzUtZjMyNWMxZjQyNjhlXkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_.jpg",
+  "description": "A spoof of 300 (2006) and many other movies, TV series/shows/commercials, video games and celebrities. King Leonidas of Sparta and his army of 12 go to war against Xerxes of Persia to fight to the death for Sparta's freedom.",
+  "review": {
+    "author": "jj_nine",
+    "dateCreated": "2008-01-26",
+    "inLanguage": "English",
+    "heading": "Worst movie i've seen in a theater",
+    "reviewBody": "I was recently forced to sit through Meet the Spartans. Ill start by saying that i'm very sick of all this epic/date/scary movie junk. It's been overdone and only appeals to people under the age of 9. The humor in this movie was just as awful as i thought it would be and i could predict the entire movie. I was told before-hand that it was only about 90 minutes, and was a little upset id be paying for that. After watching the movie i was beyond glad that i only had to be tortured for that long, rather than the usual 2 hours. I'll close by saying that if you're forced to watch this movie, rip your eyes out of your skull and pour salt into your head. It will be much more enjoyable.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 111238,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 2.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "datePublished": "2008-03-21",
+  "keywords": "george w. bush character,donald trump character,britney spears character,tom cruise character,battle of thermopylae",
+  "duration": "PT1H24M",
+  "actor": [
+    {
+      "name": "Sean Maguire",
+      "url": "https://www.imdb.com/name/nm0536630/"
+    },
+    {
+      "name": "Kevin Sorbo",
+      "url": "https://www.imdb.com/name/nm0001757/"
+    },
+    {
+      "name": "Carmen Electra",
+      "url": "https://www.imdb.com/name/nm0001182/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jason Friedberg",
+      "url": "https://www.imdb.com/name/nm0294997/"
+    },
+    {
+      "name": "Aaron Seltzer",
+      "url": "https://www.imdb.com/name/nm0783536/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jason Friedberg",
+      "url": "https://www.imdb.com/name/nm0294997/"
+    },
+    {
+      "name": "Aaron Seltzer",
+      "url": "https://www.imdb.com/name/nm0783536/"
+    }
+  ]
+}

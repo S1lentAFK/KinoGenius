@@ -1,0 +1,58 @@
+{
+  "type": "Movie",
+  "name": "You Don&apos;t Know Jack: The Jack Soo Story",
+  "url": "https://www.imdb.com/tt1392271/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjhmZjI4MDgtODIwZS00MzA2LWFmOTctYjc3ZGYzYzI5NmRlXkEyXkFqcGdeQXVyNjQyMzA4Mw@@._V1_.jpg",
+  "description": "The film tells Jack Soo&apos;s story through a montage of film and television clips, rare footage, interviews with family members, friends, co-workers, and others who knew him best. From his early appearances on programs such as The Ja...",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 42,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": null,
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2009-03-15",
+  "keywords": "asian american",
+  "duration": "PT1H",
+  "actor": [
+    {
+      "name": "Adam Driver",
+      "url": "https://www.imdb.com/name/nm3485845/"
+    },
+    {
+      "name": "Max Gail",
+      "url": "https://www.imdb.com/name/nm0301178/"
+    },
+    {
+      "name": "Alvin Ing",
+      "url": "https://www.imdb.com/name/nm0408665/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeff Adachi",
+      "url": "https://www.imdb.com/name/nm1168719/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jeff Adachi",
+      "url": "https://www.imdb.com/name/nm1168719/"
+    }
+  ]
+}

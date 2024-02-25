@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Dirty Love",
+  "url": "https://www.imdb.com/tt0327643/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg3ODk4OTY2M15BMl5BanBnXkFtZTYwMjk4MDY2._V1_.jpg",
+  "description": "A jilted photographer goes on a mission to get back at her philandering model boyfriend and along the way discovers that not all love is created equal.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2006-05-05",
+  "keywords": "sexual humor,female nudity,exposed thong underwear,cunnilingus,strip search",
+  "duration": "PT1H31M",
+  "rating": {
+    "ratingCount": 7392,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.5
+  },
+  "review": {
+    "author": "scottehlers-1",
+    "dateCreated": "2006-10-15",
+    "inLanguage": "English",
+    "heading": "worst movie i have seen in years",
+    "reviewBody": "i cant even begin to describe how bad this movie is. its so bad, its almost laughable, but then it descends into some truly horrible moments and instead of laughing you cringe. the supermarket scene was one. but its so much worse than that, its literally every moment where she thinks she is being funny. knowing that she thinks that she is funny makes watching this even worse. she never should have left MTV. here i am trying to write a review for a terrible movie and i need 10 lines. its so bad i cant even fill up the required text limit. OK think of this. think of a movie about a hot blonde with a great body, but instead of a woman being in it, its a really your stupid kid brother that like fart jokes and toe cheese. horrible horrible horrible horrible.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "actor": [
+    {
+      "name": "Jenny McCarthy-Wahlberg",
+      "url": "https://www.imdb.com/name/nm0000189/"
+    },
+    {
+      "name": "Eddie Kaye Thomas",
+      "url": "https://www.imdb.com/name/nm0858776/"
+    },
+    {
+      "name": "Carmen Electra",
+      "url": "https://www.imdb.com/name/nm0001182/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Asher",
+      "url": "https://www.imdb.com/name/nm0038875/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jenny McCarthy-Wahlberg",
+      "url": "https://www.imdb.com/name/nm0000189/"
+    }
+  ]
+}

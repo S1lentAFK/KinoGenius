@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Ned Kelly",
+  "url": "https://www.imdb.com/tt0277941/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmVjYzRkYjItODlmZS00OTEzLTliZjItYjMwOGRmMzhmY2RmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": "An innocent man becomes one of the most wanted criminals the world has ever known.",
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Biography"
+  ],
+  "datePublished": "2003-09-26",
+  "keywords": "character name as title,ned kelly character,psychotronic film,revisionist western,aussie western",
+  "duration": "PT1H50M",
+  "rating": {
+    "ratingCount": 27983,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "review": {
+    "author": "BA_Harrison",
+    "dateCreated": "2006-07-09",
+    "inLanguage": "English",
+    "heading": "OK movie about Australia's famous outlaw.",
+    "reviewBody": "Before viewing Ned Kelly, my only knowledge of this Australian outlaw was that he wore a bucket on his head. Having now seen this fairly enjoyable movie about his struggle for justice in the outback, I am a little bit more clued up; but I do have to ask how much fiction has replaced fact in this telling of the legend of Ned Kelly. Was he really so righteous, or have facts been changed to make the character more sympathetic and appealing to the audience?\n\nDirector Gregor Jordan works well with the questionably accurate script, getting good performances from his lead Heath Ledger, who impresses with his portrayal of a man fighting the system the only way he knows how. Also worthy of mention is Orlando Bloom as Ned's friend Joseph and Geoffrey Rush as top cop Francis Hare. Naomi Watts, however, is wasted as Ned's piece of posh totty in an unnecessary romantic sub-plot.\n\nWhilst the movie never bores, it never really excels either, leaving this reviewer feeling rather apathetic towards it, hence my just-slightly-above-average rating of 6/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "actor": [
+    {
+      "name": "Heath Ledger",
+      "url": "https://www.imdb.com/name/nm0005132/"
+    },
+    {
+      "name": "Orlando Bloom",
+      "url": "https://www.imdb.com/name/nm0089217/"
+    },
+    {
+      "name": "Geoffrey Rush",
+      "url": "https://www.imdb.com/name/nm0001691/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gregor Jordan",
+      "url": "https://www.imdb.com/name/nm0429963/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Drewe",
+      "url": "https://www.imdb.com/name/nm0237722/"
+    },
+    {
+      "name": "John Michael McDonagh",
+      "url": "https://www.imdb.com/name/nm0567620/"
+    }
+  ]
+}

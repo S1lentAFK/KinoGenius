@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Oblivion",
+  "url": "https://www.imdb.com/tt1483013/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQwMDY0MTA4MF5BMl5BanBnXkFtZTcwNzI3MDgxOQ@@._V1_.jpg",
+  "description": "A veteran assigned to extract Earth's remaining resources begins to question what he knows about his mission and himself.",
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2013-04-10",
+  "keywords": "post apocalypse,alien invasion,dystopian future,2070s,alien",
+  "duration": "PT2H4M",
+  "actor": [
+    {
+      "name": "Tom Cruise",
+      "url": "https://www.imdb.com/name/nm0000129/"
+    },
+    {
+      "name": "Morgan Freeman",
+      "url": "https://www.imdb.com/name/nm0000151/"
+    },
+    {
+      "name": "Andrea Riseborough",
+      "url": "https://www.imdb.com/name/nm2057859/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joseph Kosinski",
+      "url": "https://www.imdb.com/name/nm2676052/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Karl Gajdusek",
+      "url": "https://www.imdb.com/name/nm2244980/"
+    },
+    {
+      "name": "Michael Arndt",
+      "url": "https://www.imdb.com/name/nm1578335/"
+    },
+    {
+      "name": "Joseph Kosinski",
+      "url": "https://www.imdb.com/name/nm2676052/"
+    }
+  ],
+  "review": {
+    "author": "amountainclimber",
+    "dateCreated": "2022-11-07",
+    "inLanguage": "English",
+    "heading": "Oblivion - A look back.",
+    "reviewBody": "Oblivion is nine years old as I write this, and in perusing the reviews written when it opened, they have aged far less well than the movie.\n\nThose reviews are mostly concerned about whatever the hell Tom Cruise was going through at the time, or obsessed with obscure symbolism in the production design.\n\nFor whatever reason, it appears the reviewers couldn't get over themselves enough to just watch the movie and evaluate it on its merits.\n\nOn the off chance this film has escaped your attention, it is well worth two hours of your time. It is solidly acted and produced, has first class effects, and a spectacular location. The story combines some emotional heft with a clever and satisfying twist at the end.\n\nI watched it again, but this time with my SciFi hating wife. She protested initially, watched the entire thing, and then thanked me for getting her to watch it afterwards.\n\nThat's as good as it gets.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 550105,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  }
+}

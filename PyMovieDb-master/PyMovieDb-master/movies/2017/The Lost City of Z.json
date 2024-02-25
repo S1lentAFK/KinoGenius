@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Lost City of Z",
+  "url": "https://www.imdb.com/tt1212428/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjAyN2QxOTItOGQ0YS00NmQxLWIxMjEtMDdkZmY0NDU5OWUzXkEyXkFqcGdeQXVyMTk1MDM0OTc@._V1_.jpg",
+  "description": "A true-life drama, centering on British explorer Major Percival Fawcett, who disappeared whilst searching for a mysterious city in the Amazon in the 1920s.",
+  "review": {
+    "author": "robbierunciman-1",
+    "dateCreated": "2017-03-26",
+    "inLanguage": "English",
+    "heading": "Biopic of the end of empire",
+    "reviewBody": "I enjoyed the movie - it was a bit paint by numbers but it covered a huge area of his life and his motivations, it was also a story of decline, the derring-do of the British empire and particular type of hero. I think that he has been overlooked because he &apos;failed&apos; but the film shows how he respected the cultures he found, in contrast to the other members of RGS. The class-based snobbery of the period is also well represented. Highly watchable and recommended.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 98763,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Adventure",
+    "Biography",
+    "Drama"
+  ],
+  "datePublished": "2017-04-20",
+  "keywords": "jungle,amazonia,based on true story,based on book,explorer",
+  "duration": "PT2H21M",
+  "actor": [
+    {
+      "name": "Charlie Hunnam",
+      "url": "https://www.imdb.com/name/nm0402271/"
+    },
+    {
+      "name": "Robert Pattinson",
+      "url": "https://www.imdb.com/name/nm1500155/"
+    },
+    {
+      "name": "Sienna Miller",
+      "url": "https://www.imdb.com/name/nm1092227/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Gray",
+      "url": "https://www.imdb.com/name/nm0336695/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Gray",
+      "url": "https://www.imdb.com/name/nm0336695/"
+    },
+    {
+      "name": "David Grann",
+      "url": "https://www.imdb.com/name/nm2970418/"
+    }
+  ]
+}

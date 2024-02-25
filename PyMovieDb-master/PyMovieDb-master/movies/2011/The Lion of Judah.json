@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Lion of Judah",
+  "url": "https://www.imdb.com/tt1212022/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQyNTk3NjIzMF5BMl5BanBnXkFtZTcwMTk0ODQ0NQ@@._V1_.jpg",
+  "description": "Follow the adventures of a bold lamb (Judah) and his stable friends as they try to avoid the sacrificial alter the week preceding the crucifixion of Christ. It is a heart-warming account of the Easter story as seen through the eye...",
+  "contentRating": "U",
+  "genre": [
+    "Animation"
+  ],
+  "datePublished": "2011-06-07",
+  "keywords": "donkey,rooster,pig,lamb,animal",
+  "duration": "PT1H27M",
+  "rating": {
+    "ratingCount": 691,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.5
+  },
+  "review": {
+    "author": "jackkerry-85582",
+    "dateCreated": "2022-04-16",
+    "inLanguage": "English",
+    "heading": "Scarily Bad (Sorry Jesus)",
+    "reviewBody": "This film gave me nightmares and I couldn't stop thinking about it afterwards for all the wrong reasons. The donkey voiced by Scott Eastwood was so full of edge that I could have cut myself on it. All of the other animals were very scary and kept making weird noises. Judah was very annoying and I didn't like his creepy human face. It made my little brother cry. Overall, I really enjoyed the film, mostly because I fear for my life that Drake will come in the night and take me out. Not disrespect to Jesus though, very appreciative of what he did for us all. This just wasn't the one chief.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "actor": [
+    {
+      "name": "Ernest Borgnine",
+      "url": "https://www.imdb.com/name/nm0000308/"
+    },
+    {
+      "name": "Anupam Kher",
+      "url": "https://www.imdb.com/name/nm0451600/"
+    },
+    {
+      "name": "Sandi Patty",
+      "url": "https://www.imdb.com/name/nm0666481/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Deryck Broom",
+      "url": "https://www.imdb.com/name/nm2968466/"
+    },
+    {
+      "name": "Roger Hawkins",
+      "url": "https://www.imdb.com/name/nm1776878/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brent Dawes",
+      "url": "https://www.imdb.com/name/nm1814874/"
+    },
+    {
+      "name": "Edward James",
+      "url": "https://www.imdb.com/name/nm6117216/"
+    },
+    {
+      "name": "Kurt Kelly",
+      "url": "https://www.imdb.com/name/nm3470753/"
+    }
+  ]
+}

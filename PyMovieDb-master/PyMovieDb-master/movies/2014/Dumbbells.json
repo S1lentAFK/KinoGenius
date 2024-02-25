@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "Dumbbells",
+  "url": "https://www.imdb.com/tt1978428/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgwODY1NDU5OF5BMl5BanBnXkFtZTgwNjQ4OTA4MDE@._V1_.jpg",
+  "description": "A former basketball star suffering from a knee injury looks to rehab himself at a rundown Los Angeles gym.",
+  "review": {
+    "author": "remisykes",
+    "dateCreated": "2014-03-06",
+    "inLanguage": "English",
+    "heading": "Laugh out loud funny.",
+    "reviewBody": "As a gym rat I was looking forward to Dumbbells and it did not disappoint. A lot of characters in the film were based on people I swear I know. There were numerous laugh out loud moments and that&apos;s rare in comedies today. The writers obviously know the dynamics of what happens at the gym. Hoyt Richards shines as gym owner Jack Guy. This is one of those films where it looks like the entire cast is having a blast.\\n\\nThere is a lot of eye candy for both women and men alike in Dumbbells. Did I mention the great cameos from Tom Arnold, Jay Mohr, Carl Reiner and even Fabio. Highly recommended!!!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 813,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.5
+  },
+  "contentRating": "R",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2014-01-10",
+  "keywords": "basketball,male nudity,gym,banker,actor playing himself",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Brian Drolet",
+      "url": "https://www.imdb.com/name/nm1997902/"
+    },
+    {
+      "name": "Hoyt Richards",
+      "url": "https://www.imdb.com/name/nm0724116/"
+    },
+    {
+      "name": "Taylor Cole",
+      "url": "https://www.imdb.com/name/nm1543157/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Christopher Livingston",
+      "url": "https://www.imdb.com/name/nm0515234/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brian Drolet",
+      "url": "https://www.imdb.com/name/nm1997902/"
+    },
+    {
+      "name": "Hoyt Richards",
+      "url": "https://www.imdb.com/name/nm0724116/"
+    }
+  ]
+}

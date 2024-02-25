@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Killers of the Flower Moon",
+  "url": "https://www.imdb.com/tt5537002/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTE3MDA2ZTktNGRkYi00YWI0LWIxOWUtNGUxZDEyZjk1ZmVkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+  "description": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one - until the FBI steps in to unravel the mystery.",
+  "genre": [
+    "Crime",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2023-10-20",
+  "contentRating": "15",
+  "duration": "PT3H26M",
+  "keywords": "1920s,osage tribe,courtroom,based on book,native american",
+  "rating": {
+    "ratingCount": 205128,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  },
+  "review": {
+    "author": "hudsonttr",
+    "dateCreated": "2023-10-20",
+    "inLanguage": "English",
+    "heading": "So unnecessarily long",
+    "reviewBody": "After seeing the trailers , I couldn't help but look forward to this. On paper it has everything. Aside from the performances which will clean up at the Oscars along with best picture, director, score, costume etc etc , I came out feeling flat, bored and relieved it had finished. The running time is ridiculously long and could easily have been 90 minutes shorter. It just plods along, with no surprises or tension. It tells an important story in American history but I've watched documentaries that hold my attention more. Martin Scorsese has recent history in long features and where something like Oppenheimer's similar running time flew by, this was tough to get through....... Can you imagine the directors cut.......",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "actor": [
+    {
+      "name": "Leonardo DiCaprio",
+      "url": "https://www.imdb.com/name/nm0000138/"
+    },
+    {
+      "name": "Robert De Niro",
+      "url": "https://www.imdb.com/name/nm0000134/"
+    },
+    {
+      "name": "Lily Gladstone",
+      "url": "https://www.imdb.com/name/nm4291409/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Martin Scorsese",
+      "url": "https://www.imdb.com/name/nm0000217/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Eric Roth",
+      "url": "https://www.imdb.com/name/nm0744839/"
+    },
+    {
+      "name": "Martin Scorsese",
+      "url": "https://www.imdb.com/name/nm0000217/"
+    },
+    {
+      "name": "David Grann",
+      "url": "https://www.imdb.com/name/nm2970418/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Sex and the City 2",
+  "url": "https://www.imdb.com/tt1261945/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM3OTUyNTI3MF5BMl5BanBnXkFtZTcwODcyMzM0Mw@@._V1_.jpg",
+  "description": "While wrestling with the pressures of life, love, and work in Manhattan, Carrie, Miranda, and Charlotte join Samantha for a trip to Abu Dhabi (United Arab Emirates), where Samantha&apos;s ex is filming a new movie.",
+  "review": {
+    "author": "electryshian-56640",
+    "dateCreated": "2020-07-06",
+    "inLanguage": "English",
+    "heading": "Lawrence of my labia",
+    "reviewBody": "Anyone watching this in 2020 cause of quarantine just to see if its as cringey as you remember? No? Just me? Ok",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 83657,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2010-05-28",
+  "keywords": "sex in bed,sexually empowered woman,promiscuous woman,all american girl,lesbian interest",
+  "duration": "PT2H26M",
+  "actor": [
+    {
+      "name": "Sarah Jessica Parker",
+      "url": "https://www.imdb.com/name/nm0000572/"
+    },
+    {
+      "name": "Kim Cattrall",
+      "url": "https://www.imdb.com/name/nm0000326/"
+    },
+    {
+      "name": "Kristin Davis",
+      "url": "https://www.imdb.com/name/nm0004862/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Patrick King",
+      "url": "https://www.imdb.com/name/nm0455078/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Patrick King",
+      "url": "https://www.imdb.com/name/nm0455078/"
+    },
+    {
+      "name": "Candace Bushnell",
+      "url": "https://www.imdb.com/name/nm0124299/"
+    },
+    {
+      "name": "Darren Star",
+      "url": "https://www.imdb.com/name/nm0823015/"
+    }
+  ]
+}

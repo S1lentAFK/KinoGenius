@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "StreetDance 3D",
+  "url": "https://www.imdb.com/tt1447972/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzNkOWFkYzgtYWQyZS00YzI1LTkwZmMtMGYzOTI3MTg1YjYyXkEyXkFqcGdeQXVyNjcwMzExMzU@._V1_.jpg",
+  "description": "In order to win the Street Dance Championships, a dance crew is forced to work with ballet dancers from the Royal Dance School in exchange for rehearsal space.",
+  "review": {
+    "author": "kosmasp",
+    "dateCreated": "2010-10-19",
+    "inLanguage": "English",
+    "heading": "Clash of the Dances",
+    "reviewBody": "I was really entertained when I watched this in the cinema. The story is nice enough (yes clichés ahead, but it&apos;s a picture about dancing, about overcoming odds, you expect it to have a few), with obstacles build in the way, that you will expect and predict, but all told nicely. And it did not originate from the US, which came as a surprise to me (since almost every dance movie minus the Bollywood fare, seems to be made in the US)! \n\nI liked the acting (for the movie that it is) and the dance scenes were good enough, to be told in 3-D. Though I have to admit, that there are a few sequences in the new Step up, that easily put anything to shame that is shown here. But in contrast to that, the story here is more solid, more believable (in my eyes). Nice entertainment and unfortunately overseen at the Box office (at least that&apos;s what I heard)",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 11629,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "datePublished": "2010-05-21",
+  "keywords": "3 dimensional,dance movie,dance music,female director,female filmmaker",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Nichola Burley",
+      "url": "https://www.imdb.com/name/nm1978579/"
+    },
+    {
+      "name": "Richard Winsor",
+      "url": "https://www.imdb.com/name/nm1621861/"
+    },
+    {
+      "name": "Ukweli Roach",
+      "url": "https://www.imdb.com/name/nm3520933/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Max Giwa",
+      "url": "https://www.imdb.com/name/nm2791932/"
+    },
+    {
+      "name": "Dania Pasquini",
+      "url": "https://www.imdb.com/name/nm2790431/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jane English",
+      "url": "https://www.imdb.com/name/nm1318188/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Dark Knight Rises",
+  "url": "https://www.imdb.com/tt1345836/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_.jpg",
+  "description": "Eight years after the Joker's reign of chaos, Batman is coerced out of exile with the assistance of the mysterious Selina Kyle in order to defend Gotham City from the vicious guerrilla terrorist Bane.",
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2012-07-20",
+  "keywords": "dc comics, batman character, bruce wayne character, terrorist plot, sequel",
+  "duration": "PT2H44M",
+  "rating": {
+    "ratingCount": 1810414,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.4
+  },
+  "review": {
+    "author": "TheLittleSongbird",
+    "dateCreated": "2012-11-02",
+    "inLanguage": "English",
+    "heading": "What a way to end the trilogy!",
+    "reviewBody": "Possibly my personal favourite of the Nolan Batman films, and I do like Batman Begins and The Dark Knight very much. Is it perfect? For me, not quite, there are so many plot strand in a long running time that the film occasionally(and there is a big emphasis on that) sags in momentum and some of the strands in the ending could have done with more development. It is a brilliant film all the same, one of the highlights so far of the year. As to expect from Christopher Nolan, it is a visually audacious film, with gorgeous cinematography, a beautifully realised Gotham City and great special effects. Hans Zimmer's score is not one of his very best for me, but there is still an epic and haunting quality that is just perfect for this film. The dialogue provokes thought and makes an emotional impact, and a vast majority of the time The Dark Knight Rises is ambitious and gripping. I don't consider Christopher Nolan one of my favourites, this said he is a hugely impressive director who shows great ambition and a willingness to make his subject matters interesting. He does a really wonderful job here, as the set/action pieces including the plane hijack and Bane's assault on Gotham are enough to make the jaw drop. The performances are just terrific from all involved, Matthew Modine fares weakest but he is far from bad. Christian Bale is still a charismatic presence, Matthew Caine appropriately loyal and Gary Oldman and Morgan Freeman subtly understated. Joseph Gordon Levitt captures his character's idealism wonderfully. Tom Hardy is in beefed-up terrifying mode as Bane, a worthy successor to Heath Ledger's iconic Joker. Anne Hathaway was a curious casting choice, but as Catwoman she is spot on, here is a Catwoman who actually does much more than acting sexy(which she still is), she is very ruthless and no-nonsense here. All in all, a hugely impressive film, the best of Nolan's Batman trilogy- though I'm prepared for any flaming I'll get for this opinion- and one of the highlights so far of 2012. 9/10 Bethany Cox",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "actor": [
+    {
+      "name": "Christian Bale",
+      "url": "https://www.imdb.com/name/nm0000288/"
+    },
+    {
+      "name": "Tom Hardy",
+      "url": "https://www.imdb.com/name/nm0362766/"
+    },
+    {
+      "name": "Anne Hathaway",
+      "url": "https://www.imdb.com/name/nm0004266/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Christopher Nolan",
+      "url": "https://www.imdb.com/name/nm0634240/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jonathan Nolan",
+      "url": "https://www.imdb.com/name/nm0634300/"
+    },
+    {
+      "name": "Christopher Nolan",
+      "url": "https://www.imdb.com/name/nm0634240/"
+    },
+    {
+      "name": "David S. Goyer",
+      "url": "https://www.imdb.com/name/nm0275286/"
+    }
+  ]
+}

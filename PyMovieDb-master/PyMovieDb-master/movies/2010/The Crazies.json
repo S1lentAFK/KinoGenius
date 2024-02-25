@@ -1,0 +1,66 @@
+{
+  "type": "Movie",
+  "name": "The Crazies",
+  "url": "https://www.imdb.com/tt0455407/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAzMDU5OTg0NV5BMl5BanBnXkFtZTcwNDQ4MjcwMw@@._V1_.jpg",
+  "description": "After a strange and insecure plane crash, an unusual toxic virus enters a quaint farming town. A young couple are quarantined, but they fight for survival along with help from a couple of people.",
+  "review": {
+    "author": "Cujo108",
+    "dateCreated": "2010-05-09",
+    "inLanguage": "English",
+    "heading": "The right kind of remake",
+    "reviewBody": "This remake of the 1973 George Romero film sees the rural Iowa town of Ogden Marsh become unhinged when it&apos;s residents begin exhibiting odd behavior, usually culminating in acts of violence. Sheriff David Dutton (Timothy Olyphant) is at a loss to explain what&apos;s happening to the people he&apos;s known all his life, but the discovery of a dead pilot in a marsh leads him to the answer, a downed plane infecting the town&apos;s water supply. It isn&apos;t long before the military has blocked all methods of communication and descended upon the town. Determined to render a final solution, they don&apos;t intend to let anyone out alive.\n\nFollowing the basic setup of the original, this update expands upon the story and throws in a few new directions and surprises. If you ask me, there was plenty of room for improvement. Romero&apos;s film is decent, but highly flawed. You could blame the budget, but Romero&apos;s done some fantastic work with low budgets. It definitely had bigger problems than that. This is the type of remake I wish there were more of, the type that can improve on a weak original. We spend the majority of the film with the four main characters as they attempt to escape the madness; David, his wife (Radha Mitchell), his deputy (Joe Anderson) and his wife&apos;s secretary (Danielle Pannabaker). I was already a fan of both Olyphant and the lovely Mitchell before viewing this, and they&apos;re once again in solid form here. This is basically Olyphant&apos;s show, and he owns the screen when he&apos;s on. I&apos;d love to see him get more leading roles after this. Anderson and Pannabaker are also impressive, getting me to care about the fates of their characters, something that many horror films have a hard time doing. One of the major differences between this and the Romero original is the lack of focus on the military&apos;s point of view this time around. We spend the duration seeing the events from the perspective of the leads and various other townsfolk. While the POV shown in the &apos;73 film did offer some levels of interest, I think it works better as far as menace goes to not do that here.\n\nThe crazies themselves are well rendered, each person reacting differently to the virus. Some are completely gone while others still retain some semblance of a thought process, the hunters for instance. After seeing the trailer, I was worried that they&apos;d turn this into another zombie movie, but I was happy to see that wasn&apos;t the case. Speaking of the crazies, Lynn Lowry (of the original, Shivers, I Drink Your Blood, etc.) pops up very briefly as one of them. A nice little nod there, and I noticed another potential nod to a similar film, 1984&apos;s Impulse, in which contaminated milk leads people to act on their base impulses. A scene of Olyphant running after a mysterious vehicle that has been documenting the carnage mirrors a sequence from that picture. Also of note is Maxime Alexandre&apos;s gorgeous cinematography. Eisner was smart in getting him, as he&apos;s done equally stellar work for Alexandre Aja in the past. Thankfully, the use of CGI is minimal. In fact, I don&apos;t believe any pops up until the end, and when we get to that, it actually works just fine.\n\nThe film is peppered with a number of suitably tense set-pieces, particularly one involving a pitchfork, a scene in a car wash and the aforementioned ending. On the downside, there are a few cheap jump scares thrown in. The music also struck me as being rather pedestrian at times. Overall though, I can safely say I&apos;ll be returning to this one more often than the 1973 effort.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 128334,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror"
+  ],
+  "datePublished": "2010-02-26",
+  "keywords": "sheriff,deputy,self sacrifice,house on fire,barn",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Radha Mitchell",
+      "url": "https://www.imdb.com/name/nm0593664/"
+    },
+    {
+      "name": "Timothy Olyphant",
+      "url": "https://www.imdb.com/name/nm0648249/"
+    },
+    {
+      "name": "Danielle Panabaker",
+      "url": "https://www.imdb.com/name/nm1263939/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Breck Eisner",
+      "url": "https://www.imdb.com/name/nm0252135/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Scott Kosar",
+      "url": "https://www.imdb.com/name/nm0466925/"
+    },
+    {
+      "name": "Ray Wright",
+      "url": "https://www.imdb.com/name/nm1242522/"
+    },
+    {
+      "name": "George A. Romero",
+      "url": "https://www.imdb.com/name/nm0001681/"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Hills Have Eyes II",
+  "url": "https://www.imdb.com/tt0800069/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWU4NDY0ZDctNWU3Yi00MmFmLTlmYTktZjFmNGUxZGM1MzUzXkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "claudio_carvalho",
+    "dateCreated": "2007-06-22",
+    "inLanguage": "English",
+    "heading": "Predictable Collection of Clich\u00e9s",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 67297,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "18",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2007-03-30",
+  "keywords": "rape,rape and revenge,desert,revenge,murder of a nude woman",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Daniella Alonso",
+      "url": "https://www.imdb.com/name/nm0022161/"
+    },
+    {
+      "name": "Jacob Vargas",
+      "url": "https://www.imdb.com/name/nm0889846/"
+    },
+    {
+      "name": "Michael Bailey Smith",
+      "url": "https://www.imdb.com/name/nm0809344/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Martin Weisz",
+      "url": "https://www.imdb.com/name/nm1170286/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Wes Craven",
+      "url": "https://www.imdb.com/name/nm0000127/"
+    },
+    {
+      "name": "Jonathan Craven",
+      "url": "https://www.imdb.com/name/nm0186617/"
+    }
+  ]
+}

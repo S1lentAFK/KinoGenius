@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Love",
+  "url": "https://www.imdb.com/tt3774694/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGQxZTFlZDctZjcyMy00NzA1LWFkMDYtNzRmZTkwYTFhYTc3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "kosmasp",
+    "dateCreated": "2016-02-08",
+    "inLanguage": "English",
+    "heading": "What is Love?",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 65934,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "18",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2015-11-20",
+  "keywords": "sex scene,film starts with sex,unsimulated sex,explicit sex,sex with neighbor",
+  "duration": "PT2H15M",
+  "actor": [
+    {
+      "name": "Aomi Muyock",
+      "url": "https://www.imdb.com/name/nm7312806/"
+    },
+    {
+      "name": "Karl Glusman",
+      "url": "https://www.imdb.com/name/nm3194762/"
+    },
+    {
+      "name": "Klara Kristin",
+      "url": "https://www.imdb.com/name/nm7312807/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gaspar No\\u00e9",
+      "url": "https://www.imdb.com/name/nm0637615/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Gaspar No\\u00e9",
+      "url": "https://www.imdb.com/name/nm0637615/"
+    }
+  ]
+}

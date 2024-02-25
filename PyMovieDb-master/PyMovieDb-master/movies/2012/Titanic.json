@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Titanic",
+  "url": "https://www.imdb.com/tt0120338/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+  "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+  "review": {
+    "author": "paulclaassen",
+    "dateCreated": "2018-07-03",
+    "inLanguage": "English",
+    "heading": "Despite a lot of plot flaws and conveniences, this really is one of the best films ever made.",
+    "reviewBody": "Ah, yes, the film that propelled Leonardi DiCapro to super stardom, became the first film to gross $1 billion, and stayed on the top of the box office charts for 12 years (only to be kicked off the top by another James Cameron film, Avatar).\\n\\nIt is said &apos;Titanic&apos; is the film with the most continuity errors of all films. Despite this, though, the film was indeed a masterpiece. The sheer scale of the sets and entire production were simply mind blowing! The sinking of the Titanic was the greatest ship sinking scene EVER and was done with such meticulous detail that one would think they actually really sunk the ship. Off course, that was not the case, though, as it were all (very elaborate) sets, most of which were destroyed during the making of the film.\\n\\nLeonardo made for a very likable hero, quite frankly one a lot of guys can relate to. The young lovers were so different and yet so alike, and their love story was almost endearing. I must admit, the jumping backwards and forwards in time was a bit unnecessary and resulted in an overlong epic. They should only have told the 1912 story. Apart from that, the film was thrilling, exciting and fascinating in every sense of the word!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 1269582,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  },
+  "contentRating": "12",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "1998-01-23",
+  "keywords": "iceberg,sailor&apos;s death,love affair,mass death,drawing",
+  "duration": "PT3H14M",
+  "actor": [
+    {
+      "name": "Leonardo DiCaprio",
+      "url": "https://www.imdb.com/name/nm0000138/"
+    },
+    {
+      "name": "Kate Winslet",
+      "url": "https://www.imdb.com/name/nm0000701/"
+    },
+    {
+      "name": "Billy Zane",
+      "url": "https://www.imdb.com/name/nm0000708/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Cameron",
+      "url": "https://www.imdb.com/name/nm0000116/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Cameron",
+      "url": "https://www.imdb.com/name/nm0000116/"
+    }
+  ]
+}

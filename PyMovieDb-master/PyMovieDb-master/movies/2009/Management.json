@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Management",
+  "url": "https://www.imdb.com/tt1082853/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI0Njg2MTg4OV5BMl5BanBnXkFtZTcwOTgyNjg0Mg@@._V1_.jpg",
+  "description": "A traveling art saleswoman tries to shake off a flaky motel manager who falls for her and won&apos;t leave her alone.",
+  "review": {
+    "author": "imdbbl",
+    "dateCreated": "2009-08-21",
+    "inLanguage": "English",
+    "heading": "Nice little film",
+    "reviewBody": "Jennifer Aniston plays Sue Claussen, a lonely traveling saleswoman. In one of her trips she checks in in a roadside motel in Arizona.Mike,played by Steve Zahn, is the son of the owners and he feels attracted to her immediately.Trough little schemes Mike succeeds in seducing Sue and they spend a night together. Eventually Sue checks out of the motel;however Mike can&apos;t let go of her and flies across the country to meet her. There is a lot more to the story but I don&apos;t want to give anything away.But make no mistake, this indie is much more then your typical romantic comedy.It bursts with originality,humor and sweetness.Both Mike and Sue are looking for something meaningful in life but while Mike pursues what he wants(in this case,Sue) Sue holds back fearing for the complications of being involved with someone like Mike and for the complications of life itself. The soundtrack was good and Mrs. Aniston had plenty of charisma as always but the film belongs undeniably to Steve Zahn. Amazing performance. He plays Mike in a way that its impossible not to feel devoted for his character.\\n\\n7/10",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 18320,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2009-05-15",
+  "keywords": [
+    "watching tv",
+    "organ the musical instrument",
+    "motel",
+    "motel manager",
+    "airplane"
+  ],
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Jennifer Aniston",
+      "url": "https://www.imdb.com/name/nm0000098/"
+    },
+    {
+      "name": "Steve Zahn",
+      "url": "https://www.imdb.com/name/nm0001872/"
+    },
+    {
+      "name": "Woody Harrelson",
+      "url": "https://www.imdb.com/name/nm0000437/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Stephen Belber",
+      "url": "https://www.imdb.com/name/nm0067619/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stephen Belber",
+      "url": "https://www.imdb.com/name/nm0067619/"
+    }
+  ]
+}

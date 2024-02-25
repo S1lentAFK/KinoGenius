@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hidalgo",
+  "url": "https://www.imdb.com/tt0317648/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgyNjg5MjcxMl5BMl5BanBnXkFtZTcwNDQxMzQyMQ@@._V1_.jpg",
+  "description": "In 1890, a down-and-out cowboy and his horse travel to Arabia to compete in a deadly cross desert horse race.",
+  "review": {
+    "author": "rrsanchez",
+    "dateCreated": "2004-08-18",
+    "inLanguage": "English",
+    "heading": "Enjoy this one!",
+    "reviewBody": "I've read some pretty disparaging comments about this movie that make me wonder what on earth was so bad? Let's see, there were objections over the predictability of the plot, the stereotyping, the music and on and on. People need to relax and enjoy this movie as entertainment only. I personally thought it was one of the nicest new releases I'd seen.\n\nI know this was another movie about the underdog winning against all odds but I like this kind of movie. I thought the screenplay was admirable in it's restraint not having the main character even kiss the two women involved. The music was very moving and beautiful.\n\nPerhaps some people have become so jaded that a movie simply isn't complete unless there's a helicopter chase, an exploding car or two (or in this case, a wagon), a trip to the nearby strip club with the flashing lights(where all characters in search of answers seem to end up at), gratuitous sex scenes, oh yeah, don't forget to use the 'F' word and while we're at it: let take God's name in vain a few times for the sake of 'realism'.\n\nHollywood needs to make more movies like this.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 85244,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Biography"
+  ],
+  "datePublished": "2004-04-16",
+  "keywords": "horse,race,cowboy,desert,islam",
+  "duration": "PT2H16M",
+  "actor": [
+    {
+      "name": "Viggo Mortensen",
+      "url": "https://www.imdb.com/name/nm0001557/"
+    },
+    {
+      "name": "Omar Sharif",
+      "url": "https://www.imdb.com/name/nm0001725/"
+    },
+    {
+      "name": "Zuleikha Robinson",
+      "url": "https://www.imdb.com/name/nm0733196/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joe Johnston",
+      "url": "https://www.imdb.com/name/nm0002653/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Fusco",
+      "url": "https://www.imdb.com/name/nm0299301/"
+    }
+  ]
+}

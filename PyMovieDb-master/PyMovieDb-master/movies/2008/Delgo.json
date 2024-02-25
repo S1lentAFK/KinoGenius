@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Delgo",
+  "url": "https://www.imdb.com/tt0361500/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTczNTY2NzczOF5BMl5BanBnXkFtZTcwNjI3NTkwMg@@._V1_.jpg",
+  "description": "Delgo, an adventurous but naive teenager, must rally his group of friends to protect their world from conflict between the Lockni and Nohrin people.",
+  "contentRating": "12",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2008-12-12",
+  "keywords": "character name as title,pulled from theater,cgi animation,slimehouse,shrekcore",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Freddie Prinze Jr.",
+      "url": "https://www.imdb.com/name/nm0005327/"
+    },
+    {
+      "name": "Val Kilmer",
+      "url": "https://www.imdb.com/name/nm0000174/"
+    },
+    {
+      "name": "Anne Bancroft",
+      "url": "https://www.imdb.com/name/nm0000843/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Marc F. Adler",
+      "url": "https://www.imdb.com/name/nm1354216/"
+    },
+    {
+      "name": "Jason Maurer",
+      "url": "https://www.imdb.com/name/nm1355835/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Patrick J. Cowan",
+      "url": "https://www.imdb.com/name/nm1354188/"
+    },
+    {
+      "name": "Carl Dream",
+      "url": "https://www.imdb.com/name/nm1354882/"
+    },
+    {
+      "name": "Jennifer Jones-Mitchell",
+      "url": "https://www.imdb.com/name/nm1358368/"
+    }
+  ],
+  "review": {
+    "author": "izwarrahmanadam",
+    "dateCreated": "2020-11-03",
+    "inLanguage": "English",
+    "heading": "The movie is ugly but still have decent animation",
+    "reviewBody": "The movie had a very good animation, but the character design look really awful, and it fell to uncanny valley but at least they have effort like the old character have texture, and the two of voice actor die, and probably everybody knew . In my opinion, the movie could have been better if the story was more creative with some micro level of explanation and the character development was more focus and done right and to avoid the uncanny visual just make use of new computer of the late 2000s or turn it to 2d instead",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 3184,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.3
+  }
+}

@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Life of David Gale",
+  "url": "https://www.imdb.com/tt0289992/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTAxMzU0NTgxNzZeQTJeQWpwZ15BbWU2MDQzNDkxNw@@._V1_.jpg",
+  "description": null,
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2003-03-14",
+  "keywords": "wrongful conviction,texas death row,sex with student,video footage,murder",
+  "duration": "PT2H10M",
+  "rating": {
+    "ratingCount": 125446,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "review": {
+    "author": "Smells_Like_Cheese",
+    "dateCreated": "2003-02-23",
+    "inLanguage": "English",
+    "heading": "Wow",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "actor": [
+    {
+      "name": "Kevin Spacey",
+      "url": "https://www.imdb.com/name/nm0000228/"
+    },
+    {
+      "name": "Kate Winslet",
+      "url": "https://www.imdb.com/name/nm0000701/"
+    },
+    {
+      "name": "Laura Linney",
+      "url": "https://www.imdb.com/name/nm0001473/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Alan Parker",
+      "url": "https://www.imdb.com/name/nm0000570/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Charles Randolph",
+      "url": "https://www.imdb.com/name/nm1017488/"
+    }
+  ]
+}

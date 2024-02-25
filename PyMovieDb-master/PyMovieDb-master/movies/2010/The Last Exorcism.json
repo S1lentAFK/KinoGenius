@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Last Exorcism",
+  "url": "https://www.imdb.com/tt1320244/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDc4Mjk2MjA0NF5BMl5BanBnXkFtZTcwMzMyNjQ3Mw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "rjn538",
+    "dateCreated": "2010-08-27",
+    "inLanguage": "English",
+    "heading": "A decent film for people who like AND understand horror",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 51905,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2010-09-03",
+  "keywords": "exorcism,filmed killing,fraud,cult film,found footage",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Patrick Fabian",
+      "url": "https://www.imdb.com/name/nm0264579/"
+    },
+    {
+      "name": "Ashley Bell",
+      "url": "https://www.imdb.com/name/nm0068042/"
+    },
+    {
+      "name": "Iris Bahr",
+      "url": "https://www.imdb.com/name/nm0052754/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Daniel Stamm",
+      "url": "https://www.imdb.com/name/nm0821844/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Huck Botko",
+      "url": "https://www.imdb.com/name/nm1428204/"
+    },
+    {
+      "name": "Andrew Gurland",
+      "url": "https://www.imdb.com/name/nm0348640/"
+    }
+  ]
+}

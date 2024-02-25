@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Marine 2",
+  "url": "https://www.imdb.com/tt1266027/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGNiZmU5NzQtNTc3Yi00ZGIwLWI1NWYtMzhjNjRhOGJmZTE0XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg",
+  "description": "While on vacation, an American Marine sniper takes on local rebels who have seized control of the island hotel resort where he and his wife, who is now a hostage for ransom, have been staying.",
+  "review": {
+    "author": "BRisBR",
+    "dateCreated": "2011-04-01",
+    "inLanguage": "English",
+    "heading": "Action-packed!",
+    "reviewBody": "M2 is an enjoyable, action-packed, suspenseful movie with exciting scenes and vibrant cinematography (the shots of the island resort were wish-I-was-there breath-taking). It does deserve its R-rating as the violence to and from the terrorists can be brutal at times.\\n\\nWhat I liked most is Ted&apos;s acting allows you to truly sympathize with Joe (Ted Dibiase) and how he&apos;d do anything to get his wife back. Joe (Ted) is not an over-the-top, emotional, screaming-maniac Marine hero; he keeps his cool, which is quite refreshing.\\n\\nI hope WWE does more of these action movies, and I look forward to seeing Ted in more of them. M2 went straight to video; yet, it was much better than some of the WWE films that came out in theaters.\\n\\nM2 is a good addition to your movie library. Will be watching this movie again.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 6155,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2009-12-29",
+  "keywords": "time bomb,low budget,marine,ransom,hostage",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Ted DiBiase Jr.",
+      "url": "https://www.imdb.com/name/nm3078959/"
+    },
+    {
+      "name": "Temuera Morrison",
+      "url": "https://www.imdb.com/name/nm0607325/"
+    },
+    {
+      "name": "Lara Cox",
+      "url": "https://www.imdb.com/name/nm0185123/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Roel Rein\\u00e9",
+      "url": "https://www.imdb.com/name/nm0004152/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Christopher Borrelli",
+      "url": "https://www.imdb.com/name/nm0096319/"
+    },
+    {
+      "name": "John Chapin Morgan",
+      "url": "https://www.imdb.com/name/nm3328188/"
+    }
+  ]
+}

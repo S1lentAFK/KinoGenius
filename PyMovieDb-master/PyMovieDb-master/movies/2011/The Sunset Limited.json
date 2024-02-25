@@ -1,0 +1,37 @@
+
+
+{
+  "type": "Movie",
+  "name": "Bird of Paradise on the Sunset Limited",
+  "url": "https://www.imdb.com/tt4446220/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2E3ZjBmNTMtNjVkZi00MjJmLThlZWEtOTc1OTg2YjY0ZjA3XkEyXkFqcGdeQXVyMzU4NzU4MTc@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": null,
+  "genre": [
+    "Romance"
+  ],
+  "datePublished": null,
+  "keywords": null,
+  "duration": null,
+  "actor": [],
+  "director": [],
+  "creator": []
+}

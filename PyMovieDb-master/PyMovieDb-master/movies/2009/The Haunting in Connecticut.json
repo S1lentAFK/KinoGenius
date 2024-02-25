@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Haunting in Connecticut",
+  "url": "https://www.imdb.com/tt0492044/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTA5MDM4MTQ5Ml5BMl5BanBnXkFtZTcwNjg5MDAwMg@@._V1_.jpg",
+  "description": null,
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2009-03-27",
+  "keywords": "cancer,funeral home,body hidden behind a wall,vomiting,financial problem",
+  "duration": "PT1H32M",
+  "rating": {
+    "ratingCount": 64892,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "review": {
+    "author": "Coventry",
+    "dateCreated": "2015-10-14",
+    "inLanguage": "English",
+    "heading": "As if slowly dying from cancer isn't bad enough yet",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "actor": [
+    {
+      "name": "Virginia Madsen",
+      "url": "https://www.imdb.com/name/nm0000515/"
+    },
+    {
+      "name": "Martin Donovan",
+      "url": "https://www.imdb.com/name/nm0233027/"
+    },
+    {
+      "name": "Elias Koteas",
+      "url": "https://www.imdb.com/name/nm0000480/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Cornwell",
+      "url": "https://www.imdb.com/name/nm1433996/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Adam Simon",
+      "url": "https://www.imdb.com/name/nm0800048/"
+    },
+    {
+      "name": "Tim Metcalfe",
+      "url": "https://www.imdb.com/name/nm0582481/"
+    }
+  ]
+}

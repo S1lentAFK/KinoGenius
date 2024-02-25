@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Material Girls",
+  "url": "https://www.imdb.com/tt0433412/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk3MTY2MDAzMF5BMl5BanBnXkFtZTcwNjQ4MjUzMQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "jotix100",
+    "dateCreated": "2008-04-10",
+    "inLanguage": "English",
+    "heading": "Ode to shallowness",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 22671,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.9
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Romance"
+  ],
+  "datePublished": "2007-03-02",
+  "keywords": "actress,princess,female director,female filmmaker,satire comedy",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Hilary Duff",
+      "url": "https://www.imdb.com/name/nm0240381/"
+    },
+    {
+      "name": "Haylie Duff",
+      "url": "https://www.imdb.com/name/nm0240380/"
+    },
+    {
+      "name": "Anjelica Huston",
+      "url": "https://www.imdb.com/name/nm0001378/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Martha Coolidge",
+      "url": "https://www.imdb.com/name/nm0004838/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Quaintance",
+      "url": "https://www.imdb.com/name/nm1735367/"
+    },
+    {
+      "name": "Jessica O'Toole",
+      "url": "https://www.imdb.com/name/nm1890301/"
+    },
+    {
+      "name": "Amy Rardin",
+      "url": "https://www.imdb.com/name/nm1898779/"
+    }
+  ]
+}

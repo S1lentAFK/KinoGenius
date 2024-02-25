@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "The Devil&apos;s Candy",
+  "url": "https://www.imdb.com/tt4935372/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTQzOTIxNTA5OV5BMl5BanBnXkFtZTgwODc3NzQ1MTI@._V1_.jpg",
+  "description": "A struggling painter&apos;s possessed by dark forces after he and his young family move into their dream home in rural Texas, in this creepy haunted-house tale.",
+  "review": {
+    "author": "farchettiensis",
+    "dateCreated": "2017-04-25",
+    "inLanguage": "English",
+    "heading": "Disturbing",
+    "reviewBody": "This movie is tense, disturbing, with some heavy imagery, gripping, and has great acting. It&apos;s not so much scary as it&apos;s disturbing - different things, the way I see it. Watching it was an intense experience. There&apos;s some lack of imagination in the underlying plot, in portraying evil and how it acts through people, but I guess that this would be asking too much of an already good movie. It lacks subtlety in key moments. Decisive scenes where the main theme of the movie are discussed are presented hurried way; they aren&apos;t properly explored. To be fair, this shouldn&apos;t be generalized, though. But I do feel the focus ended up being too much on the unfolding of the actions - a classic goal to goal rather aspect to aspect sort of thing.\n\nThe scarcity of good horror genre movies is really saddening, few artists are willing to delve into the nature of fascinating subjects such as evil and fear, but I&apos;d say this movie is one of the good ones and I definitely recommend it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 21650,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2017-03-17",
+  "keywords": "father daughter relationship,serial killer,kidnapping,artist,child killer",
+  "duration": "PT1H19M",
+  "actor": [
+    {
+      "name": "Ethan Embry",
+      "url": "https://www.imdb.com/name/nm0256121/"
+    },
+    {
+      "name": "Shiri Appleby",
+      "url": "https://www.imdb.com/name/nm0032375/"
+    },
+    {
+      "name": "Pruitt Taylor Vince",
+      "url": "https://www.imdb.com/name/nm0898546/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sean Byrne",
+      "url": "https://www.imdb.com/name/nm2015237/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sean Byrne",
+      "url": "https://www.imdb.com/name/nm2015237/"
+    }
+  ]
+}

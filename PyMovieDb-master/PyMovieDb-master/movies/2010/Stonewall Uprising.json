@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "Stonewall Uprising",
+  "url": "https://www.imdb.com/tt1562450/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTI1ODQ1NDI5M15BMl5BanBnXkFtZTcwNDczODU2Mw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "preppy-3",
+    "dateCreated": "2010-06-23",
+    "inLanguage": "English",
+    "heading": "Good but lacking",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 613,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "Unrated",
+  "genre": [
+    "Documentary",
+    "History"
+  ],
+  "datePublished": "2010-06-16",
+  "keywords": "gay liberation,homosexual history,gay rights,stonewall riot,year 1969",
+  "duration": "PT1H20M",
+  "actor": [
+    {
+      "name": "Paul Bosche",
+      "url": "https://www.imdb.com/name/nm3977976/"
+    },
+    {
+      "name": "Alfredo del Rio",
+      "url": "https://www.imdb.com/name/nm3978160/"
+    },
+    {
+      "name": "John DiGiacomo",
+      "url": "https://www.imdb.com/name/nm3978650/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kate Davis",
+      "url": "https://www.imdb.com/name/nm0204934/"
+    },
+    {
+      "name": "David Heilbroner",
+      "url": "https://www.imdb.com/name/nm0374133/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Carter",
+      "url": "https://www.imdb.com/name/nm0141568/"
+    },
+    {
+      "name": "David Heilbroner",
+      "url": "https://www.imdb.com/name/nm0374133/"
+    }
+  ]
+}

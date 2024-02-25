@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Mission: Impossible - Dead Reckoning Part Two",
+  "url": "https://www.imdb.com/tt9603208/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmRkMGFjYWItNWZhZC00ZDY5LTk0ZTgtMDQ0MDE2N2MxNDVlXkEyXkFqcGdeQXVyMTE1NDM4ODk4._V1_.jpg",
+  "description": "The 8th entry in the long running Mission Impossible franchise.",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "datePublished": "2025-05-23",
+  "keywords": "ethan hunt character,mission impossible,sequel,eighth part,spy",
+  "duration": null,
+  "contentRating": null,
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "actor": [
+    {
+      "name": "Vanessa Kirby",
+      "url": "https://www.imdb.com/name/nm3948952/"
+    },
+    {
+      "name": "Rebecca Ferguson",
+      "url": "https://www.imdb.com/name/nm0272581/"
+    },
+    {
+      "name": "Hayley Atwell",
+      "url": "https://www.imdb.com/name/nm2017943/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Christopher McQuarrie",
+      "url": "https://www.imdb.com/name/nm0003160/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bruce Geller",
+      "url": "https://www.imdb.com/name/nm0312367/"
+    },
+    {
+      "name": "Erik Jendresen",
+      "url": "https://www.imdb.com/name/nm0420701/"
+    },
+    {
+      "name": "Christopher McQuarrie",
+      "url": "https://www.imdb.com/name/nm0003160/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Wendell Baker Story",
+  "url": "https://www.imdb.com/tt0373445/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDMwYTZkMjgtYWJkOC00ZTI1LTkwMDAtYzA1NjFhNDZhZWVlXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+  "description": "Luke Wilson plays a good-hearted ex-con who gets a job in a retirement hotel. Three elderly residents help him win back his girlfriend as he lends them a hand in fighting hotel corruption.",
+  "review": {
+    "author": "boblipton",
+    "dateCreated": "2020-07-18",
+    "inLanguage": "English",
+    "heading": "Weak But Amiable",
+    "reviewBody": "Luke Wilson is a drug dealer who comes out of prison less of a wiseacre than when he went in. He&apos;s got a job at an old-folk&apos;s home, but despite his amiability, when he sees his old girl friend, Eva Mendes, he wants to reconnect. The old geezers at the home try to help him out.\\n\\nIt&apos;s an amiable if underwritten movie, carried on the charms of its leads..... but they don&apos;t seem to be up to making this movie work. A good cast, including Owen Wilson, Seymour Cassell, Harry Dean Stanton and Kris Kristoferson collect paychecks.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 6006,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2005-08-03",
+  "keywords": "parody comedy,job,nurse,prison,watching a movie",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Luke Wilson",
+      "url": "https://www.imdb.com/name/nm0005561/"
+    },
+    {
+      "name": "Eva Mendes",
+      "url": "https://www.imdb.com/name/nm0578949/"
+    },
+    {
+      "name": "Seymour Cassel",
+      "url": "https://www.imdb.com/name/nm0001025/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrew Wilson",
+      "url": "https://www.imdb.com/name/nm0932992/"
+    },
+    {
+      "name": "Luke Wilson",
+      "url": "https://www.imdb.com/name/nm0005561/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Luke Wilson",
+      "url": "https://www.imdb.com/name/nm0005561/"
+    }
+  ]
+}

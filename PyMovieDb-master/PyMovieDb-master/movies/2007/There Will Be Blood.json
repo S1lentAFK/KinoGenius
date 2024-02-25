@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "There Will Be Blood",
+  "url": "https://www.imdb.com/tt0469494/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_.jpg",
+  "description": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+  "review": {
+    "author": "breezey-120-833995",
+    "dateCreated": "2022-01-31",
+    "inLanguage": "English",
+    "heading": "Phenomenal acting, not personally gripped by the story",
+    "reviewBody": "It has been a while since I watched a film where the acting and casting is so damn convincing - I have to start this review by saying that.\\n\\nThe plot is definitely off the beaten track anf the writing very very much a breath of fresh air.\\n\\nUnfortunately this is a film that can come down to tastes quite a bit when the reviews come round, and although I can&apos;t necessarily critique it specifically, there is something about it that I just couldn&apos;t get gripped by, and the ending didn&apos;t truly satisfy me (though the end scene itself is probably the high point of the movie. Confusing review, I know)\\n\\nThis is not a negative review by any means, but 8-10 are reserved for films that truly get you talking, or have a huge emotional impact in my opinion\\n\\nAs a recommendation, this film is a definite yes. I believe that I am on the side of people who this genre doesn&apos;t appeal to much at all, but as a piece of film and a showcase of acting, it is utterly utterly great.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 635558,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.2
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2008-02-15",
+  "keywords": "misanthrope,oil,loss of hearing,impostor,based on novel",
+  "duration": "PT2H38M",
+  "actor": [
+    {
+      "name": "Daniel Day-Lewis",
+      "url": "https://www.imdb.com/name/nm0000358/"
+    },
+    {
+      "name": "Paul Dano",
+      "url": "https://www.imdb.com/name/nm0200452/"
+    },
+    {
+      "name": "Ciar\\u00e1n Hinds",
+      "url": "https://www.imdb.com/name/nm0001354/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Paul Thomas Anderson",
+      "url": "https://www.imdb.com/name/nm0000759/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Paul Thomas Anderson",
+      "url": "https://www.imdb.com/name/nm0000759/"
+    },
+    {
+      "name": "Upton Sinclair",
+      "url": "https://www.imdb.com/name/nm0801737/"
+    }
+  ]
+}

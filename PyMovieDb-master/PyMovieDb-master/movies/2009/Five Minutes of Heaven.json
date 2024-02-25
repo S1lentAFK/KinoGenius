@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Five Minutes of Heaven",
+  "url": "https://www.imdb.com/tt1238291/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTIwODEyNjgwNF5BMl5BanBnXkFtZTcwODE0ODg3Mg@@._V1_.jpg",
+  "description": "The story of former UVF member Alistair Little. Twenty-five years after Little killed Joe Griffen&apos;s brother, the media arrange an auspicious meeting between the two.",
+  "review": {
+    "author": "secondtake",
+    "dateCreated": "2012-08-06",
+    "inLanguage": "English",
+    "heading": "Strong, simple, sometimes even slow, but never irrelevant, and some great acting",
+    "reviewBody": "Five Minutes of Heaven (2009)\\n\\nI have a confession--when the movie started I thought, okay, another pro-IRA movie with a heart. And it&apos;s not--it&apos;s a beautifully balanced movie about the personal horrors of the Northern Ireland bloodshed and the longterm aftermath as participants struggle to keep going.\\n\\nThe two main actors are both from Northern Ireland. Liam Neeson plays a Protestant who as a teenage killed a Catholic worker as part of the tit-for-tat violence of the time. James Nesbitt, a Roman Catholic, plays the brother of the man who was killed, and as a witness to the crime he holds a deep grudge about the murder. And in a key act of political insight, the actors were born on the opposite sides--Neeson was raised Catholic and Nesbitt raised Protestant. \\n\\nThe theme of the film is reconciliation in the mold of South African leader Nelson Mandela. The core of the movie is shot in a fancy Irish mansion where television crews are going to watch as the two men, mortal enemies decades before, make an effort to somehow move on, in public, on t.v.\\n\\nHow it goes is for you to see. The murder in the 1970s is fact, easy enough to believe, and the meeting of the men is fiction. Nesbitt is utterly terrific. You might think he&apos;s overacting (he is, of course, overacting) but it&apos;s appropriate, and gives this non-action film some intensity. Neeson is strong in his restraint and in the one main scene where he gives a well-written speech about how to understand these horrors he is also terrific.\\n\\nThe filming is extremely simple and in fact the whole scenario is relatively linear, even with all the flashbacks. There are some turns to the events by the last half hour, and in a way this is both the dramatic high and the disappointing low of the film (it resorts to somewhat corny and not quite smartly filmed sequences I won&apos;t elaborate). But overall the point is so strong and well meant it&apos;s hard to worry too much about whether it&apos;s a masterpiece. \\n\\nIt&apos;s not. It&apos;s sometimes slow, it says stuff we probably have absorbed pretty well by now, and it isn&apos;t very complex. But what it does do it does with compassion and conviction.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 13206,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2009-02-27",
+  "keywords": "reconciliation,vengeance,title spoken by character,cell phone,fictional talk show",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Liam Neeson",
+      "url": "https://www.imdb.com/name/nm0000553/"
+    },
+    {
+      "name": "James Nesbitt",
+      "url": "https://www.imdb.com/name/nm0626362/"
+    },
+    {
+      "name": "Anamaria Marinca",
+      "url": "https://www.imdb.com/name/nm1671512/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Oliver Hirschbiegel",
+      "url": "https://www.imdb.com/name/nm0386570/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Guy Hibbert",
+      "url": "https://www.imdb.com/name/nm0382505/"
+    }
+  ]
+}

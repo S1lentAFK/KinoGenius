@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Mr. Magorium's Wonder Emporium",
+  "url": "https://www.imdb.com/tt0457419/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDdjNDcyMTktMzE1NS00NTMxLWEyMzUtZDEyMjY5ZTQ0NDZiXkEyXkFqcGdeQXVyNjM1NzYzMDk@._V1_.jpg",
+  "description": "The young apprentice of a magical, eccentric toy store owner learns to believe in herself, and in her friends, upon learning some grave news about the future.",
+  "contentRating": "U",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2007-12-14",
+  "keywords": "toy, the future, kermit the frog character, genius, toymaker",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Natalie Portman",
+      "url": "https://www.imdb.com/name/nm0000204/"
+    },
+    {
+      "name": "Dustin Hoffman",
+      "url": "https://www.imdb.com/name/nm0000163/"
+    },
+    {
+      "name": "Jason Bateman",
+      "url": "https://www.imdb.com/name/nm0000867/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Zach Helm",
+      "url": "https://www.imdb.com/name/nm1590998/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Zach Helm",
+      "url": "https://www.imdb.com/name/nm1590998/"
+    }
+  ],
+  "review": {
+    "author": "intelearts",
+    "dateCreated": "2007-12-28",
+    "inLanguage": "English",
+    "heading": "Finally, a film for kids",
+    "reviewBody": "We all really enjoyed Mr Magorium.\\n\\nIt has a wonderful sense of magic about it and very good solid performances from the leads.\\n\\nMost of all it is the Emporium, the toy store that provides much of the wonder: real care, thought, and a real sense of wonder pervade the set.\\n\\nThe story is lovingly done, and never too schmaltzy.\\n\\nWe came away talking about our favorite bits the kids remembered lots of small details: a sure sign they really did lose themselves in the movies.\\n\\nOverall I would say one of the better films for kids that doesn't try to be anything other than it is: it reminded me of 1970s Disney, simple, innocent, magic.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 47520,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  }
+}

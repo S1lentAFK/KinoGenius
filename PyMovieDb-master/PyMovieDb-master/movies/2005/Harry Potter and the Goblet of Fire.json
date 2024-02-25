@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Harry Potter and the Goblet of Fire",
+  "url": "https://www.imdb.com/tt0330373/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_.jpg",
+  "description": "Harry Potter finds himself competing in a hazardous tournament between rival schools of magic, but he is distracted by recurring nightmares.",
+  "review": {
+    "author": "TheLittleSongbird",
+    "dateCreated": "2009-04-22",
+    "inLanguage": "English",
+    "heading": "Dark and engrossing!",
+    "reviewBody": "I liked this film very much. It is much darker than the previous outings, but not as faithful to the source material. The only thing I didn't like so much about the book, was the subplot about Hermione trying to help house elves. It was cute, but interfered too much with the dark overtones of the narratives. The film looks dazzling, especially the ballroom scene. Speaking of that scene, I adored that dress that Hermione was wearing, Emma Watson looked unrecognisable in that scene.Also the music by Patrick Doyle this time was beautiful. I don't think it's as dark as the book, and I wasn't too keen on some of the casting. Roger Lloyd Pack and David Tennant were fine in their roles as the Crouches, but their characters were changed significantly. I did wish they made Crouch's disappearance more mysterious, instead of giving it away, ruining the suspense that was quite compelling up to that scene. I am not too keen on Michael Gambon's Dumbledore, I just don't remember Dumbledore being violent as they made him. As I've said already, I much prefer Richard Harris as the character. I am also on the fence about Mad Eye Moody. Brendan Gleeson is a very talented actor, evident in films like In Bruges and The General. He looked the part, but his voice wasn't exactly what I had in mind for Moody. Although Gleeson mostly succeeded with his role, I personally think he tried too hard. My brother also noted that he didn't like the execution of the three tasks. I didn't like the third task, and the other two were fine. I did think on a positive note that Ralph Fiennes as Voldemort was suitably scary, and with the exception of Dumbledore everyone else was well done. All in all, a flawed but quite engrossing film, that doesn't quite live up to the darkness of the book. 8/10 Bethany Cox",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 675683,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2005-11-18",
+  "keywords": "tournament,wizard,magic,evil wizard,boarding school",
+  "duration": "PT2H37M",
+  "actor": [
+    {
+      "name": "Daniel Radcliffe",
+      "url": "https://www.imdb.com/name/nm0705356/"
+    },
+    {
+      "name": "Emma Watson",
+      "url": "https://www.imdb.com/name/nm0914612/"
+    },
+    {
+      "name": "Rupert Grint",
+      "url": "https://www.imdb.com/name/nm0342488/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mike Newell",
+      "url": "https://www.imdb.com/name/nm0001565/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Steve Kloves",
+      "url": "https://www.imdb.com/name/nm0460141/"
+    },
+    {
+      "name": "J.K. Rowling",
+      "url": "https://www.imdb.com/name/nm0746830/"
+    }
+  ]
+}

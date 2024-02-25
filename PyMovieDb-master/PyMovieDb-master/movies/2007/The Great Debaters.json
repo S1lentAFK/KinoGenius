@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Great Debaters",
+  "url": "https://www.imdb.com/tt0427309/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQxMDc1NzkwMF5BMl5BanBnXkFtZTcwMDI5MjU1MQ@@._V1_.jpg",
+  "description": "A drama based on the true story of Melvin B. Tolson, a professor at Wiley College Texas. In 1935, he inspired students to form the school's first debate team, which went on to challenge Harvard in the national championship.",
+  "review": {
+    "author": "desiplaya",
+    "dateCreated": "2007-12-23",
+    "inLanguage": "English",
+    "heading": "Great Sophomore Film by Denzel as a Director",
+    "reviewBody": "Two words perfectly sum up this movie - inspirational and uplifting. I have not seen Antwone Fisher, but I will be sure to check it out after seeing this.\\n\\nBefore watching this, I had never even heard about Wiley College or what it did in the '30s, so not only is it great entertainment but it is also educational. I don't know how closely the movie follows the actual events so I can't point out the flaws, but it doesn't matter because the movie is brilliant and moving. This is an underdog movie and you'll be rooting for the Wiley College team throughout the movie. The acting is marvelous by all the actors, but recognition has to be given to the three stars that portray the debaters, Denzel Washington, and Forest Whitaker. Not only is Denzel great as an actor, he is even better as a director. As other reviewers have said, out of all the actors Denzel Whitaker is the star. His portrayal of James Farmer, Jr. is outstanding and this role will certainly further his acting career. Forest Whitaker doesn't have a huge role to play, but he performs his parts beautifully (for example the hog and the sheriff scenes).\\n\\nOverall this is a very inspirational and uplifting movie. I wouldn't be surprised if it gets a few Oscar nods. \\n\\n9/10",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 62152,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "12",
+  "genre": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2007-12-25",
+  "keywords": "debate team,black american,based on true story,racial segregation,student",
+  "duration": "PT2H6M",
+  "actor": [
+    {
+      "name": "Denzel Washington",
+      "url": "https://www.imdb.com/name/nm0000243/"
+    },
+    {
+      "name": "Forest Whitaker",
+      "url": "https://www.imdb.com/name/nm0001845/"
+    },
+    {
+      "name": "Kimberly Elise",
+      "url": "https://www.imdb.com/name/nm0253708/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Denzel Washington",
+      "url": "https://www.imdb.com/name/nm0000243/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Eisele",
+      "url": "https://www.imdb.com/name/nm0251935/"
+    },
+    {
+      "name": "Jeffrey Porro",
+      "url": "https://www.imdb.com/name/nm2831777/"
+    },
+    {
+      "name": "Tony Scherman",
+      "url": "https://www.imdb.com/name/nm2872558/"
+    }
+  ]
+}

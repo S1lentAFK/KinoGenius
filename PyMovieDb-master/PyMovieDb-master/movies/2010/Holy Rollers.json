@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Holy Rollers",
+  "url": "https://www.imdb.com/tt1143896/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMzNjE4NDU1NF5BMl5BanBnXkFtZTcwMTAwNzQ0Mw@@._V1_.jpg",
+  "description": "In Brooklyn, a youth from an Orthodox Jewish community is lured into becoming an Ecstasy dealer by his pal who has ties to an Israeli drug cartel.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2016-07-06",
+    "inLanguage": "English",
+    "heading": "needs more likability",
+    "reviewBody": "It's 1998 Brooklyn. Sam Gold (Jesse Eisenberg) is an Orthodox Jew. He works in his father's fabric store. He wants to marry Zeldy Lazar but he doesn't have the money. His friend Leon's brother Yosef (Justin Bartha) offers him a job. He asks Leon to join him. They get tricked into smuggling ecstasy from Amsterdam to New York for Israeli Jackie. Sam rises in the organization recruiting other Orthodox Jews. Rachel (Ari Graynor) is Jackie's brassy girlfriend.\\n\\nI would have liked Sam to be a good guy corrupted into this world. The problem is that he's a money-grubbing selfish kid to begin with. They're also a bit too stupid at the start. As for a crime drama, there is limited drama. It's not that exciting. The premise offers some potential but it's not that compelling.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 5243,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2011-07-08",
+  "keywords": "orthodox jew,american,envelope of money,character repeats someone else's dialogue,true crime",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Jesse Eisenberg",
+      "url": "https://www.imdb.com/name/nm0251986/"
+    },
+    {
+      "name": "Justin Bartha",
+      "url": "https://www.imdb.com/name/nm0058581/"
+    },
+    {
+      "name": "Danny A. Abeckaser",
+      "url": "https://www.imdb.com/name/nm1595523/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kevin Asch",
+      "url": "https://www.imdb.com/name/nm0038475/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Antonio Macia",
+      "url": "https://www.imdb.com/name/nm1169207/"
+    }
+  ]
+}

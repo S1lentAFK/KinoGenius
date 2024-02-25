@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Waitress: The Musical",
+  "url": "https://www.imdb.com/tt15477042/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzg3NGYxZTItNTZlZS00OWFlLWI0ZGYtMzM1YTJiMTliNjQ5XkEyXkFqcGdeQXVyNTk5NTQzNDI@._V1_.jpg",
+  "description": "The hit Broadway musical about a small-town pie baker with big dreams gets the silver screen treatment.",
+  "review": {
+    "author": "lunawriter-94436",
+    "dateCreated": "2024-01-13",
+    "inLanguage": "English",
+    "heading": "May We All Be So Lucky",
+    "reviewBody": "An absolute dream. This story is just life in all its beautiful messiness. We've all felt stuck, unworthy, or looking for something more but don't know how to get there. Having been a fan of the movie and the Broadway, to have a pro shot of the production is a dream come true. You feel the heart of the show beating strong during a difficult time when we are all attempting to heal. Every character is brought to life with such vibrancy. It's a story sweet as pie. We're all searching for something more and may we find it as these characters did.\n\nThis is a tribute to Adrienne Shelly's film and her memory lives on.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 1375,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8
+  },
+  "contentRating": null,
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Musical"
+  ],
+  "datePublished": "2023-12-07",
+  "keywords": "recorded stage performance,remake,waitress",
+  "duration": "PT2H24M",
+  "actor": [
+    {
+      "name": "Sara Bareilles",
+      "url": "https://www.imdb.com/name/nm1679561/"
+    },
+    {
+      "name": "Drew Gehling",
+      "url": "https://www.imdb.com/name/nm4931321/"
+    },
+    {
+      "name": "Charity Dawson",
+      "url": "https://www.imdb.com/name/nm8640102/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Diane Paulus",
+      "url": "https://www.imdb.com/name/nm4602455/"
+    },
+    {
+      "name": "Brett Sullivan",
+      "url": "https://www.imdb.com/name/nm3614151/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jessie Nelson",
+      "url": "https://www.imdb.com/name/nm0625458/"
+    },
+    {
+      "name": "Adrienne Shelly",
+      "url": "https://www.imdb.com/name/nm0791248/"
+    }
+  ]
+}

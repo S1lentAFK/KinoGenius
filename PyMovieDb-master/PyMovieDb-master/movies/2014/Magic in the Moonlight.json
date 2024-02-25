@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Magic in the Moonlight",
+  "url": "https://www.imdb.com/tt2870756/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3NDY5NjIwN15BMl5BanBnXkFtZTgwNjQ2ODkxMjE@._V1_.jpg",
+  "description": "A romantic comedy about an Englishman brought in to help unmask a possible swindle. Personal and professional complications ensue.",
+  "review": {
+    "author": "inkblot11",
+    "dateCreated": "2014-08-19",
+    "inLanguage": "English",
+    "heading": "Magical, what else? Lovely story, great acting, beautiful sets, shall I go on?",
+    "reviewBody": "Stanley (Colin Firth) is a famous magician in the Roaring Twenties Europe. He performs in a Chinese costume, the rage at the time. Yes, he is great. But, he is a little dictator to the rest of his crew, spewing out orders right and left. One day, an old friend, Howard (Simon McBurney), also a magician but not quite as well known, comes for a visit. Its more than a friendly chat. Howard brings word about a young medium named Sophie (Emma Stone) who he, Howard, believes is hoodwinking a wealthy family who lives in the south of France. However, Howard has seen her in action and CANNOT discover her secret. Could Stanley come and investigate? Ho ho, indeed he can, for in addition to magical tricks, our Stanley loves unmasking frauds who claim to have paranormal powers when everyone KNOWS there is no such thing. There is no spirit world, no afterlife, no ghosts, etc. That&apos;s what Stanley firmly believes and he has ripped off the disguise of many a huckster. So, to France the two go. Yet, Stanley is about to face a formidable foe. He finds Sophie beautiful, intelligent, and gifted. In addition, after seeing her in action, Stanley is aghast to discover that he can&apos;t understand her talents either, especially after she tells him some of Stanley&apos;s family secrets. This man runs to the home of his nearby aunt (Eileen Atkins) and plots how to further the cast. Will Sophie be found to be, gulp, the genuine item? Is there a paranormal world? This lovely film has it all, my view. It has a great story, with many a memorable line. Allen is surely the best screenwriter of all eternity. Then, the actors are terrific. Firth and Stone are dazzling stars while McBurney, Marcia Gay Harden, Atkins, Jackie Weaver, and all of the rest give terrific support. Next, the scenery is the kind to put your eyes out while the costumes, cinematography, and lively direction make for a most enjoyable film. My only criticism is that Firth and Stone are too far apart in age to really be a romantic couple, especially with Stone made to look as young as possible. Nevermind, because its not really important. What&apos;s important is that YOU go see these magical film before the next moon rises.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 70557,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2014-09-19",
+  "keywords": "magician,aunt,press conference,south of france,medium",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Colin Firth",
+      "url": "https://www.imdb.com/name/nm0000147/"
+    },
+    {
+      "name": "Emma Stone",
+      "url": "https://www.imdb.com/name/nm1297015/"
+    },
+    {
+      "name": "Marcia Gay Harden",
+      "url": "https://www.imdb.com/name/nm0001315/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Woody Allen",
+      "url": "https://www.imdb.com/name/nm0000095/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Woody Allen",
+      "url": "https://www.imdb.com/name/nm0000095/"
+    }
+  ]
+}

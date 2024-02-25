@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "There's a Ghost in My House",
+  "url": "https://www.imdb.com/tt21630044/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzMyNjgwNTYtYjQwNi00OGFhLWFjMTQtZTQwNjQxYzBkYzdmXkEyXkFqcGdeQXVyMTI5MjU0MzAx._V1_.jpg",
+  "description": "Hugh Is left alone in his house, where he believes that his late grandmother is haunting him through the form of a ghost.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": null,
+  "genre": [
+    "Short",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2022-06-05",
+  "keywords": null,
+  "duration": "PT16M",
+  "actor": [
+    {
+      "name": "Tom Howell",
+      "url": "https://www.imdb.com/name/nm13920331/"
+    },
+    {
+      "name": "Heti Hywel",
+      "url": "https://www.imdb.com/name/nm13925743/"
+    },
+    {
+      "name": "Rhian Jones",
+      "url": "https://www.imdb.com/name/nm0429087/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Liam Evans",
+      "url": "https://www.imdb.com/name/nm13914221/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Liam Evans",
+      "url": "https://www.imdb.com/name/nm13914221/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "X-Men: Apocalypse",
+  "url": "https://www.imdb.com/tt3385516/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjU1ODM1MzYxN15BMl5BanBnXkFtZTgwOTA4NDE2ODE@._V1_.jpg",
+  "description": "In the 1980s the X-Men must defeat an ancient all-powerful mutant, En Sabah Nur, who intends to thrive through bringing destruction to the world.",
+  "review": {
+    "author": "TheFirstExecutioner",
+    "dateCreated": "2016-06-06",
+    "inLanguage": "English",
+    "heading": "A Gripping but Flawed X-Men Movie",
+    "reviewBody": "X-Men: Apocalypse is the sequel to Days of Future Past and takes place about a decade later in the &apos;80s. This movie entertained me from start to finish and I can&apos;t say I was ever bored. But there are a lot of things I was not satisfied with while watching. Starting off with the good, Magneto and Professor X continue to be the best parts of these movies. Michael Fassbender as Magneto is amazing and he has a really emotional scene towards the beginning which got me locked into the film. James McAvoy is also great as Xavier. The internal battles inside Xavier&apos;s head were riveting. I really liked the new cast of the younger X-Men, like Jean Grey, Storm, Nightcrawler, and Cyclops. Quicksilver has another awesome scene just like the previous movie. The action is handled very well for the most part. The first half of the movie is terrific, but the second half brings it down. Apocalypse as the villain was OK for me. Some scenes worked well and others didn&apos;t. I was always skeptical of Oscar Isaac as Apocalypse and I still don&apos;t think he was the best choice. He is just like Jesse Eisenberg as Lex Luthor for me. Apocalypse is also a small mutant compared to the others for some reason and he&apos;s just another villain who is obsessed with destroying the world, and his motivations are thin. Jennifer Lawrence was a boring Mystique. She just seems uninspired throughout the run-time and becomes tedious since she uses the personality over and over again to play the character. Some mutants were completely wasted here with Psylocke and Angel. There&apos;s an entire sequence in a secret lab and it seemed there for only one reason: the cameo of a specific person. While it was fun to watch, it didn&apos;t do much of anything for the story in the long run. The entire thing could have been removed and the movie would have been the same. The final battle felt underwhelming with the whole global extinction. The problem is they don&apos;t show any civilians dying; it&apos;s just buildings coming apart, making it hard to care about the situation. Overall, X-Men: Apocalypse is a disappointing sequel to First Class and Days of Future Past. But it is not at all a bad movie. Magneto and Professor X are once again great, Apocalypse is a mixed bag, the pacing for the movie is all over the place, and the dull second half just brings the film down from the really good first half. X-Men: Apocalypse gets a B-.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 457747,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2016-05-18",
+  "keywords": "1980s,mutant,x men,superhero team,superhero",
+  "duration": "PT2H24M",
+  "actor": [
+    {
+      "name": "James McAvoy",
+      "url": "https://www.imdb.com/name/nm0564215/"
+    },
+    {
+      "name": "Michael Fassbender",
+      "url": "https://www.imdb.com/name/nm1055413/"
+    },
+    {
+      "name": "Jennifer Lawrence",
+      "url": "https://www.imdb.com/name/nm2225369/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bryan Singer",
+      "url": "https://www.imdb.com/name/nm0001741/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Simon Kinberg",
+      "url": "https://www.imdb.com/name/nm1334526/"
+    },
+    {
+      "name": "Bryan Singer",
+      "url": "https://www.imdb.com/name/nm0001741/"
+    },
+    {
+      "name": "Michael Dougherty",
+      "url": "https://www.imdb.com/name/nm1002424/"
+    }
+  ]
+}

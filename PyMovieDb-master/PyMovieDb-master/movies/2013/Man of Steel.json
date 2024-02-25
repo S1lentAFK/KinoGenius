@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Man of Steel",
+  "url": "https://www.imdb.com/tt0770828/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "damianphelps",
+    "dateCreated": "2020-11-28",
+    "inLanguage": "English",
+    "heading": "Very Good!",
+    "reviewBody": "So we are looking at essentially a remake of Superman (nothing wrong with that). So how does it compare? Favourably.\\n\\nThe original is perhaps a little softer, more romantic and more idyllic whereas the remake is darker, richer and a little more interesting.\\n\\n2 changes that worked for me, the origin part of the story on Krypton which is much more expansive (creating more of a universe feel, literally) and the extended character of Superman Senior. Brando was the quintessential sci-fi &apos;head in a bottle&apos; character using him to explain Supe&apos;s back story in the original, Crowe&apos;s character came full combat ready and I think it added well to the overall story.\\n\\nReally enjoyable effort that sits well as a representative of the DC universe :)",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 807542,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2013-06-14",
+  "keywords": "superhero,superhero origin,clark kent character,lois lane character,superman character",
+  "duration": "PT2H23M",
+  "actor": [
+    {
+      "name": "Henry Cavill",
+      "url": "https://www.imdb.com/name/nm0147147/"
+    },
+    {
+      "name": "Amy Adams",
+      "url": "https://www.imdb.com/name/nm0010736/"
+    },
+    {
+      "name": "Michael Shannon",
+      "url": "https://www.imdb.com/name/nm0788335/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Zack Snyder",
+      "url": "https://www.imdb.com/name/nm0811583/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David S. Goyer",
+      "url": "https://www.imdb.com/name/nm0275286/"
+    },
+    {
+      "name": "Christopher Nolan",
+      "url": "https://www.imdb.com/name/nm0634240/"
+    },
+    {
+      "name": "Jerry Siegel",
+      "url": "https://www.imdb.com/name/nm0796950/"
+    }
+  ]
+}

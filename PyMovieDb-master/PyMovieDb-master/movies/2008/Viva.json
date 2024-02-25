@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Viva",
+  "url": "https://www.imdb.com/tt0393956/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NjIyMzQ3OV5BMl5BanBnXkFtZTcwMjY5MTE0MQ@@._V1_.jpg",
+  "description": "Two suburban couples experiment with sex, drugs and bohemia in early 1970's Los Angeles.",
+  "contentRating": "18",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Musical"
+  ],
+  "datePublished": "2009-05-15",
+  "keywords": "1970s,female pubic hair,nudist camp,sexual revolution,male frontal nudity",
+  "duration": "PT2H",
+  "actor": [
+    {
+      "name": "Anna Biller",
+      "url": "https://www.imdb.com/name/nm0082366/"
+    },
+    {
+      "name": "Jared Sanford",
+      "url": "https://www.imdb.com/name/nm1239627/"
+    },
+    {
+      "name": "Bridget Brno",
+      "url": "https://www.imdb.com/name/nm0110324/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Anna Biller",
+      "url": "https://www.imdb.com/name/nm0082366/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Anna Biller",
+      "url": "https://www.imdb.com/name/nm0082366/"
+    }
+  ],
+  "review": {
+    "author": "avenuesf",
+    "dateCreated": "2009-03-05",
+    "inLanguage": "English",
+    "heading": "Anna Biller is a Genius",
+    "reviewBody": "I saw this movie this morning and I haven't been able to stop thinking about it all day. It was like watching a film made by Radley Metzger, Russ Meyer, and George Kuchar all rolled into one. It's a hilarious homage to the sixties/early seventies sexploitation pictures and Playboy philosophy, and despite the copious nudity and many references to sex, it's strangely one of the most innocent films I've seen in a long time. The performances, costumes and script as well as Ms. Biller's use of sets and color are mind-boggling and transform the movie into a camp masterpiece. Why did this go direct to video and not play the theater circuit? It would be perfect for midnight movie showings. I'm curious how she found funding for this film in this day and age and am eagerly looking forward to her next one. This movie is amazing!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 1461,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  }
+}

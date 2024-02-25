@@ -1,0 +1,80 @@
+
+
+{
+  "type": "Movie",
+  "name": "Popstar: Never Stop Never Stopping",
+  "url": "https://www.imdb.com/tt3960412/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMxMzk2ODI4N15BMl5BanBnXkFtZTgwNzgzNzQ5ODE@._V1_.jpg",
+  "description": "When it becomes clear that his solo album is a failure, a former boy band member does everything in his power to maintain his celebrity status.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2016-08-26",
+  "keywords": [
+    "male full frontal nudity",
+    "pop star",
+    "scene during end credits",
+    "tank top",
+    "man wears a tank top"
+  ],
+  "duration": "PT1H27M",
+  "rating": {
+    "ratingCount": 67754,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "review": {
+    "author": "mjatchey",
+    "dateCreated": "2019-11-21",
+    "inLanguage": "English",
+    "heading": "Peak Andy",
+    "reviewBody": "Ridiculously underrated. Despite not doing good box office numbers, it remains a hilarious movie",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "actors": [
+    {
+      "name": "Andy Samberg",
+      "url": "https://www.imdb.com/name/nm1676221/"
+    },
+    {
+      "name": "Jorma Taccone",
+      "url": "https://www.imdb.com/name/nm1672246/"
+    },
+    {
+      "name": "Akiva Schaffer",
+      "url": "https://www.imdb.com/name/nm1676223/"
+    }
+  ],
+  "directors": [
+    {
+      "name": "Akiva Schaffer",
+      "url": "https://www.imdb.com/name/nm1676223/"
+    },
+    {
+      "name": "Jorma Taccone",
+      "url": "https://www.imdb.com/name/nm1672246/"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Andy Samberg",
+      "url": "https://www.imdb.com/name/nm1676221/"
+    },
+    {
+      "name": "Akiva Schaffer",
+      "url": "https://www.imdb.com/name/nm1676223/"
+    },
+    {
+      "name": "Jorma Taccone",
+      "url": "https://www.imdb.com/name/nm1672246/"
+    }
+  ]
+}

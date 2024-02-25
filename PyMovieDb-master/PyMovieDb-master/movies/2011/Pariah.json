@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Pariah",
+  "url": "https://www.imdb.com/tt1233334/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM1MTQyNTY3NV5BMl5BanBnXkFtZTcwODk0ODk2Ng@@._V1_.jpg",
+  "description": "A Brooklyn teenager juggles conflicting identities and risks friendship, heartbreak and family in a desperate search for sexual expression.",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2012-10-31",
+  "duration": "PT1H26M",
+  "contentRating": "15",
+  "keywords": "lesbian relationship,homosexuality,coming out,homophobia,black lesbian",
+  "rating": {
+    "ratingCount": 7508,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "review": {
+    "author": "Ramascreen",
+    "dateCreated": "2011-12-23",
+    "inLanguage": "English",
+    "heading": "Courageous and impressive",
+    "reviewBody": "-- www.Ramascreen.com --\\n\\nI don't think it's fair to say that PARIAH is this year's Precious, but I don't blame those who try to make the comparison. PARIAH does have themes about staying strong in the face of adversity, but just like Brokeback Mountain and Albert Nobbs, this film is also about being true to oneself and about acceptance. PARIAH is a bold, courageous feature debut by writer/director Dee Rees and a noteworthy performance by lead actress Adepero Oduye\\n\\nThis obviously is not the first film to champion LGTB but what makes it intriguing, at least in my book, is that it's probably one of the few I've seen, to convey LGTB story by way of urban black neighborhood. Writer/director Dee Rees is not afraid to push the conflicts, to emphasize how hard it is to come out and how frustrating it is for a lesbian to get used to the fact that she may never be allowed to come home to the family she loves. Is your sexual orientation something to look down on or to be proud of? That particular identity conflict is at the heart of PARIAH, the word itself means outcast or despised. It's a very well written script with dialogues and story arc that are riveting. The film has effective humor and its serious tone is at the right dose.\\n\\nActress Adepero Oduye's performance is one that deserves attention, it should not be ignored. As Alike, she's quiet and you can also tell when she's confused and scared before she finally gets to be certain and undeterred. Kim Wayans (one of the Wayans siblings) also gives an equally impressive performance. Because I still remember her back in her comedic days but now seeing her unleash her dramatic chops is quite an upgrade. Kim represents every parent who unfortunately considers their gay children dead and Kim plays that role down pat. And just like Brokeback Mountain and Albert Nobbs, PARIAH also presented the challenges of falling in love with someone who wouldn't want to or is too scared to take the chance in fear of what society may think of them. With a dysfunctional family disguised in conservatism and old fashioned values, the film gives the lead character Alike even more reason to break away and choose her self.\\n\\n-- www.Ramascreen.com --",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Adepero Oduye",
+      "url": "https://www.imdb.com/name/nm1323822/"
+    },
+    {
+      "name": "Kim Wayans",
+      "url": "https://www.imdb.com/name/nm0915462/"
+    },
+    {
+      "name": "Aasha Davis",
+      "url": "https://www.imdb.com/name/nm1632532/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dee Rees",
+      "url": "https://www.imdb.com/name/nm2011696/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dee Rees",
+      "url": "https://www.imdb.com/name/nm2011696/"
+    }
+  ]
+}

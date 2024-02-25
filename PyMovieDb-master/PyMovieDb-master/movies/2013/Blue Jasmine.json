@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Blue Jasmine",
+  "url": "https://www.imdb.com/tt2334873/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc0ODk5MzEyMV5BMl5BanBnXkFtZTcwMzI0MDY1OQ@@._V1_.jpg",
+  "description": "A New York socialite, deeply troubled and in denial, arrives in San Francisco to impose upon her sister. She looks like a million dollars but isn't bringing money, peace or love.",
+  "review": {
+    "author": "littlemartinarocena",
+    "dateCreated": "2013-11-24",
+    "inLanguage": "English",
+    "heading": "Blanche and Stella in Woodyland",
+    "reviewBody": "What a treat! Cate Blanchett gives a stunning performance as a Blanche-like character written and directed by the most prolific American author of the last 40 years. Cate seems to be an actress without emotional borders. Jasmine walks a very tight rope, her sense of despair etched in her magnificent face vanishes ipso facto when she meets Peter Sarsgaard. She realizes in a sort of disbelief -extraordinary, heartbreaking and horribly funny moment - that he could be the rescue raft in her own personal tsunami. Sally Hawkins, another stroke of genius in the casting department, is a profoundly human creature very much the Stella of the situation. This two sisters, adopted both from different parents are also from different, if immediately recognizable, universes. I could go on and on but I'm not going to, I just wanted to urge you, in this times of 3D super extra loud marvel sequels, to run and see it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 211728,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2013-09-17",
+  "keywords": "self deception,sister sister estrangement,riches to rags,narcissistic personality disorder,snob",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Cate Blanchett",
+      "url": "https://www.imdb.com/name/nm0000949/"
+    },
+    {
+      "name": "Alec Baldwin",
+      "url": "https://www.imdb.com/name/nm0000285/"
+    },
+    {
+      "name": "Peter Sarsgaard",
+      "url": "https://www.imdb.com/name/nm0765597/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Woody Allen",
+      "url": "https://www.imdb.com/name/nm0000095/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Woody Allen",
+      "url": "https://www.imdb.com/name/nm0000095/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Shaggy Dog",
+  "url": "https://www.imdb.com/tt0393735/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY0NzM0OTE1N15BMl5BanBnXkFtZTcwMjQ0NjIzMQ@@._V1_.jpg",
+  "description": "A man tries to live a normal life despite the fact that he sometimes turns into a sheepdog.",
+  "contentRating": "U",
+  "genre": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2006-03-31",
+  "keywords": "psychotronic film,animal in title,animal name in title,three word title,slimehouse",
+  "duration": "PT1H38M",
+  "rating": {
+    "ratingCount": 20044,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.4
+  },
+  "review": {
+    "author": "patsmiley",
+    "dateCreated": "2006-07-29",
+    "inLanguage": "English",
+    "heading": "Shaggy Dog",
+    "reviewBody": "I took my daughter to see this movie, and we both enjoyed it very much. We can&apos;t wait until it comes out on DVD to add to our personal collection. I really was happy with the fact that there wasn&apos;t any profanity throughout the entire movie. It reminded me of the good old days when rated PG movies could be watched by the entire family. We laughed throughout the entire movie, and it managed to hold my 8 year old daughter&apos;s attention, which is commendable within itself. So, I really wanted to say Thank You to all of the individuals who were apart of the decision making process of making sure that this movie was completely decent for our children to watch.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "Tim Allen",
+      "url": "https://www.imdb.com/name/nm0000741/"
+    },
+    {
+      "name": "Kristin Davis",
+      "url": "https://www.imdb.com/name/nm0004862/"
+    },
+    {
+      "name": "Craig Kilborn",
+      "url": "https://www.imdb.com/name/nm0452929/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brian Robbins",
+      "url": "https://www.imdb.com/name/nm0005367/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Cormac Wibberley",
+      "url": "https://www.imdb.com/name/nm0926727/"
+    },
+    {
+      "name": "Marianne Wibberley",
+      "url": "https://www.imdb.com/name/nm0926729/"
+    },
+    {
+      "name": "Geoff Rodkey",
+      "url": "https://www.imdb.com/name/nm0734900/"
+    }
+  ]
+}

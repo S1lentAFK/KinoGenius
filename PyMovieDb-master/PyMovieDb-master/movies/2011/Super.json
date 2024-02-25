@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Super",
+  "url": "https://www.imdb.com/tt1512235/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzIzMGFlMWYtYTM5Mi00OTg2LWE3YjAtYTVjODAzNTc4N2IxL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": "After his wife falls under the influence of a drug dealer, an everyday guy transforms himself into Crimson Bolt, a superhero with the best intentions, but lacking in heroic skills.",
+  "review": {
+    "author": "sevastokrator",
+    "dateCreated": "2018-03-22",
+    "inLanguage": "English",
+    "heading": "Brilliant",
+    "reviewBody": "It is hard to rate independent/alternative films, because although I&apos;d give this one a 10/10, it would seem unfair to put it beside movie classics. On the other hand, I totally enjoyed every second of it. The story is both bizarre and great, Rainn Wilson delivers a strangely adorable performance, and the film as a whole is original and brilliant. A cult film and definitely one of my all time favorites.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 83434,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2011-06-10",
+  "keywords": "tragicomedy,female on male rape,rape,woman on top sex,superhero",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Rainn Wilson",
+      "url": "https://www.imdb.com/name/nm0933988/"
+    },
+    {
+      "name": "Elliot Page",
+      "url": "https://www.imdb.com/name/nm0680983/"
+    },
+    {
+      "name": "Liv Tyler",
+      "url": "https://www.imdb.com/name/nm0000239/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Gunn",
+      "url": "https://www.imdb.com/name/nm0348181/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Gunn",
+      "url": "https://www.imdb.com/name/nm0348181/"
+    }
+  ]
+}

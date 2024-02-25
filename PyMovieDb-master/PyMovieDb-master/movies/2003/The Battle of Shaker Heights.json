@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Battle of Shaker Heights",
+  "url": "https://www.imdb.com/tt0357470/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQwMzI0Mzk1NF5BMl5BanBnXkFtZTYwMDIzMDk2._V1_.jpg",
+  "description": "Two high school boys, reenacting historic battles, use learned strategy and team up for war on a school bully. One falls for the other's sister.",
+  "datePublished": "2003-08-22",
+  "contentRating": "PG-13",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "duration": "PT1H19M",
+  "keywords": "wetting oneself,school,high school,reference to led zeppelin,painter",
+  "rating": {
+    "ratingCount": 4577,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "review": {
+    "author": "FredSavage",
+    "dateCreated": "2003-10-10",
+    "inLanguage": "English",
+    "heading": "Just Bad",
+    "reviewBody": "Shia can act. William Sadler can act. Kathleen Quinlan can act. Amy smart can act. Actors do what directors tell them to do, they must trust the vision of the director(s). That is where this picture went terribly wrong.\\n\\nI saw the 7:45 show at Denver&apos;s Chez Artist Theater. This was the last day of the run and the second to last show. There were three other people in the audience. At $8.50 a ticket that&apos;s a whopping $34 for that screening. (hardly the $20K Rick Schwartz wanted).\\n\\nI had read the original script and the changes made to the script. Frankly I wasn&apos;t incredibly inpressed. I watched Project Greenlight and made 2 noteworthy observations. The directors wer very petty and unprofessional. Project Greenlight seemed to be more concerned with creating drama for their reality show than they were in creating a quality film.\\n\\nIn comparison I did watch the first season of Project Greenlight and Stolen Summer. Stolen Summer, as a finished product, was a much better movie than I expected. Shaker Heights wasn&apos;t.\\n\\nIn the battle of Shaker Heights the character of Kelly wasn&apos;t likeable. He was a disrespectful smart ass in school. He treated his dad like a leper. The attractive girl in the supermarket that liked him he threw canned goods at. Why did she like him? Most reactions looked over acted. Characters didn&apos;t act in believeable ways. I was never pulled into the story.\\n\\nThe opinions of the final film expressed by the producers in the final make me wonder if they have made a career of winging confidently talking out of their butts.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "actor": [
+    {
+      "name": "Shia LaBeouf",
+      "url": "https://www.imdb.com/name/nm0479471/"
+    },
+    {
+      "name": "Elden Henson",
+      "url": "https://www.imdb.com/name/nm0711805/"
+    },
+    {
+      "name": "Amy Smart",
+      "url": "https://www.imdb.com/name/nm0005442/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Efram Potelle",
+      "url": "https://www.imdb.com/name/nm0003768/"
+    },
+    {
+      "name": "Kyle Rankin",
+      "url": "https://www.imdb.com/name/nm0710272/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Erica Beeney",
+      "url": "https://www.imdb.com/name/nm0066464/"
+    }
+  ]
+}

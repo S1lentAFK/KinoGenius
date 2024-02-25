@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "The VVitch: A New-England Folktale",
+  "url": "https://www.imdb.com/tt4263482/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNzkwMzAxOF5BMl5BanBnXkFtZTgwMzc1OTk1NjE@._V1_.jpg",
+  "description": "A family in 1630s New England is torn apart by the forces of witchcraft, black magic and possession.",
+  "review": {
+    "author": "CoffinVideo1983",
+    "dateCreated": "2019-08-18",
+    "inLanguage": "English",
+    "heading": "The Witch is that horror film that reminds you that Horror can still be an award winning genre.",
+    "reviewBody": "The Witch is just a great horror film. I loved so much about it. It has a great creepy feel to it, a dark evil vibe mixed in, and a touch of urban legend sprinkled on top.\n\nThe film takes place in such a secluded location that it instantly gives you a feeling of loneliness and dread before it even unfolds its beautifully constructed storyline. I loved the plot, the timing, the acting... basically everything about the film. It&apos;s also a brilliant display of female empowerment, which is common among horror films, but in a whole new way that&apos;s different from the standard last surviving girl motif.\n\nWhether you&apos;re a fan of horror, or just great films in general... I highly suggest The Witch to everyone.\n\nA very strong and deserving 8 out of 10!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 296509,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+  ],
+  "datePublished": "2016-03-11",
+  "keywords": "witch,goat,female frontal nudity,rabbit,witchcraft",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Anya Taylor-Joy",
+      "url": "https://www.imdb.com/name/nm5896355/"
+    },
+    {
+      "name": "Ralph Ineson",
+      "url": "https://www.imdb.com/name/nm0408591/"
+    },
+    {
+      "name": "Kate Dickie",
+      "url": "https://www.imdb.com/name/nm0225483/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Eggers",
+      "url": "https://www.imdb.com/name/nm3211470/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Eggers",
+      "url": "https://www.imdb.com/name/nm3211470/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Sorcerer&apos;s Apprentice",
+  "url": "https://www.imdb.com/tt0963966/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2EwMzg3YWUtMTQyYS00ZDY3LTgzNTctOWI5NzY3MmZkOTk2XkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "alen-k",
+    "dateCreated": "2010-12-06",
+    "inLanguage": "English",
+    "heading": "Baruchel ruined it",
+    "reviewBody": "This Disney movie is fun and the effects are first grade.\n\nNicolas Cage is good as expected. Same goes to Alfred Molina and it&apos;s always nice to see Monica Bellucci.\n\nBUT, there is one BIG problem and that is Jay Baruchel. Why, o why, they had to put him into this movie? He ruined it completely with his annoying appearance, voice and, above all, irritating not-at-all-talented acting. They should have find different actor for this role. I don&apos;t have someone in mind but this one is very wrong. Without him it would be a much better movie.\n\nBut, it&apos;s still entertaining, in spite of occasional not funny jokes which are forced into scenario. The story is bearable and neat effects pulls it out of average, slightly.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 169310,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Family"
+  ],
+  "datePublished": "2010-08-13",
+  "keywords": "wizardry,sorcerer,chosen one,incantation,ring",
+  "duration": "PT1H49M",
+  "actor": [
+    {
+      "name": "Nicolas Cage",
+      "url": "https://www.imdb.com/name/nm0000115/"
+    },
+    {
+      "name": "Jay Baruchel",
+      "url": "https://www.imdb.com/name/nm0059431/"
+    },
+    {
+      "name": "Alfred Molina",
+      "url": "https://www.imdb.com/name/nm0000547/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jon Turteltaub",
+      "url": "https://www.imdb.com/name/nm0005509/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lawrence Konner",
+      "url": "https://www.imdb.com/name/nm0465199/"
+    },
+    {
+      "name": "Mark Rosenthal",
+      "url": "https://www.imdb.com/name/nm0742797/"
+    },
+    {
+      "name": "Matt Lopez",
+      "url": "https://www.imdb.com/name/nm2188941/"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Phantom Thread",
+  "url": "https://www.imdb.com/tt5776858/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWJkNzBkM2UtYWFlMC00NmEwLTgxOGUtMjVmMzYyZjgyMmEzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg",
+  "description": "Set in 1950s London, Reynolds Woodcock is a renowned dressmaker whose fastidious life is disrupted by a young, strong-willed woman, Alma, who becomes his muse and lover.",
+  "review": {
+    "author": "Amyth47",
+    "dateCreated": "2018-09-27",
+    "inLanguage": "English",
+    "heading": "An Exquisite Slow-Burn Drama...",
+    "reviewBody": "My Rating : 8/10\n\nThis is a delicately executed drama intimately woven around the characters of Daniel Day-Lewis as Reynolds Woodcock and Vicky Krieps as Alma.\n\nRight from the opening shots I was engaged and the brilliant performances, beautiful background music coupled with breathtaking cinematography make this a worthwhile watch if you are in the mood for something slow, something a bit art-y. However if you are not in the mood for something like this it can become a chore to watch so I ask the viewer to understand that it is a very beautiful film and in the right frame of mind you will be absorbed into the world of this renowned mid-twentieth century dressmaker who can be a bit fussy.\n\nDaniel Day-Lewis is at his typical level of brilliance here. He perfectly plays the role of an obsessive personality, who is so averse to letting someone interfere with his work, yet who more and more, through both natural and artificial means, also doesn't want to lose the new woman in his life.\n\nStylish camera work, wonderfully-paced drama. Solid 8/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 144108,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2018-02-02",
+  "keywords": "dressmaker,fashion designer,1950s,dysfunctional relationship,fashion house",
+  "duration": "PT2H10M",
+  "actor": [
+    {
+      "name": "Vicky Krieps",
+      "url": "https://www.imdb.com/name/nm3043279/"
+    },
+    {
+      "name": "Daniel Day-Lewis",
+      "url": "https://www.imdb.com/name/nm0000358/"
+    },
+    {
+      "name": "Lesley Manville",
+      "url": "https://www.imdb.com/name/nm0544334/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Paul Thomas Anderson",
+      "url": "https://www.imdb.com/name/nm0000759/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Paul Thomas Anderson",
+      "url": "https://www.imdb.com/name/nm0000759/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Takers",
+  "url": "https://www.imdb.com/tt1135084/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg4ODg5NzkzNl5BMl5BanBnXkFtZTcwNzAyODM5Mw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "TamPalm",
+    "dateCreated": "2010-08-29",
+    "inLanguage": "English",
+    "heading": "My Head is Spinning",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 65510,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2010-10-01",
+  "keywords": "falling out among thieves,corrupt cop,aerial camera shot,cigarette,body lands on a car",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Chris Brown",
+      "url": "https://www.imdb.com/name/nm2093097/"
+    },
+    {
+      "name": "Hayden Christensen",
+      "url": "https://www.imdb.com/name/nm0159789/"
+    },
+    {
+      "name": "Matt Dillon",
+      "url": "https://www.imdb.com/name/nm0000369/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Luessenhop",
+      "url": "https://www.imdb.com/name/nm0525141/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Peter Allen",
+      "url": "https://www.imdb.com/name/nm0020901/"
+    },
+    {
+      "name": "Gabriel Casseus",
+      "url": "https://www.imdb.com/name/nm0144133/"
+    },
+    {
+      "name": "John Luessenhop",
+      "url": "https://www.imdb.com/name/nm0525141/"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Due Date",
+  "url": "https://www.imdb.com/tt1231583/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU5MTgxODM3Nl5BMl5BanBnXkFtZTcwMjMxNDEwNA@@._V1_.jpg",
+  "description": null,
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2010-11-05",
+  "keywords": "grand canyon national park,car chase,vomiting,watching tv,nogales arizona",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Robert Downey Jr.",
+      "url": "https://www.imdb.com/name/nm0000375/"
+    },
+    {
+      "name": "Zach Galifianakis",
+      "url": "https://www.imdb.com/name/nm0302108/"
+    },
+    {
+      "name": "Michelle Monaghan",
+      "url": "https://www.imdb.com/name/nm1157358/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Todd Phillips",
+      "url": "https://www.imdb.com/name/nm0680846/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Alan R. Cohen",
+      "url": "https://www.imdb.com/name/nm0169180/"
+    },
+    {
+      "name": "Alan Freedland",
+      "url": "https://www.imdb.com/name/nm0293139/"
+    },
+    {
+      "name": "Adam Sztykiel",
+      "url": "https://www.imdb.com/name/nm1186373/"
+    }
+  ],
+  "review": {
+    "author": "jose-cruz53",
+    "dateCreated": "2013-01-12",
+    "inLanguage": "English",
+    "heading": "Mediocre, like most films",
+    "reviewBody": "Due Date is simply one of those numerous mediocre comedies produced by Hollywood year after year. That&apos;s pretty much sums it all. One of the differentials of this comedy are the fact that Zack&apos;s character is more compelling than your typical set of characters in these comedies, although they are still far from being truly human characters: Zack&apos;s character is childlike and very naive, which helps the viewer to root a little for him. While iron man&apos;s character is pretty much a normal guy who is unsympathetic, like most normal guys: he is boring and hence performs the role of the straight guy of this show.\\n\\nRecommended for those who like to kill two hours of their life in something other than watching TV series of videogames.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 356551,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  }
+}

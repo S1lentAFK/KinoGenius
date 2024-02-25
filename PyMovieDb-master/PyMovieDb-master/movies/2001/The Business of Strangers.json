@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Business of Strangers",
+  "url": "https://www.imdb.com/tt0270259/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODc3ODcwMTc1MV5BMl5BanBnXkFtZTcwMDQ1OTEzMQ@@._V1_.jpg",
+  "description": "Two businesswomen bond and reveal their inner natures while getting carried away on a revenge attack against an accused rapist.",
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2002-05-03",
+  "keywords": "rape and revenge,someone in socks,black socks,male feet in socks,man in socks",
+  "duration": "PT1H24M",
+  "actor": [
+    {
+      "name": "Stockard Channing",
+      "url": "https://www.imdb.com/name/nm0000330/"
+    },
+    {
+      "name": "Julia Stiles",
+      "url": "https://www.imdb.com/name/nm0005466/"
+    },
+    {
+      "name": "Frederick Weller",
+      "url": "https://www.imdb.com/name/nm0919867/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Patrick Stettner",
+      "url": "https://www.imdb.com/name/nm0828099/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Patrick Stettner",
+      "url": "https://www.imdb.com/name/nm0828099/"
+    }
+  ],
+  "review": {
+    "author": "sm4256",
+    "dateCreated": "2002-10-18",
+    "inLanguage": "English",
+    "heading": "A Hidden Treasure",
+    "reviewBody": "Call it an art film. Call it low-budget. Call it limited-release. But it's a lot more entertaining and intelligent than 95 percent of what Hollywood produces these days. (I know this was filmed primarily in New Jersey, but you know where I'm coming from.)\n\nThe psychological and physical tension between the two leading characters (Channing and Stiles) really makes this film. There's a lot to think about here, including the price to be paid for corporate success and how trust often ends up being the world's most valuable commodity.\n\nAnyone who's ever reached the top of the corporate ladder and then found themselves to tired to enjoy it will appreciate Channing's performance. She's a perfect fit for this role, strong and confident on one hand but insecure and a tad lonely on the other.\n\nIt seems strange to say it, but I really liked something about how the culture of business travel was illustrated in the movie -- hotel bars, shuttle buses, cell phones, neatly-organized suitcases, lounges, alarm clocks. Maybe these characters simply have more impact in such an artificial environment.\n\nA solid 8 1/2 out of 10.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 3829,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  }
+}

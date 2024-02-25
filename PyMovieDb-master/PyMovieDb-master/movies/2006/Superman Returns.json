@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Superman Returns",
+  "url": "https://www.imdb.com/tt0348150/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDUzZGRhNzktYTZkMC00YWFiLTljMDEtMTk2OWJhYzAyYmY2XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+  "description": "Superman returns to Earth after spending five years in space examining his homeworld Krypton. But he finds things have changed while he was gone, and he must once again prove himself important to the world.",
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2006-07-14",
+  "keywords": "clark kent character,lex luthor character,superman character,caped superhero,alien superhero",
+  "duration": "PT2H34M",
+  "rating": {
+    "ratingCount": 290559,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "review": {
+    "author": "joelelvers",
+    "dateCreated": "2016-04-22",
+    "inLanguage": "English",
+    "heading": "Underrated Movie",
+    "reviewBody": "I became curious enough to re-watch this movie after seeing Brandon Routh&apos;s performance as Ray Palmer/A.T.O.M. in Arrow, Flash, and Legends of Tomorrow. \\n\\nI feel that it is a highly underrated film and gets an unnecessary bad rap. Brandon Routh&apos;s portrayal of Clark Kent/Superman, I feel, is second only to Christopher Reeves, whom he does a great job of capturing. \\n\\nThe action scenes are top-notch and fun to watch. It even has one of the most brutal fight scenes in any Superman movie which could be a bit hard to watch. Yes, even more than the Zack Snyder movies.\\n\\nThis movie is far from perfect, but it is a lot better than what it&apos;s given credit for. I do recommend checking it out.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Brandon Routh",
+      "url": "https://www.imdb.com/name/nm0746125/"
+    },
+    {
+      "name": "Kevin Spacey",
+      "url": "https://www.imdb.com/name/nm0000228/"
+    },
+    {
+      "name": "Kate Bosworth",
+      "url": "https://www.imdb.com/name/nm0098378/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bryan Singer",
+      "url": "https://www.imdb.com/name/nm0001741/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Dougherty",
+      "url": "https://www.imdb.com/name/nm1002424/"
+    },
+    {
+      "name": "Dan Harris",
+      "url": "https://www.imdb.com/name/nm0003529/"
+    },
+    {
+      "name": "Bryan Singer",
+      "url": "https://www.imdb.com/name/nm0001741/"
+    }
+  ]
+}

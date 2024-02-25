@@ -1,0 +1,49 @@
+{
+  "type": "Movie",
+  "name": "The Disaster Artist: Oh, Hi Mark: Making a Disaster",
+  "url": "https://www.imdb.com/tt8386984/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTIzN2VmMmMtNjU5OS00ZDNlLTk2ZTgtNmNhMmQ1NzhjNmUwXkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 45,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": null,
+  "genre": [
+    "Documentary",
+    "Short"
+  ],
+  "datePublished": null,
+  "keywords": null,
+  "duration": "PT12M",
+  "actor": [
+    {
+      "name": "Alison Brie",
+      "url": "https://www.imdb.com/name/nm1555340/"
+    },
+    {
+      "name": "Dave Franco",
+      "url": "https://www.imdb.com/name/nm2002649/"
+    },
+    {
+      "name": "James Franco",
+      "url": "https://www.imdb.com/name/nm0290556/"
+    }
+  ],
+  "director": [],
+  "creator": []
+}

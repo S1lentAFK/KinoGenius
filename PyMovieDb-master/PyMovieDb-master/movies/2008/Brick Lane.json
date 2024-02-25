@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Brick Lane",
+  "url": "https://www.imdb.com/tt0940585/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE3ODg0NTQ0NV5BMl5BanBnXkFtZTcwODM3NTM2MQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "reelinspiration",
+    "dateCreated": "2008-08-04",
+    "inLanguage": "English",
+    "heading": "Rich Performances and Gorgeous Cinematography in Brick Lane",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 3265,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2007-11-16",
+  "keywords": "india,1980s,female director,young,september 11 2001",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Tannishtha Chatterjee",
+      "url": "https://www.imdb.com/name/nm1318578/"
+    },
+    {
+      "name": "Satish Kaushik",
+      "url": "https://www.imdb.com/name/nm0442479/"
+    },
+    {
+      "name": "Christopher Simpson",
+      "url": "https://www.imdb.com/name/nm1256011/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sarah Gavron",
+      "url": "https://www.imdb.com/name/nm0310673/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Monica Ali",
+      "url": "https://www.imdb.com/name/nm2324913/"
+    },
+    {
+      "name": "Laura Jones",
+      "url": "https://www.imdb.com/name/nm0428630/"
+    },
+    {
+      "name": "Abi Morgan",
+      "url": "https://www.imdb.com/name/nm0604448/"
+    }
+  ]
+}

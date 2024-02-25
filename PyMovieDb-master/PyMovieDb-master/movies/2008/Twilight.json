@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Twilight",
+  "url": "https://www.imdb.com/tt1099212/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NzUxMTAxN15BMl5BanBnXkFtZTcwMzEyMTIwMg@@._V1_.jpg",
+  "description": "When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire.",
+  "review": {
+    "author": "taj-james-holmes",
+    "dateCreated": "2020-05-09",
+    "inLanguage": "English",
+    "heading": "Undeniably Atmospheric",
+    "reviewBody": "There's an atmosphere to Twilight and that much you simply cannot deny. I can't help but be engrossed by the way that this movie captures the beauty, dreariness and nature of the Pacific Northwest. A memorable score and soundtrack heighten Catherine Hardwicke's broody, yet still enchanting tone. Elliot Davis' cinematography under her direction replicates the indie flair prominent in her other features, this is what separates it apart from the commercially realised sequels that followed. It's a hot and cold, gothic romance with just enough high stakes to enchant you until the very end. If it's raining, you can best believe that I'm slipping into something comfortable and putting Twilight on.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 484424,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "datePublished": "2008-12-19",
+  "keywords": "vampire,vampire human relationship,high school,blood,pacific northwest",
+  "duration": "PT2H2M",
+  "actor": [
+    {
+      "name": "Kristen Stewart",
+      "url": "https://www.imdb.com/name/nm0829576/"
+    },
+    {
+      "name": "Robert Pattinson",
+      "url": "https://www.imdb.com/name/nm1500155/"
+    },
+    {
+      "name": "Billy Burke",
+      "url": "https://www.imdb.com/name/nm0121605/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Catherine Hardwicke",
+      "url": "https://www.imdb.com/name/nm0362566/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Melissa Rosenberg",
+      "url": "https://www.imdb.com/name/nm0742279/"
+    },
+    {
+      "name": "Stephenie Meyer",
+      "url": "https://www.imdb.com/name/nm2769412/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Virginia Creepers: The Horror Host Tradition of the Old Dominion",
+  "url": "https://www.imdb.com/tt1524050/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI2MDQ4ODQ5MF5BMl5BanBnXkFtZTgwNTYwNDA2MDE@._V1_.jpg",
+  "description": "Virginia Creepers examines more than 50 years of television horror hosting in the Commonwealth of Virginia as a reflection of a national cultural phenomenon. The film not only documents shows and personalities but also the transformation of local television programming from a breeding ground for homegrown talent into a corporate wasteland. But as local TV stations went generic and horror hosts disappeared from the airwaves, they migrated to the Internet, where they continue to thrive. The film features interviews with Virginia horror hosts, along with commentary from filmmakers, scholars, and fans. It also includes rare footage and photographs from the early days of television.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 21,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": null,
+  "genre": [
+    "Documentary",
+    "Comedy",
+    "History"
+  ],
+  "datePublished": null,
+  "keywords": "usa horror host,usa male horror host,male horror host,horror host,usa female horror host",
+  "duration": "PT2H",
+  "actor": [
+    {
+      "name": "Roger Barr",
+      "url": "https://www.imdb.com/name/nm2198930/"
+    },
+    {
+      "name": "William Bowman",
+      "url": "https://www.imdb.com/name/nm4722328/"
+    },
+    {
+      "name": "Anson Kessinger",
+      "url": "https://www.imdb.com/name/nm3560839/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sean Kotz",
+      "url": "https://www.imdb.com/name/nm3635377/"
+    },
+    {
+      "name": "Christopher Valluzzo",
+      "url": "https://www.imdb.com/name/nm2991086/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sean Kotz",
+      "url": "https://www.imdb.com/name/nm3635377/"
+    }
+  ]
+}

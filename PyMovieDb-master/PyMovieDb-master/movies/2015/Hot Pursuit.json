@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hot Pursuit",
+  "url": "https://www.imdb.com/tt2967224/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDRmNDY1NDktMjFhZC00NmFiLWJjNzItNWNjMTEzNWVhZTBkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "description": "An uptight and by-the-book cop (Reese Witherspoon) tries to protect the outgoing widow (Sofia Vergara) of a drug boss as they race through Texas pursued by crooked cops and murderous gunmen.",
+  "review": {
+    "author": "UGA-Brewer",
+    "dateCreated": "2016-06-13",
+    "inLanguage": "English",
+    "heading": "Glad I rented this",
+    "reviewBody": "Glad I rented this, instead of seeing it at a theater. I&apos;m shocked Reese Witherspoon agreed to this film. A very poor, silly comedy. I did however, see a glimpse of good acting ability in Sofia, when she showed her evil, serious side. I believe she could portray a great criminal, but that glimpse was simply that, a 20-30 second glimpse. I must admit, my wife was laughing and giggling throughout the movie at some of the more female oriented jokes. She seemed to enjoy it much more than I did. I was shaking my head almost the entire film. There was just too much slap stick to suit me. If you are a Sofia fan, you need to rent this. I don&apos;t think they could have showed much more of her body than they did without going to a higher rating. She is nice to look at but that screaming she does gets a bit irritating after a while. The film was only around an hour and thirty minutes long, I don&apos;t think I could have lasted much longer.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 53919,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2015-07-31",
+  "keywords": "panties,red dress,tight dress,underwear,female police officer",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Reese Witherspoon",
+      "url": "https://www.imdb.com/name/nm0000702/"
+    },
+    {
+      "name": "Sof\\u00eda Vergara",
+      "url": "https://www.imdb.com/name/nm0005527/"
+    },
+    {
+      "name": "Matthew Del Negro",
+      "url": "https://www.imdb.com/name/nm0215682/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Anne Fletcher",
+      "url": "https://www.imdb.com/name/nm0281945/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Feeney",
+      "url": "https://www.imdb.com/name/nm1068488/"
+    },
+    {
+      "name": "John Quaintance",
+      "url": "https://www.imdb.com/name/nm1735367/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Ex Machina",
+  "url": "https://www.imdb.com/tt0470752/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYwMTQ1NTk2N15BMl5BanBnXkFtZTgwMDEzMzYxMzE@._V1_.jpg",
+  "description": "A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I.",
+  "review": {
+    "author": "Red-Barracuda",
+    "dateCreated": "2015-01-25",
+    "inLanguage": "English",
+    "heading": "Very involving bit of pure sci-fi",
+    "reviewBody": "A reclusive CEO of a leading technology company hires a young whiz kid who works for him to test his latest development, a highly advanced android called Ava. Specifically he is tasked with using the Turing test on her to establish if her AI is sufficiently convincing to pass as human.\\n\\nDespite contributing several scripts for the screen, this is writer Alex Garland&apos;s first directorial effort. It&apos;s a hard sci-fi movie which examines concepts and ideas above everything else. That&apos;s not to say it isn&apos;t dramatic or even thrilling because it is both of those things as well but the focus is squarely on the science fiction speculation, and this is a very welcome thing. The central concept that it examines is artificial intelligence. How we interact with AI as humans, as well as how a seductive machine could in turn manipulate us. The very well written script poses philosophical questions such as is there moral or immoral ways to treat AI. It also considers if sometimes part of being human is that we sometimes subconsciously want to be fooled by an illusion, if it is attractive enough.\\n\\nIn many ways Ex Machina resembles last years Under the Skin. Both feature highly advanced female non-humans. In the earlier film Scarlett Johansson played an alien, here Alicia Vikander plays an android. While the very small cast all acquit themselves very well, it is Vikander who stands out in the film&apos;s most challenging role. It&apos;s a nuanced performance that captures the fine balance between the human-like and machine. Not only this but the marvellous special effects compliment this performance to create a very distinctive character. Aside from the effects, this is probably quite a modestly budgeted film, as the small little-known cast and limited sets suggest. But these restrictions have been used to the films advantage, as the unknown cast surprise more given little is known of them and the restricted setting gives off a claustrophobic feel which works well, while forcing us to focus in even more on the ideas being put in front of us. A scene setting ambient soundtrack additionally creates just the right off-kilter mood to accentuate the events. But it&apos;s ultimately the very good writing that underpins the success of this film. All-in-all, very impressive science fiction for those who appreciate the genre&apos;s more cerebral side.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 581174,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "datePublished": "2015-01-21",
+  "keywords": "artificial intelligence,turing test,minimal cast,robot,robot human relationship",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "Alicia Vikander",
+      "url": "https://www.imdb.com/name/nm2539953/"
+    },
+    {
+      "name": "Domhnall Gleeson",
+      "url": "https://www.imdb.com/name/nm1727304/"
+    },
+    {
+      "name": "Oscar Isaac",
+      "url": "https://www.imdb.com/name/nm1209966/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Alex Garland",
+      "url": "https://www.imdb.com/name/nm0307497/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Alex Garland",
+      "url": "https://www.imdb.com/name/nm0307497/"
+    }
+  ]
+}

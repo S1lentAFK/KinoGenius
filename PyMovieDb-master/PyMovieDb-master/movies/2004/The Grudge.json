@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Grudge",
+  "url": "https://www.imdb.com/tt0391198/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIxODg1Nzc3NF5BMl5BanBnXkFtZTcwMjM0MjEzMw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "BrandtSponseller",
+    "dateCreated": "2005-02-04",
+    "inLanguage": "English",
+    "heading": "Just as good as the Japanese films (but with an ending rant against remakes of foreign films)",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 150263,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2004-11-05",
+  "keywords": "housewife,pet cat,supernatural power,bus,male frontal nudity",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Sarah Michelle Gellar",
+      "url": "https://www.imdb.com/name/nm0001264/"
+    },
+    {
+      "name": "Jason Behr",
+      "url": "https://www.imdb.com/name/nm0004736/"
+    },
+    {
+      "name": "Clea DuVall",
+      "url": "https://www.imdb.com/name/nm0245112/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Takashi Shimizu",
+      "url": "https://www.imdb.com/name/nm1234345/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stephen Susco",
+      "url": "https://www.imdb.com/name/nm0839812/"
+    },
+    {
+      "name": "Takashi Shimizu",
+      "url": "https://www.imdb.com/name/nm1234345/"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "Stuck on You",
+  "url": "https://www.imdb.com/tt0338466/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYwODE1MTc3NF5BMl5BanBnXkFtZTcwMjQxMzQyMQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "ruby_fff",
+    "dateCreated": "2004-01-14",
+    "inLanguage": "English",
+    "heading": "Comedy beyond Something About Mary or Dumb & Dumber -- it&apos;s very much a human story with abundance of heart",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 54911,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2004-01-02",
+  "keywords": "internet,conjoined twins,motel,porn star,2000s",
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Matt Damon",
+      "url": "https://www.imdb.com/name/nm0000354/"
+    },
+    {
+      "name": "Greg Kinnear",
+      "url": "https://www.imdb.com/name/nm0001427/"
+    },
+    {
+      "name": "Eva Mendes",
+      "url": "https://www.imdb.com/name/nm0578949/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bobby Farrelly",
+      "url": "https://www.imdb.com/name/nm0125803/"
+    },
+    {
+      "name": "Peter Farrelly",
+      "url": "https://www.imdb.com/name/nm0268380/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Charles B. Wessler",
+      "url": "https://www.imdb.com/name/nm0921853/"
+    },
+    {
+      "name": "Bennett Yellin",
+      "url": "https://www.imdb.com/name/nm0947395/"
+    },
+    {
+      "name": "Peter Farrelly",
+      "url": "https://www.imdb.com/name/nm0268380/"
+    }
+  ]
+}

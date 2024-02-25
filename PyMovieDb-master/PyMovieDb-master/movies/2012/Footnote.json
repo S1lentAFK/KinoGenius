@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hearat Shulayim",
+  "url": "https://www.imdb.com/tt1445520/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYxMTUxNjI2N15BMl5BanBnXkFtZTcwMjM5MjA5Ng@@._V1_.jpg",
+  "description": null,
+  "contentRating": "18",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2011-05-25",
+  "keywords": "rivalry,talmud,scholar,father son relationship,father",
+  "duration": "PT1H47M",
+  "rating": {
+    "ratingCount": 6291,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "review": {
+    "author": "lee_eisenberg",
+    "dateCreated": "2012-12-25",
+    "inLanguage": "English",
+    "heading": "academic conflicts",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Shlomo Bar-Aba",
+      "url": "https://www.imdb.com/name/nm0052722/"
+    },
+    {
+      "name": "Lior Ashkenazi",
+      "url": "https://www.imdb.com/name/nm0038988/"
+    },
+    {
+      "name": "Aliza Rosen",
+      "url": "https://www.imdb.com/name/nm0741903/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joseph Cedar",
+      "url": "https://www.imdb.com/name/nm0147737/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joseph Cedar",
+      "url": "https://www.imdb.com/name/nm0147737/"
+    }
+  ]
+}

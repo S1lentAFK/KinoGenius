@@ -1,0 +1,78 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Road to El Dorado",
+  "url": "https://www.imdb.com/tt0138749/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTEzNWIwMzctOTE1YS00YjIyLTgwZGEtMTMxZDAzNzlmODMxXkEyXkFqcGdeQXVyMjgyMDk1MzY@._V1_.jpg",
+  "description": null,
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2000-08-04",
+  "keywords": "sorcerer, adventurer, jungle, giant monster, conquistador",
+  "duration": "PT1H29M",
+  "rating": {
+    "ratingCount": 106558,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "review": {
+    "author": "qball_82",
+    "dateCreated": "2000-09-24",
+    "inLanguage": "English",
+    "heading": "The Road to El Dorado...hooked from start to finish.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actors": [
+    {
+      "name": "Kevin Kline",
+      "url": "https://www.imdb.com/name/nm0000177/"
+    },
+    {
+      "name": "Kenneth Branagh",
+      "url": "https://www.imdb.com/name/nm0000110/"
+    },
+    {
+      "name": "Rosie Perez",
+      "url": "https://www.imdb.com/name/nm0001609/"
+    }
+  ],
+  "directors": [
+    {
+      "name": "Bibo Bergeron",
+      "url": "https://www.imdb.com/name/nm0074426/"
+    },
+    {
+      "name": "Don Paul",
+      "url": "https://www.imdb.com/name/nm0666802/"
+    },
+    {
+      "name": "Jeffrey Katzenberg",
+      "url": "https://www.imdb.com/name/nm0005076/"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Ted Elliott",
+      "url": "https://www.imdb.com/name/nm0254645/"
+    },
+    {
+      "name": "Terry Rossio",
+      "url": "https://www.imdb.com/name/nm0744429/"
+    },
+    {
+      "name": "Karey Kirkpatrick",
+      "url": "https://www.imdb.com/name/nm0456732/"
+    }
+  ]
+}

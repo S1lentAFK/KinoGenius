@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Black Waters of Echo&apos;s Pond",
+  "url": "https://www.imdb.com/tt0960066/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk5MTExMDM3NV5BMl5BanBnXkFtZTcwMjg2NDUyMw@@._V1_.jpg",
+  "description": "Nine friends take a holiday at a Victorian home on a private island and uncover a game that when played brings out the worst in each of them. Jealously, greed, hatred, lust, all of the things they keep buried deep inside themselve...",
+  "review": {
+    "author": "Leofwine_draca",
+    "dateCreated": "2015-03-29",
+    "inLanguage": "English",
+    "heading": "Neat set-up, so-so payoff",
+    "reviewBody": "THE BLACK WATERS OF ECHO&apos;S POND has a great first half. It sees the usual group of unsuspecting youngsters - fleshed out with actual back stories and characterisation this time around - getting their mitts on a creepy old board game, a game which proceeds to bring out the very worst in these personalities. Soon, the players are turning on each other as past deeds and secrets come to life, and of course it all ends in murder.\n\nThe set-up is a neat one and packed with promise. The characters are far more interesting than you&apos;d suspect and there&apos;s plenty of humour along the way too. The cast incorporates Robert Patrick (wasted in what is little more than a cameo), the &apos;Babysitter Twins&apos; from DEATH PROOF & PLANET TERROR (their acting is poor to say the least), and scream queen Danielle Harris (HALLOWEEN 4).\n\nA shame, then, that the second half is so lacklustre. All that set-up sort of melts away in favour of some very typical, completely ordinary stalk-and-slash sequences. Atmosphere disappears in favour of gory mayhem, and yet it&apos;s all very familiar and by rote. It&apos;s not that THE BLACK WATERS OF ECHO&apos;S POND is particularly bad, because it&apos;s not; it&apos;s just that it&apos;s very ordinary, and it shouldn&apos;t be given that set-up.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 1319,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Fantasy",
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2010-04-09",
+  "keywords": "shower scene,island,home,redneck,friend",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Danielle Harris",
+      "url": "https://www.imdb.com/name/nm0364583/"
+    },
+    {
+      "name": "James Duval",
+      "url": "https://www.imdb.com/name/nm0001166/"
+    },
+    {
+      "name": "Robert Patrick",
+      "url": "https://www.imdb.com/name/nm0001598/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gabriel Bologna",
+      "url": "https://www.imdb.com/name/nm0093232/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Berenson",
+      "url": "https://www.imdb.com/name/nm1117468/"
+    },
+    {
+      "name": "Gabriel Bologna",
+      "url": "https://www.imdb.com/name/nm0093232/"
+    },
+    {
+      "name": "Sean Clark",
+      "url": "https://www.imdb.com/name/nm1977565/"
+    }
+  ]
+}

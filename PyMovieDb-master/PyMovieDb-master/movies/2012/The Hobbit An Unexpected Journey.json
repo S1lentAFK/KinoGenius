@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Hobbit: An Unexpected Journey",
+  "url": "https://www.imdb.com/tt0903624/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_.jpg",
+  "description": "A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home, and the gold within it from the dragon Smaug.",
+  "review": {
+    "author": "kevin_robbins",
+    "dateCreated": "2022-09-28",
+    "inLanguage": "English",
+    "heading": "This is an underrated gem that gets overshadowed by the greatness of Lord of the Rings",
+    "reviewBody": "The Hobbit: An Unexpected Journey (2012) is a movie I originally saw in theaters, is in my DVD collection and I recently rewatched with my daughter on HBOMAX. The storyline for this picture involves our old friend, Bilbo Baggins, as a youth when Gandalf the wizard shows up at his door about an adventure. Bilbo says no but that night 12 dwarfs show up at his door and tells him a story about a dragon that stole their homeland and gold. They would like to return home, regain their kingdom and need Bilbo's help to make that happen. Bilbo will try to say no, but we all know he can't.\\n\\nThis movie is directed by Peter Jackson (Bad Taste) and stars Martin Freeman (Black Panther), Ian McKellen (X-Men), Andy Serkis (Dawn of the Planet of the Apes), Richard Armitage (Into the Storm), Graham McTavish (Rambo) and James Nesbitt (Match Point).\\n\\nThe settings, cast, special effects, attire and props in this are absolutely out of this world. The introduction of the characters is hilarious and very well done. I adored how well the perception of the characters of each other is depicted and how that evolves over time. There's some war scenes in this that's awesome and every scene with the orcs riding the wolves is tremendous. The goblin king sequence in the cave is well executed and it's impossible not to love the riddle game with Gollum. The final battle at the cliff was perfect.\\n\\nOverall, this is an underrated gem that gets overshadowed by the greatness of Lord of the Rings. I would score this a 9/10 and strongly recommend it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 866957,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "2012-12-13",
+  "keywords": "wizard,hobbit,dragon,orc,sword and sorcery",
+  "duration": "PT2H49M",
+  "actor": [
+    {
+      "name": "Martin Freeman",
+      "url": "https://www.imdb.com/name/nm0293509/"
+    },
+    {
+      "name": "Ian McKellen",
+      "url": "https://www.imdb.com/name/nm0005212/"
+    },
+    {
+      "name": "Richard Armitage",
+      "url": "https://www.imdb.com/name/nm0035514/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Jackson",
+      "url": "https://www.imdb.com/name/nm0001392/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Fran Walsh",
+      "url": "https://www.imdb.com/name/nm0909638/"
+    },
+    {
+      "name": "Philippa Boyens",
+      "url": "https://www.imdb.com/name/nm0101991/"
+    },
+    {
+      "name": "Peter Jackson",
+      "url": "https://www.imdb.com/name/nm0001392/"
+    }
+  ]
+}

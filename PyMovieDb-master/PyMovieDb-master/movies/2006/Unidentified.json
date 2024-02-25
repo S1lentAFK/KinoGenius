@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Neidentificat",
+  "url": "https://www.imdb.com/tt13099426/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjA4YTQxMTktYTdhOS00MjZkLWIzOGYtNDNhMTY5YWI4ZGNlXkEyXkFqcGdeQXVyNDc2NTQxMDA@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "dragos-87152",
+    "dateCreated": "2021-11-10",
+    "inLanguage": "English",
+    "heading": "Hidden gem",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 824,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": null,
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2021-08-06",
+  "keywords": "neo noir",
+  "duration": "PT2H3M",
+  "actor": [
+    {
+      "name": "Bogdan Farcas",
+      "url": "https://www.imdb.com/name/nm6030704/"
+    },
+    {
+      "name": "Dragos Dumitru",
+      "url": "https://www.imdb.com/name/nm4568761/"
+    },
+    {
+      "name": "Vasile Muraru",
+      "url": "https://www.imdb.com/name/nm0613555/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bogdan George Apetri",
+      "url": "https://www.imdb.com/name/nm3054794/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bogdan George Apetri",
+      "url": "https://www.imdb.com/name/nm3054794/"
+    },
+    {
+      "name": "Iulian Postelnicu",
+      "url": "https://www.imdb.com/name/nm2462431/"
+    }
+  ]
+}

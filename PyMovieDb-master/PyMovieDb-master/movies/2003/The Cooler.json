@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Cooler",
+  "url": "https://www.imdb.com/tt0318374/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODYyZGE4ZWUtZGI0Yi00YjM1LTlmMWEtN2Q1YTFjYjQ5ZThmXkEyXkFqcGdeQXVyMjQwMjk0NjI._V1_.jpg",
+  "description": "In an old school Las Vegas casino, its top gambling jinx breaks his curse when he falls in love, much to his boss' consternation.",
+  "review": {
+    "author": "jedobi",
+    "dateCreated": "2004-06-20",
+    "inLanguage": "English",
+    "heading": "ALEC BALDWIN",
+    "reviewBody": "The Cooler is worth seeing just for Alec Baldwin's performance alone. An old style casino boss, his inability and unwillingness to accept the new Vegas sends his volatile nature over the edge. Baldwin has always been an underrated actor- at the start of his career, the big studios made the mistake of trying to market him as a star, rather than as the quality actor that he is. He is also helped by working alongside another great actor, William H Macy, who can do more with a look than most can do with 6 OR 7 pages of dialogue ( See the scene when he realizes Maria Bello is still in his flat ). See this film for the acting. It's good to see that films like The Cooler and 21 Grams are doing well and being recognised - it is a triumph for acting and strong scripts as opposed to continual FX and CGI in modern cinema.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 35378,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2004-06-18",
+  "keywords": "casino,card playing,sex in bed,female frontal nudity,female rear nudity",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "William H. Macy",
+      "url": "https://www.imdb.com/name/nm0000513/"
+    },
+    {
+      "name": "Maria Bello",
+      "url": "https://www.imdb.com/name/nm0004742/"
+    },
+    {
+      "name": "Alec Baldwin",
+      "url": "https://www.imdb.com/name/nm0000285/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Wayne Kramer",
+      "url": "https://www.imdb.com/name/nm0469694/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Frank Hannah",
+      "url": "https://www.imdb.com/name/nm1172243/"
+    },
+    {
+      "name": "Wayne Kramer",
+      "url": "https://www.imdb.com/name/nm0469694/"
+    }
+  ]
+}

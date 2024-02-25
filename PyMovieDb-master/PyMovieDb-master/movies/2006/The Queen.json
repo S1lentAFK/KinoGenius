@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Haunting of the Queen Mary",
+  "url": "https://www.imdb.com/tt3463938/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDIwZWU0Y2ItYjAwOS00NmRmLWE4NWEtMmYyZDA0NzkzOTZlXkEyXkFqcGdeQXVyMTM3NDE3MzQ@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "david_w_gibson",
+    "dateCreated": "2023-09-02",
+    "inLanguage": "English",
+    "heading": "Just a mess of incoherent shots",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 3158,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.1
+  },
+  "contentRating": "18",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2023-08-28",
+  "keywords": "ocean,queen mary ship,haunted historic location,long beach california,suspense",
+  "duration": "PT2H5M",
+  "actor": [
+    {
+      "name": "Wesley Alfvin",
+      "url": "https://www.imdb.com/name/nm7098961/"
+    },
+    {
+      "name": "Elena Angelova",
+      "url": "https://www.imdb.com/name/nm15291338/"
+    },
+    {
+      "name": "Tiffany Ashton",
+      "url": "https://www.imdb.com/name/nm11539270/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gary Shore",
+      "url": "https://www.imdb.com/name/nm2411495/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stephen Oliver",
+      "url": "https://www.imdb.com/name/nm15291350/"
+    },
+    {
+      "name": "Tom Vaughan",
+      "url": "https://www.imdb.com/name/nm1129343/"
+    },
+    {
+      "name": "Gary Shore",
+      "url": "https://www.imdb.com/name/nm2411495/"
+    }
+  ]
+}

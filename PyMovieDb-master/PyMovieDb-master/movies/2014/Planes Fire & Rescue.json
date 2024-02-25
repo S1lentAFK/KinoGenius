@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Planes: Fire & Rescue",
+  "url": "https://www.imdb.com/tt2980706/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcwMjY4NDM4OF5BMl5BanBnXkFtZTgwMDIxNDU2MTE@._V1_.jpg",
+  "description": "When Dusty learns that his engine is damaged and he may never race again, he joins a forest fire and rescue unit to be trained as a firefighter, or else his air strip will be shut down.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2014-08-08",
+  "keywords": "firefighting,forest fire,fire,rescue,anthropomorphic vehicle",
+  "duration": "PT1H23M",
+  "actor": [
+    {
+      "name": "Dane Cook",
+      "url": "https://www.imdb.com/name/nm0176981/"
+    },
+    {
+      "name": "Ed Harris",
+      "url": "https://www.imdb.com/name/nm0000438/"
+    },
+    {
+      "name": "Julie Bowen",
+      "url": "https://www.imdb.com/name/nm0100866/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bobs Gannaway",
+      "url": "https://www.imdb.com/name/nm0304432/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bobs Gannaway",
+      "url": "https://www.imdb.com/name/nm0304432/"
+    },
+    {
+      "name": "Jeffrey M. Howard",
+      "url": "https://www.imdb.com/name/nm0397377/"
+    }
+  ],
+  "review": {
+    "author": "email-393-982430",
+    "dateCreated": "2021-01-02",
+    "inLanguage": "English",
+    "heading": "Better than the first",
+    "reviewBody": "The first film is fine, nothing great. This is a little better, and more enjoyable",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 19645,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  }
+}

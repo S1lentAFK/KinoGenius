@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Lucky One",
+  "url": "https://www.imdb.com/tt1327194/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg5NDk3MjAzMF5BMl5BanBnXkFtZTcwMjUyNzExNw@@._V1_.jpg",
+  "description": "A Marine travels to Louisiana after serving three tours in Iraq and searches for the unknown woman he believes was his good luck charm during the war.",
+  "review": {
+    "author": "prairiestar",
+    "dateCreated": "2012-05-31",
+    "inLanguage": "English",
+    "heading": "LOVED this movie!!",
+    "reviewBody": "I watched this movie on Memorial Day, and was reminded all over again that freedom isn't free. So if you are a past or present member of any branch of the US Armed Forces, or if your loved one has paid the ultimate sacrifice with their life, fighting for our freedom, please accept my heartfelt thanks.\\n\\nI LOVED this movie. Everyone did an excellent job with their character \\u2013 especially with Logan. So much feeling and emotion in his expression and actions, even when no words were needed. I felt like I could see into his very soul. I saw a young man who still can hardly grasp the fact that he has survived 3 tours of war in the middle east, when many of his comrades didn't come home. You can sense the depth of emotion and turmoil, and can easily understand why it was often hard to just find words to express himself. You can see the military training and discipline, the steel resolve to control his reactions, even when harassed by the town bully/ex-husband. There's also loyalty, concern for others, tenderness, selflessness, willingness to work hard \\u2013 he's the man of every woman's dream! \\n\\nIt's easy to see that Beth is a survivor of an extremely abusive marriage. Even though she's now divorced, she's still not free from the abusive and controlling ex-husband. She's very careful in how she responds or endures his abusive threats, in order to keep him from going into a greater rage and I cheered for her when she finally found the courage to speak up and take control of her own destiny. \\n\\nKeith, the ex-husband, is easy to despise, for his hateful, snarly, manipulating character and yet in the end we saw a little glimpse of good in his soul as well a little glimpse of what he might have been if he'd only been willing to humble himself and get help much earlier. \\n\\nI loved the happy ending, I loved the story, and I very much appreciated that the producers kept it clean. I can't wait for the DVD \\u2013 this is a keeper!!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 113308,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "datePublished": "2012-05-02",
+  "keywords": "arrogance,disarming someone,blonde,loss of loved one,father figure",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Zac Efron",
+      "url": "https://www.imdb.com/name/nm1374980/"
+    },
+    {
+      "name": "Taylor Schilling",
+      "url": "https://www.imdb.com/name/nm2279940/"
+    },
+    {
+      "name": "Blythe Danner",
+      "url": "https://www.imdb.com/name/nm0001100/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Scott Hicks",
+      "url": "https://www.imdb.com/name/nm0382956/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Will Fetters",
+      "url": "https://www.imdb.com/name/nm3391497/"
+    },
+    {
+      "name": "Nicholas Sparks",
+      "url": "https://www.imdb.com/name/nm0817023/"
+    }
+  ]
+}

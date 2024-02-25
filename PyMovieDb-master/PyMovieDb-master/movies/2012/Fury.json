@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Fury",
+  "url": "https://www.imdb.com/tt2713180/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA4MDU0NTUyN15BMl5BanBnXkFtZTgwMzQxMzY4MjE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "lilgrasshoppah",
+    "dateCreated": "2016-10-31",
+    "inLanguage": "English",
+    "heading": "Two hours of nihilism",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 540438,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "War"
+  ],
+  "datePublished": "2014-10-22",
+  "keywords": "world war two,battle,tank,battlefield,combat",
+  "duration": "PT2H14M",
+  "actor": [
+    {
+      "name": "Brad Pitt",
+      "url": "https://www.imdb.com/name/nm0000093/"
+    },
+    {
+      "name": "Shia LaBeouf",
+      "url": "https://www.imdb.com/name/nm0479471/"
+    },
+    {
+      "name": "Logan Lerman",
+      "url": "https://www.imdb.com/name/nm0503567/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Ayer",
+      "url": "https://www.imdb.com/name/nm0043742/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Ayer",
+      "url": "https://www.imdb.com/name/nm0043742/"
+    }
+  ]
+}

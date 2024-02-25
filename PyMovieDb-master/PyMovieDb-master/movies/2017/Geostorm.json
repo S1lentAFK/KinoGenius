@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Geostorm",
+  "url": "https://www.imdb.com/tt1981128/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA0OTQwMTIxNzheQTJeQWpwZ15BbWU4MDQ1MzI3OTMy._V1_.jpg",
+  "description": "When the network of satellites designed to control the global climate starts to attack Earth, it's a race against the clock for its creator to uncover the real threat before a worldwide Geostorm wipes out everything and everyone.",
+  "review": {
+    "author": "kosmasp",
+    "dateCreated": "2020-02-07",
+    "inLanguage": "English",
+    "heading": "CGI good, movie not so good",
+    "reviewBody": "And when I say good, I don't mean like excellent. But it's good, you should not be offended by it. I never watched this in the cinema, where I guess the movie might have impacted some people more than others. I don't even want to go near a comparisson with Jurassic Park (way better handled overall as a movie), but when it comes to story vs. technical achievements, there are similarities ... also when it comes to what you consider to help like a movie more or less.\n\nButler is doing his thing and everyone else tries their best, but there is not much there. Some technical talk that may or may not make sense (I didn't really pay attention), with just a smudge of social commentary (climate change and all that) ... the main point is the movie tries to entertain and achieves that to a certain degree. Not quality time, but if you're into it ...",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 117227,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Action",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "datePublished": "2017-10-19",
+  "keywords": "disaster film,near future,malfunction,disaster,failure",
+  "duration": "PT1H49M",
+  "actor": [
+    {
+      "name": "Gerard Butler",
+      "url": "https://www.imdb.com/name/nm0124930/"
+    },
+    {
+      "name": "Jim Sturgess",
+      "url": "https://www.imdb.com/name/nm0836343/"
+    },
+    {
+      "name": "Abbie Cornish",
+      "url": "https://www.imdb.com/name/nm0180411/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dean Devlin",
+      "url": "https://www.imdb.com/name/nm0002041/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dean Devlin",
+      "url": "https://www.imdb.com/name/nm0002041/"
+    },
+    {
+      "name": "Paul Guyot",
+      "url": "https://www.imdb.com/name/nm0349935/"
+    }
+  ]
+}

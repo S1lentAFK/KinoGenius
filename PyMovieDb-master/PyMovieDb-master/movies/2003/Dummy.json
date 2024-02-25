@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Dummy",
+  "url": "https://www.imdb.com/tt0246592/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NTA3MTEzN15BMl5BanBnXkFtZTYwOTkwNzg2._V1_.jpg",
+  "description": "An ex-office worker becomes a ventriloquist, leading to a date with his unemployment counselor; but his quirky family and a gauche female friend may thwart his new career and love life.",
+  "review": {
+    "author": "rsenor",
+    "dateCreated": "2004-08-16",
+    "inLanguage": "English",
+    "heading": "excellent, excellent funny film",
+    "reviewBody": "I really loved this film. I kept walking past it at the video store and finally decided we HAD to watch a movie about pursuing a dream of being a ventriloquist.\n\nThat being said, it is definitely one of my favorites of the past few years, and definitely my favorite comedy. If you're considering renting it, and you like Wes Anderson, I think this is a film you would enjoy.\n\nThe cast is spot-on and Adrien Brody as Steven is fall out of your seat AMAZING. (It doesn't hurt that he's got excellent material to work with.) His tone is so understated, so perfectly introverted as Steven, and so wry and cutting as the dummy...you truly feel that you are watching two actors playing two characters. It makes the moments the dummy is unanimated quite wild and almost eerie. \n\nTo boot, this movie is actually quite a good romantic comedy, which in my humble opinion is usually an oxymoron. Steven's pathological shyness and abuse at the hands of his own dummy really made my heart ache, even as my sides were splitting from laughter. \n\nIts hard to believe its the director's first film. Again, all the actors (particularly Brody and Douglas, and Jovovich certainly holds her own as well) go a long way in making it work. It is disappointing to see the lack of attention this movie has gotten. I hope it becomes a video sleeper. It is definitely worth renting...more than once!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 6906,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2021-04-23",
+  "keywords": "friend,friendship,independent film,killer doll,female nudity",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Adrien Brody",
+      "url": "https://www.imdb.com/name/nm0004778/"
+    },
+    {
+      "name": "Milla Jovovich",
+      "url": "https://www.imdb.com/name/nm0000170/"
+    },
+    {
+      "name": "Illeana Douglas",
+      "url": "https://www.imdb.com/name/nm0001152/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Greg Pritikin",
+      "url": "https://www.imdb.com/name/nm0698119/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Greg Pritikin",
+      "url": "https://www.imdb.com/name/nm0698119/"
+    }
+  ]
+}

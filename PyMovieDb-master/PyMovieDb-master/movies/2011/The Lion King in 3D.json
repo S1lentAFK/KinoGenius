@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Lion King",
+  "url": "https://www.imdb.com/tt0110357/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_.jpg",
+  "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Drama"
+  ],
+  "datePublished": "1994-10-07",
+  "keywords": "africa,king,lion,shakespearean,prince",
+  "duration": "PT1H28M",
+  "rating": {
+    "ratingCount": 1131320,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.5
+  },
+  "review": {
+    "author": "Quinoa1984",
+    "dateCreated": "2000-01-01",
+    "inLanguage": "English",
+    "heading": "The Best Animated Film I Have Ever Seen",
+    "reviewBody": "The Lion King is a great film. Along with a great story (inspired by William Shakespeare's Hamlet), terrific animation, and an all star cast of voices, there are the lessons that are learned from this film (despite being a little rough for the younger children). Like responsibility and honor.\n\nI rank this animated film among the great films I have ever seen. It was part of my childhood and it is a film experience I will never forget. And hopefully, you won't either. A++",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "actor": [
+    {
+      "name": "Matthew Broderick",
+      "url": "https://www.imdb.com/name/nm0000111/"
+    },
+    {
+      "name": "Jeremy Irons",
+      "url": "https://www.imdb.com/name/nm0000460/"
+    },
+    {
+      "name": "James Earl Jones",
+      "url": "https://www.imdb.com/name/nm0000469/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Roger Allers",
+      "url": "https://www.imdb.com/name/nm0021249/"
+    },
+    {
+      "name": "Rob Minkoff",
+      "url": "https://www.imdb.com/name/nm0591450/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Irene Mecchi",
+      "url": "https://www.imdb.com/name/nm0575293/"
+    },
+    {
+      "name": "Jonathan Roberts",
+      "url": "https://www.imdb.com/name/nm0731271/"
+    },
+    {
+      "name": "Linda Woolverton",
+      "url": "https://www.imdb.com/name/nm0941314/"
+    }
+  ]
+}

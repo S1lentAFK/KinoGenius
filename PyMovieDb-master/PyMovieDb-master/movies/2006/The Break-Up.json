@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Break-Up",
+  "url": "https://www.imdb.com/tt0452594/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTM1YjVhNTMtZTEyZi00ODk3LWI4NDItZWUyZTA1ODM3Zjk4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+  "description": "A couple's break-up proceeds to get uglier and nastier by the moment as each tries to keep their luxurious condo from the other.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2013-11-16",
+    "inLanguage": "English",
+    "heading": "Unlikeable characters",
+    "reviewBody": "Gary Grobowski (Vince Vaughn) is a loud mouth boorish Neanderthal who works as a tour guide in Chicago. Brooke Meyers (Jennifer Aniston) works at an art gallery and feels completely neglected by him. They fight and they break up. Only neither of them are willing to move out of their luxury apartment and a war of the sexes ensues.\\n\\nHe is an insensitive idiot. It's not a new character for Vince and it's getting tiresome. She's a high maintenance girlfriend disguised as the girl next door. Again it's not a new character. They are not likable characters and I'm getting tired of the actors doing the same thing over and over again. They don't make for a good couple, and they don't have good chemistry. They should never be together in the first place. The only good thing is that they don't get back together.\\n\\nThis is meant to be a comedy. But there is too much serious anger and hate to be funny. It had a chance of this being a dark comedy, but nobody here could figure out how to make one.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 138298,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2006-07-21",
+  "keywords": [
+    "woman wrapped in a towel",
+    "brother brother relationship",
+    "male and female protagonists",
+    "male chauvinism",
+    "reference to lionel richie"
+  ],
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Jennifer Aniston",
+      "url": "https://www.imdb.com/name/nm0000098/"
+    },
+    {
+      "name": "Vince Vaughn",
+      "url": "https://www.imdb.com/name/nm0000681/"
+    },
+    {
+      "name": "Jon Favreau",
+      "url": "https://www.imdb.com/name/nm0269463/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peyton Reed",
+      "url": "https://www.imdb.com/name/nm0715636/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jeremy Garelick",
+      "url": "https://www.imdb.com/name/nm1275670/"
+    },
+    {
+      "name": "Jay Lavender",
+      "url": "https://www.imdb.com/name/nm1191891/"
+    },
+    {
+      "name": "Vince Vaughn",
+      "url": "https://www.imdb.com/name/nm0000681/"
+    }
+  ]
+}

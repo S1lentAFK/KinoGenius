@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Chronicles of Riddick",
+  "url": "https://www.imdb.com/tt0296572/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzBjNmJkYjUtMTFjMC00ZWI5LWEyM2YtNzczOTczMmM1ODY5XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg",
+  "description": "The wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.",
+  "review": {
+    "author": "Marshall-D-Teach",
+    "dateCreated": "2020-02-20",
+    "inLanguage": "English",
+    "heading": "Riddick",
+    "reviewBody": "Riddick might not be the right character to build an epic saga story line about, but he&apos;s the right character to make a franchise with and this film proves that Vin Diesel&apos;s Riddick role is fun enough to watch with great action set pieces.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 240563,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2004-08-27",
+  "keywords": "night vision,fugitive,shared universe,actor reprises previous role,epic sci fi",
+  "duration": "PT1H59M",
+  "actor": [
+    {
+      "name": "Vin Diesel",
+      "url": "https://www.imdb.com/name/nm0004874/"
+    },
+    {
+      "name": "Judi Dench",
+      "url": "https://www.imdb.com/name/nm0001132/"
+    },
+    {
+      "name": "Colm Feore",
+      "url": "https://www.imdb.com/name/nm0272173/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Twohy",
+      "url": "https://www.imdb.com/name/nm0878638/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jim Wheat",
+      "url": "https://www.imdb.com/name/nm0923646/"
+    },
+    {
+      "name": "Ken Wheat",
+      "url": "https://www.imdb.com/name/nm0003117/"
+    },
+    {
+      "name": "David Twohy",
+      "url": "https://www.imdb.com/name/nm0878638/"
+    }
+  ]
+}

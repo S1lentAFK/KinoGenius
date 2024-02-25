@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Million Dollar Hotel",
+  "url": "https://www.imdb.com/tt0120753/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDQ2MGUwYjYtODFiNy00OTViLWJhOTgtZWNmM2I2MDRmMzQ1XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg",
+  "description": "Tragi-comic, romantic whodunnit set in a run down hotel which plays host to mentally ill people too poor to afford medical insurance.",
+  "review": {
+    "author": "Martin-259",
+    "dateCreated": "2002-02-08",
+    "inLanguage": "English",
+    "heading": ". . . suicide at the best moment of your life . . .",
+    "reviewBody": "Million Dollar Hotel is a beautiful movie, and one of Wenders&apos; best recent efforts, considerably better than The End of Violence or Lisbon Story, but with a smaller worldview than Until the End of the World or Wings of Desire. The State of Things is also one of my favorite Wenders. \\n\\n I can understand how many people might not like this movie. It&apos;s a young person&apos;s story about suicide and first love at the very moment when you know it&apos;s the best moment in your life as it ever will be, before you get jaded and caught up with the familiar chase after sex, money and power, when your sensations become dulled and your body not as agile because now you&apos;re older. It is concerned with poetically defective mentalities and has a drug-like sensibility to it, so you may not get it if you&apos;re a normal social conformist with a happy childhood. But then, I had this kind of youth, too, living in drug-addled international student hostel dives around Greenwich Village in the Eighties, purposefully unemployed because it seemed more open to possibility and potentiality than the unphilosophic nine to five. Suicide can really be a statement of momentary happiness rather than the mundane postmortem understanding of a troubled youth, the movie seems to say.\\n\\nJeremy Davies gives a fantastic, inspired performance, reminding me a bit of Leonardo DiCaprio in What&apos;s Eating Gilbert Grape, but much more nuanced as to require second viewings, or Johnny Depp in Benny and Joon. Admittedly, the story is not completely credible, because while the Million Dollar Hotel seems real enough (think Chelsea Hotel if it were in downtown LA), how all these misfitting characters can survive financially and end up living together in this amazing place cannot be scrupulously pondered. At the same time, it&apos;s good that Bono helped write the story, because Wenders&apos; plots tend to be otherwise somewhat inchoate. So in the end, it&apos;s an atmospheric fantasy. (Why do so many movies of the late Nineties-early Thousands have people jumping off of roofs? : Open Your Eyes) Nor is all the acting uniform, although Davies especially, Jovavich and notably Stormare stand out. Although Gibson is focused big on the center of the video box, it&apos;s really not his movie, as he&apos;s just along for the chance to ride with Wenders. The dialogue mixed in with the Beatles lyrics is quite clever. The camera effects for those moments where Tom-Tom and Eloise seem to move in slow motion for several parts of a second are neat, as if the two of them are not completely in the same dimension of our reality and are in danger of somehow being shaken loose from this world. I can&apos;t believe this movie was never widely released, as I just found it on the shelf in the video store, don&apos;t know how I ever missed it, and I agree that it is destined to be a Wenders cult favorite.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 22346,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2000-04-28",
+  "keywords": "hotel,murder,suicide,painting,detective",
+  "duration": "PT2H2M",
+  "actor": [
+    {
+      "name": "Jeremy Davies",
+      "url": "https://www.imdb.com/name/nm0001111/"
+    },
+    {
+      "name": "Milla Jovovich",
+      "url": "https://www.imdb.com/name/nm0000170/"
+    },
+    {
+      "name": "Mel Gibson",
+      "url": "https://www.imdb.com/name/nm0000154/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Wim Wenders",
+      "url": "https://www.imdb.com/name/nm0000694/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nicholas Klein",
+      "url": "https://www.imdb.com/name/nm0458911/"
+    },
+    {
+      "name": "Bono",
+      "url": "https://www.imdb.com/name/nm0095104/"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "type": "Movie",
+  "name": "The Ladykillers",
+  "url": "https://www.imdb.com/tt0335245/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYwNjUxMTYzM15BMl5BanBnXkFtZTYwNjgwMjY3._V1_.jpg",
+  "description": "An eccentric, if not charming Southern professor and his crew pose as a classical ensemble in order to rob a casino, all under the nose of his unsuspecting but sharp old landlady.",
+  "review": {
+    "author": "harry_tk_yung",
+    "dateCreated": "2004-06-06",
+    "inLanguage": "English",
+    "heading": "A Coen gem",
+    "reviewBody": "Spoilers\n\nFalling short of a Coen masterpiece (such a Fargo), The Ladykillers can be described as a Coen gem. The style is evident right from the opening shot. Where else can you find a garbage barge and a garbage dump transformed so magically by the movie camera into what looks like an idyllic paradise. Equally sparkling is the audio pleasure proffered, with the beautiful background of barber-shop like chorus leading into an on screen duet of snores of the sheriff and his deputy. While on that score (no pun intended), lively, exciting swinging gospel music provides excellent interludes as well as background throughout. \n\nKnowing that this is a remake of a 1955 version lead by Alec Gunnies, I&apos;ll make no further reference to something that I have not had the pleasure of watching. Instead, I would make reference to the assembling of the team for the caper, an enjoyable prologue as found in many similar films, from the good old classic The League of Gentlemen to the more recent Italian Job (also a remake). The slight difference here is that instead of seeing the mastermind (Tom Hanks) actually recruiting each one of them, we are shown what looks like a cartoon quip of each, with some good laughs but at the same time highlighting their individual characteristics.\n\nTunnelling for a robbery is not new, and the classical one has to be The Red Headed League in the Sherlock Holmes short stores. Here, under the pretext of researching Renaissance music, Hanks and company rent the basement of a widow, played by Irma P. Hall. One source of amusement to the audience comes from the scenes between these two, the church-going Southern black woman whose every nuance overflows with simple, principled honesty (but earthly smartness) and the completely cunning crook who tries to wriggle out of her recognition at every twist and turn. Another contrast played upon a lot by the Coen Brothers is the Hanks&apos; talking &apos;genteel&apos; (as Eliza Doolittle would have said) and the proliferation of obscenity from the &apos;punk&apos;, the insider member of the gang.\n\nFunny right from the start, this movie gradually reveals more and more of the Coens&apos; brand of dark humour when eventually the title &apos;ladykillers&apos; take on a literal meaning. An &apos;In competition&apos; film at Cannes this year, this Coen gem is well worth checking out.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 108526,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "2004-06-25",
+  "keywords": "money falling through the air,heist,bridge,dead body,american remake of european film",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Tom Hanks",
+      "url": "https://www.imdb.com/name/nm0000158/"
+    },
+    {
+      "name": "Marlon Wayans",
+      "url": "https://www.imdb.com/name/nm0005541/"
+    },
+    {
+      "name": "Irma P. Hall",
+      "url": "https://www.imdb.com/name/nm0355659/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ethan Coen",
+      "url": "https://www.imdb.com/name/nm0001053/"
+    },
+    {
+      "name": "Joel Coen",
+      "url": "https://www.imdb.com/name/nm0001054/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joel Coen",
+      "url": "https://www.imdb.com/name/nm0001054/"
+    },
+    {
+      "name": "Ethan Coen",
+      "url": "https://www.imdb.com/name/nm0001053/"
+    },
+    {
+      "name": "William Rose",
+      "url": "https://www.imdb.com/name/nm0741740/"
+    }
+  ]
+}

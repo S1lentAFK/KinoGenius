@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Exodus: Gods and Kings",
+  "url": "https://www.imdb.com/tt1528100/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI3MDY0NjkxNl5BMl5BanBnXkFtZTgwNTM3NTA0MzE@._V1_.jpg",
+  "description": "The defiant leader Moses rises up against Egyptian Pharaoh Ramses II, setting six hundred thousand slaves on a monumental journey of escape from Egypt and its terrifying cycle of deadly plagues.",
+  "datePublished": "2014-12-26",
+  "duration": "PT2H30M",
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "keywords": "pharaoh,plague,egypt,exodus,sibling rivalry",
+  "rating": {
+    "ratingCount": 178083,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "review": {
+    "author": "bkoganbing",
+    "dateCreated": "2015-05-19",
+    "inLanguage": "English",
+    "heading": "No Passover viewing treat",
+    "reviewBody": "It has become somewhat fashionable to dismiss Cecil B. DeMille's The Ten Commandments because of the arcane Victorian era dialog. But I have to say that Ridley Scott's version of Exodus while technically proficient will never become the Passover viewing treat that DeMille's film has become. \\n\\nCousins Moses and Ramses are friends and rivals for the affections of the Pharoah who is Ramses dad. But when it is discovered that Moses is actually the son of Hebrew slaves that his mother Pharoah's sister drew him out of the Nile the succession of the Pharoah's line is secure.\\n\\nWhat's not so secure is the kingdom itself as the Hebrews who came over as a family of 13 kids several centuries earlier now are in the thousands and are slaves and they ain't happy about it. In the funny way things work out in life, the adopted Egyptian prince is in fact the promised leader who is going to lead them back from whence they came which is Canaan.\\n\\nIn DeMille's version the dialog may be arcane, but it is also uplifting and inspiring and delivered by the ultimate DeMille leading man Charlton Heston. Yul Brynner as Ramses in that version was the arrogant Pharoah enjoying all his princely prerogatives. They made an evenly matched pair of foes and with them scrapping over Anne Baxter the conflict got personal as well as religious.\\n\\nChristian Bale as Moses and Joel Edgerton as Ramses just don't give you people you can identify with.\\n\\nDeMille was always good with crowds. Note how uplifting the liberation of the Hebrews is in his film. Also the small little vignettes of the various people in the crowd. They are a family/nation in his version. All they are is in Scott's version lumpen proletariat.\\n\\nWhose idea was it to have the voice of God be that of a petulant child? Instead of the pyrotechnical wizardry of DeMille the Ten Commandments are given almost matter of factly by a kid to Christian Bale.\\n\\nWe've gone beyond Cecil B. DeMille in the art of film making. But there a things in his craft that he was the top, far and above anyone else. Not even a Ridley Scott should try.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "actor": [
+    {
+      "name": "Christian Bale",
+      "url": "https://www.imdb.com/name/nm0000288/"
+    },
+    {
+      "name": "Joel Edgerton",
+      "url": "https://www.imdb.com/name/nm0249291/"
+    },
+    {
+      "name": "Ben Kingsley",
+      "url": "https://www.imdb.com/name/nm0001426/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ridley Scott",
+      "url": "https://www.imdb.com/name/nm0000631/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Adam Cooper",
+      "url": "https://www.imdb.com/name/nm0177836/"
+    },
+    {
+      "name": "Bill Collage",
+      "url": "https://www.imdb.com/name/nm0171651/"
+    },
+    {
+      "name": "Jeffrey Caine",
+      "url": "https://www.imdb.com/name/nm0128997/"
+    }
+  ]
+}

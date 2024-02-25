@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Billy Elliot",
+  "url": "https://www.imdb.com/tt0249462/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGY3NWYwNzctNWU5Yi00ZjljLTgyNDgtZjNhZjRlNjc0ZTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Lady MoonDance",
+    "dateCreated": "2000-10-11",
+    "inLanguage": "English",
+    "heading": "From Ugly Ducking to Beautiful Swan",
+    "reviewBody": "Billy Elliot is a truly inspirational movie. It reminds us of the human potential to transcend our economic surroundings and the expectations of society by doing something so simple, and yet sometimes so very difficult, as simply being ourselves.\\n\\nBorn in a socially and economically repressed mining town, Billy is told that boys box or wrestle; boys don't dance. But Billy loves to dance and does so every chance that he gets.\\n\\nDoes a love of ballet make you gay? Does it matter if your best friend is a crossdresser? How far will a father go when he realizes the truth about his son? This is a movie of change, growth and emotion, with characters and actors so real and fully developed that they pull your heart forth and place it firmly upon the screen. We literally feel the brittleness of judgement, the despair of lost hope, and the joy of acceptance.\\n\\nIt is easy to see why this small British film has won so many foreign awards and nominations, and I only hope it will be given the chance it deserves to inspire and transform US audiences as well.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 141771,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2000-09-29",
+  "keywords": "ballet,miner,male dancer,ballet dancing,gay friend",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Jamie Bell",
+      "url": "https://www.imdb.com/name/nm0068260/"
+    },
+    {
+      "name": "Julie Walters",
+      "url": "https://www.imdb.com/name/nm0910278/"
+    },
+    {
+      "name": "Jean Heywood",
+      "url": "https://www.imdb.com/name/nm0382402/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Stephen Daldry",
+      "url": "https://www.imdb.com/name/nm0197636/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lee Hall",
+      "url": "https://www.imdb.com/name/nm0355822/"
+    }
+  ]
+}

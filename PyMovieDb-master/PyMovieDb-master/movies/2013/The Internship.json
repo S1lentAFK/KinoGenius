@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Internship",
+  "url": "https://www.imdb.com/tt2234155/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM1MzczMDgwOV5BMl5BanBnXkFtZTcwMDM4NjM2OQ@@._V1_.jpg",
+  "description": "Two salesmen whose careers have been torpedoed by the digital age find their way into a coveted internship at Google, where they must compete with a group of young, tech-savvy geniuses for a shot at employment.",
+  "review": {
+    "author": "Reno-Rangan",
+    "dateCreated": "2013-11-09",
+    "inLanguage": "English",
+    "heading": "Job hunting: The old fellows vs. the young",
+    "reviewBody": "A comedy about two 70s born middle aged guys who recently lost their job due to the new culture called e-shopping. It tells how the old fellows struggling to get the jobs in todays computer world. After forced to retire from their positions as salesmen, Bill and Nick applies for an internship at Google. Now these two have to compete with the energetic, smart, young generation seeking employment who are just coming from their college graduation. With the lack of computer knowledge Bill and Nick have to successfully complete the series of tasks to get the jobs.\\n\\nKinda cool comedy from the director who gave us many fine comedy features. It was a good combo between Vince Vaughn and Owen Wilson, they were excelling in their respective roles. The lack of required knowledge in order to get the full employment at google make us to have fond on them. They really convinced us with their acting as innocence and middle aged strugglers. We can call it where the job hunting movie &apos;The Pursuit of Happiness&apos; meets fun teen &apos;American Pie&apos;.\\n\\nIt was a good comedy as well serious about getting jobs for old guys. I know it was not real, It won&apos;t happen in real life but a heartwarming drama with some good laughs. After &apos;The Social Network&apos; and &apos;jOBS&apos; we expected a movie about google and now here it is. Although it was not based on real but a fictional dramedy which can be thoroughly enjoyable.\\n\\n7.5/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 214148,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2013-07-03",
+  "keywords": "google,australian accent,product placement,professor charles xavier character,bruce lee character",
+  "duration": "PT1H59M",
+  "actor": [
+    {
+      "name": "Vince Vaughn",
+      "url": "https://www.imdb.com/name/nm0000681/"
+    },
+    {
+      "name": "Owen Wilson",
+      "url": "https://www.imdb.com/name/nm0005562/"
+    },
+    {
+      "name": "Rose Byrne",
+      "url": "https://www.imdb.com/name/nm0126284/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Shawn Levy",
+      "url": "https://www.imdb.com/name/nm0506613/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Vince Vaughn",
+      "url": "https://www.imdb.com/name/nm0000681/"
+    },
+    {
+      "name": "Jared Stern",
+      "url": "https://www.imdb.com/name/nm2972864/"
+    }
+  ]
+}

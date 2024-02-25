@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Scary Movie 3",
+  "url": "https://www.imdb.com/tt0306047/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDE2NTIyMjg2OF5BMl5BanBnXkFtZTYwNDEyMTg3._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "philip_vanderveken",
+    "dateCreated": "2005-06-07",
+    "inLanguage": "English",
+    "heading": "They're back on the right track",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 157286,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2004-01-23",
+  "keywords": "michael jackson character,horror spoof,spoof,white panties,coming out of a television",
+  "duration": "PT1H24M",
+  "actor": [
+    {
+      "name": "Anna Faris",
+      "url": "https://www.imdb.com/name/nm0267506/"
+    },
+    {
+      "name": "Charlie Sheen",
+      "url": "https://www.imdb.com/name/nm0000221/"
+    },
+    {
+      "name": "Regina Hall",
+      "url": "https://www.imdb.com/name/nm0356021/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Zucker",
+      "url": "https://www.imdb.com/name/nm0001878/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Craig Mazin",
+      "url": "https://www.imdb.com/name/nm0563301/"
+    },
+    {
+      "name": "Pat Proft",
+      "url": "https://www.imdb.com/name/nm0698493/"
+    },
+    {
+      "name": "Shawn Wayans",
+      "url": "https://www.imdb.com/name/nm0915465/"
+    }
+  ]
+}

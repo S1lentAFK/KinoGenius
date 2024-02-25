@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "Precious",
+  "url": "https://www.imdb.com/tt0929632/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjNhNDgxNzgtYTYxZS00NjIxLTk2YzYtNTFkMDIyOGI5NGU0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+  "description": "In New York City's Harlem circa 1987, an overweight, abused, illiterate teen who is pregnant with her second child is invited to enroll in an alternative school in hopes that she can re-route her life in a better direction.",
+  "review": {
+    "author": "rika-31302",
+    "dateCreated": "2017-08-09",
+    "inLanguage": "English",
+    "heading": "Very very strong",
+    "reviewBody": "This movie is the strongest and most serious movie I've ever watched. A young woman, a main character, has so many problems that I can't help covering my eyes with my hands. \n\nAfter watching it, we have to think about these problems like home problem or individual problem, race, skin color, and so on. There are actually a lot of people like her in the world. They're supposed to suffer, but they also must know there are some people supporting them around them. \n\nNot only them. Everyone in the world has to realize that we are living with each other's support. And a child can't choose his/her parents. I deeply think over that.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 115679,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2010-01-29",
+  "keywords": "lesbian couple,lesbian,f rated,self narration,mother daughter conflict",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Gabourey Sidibe",
+      "url": "https://www.imdb.com/name/nm2829737/"
+    },
+    {
+      "name": "Mo'Nique",
+      "url": "https://www.imdb.com/name/nm0594898/"
+    },
+    {
+      "name": "Paula Patton",
+      "url": "https://www.imdb.com/name/nm1745736/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lee Daniels",
+      "url": "https://www.imdb.com/name/nm0200005/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Geoffrey Fletcher",
+      "url": "https://www.imdb.com/name/nm2819316/"
+    },
+    {
+      "name": "Sapphire",
+      "url": "https://www.imdb.com/name/nm2497119/"
+    }
+  ]
+}

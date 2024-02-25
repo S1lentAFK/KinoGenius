@@ -1,0 +1,56 @@
+
+
+{
+  "type": "Movie",
+  "name": "Scenic Route",
+  "url": "https://www.imdb.com/tt16733062/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDNjZDk4MjYtYWVmNS00NjM0LTg0MzMtZjBlYTA4YTk5NmM5XkEyXkFqcGdeQXVyMTg4NDI0Mw@@._V1_.jpg",
+  "description": "College intern Jocelyn looks to find herself in everyday life but needs a bit of help from those closest to her. With guidance from her best friend, Kyra, they go on to explore possibilities.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": null,
+  "genre": [
+    "Short",
+    "Drama"
+  ],
+  "datePublished": "2021-12-24",
+  "keywords": null,
+  "duration": "PT11M",
+  "actor": [
+    {
+      "name": "Ziad Alezabi",
+      "url": "https://www.imdb.com/name/nm12225065/"
+    },
+    {
+      "name": "Cayla Berejikian",
+      "url": "https://www.imdb.com/name/nm13251810/"
+    },
+    {
+      "name": "Gabriella Capalbo",
+      "url": "https://www.imdb.com/name/nm13251812/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Grace Pula",
+      "url": "https://www.imdb.com/name/nm10781514/"
+    }
+  ],
+  "creator": []
+}

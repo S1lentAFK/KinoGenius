@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Exit Wounds",
+  "url": "https://www.imdb.com/tt0242445/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWM0NGUwMTctNzVmYi00Y2RmLTljNWUtZWI2YWFhODczMTBiXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+  "description": "Orin Boyd, a tough cop in an inner-city precinct discovers a web of dirty cops and corruption.",
+  "review": {
+    "author": "CuriosityKilledShawn",
+    "dateCreated": "2001-05-16",
+    "inLanguage": "English",
+    "heading": "Seagal proved he still had it, then flunked out again",
+    "reviewBody": "Despite Fire Down Below being a No. 1 hit in America, it went straight to video here in the UK and killed Seagal&apos;s career for four years. But then veteran action producer Joel Silver thrust Steve back in the limelight, put him on the Slimfast diet gave him slightly better material to work with. After all, an actor can only do as good as the script.\\n\\nFrom a novel of the same name by John Westerman (but bearing minimal resemblance to it) the plot centers on Orin Boyd, a cop busted down to patrolman after a rough encounter with the Vice-President. Once on the streets Boyd&apos;s suspicious nose can&apos;t keep him out of trouble with undercover cops who are trying to bust local Drug Boss Latrell Walkeror so it seems.\\n\\nThere are many attempts at irony throughout the movie and surprisingly enough most of them work. Boyd is forced to attend rage control classes in which he meets eccentric TV host Henry Wayne (Tom Arnold) who becomes his wannabe partner. But sadly enough the classes don&apos;t work as Boyd continues to uses violence first, ask questions later. And there is a public service announcement too; Seagal survives a car wreck by airbag. A later car crash victim doesn&apos;t have one and dies.\\n\\nDozens of cop movie clich\\u00e9s staple the flimsy script together. And the bad guys are obvious from the moment they appear on screen. Bartkowiak&apos;s direction is better than in his debut Romeo Must Die, and adds a heavy dose of frenetic rush to such a fast-paced film. However the set-up and execution of the story is so dull you&apos;ll forget about it half an hour after the credits roll.\\n\\nSeagal has learned a little, just a little, more in the acting area but still doesn&apos;t know how to express himself much. There&apos;s too much frowning and not enough other emotions from Boyd. We do want to feel more from him but he won&apos;t allow us. I guess this is just how Seagal is. He just can&apos;t get away from himself no matter what role he plays. I wish Seagal would try harder, but he just never bothers with making an effort.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 36757,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "2001-04-27",
+  "keywords": "drug dealer,corrupt cop,tough cop,undercover,conspiracy",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Steven Seagal",
+      "url": "https://www.imdb.com/name/nm0000219/"
+    },
+    {
+      "name": "DMX",
+      "url": "https://www.imdb.com/name/nm0229422/"
+    },
+    {
+      "name": "Isaiah Washington",
+      "url": "https://www.imdb.com/name/nm0913460/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrzej Bartkowiak",
+      "url": "https://www.imdb.com/name/nm0005647/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ed Horowitz",
+      "url": "https://www.imdb.com/name/nm0395288/"
+    },
+    {
+      "name": "Richard D&apos;Ovidio",
+      "url": "https://www.imdb.com/name/nm0006902/"
+    },
+    {
+      "name": "John Westermann",
+      "url": "https://www.imdb.com/name/nm0922685/"
+    }
+  ]
+}

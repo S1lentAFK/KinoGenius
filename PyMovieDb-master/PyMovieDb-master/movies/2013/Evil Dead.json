@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Evil Dead Rise",
+  "url": "https://www.imdb.com/tt13345606/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTRkZGE1MjItOTc2NC00YTMzLWJlZTUtNGM1ZDJmYTViMWUyXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+  "description": "A twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+  "contentRating": "18",
+  "genre": [
+    "Horror"
+  ],
+  "datePublished": "2023-04-21",
+  "keywords": "book of the dead,necronomicon,possession,chainsaw,gore",
+  "duration": "PT1H36M",
+  "rating": {
+    "ratingCount": 132873,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "review": {
+    "author": "ykjdh",
+    "dateCreated": "2023-04-18",
+    "inLanguage": "English",
+    "heading": "You get exactly what you pay for",
+    "reviewBody": "Fans of the evil dead movies will love everything about this one. There's blood and gore along with some scary stuff thrown in there to creep you out.\n\nI was a little bummed though there's still no Ash in this one but I still enjoyed it.\n\nThe evil dead movies have left the woods and bring their bloodthirsty spirits to Los Angeles in an apartment building where a woman is raising her kids alone. One of the kids finds the book of the dead and decides messing around with it is a good idea. Enter the younger sister of the single mom who plays pretty much the go between trying to hold the family together once the kid finds out things should be left alone for a reason.\n\nThere's some good, gooey make up effects and some thrills here. You've seen it all before but even fans of 1986's Dario Argento's Demons movies might even recognize a little homage here. Anyhow, you get your money's worth here but for originality I recommend Nefarious instead. Still, this is a bloody (literally) good time.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Mirabai Pease",
+      "url": "https://www.imdb.com/name/nm5685676/"
+    },
+    {
+      "name": "Richard Crouchley",
+      "url": "https://www.imdb.com/name/nm11156289/"
+    },
+    {
+      "name": "Anna-Maree Thomas",
+      "url": "https://www.imdb.com/name/nm8609147/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lee Cronin",
+      "url": "https://www.imdb.com/name/nm2091846/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lee Cronin",
+      "url": "https://www.imdb.com/name/nm2091846/"
+    }
+  ]
+}

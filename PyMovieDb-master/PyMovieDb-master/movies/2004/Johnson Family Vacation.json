@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "Johnson Family Vacation",
+  "url": "https://www.imdb.com/tt0359517/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0Njc1MTIyM15BMl5BanBnXkFtZTcwNDMxMjUyMQ@@._V1_.jpg",
+  "description": "Buckle up for the wildest road trip of the year. A comedy adventure about a misfit family trying to survive outrageous obstacles (including one another) on a cross-country trek to their annual family reunion.",
+  "contentRating": "12A",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2004-04-07",
+  "keywords": "family character name in title,slimehouse,reference to a zodiac sign,astrology,reference to astrology",
+  "duration": "PT1H37M",
+  "rating": {
+    "ratingCount": 8347,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.5
+  },
+  "review": {
+    "author": "jsimon050",
+    "dateCreated": "2004-04-15",
+    "inLanguage": "English",
+    "heading": "Should have been better",
+    "reviewBody": "This movie should have been funnier. So many things made no sense like why Cedric insisted on talking with that ridiculous accent and why Steve Harvey refused to be funny. As a black man, I am so disappointed when a black movie just sucks.\\n\\nIt was a good kid movie, though, because kids don&apos;t care.\\n\\nThe Griswald family&apos;s first vacation is the standard for all vacation movies. However, it is not as kid friendly as Johnson Family Vacation. The hot tub scene with the 4 big girls was just begging for funny. Hitler could have gotten more laughs in that scene. Vanessa Williams could not possibly be any more beautiful, though. It was almost worth the price of admission to see her, but not quite.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "actor": [
+    {
+      "name": "Cedric The Entertainer",
+      "url": "https://www.imdb.com/name/nm0147825/"
+    },
+    {
+      "name": "Shannon Elizabeth",
+      "url": "https://www.imdb.com/name/nm0002436/"
+    },
+    {
+      "name": "Shad Moss",
+      "url": "https://www.imdb.com/name/nm0510168/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Christopher Erskin",
+      "url": "https://www.imdb.com/name/nm1348558/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Todd R. Jones",
+      "url": "https://www.imdb.com/name/nm5333675/"
+    },
+    {
+      "name": "Earl Richey Jones",
+      "url": "https://www.imdb.com/name/nm0427993/"
+    }
+  ]
+}

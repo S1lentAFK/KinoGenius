@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Delirious",
+  "url": "https://www.imdb.com/tt0101701/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA0NTcwMjAwMzdeQTJeQWpwZ15BbWU3MDg4MTA4MzQ@._V1_.jpg",
+  "description": "A soap opera writer gets hit on the head and wakes up as a character in his own show.",
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "datePublished": "1991-08-23",
+  "keywords": "car accident,hospital,vinyl record,breaking a vinyl record,record collector",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "John Candy",
+      "url": "https://www.imdb.com/name/nm0001006/"
+    },
+    {
+      "name": "Mariel Hemingway",
+      "url": "https://www.imdb.com/name/nm0000446/"
+    },
+    {
+      "name": "Emma Samms",
+      "url": "https://www.imdb.com/name/nm0759924/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tom Mankiewicz",
+      "url": "https://www.imdb.com/name/nm0542539/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lawrence J. Cohen",
+      "url": "https://www.imdb.com/name/nm0169549/"
+    },
+    {
+      "name": "Fred Freeman",
+      "url": "https://www.imdb.com/name/nm0293391/"
+    }
+  ],
+  "review": {
+    "author": "HelenMary",
+    "dateCreated": "2013-05-18",
+    "inLanguage": "English",
+    "heading": "Soap Opera fantasy/spoof - typical John Candy comedy but not his best",
+    "reviewBody": "Slightly along the lines of My Aunt Julia and the Scriptwriter but the other way around and with fantasy rather than contrivance, with similar comedy and cheesy soap opera acting/story lines. It's silly, ridiculous but typical of soap opera shenanigans and it's quite a good spoof in that regard. John Candy is typical John Candy and everyone else is over-the-top, including Robert Wagner as himself and Raymond Burr in a comedic role, and Jerry Orbach too! \n\nDelirious is a crazy romp set in a fantasy town created by a lovesick soap opera scriptwriter. In a concussion-induced delirium Jack Gable (Candy) thinks he's inside his own soap opera and uses his writing to make himself into a dashing hero. It's Hollywood schmaltz but rather enjoyable and good for silly giggles. Lots of silly stunts (pretty impressive horsemanship) but shockingly bad sound/dubbing and there's lots of holes in the production. Overall a nice rainy afternoon watch. Wouldn't recommend it or necessarily watch it again although I really like John Candy, however, this was by no means Uncle Buck.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 9446,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  }
+}

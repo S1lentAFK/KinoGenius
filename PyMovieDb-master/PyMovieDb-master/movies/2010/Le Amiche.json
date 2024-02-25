@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "Le amiche",
+  "url": "https://www.imdb.com/tt0047821/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDE0YzhmMmItMzFmYS00YmFmLWIwMWMtYTUwMjIxZmJmZjdjXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "DICK STEEL",
+    "dateCreated": "2008-06-28",
+    "inLanguage": "English",
+    "heading": "A Nutshell Review: Le Amiche",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 3366,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "1957-02-08",
+  "keywords": "italy,rome italy,cowritten by director,chapter headings,self realization",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Eleonora Rossi Drago",
+      "url": "https://www.imdb.com/name/nm0744103/"
+    },
+    {
+      "name": "Gabriele Ferzetti",
+      "url": "https://www.imdb.com/name/nm0275213/"
+    },
+    {
+      "name": "Franco Fabrizi",
+      "url": "https://www.imdb.com/name/nm0264770/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michelangelo Antonioni",
+      "url": "https://www.imdb.com/name/nm0000774/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Cesare Pavese",
+      "url": "https://www.imdb.com/name/nm0667610/"
+    },
+    {
+      "name": "Suso Cecchi D&apos;Amico",
+      "url": "https://www.imdb.com/name/nm0147599/"
+    },
+    {
+      "name": "Michelangelo Antonioni",
+      "url": "https://www.imdb.com/name/nm0000774/"
+    }
+  ]
+}

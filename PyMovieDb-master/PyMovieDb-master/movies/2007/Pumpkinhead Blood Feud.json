@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Pumpkinhead II: Blood Wings",
+  "url": "https://www.imdb.com/tt0110913/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0M2E5ZmUtOWEzOS00ODllLWE0MzMtY2VkOWNkMGNiN2ZlXkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "insomniac_rod",
+    "dateCreated": "2006-08-01",
+    "inLanguage": "English",
+    "heading": "Attack of the not necessary sequels!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 5157,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.6
+  },
+  "contentRating": "18",
+  "genre": [
+    "Fantasy",
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "1994-03-16",
+  "keywords": "revenge,monster,sympathetic monster,vengeance,sex scene",
+  "duration": "PT1H24M",
+  "actor": [
+    {
+      "name": "Andrew Robinson",
+      "url": "https://www.imdb.com/name/nm0732367/"
+    },
+    {
+      "name": "Ami Dolenz",
+      "url": "https://www.imdb.com/name/nm0000371/"
+    },
+    {
+      "name": "Soleil Moon Frye",
+      "url": "https://www.imdb.com/name/nm0004941/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeff Burr",
+      "url": "https://www.imdb.com/name/nm0123009/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ivan Chachornia",
+      "url": "https://www.imdb.com/name/nm0149378/"
+    },
+    {
+      "name": "Constantine Chachornia",
+      "url": "https://www.imdb.com/name/nm0149377/"
+    },
+    {
+      "name": "Andrew Osborne",
+      "url": "https://www.imdb.com/name/nm0651608/"
+    }
+  ]
+}

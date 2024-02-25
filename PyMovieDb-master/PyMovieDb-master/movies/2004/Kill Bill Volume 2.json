@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Kill Bill: Vol. 2",
+  "url": "https://www.imdb.com/tt0378194/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmFiYmJmN2QtNWQwMi00MzliLThiOWMtZjQxNGRhZTQ1MjgyXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "slokes",
+    "dateCreated": "2004-09-24",
+    "inLanguage": "English",
+    "heading": "The Better Half",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 798161,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "2004-04-23",
+  "keywords": "female assassin,martial arts master,revenge,wedding chapel,vigilante",
+  "duration": "PT2H17M",
+  "actor": [
+    {
+      "name": "Uma Thurman",
+      "url": "https://www.imdb.com/name/nm0000235/"
+    },
+    {
+      "name": "David Carradine",
+      "url": "https://www.imdb.com/name/nm0001016/"
+    },
+    {
+      "name": "Michael Madsen",
+      "url": "https://www.imdb.com/name/nm0000514/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Quentin Tarantino",
+      "url": "https://www.imdb.com/name/nm0000233/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Quentin Tarantino",
+      "url": "https://www.imdb.com/name/nm0000233/"
+    },
+    {
+      "name": "Uma Thurman",
+      "url": "https://www.imdb.com/name/nm0000235/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Into the Arms of Strangers: Stories of the Kindertransport",
+  "url": "https://www.imdb.com/tt0248912/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmY4OTVmNTYtMTRkZi00MDBiLTlmODUtOGM5ZDdkM2E5M2Q4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": "The secret smuggling of 9,300 Jewish children out of Nazi Germany in the late 1930s.",
+  "review": {
+    "author": "johnny-143",
+    "dateCreated": "2001-06-28",
+    "inLanguage": "English",
+    "heading": "Terribly beautiful.",
+    "reviewBody": "This is a film that must be seen by your entire family. True, it's very disturbing, but it's one of the best films ever made about the horrors of war. Beautifully made, touching and moving, this is just a marvel. It should be shown every year on national television, to make sure that people never forget. Technically a marvel, there is not one thing wrong with this film, other than the fact that people haven't seen it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 1943,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Documentary",
+    "History",
+    "War"
+  ],
+  "datePublished": "2000-11-24",
+  "keywords": "national film registry,memory,secret,children,england",
+  "duration": "PT2H2M",
+  "actor": [
+    {
+      "name": "Judi Dench",
+      "url": "https://www.imdb.com/name/nm0001132/"
+    },
+    {
+      "name": "Lory Cahn",
+      "url": "https://www.imdb.com/name/nm1049634/"
+    },
+    {
+      "name": "Kurt Fuchel",
+      "url": "https://www.imdb.com/name/nm0297161/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mark Jonathan Harris",
+      "url": "https://www.imdb.com/name/nm0365057/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Jonathan Harris",
+      "url": "https://www.imdb.com/name/nm0365057/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Next Friday",
+  "url": "https://www.imdb.com/tt0195945/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTg4NTkzMDEtM2MzOS00MDE1LWJmYWItYzdiMGRiNTdmZmFkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+  "description": "A streetwise man flees South Central Los Angeles, heading to the suburbs and his lottery-winner uncle and cousin, to avoid a neighborhood thug with a grudge who has just escaped from prison.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2000-03-10",
+  "keywords": [
+    "two word title",
+    "day in title",
+    "moving in",
+    "neighbor",
+    "record store"
+  ],
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Ice Cube",
+      "url": "https://www.imdb.com/name/nm0001084/"
+    },
+    {
+      "name": "Mike Epps",
+      "url": "https://www.imdb.com/name/nm0258402/"
+    },
+    {
+      "name": "Justin Pierce",
+      "url": "https://www.imdb.com/name/nm0682399/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steve Carr",
+      "url": "https://www.imdb.com/name/nm0139867/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ice Cube",
+      "url": "https://www.imdb.com/name/nm0001084/"
+    },
+    {
+      "name": "DJ Pooh",
+      "url": "https://www.imdb.com/name/nm0690770/"
+    }
+  ],
+  "review": {
+    "author": "drpainters",
+    "dateCreated": "2020-04-20",
+    "inLanguage": "English",
+    "heading": "It's okay sequel",
+    "reviewBody": "Decent enough to watch but a step down from the original. Some of the new characters just aren't as good, would of been better if they had kept in same neighborhood.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 43770,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  }
+}

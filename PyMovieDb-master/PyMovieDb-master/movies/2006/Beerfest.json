@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Beerfest",
+  "url": "https://www.imdb.com/tt0486551/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI4NzYyMDE0OF5BMl5BanBnXkFtZTcwOTIzODczMw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Pigman44",
+    "dateCreated": "2006-08-26",
+    "inLanguage": "English",
+    "heading": "I just don't understand...",
+    "reviewBody": "Let me start by saying that I loved Super Troopers. Club Dread on the other hand was not one of my favorites. So i was hoping that this would be better than Club Dread but I did not think it could even compare to Super Troopers. But was i wrong. This movie was absolutely hilarious.\n\nI just don't understand why people are giving it terrible reviews. It was the funniest movie I have seen in theatres in a long time(as well as Clerks II). I understand the lack of plot but who says lets go see Beerfest, it will probably be a great epic? I went to see people drink beer, get wasted and do stupid things and thats exactly what I got.\n\nI laughed from the beginning to the end of the movie, there was not a dull moment in the whole thing. And when the American team was competing against the other countries, I was cheering as if i was watching a real professional sport.\n\nSo, if you are looking for a good laugh and an all around good time go see Beerfest you will not be disappointed.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 71152,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "18",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2006-09-08",
+  "keywords": "beer,oktoberfest,prostitute,fight,flashing breasts",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Jay Chandrasekhar",
+      "url": "https://www.imdb.com/name/nm0151540/"
+    },
+    {
+      "name": "Kevin Heffernan",
+      "url": "https://www.imdb.com/name/nm0373571/"
+    },
+    {
+      "name": "Steve Lemme",
+      "url": "https://www.imdb.com/name/nm0501399/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jay Chandrasekhar",
+      "url": "https://www.imdb.com/name/nm0151540/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jay Chandrasekhar",
+      "url": "https://www.imdb.com/name/nm0151540/"
+    },
+    {
+      "name": "Kevin Heffernan",
+      "url": "https://www.imdb.com/name/nm0373571/"
+    },
+    {
+      "name": "Steve Lemme",
+      "url": "https://www.imdb.com/name/nm0501399/"
+    }
+  ]
+}

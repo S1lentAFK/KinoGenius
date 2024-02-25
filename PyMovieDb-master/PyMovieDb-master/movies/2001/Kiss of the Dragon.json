@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "Kiss of the Dragon",
+  "url": "https://www.imdb.com/tt0271027/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzM0ZDIxNDYtZDJjMy00NTc5LWIyMTgtMzBhNGRiZTU0ZmRjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A betrayed intelligence officer enlists the aid of a prostitute to prove his innocence from a deadly conspiracy while returning a favor to her.",
+  "datePublished": "2001-11-09",
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "duration": "PT1H38M",
+  "keywords": [
+    "action hero",
+    "title spoken by character",
+    "france",
+    "child in jeopardy",
+    "woman on top"
+  ],
+  "actors": [
+    {
+      "name": "Jet Li",
+      "url": "https://www.imdb.com/name/nm0001472/"
+    },
+    {
+      "name": "Bridget Fonda",
+      "url": "https://www.imdb.com/name/nm0000403/"
+    },
+    {
+      "name": "Tch\\u00e9ky Karyo",
+      "url": "https://www.imdb.com/name/nm0001409/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chris Nahon",
+      "url": "https://www.imdb.com/name/nm0619599/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jet Li",
+      "url": "https://www.imdb.com/name/nm0001472/"
+    },
+    {
+      "name": "Luc Besson",
+      "url": "https://www.imdb.com/name/nm0000108/"
+    },
+    {
+      "name": "Robert Mark Kamen",
+      "url": "https://www.imdb.com/name/nm0436543/"
+    }
+  ],
+  "review": {
+    "author": "dworldeater",
+    "dateCreated": "2020-09-12",
+    "inLanguage": "English",
+    "heading": "One of Jet Li's better English language vehicles",
+    "reviewBody": "I just watched Kiss Of The Dragon after not watching this for decades. I have a slightly better opinion of it than I had originally. Granted for story or character development, Kiss Of The Dragon falls a bit flat. However, this gets an A+ for action and it still is a step up and a better movie than Romeo Must Die. Jet Li is in top form here and he showcases his fighting skills well to western audiences with Kiss Of The Dragon. Corey Yuen does a fantastic job at putting together these elaborate and highly entertaining fight sequences together that are mostly devoid of wirework or CGI. The movie as a whole is fairly predictable with some pretty lame villains and heavies. However, the tone of the film is very serious and Jet has great screen presence and charisma to carry this. To say this pales to measure up to most of his (until more recent work) in Chinese cinema may be true. But this is far from his worst. The fights and action are worth the price of admission and make it easy to overlook the film's flaws.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 66325,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  }
+}

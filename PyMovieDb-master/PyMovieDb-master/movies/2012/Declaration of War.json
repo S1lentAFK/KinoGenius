@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "La guerre est d\u00e9clar\u00e9e",
+  "url": "https://www.imdb.com/tt1931470/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU1NjI1Mjg3Ml5BMl5BanBnXkFtZTcwMDk0ODAxNw@@._V1_.jpg",
+  "description": "When their young son is diagnosed with a brain tumor, young parents Rom\u00e9o and Juliette unite in the fight for his survival.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2016-10-13",
+    "inLanguage": "English",
+    "heading": "simply life",
+    "reviewBody": "Rom\u00e9o and Juliette are young actors in Paris. They meet at a club, and fall in love. He has a single mom living with her girlfriend. She has a middle of the road family. The couple has baby Adam but they notice that something is wrong. The doctors eventually discover that he has a brain tumor. They are devastated and they struggle through the difficult situation.\\n\\nFor all the personal drama, there isn't as much tension as one expects. It isn't melodramatic but there are a couple of incidences where the actors feel like overacting. The drama is never that dramatic but it is a great little slice of life. There is no medical breakthrough or large world implication. The couple isn't doing anything over the top. It's simply life poured onto the big screen.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 5299,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2011-08-31",
+  "keywords": [
+    "chemotherapy",
+    "child with cancer",
+    "cancer treatment",
+    "desperately ill child",
+    "child development"
+  ],
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Val\u00e9rie Donzelli",
+      "url": "https://www.imdb.com/name/nm0233123/"
+    },
+    {
+      "name": "J\u00e9r\u00e9mie Elka\u00efm",
+      "url": "https://www.imdb.com/name/nm0005599/"
+    },
+    {
+      "name": "C\u00e9sar Desseix",
+      "url": "https://www.imdb.com/name/nm4458352/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Val\u00e9rie Donzelli",
+      "url": "https://www.imdb.com/name/nm0233123/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Val\u00e9rie Donzelli",
+      "url": "https://www.imdb.com/name/nm0233123/"
+    },
+    {
+      "name": "J\u00e9r\u00e9mie Elka\u00efm",
+      "url": "https://www.imdb.com/name/nm0005599/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Seeking a Friend for the End of the World",
+  "url": "https://www.imdb.com/tt1307068/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk4MDQ1NzE3N15BMl5BanBnXkFtZTcwMjA0MDkzNw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "paul_haakonsen",
+    "dateCreated": "2012-10-13",
+    "inLanguage": "English",
+    "heading": "Brace yourself for impact...",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 118409,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2012-07-13",
+  "keywords": "end of the world,title directed by female,long title,asteroid,road trip",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Steve Carell",
+      "url": "https://www.imdb.com/name/nm0136797/"
+    },
+    {
+      "name": "Keira Knightley",
+      "url": "https://www.imdb.com/name/nm0461136/"
+    },
+    {
+      "name": "Melanie Lynskey",
+      "url": "https://www.imdb.com/name/nm0001491/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lorene Scafaria",
+      "url": "https://www.imdb.com/name/nm1032521/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lorene Scafaria",
+      "url": "https://www.imdb.com/name/nm1032521/"
+    }
+  ]
+}

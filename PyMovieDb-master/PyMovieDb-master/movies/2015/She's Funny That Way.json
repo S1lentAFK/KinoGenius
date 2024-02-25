@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "She's Funny That Way",
+  "url": "https://www.imdb.com/tt1767372/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODEyMjYzMjY5Ml5BMl5BanBnXkFtZTgwMjYyODQyNjE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "afallguns",
+    "dateCreated": "2015-08-08",
+    "inLanguage": "English",
+    "heading": "The movie, the cast and the lovely Imogen Poots... They're all funny that way",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 28623,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2015-06-26",
+  "keywords": "theater actor,actress,theater director,escort girl,call girl",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Imogen Poots",
+      "url": "https://www.imdb.com/name/nm1782299/"
+    },
+    {
+      "name": "Owen Wilson",
+      "url": "https://www.imdb.com/name/nm0005562/"
+    },
+    {
+      "name": "Jennifer Aniston",
+      "url": "https://www.imdb.com/name/nm0000098/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Peter Bogdanovich",
+      "url": "https://www.imdb.com/name/nm0000953/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Louise Stratten",
+      "url": "https://www.imdb.com/name/nm0091673/"
+    },
+    {
+      "name": "Peter Bogdanovich",
+      "url": "https://www.imdb.com/name/nm0000953/"
+    }
+  ]
+}

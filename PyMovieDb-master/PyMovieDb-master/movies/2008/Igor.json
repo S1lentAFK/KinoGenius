@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "Igor",
+  "url": "https://www.imdb.com/tt0465502/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY2OTMzMjQ3Ml5BMl5BanBnXkFtZTcwNDUxMTE3MQ@@._V1_.jpg",
+  "description": "Animated fable about a clich\u00e9 hunchbacked evil scientist's assistant who aspires to become a scientist himself, much to the displeasure of the rest of the evil science community.",
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2008-10-17",
+  "keywords": "steampunk,character name as title,dna,scientist,welding mask",
+  "duration": "PT1H27M",
+  "rating": {
+    "ratingCount": 24251,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "review": {
+    "author": "madmaxmedia",
+    "dateCreated": "2008-09-21",
+    "inLanguage": "English",
+    "heading": "Twisted fun (more fun than most kid's movies), and just a little coco-nutty!",
+    "reviewBody": "I took my daughters (7 and 3) to see this movie today, knowing absolutely nothing other than seeing about 5 seconds of a TV commercial. I am normally relatively picky about what my kids see, but decided to join a friend who was going anyway. Plus my daughter loves Tim Burton, and this was at least stylistically similar.\n\nI thought this movie had a cool twisted sense of humor, and much more original than the typical warmed over rehashes we normally get from a lower-budget CGI flick. And guess what- not a single fart joke! That alone means it meets my very low expectations for what passes as children's entertainment these days. Unofortunately, I think it is a little too off- kilter for most, thus the small marketing budget as well.\n\nA nice little take on the classic Shelley Frankenstein tale. Not sure why the accusations of Nightmare Before Christmas rip-off, Frankenstein was obviously the source material for this story. Which is a very good thing in my opinion. Me and my daughters liked it a lot.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 24251,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "actor": [
+    {
+      "name": "John Cusack",
+      "url": "https://www.imdb.com/name/nm0000131/"
+    },
+    {
+      "name": "Molly Shannon",
+      "url": "https://www.imdb.com/name/nm0788340/"
+    },
+    {
+      "name": "Steve Buscemi",
+      "url": "https://www.imdb.com/name/nm0000114/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tony Leondis",
+      "url": "https://www.imdb.com/name/nm1902232/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Chris McKenna",
+      "url": "https://www.imdb.com/name/nm0571344/"
+    },
+    {
+      "name": "Tony Leondis",
+      "url": "https://www.imdb.com/name/nm1902232/"
+    },
+    {
+      "name": "John Hoffman",
+      "url": "https://www.imdb.com/name/nm0388971/"
+    }
+  ]
+}

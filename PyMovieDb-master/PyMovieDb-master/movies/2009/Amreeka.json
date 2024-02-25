@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Amreeka",
+  "url": "https://www.imdb.com/tt1190858/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc2NTU0MDA0M15BMl5BanBnXkFtZTcwOTg1OTA4Mg@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "karterskreations",
+    "dateCreated": "2011-03-24",
+    "inLanguage": "English",
+    "heading": "A Close-Up of the Racism & Sexism Reality Anywhere in the World!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 3680,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2011-05-13",
+  "keywords": "female director,fast food employee,mother,town,son",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Nisreen Faour",
+      "url": "https://www.imdb.com/name/nm2992228/"
+    },
+    {
+      "name": "Melkar Muallem",
+      "url": "https://www.imdb.com/name/nm2992182/"
+    },
+    {
+      "name": "Hiam Abbass",
+      "url": "https://www.imdb.com/name/nm0007814/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Cherien Dabis",
+      "url": "https://www.imdb.com/name/nm1435062/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Cherien Dabis",
+      "url": "https://www.imdb.com/name/nm1435062/"
+    }
+  ]
+}

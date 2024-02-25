@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "My Cousin Rachel",
+  "url": "https://www.imdb.com/tt4411596/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzY0YTFlNjMtNDk5MS00MmIxLWJkNjYtZWQwYzk5NjZkZTc1XkEyXkFqcGdeQXVyNDcxNzU3MTE@._V1_.jpg",
+  "description": "A young Englishman plots revenge against his late cousin&apos;s mysterious, beautiful wife, believing her responsible for his death. But his feelings become complicated as he finds himself falling under the beguiling spell of her charms.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2018-02-10",
+    "inLanguage": "English",
+    "heading": "maddening character",
+    "reviewBody": "Poor orphan Philip (Sam Claflin) was taken in and raised by his rich cousin Ambrose. Ambrose is sent to Italy for the sun by his doctors and he marries his cousin Rachel Ashley (Rachel Weisz). Philip receives a hidden message begging for help but Ambrose is dead by the time he arrives. He suspects Rachel of foul play but soon falls head over heals for her. Despite his godfather Kendall (Iain Glen)&apos;s protest, he gives the family estate over to her. Louise (Holliday Grainger) is Kendall&apos;s daughter.\n\nPhilip is an infuriating character. I would believe it if the story writes in a love potion from Rachel. He is a crazy concoction of reckless naivety, puppy love, and jealousy. He is a maddening character as the protagonist. It&apos;s well acted but they are not an appealing couple. It is beautifully filmed. It&apos;s a maddening tale of human fallibility.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 20804,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "datePublished": "2017-06-09",
+  "keywords": "suspicion,first love,coming of age,obsession,suspicion of poisoning",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Rachel Weisz",
+      "url": "https://www.imdb.com/name/nm0001838/"
+    },
+    {
+      "name": "Sam Claflin",
+      "url": "https://www.imdb.com/name/nm3510471/"
+    },
+    {
+      "name": "Holliday Grainger",
+      "url": "https://www.imdb.com/name/nm0334441/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Roger Michell",
+      "url": "https://www.imdb.com/name/nm0585011/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Roger Michell",
+      "url": "https://www.imdb.com/name/nm0585011/"
+    },
+    {
+      "name": "Daphne Du Maurier",
+      "url": "https://www.imdb.com/name/nm0238898/"
+    }
+  ]
+}

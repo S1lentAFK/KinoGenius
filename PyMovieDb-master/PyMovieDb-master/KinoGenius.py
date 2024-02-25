@@ -1,6 +1,8 @@
 import re
 import tkinter as tk
 from tkinter import messagebox, ttk
+
+import PIL
 import requests
 import json
 import os
@@ -12,14 +14,19 @@ import requests
 from io import BytesIO
 from googletrans import Translator
 from PIL import ImageDraw
+from openai import OpenAI
+
 
 from pymongo import MongoClient
 import webbrowser
+
+import datetime
 
 from fuzzywuzzy import fuzz
 from tkinter import filedialog
 prikaz = False
 
+username_user = ""
 ct = 0
 
 client = MongoClient("mongodb+srv://francesljas:Fran2008.@cluster0.zadaprp.mongodb.net/?retryWrites=true&w=majority")
@@ -27,11 +34,15 @@ db = client['DBMoovies']
 moovies = db['Moovies']
 
 base_path = r'movies'
-years = ['2018', '2019', '2020', '2021', '2022', '2023']
+years = ['2000','2001','2002','2003','2004','2005','2006','2007','2008','2009','2010','2011','2012','2013','2014',
+         '2015','2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023']
 directories = [os.path.join(base_path, year) for year in years]
+
+client = OpenAI(api_key='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')
 
 selected_genres = []
 genre_buttons = {}
+recommended = []
 
 
 def destroy_all_windows_and_exit():
@@ -60,9 +71,11 @@ def save_user_info(username, password, genres):
         json.dump(user_info, user_file)
 
 def login():
+    global username_user
     username = entry_username.get()
     password = entry_password.get()
 
+    username_user = username
 
     response = requests.post("http://16.170.246.163/login", json={"username": username, "password": password})
 
@@ -90,9 +103,12 @@ def login():
         print(response.content)
 
 def poslogin():
+    global username_user
+    root3.withdraw()
     username = entry_username2.get()
     password = entry_password2.get()
 
+    username_user = username
 
     response = requests.post("http://16.170.246.163/login", json={"username": username, "password": password})
 
@@ -122,11 +138,14 @@ def preregister():
     frmlog.pack_forget()
     frmreg.pack()
 def register():
+    global username_user
     frmlog.pack_forget()
     frmreg.pack()
 
     username = entry_username2.get()
     password = entry_password2.get()
+
+    username_user = username
 
     loginreg.withdraw()
 
@@ -143,6 +162,7 @@ def register():
         messagebox.showinfo("Registration Successful", "You can now login.")
         print("3")
         poslogin()
+        root3.deiconify()
     else:
         messagebox.showerror("Registration Failed", "Username already exists or an error occurred")
 
@@ -249,7 +269,17 @@ class MovieRecommendationsWidget(customtkinter.CTkFrame):
         Image.MAX_IMAGE_PIXELS = 200000000000
 
         response = requests.get(movie_poster_url)
-        poster_image = Image.open(BytesIO(response.content))
+        try:
+            poster_image = Image.open(BytesIO(response.content))
+        except PIL.UnidentifiedImageError:
+            if movie_name == "12 Angry Men":
+                poster_image = Image.open("Assets/Images/Miscellaneous/12 Angry Men.jpg")
+            elif movie_name == "Skyfall":
+                poster_image = Image.open("Assets/Images/Miscellaneous/Skyfall.jpg")
+            elif movie_name == "The Lord of the Rings: The Fellowship of the Ring":
+                poster_image = Image.open("Assets/Images/Miscellaneous/Lord-of-the-rings.jpg")
+            else:
+                poster_image = Image.open("Assets/Images/Miscellaneous/unknown.png")
 
         poster_image = self.round_corners(poster_image, radius=60)
 
@@ -288,7 +318,6 @@ class MovieRecommendationsWidget(customtkinter.CTkFrame):
 
             customtkinter.CTkLabel(secondary_frame, text="Glumci:", font=("Roboto", 12, "bold")).pack(padx=1, pady=1)
 
-            # Iterate through each actor and create a label with a link
             for actor, url in zip(movie_actors.split(", "), urls_actors):
                 actor_label = customtkinter.CTkLabel(secondary_frame, text=actor, font=("Roboto", 12), text_color="#1F538D")
                 actor_label.pack()
@@ -308,7 +337,10 @@ class MovieRecommendationsWidget(customtkinter.CTkFrame):
             customtkinter.CTkLabel(full_frame, text="Opis:", font=("Roboto", 14, "bold")).pack(padx=5, pady=5)
             description_textbox = customtkinter.CTkTextbox(full_frame, font=("Roboto", 14), height=80, wrap="word")
             description_textbox.pack(padx=15, pady=5, fill="x")
-            description_textbox.insert("0.0", translator.translate(movie_description, src="en", dest="hr").text)
+            if movie_description == "Unknown":
+                description_textbox.insert("0.0", get_description(movie_name))
+            else:
+                description_textbox.insert("0.0", translator.translate(movie_description, src="en", dest="hr").text)
             description_textbox.configure(state="disabled")
             secondary_full_frame = customtkinter.CTkFrame(full_frame)
             secondary_full_frame.pack(padx=15, pady=15, fill="x")
@@ -390,7 +422,6 @@ class MovieRecommendationsWidget(customtkinter.CTkFrame):
                 nme = customtkinter.CTkLabel(recommend_frame, text=nm)
                 nme.grid(row=1, column=temp_col_mov, padx=5, pady=5)
                 temp_col_mov += 1
-
             def open_link():
                 webbrowser.open()
 
@@ -405,7 +436,21 @@ class MovieRecommendationsWidget(customtkinter.CTkFrame):
 
             check()
 
+        def get_description(movie_name):
+            description_prompt = f"Opiši mi navedeni film na hrvatskom jeziku i u dvije rečenice: {movie_name}"
 
+            description_response = client.chat.completions.create(
+                model="gpt-3.5-turbo",
+                messages=[
+                    {
+                        'role': 'user',
+                        'content': f'{description_prompt}'
+                    }
+                ]
+            )
+
+            description = description_response.choices[0].message.content
+            return description
 
         ct = 1
         recommendation_label = customtkinter.CTkLabel(self, text=movie_name, font=("Roboto", 24, "bold"))
@@ -422,25 +467,16 @@ class MovieRecommendationsWidget(customtkinter.CTkFrame):
         customtkinter.CTkLabel(info_frame, text="Žanrovi:", font=("Roboto", 24, "bold")).pack(pady=5)
         genre_label = customtkinter.CTkLabel(info_frame, text=movie_genres, font=("Roboto", 24))
         genre_label.pack(pady=5, padx=5)
-        # Assuming you want the progress bar width to be 200 pixels
         customtkinter.CTkLabel(info_frame, text="Ocjena:", font=("Roboto", 24)).pack(side="left", pady=5, padx=5)
         progressbar = customtkinter.CTkProgressBar(info_frame)
         progressbar.pack(side="left", pady=5, padx=5)
-        info_frame.columnconfigure(0, weight=1)  # Make the first column expand to fill the available space
+        info_frame.columnconfigure(0, weight=1)
         progressbar.set(movie_rating)
         customtkinter.CTkLabel(info_frame, text=f"{int(round(movie_rating*100, 2))}%/100%", font=("Roboto", 24)).pack(side="left", pady=5, padx=5)
-
-        #customtkinter.CTkLabel(info_frame, text="Istaknuti glumci:", font=("Roboto", 24, "bold")).grid(row=1, column=0, padx=5, pady=5)
-        #for actor in movie_actors.split(", "):
-            #customtkinter.CTkLabel(info_frame, text=actor, font=("Roboto", 18)).grid(row=ct, column=1, padx=5, pady=5)
-            #ct += 1
         button = customtkinter.CTkButton(recommendation_frame, text="Pogledaj\nviše", command=show_details)
         button.pack(side="right", fill="y", padx=10, pady=10)
 
-        self.right_click_menu = tk.Menu(recommendation_frame, tearoff=0)
-        self.right_click_menu.add_command(label="Show Another Recommendation", command=lambda: self.show_another_recommendation(movie_genres))
-
-        self.bind("<Button-3>", self.show_right_click_menu)
+        recommended.append(movie_name)
 
 
 
@@ -452,33 +488,19 @@ class MovieRecommendationsWidget(customtkinter.CTkFrame):
         result.paste(image, (0, 0), mask)
         return result
 
-    def show_another_recommendation(self, genres):
-        # Call the recommend_more_movies function with the genres argument
-        recommend_more_movies(genres)
-        print("Showing another recommendation...")
-
-    def show_right_click_menu(self, event):
-        self.right_click_menu.post(event.x_root, event.y_root)
-
-    offset = 0
-
-    def recommend_more_movies(genres):
-        global offset
-        offset += 5
-        recommend_movies_and_display(genres, offset=offset)
-
-
-
-
 def recommend_movies_and_display(user_genres, offset=0, count=5):
     all_movies = load_movies()
     matching_movies = [movie for movie in all_movies if any(genre in movie["genre"] for genre in user_genres)]
     sorted_movies = sorted(matching_movies, key=lambda x: x["rating"]["ratingValue"] if x["rating"]["ratingValue"] is not None else 0, reverse=True)
     top_movies = sorted_movies[offset:offset+count]
+    print(top_movies)
 
     for movie in top_movies:
-        movie_recommendations_widget = MovieRecommendationsWidget(movie_frame, movie)
-        movie_recommendations_widget.pack(fill="both", expand=True, pady=12, padx=15)
+        if movie["name"] in recommended:
+            pass
+        else:
+            movie_recommendations_widget = MovieRecommendationsWidget(movie_frame, movie)
+            movie_recommendations_widget.pack(fill="both", expand=True, pady=12, padx=15)
 
 def recommend_movies(user_genres):
     recommend_movies_and_display(user_genres)
@@ -495,49 +517,42 @@ def search_movies(query):
     results = moovies.find({"name": {"$regex": query, "$options": "i"}})
     return list(results)
 
-
+search_treeview = None
 def display_search_results(results):
-    # Destroy any existing widgets in the search frame
-    for widget in search_frame.winfo_children():
-        widget.destroy()
+    global search_treeview
 
-    # Create a Treeview widget to display search results
-    tree = ttk.Treeview(search_frame, columns=("Name", "Director", "Rating"), show="headings", height=10)
-    tree.pack(fill="both", expand=True, padx=10, pady=10)
+    if search_treeview is not None:
+        search_treeview.destroy()
 
-    # Create a custom style to set the background color
+    search_treeview = ttk.Treeview(search_frame, columns=("Naslov", "Redatelj", "Ocjena"), show="headings", height=10)
+    search_treeview.pack(fill="both", expand=True, padx=10, pady=10)
+
     style = ttk.Style()
-    style.configure("Custom.Treeview", background="#212121", foreground="white", anchor="center")  # Set text color to white
+    style.configure("Custom.Treeview", background="#212121", foreground="white", anchor="center")
 
-    # Apply the custom style to the Treeview
-    tree["style"] = "Custom.Treeview"
+    search_treeview["style"] = "Custom.Treeview"
 
-    # Define column headings
-    tree.heading("Name", text="Name")
-    tree.heading("Director", text="Director")
-    tree.heading("Rating", text="Rating")
+    search_treeview.heading("Naslov", text="Naslov")
+    search_treeview.heading("Redatelj", text="Redatelj")
+    search_treeview.heading("Ocjena", text="Ocjena")
 
     def on_double_click(event):
-        item = tree.selection()[0]
-        movie_index = int(tree.item(item, "text"))
+        item = search_treeview.selection()[0]
+        movie_index = int(search_treeview.item(item, "text"))
         print("Selected movie index:", movie_index)
-        if 0 <= movie_index < len(search_results):
-            show_movie_details(search_results[movie_index])
+        if 0 <= movie_index < len(results):
+            show_movie_details(results[movie_index])
         else:
             print("Invalid movie index")
 
-    # Add search results to the Treeview
     for index, movie in enumerate(results):
         name = movie.get("name", "")
         director = ", ".join(d["name"] for d in movie.get("director", []))
         rating = movie.get("rating", {}).get("ratingValue", "")
-        tree.insert("", "end", text=str(index), values=(name, director, rating))
+        search_treeview.insert("", "end", text=str(index), values=(name, director, rating))
 
-    # Bind double-click event to the on_double_click function
-    tree.bind("<Double-1>", on_double_click)
+    search_treeview.bind("<Double-1>", on_double_click)
 
-    search_results.clear()
-    search_results.extend(results)
 
 search_results = []
 
@@ -549,10 +564,12 @@ def perform_search(query):
         widget.destroy()
 
     if results:
+        results.sort(key=lambda x: x.get("rating", {}).get("ratingValue", 0), reverse=True)
         display_search_results(results)
     else:
-        no_results_label = customtkinter.CTkLabel(search_frame, text="No results found.", font=("Roboto", 14))
+        no_results_label = customtkinter.CTkLabel(search_frame, text="Odgovarajući rezultati nisu pronađeni.", font=("Roboto", 14))
         no_results_label.pack(pady=10)
+
 
 
 def on_search(event=None):
@@ -563,48 +580,35 @@ def on_search(event=None):
             widget.destroy()
         return
 
-    # Destroy previous search results if any
     if hasattr(search_frame, "tree_frame"):
         search_frame.tree_frame.destroy()
 
-    # Create frame to contain Treeview widget
     search_frame.tree_frame = tk.Frame(search_frame, bg="#212121")
     search_frame.tree_frame.pack(fill="both", expand=True, padx=10, pady=10)
 
-    # Create Treeview widget for search results
     search_frame.tree = ttk.Treeview(search_frame.tree_frame, columns=("Name", "Director", "Rating"), show="headings", height=10)
     search_frame.tree.pack(fill="both", expand=True)
 
-    # Set background color for Treeview widget
     search_frame.tree.configure(style="Custom.Treeview")
 
-    # Create custom style for Treeview
     style = ttk.Style()
-    style.theme_use("default")  # Use default theme
+    style.theme_use("default")
     style.configure("Custom.Treeview", background="#212121", foreground="#212121",
-                    fieldbackground="#212121", anchor=tk.CENTER)  # Set row style
+                    fieldbackground="#212121", anchor=tk.CENTER)
     style.configure("Custom.Treeview.Heading", background="#212121",
-                    foreground="white", anchor=tk.CENTER)  # Set header style
-    style.map("Custom.Treeview", background=[("selected", "#007ACC")])  # Set background color for selected items
+                    foreground="white", anchor=tk.CENTER)
+    style.map("Custom.Treeview", background=[("selected", "#007ACC")])
+    search_frame.tree.heading("Name", text="Naslov", anchor=tk.CENTER)
+    search_frame.tree.heading("Director", text="Redatelj", anchor=tk.CENTER)
+    search_frame.tree.heading("Rating", text="Ocjena", anchor=tk.CENTER)
 
-    # Define column headings
-    search_frame.tree.heading("Name", text="Name", anchor=tk.CENTER)
-    search_frame.tree.heading("Director", text="Director", anchor=tk.CENTER)
-    search_frame.tree.heading("Rating", text="Rating", anchor=tk.CENTER)
-
-    # Display "Searching..." label
-    loading_label = customtkinter.CTkLabel(search_frame.tree_frame, text="Searching...", font=("Roboto", 14))
+    loading_label = customtkinter.CTkLabel(search_frame.tree_frame, text="Pretraživanje...", font=("Roboto", 14))
     loading_label.pack(pady=10)
 
-    # Cancel previous search after delay
     if hasattr(on_search, "_after_id"):
         root.after_cancel(on_search._after_id)
 
-    # Perform search after delay
     on_search._after_id = root.after(3000, lambda: perform_search(query))
-
-# Call this function to perform search
-# on_search()
 
 
 
@@ -703,8 +707,17 @@ def show_movie_details(movie):
     Image.MAX_IMAGE_PIXELS = 200000000000
 
     response = requests.get(movie_poster_url)
-    poster_image = Image.open(BytesIO(response.content))
-
+    try:
+        poster_image = Image.open(BytesIO(response.content))
+    except PIL.UnidentifiedImageError:
+        if movie_name == "12 Angry Men":
+            poster_image = Image.open("Assets/Images/Miscellaneous/12 Angry Men.jpg")
+        elif movie_name == "Skyfall":
+            poster_image = Image.open("Assets/Images/Miscellaneous/Skyfall.jpg")
+        elif movie_name == "The Lord of the Rings: The Fellowship of the Ring":
+            poster_image = Image.open("Assets/Images/Miscellaneous/Lord-of-the-rings.jpg")
+        else:
+            poster_image = Image.open("Assets/Images/Miscellaneous/unknown.png")
     poster_image = round_corners(poster_image, radius=60)
 
     poster_image = poster_image.resize((int(button_width * 0.8), int(button_height * 0.8)))
@@ -742,7 +755,6 @@ def show_movie_details(movie):
 
     customtkinter.CTkLabel(secondary_frame, text="Glumci:", font=("Roboto", 12, "bold")).pack(padx=1, pady=1)
 
-    # Iterate through each actor and create a label with a link
     for actor, url in zip(movie_actors.split(", "), urls_actors):
         actor_label = customtkinter.CTkLabel(secondary_frame, text=actor, font=("Roboto", 12), text_color="#1F538D")
         actor_label.pack()
@@ -757,10 +769,10 @@ def show_movie_details(movie):
     customtkinter.CTkLabel(full_frame, text="Opis:", font=("Roboto", 14, "bold")).pack(padx=5, pady=5)
     description_textbox = customtkinter.CTkTextbox(full_frame, font=("Roboto", 14), height=80, wrap="word")
     description_textbox.pack(padx=15, pady=5, fill="x")
-    try:
+    if movie_description == "Unknown":
+        description_textbox.insert("0.0", get_description(movie_name))
+    else:
         description_textbox.insert("0.0", translator.translate(movie_description, src="en", dest="hr").text)
-    except TypeError:
-        description_textbox.insert("0.0", "Opis je trenutno nepoznat!")
     description_textbox.configure(state="disabled")
     secondary_full_frame = customtkinter.CTkFrame(full_frame)
     secondary_full_frame.pack(padx=15, pady=15, fill="x")
@@ -843,6 +855,22 @@ def show_movie_details(movie):
 
     check()
 
+
+def get_description(movie_name):
+    description_prompt = f"Opiši mi navedeni film na hrvatskom jeziku i u dvije rečenice: {movie_name}"
+
+    description_response = client.chat.completions.create(
+        model="gpt-3.5-turbo",
+        messages=[
+            {
+                'role': 'user',
+                'content': f'{description_prompt}'
+            }
+        ]
+    )
+
+    description = description_response.choices[0].message.content
+    return description
 
 def round_corners(image, radius):
     mask = Image.new("L", image.size, 0)
@@ -928,9 +956,10 @@ def select_genres():
 
 
 def load_movies():
-
     base_path = r'movies'
-    years = ['2018', '2019', '2020', '2021', '2022', '2023']
+    years = ['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012',
+             '2013', '2014',
+             '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023']
     directories = [os.path.join(base_path, year) for year in years]
 
 
@@ -967,7 +996,7 @@ root.withdraw()
 customtkinter.set_appearance_mode("dark")
 customtkinter.set_default_color_theme("dark-blue")
 customtkinter.deactivate_automatic_dpi_awareness()
-root.protocol("WM_DELETE_WINDOW", destroy_all_windows_and_exit)  # Add this line
+root.protocol("WM_DELETE_WINDOW", destroy_all_windows_and_exit)
 
 loginreg = customtkinter.CTkToplevel(root)
 loginreg.title("login/registracija")
@@ -1071,7 +1100,7 @@ def plus():
 def create_button_for_json(file_path, column):
     font_style = ("Roboto", 30, "bold")
 
-    if file_path == "+":  # Special case for the "+" button
+    if file_path == "+":
         button = customtkinter.CTkButton(frame, text="+", font=font_style, width=100, height=100, command=plus)
         button.grid(row=2, column=0, padx=10, pady=10)
         label = customtkinter.CTkLabel(frame, text="")
@@ -1080,8 +1109,10 @@ def create_button_for_json(file_path, column):
         button.bind("<Leave>", lambda event, btn=button, lbl=label: on_leave(event, btn, lbl))
     else:
         with open(file_path, 'r') as json_file:
+            global username_user
             data = json.load(json_file)
             username = data.get('username', 'Unknown')
+            username_user = username
 
             def login_user():
                 login_with_credentials(username, data.get('password', ''))
@@ -1092,6 +1123,8 @@ def create_button_for_json(file_path, column):
             label.grid(row=3, column=column)
             button.bind("<Enter>", lambda event, btn=button, lbl=label, usr=username: on_hover(event, btn, lbl, usr))
             button.bind("<Leave>", lambda event, btn=button, lbl=label: on_leave(event, btn, lbl))
+
+
 
 def login_with_credentials(username, password):
 
@@ -1121,16 +1154,166 @@ def login_with_credentials(username, password):
         messagebox.showerror("Login Failed", "Invalid username or password")
         print(response.content)
 
+with open("Assets/Settings/settings.json", "r") as file:
+    data = json.load(file)
+theme = data["theme"]
+with open("Assets/Settings/settings2.json", "r") as file:
+    data2 = json.load(file)
+color_theme = data2["color_theme"]
 
+def show_profile_details():
+    global theme
+    global color_theme
+    root3.withdraw()
+    def save_settings(settings_data):
+        with open("Assets/Settings/settings.json", "w") as file:
+            json.dump(settings_data, file)
 
-customtkinter.set_appearance_mode("dark")
-customtkinter.set_default_color_theme("dark-blue")
+    def save_settings_color(settings_data):
+        with open("Assets/Settings/settings2.json", "w") as file:
+            json.dump(settings_data, file)
+
+    def set_theme(theme_name, button_states):
+        customtkinter.set_appearance_mode(theme_name)
+        save_settings({"theme": theme_name})
+        for button, state in button_states.items():
+            button.configure(state=state)
+
+    def set_color_theme(color_theme, button_states):
+        save_settings_color({"color_theme": color_theme})
+        for button, state in button_states.items():
+            button.configure(state=state)
+
+    def set_dark_theme():
+        set_theme("dark", {
+            dark_theme_button: "disabled",
+            light_theme_button: "normal",
+            system_theme_button: "normal"
+        })
+
+    def set_light_theme():
+        set_theme("light", {
+            light_theme_button: "disabled",
+            dark_theme_button: "normal",
+            system_theme_button: "normal"
+        })
+
+    def set_system_theme():
+        set_theme("system", {
+            system_theme_button: "disabled",
+            dark_theme_button: "normal",
+            light_theme_button: "normal"
+        })
+
+    def set_darkblue_theme():
+        set_color_theme("dark-blue", {
+            darkblue_theme_button: "disabled",
+            blue_theme_button: "normal",
+            green_theme_button: "normal"
+        })
+
+    def set_blue_theme():
+        set_color_theme("blue", {
+            blue_theme_button: "disabled",
+            darkblue_theme_button: "normal",
+            green_theme_button: "normal"
+        })
+
+    def set_green_theme():
+        set_color_theme("green", {
+            green_theme_button: "disabled",
+            darkblue_theme_button: "normal",
+            blue_theme_button: "normal"
+        })
+
+    dark_image = customtkinter.CTkImage(light_image=round_corners(Image.open(r"Assets/Images/Themes/Dark.png"), radius=20),
+                                        dark_image=round_corners(Image.open(r"Assets/Images/Themes/Dark.png"), radius=20),
+                                        size=(20, 20))
+    light_image = customtkinter.CTkImage(light_image=round_corners(Image.open(r"Assets/Images/Themes/Light.png"), radius=20),
+                                         dark_image=round_corners(Image.open(r"Assets/Images/Themes/Light.png"), radius=20),
+                                         size=(20, 20))
+    darkblue_image = customtkinter.CTkImage(light_image=round_corners(Image.open(r"Assets/Images/Themes/Dark-Blue.png"), radius=20),
+                                            dark_image=round_corners(Image.open(r"Assets/Images/Themes/Dark-Blue.png"), radius=20),
+                                            size=(20, 20))
+    blue_image = customtkinter.CTkImage(light_image=round_corners(Image.open(r"Assets/Images/Themes/Blue.png"), radius=20),
+                                        dark_image=round_corners(Image.open(r"Assets/Images/Themes/Blue.png"), radius=20),
+                                        size=(20, 20))
+    green_image = customtkinter.CTkImage(light_image=round_corners(Image.open(r"Assets/Images/Themes/Green.png"), radius=20),
+                                         dark_image=round_corners(Image.open(r"Assets/Images/Themes/Green.png"), radius=20),
+                                         size=(20, 20))
+    current_time = datetime.datetime.now()
+    system_theme = customtkinter.get_appearance_mode()
+    if system_theme == "Dark":
+        img = dark_image
+    else:
+        img = light_image
+    hour = current_time.hour
+    if 5 <= hour < 12:
+        lbl_text = "Dobro jutro,"
+    elif 12 <= hour < 17:
+        lbl_text = "Dobar dan,"
+    elif 17 <= hour < 20:
+        lbl_text = "Dobra večer,"
+    else:
+        lbl_text = "Dobro večer,"
+    toplevel = customtkinter.CTkToplevel(root3)
+    toplevel.title("Postavke")
+    toplevel.geometry("525x400")
+    pozdrav_label = customtkinter.CTkLabel(toplevel, text=f"{lbl_text} {username_user}!", font=("Roboto", 26, "bold"))
+    pozdrav_label.pack(pady=12, padx=15)
+    setting_frame = customtkinter.CTkFrame(toplevel)
+    setting_frame.pack(fill="both", expand=True, pady=12, padx=15)
+    setting_label = customtkinter.CTkLabel(setting_frame, text="Postavke", font=("Roboto", 24, "bold"))
+    setting_label.grid(row=0, columnspan=3, pady=12, padx=12)
+    customtkinter.CTkLabel(setting_frame, text="", font=("Roboto", 24, "bold")).grid(row=1, columnspan=3, pady=12, padx=12)
+    dark_theme_button = customtkinter.CTkButton(setting_frame, text="Tamno", font=("Roboto", 16), anchor="w",
+                                                image=dark_image, command=set_dark_theme)
+    dark_theme_button.grid(row=2, column=0, pady=12, padx=12)
+    light_theme_button = customtkinter.CTkButton(setting_frame, text="Svijetlo", font=("Roboto", 16), anchor="w",
+                                                 image=light_image, command=set_light_theme)
+    light_theme_button.grid(row=2, column=1, pady=12, padx=12)
+    system_theme_button = customtkinter.CTkButton(setting_frame, text="Tema sistema", font=("Roboto", 16), anchor="w",
+                                                  image=img, command=set_system_theme)
+    system_theme_button.grid(row=2, column=2, pady=12, padx=12)
+    if theme == "dark":
+        dark_theme_button.configure(state="disabled")
+    elif theme == "light":
+        light_theme_button.configure(state="disabled")
+    else:
+        system_theme_button.configure(state="disabled")
+
+    darkblue_theme_button = customtkinter.CTkButton(setting_frame, text="Tamno plava", font=("Roboto", 16), anchor="w",
+                                                image=darkblue_image, command=set_darkblue_theme)
+    darkblue_theme_button.grid(row=3, column=0, pady=12, padx=12)
+    blue_theme_button = customtkinter.CTkButton(setting_frame, text="Plava", font=("Roboto", 16), anchor="w",
+                                                 image=blue_image, command=set_blue_theme)
+    blue_theme_button.grid(row=3, column=1, pady=12, padx=12)
+    green_theme_button = customtkinter.CTkButton(setting_frame, text="Zelena", font=("Roboto", 16), anchor="w",
+                                                  image=green_image, command=set_green_theme)
+    green_theme_button.grid(row=3, column=2, pady=12, padx=12)
+    if color_theme == "dark-blue":
+        darkblue_theme_button.configure(state="disabled")
+    elif color_theme == "blue":
+        blue_theme_button.configure(state="disabled")
+    else:
+        green_theme_button.configure(state="disabled")
+
+    def check():
+        if toplevel.winfo_exists():
+            root3.after(1000, check)
+        else:
+            root3.deiconify()
+
+    check()
+
+customtkinter.set_appearance_mode(theme)
+customtkinter.set_default_color_theme(color_theme)
 
 root2 = customtkinter.CTkToplevel(root)
-root2.title("Load JSON Files")
+root2.title("Biranje Profila")
 root2.geometry("600x400")
 root2.resizable(False, False)
-root2.protocol("WM_DELETE_WINDOW", destroy_all_windows_and_exit)  # Add this line
+root2.protocol("WM_DELETE_WINDOW", destroy_all_windows_and_exit)
 
 
 screen_width = root2.winfo_screenwidth()
@@ -1165,7 +1348,7 @@ root3 = customtkinter.CTkToplevel(root)
 root3.title("KinoGenius")
 root3.geometry("1000x800")
 root3.withdraw()
-root3.protocol("WM_DELETE_WINDOW", destroy_all_windows_and_exit)  # Add this line
+root3.protocol("WM_DELETE_WINDOW", destroy_all_windows_and_exit)
 
 
 tabview = customtkinter.CTkTabview(root3)
@@ -1177,8 +1360,11 @@ tab_3 = tabview.add("Popularne franšize")
 
 movie_frame = customtkinter.CTkScrollableFrame(tab_1)
 movie_frame.pack(fill="both", expand=True, pady=12, padx=15)
+account_button1 = customtkinter.CTkButton(tab_1, text="👤", font=("Roboto", 32, "bold"), width=32, height=32,
+                                          command=show_profile_details, bg_color="transparent")
+account_button1.place(x=0, y=0)
 
-search_label = customtkinter.CTkLabel(tab_2, text="Search Movies:", font=("Roboto", 16, "bold"))
+search_label = customtkinter.CTkLabel(tab_2, text="Pretraži filmove:", font=("Roboto", 16, "bold"))
 search_label.pack(pady=10)
 
 entry_search = customtkinter.CTkEntry(tab_2, font=("Roboto", 14))
@@ -1187,13 +1373,226 @@ entry_search.bind("<KeyRelease>", on_search)
 
 search_frame = customtkinter.CTkFrame(tab_2)
 search_frame.pack(fill="both", expand=True, pady=12, padx=15)
+account_button2 = customtkinter.CTkButton(tab_2, text="👤", font=("Roboto", 32, "bold"), width=32, height=32,
+                                          command=show_profile_details, bg_color="transparent")
+account_button2.place(x=0, y=0)
+
+francises = customtkinter.CTkScrollableFrame(tab_3)
+francises.pack(fill="both", expand=True, pady=12, padx=15)
+account_button3 = customtkinter.CTkButton(tab_3, text="👤", font=("Roboto", 32, "bold"), width=32, height=32,
+                                          command=show_profile_details, bg_color="transparent")
+account_button3.place(x=0, y=0)
+
+SCI_FI_label = customtkinter.CTkLabel(francises, text="SCI-FI", font=("Roboto", 29, "bold"))
+SCI_FI_label.pack(pady=25, padx=25)
+
+customtkinter.CTkLabel(francises, text="Marvel", font=("Roboto", 24, "bold")).pack(pady=2, padx=2)
+marvel_img = Image.open("Assets/Images/Banners/Marvel_Studios_logo.png")
+marvel_img = round_corners(marvel_img, radius=60)
+marvel_movies = [{'name': 'Spider-Man 2'},
+                 {'name': 'X-Men: Days of Future Past'},
+                 {'name': 'Iron Man'},
+                 {'name': 'Ant-Man'},
+                 {'name': 'Black Panther'},
+                 {'name': 'Guardians of the Galaxy Vol. 3'},
+                 {'name': 'Deadpool 2'},
+                 {'name': 'Morbius'},
+                 {'name': 'Thor: Love and Thunder'},
+                 {'name': 'Avengers: Infinity War'},
+                 {'name': 'Spider-Man: Homecoming'},
+                 {'name': 'Avengers: Endgame'}]
+ctk_marvel_img = customtkinter.CTkImage(light_image=marvel_img, dark_image=marvel_img, size=(int(1725*0.5), int(450*0.5)))
+marvel_button = customtkinter.CTkButton(francises, text="", image=ctk_marvel_img,
+                                       fg_color="transparent", hover_color="#1A1A1A")
+marvel_button.pack(pady=12, padx=10)
+
+customtkinter.CTkLabel(francises, text="Star Wars", font=("Roboto", 24, "bold")).pack(pady=2, padx=2)
+star_wars_img = Image.open("Assets/Images/Banners/Star_wars_banner.jpg")
+star_wars_img = round_corners(star_wars_img, radius=60)
+star_wars_movies = [{'name': 'Star Wars: Episode I - The Phantom Menace'},
+                    {'name': 'Star Wars: Episode II - Attack of the Clones'},
+                    {'name': 'Star Wars: The Clone Wars'},
+                    {'name': 'Star Wars: Episode III - Revenge of the Sith'},
+                    {'name': 'Rogue One: A Star Wars Story'},
+                    {'name': 'Solo: A Star Wars Story'},
+                    {'name': 'Star Wars: Episode VII - The Force Awakens'},
+                    {'name': 'Star Wars: Episode VIII - The Last Jedi'},
+                    {'name': 'Star Wars: Episode IX - The Rise of Skywalker'}]
+ctk_star_wars_img = customtkinter.CTkImage(light_image=star_wars_img, dark_image=star_wars_img, size=(int(1725*0.5), int(450*0.5)))
+star_wars_button = customtkinter.CTkButton(francises, text="", image=ctk_star_wars_img,
+                                       fg_color="transparent", hover_color="#1A1A1A")
+star_wars_button.pack(pady=12, padx=10)
+
+action_label = customtkinter.CTkLabel(francises, text="Akcija", font=("Roboto", 29, "bold"))
+action_label.pack(pady=25, padx=25)
+
+customtkinter.CTkLabel(francises, text="The Fast and The Furious", font=("Roboto", 24, "bold")).pack(pady=2, padx=2)
+fast_img = Image.open("Assets/Images/Banners/fastandfurious-banner.png")
+fast_img = round_corners(fast_img, radius=60)
+fast_movies = [{'name': 'The Fast and the Furious'},
+               {'name': '2 Fast 2 Furious'},
+               {'name': 'The Fast and the Furious: Tokyo Drift'},
+               {'name': 'Furious 7: Talking Fast'},
+               {'name': 'The Fate of the Furious: Extended Fight Scenes'},
+               {'name': 'Fast X'}]
+ctk_fast_img = customtkinter.CTkImage(light_image=fast_img, dark_image=fast_img, size=(int(1725*0.5), int(450*0.5)))
+fast_button = customtkinter.CTkButton(francises, text="", image=ctk_fast_img,
+                                       fg_color="transparent", hover_color="#1A1A1A")
+fast_button.pack(pady=12, padx=10)
+
+customtkinter.CTkLabel(francises, text="James Bond", font=("Roboto", 24, "bold")).pack(pady=2, padx=2)
+james_img = Image.open("Assets/Images/Banners/james_bond_banner.png")
+james_img = round_corners(james_img, radius=60)
+james_movies = [{'name': 'Casino Royale'},
+                {'name': 'Quantum of Solace'},
+                {'name': 'Skyfall'},
+                {'name': 'Spectre'},
+                {'name': 'No Time to Die'}]
+ctk_james_img = customtkinter.CTkImage(light_image=james_img, dark_image=james_img, size=(int(1725*0.5), int(450*0.5)))
+james_button = customtkinter.CTkButton(francises, text="", image=ctk_james_img,
+                                       fg_color="transparent", hover_color="#1A1A1A")
+james_button.pack(pady=12, padx=10)
+
+customtkinter.CTkLabel(francises, text="Mission: Impossible", font=("Roboto", 24, "bold")).pack(pady=2, padx=2)
+mission_img = Image.open("Assets/Images/Banners/mission-impossible-banner.png")
+mission_img = round_corners(mission_img, radius=60)
+mission_movies = [{'name': 'Mission: Impossible'},
+                  {'name': 'Mission: Impossible II'},
+                  {'name': 'Mission: Impossible III'},
+                  {'name': 'Mission: Impossible - Ghost Protocol'},
+                  {'name': 'Mission: Impossible - Rogue Nation'},
+                  {'name': 'Mission: Impossible - Fallout'},
+                  {'name': 'Mission: Impossible - Dead Reckoning Part One'},
+                  {'name': 'Mission: Impossible - Dead Reckoning Part Two'}]
+ctk_mission_img = customtkinter.CTkImage(light_image=mission_img, dark_image=mission_img, size=(int(1725*0.5), int(450*0.5)))
+mission_button = customtkinter.CTkButton(francises, text="", image=ctk_mission_img,
+                                       fg_color="transparent", hover_color="#1A1A1A")
+mission_button.pack(pady=12, padx=10)
+
+drama_label = customtkinter.CTkLabel(francises, text="Drama", font=("Roboto", 29, "bold"))
+drama_label.pack(pady=25, padx=25)
+
+customtkinter.CTkLabel(francises, text="Lord of the rings", font=("Roboto", 24, "bold")).pack(pady=2, padx=2)
+lord_img = Image.open("Assets/Images/Banners/lord-of-the-rings-banner.png")
+lord_img = round_corners(lord_img, radius=60)
+lord_movies = [{'name': 'The Lord of the Rings: The Fellowship of the Ring'},
+               {'name': 'The Lord of the Rings: The Two Towers'},
+               {'name': 'The Lord of the Rings: The Return of the King'}]
+ctk_lord_img = customtkinter.CTkImage(light_image=lord_img, dark_image=lord_img, size=(int(1725*0.5), int(450*0.5)))
+lord_button = customtkinter.CTkButton(francises, text="", image=ctk_lord_img,
+                                       fg_color="transparent", hover_color="#1A1A1A")
+lord_button.pack(pady=12, padx=10)
+
+customtkinter.CTkLabel(francises, text="Harry Potter", font=("Roboto", 24, "bold")).pack(pady=2, padx=2)
+harry_img = Image.open("Assets/Images/Banners/harry_potter_banner.png")
+harry_img = round_corners(harry_img, radius=60)
+harry_movies = [{'name': "Harry Potter and the Sorcerer's Stone"},
+                {'name': 'Harry Potter and the Chamber of Secrets'},
+                {'name': 'Harry Potter and the Prisoner of Azkaban'},
+                {'name': 'Harry Potter and the Goblet of Fire'},
+                {'name': 'Harry Potter and the Order of the Phoenix'},
+                {'name': 'Harry Potter and the Half-Blood Prince'},
+                {'name': 'Harry Potter and the Deathly Hallows - Part 1'},
+                {'name': 'Harry Potter and the Deathly Hallows - Part 2'}]
+ctk_harry_img = customtkinter.CTkImage(light_image=harry_img, dark_image=harry_img, size=(int(1725*0.5), int(450*0.5)))
+harry_button = customtkinter.CTkButton(francises, text="", image=ctk_harry_img,
+                                       fg_color="transparent", hover_color="#1A1A1A")
+harry_button.pack(pady=12, padx=10)
+
+romance_label = customtkinter.CTkLabel(francises, text="Romance", font=("Roboto", 29, "bold"))
+romance_label.pack(pady=25, padx=25)
+
+customtkinter.CTkLabel(francises, text="Fifty Shades", font=("Roboto", 24, "bold")).pack(pady=2, padx=2)
+fifty_img = Image.open("Assets/Images/Banners/Fifty_Shades_Banner.png")
+fifty_img = round_corners(fifty_img, radius=60)
+fifty_movies = [{'name': 'Fifty Shades of Grey'},
+                {'name': 'Fifty Shades Darker'},
+                {'name': 'Fifty Shades Freed'}]
+ctk_fifty_img = customtkinter.CTkImage(light_image=fifty_img, dark_image=fifty_img, size=(int(1725*0.5), int(450*0.5)))
+fifty_button = customtkinter.CTkButton(francises, text="", image=ctk_fifty_img,
+                                       fg_color="transparent", hover_color="#1A1A1A")
+fifty_button.pack(pady=12, padx=10)
+
+horror_label = customtkinter.CTkLabel(francises, text="Horror", font=("Roboto", 29, "bold"))
+horror_label.pack(pady=25, padx=25)
+
+customtkinter.CTkLabel(francises, text="The Conjuring", font=("Roboto", 24, "bold")).pack(pady=2, padx=2)
+conjuring_img = Image.open("Assets/Images/Banners/Theconjuringuniverse-banner.png")
+conjuring_img = round_corners(conjuring_img, radius=60)
+conjuring_movies = [{'name': 'The Conjuring'},
+                    {'name': 'The Conjuring 2'},
+                    {'name': 'Annabelle: Creation'},
+                    {'name': 'The Nun'},
+                    {'name': 'Annabelle Comes Home'},
+                    {'name': 'The Conjuring: The Devil Made Me Do It'},
+                    {'name': 'The Nun II'}]
+ctk_conjuring_img = customtkinter.CTkImage(light_image=conjuring_img, dark_image=conjuring_img, size=(int(1725*0.5), int(450*0.6)))
+conjuring_button = customtkinter.CTkButton(francises, text="", image=ctk_conjuring_img,
+                                       fg_color="transparent", hover_color="#1A1A1A")
+conjuring_button.pack(pady=12, padx=10)
+francises2 = customtkinter.CTkScrollableFrame(tab_3)
+prefrancises2 = customtkinter.CTkFrame(tab_3)
+loading_label = customtkinter.CTkLabel(prefrancises2, text="Učitavanje. . .", font=("Roboto", 29, "bold"))
+loading_label.pack()
+def update_loading_label(loading_sequence=0):
+    if loading_sequence == 0:
+        loading_label.configure(text="Učitavanje")
+
+    elif loading_sequence == 1:
+        loading_label.configure(text="Učitavanje .")
+
+    elif loading_sequence == 2:
+        loading_label.configure(text="Učitavanje . .")
+
+    elif loading_sequence == 3:
+        loading_label.configure(text="Učitavanje . . .")
+
+    next_loading_sequence = (loading_sequence + 1) % 4
+
+    prefrancises2.after(200, update_loading_label, next_loading_sequence)
+
+def delete_all(frame2, frame1):
+    frame2.pack_forget()
+    for widget in frame2.winfo_children():
+        widget.destroy()
+    frame1.pack(fill="both", expand=True, pady=12, padx=15)
+    account_button3.place(x=0, y=0)
 
 
 
-#search_button = customtkinter.CTkButton(tab_2, text="Search", font=("Roboto", 16, "bold"), command=on_search)
-#search_button.pack(pady=10)
+def francisescom(movies):
+    account_button3.place_forget()
+    francises.pack_forget()
+
+    prefrancises2.pack(fill="both", expand=True, pady=12, padx=15)
+    for movie in movies:
+        francise_recommendations_widget = MovieRecommendationsWidget(francises2, movie)
+        francise_recommendations_widget.pack(fill="both", expand=True, pady=12, padx=15)
+    prefrancises2.pack_forget()
+    button_back = customtkinter.CTkButton(francises2, text="<", font=("Roboto", 24),
+                                          command=lambda: delete_all(francises2, francises))
+    button_back.place(x=25, y=5)
+    francises2.pack(fill="both", expand=True, pady=12, padx=15)
 
 
+def start_loading():
+    loading_screen_thread = threading.Thread(target=update_loading_label, args=(0,))
+    loading_screen_thread.start()
+
+def start(movies):
+    start_loading()
+    francisescom_thread = threading.Thread(target=lambda: francisescom(movies))
+    francisescom_thread.start()
+
+marvel_button.configure(command=lambda : start(marvel_movies))
+star_wars_button.configure(command=lambda : start(star_wars_movies))
+fast_button.configure(command=lambda : start(fast_movies))
+james_button.configure(command=lambda : start(james_movies))
+mission_button.configure(command=lambda : start(mission_movies))
+lord_button.configure(command=lambda : start(lord_movies))
+harry_button.configure(command=lambda : start(harry_movies))
+fifty_button.configure(command=lambda : start(fifty_movies))
+conjuring_button.configure(command=lambda : start(conjuring_movies))
 
 
 root.mainloop()

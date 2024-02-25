@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Dinner with Friends",
+  "url": "https://www.imdb.com/tt27122162/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2E2NTlkOTItYTQ4My00NzE2LWJmMWYtMGMwZmNkNjMxMmQyXkEyXkFqcGdeQXVyODIwNTUxMzI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": null,
+  "genre": [
+    "Short",
+    "Horror"
+  ],
+  "datePublished": "2022-10-31",
+  "keywords": null,
+  "duration": "PT2M",
+  "actor": [
+    {
+      "name": "Xavier Collazo",
+      "url": "https://www.imdb.com/name/nm13635336/"
+    },
+    {
+      "name": "Kiara Cruz",
+      "url": "https://www.imdb.com/name/nm13362993/"
+    },
+    {
+      "name": "Isaiah Somerville",
+      "url": "https://www.imdb.com/name/nm14645597/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Isaiah Somerville",
+      "url": "https://www.imdb.com/name/nm14645597/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Isaiah Somerville",
+      "url": "https://www.imdb.com/name/nm14645597/"
+    }
+  ]
+}

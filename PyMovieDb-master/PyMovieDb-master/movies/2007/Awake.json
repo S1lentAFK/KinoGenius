@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Awake",
+  "url": "https://www.imdb.com/tt10418662/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzZlYTI0NDYtODg4YS00YjUxLTgwZjItY2NhMDE0MjQ2ZTA5XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",
+  "description": "After a devastating global event wiped out all electronics and eliminated people's ability to sleep, a former soldier may have found a solution with her daughter.",
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "datePublished": "2021-06-09",
+  "keywords": "soldier, electronics, solution, insomnia, t bone car crash",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Gina Rodriguez",
+      "url": "https://www.imdb.com/name/nm1752221/"
+    },
+    {
+      "name": "Ariana Greenblatt",
+      "url": "https://www.imdb.com/name/nm7567556/"
+    },
+    {
+      "name": "Lucius Hoyos",
+      "url": "https://www.imdb.com/name/nm4789062/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mark Raso",
+      "url": "https://www.imdb.com/name/nm1764816/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joseph Raso",
+      "url": "https://www.imdb.com/name/nm1760850/"
+    },
+    {
+      "name": "Mark Raso",
+      "url": "https://www.imdb.com/name/nm1764816/"
+    },
+    {
+      "name": "Gregory Poirier",
+      "url": "https://www.imdb.com/name/nm0201304/"
+    }
+  ],
+  "review": {
+    "author": "hcb-80",
+    "dateCreated": "2021-06-13",
+    "inLanguage": "English",
+    "heading": "Wasted opportunity",
+    "reviewBody": "My guess is the pitch that made Netflix give the greenlight was convincing. But...\\n\\nLikeability of protagonists: close to zero.\\n\\nPacing of story: not working\\n\\nGory scenes: I feel nothing.\\n\\nI could go on, but let's just say it doesn't work.\\n\\nTo the filmmakers: if you get the greenlight, don't screw it up like this.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 25819,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.9
+  }
+}

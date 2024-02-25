@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Runner Runner",
+  "url": "https://www.imdb.com/tt2364841/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU5OTA0MjI4Ml5BMl5BanBnXkFtZTgwMTgxOTQwMDE@._V1_.jpg",
+  "description": "When a poor college student who cracks an online poker game goes bust, he arranges a face-to-face with the man he thinks cheated him, a sly offshore entrepreneur.",
+  "review": {
+    "author": "ajinius",
+    "dateCreated": "2013-09-27",
+    "inLanguage": "English",
+    "heading": "Not gripping enough!",
+    "reviewBody": "Runner Runner is a story about a student(Richie played by Justin Timberlake) at University of Princeton who is a pro in gambling and makes money by signing players into online poker tournaments in order to pay his college fees. However, he is pushed to risk it all as the college dean warns him of termination if he continues to advocate gambling on campus and sets a deadline to pay his tuition fees.\\n\\nRichie loses all his money in his attempt to hit a jackpot via an online poker tournament and discovers that he was swindled by the gaming corporation headed by Ivan (Ben Affleck) and he sets his foot in Costa Rica to lock horns with the gambling giant. Ivan recognizes the brilliance of Richie and gives him the life that he&apos;s been dreaming of. However, the tables turn when Richie finds the ulterior motive of Ivan&apos;s action and this is where the story falters. One expects a battle of wits to ensue but what follows is a series of lack lustre convincing acts by Ivan to make Richie remain in the trade. \\n\\nThe movie moves at a slow pace and what hurts the movie most is you expect Richie&apos;s character to be more shrewd and to be a few steps ahead of Ivan but that doesn&apos;t happen till the end.With Agent Shavers (Anthony Mackie)and Croning (Anthony Cooper) bringing in a few laughs here and there the movie rather ends well. The fresh locales of Costa Rica were captured brilliantly.\\n\\nYou are not missing anything if u fail to watch this movie but if u want to catch a glimpse of Costa Rica..",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 65559,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2013-09-27",
+  "keywords": "costa rica,gambling,online gambling,poker,online poker",
+  "duration": "PT1H28M",
+  "actor": [
+    {
+      "name": "Ben Affleck",
+      "url": "https://www.imdb.com/name/nm0000255/"
+    },
+    {
+      "name": "Justin Timberlake",
+      "url": "https://www.imdb.com/name/nm0005493/"
+    },
+    {
+      "name": "Gemma Arterton",
+      "url": "https://www.imdb.com/name/nm2605345/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brad Furman",
+      "url": "https://www.imdb.com/name/nm1026778/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brian Koppelman",
+      "url": "https://www.imdb.com/name/nm0002718/"
+    },
+    {
+      "name": "David Levien",
+      "url": "https://www.imdb.com/name/nm0505522/"
+    }
+  ]
+}

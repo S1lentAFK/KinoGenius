@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Admission",
+  "url": "https://www.imdb.com/tt1814621/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTE2OTkwNzg5Ml5BMl5BanBnXkFtZTcwOTY0NzQ3OA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "secondtake",
+    "dateCreated": "2014-01-06",
+    "inLanguage": "English",
+    "heading": "Defines routine and mediocre perfectly",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 36071,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2013-06-14",
+  "keywords": "college dean of admissions,reference to john f. kennedy,alumni interview,adoptive mother adopted son relationship,college student",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "Tina Fey",
+      "url": "https://www.imdb.com/name/nm0275486/"
+    },
+    {
+      "name": "Paul Rudd",
+      "url": "https://www.imdb.com/name/nm0748620/"
+    },
+    {
+      "name": "Nat Wolff",
+      "url": "https://www.imdb.com/name/nm1822659/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Paul Weitz",
+      "url": "https://www.imdb.com/name/nm0919369/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Karen Croner",
+      "url": "https://www.imdb.com/name/nm0188733/"
+    },
+    {
+      "name": "Jean Hanff Korelitz",
+      "url": "https://www.imdb.com/name/nm5067996/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Date and Switch",
+  "url": "https://www.imdb.com/tt1878942/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAwODUzOTQ5Nl5BMl5BanBnXkFtZTgwNzAwMjc5MDE@._V1_.jpg",
+  "description": "Two guys who make a pact to lose their virginity before prom find their friendship tested when one of them comes out of the closet.",
+  "review": {
+    "author": "walterhpdx",
+    "dateCreated": "2015-01-12",
+    "inLanguage": "English",
+    "heading": "Not your typical teen movie",
+    "reviewBody": "I got this movie and Geography Club, thinking I'd like Geography Club more - but I was blown out of the water. It's hard to do what Matty does in this movie is harder than nearly any teenager has the ability to do. But how it's done is in a lighthearted way, while the reaction of Michael is exactly how I would have expected it to go. These lifelong friends have their lives turned upside down just because one of them decides to be truthful about who he really is.\\n\\nThis movie has a lot more stars in it than you'd think, which is a nice little bonus. But Matty & Michael's stories are what get you going from the opening scene, and accompanied by a great musical score, keep you going to the very end.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 8434,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2014-02-14",
+  "keywords": "friendship,male nudity,coming out,gay interest,brownie",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Nicholas Braun",
+      "url": "https://www.imdb.com/name/nm1002609/"
+    },
+    {
+      "name": "Hunter Cope",
+      "url": "https://www.imdb.com/name/nm3697467/"
+    },
+    {
+      "name": "Dakota Johnson",
+      "url": "https://www.imdb.com/name/nm0424848/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chris Nelson",
+      "url": "https://www.imdb.com/name/nm0625245/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Alan Yang",
+      "url": "https://www.imdb.com/name/nm1520649/"
+    }
+  ]
+}

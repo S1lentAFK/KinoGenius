@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Finding Dory",
+  "url": "https://www.imdb.com/tt2277860/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWVmYTcwZDYtYzNmNC00M2U2LWFjZWYtOWRlY2NiNjc5ZjdiXkEyXkFqcGdeQXVyNjY5Mjg5MjA@._V1_.jpg",
+  "description": "Friendly but forgetful blue tang Dory begins a search for her long-lost parents and everyone learns a few things about the real meaning of family along the way.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2016-07-29",
+  "keywords": "fish,ocean,whale,octopus driving a truck,talking animal",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Ellen DeGeneres",
+      "url": "https://www.imdb.com/name/nm0001122/"
+    },
+    {
+      "name": "Albert Brooks",
+      "url": "https://www.imdb.com/name/nm0000983/"
+    },
+    {
+      "name": "Ed O'Neill",
+      "url": "https://www.imdb.com/name/nm0642145/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrew Stanton",
+      "url": "https://www.imdb.com/name/nm0004056/"
+    },
+    {
+      "name": "Angus MacLane",
+      "url": "https://www.imdb.com/name/nm0533691/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Stanton",
+      "url": "https://www.imdb.com/name/nm0004056/"
+    },
+    {
+      "name": "Victoria Strouse",
+      "url": "https://www.imdb.com/name/nm0835194/"
+    }
+  ],
+  "review": {
+    "author": "Troy_Campbell",
+    "dateCreated": "2016-06-19",
+    "inLanguage": "English",
+    "heading": "Charming and amusing.",
+    "reviewBody": "Everyone's favourite forgetful fish, Dory (Ellen DeGeneres), is back on the big screen a whopping 13 years after joining Marlin (Albert Brooks) on a quest to find his missing clownfish son. This time, however, Dory takes centre stage. Shifting the focus from Nemo to Dory for this belated follow-up is a no-brainer; it allows Pixar to concoct a new ocean-spanning adventure without feeling too repetitive, whilst cleverly bringing the broader plot full-circle by having the child now looking for the parents. Even with the huge gap between movies, there are still obstacles to be circumvented in order to avoid sequelitis. Most of these are handled with the intelligence and elegance we have come to expect from Pixar, though some hurdles prove to be too big. The story goes to very different places from both a narrative and location perspective, but the messages behind the film - don't judge a book by its cover, spontaneity can be liberating, you can do anything if you try hard enough, etc - are all too familiar. With glorious cutting-edge animation, a string of creative sequences and a barrel-full of laughs, there won't be a single audience member, regardless of age, that'll be bored; yet there's also a lack of truly memorable moments that stop this from being a classic like its predecessor. It goes without saying that Dory is the star of the show, although the range of hilarious supporting characters is impressive. Ed O'Neill's cantankerous, camouflaging octopus Hank and Ty Burrell's self-doubting beluga whale Bailey shine brightest. It might not be in the top echelon of Pixar outings, but Finding Dory is a charming, amusing and thoughtful family flick worth visiting the cinema for.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 300242,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  }
+}

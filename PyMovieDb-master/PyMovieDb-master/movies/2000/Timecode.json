@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Timecode",
+  "url": "https://www.imdb.com/tt0220100/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWYyNmU2MDItYzY5MS00MWFiLTgxZWItYzg5ODBlYTFlMjU1XkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_.jpg",
+  "description": "Four frames of simultaneous action that alternately follow a smitten lesbian lover as she obsesses over her partner's dalliances and the tense goings-on of a Hollywood film production company.",
+  "review": {
+    "author": "Silverzero",
+    "dateCreated": "2003-08-08",
+    "inLanguage": "English",
+    "heading": "Creative, unique experiment in audacious, bravura filmmaking.",
+    "reviewBody": "`Time Code' is the first film to use the method of split-screen quadrants where four stories, done in real time, unfold onto the screen. And an audacious, refined experience it is. This technique was going to be hit-and-miss. With four stories, you can only watch one at a time, and by focusing on one you may miss some key elements in another story. All are loosely intertwined, some more interesting than others. There is no digital grading/ authentication done to the images, so the film looks perfectly realistic.\n\nThe sound is emphasised on one of the screens at a time, though sometimes it is hard to differentiate which one. While the stories are perfectly watchable, they aren't invigorating or compelling and are only worthy of a passive attention. The narrative is strong and continued in a series of earthquakes that would rank about a 4 on the Richter scale. This is the first occasion in which I can honestly say that characters get plenty of screen-time (in fact they are in every scene), but barely develop.\n\nCase in point is Saffron Burrows whose character is barely ever emphasised upon and we are offered pretty much no guidance as to what's going on in her story. Jeanne Tripplehorn's part is pretty much wasted as 95% of her screen-time is wasted on her simply sitting in her limo, barely even talking. She shows her true colours in the end, but these revelations are made too late in the game to be indispensable. In the third quadrant, there are many big names such as Holly Hunter, Salma Hayek, Julian Sands (`Leaving Las Vegas', `Naked Lunch), Stellan Skargaard (`The Glass House') and Kyle McLachlan. There are solid, subtle performances all round from the ensemble, but the characters themselves are poorly written.\n\nStill though, Mike Figgis' avant-garde risque direction is suitably original and proves to be a talent to look out for in the future. While it is an accurate portrayal of high-class Los Angeles, there is an over-emphasis on drug use and lesbianism that compromises the originality of it all. `Time Code' must have been a step away from `impossible' to film. As there were no edits and stories took place in real time as they interwove, there's no telling how many takes they had to execute.\n\nIf one actor were to forget their line after about 90 minutes, everything would have to start all over again from the top. It's a surprise that the film even finished shooting, but they pulled it off and that deserves admiration. The movie ends on a sourly climactic moment that may leave a bad taste, but seems perfectly in keeping with Figgis' bravura tone. If you haven't yet seen `Time Code' it's best you know the gist of the plot and sub-plots before watching it, or you'll be absolutely lost from start to finish.\n\nOne of the most groundbreaking, though not spectacular, movies in recent year, `Time Code' proves to be an intelligent, admirable effort. While this experiment is unlikely to be attempted again, this is the first and undoubtedly the best of its kind. It definitely should have received attention on Oscar night. Curiously enough, the sound effects editing is the film's strongest point. My IMDb rating: 7.4/10.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 7079,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2000-08-18",
+  "keywords": "single take,audition,jealousy,real time,ensemble cast",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Jeanne Tripplehorn",
+      "url": "https://www.imdb.com/name/nm0000675/"
+    },
+    {
+      "name": "Stellan Skarsg\u00e5rd",
+      "url": "https://www.imdb.com/name/nm0001745/"
+    },
+    {
+      "name": "Salma Hayek",
+      "url": "https://www.imdb.com/name/nm0000161/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mike Figgis",
+      "url": "https://www.imdb.com/name/nm0001214/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mike Figgis",
+      "url": "https://www.imdb.com/name/nm0001214/"
+    }
+  ]
+}

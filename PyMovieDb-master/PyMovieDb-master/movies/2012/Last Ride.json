@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Last Ride",
+  "url": "https://www.imdb.com/tt1235142/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5MDAyMjAyMl5BMl5BanBnXkFtZTcwOTU1NDM5Nw@@._V1_.jpg",
+  "description": "A young boy travels across Australia with his father, who's wanted by the law for committing a violent crime.",
+  "review": {
+    "author": "bruce-moreorless",
+    "dateCreated": "2009-07-14",
+    "inLanguage": "English",
+    "heading": "Well made but unappealing",
+    "reviewBody": "Last Ride is well made and well acted. The cinematography is a treat.\\n\\nUnfortunately the script lets the film down. The central character (played by Hugo Weaving) is just a bit too unappealing, just a bit too hard to relate to, just a bit too hard to empathise with, just a bit too selfish.\\n\\nIn a way the film could be compared to Clint Eastwood's A Perfect World. Both are stories about the last ride of father and son figures. But where in A Perfect World I felt sympathy for the fate of Kevin Costner's father figure, in Last Ride Hugo Weaving's father ultimately left me repelled. For me the film suffered for that and, for me, the fault was with the script.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 2598,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2009-07-02",
+  "keywords": "australian,road movie,boy,independent film,child uses a gun",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Hugo Weaving",
+      "url": "https://www.imdb.com/name/nm0915989/"
+    },
+    {
+      "name": "Tom Russell",
+      "url": "https://www.imdb.com/name/nm3129126/"
+    },
+    {
+      "name": "Anita Hegh",
+      "url": "https://www.imdb.com/name/nm0373780/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Glendyn Ivin",
+      "url": "https://www.imdb.com/name/nm1380395/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mac Gudgeon",
+      "url": "https://www.imdb.com/name/nm0345637/"
+    },
+    {
+      "name": "Denise Young",
+      "url": "https://www.imdb.com/name/nm4450297/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "War Horse",
+  "url": "https://www.imdb.com/tt1568911/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjExNzkxOTYyNl5BMl5BanBnXkFtZTcwODA0MjU4Ng@@._V1_.jpg",
+  "description": "A young farm boy enlists to serve in World War I after his beloved horse is sold to the cavalry. His hopeful journey takes him out of England and onto the front lines as the war rages on.",
+  "review": {
+    "author": "PWNYCNY",
+    "dateCreated": "2012-01-17",
+    "inLanguage": "English",
+    "heading": "Horses fought too.",
+    "reviewBody": "I was expecting this movie to be just another extravagant sentimental potboiler. Wow, was I surprised. This is a great movie. The title says the movie is about a horse, but it&apos;s really about a lot more than that. The horse plays a central role but the humans figure in the story too, in a big way. The cinematography is outstanding; it really conveys the bleak, gory nature of war. The movie alludes to the Battle of the Somme which is one of the costliest battles in history in terms of the sheer number of lives lost. At times the movie does lapse into sentimentality but in general the story proceeds at a fast pace (pun intended). The performances of the horses in this movie are impressive. They are stars in their own right. If the movie accomplishes nothing else, it shows that war is hard on animals too, and like the humans, they are victims too; there was never a horse that wanted to go to war. That any horses survived at all in the war is amazing. Anyway, this movie is well worth watching.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 164846,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "datePublished": "2012-01-13",
+  "keywords": "horse,world war one,1910s,equestrian,cavalryman",
+  "duration": "PT2H26M",
+  "actor": [
+    {
+      "name": "Jeremy Irvine",
+      "url": "https://www.imdb.com/name/nm3528539/"
+    },
+    {
+      "name": "Emily Watson",
+      "url": "https://www.imdb.com/name/nm0001833/"
+    },
+    {
+      "name": "David Thewlis",
+      "url": "https://www.imdb.com/name/nm0000667/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven Spielberg",
+      "url": "https://www.imdb.com/name/nm0000229/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lee Hall",
+      "url": "https://www.imdb.com/name/nm0355822/"
+    },
+    {
+      "name": "Richard Curtis",
+      "url": "https://www.imdb.com/name/nm0193485/"
+    },
+    {
+      "name": "Michael Morpurgo",
+      "url": "https://www.imdb.com/name/nm0606190/"
+    }
+  ]
+}

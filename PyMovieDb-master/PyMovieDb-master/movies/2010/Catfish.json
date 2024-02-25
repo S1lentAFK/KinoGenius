@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Catfish",
+  "url": "https://www.imdb.com/tt1584016/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzFkMjE5NDYtZTU1OS00MzRkLWI4NjYtM2YwODU5NmU0MzJmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "Young filmmakers document their colleague's budding online friendship with a young woman and her family which leads to an unexpected series of discoveries.",
+  "review": {
+    "author": "AustinTakahashi",
+    "dateCreated": "2011-03-30",
+    "inLanguage": "English",
+    "heading": "This is a revealing film, fake or not.",
+    "reviewBody": "It's authenticity will remain in question. And if it is indeed real, the motivation of the filmmakers themselves are unclear.\n\nBut there is a truth in Catfish that reflects a lot about ourselves. For most, the Internet is a place to merely extend their social life. But for some, it could be the only place where they could find it. We are called to be mindful of these people. This is a movie for our time. 4/5 Stars\n\nNote: The trailer is indeed misleading, which may have caused much disappointment to viewers with a specific expectation. To those who has not seen the trailer and desire to watch the movie, avoid the trailer.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 43671,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Documentary",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2010-12-17",
+  "keywords": "deception,friendship,painting,internet,facebook",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Nev Schulman",
+      "url": "https://www.imdb.com/name/nm1488260/"
+    },
+    {
+      "name": "Ariel Schulman",
+      "url": "https://www.imdb.com/name/nm1413364/"
+    },
+    {
+      "name": "Henry Joost",
+      "url": "https://www.imdb.com/name/nm1160962/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Henry Joost",
+      "url": "https://www.imdb.com/name/nm1160962/"
+    },
+    {
+      "name": "Ariel Schulman",
+      "url": "https://www.imdb.com/name/nm1413364/"
+    }
+  ],
+  "creator": []
+}

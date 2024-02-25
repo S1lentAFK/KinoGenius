@@ -1,0 +1,67 @@
+
+
+{
+  "type": "Movie",
+  "name": "Struck by Lightning",
+  "url": "https://www.imdb.com/tt1791614/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTEyMDk3MzA2MTheQTJeQWpwZ15BbWU3MDIxODc3Nzg@._V1_.jpg",
+  "description": "A high schooler recounts the way he blackmailed his fellow classmates into contributing to his literary magazine.",
+  "review": {
+    "author": "barendbkj",
+    "dateCreated": "2013-07-07",
+    "inLanguage": "English",
+    "heading": "Chris Colfer is just brilliant.",
+    "reviewBody": "Struck by Lightning hit me hard, it touched me, made me laugh and left me relieved when it was finished. I have to say it was actually Rebel Wilson that made me want to watch this movie. She&apos;s as always hilarious no matter what she does. Chris Colfer is definitely one of the best young actors in Hollywood today and i think that the idea he had with Struck By Lightning came through in the end. Its about not standing back and not to let others push you around. To do everything you can to ensure your future (it is after all survival of the fittest). You won&apos;t be wasting your time...if you&apos;re into teen movies this is a must see. If they keep making movies like this I think there&apos;ll be a bright future ahead.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 15112,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2013-01-11",
+  "keywords": [
+    "narration from the grave",
+    "chin up",
+    "blackmail",
+    "high school",
+    "reference to betty ford"
+  ],
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Chris Colfer",
+      "url": "https://www.imdb.com/name/nm3182094/"
+    },
+    {
+      "name": "Rebel Wilson",
+      "url": "https://www.imdb.com/name/nm2313103/"
+    },
+    {
+      "name": "Christina Hendricks",
+      "url": "https://www.imdb.com/name/nm0376716/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brian Dannelly",
+      "url": "https://www.imdb.com/name/nm0200380/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Chris Colfer",
+      "url": "https://www.imdb.com/name/nm3182094/"
+    }
+  ]
+}

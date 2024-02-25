@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Anomalisa",
+  "url": "https://www.imdb.com/tt2401878/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkyMzI2MzQ1N15BMl5BanBnXkFtZTgwNDg0MzQxNzE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "stewart-62",
+    "dateCreated": "2016-03-21",
+    "inLanguage": "English",
+    "heading": "Puzzled by The Acclaim",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 74993,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2016-03-11",
+  "keywords": "multiple characters voiced by same person,one night stand,stop motion animation,hotel room,urination",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "David Thewlis",
+      "url": "https://www.imdb.com/name/nm0000667/"
+    },
+    {
+      "name": "Jennifer Jason Leigh",
+      "url": "https://www.imdb.com/name/nm0000492/"
+    },
+    {
+      "name": "Tom Noonan",
+      "url": "https://www.imdb.com/name/nm0006888/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Duke Johnson",
+      "url": "https://www.imdb.com/name/nm2122478/"
+    },
+    {
+      "name": "Charlie Kaufman",
+      "url": "https://www.imdb.com/name/nm0442109/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Charlie Kaufman",
+      "url": "https://www.imdb.com/name/nm0442109/"
+    }
+  ]
+}

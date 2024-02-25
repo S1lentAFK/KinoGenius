@@ -1,0 +1,49 @@
+
+
+{
+  "type": "Movie",
+  "name": "15 to Life: Kenneth's Story",
+  "url": "https://www.imdb.com/tt3215812/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzg3ZGVkNWQtZGQ4MS00MjE4LTgwZjctZjQ1ZTBmNzA1YTBiXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+  "description": "Kenneth young just keep praying and everything will be alright",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 45,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "TV-PG",
+  "genre": [
+    "Documentary",
+    "Biography",
+    "Crime"
+  ],
+  "datePublished": "2014-04-13",
+  "keywords": "life sentence,sentencing,name in title,five word title,documentary subject's name in title",
+  "duration": "PT1H23M",
+  "actor": [],
+  "director": [
+    {
+      "name": "Nadine Pequeneza",
+      "url": "https://www.imdb.com/name/nm1394612/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nadine Pequeneza",
+      "url": "https://www.imdb.com/name/nm1394612/"
+    }
+  ]
+}

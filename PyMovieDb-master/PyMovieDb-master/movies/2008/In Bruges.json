@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "In Bruges",
+  "url": "https://www.imdb.com/tt0780536/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUwOGFiM2QtOWMxYS00MjU2LThmZDMtZDM2MWMzNzllNjdhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "description": "After a job gone wrong, hitman Ray and his partner await orders from their ruthless boss in Bruges, Belgium, the last place in the world Ray wants to be.",
+  "review": {
+    "author": "kasserine",
+    "dateCreated": "2008-02-08",
+    "inLanguage": "English",
+    "heading": "Nice Blend Of Drama And Comedy",
+    "reviewBody": "One of the problems with seeing a trailer for a film is it creates an expectation. If it raises expectations, and the film delivers, great. However, if the film is less then expected, then the viewer feels cheated. The best case scenario is the one I found myself in before I saw In Bruges. Low expectations.\\n\\nAfter seeing the trailer, In Bruges looked like a plodding British comedy with little originality and repetitious humor, hence the low expectations. Yet, In Bruges exceeded my minimal expectations, and, unlike my impression from the trailer, was an original drama with good acting and a nice blend of comedy mixed in. It was funny in the right places and appropriately dramatic when the story shifted into high gear towards the end.\\n\\nSet in, no surprise here, Bruges, Belgium, the plot focuses on two London hit men, Ray played by Colin Farrell, and Ken, played by Brendan Gleeson. The pair is sent to Belgium after Ray botches his first hi. And therein lies the humor, Ray has no interest in being in the medieval city, and Ken wants to sight see.\\n\\nI&apos;ve never really liked Colin Farrell but who knew he had such a good sense of comedic timing? There is a running gag involving fighting with a bottle, and karate, that he manages to keep fresh as it pops up throughout the film. Brendan Gleeson&apos;s character provides the moral center and plays the straight man to Farrell&apos;s Ray. This works well as the movie turns more serious towards the end. However, for my money, the best performance is delivered by Ralph Fiennes who plays Harry the pair&apos;s criminal overlord back in London. Whereas Gleeson character embodies the moral center, Fiennes&apos;s Harry fills the role of principled immorality, if there is such a thing. Fiennes creates a character with a dubious moral center and is a quite believable figure of menace when he travels to Bruges to square off with Ken. Also, of note, is Jordan Prentice, an irritable dwarf who&apos;s in town to act in a movie filming there. His ramblings in one scene, about a coming race war, is worth the price of admission right there.\\n\\nThe only aspect of the film that didn&apos;t work for me was Ray&apos;s love interest. Early in the film he manages to woo Chloe, a drug dealer with, drum roll please, a heart of gold. For my tastes, the budding romance seems a little forced and comes across more as a vehicle for jokes and drama. But it&apos;s a small thing and I doubt anyone but me would notice.\\n\\nI intentionally left a lot of plot points out, because, as I&apos;ve mentioned, this film surprised me in a good way and I don&apos;t won&apos;t to ruin it for anyone else.\\n\\nIn Bruges is a good film. Go see it.\\n\\nAt the very least, it&apos;ll make you want to visit Bruges.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 458631,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  },
+  "contentRating": "18",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2008-04-18",
+  "keywords": "hitman,irish,death,bruges belgium,bullet",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Colin Farrell",
+      "url": "https://www.imdb.com/name/nm0268199/"
+    },
+    {
+      "name": "Brendan Gleeson",
+      "url": "https://www.imdb.com/name/nm0322407/"
+    },
+    {
+      "name": "Ciar\\u00e1n Hinds",
+      "url": "https://www.imdb.com/name/nm0001354/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Martin McDonagh",
+      "url": "https://www.imdb.com/name/nm1732981/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Martin McDonagh",
+      "url": "https://www.imdb.com/name/nm1732981/"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Anna Karenina",
+  "url": "https://www.imdb.com/tt1781769/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU0NDgxNDg0NV5BMl5BanBnXkFtZTcwMjE4MzkwOA@@._V1_.jpg",
+  "description": "In late-19th-century Russian high society, St. Petersburg aristocrat Anna Karenina enters into a life-changing affair with the dashing Count Alexei Vronsky.",
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2012-09-07",
+  "keywords": "dance,imperial russia,mustache,based on novel,character name as title",
+  "duration": "PT2H9M",
+  "rating": {
+    "ratingCount": 105906,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "review": {
+    "author": "fati88",
+    "dateCreated": "2021-02-24",
+    "inLanguage": "English",
+    "heading": "Genuis direction",
+    "reviewBody": "There maybe a lot to discuss when it comes to the plot and the performances but 1 sure thing this movie is definitely a masterpiece, it felt more like watching theater and it was so poetic and beautiful. The cinematography, the grading, the soundtrack and how it's directed which is the best part, everything was so unique and impactful, all the credit goes to the direction for giving us such a joy and emotional experience throughout the movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "Keira Knightley",
+      "url": "https://www.imdb.com/name/nm0461136/"
+    },
+    {
+      "name": "Jude Law",
+      "url": "https://www.imdb.com/name/nm0000179/"
+    },
+    {
+      "name": "Aaron Taylor-Johnson",
+      "url": "https://www.imdb.com/name/nm1093951/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joe Wright",
+      "url": "https://www.imdb.com/name/nm0942504/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tom Stoppard",
+      "url": "https://www.imdb.com/name/nm0001779/"
+    },
+    {
+      "name": "Lev Tolstoy",
+      "url": "https://www.imdb.com/name/nm0866243/"
+    }
+  ]
+}

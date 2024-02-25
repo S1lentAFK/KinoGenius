@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "Anchorman 2: The Legend Continues",
+  "url": "https://www.imdb.com/tt1229340/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE5ODk0NjQzNV5BMl5BanBnXkFtZTgwODk4MDA1MDE@._V1_.jpg",
+  "description": "With the 1970s behind him, Ron Burgundy, San Diego's former top-rated newsreader, returns to take New York City's first twenty-four-hour news channel by storm.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2013-12-18",
+  "keywords": "father son relationship,sea world,year 1980,year 1979,beach",
+  "duration": "PT1H59M",
+  "actor": [
+    {
+      "name": "Will Ferrell",
+      "url": "https://www.imdb.com/name/nm0002071/"
+    },
+    {
+      "name": "Christina Applegate",
+      "url": "https://www.imdb.com/name/nm0000775/"
+    },
+    {
+      "name": "Paul Rudd",
+      "url": "https://www.imdb.com/name/nm0748620/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Adam McKay",
+      "url": "https://www.imdb.com/name/nm0570912/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Will Ferrell",
+      "url": "https://www.imdb.com/name/nm0002071/"
+    },
+    {
+      "name": "Adam McKay",
+      "url": "https://www.imdb.com/name/nm0570912/"
+    }
+  ],
+  "review": {
+    "author": "ajk08",
+    "dateCreated": "2013-12-30",
+    "inLanguage": "English",
+    "heading": "Snobs",
+    "reviewBody": "Sick to death of reading reviews starting with 'I was a massive fan of the first movie', well this isn't the first movie, its a different movie, stop comparing them! \n\nAnchorman received a big cult following for a reason, it was hilarious, awkward, weird and completely random in places. It has to to be said its one of my favorite ever comedies. \n\nBut seriously!? What did you expect, something completely different? No! I didn't! I didn't want something completely different. I wanted more Ron burgundy, and plenty more brick tamland, which is what we got. Personally loved the film and cant understand why anybody didn't enjoy the original wouldn't like it too (unless you seem to think a movie called Anchorman 2, yes thats 2, needed to be something completely new and off the wall). \n\nSometimes think people need to get there head out there arse and just watch a film for the pure entertainment purposes it was made for.\n\nRant over. 8/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 191436,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  }
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Open Season 3",
+  "url": "https://www.imdb.com/tt1646926/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDBjNjlkYjgtNzdiZC00MDI3LWEyNzYtOTc5ZDhjNmY0YzhiXkEyXkFqcGdeQXVyMTA5ODEyNTc5._V1_.jpg",
+  "description": "Boog's friends rally to bring him home from a Russian traveling circus.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2011-04-29",
+  "keywords": "russian,circus,prince and pauper,look alike,role reversal",
+  "duration": "PT1H15M",
+  "actor": [
+    {
+      "name": "Matthew J. Munn",
+      "url": "https://www.imdb.com/name/nm3103829/"
+    },
+    {
+      "name": "Nika Futterman",
+      "url": "https://www.imdb.com/name/nm0296546/"
+    },
+    {
+      "name": "Maddie Taylor",
+      "url": "https://www.imdb.com/name/nm2407919/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Cody Cameron",
+      "url": "https://www.imdb.com/name/nm0970606/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John B. Carls",
+      "url": "https://www.imdb.com/name/nm0137811/"
+    },
+    {
+      "name": "Steve Moore",
+      "url": "https://www.imdb.com/name/nm1558946/"
+    },
+    {
+      "name": "David I. Stern",
+      "url": "https://www.imdb.com/name/nm0827670/"
+    }
+  ],
+  "review": {
+    "author": "dfgremnants",
+    "dateCreated": "2010-12-26",
+    "inLanguage": "English",
+    "heading": "Good Luck With Everything.",
+    "reviewBody": "Why does everyone think that kids are stupid or they can't actually spot a poorly made movie. I watched Open Season 1 and 2 before. IMO they were fine children movies. Now, I have seen some weak animations before but this really surprised me.\\n\\nI tried to laugh in this movie but I think my hand was busy facepalming. In short, I regretted watching this movie. I thought maybe they will end with a bang and I would get some fond memories out of it, but no, they just ruined all the magic and probably made me hate this trilogy.\\n\\nUnless you're a slow kid or just love these characters, I would recommend you avoid this movie. Watch something else or try watching something from the past.\\n\\nTL;DR, Life is short, don't waste it on this one.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 2
+    }
+  },
+  "rating": {
+    "ratingCount": 13067,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5
+  }
+}

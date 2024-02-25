@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "Arthur the King",
+  "url": "https://www.imdb.com/tt10720352/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzMzMDNhZWYtZDE4ZC00MTg5LWJiZWEtZjU2OGM2ZjMzM2I1XkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg",
+  "description": "An adventure racer adopts a stray dog named Arthur to join him in an epic endurance race.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Adventure"
+  ],
+  "datePublished": "2024-03-22",
+  "keywords": "dog,race,racer,man dog relationship,stray dog",
+  "duration": null,
+  "actor": [
+    {
+      "name": "Mark Wahlberg",
+      "url": "https://www.imdb.com/name/nm0000242/"
+    },
+    {
+      "name": "Nathalie Emmanuel",
+      "url": "https://www.imdb.com/name/nm2812026/"
+    },
+    {
+      "name": "Simu Liu",
+      "url": "https://www.imdb.com/name/nm4855517/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Simon Cellan Jones",
+      "url": "https://www.imdb.com/name/nm0148116/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Brandt",
+      "url": "https://www.imdb.com/name/nm0104973/"
+    },
+    {
+      "name": "Mikael Lindnord",
+      "url": "https://www.imdb.com/name/nm10873813/"
+    }
+  ]
+}

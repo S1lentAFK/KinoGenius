@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Lost and Delirious",
+  "url": "https://www.imdb.com/tt0245238/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjVhZDc5YjItNzU0OS00MGE4LTliNWYtYWFjOGEzNjkwY2ViXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+  "description": "After starting at an upmarket boarding school, a teenage girl forms close friendships with her two older roommates. However, when she discovers that her new friends are lovers she finds herself caught in a complicated situation.",
+  "review": {
+    "author": "perry-102",
+    "dateCreated": "2006-04-09",
+    "inLanguage": "English",
+    "heading": "A much deeper film than expected",
+    "reviewBody": "I only decided to see this film simply because I liked Piper Perabo in 'Coyote Ugly', an enjoyable but 'lightweight' film. I watched 'Lost and Delirious' for the first time last evening and I was totally blown away by Piper's performance which surprised me, taking into account the fact that the film didn't exactly get rave reviews. It was a far deeper film than I expected it to be and I will need to watch it several times to appreciate its full impact. (I never manage to fully appreciate a film first time round!)The clever parallels drawn between Paulie's character and the bird of prey's plight are cleverly handled, although I thought it was made a little too obvious when she began to refer to herself as 'the raptor'. I felt this was unnecessary; the viewer should have been left to make that link for him or herself. The increasing tension which draws the viewer inexorably towards the climax of the film is almost unbearable. I felt myself starting to dread the end of the film, fearing its almost inevitable end. IMHO this is a masterful piece of movie-making. Miss it and miss out!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 22234,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2003-04-25",
+  "keywords": "girls' boarding school,teenage sexuality,lesbian romance,lesbian relationship,private school",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Piper Perabo",
+      "url": "https://www.imdb.com/name/nm0005305/"
+    },
+    {
+      "name": "Jessica Par\u00e9",
+      "url": "https://www.imdb.com/name/nm0664175/"
+    },
+    {
+      "name": "Mischa Barton",
+      "url": "https://www.imdb.com/name/nm0059215/"
+    }
+  ],
+  "director": [
+    {
+      "name": "L\u00e9a Pool",
+      "url": "https://www.imdb.com/name/nm0690794/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Susan Swan",
+      "url": "https://www.imdb.com/name/nm0841634/"
+    },
+    {
+      "name": "Judith Thompson",
+      "url": "https://www.imdb.com/name/nm0860352/"
+    }
+  ]
+}

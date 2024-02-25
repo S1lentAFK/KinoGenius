@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Possession",
+  "url": "https://www.imdb.com/tt0082933/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjdkODMwYzgtNWZiZS00ZTE0LWJjMjQtYjVhZTMwNDcxYzA0XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_.jpg",
+  "description": "A woman starts exhibiting increasingly disturbing behavior after asking her husband for a divorce. Suspicions of infidelity soon give way to something much more sinister.",
+  "review": {
+    "author": "Krug Stillo",
+    "dateCreated": "2003-05-31",
+    "inLanguage": "English",
+    "heading": "What an experience!!!",
+    "reviewBody": "Acting, colour, camera movement and story thrown into hyperactivityWhat do you get? Well, the headache inducing, enthralling Possession. Beautiful, erotic and extremely disturbing, Andrjez Zulawski&apos;s film (admired by the Italian Master of the Macabre himself, Dario Argento) is an extreme assault upon the senses.\\n\\nMark (played excellently and deliberately over-the-top by Sam Neil) returns home from secret government work to his wife in Berlin, cue many shots of the Berlin wall representing the couple&apos;s marital breakdown. However, Mark&apos;s wife, Anna (a truly unforgettable, no holds barred and hypnotic performance from the lovely Isabelle Adjani) is behaving inexcusably strangely. Mark finds out that she is having an affair with Heinrick (another crazy performance from Heinz Bennet) and confronts him only to find that the lover has not seen Anna for some time. This is the part of the rollercoaster ride before your cart\\n\\nplummets into some real thought-provoking, unsettling and scary surrealism.\\n\\nPossession is definitely the film that requires many subsequent viewings. Excellent performances that frequently go way OTT, dreamily fluid camerawork and migraine inducing metaphorical horror, this is a true beast of the imagination. Love it or hate it, it is a true original masterpiece that is definitely not for all tastes. If films were placed in boxes and divided by flavours, like crisps, POSSESSION would sit in a box entirely by its self, awaiting only those who can take it. Go into it with an open mind like you&apos;ve never gone into a film with one before. It can seriously mentally damage you if you try and figure it all out on that initial viewing, so beware; if there is truly anything to work out. The now infamous miscarriage in the subway scene is confusing, painful and sickening to watch and nothing like it can be found elsewhere. This is a hell of a film, if you&apos;re prepared for it!\\n\\n`This for me exceeds anything thrown up by The Exorcist for sheer impact on the nervous system.&apos; David Thompson - Sight and Sound",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 41748,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "18",
+  "genre": [
+    "Drama",
+    "Horror"
+  ],
+  "datePublished": "1981-05-27",
+  "keywords": "obsession,monster,dysfunctional marriage,extramarital affair,supernatural power",
+  "duration": "PT2H4M",
+  "actor": [
+    {
+      "name": "Isabelle Adjani",
+      "url": "https://www.imdb.com/name/nm0000254/"
+    },
+    {
+      "name": "Sam Neill",
+      "url": "https://www.imdb.com/name/nm0000554/"
+    },
+    {
+      "name": "Margit Carstensen",
+      "url": "https://www.imdb.com/name/nm0141380/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrzej Zulawski",
+      "url": "https://www.imdb.com/name/nm0958558/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrzej Zulawski",
+      "url": "https://www.imdb.com/name/nm0958558/"
+    },
+    {
+      "name": "Frederic Tuten",
+      "url": "https://www.imdb.com/name/nm0878292/"
+    }
+  ]
+}

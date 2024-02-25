@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Up",
+  "url": "https://www.imdb.com/tt1049413/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgyMzE3Nzg2OF5BMl5BanBnXkFtZTcwMzg0Mjc4Mg@@._V1_.jpg",
+  "description": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2009-10-09",
+  "keywords": "heartfelt,balloon,talking dog,original story,child in jeopardy",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Edward Asner",
+      "url": "https://www.imdb.com/name/nm0000799/"
+    },
+    {
+      "name": "Jordan Nagai",
+      "url": "https://www.imdb.com/name/nm2973712/"
+    },
+    {
+      "name": "John Ratzenberger",
+      "url": "https://www.imdb.com/name/nm0001652/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Pete Docter",
+      "url": "https://www.imdb.com/name/nm0230032/"
+    },
+    {
+      "name": "Bob Peterson",
+      "url": "https://www.imdb.com/name/nm0677037/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Pete Docter",
+      "url": "https://www.imdb.com/name/nm0230032/"
+    },
+    {
+      "name": "Bob Peterson",
+      "url": "https://www.imdb.com/name/nm0677037/"
+    },
+    {
+      "name": "Tom McCarthy",
+      "url": "https://www.imdb.com/name/nm0565336/"
+    }
+  ],
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2013-12-30",
+    "inLanguage": "English",
+    "heading": "Real tear jerker opening",
+    "reviewBody": "Carl Fredricksen (Ed Asner) as a young quiet kid idolized explorer Charles Muntz (Christopher Plummer) and his discovery of Paradise Falls. Ellie is much more animated and also a great fan of Muntz. Together they would marry and live their lives together until the day she dies. Now Carl is hounded by a property developer and forced to go to a retirement home. Instead he ties a sea of helium balloons to his home and float away to Paradise Falls. Wilderness Explorer scout Russell who's trying to get an Assisting the Elderly badge gets dragged along on the adventure.\n\nThe first part of this movie is a real tear jerker. When Carl and Ellie's lives flash through the years, all the heart breaks and all the love just jump off the screen. Then there is comedy as the journey to Paradise Falls starts. The movie gets very surreal with dog translators, and a very colorful bird. The villain is a bit too villainy. The story gets too serious at times. But it ends almost as emotionally as it starts. It is one of the best of Pixar.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 1114017,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.3
+  }
+}

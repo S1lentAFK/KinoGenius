@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Maze Runner: The Death Cure",
+  "url": "https://www.imdb.com/tt4500922/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYyNzk3MDc2NF5BMl5BanBnXkFtZTgwMDk3OTM1NDM@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "siderite",
+    "dateCreated": "2018-05-13",
+    "inLanguage": "English",
+    "heading": "A weak an predictable ending to a saga that no one cared about anymore",
+    "reviewBody": "Yes, it's a young adult story. Yes, it's got all the shortcomings of lazy writing. Yes, it's all incredible beautiful teens fighting the evil uncaring adults who envy them their youth. And with all that, Maze Runner had something in the first movie that made me want to watch it. Some sort of story, maybe the acting, maybe the whole thing. I just enjoyed it. So I watched the second movie to see what happens and then this piece of crap from pure inertia. And it was just not worth it.\n\n Imagine two hours and twenty minutes that could have been compressed into a five minute How It Should Have Ended animation (which would have been better). Kids are good, WICKED is bad (duh!), bullets kind of care about that because they fly away from the good guys and things just happen to be where you need them to be for them to escape and not kill anyone, not even the bad guys, because they are the good guys. A lot of talk, a lot of talk, then some talk, followed by more talk. The last part of the movie has all the action sequences and they are all Michael Bayish.\n\n Bottom line: I don't think they even tried to make it a good movie. It was all algorithmic. Why end a series that at least started interesting with a twist, or some nice action, or anything resembling a story? No. Take any other YA movie and copy paste it over these characters. It's like creativity costs money for these people. It's like it hurts them, like the sun kills bugs. It was so boring that it wasn't even funny.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 159826,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2018-01-26",
+  "keywords": "human experimentation,virus,post apocalypse,resistance movement,friendship",
+  "duration": "PT2H23M",
+  "actor": [
+    {
+      "name": "Dylan O'Brien",
+      "url": "https://www.imdb.com/name/nm3729721/"
+    },
+    {
+      "name": "Ki Hong Lee",
+      "url": "https://www.imdb.com/name/nm3859624/"
+    },
+    {
+      "name": "Kaya Scodelario",
+      "url": "https://www.imdb.com/name/nm2546012/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Wes Ball",
+      "url": "https://www.imdb.com/name/nm1226871/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "T.S. Nowlin",
+      "url": "https://www.imdb.com/name/nm2385905/"
+    },
+    {
+      "name": "James Dashner",
+      "url": "https://www.imdb.com/name/nm4212895/"
+    }
+  ]
+}

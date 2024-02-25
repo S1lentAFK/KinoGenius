@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Alfie",
+  "url": "https://www.imdb.com/tt0375173/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTBjOWQwZDEtZWRlYi00YzY0LTg3NDQtYzRiYjk2YjMyMzEyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A cockney womanizer learns the hard way about the dangers of his actions.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2004-10-22",
+  "keywords": "womanizer,abused woman,one night stand,limousine driver,single mother",
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Jude Law",
+      "url": "https://www.imdb.com/name/nm0000179/"
+    },
+    {
+      "name": "Sienna Miller",
+      "url": "https://www.imdb.com/name/nm1092227/"
+    },
+    {
+      "name": "Susan Sarandon",
+      "url": "https://www.imdb.com/name/nm0000215/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Charles Shyer",
+      "url": "https://www.imdb.com/name/nm0796124/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bill Naughton",
+      "url": "https://www.imdb.com/name/nm0622540/"
+    },
+    {
+      "name": "Elaine Pope",
+      "url": "https://www.imdb.com/name/nm0691114/"
+    },
+    {
+      "name": "Charles Shyer",
+      "url": "https://www.imdb.com/name/nm0796124/"
+    }
+  ],
+  "review": {
+    "author": "boblipton",
+    "dateCreated": "2021-11-13",
+    "inLanguage": "English",
+    "heading": "The Issue Of Remakes",
+    "reviewBody": "Jude Law takes the title role in this remake of the 1966 flick that was the follow-up hit that confirmed Michael Caine as a star. He&apos;s been an enduring one, still turning them out, as British actors do, whenever he&apos;s asked. 130 movies, with three n various stages of production. Good on him.\\n\\nBut we&apos;re talking about the 2004 production, and Jude Law here. Remakes of classics always start with a disadvantage. Just as Caine undoubtedly had to contend with comparisons to Terence Stamp&apos;s performance in the original stage production (Stamp turned down the movie, and helped talk Caine into it, impelled, no doubt, by a hope that a good paycheck would get Caine out of his apartment and into his own flat). So lets get to it: Law plays a playboy, not uncaring, but happy with his life of plenty of women and no attachments, who comes to realize that&apos;s not what he wants. Caine played the same facade and base.... and then layered them with the coldness he plays so well. Law thinks he has it all; Caine brought an amount of misogynistic disdain into the mix. That might not play in the 21st century, but it&apos;s a more nuanced and interesting performance, watching Alfie&apos;s change from a cheap villain into his own victim.\\n\\nStill, this is a handsome production, reset in New York City for no particular reason, and offering a good time. It&apos;s not a classic, but it is a good film.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 54799,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  }
+}

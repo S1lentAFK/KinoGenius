@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Alice Through the Looking Glass",
+  "url": "https://www.imdb.com/tt2567026/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc2NjExMTIyN15BMl5BanBnXkFtZTgwMjg0OTIwODE@._V1_.jpg",
+  "description": "Alice is appointed to save her beloved Mad Hatter from deadly grief by travelling back to the past, but this means fatally harming Time himself, the noble clockwork man with the device needed to save the Hatter's family from the R...",
+  "review": {
+    "author": "Venom_81",
+    "dateCreated": "2016-12-13",
+    "inLanguage": "English",
+    "heading": "Mediocre story with great visual effects",
+    "reviewBody": "Tim Burton refused to direct this movie..and there is a reason..simply the script is terrible. There is no real and solid story behind this movie if not a marketing operation. The direction works well, nothing special but nothing you can complain about, also the rhythm and the storytelling works good, the problem is the script. The movie is visually stunning , probably visual effects are the only reason to watch this movie. Jhonny Deep is probably on his worst interpretation, he isn't able to transmit anything not even the madness of his character. Mia Wasikovska is the only one who truly believe in the project and tries to produce a decent interpretation. Sacha Baron Coen is funny on his character but maybe he could add more personality in his interpretation. As I already said you can watch this movie just for the amazing visual effects..but without a decent story isn't so entertaining",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 120940,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2016-05-27",
+  "keywords": "alice character,caterpillar character,the mad hatter character,march hare character,dormouse character",
+  "duration": "PT1H53M",
+  "actor": [
+    {
+      "name": "Mia Wasikowska",
+      "url": "https://www.imdb.com/name/nm1985859/"
+    },
+    {
+      "name": "Johnny Depp",
+      "url": "https://www.imdb.com/name/nm0000136/"
+    },
+    {
+      "name": "Helena Bonham Carter",
+      "url": "https://www.imdb.com/name/nm0000307/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Bobin",
+      "url": "https://www.imdb.com/name/nm0090386/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Linda Woolverton",
+      "url": "https://www.imdb.com/name/nm0941314/"
+    },
+    {
+      "name": "Lewis Carroll",
+      "url": "https://www.imdb.com/name/nm0140902/"
+    }
+  ]
+}

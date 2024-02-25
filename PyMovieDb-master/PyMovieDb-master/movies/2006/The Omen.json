@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Omen",
+  "url": "https://www.imdb.com/tt0075005/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmNjZDcwNTMtMjQxMy00ZTY5LTg4M2YtYjA5NDliNjNhYzQ3XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+  "description": "Mysterious deaths surround an American ambassador. Could the child that he is raising actually be the Antichrist? The Devil's own son?",
+  "review": {
+    "author": "BaronBl00d",
+    "dateCreated": "2002-01-14",
+    "inLanguage": "English",
+    "heading": "The Devil Made Him Do It!",
+    "reviewBody": "Following the heels of the success of The Exorcist, The Omen tells the story of the son of Satan being born from a mysterious pregnancy and given to a U.S. ambassador and his wife in Italy. The couple raise the young child, but things begin to happen to the couple as the boy matures. A governess hangs herself. The child acts wildly when brought near a Church. A spooky governess appears from nowhere to take care of the child. A black evil dog takes up residence at the child's bedroom. To complicate matters, a priest gets in touch with the father and tells him to beware his son and that he is the spawn of evil. The Omen works very well due to several factors. The script is generally well-written. The story is very implausable in some places, but it works on the whole. The use of powerhouse stars like Gregory Peck and Lee Remick in the leads help to give the film the royal treatment, making sure no one mistakes the budget, level of ability, and time put into this production. Peck is very good in his role as a man convinced(finally) of horrifying news. The rest of the cast does equally well with some fine performances by Billie Whitelaw as the crazed, manical governess, Patrick Troughton as the conscience-torn priest, David Warner as a helpful photographer, and Harvey Stephens as the young, sweet-yet evil looking Damien. Most of the film's success can be attributed to director Richard Donner. Donner keeps the pacing of the film tight, uses some first-rate pan shots, and creates a mood and suspense that build climatically throughout the film. Some of the scenes that are most memorable include Damien on a tricycle, Peck and Warner in a cemetery, and most famous of all is the priest's demise. A wonderfully shot sequence. The music in the film is a great asset to the overall mood. A very good film....not nearly as gory or shocking as The Exorcist but still as powerful in its own right for its seemingly somewhat realistic adaptation of scripture.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 129771,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "X",
+  "genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "1976-09-16",
+  "keywords": "nanny,priest,hospital,catholic hospital,baby switch",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Gregory Peck",
+      "url": "https://www.imdb.com/name/nm0000060/"
+    },
+    {
+      "name": "Lee Remick",
+      "url": "https://www.imdb.com/name/nm0001665/"
+    },
+    {
+      "name": "Harvey Stephens",
+      "url": "https://www.imdb.com/name/nm0827032/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Richard Donner",
+      "url": "https://www.imdb.com/name/nm0001149/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Seltzer",
+      "url": "https://www.imdb.com/name/nm0783544/"
+    }
+  ]
+}

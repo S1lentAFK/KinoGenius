@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Vals Im Bashir",
+  "url": "https://www.imdb.com/tt1185616/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjM2OTI3NzQyNl5BMl5BanBnXkFtZTcwNjkzNzQ5MQ@@._V1_.jpg",
+  "description": "An Israeli film director interviews fellow veterans of the 1982 invasion of Lebanon to reconstruct his own memories of his term of service in that conflict.",
+  "contentRating": "18",
+  "genre": [
+    "Documentary",
+    "Animation",
+    "Biography"
+  ],
+  "datePublished": "2008-11-21",
+  "keywords": "lebanon,israel defense forces,animated documentary,mass murder,israel lebanon war",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Ari Folman",
+      "url": "https://www.imdb.com/name/nm0284369/"
+    },
+    {
+      "name": "Ron Ben-Yishai",
+      "url": "https://www.imdb.com/name/nm2924645/"
+    },
+    {
+      "name": "Ronny Dayag",
+      "url": "https://www.imdb.com/name/nm2923235/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ari Folman",
+      "url": "https://www.imdb.com/name/nm0284369/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ari Folman",
+      "url": "https://www.imdb.com/name/nm0284369/"
+    }
+  ],
+  "review": {
+    "author": "leo-dor",
+    "dateCreated": "2008-06-09",
+    "inLanguage": "English",
+    "heading": "Powerful",
+    "reviewBody": "Waltz with Bashir may not deliver everything you expect after seeing the trailers, but it is powerful. Director Ari Folman presents a personal view of historic events in which he took part as a young soldier, but which he cannot remember due to repression. A full-length documentary, filmed with animation over the recorded speech of actual participants in the 1982 Lebannon War, Waltz with Bashir is beautifully done and get its message across clearly.\n\nIt's a shame that some of the stronger artistic points in the movie were left undeveloped, such as the imaginary ghost of the soldier's ex-girlfriend following him around (as seen in the trailer). The way comedy and tragedy are interspersed in the latter parts of the film may also seem inappropriate to some viewers. The film presents a highly personal point of view for a documentary, justified partly by staying true to the factual material, and partly by its author having been there on the scene.\n\nOverall, despite its shortcomings, this film makes a strong statement and is definitely worth seeing for its visuals and score.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 60152,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8
+  }
+}

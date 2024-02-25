@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Batman v Superman: Dawn of Justice",
+  "url": "https://www.imdb.com/tt2975590/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "Batman is manipulated by Lex Luthor to fear Superman. Superman\\u00b4s existence is meanwhile dividing the world and he is framed for murder during an international crisis. The heroes clash and force the neutral Wonder Woman to reemerge.",
+  "review": {
+    "author": "mdriggers-90288",
+    "dateCreated": "2022-03-26",
+    "inLanguage": "English",
+    "heading": "My favorite CBM of All Time",
+    "reviewBody": "This is my favorite CBM of all time. It&apos;s brilliant. I honestly think the world wasn&apos;t ready for it when it first came out. As with most of Zack Snyder&apos;s projects, it was ahead of its time. I only wish THIS version was released in theaters. WB butchered 30 minutes of important plot and character development out of this movie for the theatrical cut. This is so much better.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 748769,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2016-03-25",
+  "keywords": "superhero,dc extended universe,based on comic book,sequel,sequel to a reboot",
+  "duration": "PT2H31M",
+  "actor": [
+    {
+      "name": "Ben Affleck",
+      "url": "https://www.imdb.com/name/nm0000255/"
+    },
+    {
+      "name": "Henry Cavill",
+      "url": "https://www.imdb.com/name/nm0147147/"
+    },
+    {
+      "name": "Amy Adams",
+      "url": "https://www.imdb.com/name/nm0010736/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Zack Snyder",
+      "url": "https://www.imdb.com/name/nm0811583/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Bob Kane",
+      "url": "https://www.imdb.com/name/nm0004170/"
+    },
+    {
+      "name": "Bill Finger",
+      "url": "https://www.imdb.com/name/nm0277730/"
+    },
+    {
+      "name": "Jerry Siegel",
+      "url": "https://www.imdb.com/name/nm0796950/"
+    }
+  ]
+}

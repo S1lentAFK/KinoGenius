@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Pandemic",
+  "url": "https://www.imdb.com/tt3774802/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU0OTk0ODA4MV5BMl5BanBnXkFtZTgwMjM1MzA5NzE@._V1_.jpg",
+  "description": "A New York doctor travels with her team to Los Angeles to find survivors of a worldwide pandemic.",
+  "review": {
+    "author": "scythertitus",
+    "dateCreated": "2016-07-07",
+    "inLanguage": "English",
+    "heading": "A Bit Shaky",
+    "reviewBody": "The two glaring flaws to this film are its overuse of first person shaky cam, which while arguably immerses you deeper into the situation and action of the film, also quite simply makes you feel sick, and its appeal to generic audiences, as can be seen in the ridiculously broad title. However, if you can look past these two aspects, as well as the occasionally questionable special effect, then there is a lot of positive things to say.\\n\\nThis film has a great story, it makes sense and is carried out in an organic way, while still ticking all the usual zombie-survival boxes that have become the staple of this genre. The acting is pretty great in my opinion and conveys the right tone for each situation, my only complaint being here that with only four characters for most of the movie there is something lacking in personal interaction and team dynamic, although what there is is good and solidly written. There is also a rich world created within the framework of the film, although it is shown on a small scale, and this could easily be fleshed out more if there is a sequel at some point.\\n\\nOverall I found myself really liking the simple and solid aspects of this film in the acting and storytelling, although the constant switching of first person views might be enough to put some people off entirely as it does get a bit nauseating after a while. Still there is a lot of good here, especially for fans of the genre, most of us being used to much lower production values and less cohesive plots. For non-fans it might not come across so well.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 8437,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.4
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "datePublished": "2016-04-01",
+  "keywords": "pandemic,dystopia,post apocalypse,survival,rescue",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Rachel Nichols",
+      "url": "https://www.imdb.com/name/nm0629697/"
+    },
+    {
+      "name": "Alfie Allen",
+      "url": "https://www.imdb.com/name/nm0654295/"
+    },
+    {
+      "name": "Missi Pyle",
+      "url": "https://www.imdb.com/name/nm0701512/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Suits",
+      "url": "https://www.imdb.com/name/nm2986811/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dustin T. Benson",
+      "url": "https://www.imdb.com/name/nm3986004/"
+    }
+  ]
+}

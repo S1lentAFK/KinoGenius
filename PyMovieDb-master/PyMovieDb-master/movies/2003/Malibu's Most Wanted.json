@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Malibu's Most Wanted",
+  "url": "https://www.imdb.com/tt0328099/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODM3NzE0NTMxOF5BMl5BanBnXkFtZTYwMTIzNTk5._V1_.jpg",
+  "description": "A senator arranges for his son, a rich white kid who fancies himself black, to be kidnapped by a couple of black actors pretending to be murderers to try and shock him out of his plans to become a rapper.",
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2003-04-18",
+  "keywords": "interracial relationship, actor, shopping mall, embarrassment, political campaign",
+  "duration": "PT1H26M",
+  "actor": [
+    {
+      "name": "Jamie Kennedy",
+      "url": "https://www.imdb.com/name/nm0005085/"
+    },
+    {
+      "name": "Ryan O'Neal",
+      "url": "https://www.imdb.com/name/nm0641939/"
+    },
+    {
+      "name": "Blair Underwood",
+      "url": "https://www.imdb.com/name/nm0005516/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Whitesell",
+      "url": "https://www.imdb.com/name/nm0925870/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Fax Bahr",
+      "url": "https://www.imdb.com/name/nm0046943/"
+    },
+    {
+      "name": "Adam Small",
+      "url": "https://www.imdb.com/name/nm0806416/"
+    },
+    {
+      "name": "Jamie Kennedy",
+      "url": "https://www.imdb.com/name/nm0005085/"
+    }
+  ],
+  "review": {
+    "author": "CPB25",
+    "dateCreated": "2003-05-04",
+    "inLanguage": "English",
+    "heading": "Good for the laughs...",
+    "reviewBody": "This movie is not for everyone. The story is pretty weak and the humor is very age oriented. The movie was very humorous if you enjoy the white man who thinks he's a black man humor. The most amusing piece of the movie is the dialogue that is spoken by B-Rad (Jaime Kennedy). Jaime Kennedy does a very good job portraying B-Rad, the ghetto like white boy. It comes across as hilarious because everyone finds it amusing except him. IF you are looking for a good laugh, and you like that type of humor, I would recommend going to see this movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 20759,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  }
+}

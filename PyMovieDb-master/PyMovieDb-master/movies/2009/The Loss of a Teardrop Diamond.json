@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Loss of a Teardrop Diamond",
+  "url": "https://www.imdb.com/tt0896031/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU1ODM3NTk1Ml5BMl5BanBnXkFtZTcwNDEwMjAwMw@@._V1_.jpg",
+  "description": "A rebellious socialite defies social conventions for a once-in-a-lifetime shot at true love, only to see her hopes shattered after a priceless diamond vanishes into thin air. Adapted from a long-lost Tennessee Williams screenplay.",
+  "review": {
+    "author": "Bogie27",
+    "dateCreated": "2011-01-23",
+    "inLanguage": "English",
+    "heading": "cool evening river wind",
+    "reviewBody": "This Tennessee Williams period story focuses on life in the south in the late twenties. Williams enthusiast and director Jodie Markell brings the overlooked play to the screen. While not for everyone, Loss of a teardrop diamond is a change of pace and refreshing as a breath of cool evening river wind. \\n\\nThe story begins with the character of Fisher Willow, who returns to her father&apos;s Mississippi river plantation after an education in Europe. Fisher is played by Brice Dallas Howard and is as smooth as Jack Daniels in this sultry southern role. Social troubles have plagued Fisher after her father has committed a despised act toward the southern end of the community by blowing the river levee on his property. Fisher becomes rebellious and indignant to a society who blames her for her fathers sins.\\n\\nFor reasons unknown to the audience Fisher has developed a strong attraction to Jimmy Dobyne. It seems that Jimmy&apos;s family has seen better times. Since the years his grandfather was governor of the state, his family has fallen from prominence into near poverty. Jimmy&apos;s alcoholic father finds himself dependent on employment from the Willow family.\\n\\nIt appears Fisher&apos;s Aunt Cornelia is in control of the family and demands Fisher complete her social debut. Fisher employs Jimmy to escort her to the debutante parties, that her aunt Cornelia, has insisted she attend. Jimmy who feels manipulated and somewhat controlled resists Fishers advances toward him. \\n\\nThe story, while somewhat tame does contains some racy scenes that center around a Halloween party where things get out of hand. These scenes would have been tricky if not impossible to film in the fifties. No doubt from experiences in his early life, and probably from places like New Orleans, Williams creates a mosaic of wildly contrasting characters to illustrate this story. With the lives of so many different characters coming together, the sparks begin to fly toward the end of this film.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 2812,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2008-09-12",
+  "keywords": "halloween,halloween party,masquerade mask,plantation,love",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Bryce Dallas Howard",
+      "url": "https://www.imdb.com/name/nm0397171/"
+    },
+    {
+      "name": "Chris Evans",
+      "url": "https://www.imdb.com/name/nm0262635/"
+    },
+    {
+      "name": "Will Patton",
+      "url": "https://www.imdb.com/name/nm0001599/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jodie Markell",
+      "url": "https://www.imdb.com/name/nm0548346/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tennessee Williams",
+      "url": "https://www.imdb.com/name/nm0931783/"
+    }
+  ]
+}

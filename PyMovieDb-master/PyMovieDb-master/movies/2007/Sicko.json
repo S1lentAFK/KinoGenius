@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Sicko",
+  "url": "https://www.imdb.com/tt0386032/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmY4MzY5NDQtZjI5Ni00NjQ2LTg0YjUtNGJhNmFkN2Y3ODEyXkEyXkFqcGdeQXVyNTA4NzY1MzY._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "rich3077",
+    "dateCreated": "2007-06-23",
+    "inLanguage": "English",
+    "heading": "Wow.. just wow",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 76700,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Documentary",
+    "Drama"
+  ],
+  "datePublished": "2007-10-26",
+  "keywords": "business interest,unhealthy,medical issue,medical,corporate greed",
+  "duration": "PT2H3M",
+  "actor": [
+    {
+      "name": "Michael Moore",
+      "url": "https://www.imdb.com/name/nm0601619/"
+    },
+    {
+      "name": "Tucker Albrizzi",
+      "url": "https://www.imdb.com/name/nm3235380/"
+    },
+    {
+      "name": "Tony Benn",
+      "url": "https://www.imdb.com/name/nm1125277/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Moore",
+      "url": "https://www.imdb.com/name/nm0601619/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Moore",
+      "url": "https://www.imdb.com/name/nm0601619/"
+    }
+  ]
+}

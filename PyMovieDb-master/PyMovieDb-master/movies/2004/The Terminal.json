@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "The Terminal",
+  "url": "https://www.imdb.com/tt0362227/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzY3YzNlZjctZTNiNC00MjUzLTlhM2ItNjdkNzAwMDhmYmRmXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "claudio_carvalho",
+    "dateCreated": "2005-04-25",
+    "inLanguage": "English",
+    "heading": "Delightful Fable About a Patient Man Who Is Trapped by the Bureaucracy in the International Lounge of JFK",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 491924,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2004-09-03",
+  "keywords": "airport,man without a country,fictional country,jazz,john f. kennedy international airport",
+  "duration": "PT2H8M",
+  "actor": [
+    {
+      "name": "Tom Hanks",
+      "url": "https://www.imdb.com/name/nm0000158/"
+    },
+    {
+      "name": "Catherine Zeta-Jones",
+      "url": "https://www.imdb.com/name/nm0001876/"
+    },
+    {
+      "name": "Chi McBride",
+      "url": "https://www.imdb.com/name/nm0564277/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven Spielberg",
+      "url": "https://www.imdb.com/name/nm0000229/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Niccol",
+      "url": "https://www.imdb.com/name/nm0629272/"
+    },
+    {
+      "name": "Sacha Gervasi",
+      "url": "https://www.imdb.com/name/nm0315065/"
+    },
+    {
+      "name": "Jeff Nathanson",
+      "url": "https://www.imdb.com/name/nm0622288/"
+    }
+  ]
+}

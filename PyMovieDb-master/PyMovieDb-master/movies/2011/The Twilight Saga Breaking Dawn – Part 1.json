@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Twilight Saga: Breaking Dawn - Part 1",
+  "url": "https://www.imdb.com/tt1324999/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODgxNDE0OTAzOF5BMl5BanBnXkFtZTcwNzcwODE2Ng@@._V1_.jpg",
+  "description": "The Quileutes close in on expecting parents Edward and Bella, whose unborn child poses a threat to the Wolf Pack and the towns people of Forks.",
+  "review": {
+    "author": "Scrugulus",
+    "dateCreated": "2012-06-29",
+    "inLanguage": "English",
+    "heading": "OK, but without much content",
+    "reviewBody": "There is not much happening altogether in this film. They put way too much focus on the wedding and the honeymoon, thus wasting precious time. But I guess all those teenage girl fans wanted a full portrayal of the big romantic wedding.\\n\\nIn all of the previous films, I liked the acting of most of the cast a lot. But in this film, everyone except Bella, Edward & Jacob is marginalised to such an extent that there cannot be much said about them. As an audience you just don&apos;t get to see enough of any of them to really develop a connection with or care about them.\\n\\nAltogether this is an OK addition to the franchise, by no means worse than the disappointing/confusing 2nd or 3rd films. I assume I will give this film either a 5 or a 6 (out of 10), but I think I will withhold my final vote until I have seen part 2. I know some might say that they are released as separate films and therefore should be treated as such, but as the original book is ripped into two halves here, I think it is fair to reserve the final judgement until I have seen the two films in conjunction (seeing that, as I haven&apos;t read the books, I will need to have seen both films in order to make sense of it all).",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 252831,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.9
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "datePublished": "2011-11-18",
+  "keywords": [
+    "wedding",
+    "marriage",
+    "pregnancy",
+    "vampire",
+    "age difference"
+  ],
+  "duration": "PT1H57M",
+  "actor": [
+    {
+      "name": "Kristen Stewart",
+      "url": "https://www.imdb.com/name/nm0829576/"
+    },
+    {
+      "name": "Robert Pattinson",
+      "url": "https://www.imdb.com/name/nm1500155/"
+    },
+    {
+      "name": "Taylor Lautner",
+      "url": "https://www.imdb.com/name/nm1210124/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bill Condon",
+      "url": "https://www.imdb.com/name/nm0174374/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Melissa Rosenberg",
+      "url": "https://www.imdb.com/name/nm0742279/"
+    },
+    {
+      "name": "Stephenie Meyer",
+      "url": "https://www.imdb.com/name/nm2769412/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Book of Shadows: Blair Witch 2",
+  "url": "https://www.imdb.com/tt0229260/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2E2MTRmZjItOTdkYi00ZTRlLTk1ZTQtZGFlZTY1MWEyN2FmXkEyXkFqcGdeQXVyMTAxODYyODI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "songod-95003",
+    "dateCreated": "2020-06-15",
+    "inLanguage": "English",
+    "heading": "Unfairly Maligned",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 39796,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Adventure",
+    "Fantasy",
+    "Horror"
+  ],
+  "datePublished": "2000-10-27",
+  "keywords": "sex scene,reference to elvira,goth girl,mysterious death,female frontal nudity",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Jeffrey Donovan",
+      "url": "https://www.imdb.com/name/nm0232998/"
+    },
+    {
+      "name": "Stephen Barker Turner",
+      "url": "https://www.imdb.com/name/nm0877874/"
+    },
+    {
+      "name": "Erica Leerhsen",
+      "url": "https://www.imdb.com/name/nm0498713/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joe Berlinger",
+      "url": "https://www.imdb.com/name/nm0075666/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Daniel Myrick",
+      "url": "https://www.imdb.com/name/nm0617130/"
+    },
+    {
+      "name": "Eduardo S\\u00e1nchez",
+      "url": "https://www.imdb.com/name/nm0844896/"
+    },
+    {
+      "name": "Dick Beebe",
+      "url": "https://www.imdb.com/name/nm0066243/"
+    }
+  ]
+}

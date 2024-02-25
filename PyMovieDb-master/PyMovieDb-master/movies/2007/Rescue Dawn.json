@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Rescue Dawn",
+  "url": "https://www.imdb.com/tt0462504/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzUxNzUzNzU2MV5BMl5BanBnXkFtZTcwNTgzNzU2NA@@._V1_.jpg",
+  "description": "A U.S. fighter pilot's epic struggle of survival after being shot down on a mission over Laos during the Vietnam War.",
+  "review": {
+    "author": "blott2319-1",
+    "dateCreated": "2020-06-26",
+    "inLanguage": "English",
+    "heading": "Brutal and tough to watch, but well made",
+    "reviewBody": "Rescue Dawn is a film that details the real-life struggles that a fighter pilot endured when he was shot down during the Vietnam War. I appreciate that the film doesn't waste any time at all. It seems that not more than 10 minutes into the film, Christian Bale is lost behind enemy lines. You almost have to be engaged by the story of a POW, particularly when they are mistreated in captivity. It's tough to watch all that Dengler was put through in his long time in Laos. I was definitely invested and felt like I was put through an emotional wringer as the film doesn't give you much cause for hope. I found myself worn down as the character began to reach his limits. He couldn't seem to bear much more pain (physically or emotionally,) and I was ready to give up on the film because it was so dire and depressing, but the chance they might try to escape gave me enough to endure.\\n\\nKnowing that the entire film is based on a true story is both a blessing and a curse. On the one hand, I appreciate that there is something to keep my spirits up when the film is so bleak, because I know somehow Dengler must have survived to tell this story. Then again, it takes away a bit of drama at the end of the film, because we know help will come at some point. Christian Bale does a good job in the lead role, and did some of his patented extreme weight loss. I loved what Steve Zahn brought to the film, and I thought this showed he had some range, instead of always being the comic relief. Jeremy Davies is an actor I've always struggled with, perhaps because he is constantly typecast as a bit of a weasel, but I suppose that fits for this role. As a whole film, Rescue Dawn is tough to watch. But it's a powerful tale of survival in the worst of circumstances, so I enjoyed it to some degree.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 110385,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Adventure",
+    "Biography",
+    "War"
+  ],
+  "datePublished": "2007-11-23",
+  "keywords": "prisoner,prison camp,torture,prisoner of war camp,prisoner of war",
+  "duration": "PT2H5M",
+  "actor": [
+    {
+      "name": "Christian Bale",
+      "url": "https://www.imdb.com/name/nm0000288/"
+    },
+    {
+      "name": "Steve Zahn",
+      "url": "https://www.imdb.com/name/nm0001872/"
+    },
+    {
+      "name": "Jeremy Davies",
+      "url": "https://www.imdb.com/name/nm0001111/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Werner Herzog",
+      "url": "https://www.imdb.com/name/nm0001348/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Werner Herzog",
+      "url": "https://www.imdb.com/name/nm0001348/"
+    }
+  ]
+}

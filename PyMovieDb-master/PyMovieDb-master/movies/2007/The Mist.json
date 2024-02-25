@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Mist",
+  "url": "https://www.imdb.com/tt0884328/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjQyNDY1Ml5BMl5BanBnXkFtZTcwMTk1MDU1MQ@@._V1_.jpg",
+  "description": "A freak storm unleashes a species of bloodthirsty creatures on a small town, where a small band of citizens hole up in a supermarket and fight for their lives.",
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "datePublished": "2008-07-04",
+  "keywords": "survival horror,survival,giant insect,religious fanatic,based on the works of stephen king",
+  "duration": "PT2H6M",
+  "actor": [
+    {
+      "name": "Thomas Jane",
+      "url": "https://www.imdb.com/name/nm0005048/"
+    },
+    {
+      "name": "Marcia Gay Harden",
+      "url": "https://www.imdb.com/name/nm0001315/"
+    },
+    {
+      "name": "Laurie Holden",
+      "url": "https://www.imdb.com/name/nm0390229/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Frank Darabont",
+      "url": "https://www.imdb.com/name/nm0001104/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Frank Darabont",
+      "url": "https://www.imdb.com/name/nm0001104/"
+    },
+    {
+      "name": "Stephen King",
+      "url": "https://www.imdb.com/name/nm0000175/"
+    }
+  ],
+  "review": {
+    "author": "pnarco",
+    "dateCreated": "2007-12-02",
+    "inLanguage": "English",
+    "heading": "This King adaptation gets it right",
+    "reviewBody": "I was very impressed by this adaptation of Stephen King's 'The Mist'. I have been a fan of the story since it came out and have played the text game and have heard the 3-D audio version of it. This is a masterful suspense/monster movie that puts an ensemble cast into the untenable situation of being in a deteriorating situation they cannot escape from. We watch as alliances are formed, religious paranoia takes hold and, nicely, the movie takes the time to establish characters whom we come to care for before the true action begins. I dock it a couple of points because some of the monsters seemed a little too cgi, and the middle lags a bit, but the much talked about ending is indeed awesome and I was most impressed by the director's decision to keep the music soundtrack down and even eliminate it completely during many of the action sequences. So many movies nowadays crank the music up to 11 to make up for the fact that their suspense scenes do not work. This movie does. I was breathlessly on the edge of my seat for most of it, even though I was already familiar with the story. Highly recommended.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 336995,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  }
+}

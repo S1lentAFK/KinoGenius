@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Pacifier",
+  "url": "https://www.imdb.com/tt0395699/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTE5MTcxOTQxNl5BMl5BanBnXkFtZTYwMzk3Nzg2._V1_.jpg",
+  "description": "Having recovered from wounds received in a failed rescue operation, Navy SEAL Shane Wolfe is handed a new assignment: Protect the five Plummer kids from enemies of their recently deceased father -- a government scientist whose top...",
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2005-05-27",
+  "keywords": [
+    "secret room",
+    "male nanny",
+    "death of husband",
+    "girl scouts",
+    "duck"
+  ],
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Vin Diesel",
+      "url": "https://www.imdb.com/name/nm0004874/"
+    },
+    {
+      "name": "Brittany Snow",
+      "url": "https://www.imdb.com/name/nm0811242/"
+    },
+    {
+      "name": "Max Thieriot",
+      "url": "https://www.imdb.com/name/nm1302735/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Adam Shankman",
+      "url": "https://www.imdb.com/name/nm0788202/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Thomas Lennon",
+      "url": "https://www.imdb.com/name/nm0502073/"
+    },
+    {
+      "name": "Robert Ben Garant",
+      "url": "https://www.imdb.com/name/nm0304830/"
+    }
+  ],
+  "review": {
+    "author": "imdbmoviereviews",
+    "dateCreated": "2022-08-08",
+    "inLanguage": "English",
+    "heading": "the movie is family frinedly is it a cliche sure but not horrible",
+    "reviewBody": "There not all that much to say defiantly not great but given the target audience it delivers on that nice hour and a half of no bad taste in mouth 'entertainment' just not being too memorable doesn't mean it's boring -for an adult audience sure but you gotta remember the demographics\n\nand i do think it' a shame we don't some some actors such as vine in more comedies an exploring the edges of their talent... a shame there's a lot of talent wasted generally speaking\n\nif you're an adult obviously i wouldn't recommend but if you're a family then there are much worse options for you to end up watching to kill time/entertain the ids.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 100272,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  }
+}

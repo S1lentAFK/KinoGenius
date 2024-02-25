@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Madagascar: Escape 2 Africa",
+  "url": "https://www.imdb.com/tt0479952/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODhkODQxNjMtZjJjZS00MjU2LTk5YjgtZjAxYmQ2YTJhNGQ4XkEyXkFqcGdeQXVyMTE0NzY5OTk5._V1_.jpg",
+  "description": "The Madagascar animals fly back to New York City, but crash-land on an African nature reserve in Kenya, where they meet others of their own kind, and Alex especially discovers his royal heritage as prince of a lion pride.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2008-12-05",
+  "keywords": "cult film,male protagonist,elephant,lion cub,crash landing",
+  "duration": "PT1H29M",
+  "rating": {
+    "ratingCount": 245189,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "review": {
+    "author": "areatw",
+    "dateCreated": "2017-04-16",
+    "inLanguage": "English",
+    "heading": "Not as witty as the original",
+    "reviewBody": "The original 'Madagascar' was one of the funniest animated films I'd seen in a long time, characterised by witty humour, hilarious one-liners and some brilliantly funny characters. The sequel is unfortunately a downgrade, a cut-and-paste job that loses a lot of what made the first movie so good.\n\nThe plot in the sequel isn't as interesting, in fact there's not much of a 'plot' - not a lot happens. It did make me laugh on occasions, but no where near as much as the first film. 'Madagascar 2' is a decent enough sequel but it's not as witty and smart as the original.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "actor": [
+    {
+      "name": "Ben Stiller",
+      "url": "https://www.imdb.com/name/nm0001774/"
+    },
+    {
+      "name": "Chris Rock",
+      "url": "https://www.imdb.com/name/nm0001674/"
+    },
+    {
+      "name": "David Schwimmer",
+      "url": "https://www.imdb.com/name/nm0001710/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Eric Darnell",
+      "url": "https://www.imdb.com/name/nm0201509/"
+    },
+    {
+      "name": "Tom McGrath",
+      "url": "https://www.imdb.com/name/nm0569891/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Etan Cohen",
+      "url": "https://www.imdb.com/name/nm1000113/"
+    },
+    {
+      "name": "Eric Darnell",
+      "url": "https://www.imdb.com/name/nm0201509/"
+    },
+    {
+      "name": "Tom McGrath",
+      "url": "https://www.imdb.com/name/nm0569891/"
+    }
+  ]
+}

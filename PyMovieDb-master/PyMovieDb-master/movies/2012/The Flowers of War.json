@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Jin ling shi san chai",
+  "url": "https://www.imdb.com/tt1410063/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE3OTUzODA3Ml5BMl5BanBnXkFtZTcwNDk5NTUyNw@@._V1_.jpg",
+  "description": "An American finds refuge during the 1937 Japanese invasion of Nanking in a church with a group of women. Posing as a priest, he attempts to lead the women to safety.",
+  "genre": [
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "datePublished": "2012-08-03",
+  "duration": "PT2H26M",
+  "contentRating": "15",
+  "keywords": "food shortage,starving child,attempted rape,abusive stepfather,sexual abuse",
+  "rating": {
+    "ratingCount": 55418,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "review": {
+    "author": "sonia-0111",
+    "dateCreated": "2011-12-20",
+    "inLanguage": "English",
+    "heading": "Good Movie is Like a Mirror",
+    "reviewBody": "I watched the movie in Beijing, twice. The second time I liked it more. This has to be one of the best Chinese films yet, if not the best. Some scenes are pretty brutal, but really worth watching, to say the least. \\n\\nThe director Zhang YiMou told a powerful, touching and beautiful story, while delivering stunning visual effects as always. All actors from different countries did an amazing job in making so many strong characters in 3 languages, not just the American &apos;priest&apos;, but also those prostitutes, the boy George, all the children, Japanese officers, and the Chinese &apos;traitor&apos;. \\n\\nGood movie is like a mirror, some people might get upset watching it, while others see love for others, respect for life, and the human spirit of fighting for peace out of tragedy. Each audience&apos;s reaction more or less reflects his/her personal value. The storytelling is objective so you can judge for yourself. In front of a masterpiece like this, people who ranked it very low deliberately because of stereotypes against China or whatever twisted reason (I KNOW YOU EXSIT ON THIS SITE), you need to sit down and think what&apos;s wrong with yourself, no matter how open-minded you claim you are. \\n\\nSome say it is a propaganda production. I have to disagree here. Almost everything in this movie is based on real history, including how Japanese tortured Chinese war victims, how prostitutes stood up to protect other women during the Rape of NanJing, as well as how some westerners resided in China at the time helped local Chinese. Anyone who can pick up a few books or do a bit of research on internet knows it. \\n\\nEnglish is not my mother language so I can&apos;t write an review with big words like those professional critics do. However, this is the first time I feel so moved by a movie that I&apos;d write an English review online to recommend it to viewers outside of China. Simply too good to miss. \\n\\nIf any Chinese simply walked out of the cinema cursing Japanese, I&apos;d say the movie failed big time. However, both times I saw people left quietly, some still sobbing, and heard them saying how lucky they are to be born in this era and how precious peace is. For that reason, I applaud this film. \\n\\nIt is what it is. Horrible things happened in history. Hate and anger won&apos;t do any good today. Make peace with yourself and move on. Just like what George said in the movie, life is precious, it is not ours to throw away.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "actor": [
+    {
+      "name": "Christian Bale",
+      "url": "https://www.imdb.com/name/nm0000288/"
+    },
+    {
+      "name": "Ni Ni",
+      "url": "https://www.imdb.com/name/nm4809043/"
+    },
+    {
+      "name": "Xinyi Zhang",
+      "url": "https://www.imdb.com/name/nm5149048/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Yimou Zhang",
+      "url": "https://www.imdb.com/name/nm0955443/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Heng Liu",
+      "url": "https://www.imdb.com/name/nm0514936/"
+    },
+    {
+      "name": "Geling Yan",
+      "url": "https://www.imdb.com/name/nm0945802/"
+    }
+  ]
+}

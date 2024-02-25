@@ -1,0 +1,55 @@
+{
+  "type": "Movie",
+  "name": "The Hitman&apos;s Bodyguard: The Hitman vs. The Bodyguard",
+  "url": "https://www.imdb.com/tt8706598/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWUwNjA0Y2UtYWM4Zi00ZWE5LTkyYzUtYzZlOGQxOTViZGEwXkEyXkFqcGdeQXVyMTY1MTcxMzc@._V1_.jpg",
+  "description": "Ryan Reynolds and Samuel L. Jackson star as an elite bodyguard and renowned hit man who is forced to work together. In order to succeed, they don&apos;t just have to avoid getting killed, they have to avoid killing each other.",
+  "review": {
+    "author": "verbfan",
+    "dateCreated": "2022-03-23",
+    "inLanguage": "English",
+    "heading": "Such a good movie",
+    "reviewBody": "This was such a good movie there was a lot of action ,comedy and it was put together well. This is by far one of my favourite Ryan Reynolds movies.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 30083,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": null,
+  "genre": [
+    "Short",
+    "Action",
+    "Comedy"
+  ],
+  "datePublished": "2017-11-21",
+  "keywords": null,
+  "duration": "PT5M",
+  "actor": [
+    {
+      "name": "Mark Christopher Collins",
+      "url": "https://www.imdb.com/name/nm5401670/"
+    },
+    {
+      "name": "James Grogan",
+      "url": "https://www.imdb.com/name/nm1247272/"
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "url": "https://www.imdb.com/name/nm0000168/"
+    }
+  ],
+  "director": [],
+  "creator": [
+    {
+      "name": "Jeffrey Lerner",
+      "url": "https://www.imdb.com/name/nm1139932/"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+
+
+{
+  "type": "Movie",
+  "name": "Veronika Decides to Die",
+  "url": "https://www.imdb.com/tt1068678/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQzNTk4NTUwM15BMl5BanBnXkFtZTgwODE0NTA4MzE@._V1_.jpg",
+  "description": "After a frantic suicide attempt, Veronika awakens inside a mysterious mental asylum. Under the supervision of an unorthodox psychiatrist who specializes in controversial treatment, Veronika learns that she has only weeks to live.",
+  "contentRating": "R",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2015-01-20",
+  "keywords": [
+    "four word title",
+    "female psychiatric patient",
+    "suicidal",
+    "female director",
+    "female filmmaker"
+  ],
+  "duration": "PT1H43M",
+  "actor": [
+    {
+      "name": "Sarah Michelle Gellar",
+      "url": "https://www.imdb.com/name/nm0001264/"
+    },
+    {
+      "name": "Jonathan Tucker",
+      "url": "https://www.imdb.com/name/nm0006958/"
+    },
+    {
+      "name": "Erika Christensen",
+      "url": "https://www.imdb.com/name/nm0159776/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Emily Young",
+      "url": "https://www.imdb.com/name/nm1369721/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Paulo Coelho",
+      "url": "https://www.imdb.com/name/nm0168723/"
+    },
+    {
+      "name": "Larry Gross",
+      "url": "https://www.imdb.com/name/nm0343419/"
+    },
+    {
+      "name": "Roberta Hanley",
+      "url": "https://www.imdb.com/name/nm0360106/"
+    }
+  ],
+  "review": {
+    "author": "smithellie1966",
+    "dateCreated": "2015-04-11",
+    "inLanguage": "English",
+    "heading": "it is Okay movie",
+    "reviewBody": "Everyone has different perception and here is mine. I wouldn't say that this movie was very bad or boring. It was not believable in my opinion. If you decide to commit suicide in your own home, you make sure the doors are locked and nobody is going to visit you in the next few days. In this film she did not even pass out before someone was already banging on her door and how did they come in? Let alone how did they find out? From the email she sent in response to an advertisement? From that on things were becoming even less realistic. A nut house that looks like a retreat for super rich. Not sure why her parents were even brought into the story. The sudden transformation from hating life to loving it was unsubstantiated. A guy? A silent guy who was sitting on a tree suddenly made her realize that life is worth living? Quite a stretch after she was cynical about guys and marriage and family life in general. The performances were okay. I did not watch any of her other movies prior to this one simply because they are not the movies I watch.The final scenes, after the escape, were dull, pretentious and unrealistic. This film just confirmed that I stick to foreign movies, which almost never disappoint me. Force Majeure is the latest one I enjoyed.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 13117,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  }
+}

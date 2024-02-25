@@ -1,0 +1,57 @@
+
+
+{
+  "type": "Movie",
+  "name": "Standard Operating Procedure",
+  "url": "https://www.imdb.com/tt0896866/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2FiZTBiZDItMzc2MS00YTVkLTg0MTctYzkxYTRiN2UwM2U3XkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_.jpg",
+  "description": "Errol Morris examines the incidents of abuse and torture of suspected terrorists at the hands of U.S. forces at the Abu Ghraib prison.",
+  "review": {
+    "author": "Mr_Pink05",
+    "dateCreated": "2009-12-03",
+    "inLanguage": "English",
+    "heading": "Excellent stuff",
+    "reviewBody": "Respectful silence from the audience throughout. Not a word spoken by anyone exiting the theatre afterwards. Standard Operating Procedure is the film no one is talking about.\\n\\nErrol Morris&apos; documentary on the abuse of detainees at Abu Ghraib prison is smart and informative. While talking head interviews with the people directly and indirectly involved provide the backbone, cinematic reconstructions of 2003s grizzly events coupled with the well known photographs taken by soldiers work successfully at pulling an emotional response from the viewer.\\n\\nThough intriguing, SOP doesn&apos;t really benefit from the big screen treatment and would probably have just as much impact if viewed on TV.\\n\\nDark and depressing, shocking and enlightening: SOP is 2008&apos;s must see documentary.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 4094,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Documentary",
+    "Crime",
+    "War"
+  ],
+  "datePublished": "2008-07-18",
+  "keywords": "torturer,male full frontal nudity,abu ghraib,torture,prison",
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Megan Ambuhl Graner",
+      "url": "https://www.imdb.com/name/nm4304387/"
+    },
+    {
+      "name": "Javal Davis",
+      "url": "https://www.imdb.com/name/nm4304952/"
+    },
+    {
+      "name": "Ken Davis",
+      "url": "https://www.imdb.com/name/nm3282357/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Errol Morris",
+      "url": "https://www.imdb.com/name/nm0001554/"
+    }
+  ],
+  "creator": []
+}

@@ -1,0 +1,50 @@
+{
+  "type": "Movie",
+  "name": "Zootopia 2",
+  "url": "https://www.imdb.com/tt31187839/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjc0YTdlZGEtMThjMS00ZjQxLTlmZWMtM2EzOTY5ZjU2OGIzXkEyXkFqcGdeQXVyMTYzNzk0MDk5._V1_.jpg",
+  "description": "Young bunny Hopps moves to the big city to become a police officer but struggles on her first day. She meets fox Nick who manipulates others. They discover Bellwether&apos;s plan to change city rules and reluctantly join forces to stop...",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": null,
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2025-11-26",
+  "keywords": "cgi animation,disney animated sequel,sequel,second part,number 2 in title",
+  "duration": null,
+  "actor": [
+    {
+      "name": "Jason Bateman",
+      "url": "https://www.imdb.com/name/nm0000867/"
+    },
+    {
+      "name": "Rolando Davila-Beltran",
+      "url": "https://www.imdb.com/name/nm9633659/"
+    },
+    {
+      "name": "Ginnifer Goodwin",
+      "url": "https://www.imdb.com/name/nm0329481/"
+    }
+  ],
+  "director": [],
+  "creator": []
+}

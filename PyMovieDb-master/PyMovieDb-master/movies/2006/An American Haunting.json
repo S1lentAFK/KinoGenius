@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "An American Haunting",
+  "url": "https://www.imdb.com/tt0429573/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTg0MDcyNDczMl5BMl5BanBnXkFtZTcwNjE4ODIzMQ@@._V1_.jpg",
+  "description": "An invisible entity haunts a 19th century family, and family secrets soon begin to surface.",
+  "review": {
+    "author": "wolfee37",
+    "dateCreated": "2006-02-22",
+    "inLanguage": "English",
+    "heading": "A Scary Film....well not really",
+    "reviewBody": "A decent movie with good performances by the always wonderful Sissy Spacek and Donald Sutherland, but one person that stuck out was Rachel Hurd-Wood. I was a little nervous because of the director (Courtney Solomon) last movie which was the terrible Dungeons and Dragons,and I was right... he was not fit for the role of Director. The thing is at some parts made me squeamish and you could actually feel the hair on the back ofyour neck in some parts(SOME IS THE KEY WORD). The cinematography by master Adrian Biddle and the score by Caine Davidson are first rate.The movie is a really clich\u00e9d, though and some of the camera angles gave me a headache.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 26768,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2006-04-14",
+  "keywords": [
+    "year 1818",
+    "ghost",
+    "flash forward",
+    "voice over letter",
+    "year 2006"
+  ],
+  "duration": "PT1H23M",
+  "actor": [
+    {
+      "name": "Donald Sutherland",
+      "url": "https://www.imdb.com/name/nm0000661/"
+    },
+    {
+      "name": "Sissy Spacek",
+      "url": "https://www.imdb.com/name/nm0000651/"
+    },
+    {
+      "name": "Rachel Hurd-Wood",
+      "url": "https://www.imdb.com/name/nm1248393/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Courtney Solomon",
+      "url": "https://www.imdb.com/name/nm0813309/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Courtney Solomon",
+      "url": "https://www.imdb.com/name/nm0813309/"
+    },
+    {
+      "name": "Brent Monahan",
+      "url": "https://www.imdb.com/name/nm0597512/"
+    }
+  ]
+}

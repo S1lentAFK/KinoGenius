@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Looking for Eric",
+  "url": "https://www.imdb.com/tt1242545/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjk1Mjk1NDk4NF5BMl5BanBnXkFtZTcwMDg1MDczMw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "hopek-1",
+    "dateCreated": "2009-06-10",
+    "inLanguage": "English",
+    "heading": "Lots of Laughs",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 17879,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "datePublished": "2009-06-12",
+  "keywords": "hoarding,mail hoarding,trust,social alienation,alienation",
+  "duration": "PT1H56M",
+  "actor": [
+    {
+      "name": "Steve Evets",
+      "url": "https://www.imdb.com/name/nm0263740/"
+    },
+    {
+      "name": "Eric Cantona",
+      "url": "https://www.imdb.com/name/nm0134642/"
+    },
+    {
+      "name": "Stephanie Bishop",
+      "url": "https://www.imdb.com/name/nm2288625/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ken Loach",
+      "url": "https://www.imdb.com/name/nm0516360/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Paul Laverty",
+      "url": "https://www.imdb.com/name/nm0491956/"
+    }
+  ]
+}

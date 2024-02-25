@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Everybody's Fine",
+  "url": "https://www.imdb.com/tt0780511/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM1NzEwNzA5MV5BMl5BanBnXkFtZTcwNTE0NjAyMw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "ClaytonDavis",
+    "dateCreated": "2009-11-28",
+    "inLanguage": "English",
+    "heading": "Robert DeNiro's Acting is More than Fine...",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 63738,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Adventure",
+    "Drama"
+  ],
+  "datePublished": "2010-02-26",
+  "keywords": "parental love,family relationships,retirement,train ride,bus trip",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Robert De Niro",
+      "url": "https://www.imdb.com/name/nm0000134/"
+    },
+    {
+      "name": "Kate Beckinsale",
+      "url": "https://www.imdb.com/name/nm0000295/"
+    },
+    {
+      "name": "Sam Rockwell",
+      "url": "https://www.imdb.com/name/nm0005377/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kirk Jones",
+      "url": "https://www.imdb.com/name/nm0428600/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kirk Jones",
+      "url": "https://www.imdb.com/name/nm0428600/"
+    },
+    {
+      "name": "Giuseppe Tornatore",
+      "url": "https://www.imdb.com/name/nm0868153/"
+    },
+    {
+      "name": "Tonino Guerra",
+      "url": "https://www.imdb.com/name/nm0346096/"
+    }
+  ]
+}

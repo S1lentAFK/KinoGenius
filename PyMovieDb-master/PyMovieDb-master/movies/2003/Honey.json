@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Honey",
+  "url": "https://www.imdb.com/tt0322589/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmY1MGMwOTctNDg1Ni00YWU2LTg5ZTEtYjE1NmJjZTAyZjVjXkEyXkFqcGdeQXVyOTQ5Njc0MDU@._V1_.jpg",
+  "description": "Honey is a sexy, tough music video choreographer who shakes up her life after her mentor gives her an ultimatum: sleep with him or be blacklisted within their industry.",
+  "contentRating": "PG",
+  "genre": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "datePublished": "2004-03-12",
+  "keywords": "dancer,choreographer,dancing,hip hop,one word title",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Jessica Alba",
+      "url": "https://www.imdb.com/name/nm0004695/"
+    },
+    {
+      "name": "Mekhi Phifer",
+      "url": "https://www.imdb.com/name/nm0001616/"
+    },
+    {
+      "name": "Romeo Miller",
+      "url": "https://www.imdb.com/name/nm0999075/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bille Woodruff",
+      "url": "https://www.imdb.com/name/nm0937306/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Alonzo Brown",
+      "url": "https://www.imdb.com/name/nm1188393/"
+    },
+    {
+      "name": "Kim Watson",
+      "url": "https://www.imdb.com/name/nm0914760/"
+    }
+  ],
+  "review": {
+    "author": "t3quill4_rulz",
+    "dateCreated": "2005-05-22",
+    "inLanguage": "English",
+    "heading": "A film for young, innocent chicks",
+    "reviewBody": "If you wanna see a hot young beautiful girl shaking her bootie (and not in a vulgar way) go ahead and watch the movie!Jessica alba&apos;s character is way to innocent and a bit fake...I mean how can a girl like that , dressed like that could walk alone at night in a neighborhood like that...and what about Michael... how can that person could actually be successful...To me the only two things that are worth watching are the dancers ( a plus for Jessica alba) and the scenes with Missy Elliot!!But anyway it&apos;s really frustrating you have to write at least 10 lines...I&apos;m running out of ideas...In conclusion go to the movie if you want because who knows...maybe you would like it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 47237,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  }
+}

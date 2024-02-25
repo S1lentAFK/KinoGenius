@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hanna",
+  "url": "https://www.imdb.com/tt0993842/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTAzMTg1NjY0NF5BMl5BanBnXkFtZTcwODc3MTgzNA@@._V1_.jpg",
+  "description": "A sixteen-year-old girl who was raised by her father to be the perfect assassin is dispatched on a mission across Europe, tracked by a ruthless intelligence agent and her operatives.",
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "datePublished": "2011-05-06",
+  "keywords": "action heroine,pistol,deer hunting,female warrior,rogue agent",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Saoirse Ronan",
+      "url": "https://www.imdb.com/name/nm1519680/"
+    },
+    {
+      "name": "Cate Blanchett",
+      "url": "https://www.imdb.com/name/nm0000949/"
+    },
+    {
+      "name": "Eric Bana",
+      "url": "https://www.imdb.com/name/nm0051509/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joe Wright",
+      "url": "https://www.imdb.com/name/nm0942504/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Seth Lochhead",
+      "url": "https://www.imdb.com/name/nm2605946/"
+    },
+    {
+      "name": "David Farr",
+      "url": "https://www.imdb.com/name/nm1016333/"
+    }
+  ],
+  "review": {
+    "author": "Chrysanthepop",
+    "dateCreated": "2011-11-18",
+    "inLanguage": "English",
+    "heading": "Run Hanna Run",
+    "reviewBody": "Joe Wright's 'Hanna' opens with a teenager (the title character) hunting a reindeer in a snowy forest. What soon follows is a carefully choreographed and skillfully shot battle sequence between Hanna and the person who, as revealed sooner, happens to be her father. Wright holds the viewer's interest right from the very beginning and takes us through a mesmerizing chase as Hanna continues to fight and run. Although the pacing is slow at times, suspense is well maintained. There is some humour which is cleverly incorporated.\\n\\nThe exotic locations are pleasing to look at and the Chemical Brothers's unique score is magic. The cinematography, especially the long shots, are outstanding. Examples include the scene where Erik is being followed by Marissa's agents. The shootout scenes are also exceptionally well done. I only thought that the upside-down shots were sometimes overdone.\\n\\nThe performances are topnotch. Saoirse Ronan shows tremendous potential and proves that she can lead a film. Cate Blanchett is terrific as the ruthless Marissa even though her accent sounds odd at times. Erik Bana is brilliant with his restrained performance.\\n\\nA slick thriller with strong performances, an awesome soundtrack and great suspense, what's not to like about 'Hanna'?",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 206176,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  }
+}

@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Seven Days in Utopia",
+  "url": "https://www.imdb.com/tt1699147/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUwNjcwMDgzNV5BMl5BanBnXkFtZTcwMjE3MzAxNg@@._V1_.jpg",
+  "description": "After a disastrous debut on the pro circuit, a young golfer finds himself unexpectedly stranded in Utopia, Texas and welcomed by an eccentric rancher.",
+  "contentRating": "G",
+  "genre": [
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2011-09-02",
+  "keywords": "golf sport,outdoor sport,ranch,golf,place name in title",
+  "duration": "PT1H40M",
+  "rating": {
+    "ratingCount": 4103,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "review": {
+    "author": "robtaday",
+    "dateCreated": "2013-02-20",
+    "inLanguage": "English",
+    "heading": "Another Winner from Robert Duval",
+    "reviewBody": "I usually get my movies from the public library where the pickings can be slim, so when I get the chance to grab a movie starring Robert Duval I don't pass it up. It is hard to believe he has won only one Oscar. Once again, as in The Disciple, among others, Mr. Duval appears among a stellar ensemble who don't appear to be stars at all, just natural actors. The story centers around Lucas Black's character, a young golfer, and the ranch(Utopia)run by Duval he goes to for reflection/meditation after a devastating loss. While there he meets the locals and receives life lessons from ex-golfer Duval. Prior to picking up the film I didn't pay attention to it's G rating; it was a Duval film so I didn't care. All the actors are superb and their characters true and interesting. The ending is a surprise. Watch it. By the way, Lucas Black is a super actor. I had a hard time placing him at first; his accent kept nagging at me. Then I realized it was the kid from Sling Blade all grown up. He turned out to be a good looking guy with a natural talent and charm. I highly recommend this film although as I said I was not really prepared for the ending.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Lucas Black",
+      "url": "https://www.imdb.com/name/nm0085407/"
+    },
+    {
+      "name": "Robert Duvall",
+      "url": "https://www.imdb.com/name/nm0000380/"
+    },
+    {
+      "name": "Melissa Leo",
+      "url": "https://www.imdb.com/name/nm0502425/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Matthew Dean Russell",
+      "url": "https://www.imdb.com/name/nm1634071/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David L. Cook",
+      "url": "https://www.imdb.com/name/nm7606018/"
+    },
+    {
+      "name": "Rob Levine",
+      "url": "https://www.imdb.com/name/nm1633249/"
+    },
+    {
+      "name": "Matthew Dean Russell",
+      "url": "https://www.imdb.com/name/nm1634071/"
+    }
+  ]
+}

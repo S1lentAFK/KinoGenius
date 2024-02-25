@@ -1,0 +1,43 @@
+
+
+{
+  "type": "Movie",
+  "name": "Alien vs Predator: Day among Aliens",
+  "url": "https://www.imdb.com/tt29305694/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzQ0ZDU3M2QtN2RkZi00Y2NkLWEzNDAtMGMyMzgxNDIyNzVkXkEyXkFqcGdeQXVyMTcwODU2MTM4._V1_.jpg",
+  "description": "A team of marines finds themselves on a planet unknown to them, where an ancient hunt for various creatures is being conducted. This time, a team of Marines will have to face the most dangerous creatures on this planet, both alien...",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": null,
+  "genre": [
+    "Short",
+    "Horror"
+  ],
+  "datePublished": "2023-02-12",
+  "keywords": "reference to alien vs predator requiem",
+  "duration": "PT8M",
+  "actor": [],
+  "director": [
+    {
+      "name": "Vladislav Filipkov",
+      "url": "https://www.imdb.com/name/nm15298651/"
+    }
+  ],
+  "creator": []
+}

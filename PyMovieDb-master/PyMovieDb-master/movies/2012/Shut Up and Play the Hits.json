@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Shut Up and Play the Hits",
+  "url": "https://www.imdb.com/tt2124908/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQxNjgwMjIzOF5BMl5BanBnXkFtZTcwMjAyNjUwOA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "kool-breeze-435-944594",
+    "dateCreated": "2012-07-29",
+    "inLanguage": "English",
+    "heading": "Shut Up and See This Movie!!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 2881,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Documentary",
+    "Music"
+  ],
+  "datePublished": "2012-09-07",
+  "keywords": "2010s,madison square garden manhattan new york city,six word title,imperative in title,interview",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "James Murphy",
+      "url": "https://www.imdb.com/name/nm3805163/"
+    },
+    {
+      "name": "Chuck Klosterman",
+      "url": "https://www.imdb.com/name/nm1796345/"
+    },
+    {
+      "name": "Keith Wood",
+      "url": "https://www.imdb.com/name/nm4795403/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Will Lovelace",
+      "url": "https://www.imdb.com/name/nm3756719/"
+    },
+    {
+      "name": "Dylan Southern",
+      "url": "https://www.imdb.com/name/nm3745191/"
+    }
+  ],
+  "creator": []
+}

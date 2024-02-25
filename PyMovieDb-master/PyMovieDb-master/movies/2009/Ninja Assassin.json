@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Ninja Assassin",
+  "url": "https://www.imdb.com/tt1186367/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcxNDYzMjU1Ml5BMl5BanBnXkFtZTcwMTYzOTM3Mg@@._V1_.jpg",
+  "description": "A young ninja turns his back on the orphanage that raised him, leading to a confrontation with a fellow ninja from the clan.",
+  "review": {
+    "author": "paul_haakonsen",
+    "dateCreated": "2010-02-16",
+    "inLanguage": "English",
+    "heading": "Bloody good entertainment",
+    "reviewBody": "This is by far the best ninja movie I have seen.\\n\\nRight from the very beginning this movie is up in fast pace, action-filled and soaking in blood. There is a lot of bloodshed in this martial arts fest.\\n\\nThe story of the movie is good and keeps going at a good pace, so you never feel bored. Of course the story is straight forward and have no surprise twists to the plot - but an action movie of this caliber doesn&apos;t need plot twists.\\n\\nThe martial arts choreography and fighting scenes are brilliant, fast and hard punching. There are lots of really cool weapons being used in the movie as well.\\n\\nThere is just one bad thing to the movie, and that is why would an ancient clan of Japanese ninjas speak English? It makes no sense, as Japanese people are bound to traditions. But of course, I suppose this is kept in English to reach a wider audience. But had they actually done it in Japanese, there would be a much more wholesome feel to the movie. And also, again why would a Japanese clan take in non-Japanese children and train as ninjas?\\n\\nAnyway, the cast of the movie is good, and it is refreshing to see new faces to the martial arts scene. The dialogue is straight to the point, no clumsy, half-hearted dialogue going on here, which also helps the movie to keep going.\\n\\nSo if you like ninja movies and action movies, this is definitely a movie you cannot allow to miss out on. Top notch action from beginning till end. But do take notice that there is a lot of blood in this movie!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 75157,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Thriller"
+  ],
+  "datePublished": "2010-01-22",
+  "keywords": "ninja,martial artist,police,martial arts action,death",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Rain",
+      "url": "https://www.imdb.com/name/nm1713653/"
+    },
+    {
+      "name": "Rick Yune",
+      "url": "https://www.imdb.com/name/nm0950935/"
+    },
+    {
+      "name": "Naomie Harris",
+      "url": "https://www.imdb.com/name/nm0365140/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James McTeigue",
+      "url": "https://www.imdb.com/name/nm0574625/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Matthew Sand",
+      "url": "https://www.imdb.com/name/nm2373271/"
+    },
+    {
+      "name": "J. Michael Straczynski",
+      "url": "https://www.imdb.com/name/nm0833089/"
+    }
+  ]
+}

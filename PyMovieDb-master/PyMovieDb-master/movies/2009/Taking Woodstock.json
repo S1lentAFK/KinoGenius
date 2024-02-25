@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Taking Woodstock",
+  "url": "https://www.imdb.com/tt1127896/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzE5NDYzM2YtMjlhMS00Yjc5LWFhZWUtNjQ4ODVhZTQ4OTFkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+  "description": "A man working at his parents' motel in the Catskills inadvertently sets in motion the generation-defining concert in the summer of 1969.",
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2009-11-13",
+  "keywords": "male full frontal nudity, female full frontal nudity, pubic hair, female nudity, lsd",
+  "duration": "PT2H",
+  "actor": [
+    {
+      "name": "Demetri Martin",
+      "url": "https://www.imdb.com/name/nm1336595/"
+    },
+    {
+      "name": "Henry Goodman",
+      "url": "https://www.imdb.com/name/nm0329094/"
+    },
+    {
+      "name": "Edward Hibbert",
+      "url": "https://www.imdb.com/name/nm0382503/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ang Lee",
+      "url": "https://www.imdb.com/name/nm0000487/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Schamus",
+      "url": "https://www.imdb.com/name/nm0770005/"
+    },
+    {
+      "name": "Elliot Tiber",
+      "url": "https://www.imdb.com/name/nm0862580/"
+    },
+    {
+      "name": "Tom Monte",
+      "url": "https://www.imdb.com/name/nm2988802/"
+    }
+  ],
+  "review": {
+    "author": "yris2002",
+    "dateCreated": "2009-10-17",
+    "inLanguage": "English",
+    "heading": "Enjoyable but music is missing",
+    "reviewBody": "I saw this movie being very attracted by the trailer which seemed to offer fun and deep involvement. Now I have seen it, and I can say that it is enjoyable, but not fully convincing. Obviously, Ang Lee drifts attention from the concerts and the music of those three epic days in 1969 to focus on the personal story of a young man and his odd family who worked and lived in the background of this great event. The characters are engaging, very well interpreted, but in the end I missed the real protagonist, music, being it the powerful means through which these young people gave voice to their need for change and revolution and which was revolutionary, indeed. The atmosphere of those days is rendered vividly, we get many physical perceptions, of naked bodies, mud, rain, sun, but not acoustic ones, and I perceived this as a flaw throughout the movie. In the end you ask yourself: wasn't Woodstock mainly a three-day concert? Where is music? The movie is solidly directed, the director knows perfectly what kind of product he wants to offer, and in the end we get fun and reflection around, but never inside an event, which never comes to be explicit. Very good actorial interpretations (Imelda Staunton playing the mother is simply wonderful), although the characters themselves appear to be looking for a soundtrack which lacks till the end.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 29931,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  }
+}

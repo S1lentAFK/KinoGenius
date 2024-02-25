@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Fifty Shades Darker",
+  "url": "https://www.imdb.com/tt4465564/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NTk0Njg2N15BMl5BanBnXkFtZTgwNzk5Nzk3MDI@._V1_.jpg",
+  "description": "While Christian wrestles with his inner demons, Anastasia must confront the anger and envy of the women who came before her.",
+  "review": {
+    "author": "smatysia",
+    "dateCreated": "2018-09-18",
+    "inLanguage": "English",
+    "heading": "Neither as good or as bad as so many commentators seem to think",
+    "reviewBody": "Neither as good or as bad as so many commentators seem to think. It has high production values. The direction is unobtrusive. I haven&apos;t read the novels, so cannot really comment on the source material. Dakota Johnson hit the corruptible ingenue character pretty well, and looks smashing while doing so. Jamie Dornan, though... In my comments on the first movie, I compared his depth of emotion to a terminator. In this one, he at least attempts some emotional scenes. He doesn&apos;t do them very well, but he tries. Supporting cast, especially Marcia Gay Harden, were pretty good, with the exception of Kim Basinger. There is really no reason to see this, except as a continuation of the first movie. It could never stand alone.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 110518,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.6
+  },
+  "contentRating": "18",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "datePublished": "2017-02-10",
+  "keywords": "sex scene,sexual harassment,bondage,billionaire,proposal",
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Dakota Johnson",
+      "url": "https://www.imdb.com/name/nm0424848/"
+    },
+    {
+      "name": "Jamie Dornan",
+      "url": "https://www.imdb.com/name/nm1946193/"
+    },
+    {
+      "name": "Eric Johnson",
+      "url": "https://www.imdb.com/name/nm0425053/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Foley",
+      "url": "https://www.imdb.com/name/nm0001226/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Niall Leonard",
+      "url": "https://www.imdb.com/name/nm0502727/"
+    },
+    {
+      "name": "E.L. James",
+      "url": "https://www.imdb.com/name/nm1093317/"
+    }
+  ]
+}

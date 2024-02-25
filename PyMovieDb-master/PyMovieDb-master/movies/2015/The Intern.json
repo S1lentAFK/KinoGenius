@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Intern",
+  "url": "https://www.imdb.com/tt2361509/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNjE5NjI5OF5BMl5BanBnXkFtZTgwNzYzMzU3NjE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "chaplinman13",
+    "dateCreated": "2015-09-17",
+    "inLanguage": "English",
+    "heading": "Pretty funny, great story all can relate to no matter your age or sex. NOT a romance.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 271746,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2015-10-02",
+  "keywords": "website,f rated,office,reference to jack nicholson,reference to george clooney",
+  "duration": "PT2H1M",
+  "actor": [
+    {
+      "name": "Robert De Niro",
+      "url": "https://www.imdb.com/name/nm0000134/"
+    },
+    {
+      "name": "Anne Hathaway",
+      "url": "https://www.imdb.com/name/nm0004266/"
+    },
+    {
+      "name": "Rene Russo",
+      "url": "https://www.imdb.com/name/nm0000623/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Nancy Meyers",
+      "url": "https://www.imdb.com/name/nm0583600/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nancy Meyers",
+      "url": "https://www.imdb.com/name/nm0583600/"
+    }
+  ]
+}

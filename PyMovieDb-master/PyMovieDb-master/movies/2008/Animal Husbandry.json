@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Someone Like You...",
+  "url": "https://www.imdb.com/tt0244970/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWE0NzI4YjUtY2NhNy00NWQ2LThiZTUtMDJjYWY5YTEzYTFiXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+  "description": "After being jilted by her boyfriend, a talk show talent scout writes a column on the relationship habits of men which gains her national fame.",
+  "review": {
+    "author": "jhclues",
+    "dateCreated": "2001-04-10",
+    "inLanguage": "English",
+    "heading": "Engaging Performances By Judd And Jackman",
+    "reviewBody": "It's nice to go to a fancy restaurant where you can sit down and have a big, juicy steak with all the trimmings, or a gourmet meal served on fine china. But sometimes you just feel like checking out the pizza buffet, and when the atmosphere is right and the pizza turns out to be perfect, it can be every bit as satisfying as haute cuisine. And that's the way it is with 'Someone Like You,' directed by Tony Goldwyn and starring Ashley Judd, Greg Kinnear and Hugh Jackman. If you just want to relax and be entertained, with a movie that's not too challenging and let's you just go with the flow, then you've come to the right buffet. Ashley Judd is Jane Goodale, who begins a relationship with new co-worker Ray (Kinnear) that goes so well so quickly that she thinks it's going to last forever. And when it suddenly goes south for no apparent reason, she is crushed. Why did Ray jilt her? Was it just her, or is this just the way 'Men' are? Her musings on the subject ultimately lead to the formulation of what she calls the 'New Cow' theory, which basically states that once men, like bulls, have had the cow, they move on to yet another 'new' cow, leaving the 'old' cow behind. Realizing, of course, that lacking sufficient data her concept would never hold up to any real scientific scrutiny, she is afforded the chance to study it further when-- due to the circumstances of her breakup with Ray-- she finds herself without an apartment, and moves in with another co-worker, Eddie (Jackman). And Eddie is a notorious womanizer who seems to have a 'new cow' every other day. Along the way, as Jane draws her final conclusions, there are some memorable-- and at times, humorous-- moments, like when Jane revives one of her old cheerleader routines for Eddie. But whether or not she is able to prove her theory doesn't really make any difference; the important thing is, you'll have a good time going along with her while she tries. \n\n\tThere's nothing very deep here, the plot is familiar in the genre of romantic comedy, and Goldwyn certainly doesn't break any new ground with it. He keeps things moving right along, but uses a straightforward approach to tell the story that is fairly unimaginative and lacks the distinction of say, a Nora Ephron film. Still, it's a good bit of entertainment, carried by the engaging performances of Judd and Jackman, which alone makes it worth the price of admission. Judd is a wholesome beauty with a natural appeal, and she can act; Jackman is charismatic and has a definite screen presence. And there's chemistry between the two of them that make it work. There's no real surprises along the way, but it's like taking your favorite scenic drive; you've seen it all before, but it's pleasant and fun, and in the end you're glad you took the trip. \n\n\tThe supporting cast includes Ellen Barkin (Diane), Marisa Tomei (Liz), Matthew Coyle (Staff Member), Hugh Downs (Himself) and LeAnna Croom (Rebecca). When you put it all into perspective, you realize that 'Someone Like You' is actually a real treat. And Goldwyn, though he may not have given it that 'special' touch, should be given credit for delivering a solid, uplifting and entertaining movie that is well worth seeing. It may not be in the same league as 'Return To Me,' or 'You've Got Mail,' but if you've ever been subjected to bottom-of-the-genre-feeders like 'The Bachelor,' or 'The Wedding Planner,' you'll definitely appreciate this one for what it is. It's warm and funny, and it'll leave you with a good feeling inside and a smile on your face. And that, my friends, is the magic of the movies. I rate this one 7/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 27350,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2001-07-20",
+  "keywords": "cheerleading,sexist,gender issues,watching a documentary,prologue",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Ashley Judd",
+      "url": "https://www.imdb.com/name/nm0000171/"
+    },
+    {
+      "name": "Greg Kinnear",
+      "url": "https://www.imdb.com/name/nm0001427/"
+    },
+    {
+      "name": "Hugh Jackman",
+      "url": "https://www.imdb.com/name/nm0413168/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tony Goldwyn",
+      "url": "https://www.imdb.com/name/nm0001282/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Laura Zigman",
+      "url": "https://www.imdb.com/name/nm0956376/"
+    },
+    {
+      "name": "Elizabeth Chandler",
+      "url": "https://www.imdb.com/name/nm0151358/"
+    }
+  ]
+}

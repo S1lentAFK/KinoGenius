@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Company of Wolves",
+  "url": "https://www.imdb.com/tt0087075/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDM0NzY2MTYtNzI4Zi00NzM1LWI1OTktNTVkNWI1ODdlN2IwXkEyXkFqcGdeQXVyNjUwMzI2NzU.jpg",
+  "description": null,
+  "review": {
+    "author": "ThrownMuse",
+    "dateCreated": "2005-04-26",
+    "inLanguage": "English",
+    "heading": "Visually compelling fantasy - with werewolves!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 18225,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "18",
+  "genre": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+  ],
+  "datePublished": "1984-09-21",
+  "keywords": "grandmother,werewolf,girl,dream,cult film",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Sarah Patterson",
+      "url": "https://www.imdb.com/name/nm0666395/"
+    },
+    {
+      "name": "Angela Lansbury",
+      "url": "https://www.imdb.com/name/nm0001450/"
+    },
+    {
+      "name": "David Warner",
+      "url": "https://www.imdb.com/name/nm0001831/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Neil Jordan",
+      "url": "https://www.imdb.com/name/nm0001403/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Angela Carter",
+      "url": "https://www.imdb.com/name/nm0141462/"
+    },
+    {
+      "name": "Neil Jordan",
+      "url": "https://www.imdb.com/name/nm0001403/"
+    },
+    {
+      "name": "Charles Perrault",
+      "url": "https://www.imdb.com/name/nm0674518/"
+    }
+  ]
+}

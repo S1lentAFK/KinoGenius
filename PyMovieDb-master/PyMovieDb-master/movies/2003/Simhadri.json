@@ -1,0 +1,77 @@
+
+
+{
+  "type": "Movie",
+  "name": "Simhadri",
+  "url": "https://www.imdb.com/tt0375066/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGEyOTBmZGItODlmYS00NGViLTgzYjQtMWQ4MjA4NTYzMWFmXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg",
+  "description": "Simhadri, a loyal servant in a landlord's house, also leads a secret life as Singamalai, a powerful leader in the state of Kerala.",
+  "genre": [
+    "Action",
+    "Drama"
+  ],
+  "contentRating": "18",
+  "datePublished": "2003-07-11",
+  "keywords": "character name as title,one word title,secret,axe in the chest,stabbing",
+  "duration": "PT2H50M",
+  "rating": {
+    "ratingCount": 3486,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "review": {
+    "author": "saimanikumarsai",
+    "dateCreated": "2023-05-25",
+    "inLanguage": "English",
+    "heading": "Evergreen mass entertainer",
+    "reviewBody": "First of all the plot was good at when it was making time period. As u can see many of the after and upcoming movies from ss Rajamouli are the base of this one. The hero hitting shots and a leader would not be made by hereditary but made himself as a leader these subtles are more discussed in this film. As of then it was a blockbuster and industry hit at that time.\n\nJrntr perfomance is just lit and it can be simply said that he played one of his best roles of his lifetime . This film made SSR a star director and ntr most profitable movie.\n\nIf you've haven't watched this. Make it comfortable do yourself a favour watch this.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "actor": [
+    {
+      "name": "N.T. Rama Rao Jr.",
+      "url": "https://www.imdb.com/name/nm1694524/"
+    },
+    {
+      "name": "Bhoomika Chawla",
+      "url": "https://www.imdb.com/name/nm0154653/"
+    },
+    {
+      "name": "Ankita",
+      "url": "https://www.imdb.com/name/nm2156217/"
+    }
+  ],
+  "director": [
+    {
+      "name": "S.S. Rajamouli",
+      "url": "https://www.imdb.com/name/nm1442514/"
+    },
+    {
+      "name": "G.R. Krishna",
+      "url": "https://www.imdb.com/name/nm2376921/"
+    },
+    {
+      "name": "J.V.V. Sathyanarayana",
+      "url": "https://www.imdb.com/name/nm2375084/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Vijayendra Prasad",
+      "url": "https://www.imdb.com/name/nm2353436/"
+    },
+    {
+      "name": "S.S. Rajamouli",
+      "url": "https://www.imdb.com/name/nm1442514/"
+    },
+    {
+      "name": "Gangothri Viswanath",
+      "url": "https://www.imdb.com/name/nm14313353/"
+    }
+  ]
+}

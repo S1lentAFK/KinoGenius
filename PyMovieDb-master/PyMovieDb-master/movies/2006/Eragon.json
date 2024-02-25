@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Eragon",
+  "url": "https://www.imdb.com/tt0449010/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzMyMGI1N2UtNzc5YS00OGNkLTg1OTktMTNkMmY2Zjk1NTQxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+  "description": "In his homeland of Alagaesia, a farm boy happens upon a dragon's egg -- a discovery that leads him on a predestined journey where he realizes he's the one person who can defend his home against an evil king.",
+  "review": {
+    "author": "lemonfreax",
+    "dateCreated": "2006-12-14",
+    "inLanguage": "English",
+    "heading": "A review for those who read the book, and like it.",
+    "reviewBody": "I finished reading Eragon the book on Tuesday, 2 days before the movie premiere in my country on 14 December. Excited I was to watch the movie, but just 15 minutes into the movie and I was sorely disappointed.\\n\\nHere's what was wrong with the movie: 1. Horrible Story Pacing 2. A LOT of stuff was cut out from the book. Important characters having less than 10 minutes of screen time. Example:Murtaugh 3. Certain laughable dialog. 4. A 497 page book cut down to become a 1 and a half hour movie. 5. Complete Lack of character development. 6. The Story moves at too fast a pace which leads back to Point 2 and 5. 7. The Dwarfs are gone. 8. Lot's of important locations and events gone. 9. The Urgals do not look like what they are described in the book. They look more like big sized men with tattoos.\\n\\nTake note that I am not bashing the storyline or the book. I read the book and like it as a fun and enjoyable fantasy adventure. It's just that my expectations for the movie was too great, expecting it to be like Harry Potter or LOTR and I ended up disappointed.\\n\\nPerhaps I would have enjoy it better without reading the book.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 129995,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.1
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Family"
+  ],
+  "datePublished": "2006-12-15",
+  "keywords": "based on book,dragon,dragon rider,teenage hero,sword and fantasy",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Ed Speleers",
+      "url": "https://www.imdb.com/name/nm1968873/"
+    },
+    {
+      "name": "Sienna Guillory",
+      "url": "https://www.imdb.com/name/nm0347149/"
+    },
+    {
+      "name": "Jeremy Irons",
+      "url": "https://www.imdb.com/name/nm0000460/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Stefen Fangmeier",
+      "url": "https://www.imdb.com/name/nm0266777/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Peter Buchman",
+      "url": "https://www.imdb.com/name/nm0118224/"
+    },
+    {
+      "name": "Christopher Paolini",
+      "url": "https://www.imdb.com/name/nm1845777/"
+    }
+  ]
+}

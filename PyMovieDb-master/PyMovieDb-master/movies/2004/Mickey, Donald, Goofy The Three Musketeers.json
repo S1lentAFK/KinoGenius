@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Mickey, Donald, Goofy: The Three Musketeers",
+  "url": "https://www.imdb.com/tt0371823/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjg5YzhiODctNDZlMy00YjEzLTgyNGYtMDNkN2NjZmMzNjE0XkEyXkFqcGdeQXVyMTQ4NTcxNTI0._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "TexNickle",
+    "dateCreated": "2005-07-27",
+    "inLanguage": "English",
+    "heading": "Mickey is still Kickin&apos;",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 11505,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2004-08-17",
+  "keywords": "mickey mouse character,donald duck character,comic book,cat,turtle",
+  "duration": "PT1H7M",
+  "actor": [
+    {
+      "name": "Wayne Allwine",
+      "url": "https://www.imdb.com/name/nm0021656/"
+    },
+    {
+      "name": "Tony Anselmo",
+      "url": "https://www.imdb.com/name/nm0030615/"
+    },
+    {
+      "name": "Bill Farmer",
+      "url": "https://www.imdb.com/name/nm0267724/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Donovan Cook",
+      "url": "https://www.imdb.com/name/nm0177015/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Evan Spiliotopoulos",
+      "url": "https://www.imdb.com/name/nm0818746/"
+    },
+    {
+      "name": "David Mickey Evans",
+      "url": "https://www.imdb.com/name/nm0262693/"
+    },
+    {
+      "name": "Alexandre Dumas",
+      "url": "https://www.imdb.com/name/nm0241416/"
+    }
+  ]
+}

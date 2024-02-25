@@ -1,0 +1,73 @@
+
+
+{
+  "type": "Movie",
+  "name": "Silent House",
+  "url": "https://www.imdb.com/tt1767382/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUzOTc2NjQ3MV5BMl5BanBnXkFtZTcwNzk3ODUzNw@@._V1_.jpg",
+  "description": "A girl is trapped inside her family's lakeside retreat and becomes unable to contact the outside world as supernatural forces haunt the house with mysterious energy and consequences.",
+  "review": {
+    "author": "sandro-santoli",
+    "dateCreated": "2012-03-12",
+    "inLanguage": "English",
+    "heading": "First Three Quarters Good, Last Quarter Falls Apart",
+    "reviewBody": "The beginning of the movie is about a home invasion. It's been done before, some good and some bad. I thought this part of the movie was good. For the first three quarters of the movie I was stressed out...but in a good way. I didn't understand what was happening, who was in the house and why, but I knew my main character was in trouble and I wanted her to escape. The images were dark, cluttered. Where is she? Is someone behind her? Can they see her? Is she hiding well enough? How can she get out? Is she going to make it? Are those friends or foes? Can we trust them?\\n\\nThen just when I couldn't take anymore stress...the movie instantly got stupid. The entire ending fell apart and my good simple but scary movie went limp. My coping mechanisms kicked in, not because the stress had resolved, but rather because they would be useless where the movie brought me. And it's not like we haven't seen this sort of ending before so I'm not sure why the writers even went there.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 24413,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2012-05-04",
+  "keywords": "haunted house,bound and gagged,brother brother relationship,long take,downblouse",
+  "duration": "PT1H26M",
+  "actor": [
+    {
+      "name": "Elizabeth Olsen",
+      "url": "https://www.imdb.com/name/nm0647634/"
+    },
+    {
+      "name": "Adam Trese",
+      "url": "https://www.imdb.com/name/nm0872242/"
+    },
+    {
+      "name": "Eric Sheffer Stevens",
+      "url": "https://www.imdb.com/name/nm2033731/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chris Kentis",
+      "url": "https://www.imdb.com/name/nm0448900/"
+    },
+    {
+      "name": "Laura Lau",
+      "url": "https://www.imdb.com/name/nm0490582/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Gustavo Hern\\u00e1ndez",
+      "url": "https://www.imdb.com/name/nm3889354/"
+    },
+    {
+      "name": "Laura Lau",
+      "url": "https://www.imdb.com/name/nm0490582/"
+    },
+    {
+      "name": "Oscar Est\\u00e9vez",
+      "url": "https://www.imdb.com/name/nm2864272/"
+    }
+  ]
+}

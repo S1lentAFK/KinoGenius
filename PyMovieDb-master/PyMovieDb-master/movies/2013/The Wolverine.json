@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Wolverine",
+  "url": "https://www.imdb.com/tt1430132/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzg1MDQxMTQ2OF5BMl5BanBnXkFtZTcwMTk3MjAzOQ@@._V1_.jpg",
+  "description": "Wolverine comes to Japan to meet an old friend whose life he saved years ago, and gets embroiled in a conspiracy involving yakuza and mutants.",
+  "review": {
+    "author": "weatheredone-667-298968",
+    "dateCreated": "2013-07-25",
+    "inLanguage": "English",
+    "heading": "The best X-Men related film yet.",
+    "reviewBody": "I went into this movie with high expectations, and hoping to see the Wolverine unleash his fury on his enemies,and I was not disappointed. The action in this movie is unbelievable. Without giving too much away, I would say that the fighting in this movie was extremely well choreographed, and had some amazing weapon fights in it. \\n\\nAnother thing that I have loved about this movie from the very beginning is that it is set in mostly modern Japan. To me Japan really is a beautiful country, that is rarely seen in comic book films, and made for very interesting fight scenes and theme to the story arc overall. \\n\\nThe story was also well done in part as I mentioned before to the unique setting, as well as some of the characters like the mutant Reptile.It also plays around with the very core of Wolverine&apos;s mutant powers, and takes it in a very interesting direction that keeps fans on the edge of their seat throughout the movie. \\n\\nMy only very minor disappointment was in a part of the ending which was slightly predictable. Besides that however this was easily one of the best movies to come out this year, and it is a must see for Wolverine, and X-Men fans alike.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 488767,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "datePublished": "2013-07-25",
+  "keywords": "japan,marvel comics,logan character,wolverine character,atomic bomb",
+  "duration": "PT2H6M",
+  "actor": [
+    {
+      "name": "Hugh Jackman",
+      "url": "https://www.imdb.com/name/nm0413168/"
+    },
+    {
+      "name": "Will Yun Lee",
+      "url": "https://www.imdb.com/name/nm0498449/"
+    },
+    {
+      "name": "Tao Okamoto",
+      "url": "https://www.imdb.com/name/nm5148840/"
+    }
+  ],
+  "director": [
+    {
+      "name": "James Mangold",
+      "url": "https://www.imdb.com/name/nm0003506/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Bomback",
+      "url": "https://www.imdb.com/name/nm0093560/"
+    },
+    {
+      "name": "Scott Frank",
+      "url": "https://www.imdb.com/name/nm0291082/"
+    }
+  ]
+}

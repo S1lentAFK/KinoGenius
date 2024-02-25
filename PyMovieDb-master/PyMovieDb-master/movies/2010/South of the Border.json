@@ -1,0 +1,62 @@
+{
+  "type": "Movie",
+  "name": "South of the Border",
+  "url": "https://www.imdb.com/tt1337137/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjY3OTUyNjc1OV5BMl5BanBnXkFtZTcwMjczODU1Mw@@._V1_.jpg",
+  "description": "A road trip across five countries to explore the social and political movements as well as the mainstream media&apos;s misperception of South America while interviewing seven of its elected presidents.",
+  "review": {
+    "author": "lonflexx",
+    "dateCreated": "2011-01-31",
+    "inLanguage": "English",
+    "heading": "Hollywood socialism from the top",
+    "reviewBody": "Stone is a heavy name in American film. It is used here to help balance the US media&apos;s ignorance of recent South American political inclinations. He interviews many elected officials, all of whom seem to be pretty enlightened guys, just like Stone. But they are politicians, each tooting their own horn - one couldn&apos;t expect any less. Big meaningful progressive issues are bandied about with revolutionary relish. And Stone could not be less inclined to investigate the ground beneath their feet.\n\nIf all this great stuff is happening in South America I couldn&apos;t be happier. But knowing how the world works I found it difficult to swallow all of the rhetoric as easily as Stone. His ear is surely closer to the ground than Fox, CNN or the NYT. But what does he need to do, as a filmmaker, to convince his audience of his point of view? He needs to show the proof in the pudding. Lets see the beans in the burrito. Not just the guacamole sauce.\n\nHow are these political changes working for the citizens? Let&apos;s hear it from the ground up, Oliver. How is Bolivarianism actually achieved within a 21st century global economy? I want to SEE this. If it is happening, why not show the nuts and bolts? Why not interview the newly empowered taxpaying residents and let them show the world how the new policies are changing their lives? To hear politicians gush about it will only move audiences to skepticism. By faith alone? - that&apos;s strictly for gringos.\n\nAs a fiction and fantasy auteur, it may be that Stone doesn&apos;t believe that a documentary approach can speak to the hearts and minds of a society raised on cable junk. He&apos;s probably right. But if he&apos;s a committed socialist he should work at it a little harder. Many of us are riper for it than even he may realize.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 3090,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2010-06-03",
+  "keywords": "president,president of brazil,media,chavez,argentina",
+  "duration": "PT1H18M",
+  "actor": [
+    {
+      "name": "Tariq Ali",
+      "url": "https://www.imdb.com/name/nm0019503/"
+    },
+    {
+      "name": "Tony Blair",
+      "url": "https://www.imdb.com/name/nm0086363/"
+    },
+    {
+      "name": "Wolf Blitzer",
+      "url": "https://www.imdb.com/name/nm0088566/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Oliver Stone",
+      "url": "https://www.imdb.com/name/nm0000231/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Weisbrot",
+      "url": "https://www.imdb.com/name/nm3705023/"
+    },
+    {
+      "name": "Tariq Ali",
+      "url": "https://www.imdb.com/name/nm0019503/"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Ghost World",
+  "url": "https://www.imdb.com/tt0162346/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWYwODRlYjgtODUxNy00YmMyLWE3NWYtNTYzZmUwNDJiZGVlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "With only the plan of moving in together after high school, two unusually devious friends seek direction in life. As a mere gag, they respond to a man&apos;s newspaper ad for a date, only to find it will greatly complicate their lives.",
+  "review": {
+    "author": "Jackblyth8",
+    "dateCreated": "2021-12-27",
+    "inLanguage": "English",
+    "heading": "A Compelling Story-Book, Transcribed into Picture",
+    "reviewBody": "If on day you ever wondered where it all started for Scarlett Johansson in film, before her regular Oscar nods and the well-established Marcel hero Black Widow, the archives would take you to North, a 1994 comedy-drama starring Elijah Wood, but one of her first leading roles was in Ghost World alongside Thora Birch - two late teens at the time, they rocked in Terry Zwigoff&apos;s production, proving a significant indication of what&apos;s to come for both actors in.\\n\\nThe story of neo-cool Enid (Thora Birch) and Rebecca (Scarlett Johansson) who, faced with graduation from high school, take a hard look at the world they wryly observe and decide what they really want. When Enid takes an interest in the offbeat Seymour (Steve Buscemi) and Rebecca focuses her attention on their mutual romantic fixation Josh (Brad Renfro), the girls&apos; friendship is forever changed.\\n\\nAn eerie tone echoed through the narrative as we seemingly await the big punchline breakthrough which explodes to heighten the tension and develop the storyline, however, the film cleverly probes and anticipates its audience into a spiral of uncertainty and doubt. Adapted from the novel of the same name, Zwigoff ensures that the storybook feel is still present and acts as an enticing mechanism to achieving the act of conveying the movie&apos;s key message.\\n\\nThe idea of casting Steve Buscemi is genius, providing contrasts to the two protagonists, his character is ageing and lonesome, in light of the two youthful best friends the three bond in an unlikely fashion, though musical references in a time of prevalent anthems of the early 2000s / late 90s is a relatable, appropriate feature of the pictures excellence.\\n\\nGhost World is an ambiguous watch, which will leave you questioning the realms of fantasy and reality, an immersive, thrilling watch perfect for indulging away from the sameness of everyday life.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 126113,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2001-11-16",
+  "keywords": "teenage girl,female protagonist,record collector,coming of age,girl wears eyeglasses",
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Steve Buscemi",
+      "url": "https://www.imdb.com/name/nm0000114/"
+    },
+    {
+      "name": "Thora Birch",
+      "url": "https://www.imdb.com/name/nm0000301/"
+    },
+    {
+      "name": "Scarlett Johansson",
+      "url": "https://www.imdb.com/name/nm0424060/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Terry Zwigoff",
+      "url": "https://www.imdb.com/name/nm0959062/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Daniel Clowes",
+      "url": "https://www.imdb.com/name/nm0167280/"
+    },
+    {
+      "name": "Terry Zwigoff",
+      "url": "https://www.imdb.com/name/nm0959062/"
+    }
+  ]
+}

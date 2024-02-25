@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Maleficent",
+  "url": "https://www.imdb.com/tt1587310/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAwMzAzMzExOF5BMl5BanBnXkFtZTgwOTcwMDA5MTE@._V1_.jpg",
+  "description": "A vengeful fairy is driven to curse an infant princess, only to discover that the child could be the one person who can restore peace to their troubled land.",
+  "contentRating": "PG",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "datePublished": "2014-05-28",
+  "keywords": "dark fantasy,curse,kiss,sleeping beauty,betrayal",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Angelina Jolie",
+      "url": "https://www.imdb.com/name/nm0001401/"
+    },
+    {
+      "name": "Elle Fanning",
+      "url": "https://www.imdb.com/name/nm1102577/"
+    },
+    {
+      "name": "Sharlto Copley",
+      "url": "https://www.imdb.com/name/nm1663205/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Stromberg",
+      "url": "https://www.imdb.com/name/nm0834902/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Linda Woolverton",
+      "url": "https://www.imdb.com/name/nm0941314/"
+    },
+    {
+      "name": "Charles Perrault",
+      "url": "https://www.imdb.com/name/nm0674518/"
+    },
+    {
+      "name": "Milt Banta",
+      "url": "https://www.imdb.com/name/nm0052520/"
+    }
+  ],
+  "review": {
+    "author": "marydanza",
+    "dateCreated": "2020-07-27",
+    "inLanguage": "English",
+    "heading": "Pure Magic",
+    "reviewBody": "Angelina Jolie is the only one who could play Maleficent. No one has her presence and her charisma, and this movie is worthy in particularly for her great performance.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 397795,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  }
+}

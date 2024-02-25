@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hello Herman",
+  "url": "https://www.imdb.com/tt1876330/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM3OTYyMDk5MF5BMl5BanBnXkFtZTcwMTcyMDY3OQ@@._V1_.jpg",
+  "description": "A journalist interviews a sixteen year old boy, who is in police custody after he shot and killed 42 people at his high school.",
+  "review": {
+    "author": "timlin-4",
+    "dateCreated": "2013-10-28",
+    "inLanguage": "English",
+    "heading": "Shooting this movie was a real tragedy",
+    "reviewBody": "Normally I wouldn't review a movie that I couldn't finish, but I can't let the shill reviews stand. This is a bad movie: badly written, badly acted, and contrived in every element. The quality is lower than a soap opera, the tone is more juvenile than a children's movie, the propaganda is more shameless than North Korean TV. When a movie is so slanted that it makes you question its unfair treatment of child killers and Neo-Nazis something has gone terribly wrong. The subject of school shooters has been handled better in several movies, and this adds nothing, a movie for idiots by idiots. I almost hope that this is some sick satire, it would help me sleep at night knowing that there aren't such demented morons out there, though that wouldn't really change my rating, because then it would just be a very bad joke.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 1482,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "TV-14",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2013-06-07",
+  "keywords": "downward spiral,police,bullying,loneliness,pro life",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Norman Reedus",
+      "url": "https://www.imdb.com/name/nm0005342/"
+    },
+    {
+      "name": "Martha Higareda",
+      "url": "https://www.imdb.com/name/nm1172285/"
+    },
+    {
+      "name": "Garrett Backstrom",
+      "url": "https://www.imdb.com/name/nm4045867/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michelle Danner",
+      "url": "https://www.imdb.com/name/nm0200403/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Buffalo Mailer",
+      "url": "https://www.imdb.com/name/nm0537545/"
+    }
+  ]
+}

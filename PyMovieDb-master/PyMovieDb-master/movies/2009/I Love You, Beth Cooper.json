@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "I Love You, Beth Cooper",
+  "url": "https://www.imdb.com/tt1032815/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgyNTc2NDM3NF5BMl5BanBnXkFtZTcwNjU3Mzg0Mg@@._V1_.jpg",
+  "description": "A nerdy valedictorian proclaims his love for Beth Cooper--the hottest, most popular girl in school--during his graduation speech. That very night, she shows up at his door offering to show him the best night of his life.",
+  "contentRating": "15",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2009-08-21",
+  "keywords": "popular girl,cheerleader,scantily clad female,hot pants,white panties",
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Hayden Panettiere",
+      "url": "https://www.imdb.com/name/nm0659363/"
+    },
+    {
+      "name": "Paul Rust",
+      "url": "https://www.imdb.com/name/nm1770256/"
+    },
+    {
+      "name": "Jack Carpenter",
+      "url": "https://www.imdb.com/name/nm2358430/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chris Columbus",
+      "url": "https://www.imdb.com/name/nm0001060/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Larry Doyle",
+      "url": "https://www.imdb.com/name/nm0236421/"
+    }
+  ],
+  "review": {
+    "author": "hockey_greg198",
+    "dateCreated": "2021-11-17",
+    "inLanguage": "English",
+    "heading": "Ending sucks",
+    "reviewBody": "This is my first review but I&apos;m not going to say everyone will agree with what I have to say but what I can say is I loved the movie, this movie had all the signs that he&apos;s going to get the girl blah blah blah which I loved and I enjoyed it but this movie shows you a ending can really go from a 7/10 to a 5/10. Ya that&apos;s 0 to 100 real quick! The ending really made me not like this. It sucks to say that because watching it all the way thru just to watch that ending it will make you laugh, cry and even blush and root for the guy but just to piss you off in the end so ya loved the movie all the way thru I thought the actors and actresses were good it was just the ending that had me never wanting to watch it again. If we are single at our 10 years I&apos;m going to marry you! He didn&apos;t get the girl sadly.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 37306,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  }
+}

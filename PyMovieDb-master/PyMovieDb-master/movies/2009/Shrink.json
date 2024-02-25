@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Shrink",
+  "url": "https://www.imdb.com/tt1247692/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk1OTU1OTM3NF5BMl5BanBnXkFtZTcwNDMwMjU2Mg@@._V1_.jpg",
+  "description": "Unable to cope with a recent personal tragedy, LA's top celebrity shrink turns into a pothead with no concern for his appearance and a creeping sense of his inability to help his patients.",
+  "review": {
+    "author": "mjk280",
+    "dateCreated": "2009-12-15",
+    "inLanguage": "English",
+    "heading": "A whole lot of nothing going on.....",
+    "reviewBody": "This movie has some very good elements going for it, but for me it never comes together in a nice crescendo. Kevin Spacey is very good in my opinion, with a more honest performance that isn't too much like his usual Spacey-ness (you know what I mean if you've seen him in other movies). The rest of the cast is fine too and there's a good bit going on in the movie.\\n\\nThe problem I had was that it seems like it takes forever for anything to happen (and it pretty much doesn't until the very end). There's SO much heavy dialogue followed by solemn stares by the characters that at first you don't mind it because you know it's an emotional film going in, but eventually you just get fed up and can't stop thinking when something, anything will take a dramatic turn.\\n\\nUnfortunately it just didn't cut it for me. It's not a horrible film by any means, but not quite worth watching in my opinion. With some snappier dialogue or a tighter pace I probably would have really enjoyed it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 19198,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2010-06-04",
+  "keywords": "shrink,drug dealer,widower,depression,cheeseburger",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Kevin Spacey",
+      "url": "https://www.imdb.com/name/nm0000228/"
+    },
+    {
+      "name": "Mark Webber",
+      "url": "https://www.imdb.com/name/nm0916406/"
+    },
+    {
+      "name": "Keke Palmer",
+      "url": "https://www.imdb.com/name/nm1551130/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jonas Pate",
+      "url": "https://www.imdb.com/name/nm0665321/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Thomas Moffett",
+      "url": "https://www.imdb.com/name/nm2659289/"
+    },
+    {
+      "name": "Henry Reardon",
+      "url": "https://www.imdb.com/name/nm5026684/"
+    }
+  ]
+}

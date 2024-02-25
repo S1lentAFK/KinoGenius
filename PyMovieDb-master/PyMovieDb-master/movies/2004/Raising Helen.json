@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Raising Helen",
+  "url": "https://www.imdb.com/tt0350028/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NjEwMTQ0NV5BMl5BanBnXkFtZTYwOTM2MjY2._V1_.jpg",
+  "description": "After her sister and brother-in-law die in a car accident, a young woman becomes the guardian of their three children.",
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2004-08-27",
+  "keywords": "knee socks,two word title,bare midriff,girl wears a school uniform,car",
+  "duration": "PT1H59M",
+  "rating": {
+    "ratingCount": 38123,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "review": {
+    "author": "Chrysanthepop",
+    "dateCreated": "2008-04-11",
+    "inLanguage": "English",
+    "heading": "Dazing Helen",
+    "reviewBody": "I haven't seen a Kate Hudson movie in a while so I decided to give 'Raising Helen' a chance. I wasn't expecting much as it pretty much seems like a story that has already been told over and over again. And, that is what 'Raising Helen' is. I was pleasantly surprised to see many other talented actresses like Felicity Huffman, Helen Mirren (both these great actresses are grossly wasted) and Joan Cusack (a sheer delight). Sakina Jaffrey plays the funny Indian neighbour quite well. John Corbett plays the male 'lead' but he doesn't have much to do. The child actors are okay (and sometimes annoying, especially the teenager). Kate Hudson does well but I am quite tired of seeing her in the same type of movies. Since an excellent breakthrough performance in 'Almost Famous', she's mostly done these romantic comedy drama type films that seem to belong to the same factory (with the exception of 'Skeleton Key', an awful horror movie). In spite of the done to death formula of the storyline, 'Raising Helen' does have its bright moments especially those between Cusack and Hudson. Clearly, this movie was built for a target audience and while I'm not exactly among that particular target, those who watch it knowing what to expect, might enjoy it. As for me, it wasn't a bad experience as I was multitasking while watching and I managed to enjoy the best moments.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "actor": [
+    {
+      "name": "Kate Hudson",
+      "url": "https://www.imdb.com/name/nm0005028/"
+    },
+    {
+      "name": "John Corbett",
+      "url": "https://www.imdb.com/name/nm0179173/"
+    },
+    {
+      "name": "Joan Cusack",
+      "url": "https://www.imdb.com/name/nm0000349/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Garry Marshall",
+      "url": "https://www.imdb.com/name/nm0005190/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Patrick J. Clifton",
+      "url": "https://www.imdb.com/name/nm0166767/"
+    },
+    {
+      "name": "Beth Rigazio",
+      "url": "https://www.imdb.com/name/nm1621084/"
+    },
+    {
+      "name": "Jack Amiel",
+      "url": "https://www.imdb.com/name/nm0024856/"
+    }
+  ]
+}

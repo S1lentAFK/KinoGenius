@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Black Dynamite",
+  "url": "https://www.imdb.com/tt1190536/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODMyM2JiYzMtODY3OS00ODExLTg0YzYtYWNlZTczMDUzY2I3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+  "description": "Black Dynamite is the greatest African-American action star of the 1970s. When his only brother is killed by The Man, it's up to him to find justice.",
+  "review": {
+    "author": "thetheatreintheround",
+    "dateCreated": "2009-10-17",
+    "inLanguage": "English",
+    "heading": "One of the better comedies of this year.",
+    "reviewBody": "Here's a film that would have fit perfectly with the 2007 release of Grindhouse. I wish that Black Dynamite had been worked on enough so that a trailer would have been featured along with the faux trailers in Grindhouse. (Although one of those faux trailers, Machete, is being made into a full-length feature.) Michael Jai White (who is probably best known by many as Spawn or as the ill-fated gangster, Gambol, from The Dark Knight) is excellent as Black Dynamite. White is not only an excellent action star, but he's also got great comedic timing. His deadpan delivery mixed in with very impressive martial arts abilities are worth the price of admission for this flick. White channels Richard Roundtree, Robert Hooks, Fred Williamson, and yet he makes the role his own. How White hasn't become a prominent action star, much like Jason Statham, Jean-Claude Van Damme, Jet Li, Tony Jaa, and so on is a complete mystery to me. I hope that this is a breakout role for him.\n\nOne of my favorite characters in this film is Bullhorn (played by Byron Minns). He's the film's answer to Rudy Ray Moore, rhymes and all. For those who have seen Dolemite, you'll know what I'm talking about. (He also narrated the hilarious trailers for the movie.) The film features a cast full of what's his faces. Richard Edson (Stranger than Paradise and Do the Right Thing) has a brief role in the film. Mykelti Williamson (Bubba from Forrest Gump) plays one of the villains, Chicago Wind. Mike Starr (Goodfellas and Dumb & Dumber) plays the mob leader. Arsenio Hall, of all people, plays a coked out hustler named Tasty Freeze. Tommy Davidson, with a head of curly hair, appears as one of Black Dyamite's sidekicks, Cream Corn.\n\nThis film is a throwback to the 70's, with the classics of Blaxploitation. It not only has a lot of laughs, but I also felt that the movie essentially became a Blaxploitation within a half-hour into the movie.\n\nIf you're a fan of Blaxploitation films, this will not disappoint. If you're in for a good comedy, check this one out. It will provide more laughs than a good majority of the comedies released this year.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 51562,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Comedy"
+  ],
+  "datePublished": "2010-01-13",
+  "keywords": "outnumbered,license to kill,mob execution,vengeance,one man army",
+  "duration": "PT1H24M",
+  "actor": [
+    {
+      "name": "Michael Jai White",
+      "url": "https://www.imdb.com/name/nm0925220/"
+    },
+    {
+      "name": "Arsenio Hall",
+      "url": "https://www.imdb.com/name/nm0002119/"
+    },
+    {
+      "name": "Tommy Davidson",
+      "url": "https://www.imdb.com/name/nm0203508/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Scott Sanders",
+      "url": "https://www.imdb.com/name/nm0761715/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Jai White",
+      "url": "https://www.imdb.com/name/nm0925220/"
+    },
+    {
+      "name": "Byron Minns",
+      "url": "https://www.imdb.com/name/nm0591528/"
+    },
+    {
+      "name": "Scott Sanders",
+      "url": "https://www.imdb.com/name/nm0761715/"
+    }
+  ]
+}

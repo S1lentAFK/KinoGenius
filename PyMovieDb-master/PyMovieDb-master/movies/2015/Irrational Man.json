@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Irrational Man",
+  "url": "https://www.imdb.com/tt3715320/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE2NTM0Mzk5Ml5BMl5BanBnXkFtZTgwMzQ3Njc3NTE@._V1_.jpg",
+  "description": "A tormented philosophy professor finds a will to live when he commits an existential act.",
+  "review": {
+    "author": "rubenm",
+    "dateCreated": "2015-08-06",
+    "inLanguage": "English",
+    "heading": "An expert craftsman at work",
+    "reviewBody": "A tight script? Check. Capable actors? Check. Lots of witty dialogue? Check. A jazzy soundtrack? Check. Beautiful photography in idyllic settings? Check.\\n\\nYes, all the ingredients are there. Just leave it to the 79-year old chef to create a delicious dish out of it. When everything is right, a Woody Allen movie is a delight to watch. And with &apos;Irrational Man&apos;, this is absolutely the case.\\n\\nJoaquin Phoenix and Emma Stone are clearly enjoying themselves as the grumpy philosophy professor and his admiring student and lover. Allen&apos;s script plays in a lighthearted way with serious philosophical concepts such as guilt, evil and righteousness. Also, he throws in a murder mystery and makes the suspense last until the very end.\\n\\n&apos;Irrational Man&apos; will not be one of Allen&apos;s greatest movies, because it lacks an extraordinary element like Cate Blanchett&apos;s performance in &apos;Blue Jasmine&apos;, or the historical dimension of &apos;Midnight in Paris&apos;. But even without such an extra ingredient, &apos;Irrational Man&apos; shows an expert craftsman at work. In a couple of years time, it might just turn out to be one of his most underrated films.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 66443,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2015-09-11",
+  "keywords": "teacher student affair,professor,russian roulette,judge,murder",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Joaquin Phoenix",
+      "url": "https://www.imdb.com/name/nm0001618/"
+    },
+    {
+      "name": "Emma Stone",
+      "url": "https://www.imdb.com/name/nm1297015/"
+    },
+    {
+      "name": "Parker Posey",
+      "url": "https://www.imdb.com/name/nm0000205/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Woody Allen",
+      "url": "https://www.imdb.com/name/nm0000095/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Woody Allen",
+      "url": "https://www.imdb.com/name/nm0000095/"
+    }
+  ]
+}

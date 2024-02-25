@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Traffic",
+  "url": "https://www.imdb.com/tt0181865/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDA2YjNkMjEtZjcwNy00ZTc5LWEzNDItMjE0ODlmMDAzNDFkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "description": "A conservative judge is appointed by the President to spearhead America&apos;s escalating war against drugs, only to discover that his teenage daughter is a crack addict. Two DEA agents protect an informant. A jailed drug baron&apos;s wife ...",
+  "review": {
+    "author": "subir1",
+    "dateCreated": "2001-01-28",
+    "inLanguage": "English",
+    "heading": "All you could ask for.",
+    "reviewBody": "No compromises here. Traffic takes a long, hard look at the narcotics industry in North America and manages to entertain at the same time. The triple plot allows you to see the whole industry with multiple perspectives. The movie is visually stunning, loved the different filters for the three locations.\\n\\nThat the war on drugs cannot be won, and is hypocritical to boot, is a message that needs as much air-time as it can get.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 218643,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": "18",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2001-01-26",
+  "keywords": "mexico,judge,cocaine,interlinked stories,drug smuggling",
+  "duration": "PT2H27M",
+  "actor": [
+    {
+      "name": "Michael Douglas",
+      "url": "https://www.imdb.com/name/nm0000140/"
+    },
+    {
+      "name": "Benicio Del Toro",
+      "url": "https://www.imdb.com/name/nm0001125/"
+    },
+    {
+      "name": "Catherine Zeta-Jones",
+      "url": "https://www.imdb.com/name/nm0001876/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven Soderbergh",
+      "url": "https://www.imdb.com/name/nm0001752/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Simon Moore",
+      "url": "https://www.imdb.com/name/nm0601881/"
+    },
+    {
+      "name": "Stephen Gaghan",
+      "url": "https://www.imdb.com/name/nm0300866/"
+    }
+  ]
+}

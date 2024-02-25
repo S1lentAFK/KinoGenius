@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Machete Kills",
+  "url": "https://www.imdb.com/tt2002718/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA2MzUxMTM3M15BMl5BanBnXkFtZTgwMzA2NzkxMDE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "theWBohlken",
+    "dateCreated": "2013-11-10",
+    "inLanguage": "English",
+    "heading": "So dumb and over the top.... EXACTLY what i paid for!",
+    "reviewBody": "I am a fan of the first one, I am a fan of Grindhouse and I love over the top movies. Going in to this I knew that it was going to be bloody, cheesy and awesome. It surprised me that this did not do as well as the first one or even close to it. The original was a tad more serious and had some really badass parts while this one was just non stop cheesy and Grindhouse-y. \\n\\nIf you saw the first one, you pretty much know what to expect and what the basic concept is. Just times that times ten and you have Machete Kills. It is just a movie where you sit and don&apos;t think about it. Let it all happen and enjoy it. That is, of course, you like action movies where the hero chops every bad guy up and Sofia Vergara with her bra machine gun.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 82069,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2013-10-11",
+  "keywords": "grindhouse film,set up for unmade sequel,movie trailer,blurred sex scene,villainess",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Danny Trejo",
+      "url": "https://www.imdb.com/name/nm0001803/"
+    },
+    {
+      "name": "Alexa PenaVega",
+      "url": "https://www.imdb.com/name/nm0891786/"
+    },
+    {
+      "name": "Mel Gibson",
+      "url": "https://www.imdb.com/name/nm0000154/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Rodriguez",
+      "url": "https://www.imdb.com/name/nm0001675/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kyle Ward",
+      "url": "https://www.imdb.com/name/nm2040359/"
+    },
+    {
+      "name": "Robert Rodriguez",
+      "url": "https://www.imdb.com/name/nm0001675/"
+    },
+    {
+      "name": "Marcel Rodriguez",
+      "url": "https://www.imdb.com/name/nm0735420/"
+    }
+  ]
+}

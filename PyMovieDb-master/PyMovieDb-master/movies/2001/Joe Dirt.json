@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Joe Dirt",
+  "url": "https://www.imdb.com/tt0245686/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTE5NDgxNzU1MV5BMl5BanBnXkFtZTYwODQ4ODE3._V1_.jpg",
+  "description": "After being abandoned by his parents at the Grand Canyon, Joe Dirt tells the story of his journey to find his parents.",
+  "review": {
+    "author": "timelord-3",
+    "dateCreated": "2001-05-21",
+    "inLanguage": "English",
+    "heading": "Surprisingly enjoyable",
+    "reviewBody": "I braced myself for yet another film with low grade humour, plenty of bodily function jokes and not enough plot to go around.\n\nWell, 'Joe Dirt' has all that and more... but surprisingly it turned out to be not half bad.\n\nPerhaps the day of the preview caught me in a particularly good mood, because this story of a white trash loser searching for his parents who left him for dead at the Grand Canyon when he was eight was relatively enjoyable entertainment.\n\nThe movie is told primarily in flashback; Joe stumbles into the studio of a radio disc jockey who coaxes out of him his incredible life story. In the process Joe Dirt becomes a media darling as his story of woe and misfortune is heard by an ever sympathetic audience.\n\nThis is another movie which relies on the gross and disgusting to get its laughs; dogs balls stuck to the front porch, being covered in excrement, blowing up atom bombs, consumed by alligators and much much more!\n\nThe movie works for the most part because of David Spade's affable loser Joe Dirt. He plays a character that is not a 100 miles away from his 'Just Shoot Me' personna - a loveable idiot. He goes through life having all these setbacks - but he still maintains his positive outlook.\n\nThe movie does lag a bit at the three quarters mark, but this is a minor quibble for a film that does what is sets out to with a lot more style than its lamentable cousins.\n\nA whole lotta fun\n\n6 out of 10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 60686,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "12",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2001-06-08",
+  "keywords": "california,blonde,loss of limb,crossdresser,oil rig",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "David Spade",
+      "url": "https://www.imdb.com/name/nm0005450/"
+    },
+    {
+      "name": "Brittany Daniel",
+      "url": "https://www.imdb.com/name/nm0199590/"
+    },
+    {
+      "name": "Dennis Miller",
+      "url": "https://www.imdb.com/name/nm0588222/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dennie Gordon",
+      "url": "https://www.imdb.com/name/nm0330140/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Spade",
+      "url": "https://www.imdb.com/name/nm0005450/"
+    },
+    {
+      "name": "Fred Wolf",
+      "url": "https://www.imdb.com/name/nm0937748/"
+    }
+  ]
+}

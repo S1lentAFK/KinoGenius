@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Strangerland",
+  "url": "https://www.imdb.com/tt2325977/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjRiZjJiNWUtODQzMy00YmMyLWFmZDgtMWZjNDdmNTgxZjg1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A family's dull life in a rural outback town is rocked after their two teenage children disappear into the desert, sparking disturbing rumors of their past.",
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2016-02-05",
+  "keywords": "australia,tattooed teenager,sandstorm,mother searches for missing daughter,dehydration",
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "Nicole Kidman",
+      "url": "https://www.imdb.com/name/nm0000173/"
+    },
+    {
+      "name": "Joseph Fiennes",
+      "url": "https://www.imdb.com/name/nm0001212/"
+    },
+    {
+      "name": "Hugo Weaving",
+      "url": "https://www.imdb.com/name/nm0915989/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kim Farrant",
+      "url": "https://www.imdb.com/name/nm2040537/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Kinirons",
+      "url": "https://www.imdb.com/name/nm2446119/"
+    },
+    {
+      "name": "Fiona Seres",
+      "url": "https://www.imdb.com/name/nm1511459/"
+    }
+  ],
+  "review": {
+    "author": "f-rabit",
+    "dateCreated": "2015-08-19",
+    "inLanguage": "English",
+    "heading": "Nicole, what the hell?",
+    "reviewBody": "I love Nicole. One of the best of her time. She normally chose good movies to be part of. Not this one, though. Can't understand what made her accept being part of this...thing. It started out well, but soon loses pace and logic. I couldn't see it thoroughly. Nothing happens. Ridiculous scenes...even sex scenes. Strange and ridiculous. The actors, couldn't deliver cause there's nothing to. A lot of scenes should be cut off, cause they don't make any sense at all. And the end, gosh, deplorable. Deplorable ending. I can't understand what's the point of this movie? For what purpose was it made? And what about the title? Strangerland?! My God! Awful!This movie could have been good.The ambiance, the actors...what a waste of talent and of my time!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 9989,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  }
+}

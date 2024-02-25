@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Grace Is Gone",
+  "url": "https://www.imdb.com/tt0772168/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg0ODYwMzY0NF5BMl5BanBnXkFtZTYwNTcwMDM4._V1_.jpg",
+  "description": "Upon hearing his wife was killed in the Iraq war, a father takes his two daughters on a road trip.",
+  "contentRating": "12",
+  "genre": [
+    "Drama",
+    "War"
+  ],
+  "datePublished": "2008-01-10",
+  "keywords": "road trip,amusement park,death of loved one,death,eulogy",
+  "duration": "PT1H25M",
+  "actor": [
+    {
+      "name": "John Cusack",
+      "url": "https://www.imdb.com/name/nm0000131/"
+    },
+    {
+      "name": "Emily Churchill",
+      "url": "https://www.imdb.com/name/nm2850666/"
+    },
+    {
+      "name": "Rebecca Spence",
+      "url": "https://www.imdb.com/name/nm2050642/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jim Strouse",
+      "url": "https://www.imdb.com/name/nm1475479/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jim Strouse",
+      "url": "https://www.imdb.com/name/nm1475479/"
+    }
+  ],
+  "review": {
+    "author": "seadevil-1",
+    "dateCreated": "2008-08-07",
+    "inLanguage": "English",
+    "heading": "A fine tribute to those who die in war and those left to mourn.",
+    "reviewBody": "This is a moving story of a man whose wife, a soldier, is killed in Iraq, and the almost unbearable task placed on him to tell his two daughters, aged 9 and 12, the terrible news. John Cusack played the part of the of the husband of the dead wife, and father of the girls, superbly. I tried to put myself in his position, having to break the news of their mother's death to the two youngsters, and it almost brought me to tears, as the end of the movie actually did.\n\nThis movie is a fitting tribute to the young Americans who fight and sometimes die for the country and for the families of those who wait for their return; when sometimes the waiting is in vain.\n\nWhether the war is a just or unjust war or whether it's useless debacle, young men and women die whilst fulfilling what is, in their mind, their duty. The validity of the war detracts nothing from their heroism.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 9672,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  }
+}

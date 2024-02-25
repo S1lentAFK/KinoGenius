@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "An American Tail: The Treasure of Manhattan Island",
+  "url": "https://www.imdb.com/tt0166973/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTgxMDU3ZjAtNGZjYy00NGZhLTg3MGMtNDVlMDBiMjI3NmE4XkEyXkFqcGdeQXVyNDgyODgxNjE.jpg",
+  "description": "The Fievel mouse discovers the secret world of mice lying deep beneath the city.",
+  "review": {
+    "author": "eliara371",
+    "dateCreated": "2023-08-15",
+    "inLanguage": "English",
+    "heading": "I grew up on this film",
+    "reviewBody": "I had this movie on VHS and seen it a bunch of times. From my point of view it was an terrific stand alone movie, I had no clue there was others. What I liked about the movie. Mostly. I liked the characters, especially the cheese factory scene and maffia. I was scared back then of those characters, but they were also so cool. I never got the deeper message I just purely enjoyed the ride of the story. Now when I am older and see the hidden messages I feel like this movie is a gem. In the year of 2023, the animation is getting too old and the storyline in modern days might be viewed to gloomy or forced. But that wasn't the case back then, remember it is a classic made during another time. I truly appreciate this movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 2033,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "datePublished": "1998-11-16",
+  "keywords": [
+    "half dressed cartoon animal",
+    "cartoon mouse",
+    "adult interest",
+    "political incorrectness",
+    "attempted genocide"
+  ],
+  "duration": "PT1H19M",
+  "actor": [
+    {
+      "name": "Thomas Dekker",
+      "url": "https://www.imdb.com/name/nm0215281/"
+    },
+    {
+      "name": "Dom DeLuise",
+      "url": "https://www.imdb.com/name/nm0001123/"
+    },
+    {
+      "name": "Pat Musick",
+      "url": "https://www.imdb.com/name/nm0615730/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Larry Latham",
+      "url": "https://www.imdb.com/name/nm0490099/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Kirschner",
+      "url": "https://www.imdb.com/name/nm0456946/"
+    },
+    {
+      "name": "Len Uhley",
+      "url": "https://www.imdb.com/name/nm0880204/"
+    }
+  ]
+}

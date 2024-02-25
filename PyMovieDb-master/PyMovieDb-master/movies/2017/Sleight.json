@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "Sleight",
+  "url": "https://www.imdb.com/tt4573516/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODRjMDRlMmUtNGFiZi00NjIwLWJkMDgtZGU5NjY4MDNmODg3XkEyXkFqcGdeQXVyMjU3NTI0Mg@@._V1_.jpg",
+  "description": "A young street magician is left to care for his little sister after their parents&apos; death, and turns to illegal activities to keep a roof over their heads. When he gets in too deep, his sister is kidnapped and he is forced to use h...",
+  "review": {
+    "author": "achmoye",
+    "dateCreated": "2017-08-11",
+    "inLanguage": "English",
+    "heading": "Promising, but average at best",
+    "reviewBody": "Sleight is not a random gangster movie, because the main character is kind of special, he can do magic tricks. And he is really good. \n\nWell that&apos;s it. His passion is not really well-used in the plot, so it really feels anecdotal. \n\nI always wonder why he bothers doing magic tricks when he needs money. He must be making much more money with selling drugs. I&apos;m not sure it makes sense. \n\nThe shots around his magic tricks makes the movie special, but it goes old real quick, after 30mn. Then we forget about it, to go back to magic half-an-hour afterwards. There&apos;s a big issue in the writing. The is not enough events to keep the plot interesting after 30mn. \n\nSo yeah it&apos;s original, and well-acted, but a sad lack of structure. And the mysterious ending feels pretentious for a movie that is not cleverly constructed. It doesn&apos;t really work.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 9217,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "R",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "datePublished": "2017-04-28",
+  "keywords": "superhero,superhero sci fi,street magician",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Jacob Latimore",
+      "url": "https://www.imdb.com/name/nm3632976/"
+    },
+    {
+      "name": "Seychelle Gabriel",
+      "url": "https://www.imdb.com/name/nm2437267/"
+    },
+    {
+      "name": "Storm Reid",
+      "url": "https://www.imdb.com/name/nm4977564/"
+    }
+  ],
+  "director": [
+    {
+      "name": "J.D. Dillard",
+      "url": "https://www.imdb.com/name/nm2300570/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "J.D. Dillard",
+      "url": "https://www.imdb.com/name/nm2300570/"
+    },
+    {
+      "name": "Alex Theurer",
+      "url": "https://www.imdb.com/name/nm2242713/"
+    }
+  ]
+}

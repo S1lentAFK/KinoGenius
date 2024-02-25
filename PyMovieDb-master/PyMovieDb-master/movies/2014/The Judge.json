@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Judge",
+  "url": "https://www.imdb.com/tt1872194/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcyNzIxOTIwMV5BMl5BanBnXkFtZTgwMzE0NjQwMjE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "abouhelier-r",
+    "dateCreated": "2014-10-24",
+    "inLanguage": "English",
+    "heading": "The Judge",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 200458,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2014-10-17",
+  "keywords": "courtroom,lawyer,dysfunctional family,trial,father son estrangement",
+  "duration": "PT2H21M",
+  "actor": [
+    {
+      "name": "Robert Downey Jr.",
+      "url": "https://www.imdb.com/name/nm0000375/"
+    },
+    {
+      "name": "Robert Duvall",
+      "url": "https://www.imdb.com/name/nm0000380/"
+    },
+    {
+      "name": "Vera Farmiga",
+      "url": "https://www.imdb.com/name/nm0267812/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Dobkin",
+      "url": "https://www.imdb.com/name/nm0229694/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nick Schenk",
+      "url": "https://www.imdb.com/name/nm1010405/"
+    },
+    {
+      "name": "Bill Dubuque",
+      "url": "https://www.imdb.com/name/nm4057793/"
+    },
+    {
+      "name": "David Dobkin",
+      "url": "https://www.imdb.com/name/nm0229694/"
+    }
+  ]
+}

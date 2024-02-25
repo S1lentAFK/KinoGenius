@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Game Changer",
+  "url": "https://www.imdb.com/tt14209618/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2I0NjlkZjAtMDVhNi00OWE1LWE1MDAtYjcxYTIwMjE3YThiXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": null,
+    "bestRating": null,
+    "worstRating": null,
+    "ratingValue": null
+  },
+  "contentRating": null,
+  "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": null,
+  "keywords": null,
+  "duration": null,
+  "actor": [
+    {
+      "name": "Ram Charan",
+      "url": "https://www.imdb.com/name/nm2776304/"
+    },
+    {
+      "name": "Kiara Advani",
+      "url": "https://www.imdb.com/name/nm6442009/"
+    },
+    {
+      "name": "Jayaram",
+      "url": "https://www.imdb.com/name/nm0419688/"
+    }
+  ],
+  "director": [
+    {
+      "name": "S. Shankar",
+      "url": "https://www.imdb.com/name/nm0788171/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Sai Madhav Burra",
+      "url": "https://www.imdb.com/name/nm7339980/"
+    },
+    {
+      "name": "S. Shankar",
+      "url": "https://www.imdb.com/name/nm0788171/"
+    },
+    {
+      "name": "Karthik Subbaraj",
+      "url": "https://www.imdb.com/name/nm5366274/"
+    }
+  ]
+}

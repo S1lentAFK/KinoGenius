@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Time That Remains",
+  "url": "https://www.imdb.com/tt1037163/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUwNDg4MDQzOF5BMl5BanBnXkFtZTcwNDU5MTkyNA@@._V1_.jpg",
+  "description": "An examination of the creation of the state of Israel in 1948 through to the present day.",
+  "contentRating": "Not Rated",
+  "genre": [
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2009-08-12",
+  "keywords": "present",
+  "duration": "PT1H49M",
+  "actor": [
+    {
+      "name": "Menashe Noy",
+      "url": "https://www.imdb.com/name/nm0637505/"
+    },
+    {
+      "name": "Elia Suleiman",
+      "url": "https://www.imdb.com/name/nm0837839/"
+    },
+    {
+      "name": "Baher Agbariya",
+      "url": "https://www.imdb.com/name/nm1547799/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Elia Suleiman",
+      "url": "https://www.imdb.com/name/nm0837839/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Elia Suleiman",
+      "url": "https://www.imdb.com/name/nm0837839/"
+    }
+  ],
+  "review": {
+    "author": "wavecat13",
+    "dateCreated": "2021-05-20",
+    "inLanguage": "English",
+    "heading": "The Palestinian Perspective",
+    "reviewBody": "This may very well be the first film that I have watched by a Palestinian filmmaker, and it was a good one. It deals quite a bit with the oppression of the Palestinian Arabs by Israeli authorities over the years, beginning with the takeover of Palestinian territory in 1948. This follows the life of a family in Nazareth. Much of the story is told quietly and at a distance; the dialogue is minimal. That does not mean this is grim or didactic, not at all. Regular helpings of physical, stage comedy lighten what is a serious story. There are several things that went on that I did not understand - the behavior of certain characters was mystifying, and why do they sometimes speak in English? But that did not ruin things - this is a fine film overall.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 2712,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  }
+}

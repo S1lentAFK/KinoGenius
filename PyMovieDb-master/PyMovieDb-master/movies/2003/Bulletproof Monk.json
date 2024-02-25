@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "Bulletproof Monk",
+  "url": "https://www.imdb.com/tt0245803/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTEwODkxNzE4NzVeQTJeQWpwZ15BbWU3MDY5NDYwMzQ@._V1_.jpg",
+  "description": "Based on the very underground comic book of the same name, a Tibetan monk becomes a mentor to a young street punk and tries teaching him how to protect the scroll of ultimate power from a secret Nazi organization bent on world domination.",
+  "datePublished": "2003-04-18",
+  "duration": "PT1H44M",
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Fantasy"
+  ],
+  "keywords": [
+    "nazi villainess",
+    "woman breaks woman's neck",
+    "neck breaking",
+    "woman's neck broken",
+    "woman murders a woman"
+  ],
+  "rating": {
+    "ratingCount": 51963,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "review": {
+    "author": "dworldeater",
+    "dateCreated": "2019-03-18",
+    "inLanguage": "English",
+    "heading": "Not the best movie, but still passable, light entertainment",
+    "reviewBody": "Bulletproof Monk was based off a Japanese comic book(manga) and as such a American funded film vehicle for Chow Yun Fat. This movie, really is not the greatest and comes across as pretty silly overall. Chow Yun Fat is great however and is engaging and fun as the lead here as a monk from Tibet that contains the ultimate power and must protect it from Nazi's that want to utilize the scroll for their own means. Sean William Scott is'nt very good in this action driven role, but he tries and has some charisma and plays well off of Chow Yun Fat. Mako appears as well and is always good, with this being no exception. The fights choreography is not the greatest and in combination with how this story was executed, the poor f/x and otherwise lousy acting make this a pretty bad movie. Even with that said Chow Yun Fat is cool and pulls off playing this incredibly powerful and wise monk that drops many suckas as well as some knowledge and wisdom, Yoda style. The underlying positive Buddhist messages are cool and give an otherwise dumb and corny fantasy action picture a little substance. Criticisms aside, I do enjoy this film, even though overall this movie comes across as pretty idiotic for the most part.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "actor": [
+    {
+      "name": "Chow Yun-Fat",
+      "url": "https://www.imdb.com/name/nm0000334/"
+    },
+    {
+      "name": "Seann William Scott",
+      "url": "https://www.imdb.com/name/nm0005405/"
+    },
+    {
+      "name": "Jaime King",
+      "url": "https://www.imdb.com/name/nm0454809/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Paul Hunter",
+      "url": "https://www.imdb.com/name/nm0402995/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ethan Reiff",
+      "url": "https://www.imdb.com/name/nm0717550/"
+    },
+    {
+      "name": "Cyrus Voris",
+      "url": "https://www.imdb.com/name/nm0903456/"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Good Luck Chuck",
+  "url": "https://www.imdb.com/tt0452625/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU1NzM1MTE1OV5BMl5BanBnXkFtZTYwNDQyMjU3._V1_.jpg",
+  "description": "In order to keep the woman of his dreams from falling for another guy, Charlie Logan has to break the curse that has made him wildly popular with single women: Sleep with Charlie once, and the next man you meet will be your true love.",
+  "review": {
+    "author": "Gordon-11",
+    "dateCreated": "2021-01-02",
+    "inLanguage": "English",
+    "heading": "Really funny",
+    "reviewBody": "This comedy is really funny. I enjoyed watching it.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 94015,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2007-11-09",
+  "keywords": "sex scene,true love,sex in bed,leg spreading,sex on stairs",
+  "duration": "PT1H41M",
+  "actor": [
+    {
+      "name": "Dane Cook",
+      "url": "https://www.imdb.com/name/nm0176981/"
+    },
+    {
+      "name": "Jessica Alba",
+      "url": "https://www.imdb.com/name/nm0004695/"
+    },
+    {
+      "name": "Dan Fogler",
+      "url": "https://www.imdb.com/name/nm0283945/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mark Helfrich",
+      "url": "https://www.imdb.com/name/nm0375068/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Josh Stolberg",
+      "url": "https://www.imdb.com/name/nm0831457/"
+    },
+    {
+      "name": "Steve Glenn",
+      "url": "https://www.imdb.com/name/nm2521593/"
+    }
+  ]
+}

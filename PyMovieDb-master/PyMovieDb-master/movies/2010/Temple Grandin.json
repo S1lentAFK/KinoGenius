@@ -1,0 +1,67 @@
+{
+  "type": "Movie",
+  "name": "Temple Grandin",
+  "url": "https://www.imdb.com/tt1278469/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQwOTQ4NDk5OF5BMl5BanBnXkFtZTcwNzM0Mjk3Mw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Bigrob2623",
+    "dateCreated": "2010-02-06",
+    "inLanguage": "English",
+    "heading": "Life is mysteries and a door will open, just walk through it.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 32279,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.2
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Biography",
+    "Drama"
+  ],
+  "datePublished": "2010-02-06",
+  "keywords": "cattle,animal husbandry,livestock,autism,pig",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Claire Danes",
+      "url": "https://www.imdb.com/name/nm0000132/"
+    },
+    {
+      "name": "Julia Ormond",
+      "url": "https://www.imdb.com/name/nm0000566/"
+    },
+    {
+      "name": "David Strathairn",
+      "url": "https://www.imdb.com/name/nm0000657/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mick Jackson",
+      "url": "https://www.imdb.com/name/nm0413875/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Temple Grandin",
+      "url": "https://www.imdb.com/name/nm0334880/"
+    },
+    {
+      "name": "Margaret Scariano",
+      "url": "https://www.imdb.com/name/nm3439444/"
+    },
+    {
+      "name": "Christopher Monger",
+      "url": "https://www.imdb.com/name/nm0003355/"
+    }
+  ]
+}

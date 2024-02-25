@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Coffee and Cigarettes",
+  "url": "https://www.imdb.com/tt0379217/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDg4MmFiNDAtYWIyYi00Mjg5LWFjMzYtYzc1YTcyODBiNTNkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": "A series of vignettes that all have coffee and cigarettes in common.",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "contentRating": "15",
+  "datePublished": "2004-10-22",
+  "keywords": "musician,vignette,addiction,restaurant,cafe",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Bill Murray",
+      "url": "https://www.imdb.com/name/nm0000195/"
+    },
+    {
+      "name": "Tom Waits",
+      "url": "https://www.imdb.com/name/nm0001823/"
+    },
+    {
+      "name": "Roberto Benigni",
+      "url": "https://www.imdb.com/name/nm0000905/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jim Jarmusch",
+      "url": "https://www.imdb.com/name/nm0000464/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jim Jarmusch",
+      "url": "https://www.imdb.com/name/nm0000464/"
+    }
+  ],
+  "review": {
+    "author": "jseagles",
+    "dateCreated": "2004-10-10",
+    "inLanguage": "English",
+    "heading": "great after some wine, with friends",
+    "reviewBody": "This movie is better than the first reviewer claims. The context of the movie is definitely social, but the humor is only superficially based on the character&apos;s real-life celebrity. True, the background music is interesting if you are a film buff. But, take my advice, watch this movies after a couple drinks, at a social gathering, to really enjoy it. The humor is better than in most full length feature comedies. I laughed loud and hard and had a lot of fun when I caught this at the university of Chicago&apos;s student movie theater. \\n\\nthe real interest in this film is the social awkwardness created when people meet under false pretense or forced circumstance, versus the natural comfort that is obvious between longtime friends who enjoy each others company.. The gestures and facial expressions by these great actors more than make up for the weaknesses of the film. The brother/sister pairs show boredom and typical familial nit-picking. Iggy and Tom waits are brilliant. buschemi is a little misplaced in the scene where he shows up. my 2 favorite scenes, that i feel show the real genius of jarmusch, are 1.) the moment when molina&apos;s gestures have revealed that he is not, as indicated in the first review, a sycophant, but simply an honest and interested human being who is higher up in the scheme of things than the pretentious jerk he tries to befriend; and 2.)the scene where the old guy falls asleep and the camera zooms in on him for a moment, revealing a great moment of humanity.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 67118,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  }
+}

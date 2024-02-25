@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Big Sick",
+  "url": "https://www.imdb.com/tt5462602/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjc1YzExMzYtNzVkZC00ODc3LTkxNzktMDI5YWZmMDQ2NTQ2XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "JustCuriosity",
+    "dateCreated": "2017-03-17",
+    "inLanguage": "English",
+    "heading": "A Beautiful Sweet Film about Complexities of Diversity and Relationships in Modern America",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 142800,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.5
+  },
+  "contentRating": "R",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2017-07-14",
+  "keywords": "interracial love,arranged marriage,illness,family relationships,based on true story",
+  "duration": "PT2H",
+  "actor": [
+    {
+      "name": "Kumail Nanjiani",
+      "url": "https://www.imdb.com/name/nm3529685/"
+    },
+    {
+      "name": "Zoe Kazan",
+      "url": "https://www.imdb.com/name/nm1443740/"
+    },
+    {
+      "name": "Holly Hunter",
+      "url": "https://www.imdb.com/name/nm0000456/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Showalter",
+      "url": "https://www.imdb.com/name/nm0795290/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Emily V. Gordon",
+      "url": "https://www.imdb.com/name/nm5077137/"
+    },
+    {
+      "name": "Kumail Nanjiani",
+      "url": "https://www.imdb.com/name/nm3529685/"
+    }
+  ]
+}

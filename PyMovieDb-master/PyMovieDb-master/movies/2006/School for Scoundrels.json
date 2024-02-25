@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "School for Scoundrels",
+  "url": "https://www.imdb.com/tt0462519/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE4MDQ4NjMxMl5BMl5BanBnXkFtZTYwMDE0NzU3._V1_.jpg",
+  "description": "A young guy short on luck enrolls in a class to build confidence to help win over the girl of his dreams, which becomes complicated when it turns out his teacher has the same agenda.",
+  "contentRating": "12A",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2007-02-23",
+  "keywords": "low self esteem,mace spray,new york city,australian,assertion",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Billy Bob Thornton",
+      "url": "https://www.imdb.com/name/nm0000671/"
+    },
+    {
+      "name": "Jon Heder",
+      "url": "https://www.imdb.com/name/nm1417647/"
+    },
+    {
+      "name": "Jacinda Barrett",
+      "url": "https://www.imdb.com/name/nm0057150/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Todd Phillips",
+      "url": "https://www.imdb.com/name/nm0680846/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Todd Phillips",
+      "url": "https://www.imdb.com/name/nm0680846/"
+    },
+    {
+      "name": "Scot Armstrong",
+      "url": "https://www.imdb.com/name/nm0035905/"
+    },
+    {
+      "name": "Hal E. Chester",
+      "url": "https://www.imdb.com/name/nm0156320/"
+    }
+  ],
+  "review": {
+    "author": "The_Defiant1",
+    "dateCreated": "2006-10-01",
+    "inLanguage": "English",
+    "heading": "Fun and Very Funny, But an Old Formula",
+    "reviewBody": "This is a fun movie that offers exactly what the previews promise and a little more. John Heder does a great job as does Billy Bob Thornton. The only drawback of the plot is that we&apos;ve seen it a million times before if you watch this genre of movie. Dr. P (Billy Bob Thornton) plays an overbearing and obnoxious school teacher teaching Roger (John Heder) and the other students how not to be wimps. The purpose of the course backfires when Roger finds out Dr. P does not like to be outdone. This movie could be compared to any comedy where the underdog must overcome the odds to win the girl. Regardless of the predictable plot, the comedy is clever and fun. This movie is worth seeing in the theater. The previews are faithful, but don&apos;t give away all of the humor. The humor is consistent throughout and it doesn&apos;t leave you tapping you fingers or looking at your watch.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 30502,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  }
+}

@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Sterile Cuckoo",
+  "url": "https://www.imdb.com/tt0065037/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjc0ZmYwMTUtMTRjOS00ZTM3LTgxMTktODhmY2Y2ZmIwYTU2XkEyXkFqcGdeQXVyNjc0MzMzNjA.jpg",
+  "description": null,
+  "review": {
+    "author": "RunPepe",
+    "dateCreated": "2003-01-17",
+    "inLanguage": "English",
+    "heading": "Loneliness...",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 2402,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "X",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "1970-02-05",
+  "keywords": [
+    "lie",
+    "teenage boy undresses a teenage girl",
+    "teenage girl undresses for a teenage boy",
+    "boyfriend girlfriend relationship",
+    "entomologist"
+  ],
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Liza Minnelli",
+      "url": "https://www.imdb.com/name/nm0591485/"
+    },
+    {
+      "name": "Wendell Burton",
+      "url": "https://www.imdb.com/name/nm0123765/"
+    },
+    {
+      "name": "Tim McIntire",
+      "url": "https://www.imdb.com/name/nm0532838/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Alan J. Pakula",
+      "url": "https://www.imdb.com/name/nm0001587/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Nichols",
+      "url": "https://www.imdb.com/name/nm0629615/"
+    },
+    {
+      "name": "Alvin Sargent",
+      "url": "https://www.imdb.com/name/nm0765091/"
+    }
+  ]
+}

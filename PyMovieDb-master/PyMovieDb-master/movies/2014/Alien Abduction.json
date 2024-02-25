@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Alien Abduction",
+  "url": "https://www.imdb.com/tt2510434/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMxMjUwMTU1Nl5BMl5BanBnXkFtZTgwOTI4NjMzMTE@._V1_.jpg",
+  "description": "A vacationing family encounters an alien threat in this thriller based on the real-life Brown Mountain Lights phenomenon in North Carolina.",
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "datePublished": "2014-04-04",
+  "keywords": "alien,found footage,lights,mountain,north carolina",
+  "duration": "PT1H25M",
+  "actor": [
+    {
+      "name": "Katherine Sigismund",
+      "url": "https://www.imdb.com/name/nm2081916/"
+    },
+    {
+      "name": "Corey Eid",
+      "url": "https://www.imdb.com/name/nm3490055/"
+    },
+    {
+      "name": "Riley Polanski",
+      "url": "https://www.imdb.com/name/nm3734793/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Matty Beckerman",
+      "url": "https://www.imdb.com/name/nm2552646/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Lewis",
+      "url": "https://www.imdb.com/name/nm5362533/"
+    }
+  ],
+  "review": {
+    "author": "DansLeNoir",
+    "dateCreated": "2018-04-08",
+    "inLanguage": "English",
+    "heading": "Not Bad",
+    "reviewBody": "The film was different from general similar types. In general, in such films, the monster is found in the last 10 minutes and all characters die. There is no such thing in this movie. I liked the difference for that.\\n\\n\\n\\nOther than that, Riley, who holds the amateur camera in his hand, sucked on the character. The character was not even counted. The cameraman had better put it directly. It was a stupidly created character expected to be so silent and believed to be autistic.\\n\\n\\n\\nApart from that, it was given the opportunity to show the aliens in advanced technology more powerless to escape the film. This is bottoming out realism.\\n\\nThe movie was definitely not realistic. It was not nice either. Scared was a film that gave a sound effect and a sudden performance like all American horror movies.\\n\\nI gave it 4 because the score is different only from these movies and because the tension is not too boring.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 8814,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  }
+}

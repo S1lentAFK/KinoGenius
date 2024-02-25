@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Darkness Falls",
+  "url": "https://www.imdb.com/tt0282209/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjcwOGM4ZDUtOGFiZS00YTAxLWExMTQtMWQ1NGU2NTZjYjg5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "A vengeful spirit has taken the form of the Tooth Fairy to exact vengeance on the town that lynched her 150 years earlier. Her only opposition is the only child, now grown up, who has survived her before.",
+  "review": {
+    "author": "MLDinTN",
+    "dateCreated": "2003-11-02",
+    "inLanguage": "English",
+    "heading": "a cheesy slasher flick disguised as a horror film",
+    "reviewBody": "The first 5 minutes started off scary with the boy in the dark, and the visit from the girl next door. The use of shadows made it creepy and when his mom is grabbed, that's really scary.\\n\\nBut, it goes down hill after that. An unique idea gets turned into a boring slasher flick. It's PG-13, and there isn't a lot of blood, so that takes a lot away. There were way too many plot holes. Like if Kyle knew he wasn't crazy, then why was he taking the anti-psychotics. And plus, it makes no sense that he was able to never spend any time in the dark for years. But, when he goes back to his hometown, he's put in all these situations with no light. And the theme, stay in the light, is so old. The writers went the easy way out since they couldn't come up with anything better. And how does Kyle look so kept together since he's been in a psych ward for years. Yet he looks like he stepped off the cover of GQ.\\n\\nFINAL VERDICT: Weak writing. No gore. Overall lame.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 33236,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Fantasy",
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2003-05-09",
+  "keywords": "tooth fairy,darkness,night terrors,fear of the dark,supernatural horror",
+  "duration": "PT1H26M",
+  "actor": [
+    {
+      "name": "Chaney Kley",
+      "url": "https://www.imdb.com/name/nm1015096/"
+    },
+    {
+      "name": "Emma Caulfield Ford",
+      "url": "https://www.imdb.com/name/nm0146536/"
+    },
+    {
+      "name": "Antony Burrows",
+      "url": "https://www.imdb.com/name/nm1112328/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jonathan Liebesman",
+      "url": "https://www.imdb.com/name/nm0509448/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Fasano",
+      "url": "https://www.imdb.com/name/nm0004591/"
+    },
+    {
+      "name": "James Vanderbilt",
+      "url": "https://www.imdb.com/name/nm0888743/"
+    },
+    {
+      "name": "Joe Harris",
+      "url": "https://www.imdb.com/name/nm0364899/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "Movie",
+  "name": "To Save a Life",
+  "url": "https://www.imdb.com/tt1270286/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAzMzgzMDI1OF5BMl5BanBnXkFtZTcwNTg3NjAwMw@@._V1_.jpg",
+  "description": "After a childhood friend&apos;s death, Jake Taylor, an all-star athlete must change his life - and sacrifice his dreams to save the lives of others.",
+  "review": {
+    "author": "cathywatson-642-817845",
+    "dateCreated": "2010-01-26",
+    "inLanguage": "English",
+    "heading": "Must see for teens!",
+    "reviewBody": "Saw this with my 14 year old daughter this weekend. This is an excellent movie for teens between the ages of 13-17. If you&apos;re deciding whether to watch it, don&apos;t be swayed by the overall rating as those who gave the lowest ratings do not belong to the intended audience group (males over 45 have given it the lowest rating - not sure why they felt the need to review it as it wasn&apos;t a movie for them?) I teach leadership to 14 and 15 year-old students at my school, and they were so excited when I showed them just the trailer! If you work with students then you know that what is portrayed in this movie is not exaggerated, but issues that they are actually dealing with on a daily basis. Even at my private, Christian school bullying is an issue. This movie has an excellent message and will help teens have the courage to stand up and be themselves, instead of just following the crowd.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 5856,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2010-11-11",
+  "keywords": "generation y,religious drama,teen drama,coming of age drama,basketball sport",
+  "duration": "PT2H",
+  "actor": [
+    {
+      "name": "Randy Wayne",
+      "url": "https://www.imdb.com/name/nm1357477/"
+    },
+    {
+      "name": "Deja Kreutzberg",
+      "url": "https://www.imdb.com/name/nm1670304/"
+    },
+    {
+      "name": "Joshua Weigel",
+      "url": "https://www.imdb.com/name/nm2647119/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brian Baugh",
+      "url": "https://www.imdb.com/name/nm0061982/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brian Baugh",
+      "url": "https://www.imdb.com/name/nm0061982/"
+    },
+    {
+      "name": "Jim Britts",
+      "url": "https://www.imdb.com/name/nm3090532/"
+    }
+  ]
+}

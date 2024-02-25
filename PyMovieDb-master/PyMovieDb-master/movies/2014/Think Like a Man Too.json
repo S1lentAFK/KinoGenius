@@ -1,0 +1,75 @@
+
+
+{
+  "type": "Movie",
+  "name": "Think Like a Man Too",
+  "url": "https://www.imdb.com/tt2239832/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE2NjMxNjU1OF5BMl5BanBnXkFtZTgwMTI1OTgxMTE@._V1_.jpg",
+  "description": "All the couples are back for a wedding in Las Vegas, but plans for a romantic weekend go awry when their various misadventures get them into some compromising situations that threaten to derail the big event.",
+  "review": {
+    "author": "lspotter98",
+    "dateCreated": "2014-07-07",
+    "inLanguage": "English",
+    "heading": "Horrible, not funny, obnoxious characters and stupid storyline",
+    "reviewBody": "I never review movies, but this one was so bad that I&apos;m writing this as soon as I got home. I didn&apos;t expect much, but I knew that there were some well known actors in this movie. I found that Kevin Hart&apos;s character was so obnoxious and that the only good part of the movie was the 30 seconds piece with Drake.\\n\\nI NOT recommend this to anyone--even if they&apos;re a Kevin Hart fan. If you like comedies like 22 jump street or the neighbors, you would be wasting your time by going to see this movie as it does NOT compare what so ever.\\n\\nI am so upset with what I saw and I regret seeing it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 22565,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2014-09-19",
+  "keywords": [
+    "african american",
+    "five word title",
+    "african american protagonist",
+    "black romance",
+    "mother son relationship"
+  ],
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Kevin Hart",
+      "url": "https://www.imdb.com/name/nm0366389/"
+    },
+    {
+      "name": "Gabrielle Union",
+      "url": "https://www.imdb.com/name/nm0005517/"
+    },
+    {
+      "name": "Wendi McLendon-Covey",
+      "url": "https://www.imdb.com/name/nm1018488/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tim Story",
+      "url": "https://www.imdb.com/name/nm1103162/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Keith Merryman",
+      "url": "https://www.imdb.com/name/nm2226647/"
+    },
+    {
+      "name": "David A. Newman",
+      "url": "https://www.imdb.com/name/nm2226970/"
+    },
+    {
+      "name": "Steve Harvey",
+      "url": "https://www.imdb.com/name/nm0367724/"
+    }
+  ]
+}

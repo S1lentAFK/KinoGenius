@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Dancer in the Dark",
+  "url": "https://www.imdb.com/tt0168629/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDVkYWMxNWEtNjc2MC00OGI5LWI3NmUtYWUwNDQyOTc3YmY5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "ruby_fff",
+    "dateCreated": "2000-10-20",
+    "inLanguage": "English",
+    "heading": "An extraordinary, quietly exploding film - a fantasy and musical, it emanates with human spirits",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 116067,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Musical"
+  ],
+  "datePublished": "2000-09-15",
+  "keywords": "factory,czech immigrant,tragedy,blindness,daydream",
+  "duration": "PT2H20M",
+  "actor": [
+    {
+      "name": "Bj\u00f6rk",
+      "url": "https://www.imdb.com/name/nm0001951/"
+    },
+    {
+      "name": "Catherine Deneuve",
+      "url": "https://www.imdb.com/name/nm0000366/"
+    },
+    {
+      "name": "David Morse",
+      "url": "https://www.imdb.com/name/nm0001556/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lars von Trier",
+      "url": "https://www.imdb.com/name/nm0001885/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lars von Trier",
+      "url": "https://www.imdb.com/name/nm0001885/"
+    },
+    {
+      "name": "Sj\u00f3n",
+      "url": "https://www.imdb.com/name/nm0797604/"
+    }
+  ]
+}

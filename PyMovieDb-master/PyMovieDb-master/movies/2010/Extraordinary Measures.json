@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "Extraordinary Measures",
+  "url": "https://www.imdb.com/tt1244659/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2Mjg5MDEyNV5BMl5BanBnXkFtZTcwMjkxMDAxMw@@._V1_.jpg",
+  "description": "A drama centered on the efforts of John and Aileen Crowley to find a researcher who might have a cure for their two children's rare genetic disorder.",
+  "contentRating": "PG",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2010-02-26",
+  "keywords": "genetic,handicapped child,child in jeopardy,portland oregon,guilty pleasure",
+  "duration": "PT1H46M",
+  "rating": {
+    "ratingCount": 17731,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "review": {
+    "author": "artzau",
+    "dateCreated": "2010-01-23",
+    "inLanguage": "English",
+    "heading": "Interesting Film",
+    "reviewBody": "The faceplate reviewer goes out of his way to pan the leads, Harrison Ford and Brendan Fraser as being too old, curmudgeonly and too fat and weepy. OK. Thanks for expressing those opinions, which, BTW, I don't share. Yes. There's no doubt this is a sentimental flick with great emotional overtones and certainly qualifies as a three hanky job. Seeing children suffer, whether they're cute, charming, cuddly or not, is not pleasant. But, the fact that there are these kinds of kids who endure the ravages of disease stemming from their own bodies is a sad reality and I would argue it takes a pretty stern person to consider these conditions unemotionally. The movie is based on a book and like any biopic, a certain amount of license is taken in bringing the story to the screen. However, the story is never maudlin. The script is full of sentiment but never slips down to the level of being overly sentimental. In effect, it's a tale of people with various agendas driven by the desperation of a father trying to help his children from dying an early death. There is no deus ex machina, here. The conflicts which impede the goal largely stem from the personal agendas of the players in the drama. Sound familiar? You bet. That's what good writing is all about and when life imitates myth, it's even better. This is a good movie. Go see it. And, if you do so without puddling up at the eyeballs, you're made of sterner stuff than me.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "actor": [
+    {
+      "name": "Brendan Fraser",
+      "url": "https://www.imdb.com/name/nm0000409/"
+    },
+    {
+      "name": "Keri Russell",
+      "url": "https://www.imdb.com/name/nm0005392/"
+    },
+    {
+      "name": "Harrison Ford",
+      "url": "https://www.imdb.com/name/nm0000148/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tom Vaughan",
+      "url": "https://www.imdb.com/name/nm0891114/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Nelson Jacobs",
+      "url": "https://www.imdb.com/name/nm0414608/"
+    },
+    {
+      "name": "Geeta Anand",
+      "url": "https://www.imdb.com/name/nm2521452/"
+    }
+  ]
+}

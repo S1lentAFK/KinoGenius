@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Arsenal",
+  "url": "https://www.imdb.com/tt5580536/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTEyMzk3ODYzMzdeQTJeQWpwZ15BbWU4MDk0MDc3ODAy._V1_.jpg",
+  "description": "A Southern businessman attempts to rescue his kidnapped mobster brother.",
+  "review": {
+    "author": "subxerogravity",
+    "dateCreated": "2017-01-23",
+    "inLanguage": "English",
+    "heading": "Dump and uninteresting.",
+    "reviewBody": "Poor Adrian Grenier. This movie was not the best laid plans for a future as a leading man. The 1st clue was Nicolas Cage himself. I like Cage and all but he tends to suck the very essence out of a film with his over the top bad acting. Grenier plays the good little brother trying to make sure his bad big brother gets on the right path after being on the wrong one for so long. Semi ironic as it's big bro who 1st introduce baby bro to the right path. It's a story I literally herd a thousand times, in fact I think I've seen at lest one movie a week with this subject. The stories of the two brothers is weak, and not implemented very well by the filmmakers or the actors playing them. And there was absolutely no point for John Cussack to be in this film. They could have saved some cash and gotten someone else. Spend it on some better action scenes. So Grenier's leading role status is up in the air. I hope he has an awesome real life entourage he can lean on. It's a skipper. http://cinemagardens.com",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 4952,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4
+  },
+  "contentRating": "R",
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "2017-01-06",
+  "keywords": "brother brother relationship,baseball,baseball bat,selling guns,torture",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Nicolas Cage",
+      "url": "https://www.imdb.com/name/nm0000115/"
+    },
+    {
+      "name": "John Cusack",
+      "url": "https://www.imdb.com/name/nm0000131/"
+    },
+    {
+      "name": "Adrian Grenier",
+      "url": "https://www.imdb.com/name/nm0004978/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven C. Miller",
+      "url": "https://www.imdb.com/name/nm1921345/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jason Mosberg",
+      "url": "https://www.imdb.com/name/nm8021776/"
+    }
+  ]
+}

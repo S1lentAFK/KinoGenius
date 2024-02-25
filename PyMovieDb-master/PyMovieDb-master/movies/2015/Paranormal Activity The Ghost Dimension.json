@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Paranormal Activity: The Ghost Dimension",
+  "url": "https://www.imdb.com/tt2473510/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQxMjE5OTA3OF5BMl5BanBnXkFtZTgwMDAxNTg4NjE@._V1_.jpg",
+  "description": "Using a special camera that can see spirits, a family must protect their daughter from an evil entity with a sinister plan.",
+  "contentRating": "15",
+  "genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "datePublished": "2015-10-23",
+  "keywords": "found footage,3 dimensional,demon,fifth part,sequel",
+  "duration": "PT1H28M",
+  "rating": {
+    "ratingCount": 30432,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.6
+  },
+  "review": {
+    "author": "defaultblues",
+    "dateCreated": "2015-10-22",
+    "inLanguage": "English",
+    "heading": "A new twist on an otherwise burning out franchise.",
+    "reviewBody": "The Paranormal Activity franchise has definitely been one to follow. The story follows a demon, under the guise of 'Toby' who has been steadily haunting a family and racking up quite a body count. This entry, which promises to be the final one, seems a little distant from the rest of the series. The family move into a house where they find a video camera able to pick up spirit activity and a collection of VHS tapes documenting Katie and Kristi after the events of PA3. The spirit camera is the USP of the film, as they delve into 3D filming ectoplasm and eventually showing 'Toby' as he starts haunting the families daughter. As you can expect, they do start to milk the 3D element too much towards the end of the film, especially in the climax, and quite a lot of the 'activity' scenes seem to play to the audience more than the characters. However, being able to see the demons movements definitely add to the building of tension, and is a much stronger installment than PA4 and 'the marked ones'. The main problem lies within the need for another, final installment, to finally tie up all the loose ends.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "actor": [
+    {
+      "name": "Chris J. Murray",
+      "url": "https://www.imdb.com/name/nm3042235/"
+    },
+    {
+      "name": "Brit Shaw",
+      "url": "https://www.imdb.com/name/nm1787921/"
+    },
+    {
+      "name": "Ivy George",
+      "url": "https://www.imdb.com/name/nm6386497/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gregory Plotkin",
+      "url": "https://www.imdb.com/name/nm0687427/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jason Pagan",
+      "url": "https://www.imdb.com/name/nm3091255/"
+    },
+    {
+      "name": "Andrew Deutschman",
+      "url": "https://www.imdb.com/name/nm2065670/"
+    },
+    {
+      "name": "Adam Robitel",
+      "url": "https://www.imdb.com/name/nm0733263/"
+    }
+  ]
+}

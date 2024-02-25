@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Duchess",
+  "url": "https://www.imdb.com/tt0864761/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU1MTQzMjgzNl5BMl5BanBnXkFtZTcwNTQxMzk3MQ@@._V1_.jpg",
+  "description": "A chronicle of the life of 18th-century aristocrat Georgiana, Duchess of Devonshire, who was reviled for her extravagant political and personal life.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2016-02-27",
+    "inLanguage": "English",
+    "heading": "Knightley terrific",
+    "reviewBody": "It's 1774 England. Georgiana (Keira Knightley) is arranged by her mother Lady Spencer (Charlotte Rampling) to marry the older Duke of Devonshire William Cavendish (Ralph Fiennes). She is eager for high society but finds him personally cold. He brings in a girl who is probably his bastard child. He is bitter that Georgiana delivers him a girl. She becomes a popular figure. She befriends Lady Bess Foster (Hayley Atwell) who is desperate to get back her children from her abusive husband. The Duke starts an affair with Bess in a long line of many mistresses and he is able to get her back her children. Georgiana starts her own affair with Charles Grey (Dominic Cooper).\\n\\nThis is a solid costume drama anchored by a powerful performance from Knightley. The other cast members also deliver led by Fiennes. He is a layered villain and a real human being. Atwell is also great as her character is caught up in an impossible situation. This is a slow deliberate burn. The beauty of the costumes hide an ugliness underneath it all.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 86905,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2008-09-05",
+  "keywords": "marriage,duchess,heir,infidelity,adultery",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Keira Knightley",
+      "url": "https://www.imdb.com/name/nm0461136/"
+    },
+    {
+      "name": "Ralph Fiennes",
+      "url": "https://www.imdb.com/name/nm0000146/"
+    },
+    {
+      "name": "Dominic Cooper",
+      "url": "https://www.imdb.com/name/nm1002641/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Saul Dibb",
+      "url": "https://www.imdb.com/name/nm1314116/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jeffrey Hatcher",
+      "url": "https://www.imdb.com/name/nm0368774/"
+    },
+    {
+      "name": "Anders Thomas Jensen",
+      "url": "https://www.imdb.com/name/nm0421314/"
+    },
+    {
+      "name": "Saul Dibb",
+      "url": "https://www.imdb.com/name/nm1314116/"
+    }
+  ]
+}

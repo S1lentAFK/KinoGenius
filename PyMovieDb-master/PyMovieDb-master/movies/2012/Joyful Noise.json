@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Joyful Noise",
+  "url": "https://www.imdb.com/tt1710396/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEwNjAzMzUyN15BMl5BanBnXkFtZTcwMDUxNDQxNw@@._V1_.jpg",
+  "description": "G.G. Sparrow faces off with her choir's newly appointed director, Vi Rose Hill, over the group's direction as they head into a national competition.",
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2012-06-29",
+  "keywords": "choir, autism, asperger syndrome, chips, bare chested male",
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Queen Latifah",
+      "url": "https://www.imdb.com/name/nm0001451/"
+    },
+    {
+      "name": "Dolly Parton",
+      "url": "https://www.imdb.com/name/nm0000573/"
+    },
+    {
+      "name": "Keke Palmer",
+      "url": "https://www.imdb.com/name/nm1551130/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Todd Graff",
+      "url": "https://www.imdb.com/name/nm0333804/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Todd Graff",
+      "url": "https://www.imdb.com/name/nm0333804/"
+    }
+  ],
+  "review": {
+    "author": "uberdonkey6",
+    "dateCreated": "2019-05-26",
+    "inLanguage": "English",
+    "heading": "Fun, dramatic and some great singing",
+    "reviewBody": "Ok, so my biases out the way: I'm not into Christian films per se, but I love Queen Latifah in most of her films. She doesn't fail to disappoint, being charismatic and larger than life whilst still being humble. Her daughter in the film has a great voice (is a singer herself in real life) with a Michael Jackson cover that brought tears to my eyes.\n\nThe love interest aspect is fun and sweet, there's a sub plot about love and loss, and just some great modern Christian singing and performance. I'm sure Christians will get more out of this, but anyone will feel sympathetic for this group of personalities on their musical journey.\n\nThis film really stuck in my head, and left me with a great positive vibe. It was well filmed and executed. Look - it's no subtle or complex bit of social commentary or story telling, but yet it's not the bland rubbish like Mama Mia. One of those films which I can watch again and again, and that's very rare for me.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 8828,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  }
+}

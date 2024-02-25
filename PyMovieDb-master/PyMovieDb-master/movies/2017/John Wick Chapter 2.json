@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "John Wick: Chapter 2",
+  "url": "https://www.imdb.com/tt4425200/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE2NDkxNTY2M15BMl5BanBnXkFtZTgwMDc2NzE0MTI@._V1_.jpg",
+  "description": "After returning to the criminal underworld to repay a debt, John Wick discovers that a large bounty has been put on his life.",
+  "review": {
+    "author": "Marshall-D-Teach",
+    "dateCreated": "2020-02-23",
+    "inLanguage": "English",
+    "heading": "Great",
+    "reviewBody": "In this 2nd installment of John Wick, the stylish visual and hard core action returns twice the level of the first film. So prepare for another suspenseful and cliffhanging sequences flow from this action movie when you watch this. The story goes deeper and the action scenes were incredibly entertaining! The revenge theme was still part of the movie&apos;s plot but this time the focus is the personal backstab of Wick. Keanu Reeves delivers again a notable performance as a titular character. This film is what a sequel movie should be - justifying the connection to the predecessor movie that made it successful by expanding its story and maintaining the elements that made it a superb film. The ending of this film opened the possibility of many more franchise of this movie.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 506643,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "R",
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "2017-02-09",
+  "keywords": "one man army,hitman,one against many,sequel,coming out of retirement",
+  "duration": "PT2H2M",
+  "actor": [
+    {
+      "name": "Keanu Reeves",
+      "url": "https://www.imdb.com/name/nm0000206/"
+    },
+    {
+      "name": "Riccardo Scamarcio",
+      "url": "https://www.imdb.com/name/nm1249052/"
+    },
+    {
+      "name": "Ian McShane",
+      "url": "https://www.imdb.com/name/nm0574534/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chad Stahelski",
+      "url": "https://www.imdb.com/name/nm0821432/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Derek Kolstad",
+      "url": "https://www.imdb.com/name/nm4401003/"
+    }
+  ]
+}

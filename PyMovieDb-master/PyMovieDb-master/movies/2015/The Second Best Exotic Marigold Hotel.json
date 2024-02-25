@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Second Best Exotic Marigold Hotel",
+  "url": "https://www.imdb.com/tt2555736/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU3MjkxNjc0OV5BMl5BanBnXkFtZTgwMjc0NDg0NDE@._V1_.jpg",
+  "description": "As the Best Exotic Marigold Hotel has only a single remaining vacancy, posing a rooming predicament for two fresh arrivals, Sonny Kapoor (Dev Patel) pursues his expansionist dream of opening a second hotel.",
+  "review": {
+    "author": "Kirpianuscus",
+    "dateCreated": "2016-06-12",
+    "inLanguage": "English",
+    "heading": "a refuge",
+    "reviewBody": "film of a state of soul. seductive for humor. for the teenage side of an age. for the lights and characters, music, dance and the British mark. for the gentle manner to say truth as words from ancient Oriental poem. and for its silence isles. a perfect film as refuge because it is not only the second part of Marigold Hotel but an oasis , far by the trend of blockbusters or independent films, manifestos or moral lessons. a film who gives solid proofs for the admirable art of great actors. out of fans circle interests. because it has not stars. because each new presence - Richard Gere especially- represents the right part of the puzzle from the first Marigold. a film about essential small things. and theirs roots, fruits and taste. a film about solitude, happiness and courage.and, like the hotel itself, comfortable refuge for the viewer.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 35649,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2015-02-26",
+  "keywords": "hotel,india,sequel,english abroad,old man",
+  "duration": "PT2H2M",
+  "actor": [
+    {
+      "name": "Judi Dench",
+      "url": "https://www.imdb.com/name/nm0001132/"
+    },
+    {
+      "name": "Maggie Smith",
+      "url": "https://www.imdb.com/name/nm0001749/"
+    },
+    {
+      "name": "Bill Nighy",
+      "url": "https://www.imdb.com/name/nm0631490/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Madden",
+      "url": "https://www.imdb.com/name/nm0006960/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ol Parker",
+      "url": "https://www.imdb.com/name/nm0662530/"
+    },
+    {
+      "name": "John Madden",
+      "url": "https://www.imdb.com/name/nm0006960/"
+    }
+  ]
+}

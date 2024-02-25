@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Daddy's Little Girls",
+  "url": "https://www.imdb.com/tt0778661/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYyMDIzMDUzMV5BMl5BanBnXkFtZTcwMjQ4ODQ0MQ@@._V1_.jpg",
+  "description": "A mechanic and his family are struggling to make ends meet with his ex-girlfriend and her drug dealing boyfriend He struggles to get custody of his children during the way he falls inlove with his attorney.",
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2007-02-14",
+  "keywords": "three word title,written by director,african american protagonist,family relationships,working class",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Gabrielle Union",
+      "url": "https://www.imdb.com/name/nm0005517/"
+    },
+    {
+      "name": "Idris Elba",
+      "url": "https://www.imdb.com/name/nm0252961/"
+    },
+    {
+      "name": "Tracee Ellis Ross",
+      "url": "https://www.imdb.com/name/nm0743896/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tyler Perry",
+      "url": "https://www.imdb.com/name/nm1347153/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tyler Perry",
+      "url": "https://www.imdb.com/name/nm1347153/"
+    }
+  ],
+  "review": {
+    "author": "jmtwin1",
+    "dateCreated": "2007-03-16",
+    "inLanguage": "English",
+    "heading": "I Love The Movie",
+    "reviewBody": "I guess I am one of the biggest dopes in this country, but I love Daddy's Little Girls. I have seen it three times already. I loved Gabrielle Union and she played the part well. Idris Elba was good too! I liked the fact that Tyler Perry omitted the Madea character this time, nice change. I enjoyed seeing familiar faces in this movie, which added a nice touch. I cannot complain Mr. Perry did a pretty good job and I am looking forward seeing another movie or play. My money was well spent and I don't feel guilty. If you are in the mood for a little drama, comedy and romance, then this is the movie to see. I guarantee you will enjoy it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 8204,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.8
+  }
+}

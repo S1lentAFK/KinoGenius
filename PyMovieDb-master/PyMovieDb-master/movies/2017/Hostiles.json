@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Hostiles",
+  "url": "https://www.imdb.com/tt4243168/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU5ODU1MjY5Nl5BMl5BanBnXkFtZTgwMzU4OTMzNjE@._V1_.jpg",
+  "description": "Voyeurism and sadomasochism intertwine when a man haunted by his dark past pushes his current lover to the edge of destruction.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 29,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": null,
+  "keywords": "dark",
+  "duration": "PT1H14M",
+  "actor": [
+    {
+      "name": "Hugo Bariller",
+      "url": "https://www.imdb.com/name/nm3718108/"
+    },
+    {
+      "name": "Marie Coulangeon",
+      "url": "https://www.imdb.com/name/nm4180383/"
+    },
+    {
+      "name": "Yoann Denaive",
+      "url": "https://www.imdb.com/name/nm0218865/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robin Plessy",
+      "url": "https://www.imdb.com/name/nm4416761/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Marc Brunet",
+      "url": "https://www.imdb.com/name/nm1791032/"
+    },
+    {
+      "name": "Robin Plessy",
+      "url": "https://www.imdb.com/name/nm4416761/"
+    }
+  ]
+}

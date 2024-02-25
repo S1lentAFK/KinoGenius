@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Walking with Dinosaurs 3D",
+  "url": "https://www.imdb.com/tt1762399/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE2OTc2MTk1Nl5BMl5BanBnXkFtZTgwNDg5NDU1MDE@._V1_.jpg",
+  "description": "See and feel what it was like when dinosaurs ruled the Earth, in a story where an underdog dino triumphs to become a hero for the ages.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2013-12-19",
+  "keywords": "dinosaur,3 dimensional,pachyrhinosaurus,computer animation,cgi animation",
+  "duration": "PT1H27M",
+  "rating": {
+    "ratingCount": 11829,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.2
+  },
+  "review": {
+    "author": "joexrayguy",
+    "dateCreated": "2013-12-29",
+    "inLanguage": "English",
+    "heading": "Studio couldn't decide which way to go",
+    "reviewBody": "The overall story is one of a misfit runt overcoming obstacles as he grows up. We've seen the story before, nothing new. CGI is impressive and they even had enough sense to include footprints the dirt, so it seems more like the dinos are grounded, more real. It was hard to tell if the background was CGI or real life film w/ dinos added. The studio decided to frame the dino story with a modern day teenager not wanting to see his uncle in Alaska. Totally unnecessary, didn't need it, wasted time. Each time a new dinosaur entered the story, the movie did a freeze frame, the dinos name and an explanation of the name was give. Very disrupting. Then the dinos would use that name to refer to that dino-as if we would call each other Homo Sapien. A lot of the dialog was a bit too cute with references back to the modern world. I took my kid, he liked it, but that was probably because it was a movie about dinosaurs regardless of content. I found it mildly annoying. Strickly kids fare.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "director": [
+    {
+      "name": "Barry Cook",
+      "url": "https://www.imdb.com/name/nm0176905/"
+    },
+    {
+      "name": "Neil Nightingale",
+      "url": "https://www.imdb.com/name/nm0631473/"
+    }
+  ],
+  "actor": [
+    {
+      "name": "Charlie Rowe",
+      "url": "https://www.imdb.com/name/nm2185462/"
+    },
+    {
+      "name": "Karl Urban",
+      "url": "https://www.imdb.com/name/nm0881631/"
+    },
+    {
+      "name": "Angourie Rice",
+      "url": "https://www.imdb.com/name/nm3886028/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Collee",
+      "url": "https://www.imdb.com/name/nm0171722/"
+    },
+    {
+      "name": "Gerry Swallow",
+      "url": "https://www.imdb.com/name/nm0841532/"
+    },
+    {
+      "name": "David Skelly",
+      "url": "https://www.imdb.com/name/nm0804003/"
+    }
+  ]
+}

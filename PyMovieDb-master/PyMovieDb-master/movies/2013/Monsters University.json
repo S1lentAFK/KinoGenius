@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Monsters University",
+  "url": "https://www.imdb.com/tt1453405/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUyODgwMDU3M15BMl5BanBnXkFtZTcwOTM4MjcxOQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Coffee_in_the_Clink",
+    "dateCreated": "2020-04-13",
+    "inLanguage": "English",
+    "heading": "A prequel that is every bit as good as the original",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 386385,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2013-07-12",
+  "keywords": "1980s,monster,university,fraternity,cheating",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Billy Crystal",
+      "url": "https://www.imdb.com/name/nm0000345/"
+    },
+    {
+      "name": "John Goodman",
+      "url": "https://www.imdb.com/name/nm0000422/"
+    },
+    {
+      "name": "Steve Buscemi",
+      "url": "https://www.imdb.com/name/nm0000114/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dan Scanlon",
+      "url": "https://www.imdb.com/name/nm0768959/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Dan Scanlon",
+      "url": "https://www.imdb.com/name/nm0768959/"
+    },
+    {
+      "name": "Daniel Gerson",
+      "url": "https://www.imdb.com/name/nm0314870/"
+    },
+    {
+      "name": "Robert L. Baird",
+      "url": "https://www.imdb.com/name/nm0047916/"
+    }
+  ]
+}

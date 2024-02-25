@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Sherlock Holmes",
+  "url": "https://www.imdb.com/tt0988045/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg0NjEwNjUxM15BMl5BanBnXkFtZTcwMzk0MjQ5Mg@@._V1_.jpg",
+  "description": "Detective Sherlock Holmes and his stalwart partner Watson engage in a battle of wits and brawn with a nemesis whose plot is a threat to all of England.",
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Mystery"
+  ],
+  "datePublished": "2009-12-26",
+  "keywords": "sherlock holmes character,scotland yard inspector,baker street london,belt,serial killer",
+  "duration": "PT2H8M",
+  "rating": {
+    "ratingCount": 666162,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "review": {
+    "author": "OnFireJC",
+    "dateCreated": "2009-12-25",
+    "inLanguage": "English",
+    "heading": "Entertaining, Sophisticated, Gritty - A New Breed of Sherlock Holmes",
+    "reviewBody": "Opening on Christmas Day, Sherlock Holmes showed itself to be worthy as a blockbuster hit. To be frank, I came with an expectation that the movie would be terrible. But I was proved wrong.\n\nSherlock Holmes seems to be like the new James Bond: gritty, hardcore, and always ready for a good fight. He is not only intellectually sophisticated but also quite a brawler. Watson his side kick who is his loyal friend is always there to save his dear partner from harm's way. Irene plays the notorious thief and lover of Mr. Holmes. She is a wily character who keeps the reader guessing her motives.\n\nThe cinematography of the movie was special because it showed parts of the film as Holmes' future logical deductions. The movie also used the tradition method of explaining the Sherlock Holmes deductions after given the facts and clues.\n\nSherlock Holmes' evil nemesis play his part well. There were many humorous antics and displays of ingenious traps. The other minor characters also added to the crude humor and laughter.\n\nOverall, this movie deserves to be watched. It comes with sparkles of spontaneity and fun. And it may even leave you wanting a sequel! Give it a try!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Robert Downey Jr.",
+      "url": "https://www.imdb.com/name/nm0000375/"
+    },
+    {
+      "name": "Jude Law",
+      "url": "https://www.imdb.com/name/nm0000179/"
+    },
+    {
+      "name": "Rachel McAdams",
+      "url": "https://www.imdb.com/name/nm1046097/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Guy Ritchie",
+      "url": "https://www.imdb.com/name/nm0005363/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Robert Johnson",
+      "url": "https://www.imdb.com/name/nm3467335/"
+    },
+    {
+      "name": "Anthony Peckham",
+      "url": "https://www.imdb.com/name/nm0669756/"
+    },
+    {
+      "name": "Simon Kinberg",
+      "url": "https://www.imdb.com/name/nm1334526/"
+    }
+  ]
+}

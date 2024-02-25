@@ -1,0 +1,76 @@
+{
+  "type": "Movie",
+  "name": "Monsters, Inc.",
+  "url": "https://www.imdb.com/tt0198781/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_.jpg",
+  "description": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.",
+  "review": {
+    "author": "bob the moo",
+    "dateCreated": "2002-02-11",
+    "inLanguage": "English",
+    "heading": "There&apos;s more for kids than adults, but it&apos;s still got plenty of laughs for adults",
+    "reviewBody": "Monsters Mike Wazowski and Sulley are the best scare team in Monsters Inc. The company catches the screams of children to power the city of Monstropolis. However Sulley&apos;s main rival, Randall Boggs is up to no good and is working the rooms after the factory is shut. Sulley stays late one night to find a door has been left open and that a highly dangerous little girl gets trapped on the wrong side of the door. With the contamination unit closing in on them, Mike and Sulley must get the girl back into her room and uncover Randall&apos;s plot.\n\nFrom the Toy Story producing Pixar comes yet another child/adult cartoon. The story here will satisfy adults and children but it feels like an excuse for things to happen rather than a story in itself. Where Toy Story had layers of story this is quite straightforward. That&apos;s not to say it&apos;s not good, but it is more aimed towards the children than the adults.\n\nSimilarly the majority of the comedy is aimed at children. The only consistent laughs for adults come from the original `one-eyed monster&apos; (where was that joke!?) Mike - he delivers plenty of funny lines and his musical over the outtakes is the funniest thing in the whole film. The problem is that it doesn&apos;t have Toy Story&apos;s spread of backup characters to deliver one-liners, here we have the three main characters and a couple of baddies, other than that there are no really good support roles - even Celia is wasted as Mike&apos;s love interest.\n\nThere are still more laughs than many real comedies! But it&apos;s unfortunate that it&apos;s only left to Mike to carry the adult humour. The animation here has really advanced from Toy Story - just check out Sulley&apos;s hairy coat to see the detail. At times you forget it&apos;s a cartoon - the characters and backgrounds just look so very real. The final chase through the many doors of the factory is really exciting visually and is pleasing to all.\n\nA great voice cast includes Crystal, Goodman, Coburn, Buscemi, and Tilly all do well, but Crystal is the only one that has much to do and he comes away with all the praise.\n\nOverall it is aimed more at kids than adults and it&apos;s not near the heights of Toy Story. However there is still lots to enjoy for all ages.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 970090,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.1
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2002-02-08",
+  "keywords": "monster world,monster,human nonhuman relationship,portal door,scream",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Billy Crystal",
+      "url": "https://www.imdb.com/name/nm0000345/"
+    },
+    {
+      "name": "John Goodman",
+      "url": "https://www.imdb.com/name/nm0000422/"
+    },
+    {
+      "name": "Mary Gibbs",
+      "url": "https://www.imdb.com/name/nm0316701/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Pete Docter",
+      "url": "https://www.imdb.com/name/nm0230032/"
+    },
+    {
+      "name": "David Silverman",
+      "url": "https://www.imdb.com/name/nm0798899/"
+    },
+    {
+      "name": "Lee Unkrich",
+      "url": "https://www.imdb.com/name/nm0881279/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Pete Docter",
+      "url": "https://www.imdb.com/name/nm0230032/"
+    },
+    {
+      "name": "Jill Culton",
+      "url": "https://www.imdb.com/name/nm0191717/"
+    },
+    {
+      "name": "Jeff Pidgeon",
+      "url": "https://www.imdb.com/name/nm0682066/"
+    }
+  ]
+}

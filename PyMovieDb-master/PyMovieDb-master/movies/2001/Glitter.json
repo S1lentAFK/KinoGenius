@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Glitter",
+  "url": "https://www.imdb.com/tt0118589/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTJlYjk4OWUtNzRhZi00ZTg3LWIwYTUtZWM1ZjgwMGEyNWI3XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+  "description": "A young singer dates a disc jockey who helps her get into the music business, but their relationship become complicated as she ascends to super stardom.",
+  "review": {
+    "author": "Tony-Kiss-Castillo",
+    "dateCreated": "2022-01-16",
+    "inLanguage": "English",
+    "heading": "To Be Honest: This is a Review of the 1st 1/2-Couldn&apos;t Bear Another Minute!",
+    "reviewBody": "CURIUOSITY! ...Said to Myself Mariah Carey!?!?!? Hmmmm ..... I wonder if she can act???\\n\\nSo ...Can You GUESS??? Probably pretty easy to imagine...HUH!?!? O. K.... Now, take Your Imagination DOWN a few notches... And just MAYBE You have guessed it more or less for what it is! ...Or in this case.... What it is NOT!\\n\\nProbably MY BAD! Usually, I avoid bad movies like the PLAGUE! Well... The EXCEPTION PROVES the RULE! The very BEST I can say about this FILM?????? Well.... Some of the MUSICAL NUMBERS were.... NOT SO BAD! And ...as is the Case with almost EVERY rather bloated Budget Hollywood production... ALL Those standard PRODUCTION VALUES.... You know... Cimemaphotography, editing, sets, costumes, recording and sound engineering etc..... as expected... were all.... Well.... ACCEPTABLE!\\n\\nThe storyline, however, was utterly inane. Deciding not to submit myself to anymore CRUEL + UNUSUAL Punishment... I just had to pull the plug about 1/2 way thru! SORRY!\\n\\nNeed I say anymore??? O. K.... I thought You would agree!\\n\\nFYI... This REVIEW has like 700 or 800 Characters! Much more than 150 MINIMUM.... RIGHT!?!?!?",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 2
+    }
+  },
+  "rating": {
+    "ratingCount": 24028,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 2.4
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "datePublished": "2001-11-23",
+  "keywords": "female singer,music business,b movie,romantic breakup,dance club",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Mariah Carey",
+      "url": "https://www.imdb.com/name/nm0001014/"
+    },
+    {
+      "name": "Eric Ben\\u00e9t",
+      "url": "https://www.imdb.com/name/nm0073160/"
+    },
+    {
+      "name": "Max Beesley",
+      "url": "https://www.imdb.com/name/nm0066586/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Vondie Curtis-Hall",
+      "url": "https://www.imdb.com/name/nm0193554/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Cheryl L. West",
+      "url": "https://www.imdb.com/name/nm0921985/"
+    },
+    {
+      "name": "Kate Lanier",
+      "url": "https://www.imdb.com/name/nm0486824/"
+    }
+  ]
+}

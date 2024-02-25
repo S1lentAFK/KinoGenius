@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Star Wars: Episode I - The Phantom Menace",
+  "url": "https://www.imdb.com/tt0120915/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA2NzQ3NjE4M15BMl5BanBnXkFtZTgwNTE5OTcyNDM@._V1_.jpg",
+  "description": "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their original glory.",
+  "review": {
+    "author": "davekeanu",
+    "dateCreated": "2016-06-13",
+    "inLanguage": "English",
+    "heading": "Love this film",
+    "reviewBody": "Honestly I don't get it why so many people hate this movie I can understand it is a bit too long but its not the weakest in the series, the weakest one in the series would have to be episode 2 Attack of the Clones, having too much romance in it. But I think this one is a lot more better then episode 2 in many ways. And also I think Jar Jar Binks is a rather underrated character I know he can be annoying at times but he did play a large role in this film which fans are missing the point. The pod race is problay the best scene in this whole film as it was rather enjoyable to watch over and over again on youtube. Soundtrack is amazing and very well done for this movie. I know some people hate this movie just because of one character but come on give this movie another chance it will surprised you in many ways. \n\noverall Episode 1 is rather underrated and needs another chance \n\n8/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 849902,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "U",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "1999-07-15",
+  "keywords": "torso cut in half,star wars,prequel,starfighter,race",
+  "duration": "PT2H16M",
+  "actor": [
+    {
+      "name": "Ewan McGregor",
+      "url": "https://www.imdb.com/name/nm0000191/"
+    },
+    {
+      "name": "Liam Neeson",
+      "url": "https://www.imdb.com/name/nm0000553/"
+    },
+    {
+      "name": "Natalie Portman",
+      "url": "https://www.imdb.com/name/nm0000204/"
+    }
+  ],
+  "director": [
+    {
+      "name": "George Lucas",
+      "url": "https://www.imdb.com/name/nm0000184/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "George Lucas",
+      "url": "https://www.imdb.com/name/nm0000184/"
+    }
+  ]
+}

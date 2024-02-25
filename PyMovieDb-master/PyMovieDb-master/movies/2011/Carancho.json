@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Carancho",
+  "url": "https://www.imdb.com/tt1542852/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTA3MDgwMTY0NV5BMl5BanBnXkFtZTcwNzk4NzEzNA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "davidtraversa-1",
+    "dateCreated": "2010-11-04",
+    "inLanguage": "English",
+    "heading": "Dark, moody film, superbly produced.",
+    "reviewBody": "This movie is as perfect as any contemporary movie can be perfect nowadays. The uncompromising plot shows the very somber underside of the insurance business in all its corruption, corruption found in any other big business, as we are getting to know more and more every day just by reading the world news.\\n\\nThey show it really as mafia business.\\n\\nCorrupt lawyers, corrupt police, corrupt doctors. Everybody and his grandmother is corrupt!! A very dark, very stark movie.\\n\\nQuite-quite depressing to watch, but so very well done that it grabs you from the very beginning and doesn&apos;t let go. Road traffic in the big, polluted city, is the major protagonist, the core of the story, and it is pack and parcel of many outdoor scenes where the interminable string of vehicles running with their noise and pollution are a permanent reminder that every few minutes, inevitably, some accident will occur. \\n\\nThe music is so perfect following the story that just now I realize that there must have been music, because I don&apos;t remember any!! \\n\\nThe traffic accident victims, their pain, their waiting for an ambulance lying on the bare cement of the street, maybe with broken bones, in awful pain, any minute of waiting time an atrocious agony, and the ambulance taking forever to arrive..., to me those were intolerable scenes because I was a victim of accidents too and the whole nightmarish thing came back to my mind. \\n\\nAll the hospital scenes were PERFECT.\\n\\nAnd the dismal public hospitals, with stained doors (dirt), lack of supplies, lack of doctors and nurses...,and the few available (for too many patients), dead tired without sleep due to so much overwork and underpaid. \\n\\nNo wonder then that they could make horrible mistakes! It couldn&apos;t be more depressing. Maybe it&apos;s my problem, but I prefer to see a comedy nowadays.\\n\\nThe length of this movie is PERFECT, not a minute too long, not a minute too short. The editing and the camera work just couldn&apos;t be better. All the actors sheer perfection too. \\n\\nOnly one question bothers me when it comes to script logic. At the very end, who was driving the white pick up? Because as far as I understood, Darin&apos;s character didn&apos;t have reliable friends to count on. It&apos;s the only flaw that I could notice in the whole movie. \\n\\nExcellent, a truly excellent film.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 8718,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2012-03-02",
+  "keywords": "buenos aires argentina,sex scene,hospital,lawyer,ambulance",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Ricardo Dar\\u00edn",
+      "url": "https://www.imdb.com/name/nm0201857/"
+    },
+    {
+      "name": "Federico Silva",
+      "url": "https://www.imdb.com/name/nm2845889/"
+    },
+    {
+      "name": "Cristian De As\\u00eds",
+      "url": "https://www.imdb.com/name/nm4880809/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Pablo Trapero",
+      "url": "https://www.imdb.com/name/nm0871086/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Alejandro Fadel",
+      "url": "https://www.imdb.com/name/nm1375024/"
+    },
+    {
+      "name": "Mart\\u00edn Mauregui",
+      "url": "https://www.imdb.com/name/nm1375777/"
+    },
+    {
+      "name": "Santiago Mitre",
+      "url": "https://www.imdb.com/name/nm1377207/"
+    }
+  ]
+}

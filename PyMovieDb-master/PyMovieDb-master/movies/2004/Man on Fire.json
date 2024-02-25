@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Man on Fire",
+  "url": "https://www.imdb.com/tt0328107/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODFlMmEwMDgtYjhmZi00ZTE5LTk2NWQtMWE1Y2M0NjkzOGYxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "description": "In Mexico City, a former CIA operative swears vengeance on those who committed an unspeakable act against the family he was hired to protect.",
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2004-10-08",
+  "keywords": "kidnapping,bodyguard,kidnapped girl,corrupt cop,cia agent",
+  "duration": "PT2H26M",
+  "actor": [
+    {
+      "name": "Denzel Washington",
+      "url": "https://www.imdb.com/name/nm0000243/"
+    },
+    {
+      "name": "Christopher Walken",
+      "url": "https://www.imdb.com/name/nm0000686/"
+    },
+    {
+      "name": "Dakota Fanning",
+      "url": "https://www.imdb.com/name/nm0266824/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tony Scott",
+      "url": "https://www.imdb.com/name/nm0001716/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "A.J. Quinnell",
+      "url": "https://www.imdb.com/name/nm0704031/"
+    },
+    {
+      "name": "Brian Helgeland",
+      "url": "https://www.imdb.com/name/nm0001338/"
+    }
+  ],
+  "review": {
+    "author": "littlemartinarocena",
+    "dateCreated": "2006-10-09",
+    "inLanguage": "English",
+    "heading": "The Editing Massacre",
+    "reviewBody": "A riveting introduction, powerful performances and yet, I couldn't quite connect. The trendy editing, I hope, it's just a moronic phase that movies are going through to be outgrow soon, very soon. All the dramatic tension vanishes as the editor plays around with the visuals. Why? If you have characters played by the likes of Denzel Washington, why the need to hit us over the head with a self conscious blow of irrational cutting taking me out of the movie completely and forcing me to see the movie as a movie, the actors as actors and the drama as sheer fiction. Washington is superb. Slowly but surely I'm warming up to the man. I've always admired his performances but there was something about the actor, a veil of arrogance perhaps, that stopped me from getting closer. Here, his personal torment and his warming up to Dakota Fanning took me completely until the smart ass editing ruined everything.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 386716,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  }
+}

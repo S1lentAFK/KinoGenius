@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Wash",
+  "url": "https://www.imdb.com/tt0290332/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWUxMWZmYTYtZjVjOC00MDVhLWEzYTAtMzhkMGExMjRjZjZhXkEyXkFqcGdeQXVyODg2MjMxMTc._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "lildisser10",
+    "dateCreated": "2004-06-29",
+    "inLanguage": "English",
+    "heading": "Could've been a little better",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 7605,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2002-08-09",
+  "keywords": "car,buddy comedy,friend,money,car wash",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Dr. Dre",
+      "url": "https://www.imdb.com/name/nm0236564/"
+    },
+    {
+      "name": "Snoop Dogg",
+      "url": "https://www.imdb.com/name/nm0004879/"
+    },
+    {
+      "name": "Anthony Albano",
+      "url": "https://www.imdb.com/name/nm0016297/"
+    }
+  ],
+  "director": [
+    {
+      "name": "DJ Pooh",
+      "url": "https://www.imdb.com/name/nm0690770/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "DJ Pooh",
+      "url": "https://www.imdb.com/name/nm0690770/"
+    }
+  ]
+}

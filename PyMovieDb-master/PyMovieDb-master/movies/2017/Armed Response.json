@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Armed Response",
+  "url": "https://www.imdb.com/tt4557208/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIzMDU1NDEwNF5BMl5BanBnXkFtZTgwNjEzMTc3MjI@._V1_.jpg",
+  "description": "A remote facility, built as a prison with a secret super lie detector, is compromised and the five guarding it are possibly dead. An armed team of six investigates what's wrong.",
+  "review": {
+    "author": "Badmovieboy123",
+    "dateCreated": "2022-08-24",
+    "inLanguage": "English",
+    "heading": "If you need explanation I got you.",
+    "reviewBody": "Long story short. An AI interrogation program wreaks havoc on a group of soldiers in an abandoned prison. Listen yall hate everything sure Wesley snipes did nothing for me here...but here me out...seth the Monday night messiah in a movie with Wesley snipes and Anne henche. It's alright with me. Was it shawshank redemption no...but was it good enough to waste an hour and a half on ...yes. Not sure what the genre would be...thriller action horror whatever it is...hulk hogan's made worse I promise.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 2873,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.7
+  },
+  "contentRating": "R",
+  "genre": [
+    "Action",
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "2017-08-09",
+  "keywords": "proximity detector,prison,sensory deprivation,video playback,bicycle accident",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Wesley Snipes",
+      "url": "https://www.imdb.com/name/nm0000648/"
+    },
+    {
+      "name": "Anne Heche",
+      "url": "https://www.imdb.com/name/nm0000162/"
+    },
+    {
+      "name": "Dave Annable",
+      "url": "https://www.imdb.com/name/nm1616349/"
+    }
+  ],
+  "director": [
+    {
+      "name": "John Stockwell",
+      "url": "https://www.imdb.com/name/nm0007082/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Matt Savelloni",
+      "url": "https://www.imdb.com/name/nm4211251/"
+    }
+  ]
+}

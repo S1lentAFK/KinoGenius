@@ -1,0 +1,80 @@
+
+
+{
+  "type": "Movie",
+  "name": "Finding Nemo",
+  "url": "https://www.imdb.com/tt0266543/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmYxZjg3OWEtNzg5Yi00M2YzLWI1YzYtYTQ0NTgwNzhjN2E1XkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg",
+  "description": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+  "datePublished": "2003-10-10",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "duration": "PT1H40M",
+  "rating": {
+    "ratingCount": 1104141,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.2
+  },
+  "review": {
+    "author": "PizzicatoFishCrouch",
+    "dateCreated": "2006-03-20",
+    "inLanguage": "English",
+    "heading": "Swimming with Sharks is a Whale of a Time",
+    "reviewBody": "Marlin, a nervous and neurotic clownfish is heavily overprotective of his son Nemo, who only wants to explore the sea in its entirety. When Nemo gets caught by a scuba diver and taken away, it is up to Marlin to swallow his own fears and find Nemo. The ensuing search and rescue organized by the him is a mass effort by swimming and flying creatures of all sizes and personalities, such as a threesome of vegetarian sharks, a fish with short term memory and an aged turtle, all helping him realise the error of his ways in restricting himself to just his home.\n\nAs charming as it is beautiful, Finding Nemo is a joy, both visually and cinematically. The characters are all so appealing and sweet that you want to hug each and every one of them, Nemo and Dory in particular. But the film transcends above just a generic animated film, for there are lessons to be learnt by it too. The film often tells a children's tale from an adult's point of view, with risky situations and emotional soul-searching putting stress on a disjointed family.\n\nThe sea is brought to us in such a memorable and unique way that there is brilliance and beauty in every frame. The animation is of all time high for Pixar, and the sound mixing and editing are also to be credited, as they capture the heart of the sea creditably. But perhaps the best thing about the film is the musical score by Thomas Newman. He creates the essence of the sea, as well as the emotions felt by the fish throughout. Note the masterwork that occurs as an upbeat, jovial number quickly escalates into something darker in a matter of minutes. In short, the music is superb.\n\nThe voice cast are capable and cannily chosen, from young Alexander Gould as the naive Nemo, as well as Albert Brooks as the bumbling Marlin. But the star of the show is Ellen DeGeneres as Dory. As the forgetful but caring fish, she is sweet and soulful, and provides much of the comedy of the film. But the humour is also provided by the great script, which delivers a potentially dull story with wit and soul, and shies away from the sentimentality that could so easily arise of a Disney film. And the jokes, what jokes - from satire, spoof and slapstick, they'll be a one-liner for everybody here.\n\nGorgeous to look at and utterly adorable, Finding Nemo sets the standard for how animated movies should being terms of entertainment value as well as story and themes - ending with the touching, thought-provoking message of how too much protectiveness on the parent's side will repel, but, no matter how independent a child (or fish) believes themselves to be, they'll always need their parents.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 1104141,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.2
+  },
+  "keywords": "pufferfish,nemo the clownfish character,blood,shark,short term memory loss",
+  "actor": [
+    {
+      "name": "Albert Brooks",
+      "url": "https://www.imdb.com/name/nm0000983/"
+    },
+    {
+      "name": "Ellen DeGeneres",
+      "url": "https://www.imdb.com/name/nm0001122/"
+    },
+    {
+      "name": "Alexander Gould",
+      "url": "https://www.imdb.com/name/nm1071252/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrew Stanton",
+      "url": "https://www.imdb.com/name/nm0004056/"
+    },
+    {
+      "name": "Lee Unkrich",
+      "url": "https://www.imdb.com/name/nm0881279/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Stanton",
+      "url": "https://www.imdb.com/name/nm0004056/"
+    },
+    {
+      "name": "Bob Peterson",
+      "url": "https://www.imdb.com/name/nm0677037/"
+    },
+    {
+      "name": "David Reynolds",
+      "url": "https://www.imdb.com/name/nm0721675/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Cold Mountain",
+  "url": "https://www.imdb.com/tt0159365/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY3NTc5NzcyOF5BMl5BanBnXkFtZTcwMDM0NjQyMQ@@._V1_.jpg",
+  "description": "In the waning days of the American Civil War, a wounded soldier embarks on a perilous journey back home to Cold Mountain, North Carolina to reunite with his sweetheart.",
+  "review": {
+    "author": "bkoganbing",
+    "dateCreated": "2012-07-23",
+    "inLanguage": "English",
+    "heading": "Invested with nobility",
+    "reviewBody": "Anthony Minghella knew something of the Civil War in locating his story in North Carolina. Of all the states that seceded to form the Confederacy, North Carolina may have been the most reluctant. It's Governor Zebulon Vance who is mentioned in the story dragged his feet in giving help to the Confederate government and its citizens save for the east where the plantations were never really embraced the Southern cause. Jude Law's attitude about fighting for a rich man to own slaves was not at all uncommon in North Carolina.\\n\\nWhich after a well staged recreation of the siege at Petersburg which when the north blew up the Confederate defenses by tunneling under and mining them with explosives did not have the desired result, Law decides he's sick of war and just quits to go back to his sweetheart Nicole Kidman on Cold Mountain. In the meantime Nicole is having her own problems just keeping body, soul, and property together on the small family farm. So the film proceeds along two tracks of Law's journey and Kidman's problems.\\n\\nThe stronger track for me is clearly Kidman and her problems. Renee Zellweger won a Best Supporting Actress Award for playing a young white trash woman who Kidman takes on for just board and feed to help with the farm. Without her help the farm's survival would be problematic although she has to put up with some pithy observation as well. Zellweger invests this simple character with so many dimensions her performance even without the Oscar capping it is her personal best. Kidman while not to the plantation manor born being the daughter of minister Donald Sutherland also is not used to manual farm labor. She grows in character as the film progresses.\\n\\nAs for Law and Kidman as well he has to worry about the Home guard, a self appointed group of militia taking over because official government machinery has broken down. Probably before the war they were slave catchers, now they hunt deserters and those who aid and abet them. Giovanni Ribisi also scores well as a young man in the home guard who declined to serve at places like Petersburg. Ribisi is some piece of work.\\n\\nBesides Zellweger's Oscar, Cold Mountain was deservedly nominated for a flock of other Oscars. It's a marvelous look at the decline of the Confederacy, a cause that simply would not die quietly. In its own way the survivors are invested with the same kind of nobility that the Gone With The Wind cast was.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 155298,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "15",
+  "genre": [
+    "Adventure",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2004-01-02",
+  "keywords": "1860s,cold mountain north carolina,year 1864,nonlinear timeline,based on novel",
+  "duration": "PT2H34M",
+  "actor": [
+    {
+      "name": "Jude Law",
+      "url": "https://www.imdb.com/name/nm0000179/"
+    },
+    {
+      "name": "Nicole Kidman",
+      "url": "https://www.imdb.com/name/nm0000173/"
+    },
+    {
+      "name": "Ren\u00e9e Zellweger",
+      "url": "https://www.imdb.com/name/nm0000250/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Anthony Minghella",
+      "url": "https://www.imdb.com/name/nm0005237/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Charles Frazier",
+      "url": "https://www.imdb.com/name/nm0292565/"
+    },
+    {
+      "name": "Anthony Minghella",
+      "url": "https://www.imdb.com/name/nm0005237/"
+    }
+  ]
+}

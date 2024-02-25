@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Last Castle",
+  "url": "https://www.imdb.com/tt0272020/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzZlMTllYjMtZmQ0NS00ZGJkLTg1ODItODM2MmViYjlmNzcyXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg",
+  "description": "A court-martialed General rallies together twelve hundred inmates to rise against a corrupt and sadistic warden.",
+  "review": {
+    "author": "casey_choas66",
+    "dateCreated": "2002-07-10",
+    "inLanguage": "English",
+    "heading": "under rated",
+    "reviewBody": "This was probably one of the most under rated movies of 2001. I didn't have many expectations for it either. I am not a Robert Redford fan and I was not familiar with the work of James Gandolfini, but because I am an action fan and the trailer made this out to look like a not to bad action movie I decided to pick it up. The problem with most action movies that run over two hours is that they usually become boring and bogged down with confusing plot twists that ruin the entertainment value. But this movie never once became boring, my eyes were glued to the screen the whole time. Redford and Gandolfini lit up the screen with red hot performances that kept you at the edge of your seat. This movie has everything you could ask for in an action movie, strong performances, strong script, beautifuly directed action sequences and dare I say it, a few touching moments. Redford plays a war hero who is sent to a prision for war verterians. He then plans an uprising against the corrupt prision guard. Your heart will instantly go out to a shy inmate who was accused of beating someone to death with a hammer. The film also has some of the most mouth dropping action scenes that I've seen in a long time. I couldn't believe what I was seeing. So whether you are a fan of prision movies like The Shawshank Redemption or Fortress or a hardened action fan this movie will not dissapoint. I rank this film as one of the best of 2001 along side Made.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 84767,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2002-01-04",
+  "keywords": "salute,prison riot,abuse of power,general,respect",
+  "duration": "PT2H11M",
+  "actor": [
+    {
+      "name": "Robert Redford",
+      "url": "https://www.imdb.com/name/nm0000602/"
+    },
+    {
+      "name": "James Gandolfini",
+      "url": "https://www.imdb.com/name/nm0001254/"
+    },
+    {
+      "name": "Mark Ruffalo",
+      "url": "https://www.imdb.com/name/nm0749263/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rod Lurie",
+      "url": "https://www.imdb.com/name/nm0527109/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "David Scarpa",
+      "url": "https://www.imdb.com/name/nm0769227/"
+    },
+    {
+      "name": "Graham Yost",
+      "url": "https://www.imdb.com/name/nm0003662/"
+    }
+  ]
+}

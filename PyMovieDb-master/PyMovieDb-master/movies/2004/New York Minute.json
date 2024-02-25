@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "New York Minute",
+  "url": "https://www.imdb.com/tt0363282/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI2Mjc0OTc0MV5BMl5BanBnXkFtZTcwMjM4MzUyMQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "jotix100",
+    "dateCreated": "2005-08-24",
+    "inLanguage": "English",
+    "heading": "All that can happen in a New York minute!",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 24827,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.9
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Family"
+  ],
+  "datePublished": "2004-07-30",
+  "keywords": "dog,dream,death of mother,rebellious girl,new york city",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Mary-Kate Olsen",
+      "url": "https://www.imdb.com/name/nm0001581/"
+    },
+    {
+      "name": "Ashley Olsen",
+      "url": "https://www.imdb.com/name/nm0001580/"
+    },
+    {
+      "name": "Eugene Levy",
+      "url": "https://www.imdb.com/name/nm0506405/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dennie Gordon",
+      "url": "https://www.imdb.com/name/nm0330140/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Emily Fox",
+      "url": "https://www.imdb.com/name/nm1428524/"
+    },
+    {
+      "name": "Adam Cooper",
+      "url": "https://www.imdb.com/name/nm0177836/"
+    },
+    {
+      "name": "Bill Collage",
+      "url": "https://www.imdb.com/name/nm0171651/"
+    }
+  ]
+}

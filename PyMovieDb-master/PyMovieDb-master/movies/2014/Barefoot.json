@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Barefoot",
+  "url": "https://www.imdb.com/tt2355495/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg0NzIxOTgxM15BMl5BanBnXkFtZTgwMjA3NjY3MDE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "soundaryaona",
+    "dateCreated": "2014-02-25",
+    "inLanguage": "English",
+    "heading": "A heartwarming & feel good movie",
+    "reviewBody": "It was a very well written script with excellent acting by the lead pair. Evan Rachael was flawless in her portrayal with some great support by Scott. Its very different than your average Rom-com but does fall prey at some areas to the regular formula film making. Nevertheless a movie that's light & frothy which will end up making you feel for the characters. Its a good choice for a refresher after a day's long work to just unwind. The cinematography and music were also working well with the script. The direction was top notch and it looked like the director knew what he wanted from his actors. I wouldn't really mind watching it again sometime. A surprise package indeed, go for it !!!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 26909,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2014-09-04",
+  "keywords": "psychiatric hospital,boyfriend girlfriend relationship,virgin,motor home,stolen vehicle",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Evan Rachel Wood",
+      "url": "https://www.imdb.com/name/nm0939697/"
+    },
+    {
+      "name": "Scott Speedman",
+      "url": "https://www.imdb.com/name/nm0005454/"
+    },
+    {
+      "name": "J.K. Simmons",
+      "url": "https://www.imdb.com/name/nm0799777/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrew Fleming",
+      "url": "https://www.imdb.com/name/nm0281598/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stephen Zotnowski",
+      "url": "https://www.imdb.com/name/nm1837015/"
+    }
+  ]
+}

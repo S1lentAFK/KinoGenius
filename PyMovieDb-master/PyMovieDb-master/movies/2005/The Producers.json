@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Producers",
+  "url": "https://www.imdb.com/tt0395251/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzJhYWNiYTktYjU3OS00YjI4LTlkOGEtMjc5YWQ0NzI4MzQ4XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
+  "description": "After putting together another Broadway flop, down-on-his-luck producer Max Bialystock teams up with timid accountant Leo Bloom in a get-rich-quick scheme to put on the world's worst show.",
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Musical"
+  ],
+  "datePublished": "2005-12-26",
+  "keywords": "scheme,opening night,accountant,swedish,nazi",
+  "duration": "PT2H14M",
+  "actor": [
+    {
+      "name": "Nathan Lane",
+      "url": "https://www.imdb.com/name/nm0001447/"
+    },
+    {
+      "name": "Matthew Broderick",
+      "url": "https://www.imdb.com/name/nm0000111/"
+    },
+    {
+      "name": "Uma Thurman",
+      "url": "https://www.imdb.com/name/nm0000235/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Susan Stroman",
+      "url": "https://www.imdb.com/name/nm0834893/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mel Brooks",
+      "url": "https://www.imdb.com/name/nm0000316/"
+    },
+    {
+      "name": "Thomas Meehan",
+      "url": "https://www.imdb.com/name/nm0576070/"
+    }
+  ],
+  "review": {
+    "author": "bkoganbing",
+    "dateCreated": "2016-06-13",
+    "inLanguage": "English",
+    "heading": "Spring comes again for Hitler",
+    "reviewBody": "A little more music and embellishing of several plot points that were passed over in the original film are what distinguishes this musical version of The Producers. It's a musical version about a film that had a plot about two men who try to create the biggest flop in the history of Broadway and a musical.\n\nTaking the places of Zero Mostel and Gene Wilder as the producing partners Bialystock&Bloom are Nathan Lane and Matthew Broderick. Both these guys are given an impossible task of repeating two classically congruent performances that Mostel and Wilder created. Even the additional bits of business just can't make me forget the original. \n\nWill Ferrall did not come over from Broadway to do the role of the hermit like Nazi living in Greenwich Village and caring for his carrier pigeons. He had to do double duty because he also took the place of beatnik method actor Dick Shawn from the original. I'm not sure that combining the roles was the best thing, I'm also not sure Ferrall did real justice to either try as he might on both. Kenneth Mars was the reclusive Nazi author of Springtime For Hitler. in the original. Both he and Shawn were almost as memorable as Mostel and Wilder.\n\nI do love the Mel Brooks humor, but I think he laid it on a bit thick with the gay stereotyping of Gary Beach and Roger Bart. It came this close to the good side of being offensive, but not quite.\n\nThere's a lot to like in this version of The Producers, but I think Mel should not have touched his masterpiece.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 44560,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  }
+}

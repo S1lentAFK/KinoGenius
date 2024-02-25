@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Nightmare Before Christmas",
+  "url": "https://www.imdb.com/tt0107688/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWE4OTNiM2ItMjY4Ni00ZTViLWFiZmEtZGEyNGY2ZmNlMzIyXkEyXkFqcGdeQXVyMDU5NDcxNw@@._V1_.jpg",
+  "description": "Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home causes confusion.",
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "1994-11-25",
+  "keywords": "halloween,christmas,stop motion animation,santa claus character,scientist",
+  "duration": "PT1H16M",
+  "rating": {
+    "ratingCount": 372890,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  },
+  "review": {
+    "author": "Hitchcoc",
+    "dateCreated": "2017-09-07",
+    "inLanguage": "English",
+    "heading": "Finally Decided to Watch It",
+    "reviewBody": "This is certainly a pleasant surprise. Tim Burton, purveyor of the wacko, has created, along with his amazing team, a real classic work. Seldom does a film bank on so much originality, from the incredible creation of Halloween Town, with its denizens, marvelous in their diversity and variety, to a really interesting plot. The character of Jack Skellington is a scene-stealer. Considering he pretty much a stick with a round, skeletal head, he has amazing expression and energy. He is an artist and a rebel, dissatisfied with the continuing shortsightedness of his frightening peers. When his world opens up through an accidental fall into another town, paralleling his own, he tries to bring Christmas back with him. The problem is that he really doesn't understand the concept well enough. He mixes his own social foundation with an alien one and the results are hilarious. Wonderful to look at with some of the finest animation you will ever see, each moment carefully scripted and produced.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "actor": [
+    {
+      "name": "Danny Elfman",
+      "url": "https://www.imdb.com/name/nm0000384/"
+    },
+    {
+      "name": "Chris Sarandon",
+      "url": "https://www.imdb.com/name/nm0001697/"
+    },
+    {
+      "name": "Catherine O'Hara",
+      "url": "https://www.imdb.com/name/nm0001573/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Henry Selick",
+      "url": "https://www.imdb.com/name/nm0783139/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tim Burton",
+      "url": "https://www.imdb.com/name/nm0000318/"
+    },
+    {
+      "name": "Michael McDowell",
+      "url": "https://www.imdb.com/name/nm0568313/"
+    },
+    {
+      "name": "Caroline Thompson",
+      "url": "https://www.imdb.com/name/nm0003031/"
+    }
+  ]
+}

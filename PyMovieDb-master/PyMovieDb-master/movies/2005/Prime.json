@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Prime",
+  "url": "https://www.imdb.com/tt0387514/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgxMDg4MjUyNV5BMl5BanBnXkFtZTYwMTgwNDU3._V1_.jpg",
+  "description": "A career driven professional from Manhattan is wooed by a young painter, who also happens to be the son of her psychoanalyst.",
+  "review": {
+    "author": "botner",
+    "dateCreated": "2005-10-15",
+    "inLanguage": "English",
+    "heading": "Way Better Than It Has Any Right to Be",
+    "reviewBody": "A great, great movie, especially when one considers the stinkers that usually litter the romantic comedy landscape.\n\nThis movie was smart, funny and most importantly, REAL. The cheese is held to a minimum and characters do and say things that real people say. No monologues that sound like they were cribbed from 'Chicken Soup for the Soul', just real people reacting to each other and their circumstances.\n\nMeryl Streep is great in this (and this is coming from a straight, twenty-something male) and Uma Thurman and Brian Greenberg have a real chemistry together. There are some real classic lines in this and it's a million times funnier and smarter than say, 'Monster in Law' or 'Just Like Heaven'.\n\nAs one who usually cringes my way through 9 out of 10 'chick flicks' this is the rare one out the ten that passes muster, and does so in a big way. I fear that this movie will be overshadowed by a bunch of other new releases when it comes out, but this one really deserves an audience.\n\nVery underrated. One of the better films I've seen all year.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 41988,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2006-05-12",
+  "keywords": "cat,therapist client relationship,older woman younger man relationship,mother son relationship,2000s",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Uma Thurman",
+      "url": "https://www.imdb.com/name/nm0000235/"
+    },
+    {
+      "name": "Meryl Streep",
+      "url": "https://www.imdb.com/name/nm0000658/"
+    },
+    {
+      "name": "Bryan Greenberg",
+      "url": "https://www.imdb.com/name/nm1034965/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ben Younger",
+      "url": "https://www.imdb.com/name/nm0950226/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ben Younger",
+      "url": "https://www.imdb.com/name/nm0950226/"
+    }
+  ]
+}

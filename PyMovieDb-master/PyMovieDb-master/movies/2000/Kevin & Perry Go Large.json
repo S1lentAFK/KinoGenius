@@ -1,0 +1,48 @@
+
+
+{
+  "type": "Movie",
+  "name": "Kevin James: Irregardless",
+  "url": "https://www.imdb.com/tt29964571/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjJjNTE2NzYtZjI1MS00NGY0LWIyZjgtOTE5YjNhMWQ4ZjZhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "description": "Kevin James stand-up comedy special with topics including parenting, marriage, and getting older.",
+  "review": {
+    "author": "zroc67",
+    "dateCreated": "2024-01-24",
+    "inLanguage": "English",
+    "heading": "HARKENS back to the good ol&apos; days of comedy...",
+    "reviewBody": "...when joking about beating your kids with a leather belt, or being verbally abusive to them telling them how much they suck at something...oh let&apos;s not forget about the wife who wants to talk about something, but it&apos;s just easier to ignore them.\\n\\nBlah blah blah. Kevin James is a real class act. I wonder about all those doctors he doesn&apos;t trust and thinks they know nothing will help him when he has a heart attack or a stroke or cancer...then he&apos;ll be clamouring to see one of those stupid doctors. Hopefully, they turn him away at the door and tell his fat asp to go cure himself.\\n\\nIf you like your comedy to be basic and the low-brow, Kevin James is your man.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 548,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": null,
+  "genre": [
+    "Documentary",
+    "Comedy"
+  ],
+  "datePublished": "2024-01-23",
+  "keywords": "stand up comedy special",
+  "duration": "PT1H2M",
+  "actor": [
+    {
+      "name": "Kevin James",
+      "url": "https://www.imdb.com/name/nm0416673/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kevin James",
+      "url": "https://www.imdb.com/name/nm0416673/"
+    }
+  ],
+  "creator": []
+}

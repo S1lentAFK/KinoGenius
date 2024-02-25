@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Manchester by the Sea",
+  "url": "https://www.imdb.com/tt4034228/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYxMjk0NDg4Ml5BMl5BanBnXkFtZTgwODcyNjA5OTE@._V1_.jpg",
+  "description": "A depressed uncle is asked to take care of his teenage nephew after the boy's father dies.",
+  "review": {
+    "author": "ronakkotian",
+    "dateCreated": "2020-07-12",
+    "inLanguage": "English",
+    "heading": "Utterly depressing...",
+    "reviewBody": "This film left me feeling all sorts of emotions. It's definitely one of the most depressing films I've ever seen.\n\nManchester by the Sea tells the story of a depressed man named Lee who has to take care of his brother's son after his unfortunate death.\n\nThis is not a film that you go to watch for a good time. Manchester by the Sea made me feel really sad throughout the entirety of it and it's mainly done through the amazing performances and level of authenticity writer-director Kenneth Lonergan creates. This film is very simple. It's not stylish in any way and Lonergan's script maintains the realism through the runtime. At no point did I think there were actors playing the characters because the performances and conversations they were all having seemed too real. This made Lonergan's story about guilt, pain and depression more impactful and heartbreaking.\n\nIn my opinion, this is a career best performance by Casey Affleck. It's a performance that's rather sombre instead of flashy. His facial expressions are very subtle but you can still tell how broken and unhappy of a man he is. When you first see his character, you tend to dislike him but after finding out the reason why he's so miserable, you root for him and want him to recover from his depressive state. Michelle Williams isn't in the film much but she's brilliant in all the scenes she's present in. I thought Lucas Hedges was good but there were times where I found his accent quite jarring and a scene where he cries didn't seem too realistic.\n\nIt's best going into Manchester by the Sea not knowing much as I feel it makes the film more poignant. It's may not be an easy watch but I would like people to experience it so they can see the Kenneth Lonergan's talent as well as Casey Affleck's masterful performance.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 309437,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2017-01-13",
+  "keywords": "death,death of brother,uncle nephew relationship,loss of brother,last will and testament",
+  "duration": "PT2H17M",
+  "actor": [
+    {
+      "name": "Casey Affleck",
+      "url": "https://www.imdb.com/name/nm0000729/"
+    },
+    {
+      "name": "Michelle Williams",
+      "url": "https://www.imdb.com/name/nm0931329/"
+    },
+    {
+      "name": "Kyle Chandler",
+      "url": "https://www.imdb.com/name/nm0151419/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kenneth Lonergan",
+      "url": "https://www.imdb.com/name/nm0518836/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kenneth Lonergan",
+      "url": "https://www.imdb.com/name/nm0518836/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Fifty Shades of Grey",
+  "url": "https://www.imdb.com/tt2322441/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MTM4NDAzOF5BMl5BanBnXkFtZTgwNTMwNjI0MzE@._V1_.jpg",
+  "description": "Literature student Anastasia Steele's life changes forever when she meets handsome, yet tormented, billionaire Christian Grey.",
+  "review": {
+    "author": "hayleyhillis",
+    "dateCreated": "2015-02-12",
+    "inLanguage": "English",
+    "heading": "Flippity-flop.",
+    "reviewBody": "You simply can't make a silk purse out of a sow's ear. The book was unquestionably the worst piece of writing I'd ever encountered, so what the hell were they thinking in making this rubbish? Apart from the tedium of the plod (read plot), the script is cobbled together with hollow dialogue, countless use of retch-inducing signifiers and clich\u00e9, a complete lack of chemistry between the characters and predictable scenarios and outcomes at every turn. I got the feeling throughout the film that both these actors were desperate to get off the set, go home (but certainly to separate houses), drown their shared humiliation with a stiff drink or ten, and set fire to their contracts. Woeful book. Woeful film. Don't waste your money on this drivel. There are Fifty Reasons to STAY AWAY.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 333849,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.2
+  },
+  "contentRating": "18",
+  "genre": [
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "datePublished": "2015-02-13",
+  "keywords": "female nudity,sex scene,perversion,spanking,erotica",
+  "duration": "PT2H5M",
+  "actor": [
+    {
+      "name": "Dakota Johnson",
+      "url": "https://www.imdb.com/name/nm0424848/"
+    },
+    {
+      "name": "Jamie Dornan",
+      "url": "https://www.imdb.com/name/nm1946193/"
+    },
+    {
+      "name": "Jennifer Ehle",
+      "url": "https://www.imdb.com/name/nm0000383/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sam Taylor-Johnson",
+      "url": "https://www.imdb.com/name/nm0853374/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kelly Marcel",
+      "url": "https://www.imdb.com/name/nm0545150/"
+    },
+    {
+      "name": "E.L. James",
+      "url": "https://www.imdb.com/name/nm1093317/"
+    }
+  ]
+}

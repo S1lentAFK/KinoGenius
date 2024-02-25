@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Traitor",
+  "url": "https://www.imdb.com/tt0988047/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg3MzI3NDY5Nl5BMl5BanBnXkFtZTcwMzI0NDY3MQ@@._V1_.jpg",
+  "description": "When straight arrow FBI agent Roy Clayton heads up the investigation into a dangerous international conspiracy, all clues seem to lead back to former U.S. Special Operations officer, Samir Horn.",
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2009-03-27",
+  "keywords": "thanksgiving,aerial camera shot,fbi federal bureau of investigation,reference to muhammad,marseille france",
+  "duration": "PT1H54M",
+  "actor": [
+    {
+      "name": "Don Cheadle",
+      "url": "https://www.imdb.com/name/nm0000332/"
+    },
+    {
+      "name": "Guy Pearce",
+      "url": "https://www.imdb.com/name/nm0001602/"
+    },
+    {
+      "name": "Archie Panjabi",
+      "url": "https://www.imdb.com/name/nm0659544/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeffrey Nachmanoff",
+      "url": "https://www.imdb.com/name/nm0618680/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jeffrey Nachmanoff",
+      "url": "https://www.imdb.com/name/nm0618680/"
+    },
+    {
+      "name": "Steve Martin",
+      "url": "https://www.imdb.com/name/nm0000188/"
+    }
+  ],
+  "review": {
+    "author": "Chrysanthepop",
+    "dateCreated": "2009-06-06",
+    "inLanguage": "English",
+    "heading": "Who is the traitor?",
+    "reviewBody": "I am surprised that someone like Steve Martin, known primarily for his comedic talents, came up with a story that is an intense thriller about terrorism. Clearly the man shows that he can do more than comedy and hats off to Martin. Storywise, this movie reminded me of 'The Departed' but, in my opinion, 'Traitor' is a stronger film. The writing is good. I just have a few quibbles regarding the terrorists' lack of caution and suspicion regarding Samir, whom they barely know. It is a well made film even though it moves a little slow at times. Don Cheadle does a solid job with a subtle, intense and studied performance. Clearly he has done his research and is very believable as a devoted Muslim. Sa\u00efd Taghmaoui too does a great job but he seems to be getting typecast. I would like to see him in different roles. Guy Pearce's Roy could have been formulaic but we see a knowledgeable man who is determined to get to the bottom of the problem but is patient enough to think it through and find out the truth rather than ordering the arrest of every random Muslim. Pearce adds a depth to Roy that makes the human stand out. Archie Panjabi makes the best of an underdeveloped Chandra. Overall, 'Traitor' is quite a clever film (for the most parts) and the twist in the end is quite well thought out. It is one of the lesser biased movies made on this subject and provides more than what I would expect from an action entertainer.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 58979,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  }
+}

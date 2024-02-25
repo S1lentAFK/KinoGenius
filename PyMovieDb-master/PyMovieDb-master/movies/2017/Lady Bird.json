@@ -1,0 +1,59 @@
+{
+  "type": "Movie",
+  "name": "Lady Bird",
+  "url": "https://www.imdb.com/tt4925292/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODhkZGE0NDQtZDc0Zi00YmQ4LWJiNmUtYTY1OGM1ODRmNGVkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "description": "In 2002, an artistically inclined 17-year-old girl comes of age in Sacramento, California.",
+  "review": {
+    "author": "Sebastien02",
+    "dateCreated": "2018-05-18",
+    "inLanguage": "English",
+    "heading": "Refreshing",
+    "reviewBody": "This coming of age movie is finely written and directed by Greta Gerwig. She loosely bases the story on her own experiences growing up in Sacramento. The main character, Christine, is 17 years old and calls herself « Lady Bird ». I like her free spirit. Saoirse Ronan fully embodies the role, bringing her energy and her sense of humor. She gives a great performance, as does Laurie Metcalf. Both actresses perfectly capture the complex relationship between a mother and her daughter. The rest of the cast is also good, especially Lucas Hedges and Timothée Chalamet who play the boyfriends. The scenes with them are indeed funny and colorful. This bittersweet comedy deserves to be seen. It&apos;s a refreshing portrayal of teenage life.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 323644,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "R",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2017-12-01",
+  "keywords": "teenage girl,coming of age,mother daughter relationship,sacramento california,loss of virginity",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Saoirse Ronan",
+      "url": "https://www.imdb.com/name/nm1519680/"
+    },
+    {
+      "name": "Laurie Metcalf",
+      "url": "https://www.imdb.com/name/nm0582418/"
+    },
+    {
+      "name": "Tracy Letts",
+      "url": "https://www.imdb.com/name/nm0504832/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Greta Gerwig",
+      "url": "https://www.imdb.com/name/nm1950086/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Greta Gerwig",
+      "url": "https://www.imdb.com/name/nm1950086/"
+    }
+  ]
+}

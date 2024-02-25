@@ -1,0 +1,80 @@
+
+
+{
+  "type": "Movie",
+  "name": "Finding Nemo",
+  "url": "https://www.imdb.com/tt0266543/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmYxZjg3OWEtNzg5Yi00M2YzLWI1YzYtYTQ0NTgwNzhjN2E1XkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg",
+  "description": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2003-10-10",
+  "keywords": "pufferfish,nemo the clownfish character,blood,shark,short term memory loss",
+  "duration": "PT1H40M",
+  "rating": {
+    "ratingCount": 1104154,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.2
+  },
+  "review": {
+    "author": "Coventry",
+    "dateCreated": "2003-12-10",
+    "inLanguage": "English",
+    "heading": "Yes, it's THAT good !!",
+    "reviewBody": "I'll be totally honest and confirm to you that everything what they say about this movie is true. It's a brilliantly animated masterpiece with lots of humor that actually works and a plot that really brings tears to your eyes from time to time. The modern artists of Pixar never cease to amaze the audience in expanding their horizons. Finding Nemo is visually stunning and you can have nothing but respect for the people who created it.\\n\\n I was more or less skeptic about watching it, because it was so overhyped ! Two days before it got released in my country, the TV and press loudly announced that the DVD broke all records in the USA during its first release-day. That's usually a sign of being typically mainstream and fake...but Finding Nemo is not. I'm allergic to fake sentiment and pathetic feel-good movies but I was really touched by this one. The moral and valuable life lessons are always present, but they're not shoved down your throat or thrown in your face all the time. This movie really relativates itself and that's important for a good comedy. And it's hilarious !!! Every side character in Finding Nemo (and there are a LOT of them) is exceptional and worth a mention. And the voices are cast perfectly as well...like the voice of Willem Dafoe for Gill, for example...a perfect choice. The character of Dory ( speaks through the voice of Ellen DeGeneres ) steals the show. She's an adorable blue fish who suffers from amnesia. She forgets what she's doing or going to every five minutes and that really leads to hilarious situations. \\n\\nMovies like this aren't just being made for children exclusive... They're good for everyone to realize you have to entertain yourself from time to time and just to enjoy the little things in life. I recommend this to everyone in the world. No matter if you're 9 or 99 years old, Finding Nemo will bring a smile on your face and leave behind a warm feeling in your heart.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 1104154,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.2
+  },
+  "actor": [
+    {
+      "name": "Albert Brooks",
+      "url": "https://www.imdb.com/name/nm0000983/"
+    },
+    {
+      "name": "Ellen DeGeneres",
+      "url": "https://www.imdb.com/name/nm0001122/"
+    },
+    {
+      "name": "Alexander Gould",
+      "url": "https://www.imdb.com/name/nm1071252/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Andrew Stanton",
+      "url": "https://www.imdb.com/name/nm0004056/"
+    },
+    {
+      "name": "Lee Unkrich",
+      "url": "https://www.imdb.com/name/nm0881279/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Andrew Stanton",
+      "url": "https://www.imdb.com/name/nm0004056/"
+    },
+    {
+      "name": "Bob Peterson",
+      "url": "https://www.imdb.com/name/nm0677037/"
+    },
+    {
+      "name": "David Reynolds",
+      "url": "https://www.imdb.com/name/nm0721675/"
+    }
+  ]
+}

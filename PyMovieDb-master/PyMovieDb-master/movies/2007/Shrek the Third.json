@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Shrek the Third",
+  "url": "https://www.imdb.com/tt0413267/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTgyMjc3ODk2MV5BMl5BanBnXkFtZTcwMjY0MjEzMw@@._V1_.jpg",
+  "description": "Reluctantly designated as the heir to the land of Far, Far Away, Shrek hatches a plan to install the rebellious Artie as the new king while Princess Fiona tries to fend off a coup d'\\u00e9tat by the jilted Prince Charming.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2007-06-29",
+  "keywords": "donkey character,dreamworks animation,king,puss in boots,donkey",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Mike Myers",
+      "url": "https://www.imdb.com/name/nm0000196/"
+    },
+    {
+      "name": "Cameron Diaz",
+      "url": "https://www.imdb.com/name/nm0000139/"
+    },
+    {
+      "name": "Eddie Murphy",
+      "url": "https://www.imdb.com/name/nm0000552/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Chris Miller",
+      "url": "https://www.imdb.com/name/nm1844237/"
+    },
+    {
+      "name": "Raman Hui",
+      "url": "https://www.imdb.com/name/nm0401203/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William Steig",
+      "url": "https://www.imdb.com/name/nm0825308/"
+    },
+    {
+      "name": "Andrew Adamson",
+      "url": "https://www.imdb.com/name/nm0011470/"
+    },
+    {
+      "name": "Jeffrey Price",
+      "url": "https://www.imdb.com/name/nm0696949/"
+    }
+  ],
+  "review": {
+    "author": "moviewizguy",
+    "dateCreated": "2007-05-25",
+    "inLanguage": "English",
+    "heading": "It's Just Decent",
+    "reviewBody": "When his new father-in-law, King Harold falls ill, Shrek is looked at as the heir to the land of Far Far Away. Not one to give up his beloved swamp, Shrek recruits his friends Donkey and Puss in Boots to install the rebellious Artie as the new king. Princess Fiona, however, rallies a band of royal girlfriends to fend off a coup d'etat by the jilted Prince Charming.\\n\\nI have to admit, I really wasn't as hyped to see this film than Shrek 2. The trailer was okay, the plot sounds less interesting, and many critics didn't like this film. Yeah, this film is full of energetic characters and some visually dazzling scenes, but it's not as funny, entertaining, or as great as the last two films.\\n\\nIf you've seen the trailer, that's probably all the good jokes that they got in the film. I expected to laugh as much as I did at Shrek 2, since this film is more for the adults than the kids to enjoy. It's a sad fact that more of the jokes comes from secondary characters than the main ones. The action scenes were good, not great, but the story just doesn't interest me.\\n\\nAnd the Shrek and Fiona spark isn't as much there as it were in the previous two films. Now here's the good: I liked the secondary characters. They are all funny. This is the most visual Shrek film, having colorful scenes pop out.\\n\\nThis film seems to rely more on the slapstick humor to cover up the weak plot, seemed to not be filled with originality. I didn't mind that. There are some pretty good jokes and some good action scenes. Don't watch this film expecting a great film like the first two, although I wanted this to be a worthy sequel.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 329678,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  }
+}

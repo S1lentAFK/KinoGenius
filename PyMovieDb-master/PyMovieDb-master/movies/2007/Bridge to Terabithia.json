@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Bridge to Terabithia",
+  "url": "https://www.imdb.com/tt0398808/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMzOTk1MzIyN15BMl5BanBnXkFtZTcwNTM3MjczMQ@@._V1_.jpg",
+  "description": "A preteen's life turns upside down when he befriends the new girl in school and they imagine a whole new fantasy world to escape reality.",
+  "contentRating": "PG",
+  "genre": [
+    "Drama",
+    "Family",
+    "Fantasy"
+  ],
+  "datePublished": "2007-05-04",
+  "keywords": "tragedy, supernatural power, imagination, friend, race",
+  "duration": "PT1H36M",
+  "rating": {
+    "ratingCount": 171547,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "review": {
+    "author": "landonfreeman",
+    "dateCreated": "2007-07-04",
+    "inLanguage": "English",
+    "heading": "Not a children's story????",
+    "reviewBody": "I have read about 30 reviews on here about this movie, many of them saying this film is not for kids. While I do understand where some parents may be coming from, I have to disagree. I personally read this book when I was in 5th grade. That was 11 years ago, yet somehow that book still sticks in my mind. I honestly had completely forgotten what the book was about, but I remember it being about two kids. Therefore, seeing the movie was like experiencing the story all over again. I DO think this is a good movie for children 10+. Like I already mentioned I was 11 when I read the book for the first time and I remember it having quite a positive impact on me. I didn't remember the novel or what it was about, however I did remember that it touched me in a way that very few books ever did. Kids 10+ need to see this movie.\n\nDeath is not something to fear. It is just a passing from one stage in life to the next.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "actor": [
+    {
+      "name": "Josh Hutcherson",
+      "url": "https://www.imdb.com/name/nm1242688/"
+    },
+    {
+      "name": "AnnaSophia Robb",
+      "url": "https://www.imdb.com/name/nm1455681/"
+    },
+    {
+      "name": "Zooey Deschanel",
+      "url": "https://www.imdb.com/name/nm0221046/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Gabor Csupo",
+      "url": "https://www.imdb.com/name/nm0190780/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jeff Stockwell",
+      "url": "https://www.imdb.com/name/nm0830969/"
+    },
+    {
+      "name": "David Paterson",
+      "url": "https://www.imdb.com/name/nm1547579/"
+    },
+    {
+      "name": "Katherine Paterson",
+      "url": "https://www.imdb.com/name/nm0665505/"
+    }
+  ]
+}

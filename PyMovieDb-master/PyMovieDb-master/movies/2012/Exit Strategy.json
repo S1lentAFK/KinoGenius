@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Exit Strategy",
+  "url": "https://www.imdb.com/tt7307318/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NTQxNmItN2Y3OC00MzExLWI3MTUtMmY1ODUyOGJiMDA0XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+  "description": "A man in a time loop must work with his brother to prevent a catastrophic fire.",
+  "review": {
+    "author": "kemerton-16051",
+    "dateCreated": "2018-12-04",
+    "inLanguage": "English",
+    "heading": "An engrossing sci-fi short",
+    "reviewBody": "Exit Strategy is a wholly original take on time travel, taking a traditional science fiction trope and embedding it with equal parts humor and heart. Very well done.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 654,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": null,
+  "genre": [
+    "Short",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "datePublished": "2019-04-18",
+  "keywords": "note pad,maze,apple juice,time loop,dead car battery",
+  "duration": "PT15M",
+  "actor": [
+    {
+      "name": "Chris O'Shea",
+      "url": "https://www.imdb.com/name/nm6716392/"
+    },
+    {
+      "name": "Richard Kohnke",
+      "url": "https://www.imdb.com/name/nm4191164/"
+    },
+    {
+      "name": "Darnell Trotter",
+      "url": "https://www.imdb.com/name/nm5002035/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Travis Bible",
+      "url": "https://www.imdb.com/name/nm3256879/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Travis Bible",
+      "url": "https://www.imdb.com/name/nm3256879/"
+    }
+  ]
+}

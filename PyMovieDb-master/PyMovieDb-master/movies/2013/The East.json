@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Sweet East",
+  "url": "https://www.imdb.com/tt27546190/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDQ4ZWY2MTgtOWI2Zi00YjMwLWE0YjYtYmM2NjIwYjk3MzdkXkEyXkFqcGdeQXVyMTM3MzcwMjY3._V1_.jpg",
+  "description": "A picaresque journey through the cities and woods of the Eastern seaboard of the U.S undertaken by Lillian, a high school senior from South Carolina. She gets her first glimpse of the wider world on a class trip to Washington, D.C.",
+  "review": {
+    "author": "vthsfggyd",
+    "dateCreated": "2023-09-11",
+    "inLanguage": "English",
+    "heading": "One of a kind - 10/10!",
+    "reviewBody": "The whole movie feels like a magical fever dream, but in a positive way. There is so much happening during the whole movie that you probably need to watch it a few times in order to identify all the metaphors that were used to create this gem. Alice in Wonderland meets American Girl from the 90s meets kafkaesk Sarcasm and Randomness. I loved it, for me it's a one of a kind movie. Talia Ryder is the absolut perfect choice for Lillian, I don't think anyone else could have pulled off that role as much as she did.\\n\\nIf you are open to something special - give it a try :) You get to know a lot of interesting characters and aspects about what they stand for. 10/10 for me!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 607,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  },
+  "contentRating": "18",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2024-01-26",
+  "keywords": "journey,school,world,part animated",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Talia Ryder",
+      "url": "https://www.imdb.com/name/nm7867621/"
+    },
+    {
+      "name": "Earl Cave",
+      "url": "https://www.imdb.com/name/nm5994881/"
+    },
+    {
+      "name": "Simon Rex",
+      "url": "https://www.imdb.com/name/nm0005350/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sean Price Williams",
+      "url": "https://www.imdb.com/name/nm0998342/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nick Pinkerton",
+      "url": "https://www.imdb.com/name/nm8592711/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Last King of Scotland",
+  "url": "https://www.imdb.com/tt0455590/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzZkNjNhN2QtMThmNC00YjE0LTg0ZmMtMmU5MWE4Y2NjN2RiXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "ferguson-6",
+    "dateCreated": "2006-11-01",
+    "inLanguage": "English",
+    "heading": "You&apos;re My Closest Adviser",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 195091,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "datePublished": "2007-01-12",
+  "keywords": "female frontal nudity,brief male frontal nudity,male full frontal nudity,1970s,ugandan",
+  "duration": "PT2H3M",
+  "actor": [
+    {
+      "name": "James McAvoy",
+      "url": "https://www.imdb.com/name/nm0564215/"
+    },
+    {
+      "name": "Forest Whitaker",
+      "url": "https://www.imdb.com/name/nm0001845/"
+    },
+    {
+      "name": "Gillian Anderson",
+      "url": "https://www.imdb.com/name/nm0000096/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kevin Macdonald",
+      "url": "https://www.imdb.com/name/nm0531817/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Peter Morgan",
+      "url": "https://www.imdb.com/name/nm0604948/"
+    },
+    {
+      "name": "Jeremy Brock",
+      "url": "https://www.imdb.com/name/nm0110591/"
+    },
+    {
+      "name": "Giles Foden",
+      "url": "https://www.imdb.com/name/nm1894768/"
+    }
+  ]
+}

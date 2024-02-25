@@ -1,0 +1,49 @@
+{
+  "type": "Movie",
+  "name": "Flatliners: The Ultimate Question",
+  "url": "https://www.imdb.com/tt7709638/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGE0YTBkYTItMjhiZC00NzVjLTgxYzAtZmMxNTc1YTg2MmU0XkEyXkFqcGdeQXVyMzU3MTEwNw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 37,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": null,
+  "genre": [
+    "Short",
+    "Sci-Fi"
+  ],
+  "datePublished": "2017-09-26",
+  "keywords": null,
+  "duration": null,
+  "actor": [
+    {
+      "name": "James Norton",
+      "url": "https://www.imdb.com/name/nm3584268/"
+    },
+    {
+      "name": "Elliot Page",
+      "url": "https://www.imdb.com/name/nm0680983/"
+    },
+    {
+      "name": "Kiefer Sutherland",
+      "url": "https://www.imdb.com/name/nm0000662/"
+    }
+  ],
+  "director": [],
+  "creator": []
+}

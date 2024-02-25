@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Stepford Wives",
+  "url": "https://www.imdb.com/tt0327162/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzNTM4ODM1OF5BMl5BanBnXkFtZTcwNjg4NzAzMw@@._V1_.jpg",
+  "description": "The secret to a Stepford wife lies behind the doors of the Men&apos;s Association.",
+  "review": {
+    "author": "mstomaso",
+    "dateCreated": "2005-11-16",
+    "inLanguage": "English",
+    "heading": "Too lightweight for its subject matter",
+    "reviewBody": "The original film, and the great novel that preceded it are worthy of a better treatment than this lighthearted, anti-suspenseful, Hollywood variety show. What&apos;s more, the excellent veteran cast, the catchy soundtrack and the expensive production values could have made this into the socially serious, poignant and yet funny contemporary masterwork it should have been. Instead, we are left with a film whose campiest moments are clichés and whose point seems to be love conquers all - even the sexism, genderism and masculocentrism still rampant in American Society today! I never expect comedies to do a particularly good job with continuity and logic, but some of the continuity problems in this film are really pretty amazing. Plot twists are, after all, supposed to change the COURSE of the plot, not its basic premises. I&apos;m dying to tell you about it, but I won&apos;t write a spoiler.\n\nHere are the basics: Nicole Kidman and Matthew Broderick are a successful couple whose marriage has been suffering a bit because of the stress of their work-lives. Nicole, a TV executive famous for post-feminist male-bashing shows gets fired for no particular reason and they couple decides to move away to Stepford, an exclusive community populated by people who seem to have no particular troubles of any kind, or even jobs for that matter. Some of the first things Matthew Broderick realizes about Stepford is that all of the women are beautiful, and everybody is marvelously happy with a few possible exceptions - his own wife, Bette Midler and a gay liberal whose partner has been sucked into republicanism. Predictably, these three conspire to resist the happiness all around them and investigate the mystery of the Stepford men&apos;s club.\n\nI&apos;ve described the first quarter of the film. Although the central plot is interesting and strong, the lack of even a shred of seriousness detracts very heavily from it - even from a comedic point of view. If this film hadn&apos;t made me disinterested, the feminist in me would have simply been angry over the missed opportunity this film represents. Moreover, it is possible to see this film as a justification of the &apos;blame the victim&apos; mentality so often prevalent in contemporary culture.\n\nMost of the cast seems equally unengaged. They sometimes seem to be playing roles in different films - interacting with each other poorly and playing their roles with no particular goal in mind. I can only fault the director here. Broderick and Kidman are, as usual, very watchable, but even Nicole seems to be unsure what her character is supposed to be portraying at times. Bette Midler is fine, as are Walken and Glenn Close. Close was actually, IMO, the show stealer - making the film tolerable with her excruciatingly irritating and very dominant presence.\n\nWhile not a complete travesty, I can not recommend The Stepford Wives.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 69444,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "datePublished": "2004-07-30",
+  "keywords": "suburb,battle of the sexes,husband wife relationship,housewife,small town",
+  "duration": "PT1H33M",
+  "actor": [
+    {
+      "name": "Nicole Kidman",
+      "url": "https://www.imdb.com/name/nm0000173/"
+    },
+    {
+      "name": "Bette Midler",
+      "url": "https://www.imdb.com/name/nm0000541/"
+    },
+    {
+      "name": "Matthew Broderick",
+      "url": "https://www.imdb.com/name/nm0000111/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Frank Oz",
+      "url": "https://www.imdb.com/name/nm0000568/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ira Levin",
+      "url": "https://www.imdb.com/name/nm0505615/"
+    },
+    {
+      "name": "Paul Rudnick",
+      "url": "https://www.imdb.com/name/nm0397411/"
+    }
+  ]
+}

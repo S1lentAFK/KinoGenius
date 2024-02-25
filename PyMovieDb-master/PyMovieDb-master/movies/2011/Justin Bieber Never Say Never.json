@@ -1,0 +1,56 @@
+
+
+{
+  "type": "Movie",
+  "name": "Justin Bieber: Never Say Never",
+  "url": "https://www.imdb.com/tt1702443/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY0NDQzMjIzOF5BMl5BanBnXkFtZTcwNDk2NzczNA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "TheLittleSongbird",
+    "dateCreated": "2011-02-17",
+    "inLanguage": "English",
+    "heading": "Pointless and not an enjoyable experience",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 76433,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 1.7
+  },
+  "contentRating": "U",
+  "genre": [
+    "Documentary",
+    "Music"
+  ],
+  "datePublished": "2011-02-18",
+  "keywords": "year 2010,2010s,documentary produced by subject,manager,star",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Justin Bieber",
+      "url": "https://www.imdb.com/name/nm3595501/"
+    },
+    {
+      "name": "Boyz II Men",
+      "url": "https://www.imdb.com/name/nm1349841/"
+    },
+    {
+      "name": "Miley Cyrus",
+      "url": "https://www.imdb.com/name/nm1415323/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jon M. Chu",
+      "url": "https://www.imdb.com/name/nm0160840/"
+    }
+  ],
+  "creator": []
+}

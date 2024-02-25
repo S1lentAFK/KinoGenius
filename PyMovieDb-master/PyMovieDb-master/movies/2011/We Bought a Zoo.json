@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "We Bought a Zoo",
+  "url": "https://www.imdb.com/tt1389137/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0MTE3OTUwMl5BMl5BanBnXkFtZTcwODg5NjgwNw@@._V1_.jpg",
+  "description": "Set in Southern California, a father moves his young family to the countryside to renovate and re-open a struggling zoo.",
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2012-03-16",
+  "keywords": "based on true story,2010s,zoo,inspection,family relationships",
+  "duration": "PT2H4M",
+  "actor": [
+    {
+      "name": "Matt Damon",
+      "url": "https://www.imdb.com/name/nm0000354/"
+    },
+    {
+      "name": "Scarlett Johansson",
+      "url": "https://www.imdb.com/name/nm0424060/"
+    },
+    {
+      "name": "Thomas Haden Church",
+      "url": "https://www.imdb.com/name/nm0002006/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Cameron Crowe",
+      "url": "https://www.imdb.com/name/nm0001081/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Aline Brosh McKenna",
+      "url": "https://www.imdb.com/name/nm0112459/"
+    },
+    {
+      "name": "Cameron Crowe",
+      "url": "https://www.imdb.com/name/nm0001081/"
+    },
+    {
+      "name": "Benjamin Mee",
+      "url": "https://www.imdb.com/name/nm3349167/"
+    }
+  ],
+  "review": {
+    "author": "wbhendrix-1",
+    "dateCreated": "2011-11-27",
+    "inLanguage": "English",
+    "heading": "Beautiful & Touching, Crowe does it again.",
+    "reviewBody": "Cameron Crowe never fails to deliver hart warming drama-comedies that make you laugh, cry and keep you on the edge of your seat for duration of his films. For me personally, I never seem to agree with Crowe&apos;s casting taste (Matt Damon and Scarlett Johansson never do much for me) but Cameron has a way with actors and a true vision for his story. He always seems to know exactly who can capture his characters and ultimately draw out your emotions that he&apos;s tugging at. \\n\\nIn We Bought a Zoo, there is a bit of a slow start and at one point I was worried Cameron had lowered his voice to appeal to a larger audience to please producers and critics alike (after his Critically-bombed but personal all time fav, Elizabethtown). \\n\\nBut let me tell you, pay your dues with the first half of this film because the second half will take you on a mesmerizing cinematic adventure you&apos;ll be heartbroken for more. Cameron ventures into a new family drama without compromising his voice, music taste or quality film making. And if you are still not a huge CC fan, the animals are sure to win you over. Their beautiful and natural moments on screen are as breath taking as they are tear-jerking.\\n\\nSpend an amazing two hours with this film and there won&apos;t be a person in your household that won&apos;t agree that this film is one to remember. From a fan and living-room-critic, I give it two thumbs up :)",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 150872,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7
+  }
+}

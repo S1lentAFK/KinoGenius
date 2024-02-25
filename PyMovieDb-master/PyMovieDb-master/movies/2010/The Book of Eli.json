@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Book of Eli",
+  "url": "https://www.imdb.com/tt1037705/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTE1OWI1YzgtZjEyMy00MjQ4LWE0NWMtYTNhYjc0ZDQ3ZGRkXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_.jpg",
+  "description": "A drifter fights his way across a ravaged, post-apocalyptic America while protecting a sacred book that holds the secrets to humanity&apos;s salvation.",
+  "review": {
+    "author": "MrPink08",
+    "dateCreated": "2010-02-09",
+    "inLanguage": "English",
+    "heading": "DELIvers us from a dreary winter",
+    "reviewBody": "Few things are hotter this winter than Mila Kunis walking around a post-apocalyptic town in a pair of Aviators. That and a quiet Denzel Washington wielding a sword sets up The Book of Eli, yet another post-apocalyptic thriller set in the future (or lack thereof). The post-apocalypse film may be getting old after films like Children of Men, The Road, I Am Legend, etc., but The Book of Eli manages to keep itself away from the cliché apocalypse film.\n\nDenzel portrays the title character of Eli, a mysterious man who walks around around a destroyed world carrying a book he believes can save humanity. He wanders into a makeshift town where a sadistic villain (Gary Oldman) desperately wants the book. Enter some hacked limbs, explosions, and cannibals, and you got yourself an interesting film.\n\nThis is a different role for Denzel. Usually, he&apos;s just the calm talker who tries to make sure the bad guys don&apos;t do anything crazy (think Inside Man and last summer&apos;s remake of The Taking of Pelham 123). However, not only does Denzel do a lot of talking, but he&apos;s cutting off people&apos;s arms and shooting up the place like he&apos;s Jason Statham. One memorable scene involves Eli killing Oldman&apos;s men-who are armed with sniper rifles AB machine guns-with a simple handgun.\n\nIt&apos;s also very refreshing to see Gary Oldman return to the role of a villain. Younger audiences now see Oldman as a good guy after portraying famous literary protagonists such as Sirius Black in the Harry Potter films and Jim Gordon in the recent Batman series. While there&apos;s nothing at all wrong with that, I was starting to miss Oldman&apos;s villain days, including classic turns as a drug addicted cop in Leon The Professional and a Russian terrorist in Air Force One. Oldman shows his versatility in Eli, where he makes his character a complete psycho.\n\nWhen I first saw that Kunis was cast in this film, I was a little worried. Sure, everybody loves Mila, but could the star of comedies like That 70&apos;s Show and Forgetting Sarah Marshall make the transition in a serious film? Kunis plays her role well, but she should stick with the comedies until she&apos;s given a character with more to do.\n\nThe Book of Eli isn&apos;t perfect with its choppy action sequences or pacing issues, but its a fun film nonetheless. It&apos;s films like these that keep the post-apocalyptic genre alive and well.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 337115,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "datePublished": "2010-01-15",
+  "keywords": "post apocalypse,cannibal,cannibalism,religion,bible",
+  "duration": "PT1H58M",
+  "actor": [
+    {
+      "name": "Denzel Washington",
+      "url": "https://www.imdb.com/name/nm0000243/"
+    },
+    {
+      "name": "Mila Kunis",
+      "url": "https://www.imdb.com/name/nm0005109/"
+    },
+    {
+      "name": "Ray Stevenson",
+      "url": "https://www.imdb.com/name/nm0829032/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Albert Hughes",
+      "url": "https://www.imdb.com/name/nm0400436/"
+    },
+    {
+      "name": "Allen Hughes",
+      "url": "https://www.imdb.com/name/nm0400441/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Gary Whitta",
+      "url": "https://www.imdb.com/name/nm1729428/"
+    }
+  ]
+}

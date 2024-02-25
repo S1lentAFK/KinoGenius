@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "John Tucker Must Die",
+  "url": "https://www.imdb.com/tt0455967/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGIxZTkzMjItZDhiNy00NzA0LTg1MzMtYzFlMTc1ODQzODIzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "cal112hmb",
+    "dateCreated": "2006-07-29",
+    "inLanguage": "English",
+    "heading": "Decent movie...just don&apos;t expect too much",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 87649,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2006-08-18",
+  "keywords": "high school,cheerleader,single mother,female female kiss,beach party",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Jesse Metcalfe",
+      "url": "https://www.imdb.com/name/nm0582462/"
+    },
+    {
+      "name": "Ashanti",
+      "url": "https://www.imdb.com/name/nm0038680/"
+    },
+    {
+      "name": "Arielle Kebbel",
+      "url": "https://www.imdb.com/name/nm0444223/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Betty Thomas",
+      "url": "https://www.imdb.com/name/nm0858525/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jeff Lowell",
+      "url": "https://www.imdb.com/name/nm0523094/"
+    }
+  ]
+}

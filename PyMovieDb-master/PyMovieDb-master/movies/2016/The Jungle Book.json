@@ -1,0 +1,64 @@
+{
+  "type": "Movie",
+  "name": "The Jungle Book",
+  "url": "https://www.imdb.com/tt3040964/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc3NTUzNTI4MV5BMl5BanBnXkFtZTgwNjU0NjU5NzE@._V1_.jpg",
+  "description": "After a threat from the tiger Shere Khan forces him to flee the jungle, a man-cub named Mowgli embarks on a journey of self discovery with the help of panther Bagheera and free-spirited bear Baloo.",
+  "review": {
+    "author": "quincytheodore",
+    "dateCreated": "2016-04-08",
+    "inLanguage": "English",
+    "heading": "A journey to find oneself as the heart of the tale is ageless, and the surreal visual as well as vibrant music make this Jungle Book a completely riveting experience. .",
+    "reviewBody": "Nostalgia is a powerful thing, the original Jungle Books has been adored by many, be it the animation or movie interpretations. The new rendition takes the expectation and rises beyond with emotionally engaging and larger-than-life characters, which is no small feat considering it relies on sole child actor Neel Sethi while the rest of the veteran cast lend their voices for the animal kingdom.\n\nStory follows Mowgli (Neel Sethi) on his two feet as he ventures around the thick jungle. He meets with near mythical allies and foes alike, while learning and accepting his unique nature. A lot rest on his small shoulders, and as Mowgli he performs remarkably well. He presents an innocent vibe even though the harsh jungle is demanding and sometimes merciless.\n\nVisual is utterly impressive, these beasts look and move very naturally. There has been talking animals before, but the sway of their furs, the slight gestures different to each species and how the environment reacts to their motions are nothing less than exceptional. These subtle details give lives to characters from two dimensional then make them dreamlike lively.\n\nThe famous voices another layer of their personalities, from the protective Ben Kingsley as Bagheera, merry Bill Murray as Baloo to Idris Elba as fierce Shere Khan. Its sound effects and songs are symphony of the wild, it hits just the right tune with nostalgic effect and engaging soundtracks.\n\nThe new tale of one child and his fauna companions is brilliantly told by exhilarating graphic and harmonic concerto.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 290536,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2016-04-15",
+  "keywords": "jungle,human animal relationship,tiger,wolf,black panther",
+  "duration": "PT1H46M",
+  "actor": [
+    {
+      "name": "Neel Sethi",
+      "url": "https://www.imdb.com/name/nm5888481/"
+    },
+    {
+      "name": "Bill Murray",
+      "url": "https://www.imdb.com/name/nm0000195/"
+    },
+    {
+      "name": "Ben Kingsley",
+      "url": "https://www.imdb.com/name/nm0001426/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jon Favreau",
+      "url": "https://www.imdb.com/name/nm0269463/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Justin Marks",
+      "url": "https://www.imdb.com/name/nm1098479/"
+    },
+    {
+      "name": "Rudyard Kipling",
+      "url": "https://www.imdb.com/name/nm0456017/"
+    }
+  ]
+}

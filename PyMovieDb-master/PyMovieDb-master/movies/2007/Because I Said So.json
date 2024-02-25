@@ -1,0 +1,71 @@
+
+
+{
+  "type": "Movie",
+  "name": "Because I Said So",
+  "url": "https://www.imdb.com/tt0490084/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAyNjU4NTMzNl5BMl5BanBnXkFtZTcwNzk3NzI0MQ@@._V1_.jpg",
+  "description": "A meddling mother tries to set her daughter up with the right man so her kid won't follow in her footsteps.",
+  "review": {
+    "author": "mayagowaily",
+    "dateCreated": "2007-11-23",
+    "inLanguage": "English",
+    "heading": "Horror not Comedy!",
+    "reviewBody": "Waw! I have not seen such a bad film in a really long time...more like never actually. this is truly appalling. Lets start with the Small tragedy, the actors. Dian Keaton, normally an amazing actress somehow managed to do a really bad job with this one. Her acting was way over the top and more like hysterical really. It was like she was lending her voice to an animated film! Mandy Moore was actually better than her if u can believe it. But still quite bad. And as for the rest of the cast well there were none! we can say they were put there so that Dian Keaton and Mandy Moore can create dialog with someone other than themselves.\\n\\nNow for the major tragedy, the script. A horror story put together to make the audience quiver with every uttered line! and the lines just keep getting worse and worse until we reach the climactic scene where we cave in and can no longer hold the vomit! Horrible predictable and very illogical plot. Corny is an understatement for the lines of this dialog. No depth or substance to characters. It's such a disappointment.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 40020,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2007-02-16",
+  "keywords": [
+    "home movie",
+    "outdoor wedding reception",
+    "wedding cake",
+    "massage",
+    "playing electric guitar"
+  ],
+  "duration": "PT1H42M",
+  "actor": [
+    {
+      "name": "Diane Keaton",
+      "url": "https://www.imdb.com/name/nm0000473/"
+    },
+    {
+      "name": "Mandy Moore",
+      "url": "https://www.imdb.com/name/nm0601553/"
+    },
+    {
+      "name": "Gabriel Macht",
+      "url": "https://www.imdb.com/name/nm0532683/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Lehmann",
+      "url": "https://www.imdb.com/name/nm0499724/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Karen Leigh Hopkins",
+      "url": "https://www.imdb.com/name/nm0394212/"
+    },
+    {
+      "name": "Jessie Nelson",
+      "url": "https://www.imdb.com/name/nm0625458/"
+    }
+  ]
+}

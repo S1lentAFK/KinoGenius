@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "Brother Bear",
+  "url": "https://www.imdb.com/tt0328880/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIyNTAyNDYxNF5BMl5BanBnXkFtZTYwNjYwMjg2._V1_.jpg",
+  "description": "When a young Inuit hunter needlessly kills a bear, he is magically changed into a bear himself as punishment with a talkative cub being his only guide to changing back.",
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2003-12-05",
+  "keywords": "bear,revenge,inuit,brotherhood,turned into an animal",
+  "duration": "PT1H25M",
+  "actor": [
+    {
+      "name": "Joaquin Phoenix",
+      "url": "https://www.imdb.com/name/nm0001618/"
+    },
+    {
+      "name": "Jeremy Suarez",
+      "url": "https://www.imdb.com/name/nm0836836/"
+    },
+    {
+      "name": "Rick Moranis",
+      "url": "https://www.imdb.com/name/nm0001548/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Aaron Blaise",
+      "url": "https://www.imdb.com/name/nm0086431/"
+    },
+    {
+      "name": "Robert Walker",
+      "url": "https://www.imdb.com/name/nm1074107/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tab Murphy",
+      "url": "https://www.imdb.com/name/nm0614742/"
+    },
+    {
+      "name": "Lorne Cameron",
+      "url": "https://www.imdb.com/name/nm0131661/"
+    },
+    {
+      "name": "David Hoselton",
+      "url": "https://www.imdb.com/name/nm0395924/"
+    }
+  ],
+  "review": {
+    "author": "TheLittleSongbird",
+    "dateCreated": "2009-12-01",
+    "inLanguage": "English",
+    "heading": "Gorgeous to look at, with an awesome soundtrack and a heartwarming story. Has its minor flaws, but it is VERY underrated",
+    "reviewBody": "I wasn't expecting to enjoy Brother Bear as much as I did. It is by far one of the better post-Tarzan Disney movies, along with Emperor's New Groove and Lilo and Stitch. I do think it is very underrated, apart from a couple of minor flaws there is hardly anything wrong with it. So what makes Brother Bear a delight? Well for one thing, the animation is simply gorgeous. Beautiful colours, stunning backgrounds and next to flawless character movement. Out of the post-Tarzan Disney movies, Brother Bear gets my vote as the most beautiful visually.\n\nAnother pro was the awesome soundtrack. The orchestral music is lovely, and Phil Colins's songs are every bit as catchy, fun and memorable as the ones he did for Tarzan. The film also has a heartwarming story, concentrating on the friendship between Kenai and Koda and there is a nice moral. There is also a lot of symbolism, that was incorporated into the narrative very well. The characterisations are strong, with Joaquin Pheonix superb as the voice of Kenai, and Koda(voiced by Jeremy Suarez) is a simply adorable character. Plus the MacKenzie Moose, voiced by Dave Thomas and Rick Moranis were hilarious. There are some funny parts in the script, but quintessentially it is a heartwarming one, maybe even some tearjerkers.\n\nI have very little to complain about this movie. Though had this movie been a tad longer, we could have had some more development in the secondary characters. My only other qualm was although the songs in general were awesome, the song sung by Tina Turner at the beginning wasn't quite in the same league. Other than that, this is a great underrated movie, not Disney's best, but you know what, it is well worth the look. 8.5/10 Bethany Cox",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 122439,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  }
+}

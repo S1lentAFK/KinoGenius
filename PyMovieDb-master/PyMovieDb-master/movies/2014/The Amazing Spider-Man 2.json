@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Amazing Spider-Man 2",
+  "url": "https://www.imdb.com/tt1872181/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_.jpg",
+  "description": "When New York is put under siege by Oscorp, it is up to Spider-Man to save the city he swore to protect as well as his loved ones.",
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2014-04-16",
+  "keywords": "secret identity,returning character killed off,death of girlfriend,costumed hero,superhero",
+  "duration": "PT2H22M",
+  "rating": {
+    "ratingCount": 533096,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "review": {
+    "author": "IanCandido",
+    "dateCreated": "2014-08-09",
+    "inLanguage": "English",
+    "heading": "Finally!",
+    "reviewBody": "This film is getting too much hate by some people and too much love by others (including me), and it seems to be only based on the mental image each group has of spider-man and movie scripts in general.\\n\\nThose who love the soup opera aspects of Peter Park, hated, they missed the character grow, the motives of the villains (arguable) and complained for having too many story lines. On the other hand those who love comic spidey, loved, for all the stupid puns, the charisma and the of course the action. But the main complain is about the script, but understanding as a comic adaptation, it makes sense, the several sub-plots going on between each fight,the preface and Peter Parker/Spider-Man parallels objectives, it makes just like a regular comic (weekly or monthly) and less like a regular movie.\\n\\nBut What can I say, I was expecting to see the real (mental image, again) Spider-Man on screen, the costume is really (a lot of emphasis here) beautiful, Andrew Garfield really is in the character, Emma Stone makes an active love interest, Dane DeHaan makes a &apos;realistic&apos; Green Goblin and Paul Giamatti goes a over-the-top, more related to an usual Spider-Man Villain. The only big flaw is Jamie Foxx getting the spotlight just because Django, the character is lost in the movie, half-way between fun villain and real threat, shame because he is the main villain.\\n\\nMarc Webb got me, I&apos;m gonna be the first in line for: The Amazing Spider-Man 3, Venom-Carnage, Sinister Six, maybe Spider-Woman (not confirmed yet), or any other release of a fun comic adaptation.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 533096,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "actor": [
+    {
+      "name": "Andrew Garfield",
+      "url": "https://www.imdb.com/name/nm1940449/"
+    },
+    {
+      "name": "Emma Stone",
+      "url": "https://www.imdb.com/name/nm1297015/"
+    },
+    {
+      "name": "Jamie Foxx",
+      "url": "https://www.imdb.com/name/nm0004937/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Marc Webb",
+      "url": "https://www.imdb.com/name/nm1989536/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Alex Kurtzman",
+      "url": "https://www.imdb.com/name/nm0476064/"
+    },
+    {
+      "name": "Roberto Orci",
+      "url": "https://www.imdb.com/name/nm0649460/"
+    },
+    {
+      "name": "Jeff Pinkner",
+      "url": "https://www.imdb.com/name/nm0684374/"
+    }
+  ]
+}

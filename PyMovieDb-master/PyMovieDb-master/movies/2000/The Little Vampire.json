@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Little Vampire",
+  "url": "https://www.imdb.com/tt0192255/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTU4NDQ3NzY1NV5BMl5BanBnXkFtZTYwMTQ3NTk2._V1_.jpg",
+  "description": "A lonely American boy living in Scotland makes a new best friend, a fellow nine year-old who happens to be a vampire.",
+  "contentRating": "U",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "datePublished": "2000-10-13",
+  "keywords": "bully comeuppance,bully,flying,friendship between boys,nightmare",
+  "duration": "PT1H35M",
+  "actor": [
+    {
+      "name": "Jonathan Lipnicki",
+      "url": "https://www.imdb.com/name/nm0005151/"
+    },
+    {
+      "name": "Rollo Weeks",
+      "url": "https://www.imdb.com/name/nm0917353/"
+    },
+    {
+      "name": "Richard E. Grant",
+      "url": "https://www.imdb.com/name/nm0001290/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Uli Edel",
+      "url": "https://www.imdb.com/name/nm0248942/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Angela Sommer-Bodenburg",
+      "url": "https://www.imdb.com/name/nm0814008/"
+    },
+    {
+      "name": "Karey Kirkpatrick",
+      "url": "https://www.imdb.com/name/nm0456732/"
+    },
+    {
+      "name": "Larry Wilson",
+      "url": "https://www.imdb.com/name/nm0933733/"
+    }
+  ],
+  "review": {
+    "author": "aliseliz",
+    "dateCreated": "2001-11-16",
+    "inLanguage": "English",
+    "heading": "Much better than I expected.",
+    "reviewBody": "I've loved all things concerning vampires since the first time I saw The Lost Boys. (Obviously not an Oscar-worthy film, but it certainly is entertaining.) When I saw previews for The Little Vampire, I must admit that I thought it looked really, really bad. I had the opportunity to watch it a few days ago and was pleasantly surprised by the film. I was impressed by the special effects, especially Rudolph's bat form. The cows were an interesting addition, too. I loved the costumes and makeup. The story and plot weren't all that original and were very predictable, but I think kids from 6 to 12 would enjoy those aspects of the film. I thought Rollo Weeks and the actress who played his sister, Anna, were terrific and I hope to see them both in more films. Jonathan Lipnicki was cute, but is that kid ever going to grow? Sheesh, he'll look 6 when graduates from college. I liked most of the adult characters, especially the vampire parents. I've seen Richard E. Grant and Alice Krige both in other movies and I enjoyed their performances. I would give this movie a 7 out of 10. It's fun to watch and only a little bit too cutesy.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 11422,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.7
+  }
+}

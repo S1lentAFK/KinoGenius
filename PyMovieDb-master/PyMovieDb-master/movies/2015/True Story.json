@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "True Story",
+  "url": "https://www.imdb.com/tt2273657/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWM2ODc1MGYtYjNkMC00MTQ0LTk1ZWYtYWVjYTg3MzhiZWFlXkEyXkFqcGdeQXVyNTUzOTUwMTk.jpg",
+  "description": "When disgraced New York Times reporter Michael Finkel meets accused killer Christian Longo - who has taken on Finkel's identity - his investigation morphs into a game of cat-and-mouse.",
+  "review": {
+    "author": "ini_ynti-22457",
+    "dateCreated": "2016-03-05",
+    "inLanguage": "English",
+    "heading": "Not Easy To Grasp",
+    "reviewBody": "It's hard for me to find this movie interesting. I didn't really get it. But yes, the opening seemed so promising. Not to mention the character of Christian Longo himself. He's some kind of crazy person or even a psycho, perhaps? He's so unpredictable. Looks stupid but turned out to be smart and so deceiving. This was actually so good, but I couldn't stop thinking that there was something missing. Why Longo chooses to use Finkle's identity was not so well explained. Maybe the dialogue which was not so strong. To me, the story was just not so well explored. \n\nThis movie is based on a memoir of Michael Finkel. I usually love movies based on true story, but not this one.Sorry. I don't know. It's just not easy to grasp. I need to consult Wikipedia to fill the holes in my head.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 72555,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2015-07-24",
+  "keywords": [
+    "journalist",
+    "murder trial",
+    "prison visit",
+    "discredited reporter",
+    "investigative journalism"
+  ],
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "James Franco",
+      "url": "https://www.imdb.com/name/nm0290556/"
+    },
+    {
+      "name": "Jonah Hill",
+      "url": "https://www.imdb.com/name/nm1706767/"
+    },
+    {
+      "name": "Felicity Jones",
+      "url": "https://www.imdb.com/name/nm0428065/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rupert Goold",
+      "url": "https://www.imdb.com/name/nm3734458/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Rupert Goold",
+      "url": "https://www.imdb.com/name/nm3734458/"
+    },
+    {
+      "name": "David Kajganich",
+      "url": "https://www.imdb.com/name/nm1738734/"
+    },
+    {
+      "name": "Michael Finkel",
+      "url": "https://www.imdb.com/name/nm4927379/"
+    }
+  ]
+}

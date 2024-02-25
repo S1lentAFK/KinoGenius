@@ -1,0 +1,70 @@
+{
+  "type": "Movie",
+  "name": "Letters to God",
+  "url": "https://www.imdb.com/tt1462054/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzgyMDQ2MTc1Nl5BMl5BanBnXkFtZTcwOTM0NTYxMw@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "jacob-chiong",
+    "dateCreated": "2013-10-27",
+    "inLanguage": "English",
+    "heading": "Refreshingly Innocent in this Jaded and Filth-filled Age",
+    "reviewBody": "It is amazing that there are people still showing faith that God&apos;s love for His children is as relevant today as it was 2000 years ago. The story demands strong undercurrents of emotion and the actors delivered well. The pace is just right and the flow natural. As the tale unfolds, one begins to realize that letters written to God are received and read by God the moment the letter is written; the physical letter and actual delivery status inconsequential to the spiritual discourse it represents.\n\nGo on. Watch this movie and follow the lives of people where a loved one is dying of cancer. Discover how these people overcome bitterness and draw strengths from God in the face of losing a loved one.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 5190,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2010-04-09",
+  "keywords": "letter,faith,cancer,prayer,hope",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Tanner Maguire",
+      "url": "https://www.imdb.com/name/nm1921310/"
+    },
+    {
+      "name": "Jeffrey Johnson",
+      "url": "https://www.imdb.com/name/nm1378502/"
+    },
+    {
+      "name": "Robyn Lively",
+      "url": "https://www.imdb.com/name/nm0001477/"
+    }
+  ],
+  "director": [
+    {
+      "name": "David Nixon",
+      "url": "https://www.imdb.com/name/nm1117098/"
+    },
+    {
+      "name": "Patrick Doughtie",
+      "url": "https://www.imdb.com/name/nm3459865/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Patrick Doughtie",
+      "url": "https://www.imdb.com/name/nm3459865/"
+    },
+    {
+      "name": "Art D&apos;Alessandro",
+      "url": "https://www.imdb.com/name/nm0194959/"
+    },
+    {
+      "name": "Sandra Thrift",
+      "url": "https://www.imdb.com/name/nm3419394/"
+    }
+  ]
+}

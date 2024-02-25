@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Max Steel",
+  "url": "https://www.imdb.com/tt1472584/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk2MTMwOTk3N15BMl5BanBnXkFtZTgwMDI5OTYxMDI@._V1_.jpg",
+  "description": "The adventures of teenager Max McGrath and his alien companion, Steel, who must harness and combine their tremendous new powers to evolve into the turbo-charged superhero Max Steel.",
+  "contentRating": "12",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "2016-10-25",
+  "keywords": "male human alien hybrid,non comic book superhero,superhero,b movie,human alien hybrid",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Ben Winchell",
+      "url": "https://www.imdb.com/name/nm3656718/"
+    },
+    {
+      "name": "Josh Brener",
+      "url": "https://www.imdb.com/name/nm3091777/"
+    },
+    {
+      "name": "Maria Bello",
+      "url": "https://www.imdb.com/name/nm0004742/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Stewart Hendler",
+      "url": "https://www.imdb.com/name/nm0376664/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Christopher L. Yost",
+      "url": "https://www.imdb.com/name/nm1236653/"
+    }
+  ],
+  "review": {
+    "author": "siderite",
+    "dateCreated": "2017-01-19",
+    "inLanguage": "English",
+    "heading": "What if Harry Potter would have secretly been a Power Ranger?",
+    "reviewBody": "You know those horror movies that start with a bunch of kids going away to have fun in a cabin in the woods and it takes about five minutes to know everything that will ever happen to them? It&apos;s like that, but lame sci-fi.\\n\\nIt starts with the single mom moving back with her teenage son to their home town. He is young, sexy, but vulnerable and he&apos;s got superpowers and a friendly alien that he didn&apos;t know about. Oh, and a girl that is all but stalking him in order to be his boyfriend. And the mother knows something, but doesn&apos;t prepare him one bit, because he might not be ready. And the alien is amnesiac. So in order to be a bit interesting, they plug in a villain. A lame villain that makes no sense and has zero character development.\\n\\nIn fact, that&apos;s the feeling you get from the movie as a whole: plug and play. Every piece of it, be it plot, special effects or actors just some refurbished bit of crap from some other film in the genre. It is worse than a failure, it is something that they made knowing it had no value. The more I think about it the lower I want to rate it, so I stop here.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 20492,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.6
+  }
+}

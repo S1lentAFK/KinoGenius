@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hell Ride",
+  "url": "https://www.imdb.com/tt0411475/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY0MTMwODkwN15BMl5BanBnXkFtZTcwMzE1OTc1MQ@@._V1_.jpg",
+  "description": null,
+  "contentRating": "18",
+  "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "datePublished": "2009-01-17",
+  "keywords": "biker,rival gang,motorcycle gang,motorcycle,revenge",
+  "duration": "PT1H24M",
+  "actor": [
+    {
+      "name": "Larry Bishop",
+      "url": "https://www.imdb.com/name/nm0084114/"
+    },
+    {
+      "name": "Dennis Hopper",
+      "url": "https://www.imdb.com/name/nm0000454/"
+    },
+    {
+      "name": "Michael Madsen",
+      "url": "https://www.imdb.com/name/nm0000514/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Larry Bishop",
+      "url": "https://www.imdb.com/name/nm0084114/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Larry Bishop",
+      "url": "https://www.imdb.com/name/nm0084114/"
+    }
+  ],
+  "review": {
+    "author": "Siamois",
+    "dateCreated": "2008-08-31",
+    "inLanguage": "English",
+    "heading": "Tries too hard... and fails.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 16311,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5
+  }
+}

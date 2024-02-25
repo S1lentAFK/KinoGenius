@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Food, Inc.",
+  "url": "https://www.imdb.com/tt1286537/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGNhYTA1ODMtY2M5Yy00MTYwLWFlZmEtNDM4M2I4ZTI2ZmVmXkEyXkFqcGdeQXVyNTA4NzY1MzY._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "rasecz",
+    "dateCreated": "2009-06-08",
+    "inLanguage": "English",
+    "heading": "Must-see documentary for anyone who eats",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 52072,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Documentary",
+    "News"
+  ],
+  "datePublished": "2010-02-12",
+  "keywords": "fraud, profiteering, food, food industry, capitalism",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Michael Pollan",
+      "url": "https://www.imdb.com/name/nm2293679/"
+    },
+    {
+      "name": "Eric Schlosser",
+      "url": "https://www.imdb.com/name/nm1906802/"
+    },
+    {
+      "name": "Richard Lobb",
+      "url": "https://www.imdb.com/name/nm3921128/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Kenner",
+      "url": "https://www.imdb.com/name/nm0448422/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Robert Kenner",
+      "url": "https://www.imdb.com/name/nm0448422/"
+    },
+    {
+      "name": "Elise Pearlstein",
+      "url": "https://www.imdb.com/name/nm1015409/"
+    },
+    {
+      "name": "Kim Roberts",
+      "url": "https://www.imdb.com/name/nm0731324/"
+    }
+  ]
+}

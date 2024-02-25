@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "D.E.B.S.",
+  "url": "https://www.imdb.com/tt0367631/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA0OTU5ODgyOF5BMl5BanBnXkFtZTcwODczNDgyMQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "moonspinner55",
+    "dateCreated": "2007-08-05",
+    "inLanguage": "English",
+    "heading": "Self-consciously cute and fashionable...",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 17692,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.4
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2005-03-25",
+  "keywords": "female female kiss,lesbian romance,teenage girl,sex addict,sorority",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Sara Foster",
+      "url": "https://www.imdb.com/name/nm1246371/"
+    },
+    {
+      "name": "Jordana Brewster",
+      "url": "https://www.imdb.com/name/nm0108287/"
+    },
+    {
+      "name": "Devon Aoki",
+      "url": "https://www.imdb.com/name/nm1226817/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Angela Robinson",
+      "url": "https://www.imdb.com/name/nm1286340/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Angela Robinson",
+      "url": "https://www.imdb.com/name/nm1286340/"
+    }
+  ]
+}

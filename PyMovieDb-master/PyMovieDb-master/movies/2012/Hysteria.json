@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Hysteria",
+  "url": "https://www.imdb.com/tt1435513/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI0NDExNjcwMV5BMl5BanBnXkFtZTcwOTU4Mzg2Nw@@._V1_.jpg",
+  "description": "The truth of how Mortimer Granville devised the invention of the first vibrator in the name of medical science.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2016-11-21",
+    "inLanguage": "English",
+    "heading": "good light fun",
+    "reviewBody": "It's 1880 London. Stress out women of all kinds are diagnosed with hysteria. The remedy is pelvic massage and the release of orgasm. Medicine still uses leeches and germs are a new concept. Dr. Mortimer Granville (Hugh Dancy) is fired from the hospital for changing with clean bandages. After many rejections, he gets a job with Dr. Robert Dalrymple (Jonathan Pryce) who treats only women. Charlotte (Maggie Gyllenhaal) is his rebellious suffragette daughter and Emily (Felicity Jones) is the obedient one who studies phrenology. The constant 'treatments' are wearing out Mortimer's hand. His gentleman inventor flatmate Edmund St. John-Smythe (Rupert Everett) helps develop a vibrator for the work.\n\nThe subject matter is titillating amusement. Everybody plays it straight with a smile. It's light fun with a bit of serious issue. It's not big laughs but it's an enjoyable little rom-com. They all play the roles great especially Gyllenhaal's firecracker act.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 33067,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Biography",
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2012-09-21",
+  "keywords": "19th century,doctor,hysteria,vibrator,invention",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Maggie Gyllenhaal",
+      "url": "https://www.imdb.com/name/nm0350454/"
+    },
+    {
+      "name": "Hugh Dancy",
+      "url": "https://www.imdb.com/name/nm0199215/"
+    },
+    {
+      "name": "Jonathan Pryce",
+      "url": "https://www.imdb.com/name/nm0000596/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Tanya Wexler",
+      "url": "https://www.imdb.com/name/nm0923330/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stephen Dyer",
+      "url": "https://www.imdb.com/name/nm0245791/"
+    },
+    {
+      "name": "Jonah Lisa Dyer",
+      "url": "https://www.imdb.com/name/nm0550591/"
+    },
+    {
+      "name": "Howard Gensler",
+      "url": "https://www.imdb.com/name/nm2717555/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "Movie",
+  "name": "Get Out",
+  "url": "https://www.imdb.com/tt5052448/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_.jpg",
+  "description": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+  "review": {
+    "author": "Special-K88",
+    "dateCreated": "2018-03-05",
+    "inLanguage": "English",
+    "heading": "director Peele takes you on a different kind of journey",
+    "reviewBody": "A unique and effective blend of horror film and social commentary if there ever was one! Young, modest black photographer Chris Washington is understandably nervous about going to spend the weekend with the parents of his sweet white girlfriend Rose Armitage, who for reasons totally unbeknownst to him has yet to tell her parents that he's black. They set out on their trip and...well the rest is really left for the viewer to discover. Writer-director Jordan Peele shows his master craftsmanship by taking this simple premise and expanding it in many different directions, also incorporating elements of racism, comedy, shock and awe, and wisely never taking things too seriously. The climax is a bit formulaic and over-the-top, but the journey is effectively unnerving and features much stronger acting than you would expect for a film of this genre. Not for everyone, but refreshingly unconventional and worth the viewing experience. ***",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 686231,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "contentRating": "R",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2017-02-24",
+  "keywords": "hypnosis,racism,african american,neurosurgeon,satire",
+  "duration": "PT1H44M",
+  "actor": [
+    {
+      "name": "Daniel Kaluuya",
+      "url": "https://www.imdb.com/name/nm2257207/"
+    },
+    {
+      "name": "Allison Williams",
+      "url": "https://www.imdb.com/name/nm4129745/"
+    },
+    {
+      "name": "Bradley Whitford",
+      "url": "https://www.imdb.com/name/nm0925966/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jordan Peele",
+      "url": "https://www.imdb.com/name/nm1443502/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Jordan Peele",
+      "url": "https://www.imdb.com/name/nm1443502/"
+    }
+  ]
+}

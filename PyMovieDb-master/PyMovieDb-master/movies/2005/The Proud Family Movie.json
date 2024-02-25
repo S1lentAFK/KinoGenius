@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Proud Family Movie",
+  "url": "https://www.imdb.com/tt0448090/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGMxNTFlZjQtYTcxMC00OTkxLTlhM2ItYzJjOTk0OWJmMmE1XkEyXkFqcGdeQXVyMTIwMjY0NjQz._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "rupertluver-2",
+    "dateCreated": "2006-07-22",
+    "inLanguage": "English",
+    "heading": "Proud Family goes to an island, Mad Scientist clones them, Clones try and reveal the secret recipe to Proud Snacks.",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 2031,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.3
+  },
+  "contentRating": "TV-G",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2005-08-19",
+  "keywords": "2000s,teenager,based on tv series,character name in title,african american family",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Tommy Davidson",
+      "url": "https://www.imdb.com/name/nm0203508/"
+    },
+    {
+      "name": "Kyla Pratt",
+      "url": "https://www.imdb.com/name/nm0695497/"
+    },
+    {
+      "name": "Paula Jai Parker",
+      "url": "https://www.imdb.com/name/nm0005294/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Bruce W. Smith",
+      "url": "https://www.imdb.com/name/nm0807563/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ralph Farquhar",
+      "url": "https://www.imdb.com/name/nm0267976/"
+    },
+    {
+      "name": "Calvin Brown Jr.",
+      "url": "https://www.imdb.com/name/nm0112919/"
+    },
+    {
+      "name": "John Patrick White",
+      "url": "https://www.imdb.com/name/nm0925003/"
+    }
+  ]
+}

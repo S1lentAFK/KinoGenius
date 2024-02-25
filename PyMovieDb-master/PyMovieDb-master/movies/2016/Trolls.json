@@ -1,0 +1,72 @@
+{
+  "type": "Movie",
+  "name": "Trolls Band Together",
+  "url": "https://www.imdb.com/tt14362112/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY4MDk2YWUtNWY1My00YjAxLWI4ZGQtMmRhN2FiNDI4NDRjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+  "description": "Poppy discovers that Branch was once part of the boy band &apos;BroZone&apos; with his brothers, Floyd, John Dory, Spruce and Clay. When Floyd is kidnapped, Branch and Poppy embark on a journey to reunite his two other brothers and rescue F...",
+  "review": {
+    "author": "chirilescemanuel",
+    "dateCreated": "2023-11-01",
+    "inLanguage": "English",
+    "heading": "Wholesome movie",
+    "reviewBody": "I&apos;ve made it to this third movie of the series Trolls , at the cinema, with my two little cousins.\n\nIt made them happy to be there, and the movie felt really wholesome with fun little moments.\n\nPersonally, I have watched the first and the second movies and I liked them both. What made, this one, more special than the last two, was the moment in time it was released, for me, thus have been given a special conotation.\n\nPlus, little cousins felt really well, I&apos;ve made it and bought them some safe souvenirs with Trolls, and those souvenirs were about little loving sisters, and them were in really close connection to Poppy and Viva themselves.\n\nHad a good time!\n\n8/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 11210,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6
+  },
+  "contentRating": "U",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "datePublished": "2023-10-20",
+  "keywords": "cgi animation,3d,3 dimensional,cg animation,slimehouse",
+  "duration": "PT1H31M",
+  "actor": [
+    {
+      "name": "Anna Kendrick",
+      "url": "https://www.imdb.com/name/nm0447695/"
+    },
+    {
+      "name": "Justin Timberlake",
+      "url": "https://www.imdb.com/name/nm0005493/"
+    },
+    {
+      "name": "Kenan Thompson",
+      "url": "https://www.imdb.com/name/nm0860380/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Walt Dohrn",
+      "url": "https://www.imdb.com/name/nm0230666/"
+    },
+    {
+      "name": "Tim Heitz",
+      "url": "https://www.imdb.com/name/nm2142520/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Elizabeth Tippet",
+      "url": "https://www.imdb.com/name/nm2533335/"
+    },
+    {
+      "name": "Thomas Dam",
+      "url": "https://www.imdb.com/name/nm8540931/"
+    },
+    {
+      "name": "Kim Caramele",
+      "url": "https://www.imdb.com/name/nm5671708/"
+    }
+  ]
+}

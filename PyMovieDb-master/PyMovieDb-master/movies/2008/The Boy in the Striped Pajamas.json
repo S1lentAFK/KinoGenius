@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Boy in the Striped Pajamas",
+  "url": "https://www.imdb.com/tt0914798/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMzMTc3MjA5NF5BMl5BanBnXkFtZTcwOTk3MDE5MQ@@._V1_.jpg",
+  "description": "Through the innocent eyes of Bruno, the eight-year-old son of the commandant at a German concentration camp, a forbidden friendship with a Jewish boy on the other side of the camp fence has startling and unexpected consequences.",
+  "review": {
+    "author": "bkoganbing",
+    "dateCreated": "2009-01-05",
+    "inLanguage": "English",
+    "heading": "Bruno And Shmuel",
+    "reviewBody": "I can't speak for other people, but for me The Boy In The Striped Pyjamas is a film that can be seen once and once only because the impact is so shattering. Not even a stone statue can be not moved by this film, this child's eye view of the Holocaust.\\n\\nBruno is an 8 year old German kid whose father David Thewlis is an officer in the Wehrmacht. They're living a nice life in the beginning of World War II in metropolitan Berlin. Thewlis gets orders however shipping him to a command in a nice rural area of southern Germany, presumably Bavaria. Like any other kid he's upset at being dislocated from his friends and his school, but he certainly hasn't much to say in the matter.\\n\\nSo the family is uprooted to a lovely pastoral area where Dad's been put in charge of a concentration camp. Not one of the bigger ones like Auschwitz and Dachau, but a small one that his superiors expect Thewlis to run efficiently. \\n\\nYoung Bruno has absolutely no one to play with and he wanders over to the camp. His parents feel he's way too young to understand about these things and he makes friends with a kid on the other side of the barbed wire, a young Jewish boy named Shmuel who wears those funny striped pyjamas like everyone else in the camp.\\n\\nTwo things struck me about The Boy In The Striped Pyjamas. When I did a review of The Diary Of Anne Frank, the biggest impression I got out of the film was the ordinariness of that small group of Jews hidden in that attic. Who could possibly think these people were any kind of threat to civilization simply for being and believing in their faith? We get to see the other side of the looking glass here, a view of this very average German family, besides young Bruno and Thewlis, there's mother Vera Famiga and daughter Amber Beattie. Famiga is not happy one bit with her domestic situation and it's slowly dawning on her that the politics and policies of the Third Reich is the root of her concerns. As for Beattie, she's really buying into the whole Nazi thing, partly because she's going through puberty and a young and handsome aide to her father played by Rupert Friend is stirring up those first womanly feelings.\\n\\nBut to all intents and purposes this is your average German family, not too much different than the Frank family in that attic, but that this regime of hate has made Thewlis a death merchant.\\n\\nThe second thing that struck me and it's what gives hope to this crazy world is what passes between Asa Butterfield as Bruno and Jack Scanlon as Shmuel. If all we are as humans are reflections of our parents prejudices there would be absolutely no hope for mankind. But we do grow, we do question, some of us just don't accept everything that's fed to us. We don't see Shmuel's world of the camp until the very end, the boys mostly have contact with a barbed wire fence between them. But we see Bruno and his sister being now home schooled in Nazi teachings and his innocent contact with that kid on the other side of the fence makes him question what's going on.\\n\\nThe Boy In The Striped Pyjamas is one of the best films of 2008. You will not forget the performances of Butterfield and Scanlon and the adult cast members. The end will shatter your mind, but the film's depiction of friendship growing in the worst possible circumstances is also a message of hope.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 243112,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "War"
+  ],
+  "datePublished": "2008-09-12",
+  "keywords": "jew,boy,poison gas,fence,concentration camp",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Asa Butterfield",
+      "url": "https://www.imdb.com/name/nm2633535/"
+    },
+    {
+      "name": "David Thewlis",
+      "url": "https://www.imdb.com/name/nm0000667/"
+    },
+    {
+      "name": "Rupert Friend",
+      "url": "https://www.imdb.com/name/nm1670029/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Mark Herman",
+      "url": "https://www.imdb.com/name/nm0379179/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "John Boyne",
+      "url": "https://www.imdb.com/name/nm2477197/"
+    },
+    {
+      "name": "Mark Herman",
+      "url": "https://www.imdb.com/name/nm0379179/"
+    }
+  ]
+}

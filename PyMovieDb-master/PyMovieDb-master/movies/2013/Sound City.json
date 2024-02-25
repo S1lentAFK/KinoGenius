@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Sound City",
+  "url": "https://www.imdb.com/tt2306745/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc4MjkyODg4MF5BMl5BanBnXkFtZTcwNTk1NjM4OA@@._V1_.jpg",
+  "description": "A documentary on the fabled recording studio that was located in Van Nuys, California.",
+  "review": {
+    "author": "justinbatchelor123",
+    "dateCreated": "2013-02-01",
+    "inLanguage": "English",
+    "heading": "Fantastic movie for the music fan",
+    "reviewBody": "I was a little skeptical going into this movie knowing that it was produced and directed by Dave Grohl who isn't exactly known for making movies. But BOY, is he passionate about MUSIC. I learned so much about music's history... from the Beatles to Fleetwood Mac to Nirvana to the current state of the industry. You will enjoy this movie if you are a music fan.\\n\\nThe movie is laid out like a typical documentary for the first 3/4 or so with interviews from many important figures who's music has impacted my life. Let me just say Neil Young is the man! The last bit of the movie involves Dave Grohl recording new songs with famous musicians and everything sounds really good. It was very interesting to see how songs can be created with some collaboration and they sure make it look like a ton of fun.\\n\\nI was definitely moved by this movie...laughing at times and really feeling the passion that these musicians have for this industry. It totally rocks guys.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 13392,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "contentRating": "15",
+  "genre": [
+    "Documentary",
+    "Music"
+  ],
+  "datePublished": "2013-02-18",
+  "keywords": "real life,recording studio",
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Trent Reznor",
+      "url": "https://www.imdb.com/name/nm0722153/"
+    },
+    {
+      "name": "Tom Petty",
+      "url": "https://www.imdb.com/name/nm0678816/"
+    },
+    {
+      "name": "Mick Fleetwood",
+      "url": "https://www.imdb.com/name/nm0281450/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dave Grohl",
+      "url": "https://www.imdb.com/name/nm0342970/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Monroe",
+      "url": "https://www.imdb.com/name/nm0598531/"
+    }
+  ]
+}

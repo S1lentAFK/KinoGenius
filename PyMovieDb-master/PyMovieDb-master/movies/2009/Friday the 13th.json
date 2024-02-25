@@ -1,0 +1,76 @@
+
+
+{
+  "type": "Movie",
+  "name": "Friday the 13th",
+  "url": "https://www.imdb.com/tt0758746/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjY4ODcwOTItYWQ0NC00MmY3LTk2MTItZjQ3NGFjNDUzOWY1XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_.jpg",
+  "description": "A group of young adults visit a boarded up campsite named Crystal Lake where they soon encounter the mysterious Jason Voorhees and his deadly intentions.",
+  "contentRating": "18",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "datePublished": "2009-02-13",
+  "keywords": "sex scene,crystal lake new jersey,slasher,campfire,wakeboarding",
+  "duration": "PT1H37M",
+  "rating": {
+    "ratingCount": 116161,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "review": {
+    "author": "barrynewblood",
+    "dateCreated": "2020-09-15",
+    "inLanguage": "English",
+    "heading": "Jason Takes Prisoners",
+    "reviewBody": "After an exciting prologue involving your usual sex and pot crazed teenagers being dispatched by murderous woodsman, Jason Voorhees, Friday the 13th flies off the handle and populates the rest of the film with some of the most unlikable characters ever showcased in a slasher film and expects us to care when they're murdered one by one. We have no choice but to root for Jason and, I'm not sure about you, but I like horror movies where I feel bad for the people being stalked and killed.\\n\\nIf the characters aren't absolute morons or jerks, they're boring. We have the lead, Clay, who keeps trying to find his sister, but that's his only major character trait and it's hard to connect with him. Even worse is his sister who spends the entire film cowering in fear and screaming as she's trapped in the killer's secret underground lair.\\n\\nFriday the 13th is yet another misguided attempt at remaking a classic film that forgets what made the original so compelling and watchable in the first place.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 2
+    }
+  },
+  "rating": {
+    "ratingCount": 116161,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "actor": [
+    {
+      "name": "Jared Padalecki",
+      "url": "https://www.imdb.com/name/nm0655585/"
+    },
+    {
+      "name": "Amanda Righetti",
+      "url": "https://www.imdb.com/name/nm1119462/"
+    },
+    {
+      "name": "Derek Mears",
+      "url": "https://www.imdb.com/name/nm0575216/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Marcus Nispel",
+      "url": "https://www.imdb.com/name/nm1197971/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Victor Miller",
+      "url": "https://www.imdb.com/name/nm0566699/"
+    },
+    {
+      "name": "Damian Shannon",
+      "url": "https://www.imdb.com/name/nm1226735/"
+    },
+    {
+      "name": "Mark Swift",
+      "url": "https://www.imdb.com/name/nm1226737/"
+    }
+  ]
+}

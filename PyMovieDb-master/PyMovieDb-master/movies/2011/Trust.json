@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "Trust",
+  "url": "https://www.imdb.com/tt0103130/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTg2NjBjYTAtNzEwNi00MjMzLWFhYzYtNzY1MzQ0MjMwMWQ1XkEyXkFqcGdeQXVyNTcwNjUwNzk@._V1_.jpg",
+  "description": "After being thrown out of her house, Maria encounters a married woman who complains of not having children. Maria ends up in an abandoned house, where she meets Matthew. When a baby is kidnapped Maria sets out to find the woman.",
+  "review": {
+    "author": "george.schmidt",
+    "dateCreated": "2003-04-23",
+    "inLanguage": "English",
+    "heading": "Hal Hartley's signature film",
+    "reviewBody": "TRUST (1990) *** Adrienne Shelly and Martin Donovan shine as a pregnant, naive teen who is befriended by troubled loner-type, respectively, in this sharply written satire/black comedy/and at times gimmicky bloodless acting (but that's also the warped appeal) that brings into question the monotony of dreary jobs, thankless relationships and bad parenting. Directed by Hal Hartley in his signature solemnity.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 12199,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "1991-09-20",
+  "keywords": [
+    "factory",
+    "long island new york",
+    "football player",
+    "heart attack",
+    "independent film"
+  ],
+  "duration": "PT1H47M",
+  "actor": [
+    {
+      "name": "Adrienne Shelly",
+      "url": "https://www.imdb.com/name/nm0791248/"
+    },
+    {
+      "name": "Martin Donovan",
+      "url": "https://www.imdb.com/name/nm0233027/"
+    },
+    {
+      "name": "Rebecca Nelson",
+      "url": "https://www.imdb.com/name/nm0625610/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Hal Hartley",
+      "url": "https://www.imdb.com/name/nm0001325/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Hal Hartley",
+      "url": "https://www.imdb.com/name/nm0001325/"
+    }
+  ]
+}

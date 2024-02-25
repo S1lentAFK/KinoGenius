@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Rush Hour 2",
+  "url": "https://www.imdb.com/tt0266915/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODhlNGJjMWQtZGMyYS00MzJhLWJhZGMtY2NlNDI5Nzg5NTU2XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+  "description": "Carter and Lee head to Hong Kong for a vacation, but become embroiled in a counterfeit money scam.",
+  "review": {
+    "author": "mstomaso",
+    "dateCreated": "2005-12-29",
+    "inLanguage": "English",
+    "heading": "Fun film with big personalities and plenty of action",
+    "reviewBody": "Action-comedy legend Jackie Chan teams up with the amusing Chris Tucker in this off-beat sequel to the 1998 hit, Rush Hour. Both actors create likable characters with slightly more depth to them than the average comedic archetypes. Tucker is a loudmouthed clown from the LAPD, and Chan is a quiet, methodical Chief Inspector from Hong Kong. Not just racial stereotypes, their characters are developed just enough to make you want more from them - particularly Chan's.\\n\\nThe plot begins to develop in earnest about 1/3rd of the way through the film and takes a few predictable twists and turns until reaching a climactic conclusion. John Lone plays Chan's father's former police partner and the leader of the Triads - a huge Hong Kong gang. He plays his character like a Chinese Chris Walken and, along with Ziyi Zhang, his beautiful but psychotic partner, provides a nice dramatic balance to the lunatic Tucker and straight-man Chan. The story evolves to expose a counterfeiting plot in which the Triad, the US Secret Service, and others are all somehow involved.\\n\\nChan and Tucker have great chemistry and, with a good supporting cast, they make this sequel work. Rush Hour 2 is a fun, lightweight action film suitable for teens on up.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 237104,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "12",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2001-08-03",
+  "keywords": "east asia,hong kong,buddy movie,crime boss,criminal investigation",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Jackie Chan",
+      "url": "https://www.imdb.com/name/nm0000329/"
+    },
+    {
+      "name": "Chris Tucker",
+      "url": "https://www.imdb.com/name/nm0000676/"
+    },
+    {
+      "name": "John Lone",
+      "url": "https://www.imdb.com/name/nm0518821/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brett Ratner",
+      "url": "https://www.imdb.com/name/nm0711840/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Ross LaManna",
+      "url": "https://www.imdb.com/name/nm0482780/"
+    },
+    {
+      "name": "Jeff Nathanson",
+      "url": "https://www.imdb.com/name/nm0622288/"
+    }
+  ]
+}

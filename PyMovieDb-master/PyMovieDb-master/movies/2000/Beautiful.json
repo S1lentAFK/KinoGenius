@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Beautiful Wedding",
+  "url": "https://www.imdb.com/tt26546123/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjYxZjg4NDktNGM0My00ZDhhLWExNDQtMzgzMWE1ODE1NzJlXkEyXkFqcGdeQXVyMTQ4MDUxMTk1._V1_.jpg",
+  "description": "It follows Abby and Travis, who after a crazy night in Las Vegas, discover they are married. They head to Mexico for a honeymoon with friends and family.",
+  "review": {
+    "author": "JaeBianca",
+    "dateCreated": "2024-02-19",
+    "inLanguage": "English",
+    "heading": "So Glad I've Never and Will Never Read the Books",
+    "reviewBody": "I came across this movie literally by accident when I bumped the Vudu button on my remote while watching something else. I was surprised to see that Dylan Sprouse had un-retired from acting, so I watched the trailer. I thought it looked silly, but kind of cute...not necessarily worth the $20 to stream.\\n\\nI did, however, discover that the first movie Beautiful Disaster was available on Hulu, so I watched that. It was so hilarious and irreverent! I found myself rewatching scenes multiple times, and ended up watching some interviews with the actors to confirm my suspicions that some of the scenes were heavily improv-ed to keep each other's reactions organic.\\n\\nStill giddy and mentally rehashing some of the best moments, I actually broke down and paid for Beautiful Wedding. While the transition from Vegas to Mexico was a bit clunky, this movie had a lot of really over-the-top, hilarious moments, as well as a lot of heart. I would put it in the same box as Forgetting Sarah Marshall, Mike & Dave Need Wedding Dates, and Bridesmaids. I didn't feel like I had to have watched the first movie to enjoy the second once the ball was rolling.\\n\\nIf Roger Kumble wants to turn Dylan Sprouse into his new rom-com muse (a la Apatow & Segal), then I am 100% for it! It was also nice to see some of the older acting vets (Rob Estes and Steven Bauer) having fun getting into the specificity of their characters.\\n\\nI'm glad that I wasn't familiar with the books beyond it popping up as recommended reading on Amazon, because I might not have had chosen to watch it otherwise.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 481,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4
+  },
+  "contentRating": "R",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2024-01-25",
+  "keywords": "female nudity,friend,sequel,second part,male nudity",
+  "duration": "PT1H40M",
+  "actor": [
+    {
+      "name": "Alex Aiono",
+      "url": "https://www.imdb.com/name/nm6269125/"
+    },
+    {
+      "name": "Libe Barer",
+      "url": "https://www.imdb.com/name/nm2842971/"
+    },
+    {
+      "name": "Steven Bauer",
+      "url": "https://www.imdb.com/name/nm0000874/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Roger Kumble",
+      "url": "https://www.imdb.com/name/nm0474955/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Roger Kumble",
+      "url": "https://www.imdb.com/name/nm0474955/"
+    },
+    {
+      "name": "Jamie McGuire",
+      "url": "https://www.imdb.com/name/nm5193777/"
+    }
+  ]
+}

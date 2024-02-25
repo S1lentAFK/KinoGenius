@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Amazing Spider-Man",
+  "url": "https://www.imdb.com/tt0948470/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_.jpg",
+  "description": "After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to save the city from the machinations of a mysterious reptilian foe.",
+  "review": {
+    "author": "amalank",
+    "dateCreated": "2012-07-07",
+    "inLanguage": "English",
+    "heading": "Nothing special really",
+    "reviewBody": "The Amazing Spider-Man is supposed to be a reboot of the Spider-Man movie franchise. Tobey Maguire is replaced by Andrew Garfield in the protagonist role of Peter Parker. His main love interest switches from Mary-Jane Watson to Gwen Stacy, and the villain in this installment is Dr Curt Connors aka Lizard. As expected, this reboot goes back to the beginning when Peter Parker becomes Spider-Man only it is told in a rather different way to the 2002 movie. This time they also try to add a bit more character oriented storyline.\\n\\nIs it a good movie? Yes, particularly since I saw this movie in IMAX. This made the action scenes more exciting to watch. It also uses a villain that hasn&apos;t been used in the previous movies so at least it does make it different from the previous movies.\\n\\nIs it a successful reboot of the franchise? In my opinion, not really. It&apos;s been five years since the last Spider-Man movie came out, and ten years since the movie franchise was first introduced. Even when they made the announcement of this movie being made, I was questioning it because it&apos;s just too soon to make a reboot. For the same reason, this reboot is not refreshing. Without trying to give anything away, you can recognise that this movie takes some of the elements from the 2002 movie. The character oriented storyline doesn&apos;t add that much meat to the character of Peter Parker as its supposed to. Its easier to count this as another installment only with different actors playing the roles.\\n\\nI really enjoyed the first three Spider-Man movies, and yes that includes Spider-Man 3. This new Spider-Man movie is also enjoyable but it fails to refresh the series. It seems that I was right in thinking that its too soon to do so.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 696619,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2012-07-03",
+  "keywords": "spider man character,spider,death of parents,teenage protagonist,teenage girl",
+  "duration": "PT2H16M",
+  "actor": [
+    {
+      "name": "Andrew Garfield",
+      "url": "https://www.imdb.com/name/nm1940449/"
+    },
+    {
+      "name": "Emma Stone",
+      "url": "https://www.imdb.com/name/nm1297015/"
+    },
+    {
+      "name": "Rhys Ifans",
+      "url": "https://www.imdb.com/name/nm0406975/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Marc Webb",
+      "url": "https://www.imdb.com/name/nm1989536/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James Vanderbilt",
+      "url": "https://www.imdb.com/name/nm0888743/"
+    },
+    {
+      "name": "Alvin Sargent",
+      "url": "https://www.imdb.com/name/nm0765091/"
+    },
+    {
+      "name": "Steve Kloves",
+      "url": "https://www.imdb.com/name/nm0460141/"
+    }
+  ]
+}

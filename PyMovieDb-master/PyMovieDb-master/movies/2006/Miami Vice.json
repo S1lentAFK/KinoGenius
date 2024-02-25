@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Miami Vice",
+  "url": "https://www.imdb.com/tt0430357/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM4MDQ5MTkxMV5BMl5BanBnXkFtZTcwMTU4MzUzMQ@@._V1_.jpg",
+  "description": "Based on the 1980s TV action/drama, this update focuses on vice detectives Crockett and Tubbs as their respective personal and professional lives become dangerously intertwined.",
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "datePublished": "2006-08-04",
+  "keywords": "action hero,police partner,warrior,black cop,sunglasses",
+  "duration": "PT2H12M",
+  "actor": [
+    {
+      "name": "Colin Farrell",
+      "url": "https://www.imdb.com/name/nm0268199/"
+    },
+    {
+      "name": "Jamie Foxx",
+      "url": "https://www.imdb.com/name/nm0004937/"
+    },
+    {
+      "name": "Gong Li",
+      "url": "https://www.imdb.com/name/nm0000084/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Michael Mann",
+      "url": "https://www.imdb.com/name/nm0000520/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Michael Mann",
+      "url": "https://www.imdb.com/name/nm0000520/"
+    },
+    {
+      "name": "Anthony Yerkovich",
+      "url": "https://www.imdb.com/name/nm0947608/"
+    }
+  ],
+  "review": {
+    "author": "tcarnam",
+    "dateCreated": "2006-08-07",
+    "inLanguage": "English",
+    "heading": "A few problems, yes, but on the whole solid entertainment",
+    "reviewBody": "Not gonna get too much into it, will just say that it was pretty good, though with a little work to the script (dialogue, yes, but also how it evoked Crockett&apos;s and Tubbs&apos;s lives and identities outside of their lives/identities undercover), it could have neared excellent.\\n\\nVisually, it was beautiful, though this should come as no surprise given who directed it. I was also satisfied stylistically; an updated remake, yes, but for the most part it held true (to the original series) in terms of pattern and theme (i.e., cars, boats, guns, clothes, clubs).\\n\\nThe acting was, given the limitations of a script that didn&apos;t really demand all too much of players, pretty good.\\n\\nThe script was, as I wrote above, adequate, but not something I would lavish with any significant praise. There were two scenes where the dialogue ventured well into the territory of trite, but only two scenes, and, more problematically, I wanted to be made more aware of the lines that were being blurred (by their going deep, deep undercover).\\n\\nOn the whole, though, this was good entertainment. The music was good, the action sequences were well-wrought, the tension was kept in-line with a narrative arc that did basically had no missteps. And like I said, it&apos;s a beautiful movie.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 123065,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  }
+}

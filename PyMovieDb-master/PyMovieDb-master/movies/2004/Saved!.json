@@ -1,0 +1,63 @@
+{
+  "type": "Movie",
+  "name": "Saved!",
+  "url": "https://www.imdb.com/tt0332375/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1ODM1ODU1N15BMl5BanBnXkFtZTcwMjI5MzA3NA@@._V1_.jpg",
+  "description": "When a girl attending a Christian high school becomes pregnant, all of her former friends turn on her and she is ostracized and demonized.",
+  "review": {
+    "author": "kdillman",
+    "dateCreated": "2004-11-15",
+    "inLanguage": "English",
+    "heading": "A good wake up call for the evangelical church",
+    "reviewBody": "I recall the controversy surrounding Saved when it came out earlier this year, especially from the evangelical church, conservatives and fundamentalists. I wanted to judge for myself its merits, or lack there of, since I&apos;ve been an evangelical for 30+ years. I felt the movie did exactly what it intended to do; bring to light the hypocrisy of the church. I don&apos;t see how anybody, Christian or non-Christian could miss the message. I thought the selection of actors and actresses for the cast was right on, with each doing a very good job of portraying the personality of their characters well. I&apos;m sure the movie was particularly biting to many evangelicals, as it should be--it even &apos;stung&apos; me in a few places. I could see how evangelicals and conservatives would be outraged. However, the one thing I was especially struck by was the fact that this movie was written by non-Christians. As I watched all the &apos;digs&apos; on Christians and the points of the evident hypocrisy within the church and Christianity, I came to a conclusion; if this movie was written by a non-Christian, then obviously there is a significant segment of our culture who believe the &apos;church&apos; really is like this. If anything should move we evangelicals to start living lives of authenticity that reflect the love and grace of Jesus, this movie was it!",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 48756,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2004-10-29",
+  "keywords": "teenage girl,gay teenager,christian fanatic,gay character,teenage girl as protagonist",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Jena Malone",
+      "url": "https://www.imdb.com/name/nm0540441/"
+    },
+    {
+      "name": "Mandy Moore",
+      "url": "https://www.imdb.com/name/nm0601553/"
+    },
+    {
+      "name": "Macaulay Culkin",
+      "url": "https://www.imdb.com/name/nm0000346/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Brian Dannelly",
+      "url": "https://www.imdb.com/name/nm0200380/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Brian Dannelly",
+      "url": "https://www.imdb.com/name/nm0200380/"
+    },
+    {
+      "name": "Michael Urban",
+      "url": "https://www.imdb.com/name/nm1247295/"
+    }
+  ]
+}

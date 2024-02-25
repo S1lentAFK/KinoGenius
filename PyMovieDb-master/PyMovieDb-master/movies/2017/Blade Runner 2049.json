@@ -1,0 +1,68 @@
+{
+  "type": "Movie",
+  "name": "Blade Runner 2049",
+  "url": "https://www.imdb.com/tt1856101/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_.jpg",
+  "description": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+  "review": {
+    "author": "grantss",
+    "dateCreated": "2017-10-06",
+    "inLanguage": "English",
+    "heading": "Intriguing and engaging",
+    "reviewBody": "It is 2049, 30 years after the events of the previous movie. K is a Blade Runner, a policeman who tracks down and terminates replicants (androids) whose model are viewed dangerous to society. K is himself a replicant, but has been programmed to be beneficial to society. One day he tracks down and terminates a replicant that has managed to evade detection and capture for over 28 years. In his garden are found the remains of a female replicant. Shockingly, the woman died during childbirth and the baby appears to have survived. Replicants cannot reproduce. If word gets out that they can, the human-replicant hierarchy will forever be disturbed. K must find the child, quickly. Also after it is Niander Wallace, a billionaire whose company makes replicants and whose main interest is in changing the world order. An intriguing and engaging movie, directed by Denis Villeneuve (Prisoners, Incendies, Sicario, Arrival) and co-written by Hampton Francher, who co-wrote the screenplay for the original Blade Runner. Good plot with some great twists and turns. Some clever manipulation of the viewer too, as you are funneled down one way of thinking, only to have things turn out in another direction. This unpredictability, and requirement that you use your brain, makes for some intriguing viewing. Great special effects, without being too show-offy and gratuitous. Great action scenes too. While I have seen the original Blade Runner (in all three forms), you don't have to have seen it in order to enjoy, or even understand, this one. It works fine as a standalone movie. Solid performances by all involved. On the negative side, the plot is not entirely water-tight. There are a few key moments where things take a turn for the implausible and contrived. The end result ultimately justified these turns, making me less critical of them, but the writers could easily have developed the plot around those moments more, in order to make them less loose and clumsy. Though I thought it was going to be, the running time of 163 minutes is not an issue. The movie never drags and the time just flies by. Great movie - certainly not your average sequel.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 649446,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8
+  },
+  "contentRating": "R",
+  "genre": [
+    "Action",
+    "Drama",
+    "Mystery"
+  ],
+  "datePublished": "2017-10-05",
+  "keywords": "environmental damage,future noir,memory implant,detective,police detective",
+  "duration": "PT2H44M",
+  "actor": [
+    {
+      "name": "Harrison Ford",
+      "url": "https://www.imdb.com/name/nm0000148/"
+    },
+    {
+      "name": "Ryan Gosling",
+      "url": "https://www.imdb.com/name/nm0331516/"
+    },
+    {
+      "name": "Ana de Armas",
+      "url": "https://www.imdb.com/name/nm1869101/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Denis Villeneuve",
+      "url": "https://www.imdb.com/name/nm0898288/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Hampton Fancher",
+      "url": "https://www.imdb.com/name/nm0266684/"
+    },
+    {
+      "name": "Michael Green",
+      "url": "https://www.imdb.com/name/nm0338169/"
+    },
+    {
+      "name": "Philip K. Dick",
+      "url": "https://www.imdb.com/name/nm0001140/"
+    }
+  ]
+}

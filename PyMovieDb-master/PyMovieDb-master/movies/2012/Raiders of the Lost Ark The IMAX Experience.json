@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Raiders of the Lost Ark",
+  "url": "https://www.imdb.com/tt0082971/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTU2ODkyY2MtMjU1NC00NjE1LWEzYjgtMWQ3MzRhMTE0NDc0XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_.jpg",
+  "description": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis can obtain its awesome powers.",
+  "contentRating": "A",
+  "genre": [
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "1981-07-30",
+  "keywords": "nazi,ark of the covenant,archeologist,female tied up,archeology",
+  "duration": "PT1H55M",
+  "actor": [
+    {
+      "name": "Harrison Ford",
+      "url": "https://www.imdb.com/name/nm0000148/"
+    },
+    {
+      "name": "Karen Allen",
+      "url": "https://www.imdb.com/name/nm0000261/"
+    },
+    {
+      "name": "Paul Freeman",
+      "url": "https://www.imdb.com/name/nm0293550/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Steven Spielberg",
+      "url": "https://www.imdb.com/name/nm0000229/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lawrence Kasdan",
+      "url": "https://www.imdb.com/name/nm0001410/"
+    },
+    {
+      "name": "George Lucas",
+      "url": "https://www.imdb.com/name/nm0000184/"
+    },
+    {
+      "name": "Philip Kaufman",
+      "url": "https://www.imdb.com/name/nm0442241/"
+    }
+  ],
+  "review": {
+    "author": "mthompson1450",
+    "dateCreated": "2020-12-27",
+    "inLanguage": "English",
+    "heading": "What movies should be.",
+    "reviewBody": "Absolute perfection from start to finish,pulls you in and doesn't let you go til it's over.. in my top 5 movies of all time.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 1030255,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.4
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "type": "Movie",
+  "name": "Mugabe and the White African",
+  "url": "https://www.imdb.com/tt1437235/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDk5Y2YxNTQtYWVhMy00ZjUxLWJmOWUtMmMyNTc2MGMyMTE5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+  "description": "An intimate and moving account of one family&apos;s extraordinary courage in the face of overwhelming injustice and brutality.",
+  "review": {
+    "author": "ThomasKus",
+    "dateCreated": "2010-07-18",
+    "inLanguage": "English",
+    "heading": "Profoundly moving documentary",
+    "reviewBody": "This is no doubt one of the most moving documentaries I have seen in a long time. The story of a family who decided not to bow to pressure, not to run away, not to give up in the face of the most horrendous state brutality speaks for itself and I find some of the criticisms voiced in other reviews hard to stomach. It is not Mugabe and his oppressive regime that need to be explained, it is the fact that his system is allowed to continue without much international challenge that is abhorrent. The courage of Michael and Ben in making this documentary, in continuing with their case and in showing the real face of Mugabe and his small but brutal elite is worth noting and remembering.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 979,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2009-08-07",
+  "keywords": "injustice,zimbabwe,human rights,racism",
+  "duration": "PT1H30M",
+  "actor": [],
+  "director": [
+    {
+      "name": "Lucy Bailey",
+      "url": "https://www.imdb.com/name/nm1959842/"
+    },
+    {
+      "name": "Andrew Thompson",
+      "url": "https://www.imdb.com/name/nm2705182/"
+    }
+  ],
+  "creator": []
+}

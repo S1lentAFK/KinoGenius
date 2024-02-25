@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Soul Power",
+  "url": "https://www.imdb.com/tt1277736/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk0Mjk2MTc3NV5BMl5BanBnXkFtZTcwNzg0OTk1Mg@@._V1_.jpg",
+  "description": null,
+  "contentRating": "PG-13",
+  "genre": [
+    "Documentary",
+    "Music"
+  ],
+  "datePublished": "2009-07-10",
+  "keywords": "music performance,music festival,soul music,pop music,concert preparation",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Muhammad Ali",
+      "url": "https://www.imdb.com/name/nm0000738/"
+    },
+    {
+      "name": "James Brown",
+      "url": "https://www.imdb.com/name/nm0113768/"
+    },
+    {
+      "name": "Don King",
+      "url": "https://www.imdb.com/name/nm0005091/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Jeffrey Kusama-Hinte",
+      "url": "https://www.imdb.com/name/nm0506664/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stewart Levine",
+      "url": "https://www.imdb.com/name/nm9796656/"
+    }
+  ],
+  "review": {
+    "author": "jammasta-1",
+    "dateCreated": "2009-02-18",
+    "inLanguage": "English",
+    "heading": "nice piece of history",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 922,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.1
+  }
+}

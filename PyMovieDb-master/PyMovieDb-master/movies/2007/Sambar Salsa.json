@@ -1,0 +1,65 @@
+
+
+{
+  "type": "Movie",
+  "name": "Sambar Salsa",
+  "url": "https://www.imdb.com/tt0808457/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDhlYjYwM2YtMjZjYi00OTczLTkzYjAtNWM4N2M3NTI3NmQwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTA2ODYzODM.jpg",
+  "description": "A tale with ingredients of humour, romance, emotion and drama, telling the story of a Spanish girl, an Indian boy and disapproving parents, some who need little convincing and others who need a whole lot more.",
+  "review": {
+    "author": null,
+    "dateCreated": null,
+    "inLanguage": null,
+    "heading": null,
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 32,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.1
+  },
+  "contentRating": "PG",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2007-09-21",
+  "keywords": "boy",
+  "duration": "PT1H39M",
+  "actor": [
+    {
+      "name": "Rishi Kapoor",
+      "url": "https://www.imdb.com/name/nm0438501/"
+    },
+    {
+      "name": "Preyanka",
+      "url": "https://www.imdb.com/name/nm2278516/"
+    },
+    {
+      "name": "Ateesh Randev",
+      "url": "https://www.imdb.com/name/nm2277321/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Aditya Raj Kapoor",
+      "url": "https://www.imdb.com/name/nm1207480/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Aditya Raj Kapoor",
+      "url": "https://www.imdb.com/name/nm1207480/"
+    },
+    {
+      "name": "Vasanti Sundaram",
+      "url": "https://www.imdb.com/name/nm2276965/"
+    }
+  ]
+}

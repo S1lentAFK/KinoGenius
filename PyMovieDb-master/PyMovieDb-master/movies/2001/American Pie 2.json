@@ -1,0 +1,64 @@
+
+
+{
+  "type": "Movie",
+  "name": "American Pie 2",
+  "url": "https://www.imdb.com/tt0252866/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTEyYjhiMjYtNjU3YS00NmQ4LTlhNTEtYTczNWY3MGJmNzE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "Jim and his friends are now in college, and they decide to meet up at the beach house for some fun.",
+  "review": {
+    "author": "stamper",
+    "dateCreated": "2001-12-02",
+    "inLanguage": "English",
+    "heading": "Not as flat as some may think",
+    "reviewBody": "First of all, this is (of course) a film for people who want to laugh (mainly at others screwing up). Especially Jim (Jason Biggs) seems to get himself in the most embarrassing situations over and over again. But there are other funny moments too, with the Stifmeister (Sean William Scott), Ozzy (Chris Klein), Kev (Thomas Ian Nicholas) and Finchy (Eddie Kaye Thomas). Mainly the film is about what moves people my age and any other age most, the opposite sex. All that obsessing and wondering about the other (does he / she like me, do I love him / her?) is really greatly portrayed and realistic. Of course the people in the film are all not too shabby looking and there are some sick and perverted moments in the film, but you really have to look at the bigger picture. You have to look past the objectification of women, the booze and the parties. You have to look past that &apos;every guy&apos;s &apos;perfect summer&apos; and see that this film is not about sex, it is not about being sexy and cool. This film is about being whoever you are, being true to yourself and your friends, but most of all it is about love. I mean the latter thing may not be true for all characters in the film (e.g. Steve Stifler), but it sure concerns the &apos;main characters&apos; life (Jimbo&apos;s life). The rest of the film is however pure fun and freedom, that any college student hopes to get. I sure hope my first summer of being in college will rock like that. Can&apos;t wait to see the sequel. And again, I do not think I have to force someone to make a sequel.\\n\\n8 out of 10\\n\\nNote: this review has been amended to remove some sexist comments I included at the time. Apologies for any offence caused. I was young and stupid at the time, thinking I was being &apos;cool&apos;.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 268734,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.4
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy"
+  ],
+  "datePublished": "2001-10-12",
+  "keywords": "college student,female nudity,masturbation,caught having sex,female masturbation",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Jason Biggs",
+      "url": "https://www.imdb.com/name/nm0004755/"
+    },
+    {
+      "name": "Seann William Scott",
+      "url": "https://www.imdb.com/name/nm0005405/"
+    },
+    {
+      "name": "Shannon Elizabeth",
+      "url": "https://www.imdb.com/name/nm0002436/"
+    }
+  ],
+  "director": [
+    {
+      "name": "J.B. Rogers",
+      "url": "https://www.imdb.com/name/nm0736930/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Adam Herz",
+      "url": "https://www.imdb.com/name/nm0381221/"
+    },
+    {
+      "name": "David H. Steinberg",
+      "url": "https://www.imdb.com/name/nm0825738/"
+    }
+  ]
+}

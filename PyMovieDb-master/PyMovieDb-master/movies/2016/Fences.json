@@ -1,0 +1,60 @@
+
+
+{
+  "type": "Movie",
+  "name": "Fences",
+  "url": "https://www.imdb.com/tt2671706/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTg0Nzc1NjA0MV5BMl5BanBnXkFtZTgwNTcyNDQ0MDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "KingKongKyle",
+    "dateCreated": "2016-12-25",
+    "inLanguage": "English",
+    "heading": "Fences Is 2016's Most Well-Acted Film",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 117086,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama"
+  ],
+  "datePublished": "2017-02-10",
+  "keywords": "stubborn old man,god complex,daughter,adopted child,adultery",
+  "duration": "PT2H19M",
+  "actor": [
+    {
+      "name": "Denzel Washington",
+      "url": "https://www.imdb.com/name/nm0000243/"
+    },
+    {
+      "name": "Viola Davis",
+      "url": "https://www.imdb.com/name/nm0205626/"
+    },
+    {
+      "name": "Stephen McKinley Henderson",
+      "url": "https://www.imdb.com/name/nm0376610/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Denzel Washington",
+      "url": "https://www.imdb.com/name/nm0000243/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "August Wilson",
+      "url": "https://www.imdb.com/name/nm0933025/"
+    }
+  ]
+}

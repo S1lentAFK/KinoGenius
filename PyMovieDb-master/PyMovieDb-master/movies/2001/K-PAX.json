@@ -1,0 +1,72 @@
+
+
+{
+  "type": "Movie",
+  "name": "K-PAX",
+  "url": "https://www.imdb.com/tt0272152/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjE2Mjc4Y2EtN2QyNy00YTI5LWFlMjUtYjkwOTdhYTliMTliXkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_.jpg",
+  "description": "PROT is a patient at a mental hospital who claims to be from a faraway planet named K-PAX. His psychiatrist tries to help him, only to begin to doubt his own explanations.",
+  "review": {
+    "author": "Mcnabbbeasty",
+    "dateCreated": "2020-10-27",
+    "inLanguage": "English",
+    "heading": "Criminally Underrated Gem",
+    "reviewBody": "K-Pax is such a refreshing watch, especially in 2020 you can really appreciate how quiet and subtle the atmosphere throughout the entire film is. No shootings, explosions, CGI alien scenes, or any sense of common Hollywood allure. This is truly a hidden gem, maybe because it was mis-marketed pre release as a comedy, and although it has it&apos;s humorous touch in no way should it be considered a comedy. K-Pax is an extremely thought provoking Sci-Fi/Drama and Kevin Spacey was spectacular as the lead in whoever you want to interpret his character Prot to be (mentally deranged human or alien from planet K-Pax). I genuinely can&apos;t think of a better fit to be lead of this highly under appreciated 2001 motion picture. K-Pax is a supremely enjoyable cinematic experience.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 192205,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "12",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "datePublished": "2002-04-12",
+  "keywords": [
+    "extraterrestrial",
+    "science",
+    "alien",
+    "planet",
+    "patient"
+  ],
+  "duration": "PT2H",
+  "actor": [
+    {
+      "name": "Kevin Spacey",
+      "url": "https://www.imdb.com/name/nm0000228/"
+    },
+    {
+      "name": "Jeff Bridges",
+      "url": "https://www.imdb.com/name/nm0000313/"
+    },
+    {
+      "name": "Mary McCormack",
+      "url": "https://www.imdb.com/name/nm0005203/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Iain Softley",
+      "url": "https://www.imdb.com/name/nm0812200/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Gene Brewer",
+      "url": "https://www.imdb.com/name/nm0108150/"
+    },
+    {
+      "name": "Charles Leavitt",
+      "url": "https://www.imdb.com/name/nm0495378/"
+    }
+  ]
+}

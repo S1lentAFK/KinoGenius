@@ -1,0 +1,66 @@
+
+
+{
+  "type": "Movie",
+  "name": "Mongol",
+  "url": "https://www.imdb.com/tt0416044/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODlhNTk4ODYtOThlMy00N2E1LThkZDktZjZlMjE1YjM3YTgwL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "description": "The story recounts the early life of Genghis Khan who was a slave before going on to conquer half the world in 1206.",
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Biography",
+    "Drama"
+  ],
+  "datePublished": "2008-06-06",
+  "keywords": "genghis khan,mongolia,12th century,slave,warlord",
+  "duration": "PT2H6M",
+  "actor": [
+    {
+      "name": "Tadanobu Asano",
+      "url": "https://www.imdb.com/name/nm0038355/"
+    },
+    {
+      "name": "Amadu Mamadakov",
+      "url": "https://www.imdb.com/name/nm1213449/"
+    },
+    {
+      "name": "Khulan Chuluun",
+      "url": "https://www.imdb.com/name/nm2153444/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sergei Bodrov",
+      "url": "https://www.imdb.com/name/nm0091076/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Arif Aliev",
+      "url": "https://www.imdb.com/name/nm0019732/"
+    },
+    {
+      "name": "Sergei Bodrov",
+      "url": "https://www.imdb.com/name/nm0091076/"
+    }
+  ],
+  "review": {
+    "author": "LaurieDuncan",
+    "dateCreated": "2007-09-11",
+    "inLanguage": "English",
+    "heading": "Great film",
+    "reviewBody": "I saw this last week at the Toronto film festival and loved it. Many of the people in my group did not want to see it because they were not interested in the subject matter and ended up loving the film. It seemed to be the overall favorite of the group (we saw 12 films in Toronto). There is a fair amount of blood so if one is bothered by violence, you may not enjoy it. In some ways it reminded me of Braveheart because you learned about the history, but there was also beautiful cinematography, landscapes, and very well done battle scenes. This film could possibly be in the running for the best foreign film Oscar.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 48890,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.2
+  }
+}

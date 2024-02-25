@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "And So It Goes",
+  "url": "https://www.imdb.com/tt2465146/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUwNDAwODY2MF5BMl5BanBnXkFtZTgwMDI2MTUxMjE@._V1_.jpg",
+  "description": "A self-absorbed realtor enlists the help of his neighbor when he's suddenly left in charge of the granddaughter he never knew existed until his estranged son drops her off at his home.",
+  "review": {
+    "author": "tavm",
+    "dateCreated": "2015-03-19",
+    "inLanguage": "English",
+    "heading": "And So It Goes was a pretty entertaining dramady starring Michael Douglas and Diane Keaton",
+    "reviewBody": "Just watched this with my mom on a Netflix disc. We both enjoyed this mostly leisurely humorous look at a couple of older leads-Michael Douglas and Diane Keaton-coping with the loss of their spouses while also dealing with one selling his former home as a realtor (Douglas), one trying to not get too depressed while performing songs on stage (Keaton), and both dealing with a young girl-Douglas' son's offspring whose father is about to go to jail for a crime he didn't commit-staying in the grassy retreat neighborhood they live next door in. I'll just now say this was quite humorous and touching if not hilarious or too dramatic. Director Rob Reiner gives a nice measured pace throughout and appears himself as Keaton's pianist accompanist with an obvious bad hair job! I also liked Frances Sternhagen as Michael's fellow real estate work mate, and that girl played by Sterling Jerins. So on that note, And So It Goes is worth a look.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 15188,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.9
+  },
+  "contentRating": "12",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2014-07-18",
+  "keywords": "cell phone video,aerial camera shot,woman wears eyeglasses,detached house,estrangement",
+  "duration": "PT1H34M",
+  "actor": [
+    {
+      "name": "Michael Douglas",
+      "url": "https://www.imdb.com/name/nm0000140/"
+    },
+    {
+      "name": "Diane Keaton",
+      "url": "https://www.imdb.com/name/nm0000473/"
+    },
+    {
+      "name": "Sterling Jerins",
+      "url": "https://www.imdb.com/name/nm3606106/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Rob Reiner",
+      "url": "https://www.imdb.com/name/nm0001661/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Mark Andrus",
+      "url": "https://www.imdb.com/name/nm0029125/"
+    }
+  ]
+}

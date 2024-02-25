@@ -1,0 +1,68 @@
+
+
+{
+  "type": "Movie",
+  "name": "High School Musical 3: Senior Year",
+  "url": "https://www.imdb.com/tt0962726/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDE1NjU2NTMyNV5BMl5BanBnXkFtZTcwMTg3NDA3MQ@@._V1_.jpg",
+  "description": "As seniors in high school, Troy and Gabriella struggle with the idea of being separated from one another as college approaches. Along with the rest of the Wildcats, they stage a spring musical to address their experiences, hopes and fears about their future.",
+  "contentRating": "U",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "datePublished": "2008-10-22",
+  "keywords": [
+    "disney acid sequence",
+    "slimehouse",
+    "dance music",
+    "pop music",
+    "reference to the wizard of oz"
+  ],
+  "duration": "PT1H52M",
+  "actor": [
+    {
+      "name": "Zac Efron",
+      "url": "https://www.imdb.com/name/nm1374980/"
+    },
+    {
+      "name": "Vanessa Hudgens",
+      "url": "https://www.imdb.com/name/nm1227814/"
+    },
+    {
+      "name": "Ashley Tisdale",
+      "url": "https://www.imdb.com/name/nm0864308/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Kenny Ortega",
+      "url": "https://www.imdb.com/name/nm0650905/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Peter Barsocchini",
+      "url": "https://www.imdb.com/name/nm0058302/"
+    }
+  ],
+  "review": {
+    "author": "DarkVulcan29",
+    "dateCreated": "2008-11-02",
+    "inLanguage": "English",
+    "heading": "Only good for the singing and dancing.",
+    "reviewBody": "Because the rest of it is pretty forgetful, not to mention in High School Musical 1 and 2 it was an ensemble, but in the third time around, it is downsized to three of the main characters, Troy(Zak Effron), Gabriella(Vanessa Hudgens), and Sharpay(Ashley Tisdale). The rest, Chad(Corbin Bleau), and Ryan(Lucas Grabeel), I felt did not have much to work with, they where in and out for the most part.\\n\\nBut it did have amazing dance numbers and had great songs, like the first two did, but Effron, Hudgens, and Tisdale just keep repeating themselves. It's entertaining at times dragging. I'll bet the cast is ready to move on after this one, I could see it on most of there faces. It was alright, but not exciting and energetic has the first two.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 67027,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5
+  }
+}

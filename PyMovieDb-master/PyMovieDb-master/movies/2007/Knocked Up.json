@@ -1,0 +1,61 @@
+
+
+{
+  "type": "Movie",
+  "name": "Knocked Up",
+  "url": "https://www.imdb.com/tt0478311/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2MwZTVlZGYtMjIxOS00YmYzLTg0Y2ItNDc5OWY1ZDZlMWVlXkEyXkFqcGdeQXVyNTA4NzY1MzY._V1_.jpg",
+  "description": "For fun-loving party animal Ben Stone, the last thing he ever expected was for his one-night stand to show up on his doorstep eight weeks later to tell him she's pregnant with his child.",
+  "review": {
+    "author": "Vic_max",
+    "dateCreated": "2008-12-21",
+    "inLanguage": "English",
+    "heading": "Clever Writing ....",
+    "reviewBody": "Although the subject matter wasn't really appealing to me, the critics and general audience reviews are right: this is a very well made movie. The acting is great, the plot fast-paced, the characters believable and the dialog witty and clever. It reminds me of Superbad - another movie that I would never normally see, but one which wins you over by it's sheer (albeit crude) brilliance.\n\nThe basic premise is simple: a young TV reporter celebrates a promotion by getting drunk and inadvertently pregnant. The father-to-be is a good natured, pot-head slacker who has no money. When she decides to have the baby, she's not sure what her relationship with the father should be... and the movie progresses from there.\n\nIt's a simple plot but the dialog is what makes this movie shine. No matter the scene, it was always fun to hear what the characters were going to say. Even though most of them were one-dimensional, the dialog made them seem human and easy to relate to. A fast-movie plot also kept the movie moving along - something was always happening and there was never a dull moment.\n\nWhile there is a certain level of crudity throughout, the movie is generally lighthearted and innocent. It's a fun movie to see.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 382809,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.9
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "datePublished": "2007-08-24",
+  "keywords": "one night stand,unplanned pregnancy,female frontal nudity,slacker,female nudity",
+  "duration": "PT2H9M",
+  "actor": [
+    {
+      "name": "Seth Rogen",
+      "url": "https://www.imdb.com/name/nm0736622/"
+    },
+    {
+      "name": "Katherine Heigl",
+      "url": "https://www.imdb.com/name/nm0001337/"
+    },
+    {
+      "name": "Paul Rudd",
+      "url": "https://www.imdb.com/name/nm0748620/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Judd Apatow",
+      "url": "https://www.imdb.com/name/nm0031976/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Judd Apatow",
+      "url": "https://www.imdb.com/name/nm0031976/"
+    }
+  ]
+}

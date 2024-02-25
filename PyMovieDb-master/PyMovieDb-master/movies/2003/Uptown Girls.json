@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Uptown Girls",
+  "url": "https://www.imdb.com/tt0263757/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODk0ODI2MTk1N15BMl5BanBnXkFtZTcwODg3Mjg3NA@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "cherold",
+    "dateCreated": "2005-05-30",
+    "inLanguage": "English",
+    "heading": "funny and affecting though manipulative and sappy",
+    "reviewBody": "Rich girl loses all her money and has to be a nanny for an uptight brat; it certainly sounds like a bad movie in the making. But actually I quite enjoyed this one. The stars are appealing, a lot of the scenes are quite funny and even though the movie is predictable and maudlin it does have scenes with a genuine emotional impact. With a script that has some intelligence and nuance and actresses who bring sincerity and belief to rather clich\u00e9d characters (child-woman and woman-child, essentially), this movie winds up being far better than it has a right to be. I feel like I have to make excuses for liking it, because it is kind of dumb, but I really very much enjoyed it.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 42574,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2004-03-05",
+  "keywords": "nanny,maturity,precocious child,growing up,black and white oxford saddle shoes",
+  "duration": "PT1H32M",
+  "actor": [
+    {
+      "name": "Brittany Murphy",
+      "url": "https://www.imdb.com/name/nm0005261/"
+    },
+    {
+      "name": "Dakota Fanning",
+      "url": "https://www.imdb.com/name/nm0266824/"
+    },
+    {
+      "name": "Heather Locklear",
+      "url": "https://www.imdb.com/name/nm0000181/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Boaz Yakin",
+      "url": "https://www.imdb.com/name/nm0945026/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Julie Margaret Hogben",
+      "url": "https://www.imdb.com/name/nm0196932/"
+    },
+    {
+      "name": "Mo Ogrodnik",
+      "url": "https://www.imdb.com/name/nm0644806/"
+    },
+    {
+      "name": "Lisa Davidowitz",
+      "url": "https://www.imdb.com/name/nm0203183/"
+    }
+  ]
+}

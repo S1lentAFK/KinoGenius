@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Dear White People",
+  "url": "https://www.imdb.com/tt2235108/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMzMjc5MjIzNV5BMl5BanBnXkFtZTgwNTY4OTQ2MjE@._V1_.jpg",
+  "description": null,
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2015-07-10",
+  "keywords": "race relations,satire,ivy league university,controversy,election",
+  "duration": "PT1H48M",
+  "rating": {
+    "ratingCount": 26474,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.2
+  },
+  "review": {
+    "author": "MovieSonic",
+    "dateCreated": "2015-01-14",
+    "inLanguage": "English",
+    "heading": "I wanted to love this but....",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "actor": [
+    {
+      "name": "Tyler James Williams",
+      "url": "https://www.imdb.com/name/nm1927701/"
+    },
+    {
+      "name": "Tessa Thompson",
+      "url": "https://www.imdb.com/name/nm1935086/"
+    },
+    {
+      "name": "Kyle Gallner",
+      "url": "https://www.imdb.com/name/nm0973177/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Justin Simien",
+      "url": "https://www.imdb.com/name/nm2282177/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Justin Simien",
+      "url": "https://www.imdb.com/name/nm2282177/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Your Sister's Sister",
+  "url": "https://www.imdb.com/tt1742336/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNjkxOTkyN15BMl5BanBnXkFtZTcwNzg3MTk2Nw@@._V1_.jpg",
+  "description": "Iris invites her friend Jack to stay at her family's island getaway after his brother's death. Jack's drunken encounter with Iris' sister Hannah at their remote cabin kicks off a revealing stretch of days.",
+  "review": {
+    "author": "JimmyCollins",
+    "dateCreated": "2012-09-15",
+    "inLanguage": "English",
+    "heading": "A real treat for cinema-goers.",
+    "reviewBody": "This movie is a real treat to watch, i saw it on a rainy afternoon, alone, at my local cinema, it was pretty quiet, but I must say I think it added to my enjoyment, watching it alone almost made me feel as though I was a fly on the wall in this little cottage with three others and all the goings on. The story is rather sweet, not much really big happens, it's a bit of a slow burner but sometimes that's what you need, but in saying that it is actually a rather complicated story, it's just written and directed quite simply so it's easy and a pleasure to watch. Mark Duplass is not an actor I have seen before, but he has a nice presence on screen, Emily Blunt is her usual exceptional self, but it's Rosemarie Dewitt who steals the show I think, she has plenty of great scenes and she handles her difficult and really not that likable character very well, most of the things I've seen her in she has been good, she seems like a very natural actress, I do hope that she gets a little more recognition and she is cast in more well known films.\\n\\nI was surprised to find out that a lot of the film was improvised, the story seemed like it would have been one where things were planned out, but then at the same time I guess it is a film which would quite easily be improvised, and knowing that makes the actors performances even better, it's a crime films like this go somewhat unnoticed, because in my opinion I think Dewitt delivers an award worthy performance, but sometimes it's a movie being small and unknown which makes it special.\\n\\nIt's funny, it's touching, it's dramatic, it's everything an indie film lover would enjoy in a movie, I really do highly recommend you catch this movie while you can, it's a real charmer.\\n\\nI hope you guys enjoy it. :)",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 28324,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.7
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2012-06-29",
+  "keywords": "title directed by female,tequila,f rated,drunken sex,forest",
+  "duration": "PT1H30M",
+  "actor": [
+    {
+      "name": "Mark Duplass",
+      "url": "https://www.imdb.com/name/nm0243233/"
+    },
+    {
+      "name": "Emily Blunt",
+      "url": "https://www.imdb.com/name/nm1289434/"
+    },
+    {
+      "name": "Rosemarie DeWitt",
+      "url": "https://www.imdb.com/name/nm1679669/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Lynn Shelton",
+      "url": "https://www.imdb.com/name/nm1119645/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lynn Shelton",
+      "url": "https://www.imdb.com/name/nm1119645/"
+    }
+  ]
+}

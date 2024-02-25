@@ -1,0 +1,70 @@
+
+
+{
+  "type": "Movie",
+  "name": "Expelled: No Intelligence Allowed",
+  "url": "https://www.imdb.com/tt1091617/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY0ODIzMDAxOV5BMl5BanBnXkFtZTcwMTc0MDk2MQ@@._V1_.jpg",
+  "description": "Ben Stein examines the issue of academic freedom and decides that there is none when it comes to the debate over intelligent design.",
+  "contentRating": "PG",
+  "genre": [
+    "Documentary"
+  ],
+  "datePublished": "2008-04-18",
+  "duration": "PT1H37M",
+  "keywords": "darwinism,evolution,cutting oneself with one's fingernails,propaganda,creationism",
+  "rating": {
+    "ratingCount": 12180,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.7
+  },
+  "review": {
+    "author": "jonchristopher",
+    "dateCreated": "2008-04-21",
+    "inLanguage": "English",
+    "heading": "Silly me for thinking this might actually be good...",
+    "reviewBody": "Since reviews of this film are pretty much split right down the political divide, I suppose I should stress that I'm neither a Christian nor an atheist (although you might call me a curious agnostic who usually votes Republican), and have no emotional stake in ID or evolution. I WANTED this film to be interesting, enlightening and thought provoking. Sadly, it wasn't. I hoped that there would be intelligent arguments presented from both sides. There weren't ANY from either side. People keep mentioning that the main point of the film is a defense of academic freedom, not to prove ID or disprove Darwinism. But its 'defense' of academic freedom was every bit as contemptuous towards evolutionary science as is the behavior of the current scientific community towards ID. Are we really to believe that if the roles were flipped and intelligent design were the predominant ideology taught in classrooms, that ID supporters would allow Darwinists equal time? Just look at the reactions given by the comments being posted on this forum by people who, miraculously, found this film to be praiseworthy. ID supporters, like all ideologues, want equal time only until they achieve power. Perhaps evolutionists are the same way, though one of the examples of 'discrimination' given in this film has already been proved false. A waste of a fascinating topic, a waste of time, a waste of money. If this kind of film making is the fruit of Michael Moore's legacy, then he and Stein both should be shot for crimes against cinema.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 2
+    }
+  },
+  "rating": {
+    "ratingCount": 12180,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.7
+  },
+  "actor": [
+    {
+      "name": "Ben Stein",
+      "url": "https://www.imdb.com/name/nm0825401/"
+    },
+    {
+      "name": "Lili Asvar",
+      "url": "https://www.imdb.com/name/nm3083388/"
+    },
+    {
+      "name": "Peter Atkins",
+      "url": "https://www.imdb.com/name/nm3015043/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Nathan Frankowski",
+      "url": "https://www.imdb.com/name/nm2021984/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Kevin Miller",
+      "url": "https://www.imdb.com/name/nm1939777/"
+    },
+    {
+      "name": "Ben Stein",
+      "url": "https://www.imdb.com/name/nm0825401/"
+    }
+  ]
+}

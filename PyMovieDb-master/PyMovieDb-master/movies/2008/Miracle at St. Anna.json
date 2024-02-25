@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "Miracle at St. Anna",
+  "url": "https://www.imdb.com/tt1046997/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIyNjIwOTI1MF5BMl5BanBnXkFtZTcwMTQ1NTU3MQ@@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Quinoa1984",
+    "dateCreated": "2008-09-27",
+    "inLanguage": "English",
+    "heading": "the best of Spike Lee&apos;s misfires - it&apos;s not a good movie, but it&apos;s too passionate and powerful to call really &apos;bad&apos;",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 5
+    }
+  },
+  "rating": {
+    "ratingCount": 19133,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "15",
+  "genre": [
+    "Action",
+    "Drama",
+    "War"
+  ],
+  "datePublished": "2008-09-26",
+  "keywords": "year 1984,partisan,behind enemy lines,african american,reference to muhammad ali",
+  "duration": "PT2H40M",
+  "actor": [
+    {
+      "name": "Derek Luke",
+      "url": "https://www.imdb.com/name/nm1035682/"
+    },
+    {
+      "name": "Michael Ealy",
+      "url": "https://www.imdb.com/name/nm1013003/"
+    },
+    {
+      "name": "Laz Alonso",
+      "url": "https://www.imdb.com/name/nm0022306/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Spike Lee",
+      "url": "https://www.imdb.com/name/nm0000490/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "James McBride",
+      "url": "https://www.imdb.com/name/nm2678286/"
+    }
+  ]
+}

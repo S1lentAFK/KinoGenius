@@ -1,0 +1,74 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Uninvited",
+  "url": "https://www.imdb.com/tt0815245/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTY0OTc3OTkyNV5BMl5BanBnXkFtZTcwMTg4Nzc5MQ@@._V1_.jpg",
+  "description": "Anna returns home after a stint in a mental hospital, but her recovery is jeopardized by her father's new girlfriend and ghastly visions of her dead mother.",
+  "review": {
+    "author": "stjoeswebmania",
+    "dateCreated": "2009-01-28",
+    "inLanguage": "English",
+    "heading": "Surprisingly Good",
+    "reviewBody": "A lot of people seem to be judging this movie by the trailer alone, but I was lucky enough to see an advance screening today, and I have to say that the movie was not what I expected. Sure, some of the obvious plot points in the trailer are there, but overall, the movie was really quite good. Suspenseful, scary at the right moments, with a hint of a flavor you don't see in most movies. \n\nI'm not going to say much about it, but take my word for it that I thought it was really well done. It's not perfect, but it definitely does well for itself. Don't just judge a book by its cover, nor a movie simply by its trailer.\n\nYes, it may be a remake, but it's a good remake. I give it: 8/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 84685,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.3
+  },
+  "contentRating": "15",
+  "genre": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+  ],
+  "datePublished": "2009-04-24",
+  "keywords": "daughter hates father's girlfriend,vibrator,nurse,boathouse,slit wrists",
+  "duration": "PT1H27M",
+  "actor": [
+    {
+      "name": "Emily Browning",
+      "url": "https://www.imdb.com/name/nm0115161/"
+    },
+    {
+      "name": "Arielle Kebbel",
+      "url": "https://www.imdb.com/name/nm0444223/"
+    },
+    {
+      "name": "Elizabeth Banks",
+      "url": "https://www.imdb.com/name/nm0006969/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Charles Guard",
+      "url": "https://www.imdb.com/name/nm0345294/"
+    },
+    {
+      "name": "Thomas Guard",
+      "url": "https://www.imdb.com/name/nm0345307/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Craig Rosenberg",
+      "url": "https://www.imdb.com/name/nm0742194/"
+    },
+    {
+      "name": "Doug Miro",
+      "url": "https://www.imdb.com/name/nm1215164/"
+    },
+    {
+      "name": "Carlo Bernard",
+      "url": "https://www.imdb.com/name/nm0076166/"
+    }
+  ]
+}

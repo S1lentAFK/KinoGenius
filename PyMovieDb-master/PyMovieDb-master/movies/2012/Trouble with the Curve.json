@@ -1,0 +1,67 @@
+
+
+{
+  "type": "Movie",
+  "name": "Trouble with the Curve",
+  "url": "https://www.imdb.com/tt2083383/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUwNjMyMzQ3M15BMl5BanBnXkFtZTcwMjcwNDMyOA@@._V1_.jpg",
+  "description": "A daughter tries to remedy her dysfunctional relationship with her ailing father, a decorated baseball scout, by helping him in a recruiting trip which could be his last.",
+  "review": {
+    "author": "BigBudde",
+    "dateCreated": "2012-09-20",
+    "inLanguage": "English",
+    "heading": "Great Drama",
+    "reviewBody": "A great film for sports fans and non sports fans alike. Great drama and acting by Clint Eastwood and Amy Adams. They really make a believable father and daughter. Justin Timberlake was also good as a washed up pitcher turned baseball scout. It follows a story of a baseball scout (Eastwood) who is getting towards the end of his career, and scouting the potential number one pick for the Atlanta Braves. Eastwood is definitely getting up there but he can still act and plays this part perfectly. The film moves along good, and is enjoyable from start to finish. It has laughs, drams and some romance. Great for a couple or for the family. An added bonus if you're a baseball fan. 8/10.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 68046,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.8
+  },
+  "contentRating": "12A",
+  "genre": [
+    "Drama",
+    "Sport"
+  ],
+  "datePublished": "2012-11-30",
+  "keywords": [
+    "baseball",
+    "baseball game",
+    "kiss on the lips",
+    "romantic kiss",
+    "jumping into water"
+  ],
+  "duration": "PT1H51M",
+  "actor": [
+    {
+      "name": "Clint Eastwood",
+      "url": "https://www.imdb.com/name/nm0000142/"
+    },
+    {
+      "name": "Amy Adams",
+      "url": "https://www.imdb.com/name/nm0010736/"
+    },
+    {
+      "name": "John Goodman",
+      "url": "https://www.imdb.com/name/nm0000422/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Robert Lorenz",
+      "url": "https://www.imdb.com/name/nm0520749/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Randy Brown",
+      "url": "https://www.imdb.com/name/nm4720384/"
+    }
+  ]
+}

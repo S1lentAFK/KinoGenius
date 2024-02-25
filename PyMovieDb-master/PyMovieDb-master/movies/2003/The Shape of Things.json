@@ -1,0 +1,62 @@
+
+
+{
+  "type": "Movie",
+  "name": "The Shape of Things",
+  "url": "https://www.imdb.com/tt0308878/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzk2ODYxMjAzOV5BMl5BanBnXkFtZTgwMjIwNDgxMDI@._V1_.jpg",
+  "description": "A quiet, unassuming man begins to change in a major way as a result of meeting a new, art-student girlfriend, and his friends are unsettled by the transformation.",
+  "review": {
+    "author": "melaniehorn",
+    "dateCreated": "2003-03-15",
+    "inLanguage": "English",
+    "heading": "Like spending two hours with evil",
+    "reviewBody": "While a well done film, it's not enjoyable. There are enough mean people in the world without voluntarily subjecting yourself to another one that is the heart of this film. Rachel Weisz plays convincingly in this film as a heartless art student who subjects Paul Ruud to her talents as a sculptor of humans. The best thing about this film is Paul Ruud's subtle transformation from geek to chic. By the end of the film, you've realized how convincing his change was. However, just because a movie is well made and well acted does not mean it is worth watching. When I left this movie, I felt as if I had spent two hours in the company of evil and meanness. If you like a think piece that leaves you feeling negative, then this is the perfect movie. But if you're looking to spend your hard earned money on a movie that leaves you feeling better for having spent it, choose another flick.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 11846,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.6
+  },
+  "contentRating": "15",
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "datePublished": "2003-11-28",
+  "keywords": "manipulative person,manipulative woman,cruelty,menstrual blood,surgery",
+  "duration": "PT1H36M",
+  "actor": [
+    {
+      "name": "Paul Rudd",
+      "url": "https://www.imdb.com/name/nm0748620/"
+    },
+    {
+      "name": "Rachel Weisz",
+      "url": "https://www.imdb.com/name/nm0001838/"
+    },
+    {
+      "name": "Gretchen Mol",
+      "url": "https://www.imdb.com/name/nm0001543/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Neil LaBute",
+      "url": "https://www.imdb.com/name/nm0001438/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Neil LaBute",
+      "url": "https://www.imdb.com/name/nm0001438/"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+
+
+{
+  "type": "Movie",
+  "name": "Domestic Disturbance",
+  "url": "https://www.imdb.com/tt0249478/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGI0YTcyYTItYTA0Ni00ZTlkLWI2NTUtZWFhYmVjZGFmOGMwXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg",
+  "description": "When Danny witnesses his stepfather Rick murder a man, Danny's father Frank has to protect his son from the greatest danger.",
+  "review": {
+    "author": "homer_simpson91",
+    "dateCreated": "2001-11-11",
+    "inLanguage": "English",
+    "heading": "A good movie",
+    "reviewBody": "This movie was exactly what I expected, a typical thriller with some solid acting and a fun, though not very unpredictable, story. John Travolta is good as the hero, but it is Vince Vaughn who is especially impressive as the villain. You will find that you hate Vaughn and are really rooting for Travolta to give him what's coming to him. Steve Buscemi is excellent in his role, however short it is.\n\nMany people have commented that they did not like the ending of the movie. I didn't think it was too bad, but it did seem to be a little quick and it certainly could have been better. There were plenty of other well done and fairly intense parts in the movie, mostly because of the evilness that is Vince Vaughn.\n\nThe worst part of DOMESTIC DISTURBANCE is that it is predictable, just as many thrillers of this kind are. It didn't ruin the overall experience of the movie for me, though. It obviously wasn't a great movie, but it was an enjoyable way to spend and hour and a half. It was sure better than DON'T SAY A WORD (4/10), that's for sure. Worth checking out, especially when it is available for rent.\n\n7/10",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 28616,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "12",
+  "genre": [
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "2002-01-11",
+  "keywords": "witness,ex convict,child in jeopardy,father,son",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "John Travolta",
+      "url": "https://www.imdb.com/name/nm0000237/"
+    },
+    {
+      "name": "Nick Loren",
+      "url": "https://www.imdb.com/name/nm0520586/"
+    },
+    {
+      "name": "Matt O'Leary",
+      "url": "https://www.imdb.com/name/nm0641610/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Harold Becker",
+      "url": "https://www.imdb.com/name/nm0000887/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lewis Colick",
+      "url": "https://www.imdb.com/name/nm0171474/"
+    },
+    {
+      "name": "William S. Comanor",
+      "url": "https://www.imdb.com/name/nm0173539/"
+    },
+    {
+      "name": "Gary Drucker",
+      "url": "https://www.imdb.com/name/nm0238470/"
+    }
+  ]
+}
