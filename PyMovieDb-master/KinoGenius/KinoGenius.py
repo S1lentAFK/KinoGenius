@@ -413,13 +413,14 @@ class MovieRecommendationsWidget(customtkinter.CTkFrame):
                 poster = movie.get("poster")
                 nm = movie.get("name")
                 response_m = requests.get(poster)
-                poster_img = Image.open(BytesIO(response_m.content))
-
-                poster_img = self.round_corners(poster_img, radius=60)
-
-                pos_image = customtkinter.CTkImage(light_image=poster_img, size=(100, 150))
-                img = customtkinter.CTkLabel(recommend_frame, text="", image=pos_image)
-                img.grid(row=0, column=temp_col_mov, padx=5, pady=5)
+                try:
+                    poster_img = Image.open(BytesIO(response_m.content))
+                    poster_img = self.round_corners(poster_img, radius=60)
+                    pos_image = customtkinter.CTkImage(light_image=poster_img, size=(100, 150))
+                    img = customtkinter.CTkLabel(recommend_frame, text="", image=pos_image)
+                    img.grid(row=0, column=temp_col_mov, padx=5, pady=5)
+                except PIL.UnidentifiedImageError:
+                    pass
                 nme = customtkinter.CTkLabel(recommend_frame, text=nm)
                 nme.grid(row=1, column=temp_col_mov, padx=5, pady=5)
                 temp_col_mov += 1
