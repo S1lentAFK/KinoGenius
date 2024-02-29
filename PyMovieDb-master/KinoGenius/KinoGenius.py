@@ -59,7 +59,7 @@ Music = 0
 History = 0
 
 #MongoDB baza podataka s filmovima
-client = MongoClient("mongodb+srv://francesljas:Fran2008.@cluster0.zadaprp.mongodb.net/?retryWrites=true&w=majority")
+client = MongoClient("#")
 db = client['DBMoovies']
 moovies = db['Moovies']
 
@@ -70,7 +70,7 @@ years = ['2000','2001','2002','2003','2004','2005','2006','2007','2008','2009','
 directories = [os.path.join(base_path, year) for year in years]
 
 #Korištenje OpenAI api-a
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='#')
 
 selected_genres = []
 genre_buttons = {}
