@@ -1,0 +1,7 @@
+pymongo~=4.6.1
+customtkinter~=5.2.2
+pillow~=10.2.0
+requests~=2.31.0
+googletrans~=4.0.0rc1
+openai~=1.12.0
+fuzzywuzzy~=0.18.0

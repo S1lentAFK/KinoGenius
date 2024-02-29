@@ -19,14 +19,47 @@ import webbrowser
 import datetime
 from fuzzywuzzy import fuzz
 from tkinter import filedialog
+from collections import defaultdict
 
 prikaz = False
-
+user_id = None
 username_user = ""
 ct = 0
 
+def load_progressive_learning_status():
+    with open(r"Assets/Settings/progressive_learning_status.json", "r") as file:
+        data = json.load(file)
+        return data.get("progresivno_ucenje")
+
+
+progresivno_ucenje = load_progressive_learning_status()
+
+##Rezltat za svaki žanr
+Fantasy = 0
+Animation = 0
+Sport = 0
+Romance = 0
+Comedy = 0
+Thriller = 0
+Musical = 0
+Adventure = 0
+War = 0
+Documentary = 0
+Horror = 0
+Drama = 0
+Action = 0
+Sci_Fi = 0
+Mystery = 0
+Crime = 0
+Family = 0
+Short = 0
+Western = 0
+Biography = 0
+Music = 0
+History = 0
+
 #MongoDB baza podataka s filmovima
-client = MongoClient("#")
+client = MongoClient("mongodb+srv://francesljas:Fran2008.@cluster0.zadaprp.mongodb.net/?retryWrites=true&w=majority")
 db = client['DBMoovies']
 moovies = db['Moovies']
 
@@ -37,12 +70,26 @@ years = ['2000','2001','2002','2003','2004','2005','2006','2007','2008','2009','
 directories = [os.path.join(base_path, year) for year in years]
 
 #Korištenje OpenAI api-a
-client = OpenAI(api_key='#')
+client = OpenAI(api_key='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')
 
 selected_genres = []
 genre_buttons = {}
 recommended = []
 
+
+def switch_event():
+    global progresivno_ucenje
+    if switch_var.get() == "off":
+        progresivno_ucenje = False
+    elif switch_var.get() == "on":
+        progresivno_ucenje = True
+
+    save_progressive_learning_status({"progresivno_ucenje": progresivno_ucenje})
+
+
+def save_progressive_learning_status(data):
+    with open(r"Assets/Settings/progressive_learning_status.json", "w") as file:
+        json.dump(data, file)
 
 def destroy_all_windows_and_exit():
     for window in root.winfo_children():
@@ -73,6 +120,29 @@ def save_user_info(username, password, genres):
 #Prijava
 def login():
     global username_user
+    global user_id
+    global Fantasy
+    global Animation
+    global Sport
+    global Romance
+    global Comedy
+    global Thriller
+    global Musical
+    global Adventure
+    global War
+    global Documentary
+    global Horror
+    global Drama
+    global Action
+    global Sci_Fi
+    global Mystery
+    global Crime
+    global Family
+    global Short
+    global Western
+    global Biography
+    global Music
+    global History
     username = entry_username.get()
     password = entry_password.get()
 
@@ -85,6 +155,28 @@ def login():
             user_data = response.json()
             user_id = user_data.get('user_id')
             genres = user_data.get('genres')
+            Fantasy = user_data.get('Fantasy')
+            Animation = user_data.get('Animation')
+            Sport = user_data.get('Sport')
+            Romance = user_data.get('Romance')
+            Comedy = user_data.get('Comedy')
+            Thriller = user_data.get('Thriller')
+            Musical = user_data.get('Musical')
+            Adventure = user_data.get('Adventure')
+            War = user_data.get('War')
+            Documentary = user_data.get('Documentary')
+            Horror = user_data.get('Horror')
+            Drama = user_data.get('Drama')
+            Action = user_data.get('Action')
+            Sci_Fi = user_data.get('Sci_Fi')
+            Mystery = user_data.get('Mystery')
+            Crime = user_data.get('Crime')
+            Family = user_data.get('Family')
+            Short = user_data.get('Short')
+            Western = user_data.get('Western')
+            Biography = user_data.get('Biography')
+            Music = user_data.get('Music')
+            History = user_data.get('History')
             if user_id and genres:
                 #messagebox.showinfo("Login Successful", f"Dobordošao, User ID: {user_id}, Žanrovi: {genres}")
                 loginreg.withdraw()
@@ -104,6 +196,29 @@ def login():
 #Također prijava
 def poslogin():
     global username_user
+    global user_id
+    global Fantasy
+    global Animation
+    global Sport
+    global Romance
+    global Comedy
+    global Thriller
+    global Musical
+    global Adventure
+    global War
+    global Documentary
+    global Horror
+    global Drama
+    global Action
+    global Sci_Fi
+    global Mystery
+    global Crime
+    global Family
+    global Short
+    global Western
+    global Biography
+    global Music
+    global History
     root3.withdraw()
     username = entry_username2.get()
     password = entry_password2.get()
@@ -117,6 +232,28 @@ def poslogin():
             user_data = response.json()
             user_id = user_data.get('user_id')
             genres = user_data.get('genres')
+            Fantasy = user_data.get('Fantasy')
+            Animation = user_data.get('Animation')
+            Sport = user_data.get('Sport')
+            Romance = user_data.get('Romance')
+            Comedy = user_data.get('Comedy')
+            Thriller = user_data.get('Thriller')
+            Musical = user_data.get('Musical')
+            Adventure = user_data.get('Adventure')
+            War = user_data.get('War')
+            Documentary = user_data.get('Documentary')
+            Horror = user_data.get('Horror')
+            Drama = user_data.get('Drama')
+            Action = user_data.get('Action')
+            Sci_Fi = user_data.get('Sci_Fi')
+            Mystery = user_data.get('Mystery')
+            Crime = user_data.get('Crime')
+            Family = user_data.get('Family')
+            Short = user_data.get('Short')
+            Western = user_data.get('Western')
+            Biography = user_data.get('Biography')
+            Music = user_data.get('Music')
+            History = user_data.get('History')
             if user_id and genres:
                 #messagebox.showinfo("Login Successful", f"Dobordošao, User ID: {user_id}, Žanrovi: {genres}")
                 recommend_movies(genres)
@@ -165,6 +302,10 @@ def register():
     else:
         messagebox.showerror("Registration Failed", "Korisničko ime već postoji ili je došlo do pogreške!")
 
+def weight(user_id, genres):
+    response = requests.post("http://16.170.246.163/update", json={"user_id": user_id, "genres": genres})
+    if response.status_code == 200:
+        content = response.json()
 
 
 from PIL import Image, ImageTk
@@ -289,6 +430,7 @@ class MovieRecommendationsWidget(customtkinter.CTkFrame):
         tk_image = customtkinter.CTkImage(light_image=poster_image, size=(button_width, button_height))
 
         def show_details():
+            weight(user_id, movie_genres)
             root3.withdraw()
             toplevel = customtkinter.CTkToplevel(self.master)
             toplevel.title(movie_name)
@@ -495,15 +637,34 @@ class MovieRecommendationsWidget(customtkinter.CTkFrame):
 def recommend_movies_and_display(user_genres, offset=0, count=5):
     all_movies = load_movies()
     matching_movies = [movie for movie in all_movies if any(genre in movie["genre"] for genre in user_genres)]
-    sorted_movies = sorted(matching_movies, key=lambda x: x["rating"]["ratingValue"] if x["rating"]["ratingValue"] is not None else 0, reverse=True)
-    top_movies = sorted_movies[offset:offset+count]
 
-    for movie in top_movies:
-        if movie["name"] in recommended:
-            pass
-        else:
-            movie_recommendations_widget = MovieRecommendationsWidget(movie_frame, movie)
-            movie_recommendations_widget.pack(fill="both", expand=True, pady=12, padx=15)
+    if progresivno_ucenje:
+        sorted_movies = sorted(matching_movies, key=lambda x: calculate_movie_score(x), reverse=True)
+        top_movies = sorted_movies[offset:offset + count]
+
+        for movie in top_movies:
+            if movie["name"] in recommended:
+                pass
+            else:
+                movie_recommendations_widget = MovieRecommendationsWidget(movie_frame, movie)
+                movie_recommendations_widget.pack(fill="both", expand=True, pady=12, padx=15)
+    elif progresivno_ucenje == False:
+        sorted_movies = sorted(matching_movies, key=lambda x: x["rating"]["ratingValue"] if x["rating"]["ratingValue"] is not None else 0, reverse=True)
+        top_movies = sorted_movies[offset:offset+count]
+
+        for movie in top_movies:
+            if movie["name"] in recommended:
+                pass
+            else:
+                movie_recommendations_widget = MovieRecommendationsWidget(movie_frame, movie)
+                movie_recommendations_widget.pack(fill="both", expand=True, pady=12, padx=15)
+
+def calculate_movie_score(movie):
+    score = 0
+    for genre in movie["genre"]:
+        genre_score = globals().get(genre, 0)
+        score += genre_score
+    return score
 
 #funkcija služi za pozivanje prošle i za sakrivanje glavnog prozora
 def recommend_movies(user_genres):
@@ -665,7 +826,8 @@ def show_movie_details(movie):
     movie_date = movie.get("datePublished")
     movie_description = movie.get("description")
     movie_content_rating = movie.get("contentRating")
-    more_rec_movies = moovies.aggregate([{'$sample': {'size': 4}}])
+
+    weight(user_id, movie_genres)
 
     urls_directors = movie_directors_urls.split(", ")
     urls_actors = movie_actors_urls.split(", ")
@@ -909,12 +1071,55 @@ def round_corners(image, radius):
 
 #dio funkcija koje služe za postavljanje profila
 def select_and_send_genres(user_id, genres):
+    global Fantasy
+    global Animation
+    global Sport
+    global Romance
+    global Comedy
+    global Thriller
+    global Musical
+    global Adventure
+    global War
+    global Documentary
+    global Horror
+    global Drama
+    global Action
+    global Sci_Fi
+    global Mystery
+    global Crime
+    global Family
+    global Short
+    global Western
+    global Biography
+    global Music
+    global History
     response = requests.post("http://16.170.246.163/update_genres", json={"user_id": user_id, "genres": genres})
 
     try:
         response_data = response.json()
         if response_data.get("user_id") and response_data.get("genres"):
-            pass
+            Fantasy = response_data.get('Fantasy')
+            Animation = response_data.get('Animation')
+            Sport = response_data.get('Sport')
+            Romance = response_data.get('Romance')
+            Comedy = response_data.get('Comedy')
+            Thriller = response_data.get('Thriller')
+            Musical = response_data.get('Musical')
+            Adventure = response_data.get('Adventure')
+            War = response_data.get('War')
+            Documentary = response_data.get('Documentary')
+            Horror = response_data.get('Horror')
+            Drama = response_data.get('Drama')
+            Action = response_data.get('Action')
+            Sci_Fi = response_data.get('Sci_Fi')
+            Mystery = response_data.get('Mystery')
+            Crime = response_data.get('Crime')
+            Family = response_data.get('Family')
+            Short = response_data.get('Short')
+            Western = response_data.get('Western')
+            Biography = response_data.get('Biography')
+            Music = response_data.get('Music')
+            History = response_data.get('History')
             #messagebox.showinfo("Genres Updated", f"Žanrovi uspješno obnovljeni. User ID: {response_data['user_id']}, Žanrovi: {response_data['genres']}")
         else:
             messagebox.showerror("Update Failed", "Neispravan odgovor servera!")
@@ -1027,6 +1232,8 @@ customtkinter.set_appearance_mode("dark")
 customtkinter.set_default_color_theme("dark-blue")
 customtkinter.deactivate_automatic_dpi_awareness()
 root.protocol("WM_DELETE_WINDOW", destroy_all_windows_and_exit)
+
+switch_var = customtkinter.StringVar(value="on")
 
 loginreg = customtkinter.CTkToplevel(root)
 loginreg.title("login/registracija")
@@ -1156,6 +1363,31 @@ def create_button_for_json(file_path, column):
 
 #ulogiravanje izabranog korisnika
 def login_with_credentials(username, password):
+    global user_id  # Declare user_id as a global variable within the function
+    global username_user
+    global user_id
+    global Fantasy
+    global Animation
+    global Sport
+    global Romance
+    global Comedy
+    global Thriller
+    global Musical
+    global Adventure
+    global War
+    global Documentary
+    global Horror
+    global Drama
+    global Action
+    global Sci_Fi
+    global Mystery
+    global Crime
+    global Family
+    global Short
+    global Western
+    global Biography
+    global Music
+    global History
 
     root2.withdraw()
     response = requests.post("http://16.170.246.163/login", json={"username": username, "password": password})
@@ -1165,8 +1397,31 @@ def login_with_credentials(username, password):
             user_data = response.json()
             user_id = user_data.get('user_id')
             genres = user_data.get('genres')
+            Fantasy = user_data.get('Fantasy')
+            Animation = user_data.get('Animation')
+            Sport = user_data.get('Sport')
+            Romance = user_data.get('Romance')
+            Comedy = user_data.get('Comedy')
+            Thriller = user_data.get('Thriller')
+            Musical = user_data.get('Musical')
+            Adventure = user_data.get('Adventure')
+            War = user_data.get('War')
+            Documentary = user_data.get('Documentary')
+            Horror = user_data.get('Horror')
+            Drama = user_data.get('Drama')
+            Action = user_data.get('Action')
+            Sci_Fi = user_data.get('Sci_Fi')
+            Mystery = user_data.get('Mystery')
+            Crime = user_data.get('Crime')
+            Family = user_data.get('Family')
+            Short = user_data.get('Short')
+            Western = user_data.get('Western')
+            Biography = user_data.get('Biography')
+            Music = user_data.get('Music')
+            History = user_data.get('History')
+
             if user_id and genres:
-                #messagebox.showinfo("Login Successful", f"Dobrodošao, User ID: {user_id}, Žanrovi: {genres}")
+                # Your existing code here
                 recommend_movies(genres)
                 more_button = customtkinter.CTkButton(movie_frame, text="Učitaj još",
                                                       command=lambda: recommend_more_movies(genres))
@@ -1304,6 +1559,7 @@ def show_profile_details():
     system_theme_button = customtkinter.CTkButton(setting_frame, text="Tema sistema", font=("Roboto", 16), anchor="w",
                                                   image=img, command=set_system_theme)
     system_theme_button.grid(row=2, column=2, pady=12, padx=12)
+
     if theme == "dark":
         dark_theme_button.configure(state="disabled")
     elif theme == "light":
@@ -1320,6 +1576,9 @@ def show_profile_details():
     green_theme_button = customtkinter.CTkButton(setting_frame, text="Zelena", font=("Roboto", 16), anchor="w",
                                                   image=green_image, command=set_green_theme)
     green_theme_button.grid(row=3, column=2, pady=12, padx=12)
+    switch = customtkinter.CTkSwitch(setting_frame, text="Progresivno učenje", variable=switch_var,
+                                     command=switch_event, onvalue="on", offvalue="off")
+    switch.grid(row=4, column=1, pady=12, padx=12)
     if color_theme == "dark-blue":
         darkblue_theme_button.configure(state="disabled")
     elif color_theme == "blue":
@@ -1356,7 +1615,7 @@ root2.geometry(f"{window_width}x{window_height}+{x_coordinate}+{y_coordinate}")
 
 root2.bind("<B1-Motion>", disable_window_move)
 
-customtkinter.CTkLabel(root2, text="Koji profil Koristite?", font=("Roboto", 40)).pack(padx=8, pady=8)
+customtkinter.CTkLabel(root2, text="Koji profil koristite?", font=("Roboto", 40)).pack(padx=8, pady=8)
 
 frame = customtkinter.CTkScrollableFrame(root2, orientation="horizontal")
 frame.pack(pady=12, padx=15, fill="both", expand=True)
@@ -1638,6 +1897,5 @@ lord_button.configure(command=lambda : start(lord_movies))
 harry_button.configure(command=lambda : start(harry_movies))
 fifty_button.configure(command=lambda : start(fifty_movies))
 conjuring_button.configure(command=lambda : start(conjuring_movies))
-
 
 root.mainloop()
